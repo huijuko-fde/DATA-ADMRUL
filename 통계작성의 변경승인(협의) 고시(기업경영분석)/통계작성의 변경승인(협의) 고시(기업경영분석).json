@@ -59,7 +59,14 @@
             "file_store_url": ""
           }
         ],
-        "provision_id": "admrul:통계작성의변경승인(협의)고시(기업경영분석)#DOC"
+        "provision_id": "admrul:통계작성의변경승인(협의)고시(기업경영분석)#DOC",
+        "scheduled": [
+          {
+            "enforcement_date": "20261231",
+            "change": "개정",
+            "content": "1. 통계의 명칭 : 기업경영분석 2. 통계작성기관의 명칭 : 한국은행 3. 통계작성승인(협의)번호 [작성승인(협의)일] : 제301001호 [1966.07.05.] 4. 통계작성의 변경 연월일 : 2026.12.31. 5. 통계작성의 변경 내용과 사유 :[그림]"
+          }
+        ]
       }
     ]
   },
@@ -105,8 +112,10 @@
   "addendum_provision_id": "admrul:통계작성의변경승인(협의)고시(기업경영분석)#ADDENDUM",
   "amendment_provision_id": "admrul:통계작성의변경승인(협의)고시(기업경영분석)#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261231"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "통계작성의 변경승인(협의) 고시(기업경영분석)/통계작성의 변경승인(협의) 고시(기업경영분석).json"
 }
