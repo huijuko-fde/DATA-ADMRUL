@@ -1619,8 +1619,14 @@
   "addendum_provision_id": "admrul:임금피크제지원금액등고시#ADDENDUM",
   "amendment_provision_id": "admrul:임금피크제지원금액등고시#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270101"
+  ],
+  "has_future": true,
+  "repeal_scheduled": {
+    "enforcement_date": "20270101",
+    "revision_type": "폐지"
+  },
+  "version_count": 2,
   "git_path": "임금피크제 지원금액등 고시/임금피크제 지원금액등 고시.json"
 }
