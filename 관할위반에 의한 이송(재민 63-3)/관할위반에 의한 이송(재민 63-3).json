@@ -1,0 +1,123 @@
+{
+  "law_id": "2114641",
+  "mst": "2200000103307",
+  "law_name": "관할위반에 의한 이송(재민 63-3)",
+  "law_abbr": "",
+  "law_type": "재판예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2114641",
+  "promulgation_no": "871-23",
+  "promulgation_date": "20020627",
+  "enforcement_date": "20020701",
+  "revision_date": "20020627",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "대법원(대법원)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0013",
+    "행정규칙명": "관할위반에 의한 이송(재민 63-3)",
+    "발령일자": "20020627",
+    "행정규칙종류": "재판예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "대법원",
+    "전화번호": "",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "9740000",
+    "생성일자": "20241125",
+    "행정규칙ID": "2114641",
+    "시행일자": "20020701",
+    "담당부서기관코드": "",
+    "발령번호": "871-23",
+    "행정규칙일련번호": "2200000103307",
+    "상위부처명": "대법원"
+  },
+  "amendment_text": "※비고※\n관할위반에 의한 이송(송민 63-3) 중 다음과 같이 개정한다.\n답. 중 \"민사소송법 제389조\"를 \"민사소송법 제419조\"로 하고, 참조 민사소송법 제389조를 삭제하고 다음과 같이 한다.\n참조\n민사소송법\n제419조(관할위반으로 말미암은 이송) 관할위반을 이유로 제1심 판결을 취소한 때에는 항소법원은 판결로 사건을 관할법원에 이송하여야 한다.\n부   칙\n이 예규는 2002. 7. 1.부터 시행한다.",
+  "revision_reason": "민사소송법, 민사집행법, 민사소송규칙 및 민사집행규칙 그 밖의 법령의 제·개정에 맞추어 관련 송무예규(일반송무 및 민사소송편)를 정비하고자 함",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "제419조",
+        "article_title": "관할위반으로 말미암은 이송",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제419조(관할위반으로 말미암은 이송) 관할위반을 이유로 제1심 판결을 취소한 때에는 항소법원은 판결로 사건을 관할법원에 이송하여야 한다.형사소송법\n제367조 관할인정이 법률에 위반됨을 이유로 원심판결을 파기하는 때에는 판결로써 사건을 관할법원에 이송하여야 한다. 단, 항소법원이 그 사건의 제1심 관할권이 있는 때에는 제1심으로 심판하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제419조",
+            "source_clause": "제419조",
+            "link_text": "제419조",
+            "line_text": "",
+            "target_law_name": "관할위반에 의한 이송(재민 63-3)",
+            "target_article_no": "제419조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2114641",
+            "target_url": "https://www.law.go.kr/행정규칙/관할위반에 의한 이송(재민 63-3)/제419조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:관할위반에의한이송(재민63-3)#JO0419",
+            "reference_id": "admrul:관할위반에의한이송(재민63-3)#JO0419",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "관할위반에 의한 이송(재민 63-3)/관할위반에 의한 이송(재민 63-3).json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:관할위반에의한이송(재민63-3)#JO0419"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20020627",
+      "promulgation_no": "871",
+      "content": "부   칙(2002. 6. 27. 제871호)이 예규는 2002. 7. 1.부터 시행한다.",
+      "provision_id": "admrul:관할위반에의한이송(재민63-3)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000103307",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20020701"
+    }
+  ],
+  "appendices": [],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "internal_ref": 1
+    },
+    "articles_total": 1,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/관할위반에 의한 이송(재민 63-3)"
+  },
+  "provision_id": "admrul:관할위반에의한이송(재민63-3)#DOC",
+  "addendum_provision_id": "admrul:관할위반에의한이송(재민63-3)#ADDENDUM",
+  "amendment_provision_id": "admrul:관할위반에의한이송(재민63-3)#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "관할위반에 의한 이송(재민 63-3)/관할위반에 의한 이송(재민 63-3).json"
+}
