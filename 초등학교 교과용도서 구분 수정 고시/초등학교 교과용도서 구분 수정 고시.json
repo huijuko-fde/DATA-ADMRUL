@@ -83,6 +83,18 @@
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20220301"
+    },
+    {
+      "promulgation_date": "20221229",
+      "promulgation_no": "2022-35",
+      "content": "부칙 (초ㆍ중등학교 교과용도서 구분 고시)<제2022-35호, 2022. 12. 29.>1. 및 2. 생략3. 교육부고시 제2019-195호(2019. 8. 30.), 교육부고시 제2020-241호(2020. 10. 26.)의 교과용도서 구분 고시는 2027년 2월 28일로 폐지한다.",
+      "provision_id": "admrul:초등학교교과용도서구분수정고시#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2200000080719",
+      "source_version_uid": "",
+      "source_revision_type": "타법폐지",
+      "version_enforcement_date": "20270228",
+      "enforcement_date": "20270228"
     }
   ],
   "appendices": [],
@@ -134,8 +146,14 @@
   "addendum_provision_id": "admrul:초등학교교과용도서구분수정고시#ADDENDUM",
   "amendment_provision_id": "admrul:초등학교교과용도서구분수정고시#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270228"
+  ],
+  "has_future": true,
+  "repeal_scheduled": {
+    "enforcement_date": "20270228",
+    "revision_type": "타법폐지"
+  },
+  "version_count": 2,
   "git_path": "초등학교 교과용도서 구분 수정 고시/초등학교 교과용도서 구분 수정 고시.json"
 }
