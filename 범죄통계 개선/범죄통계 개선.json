@@ -261,7 +261,20 @@
       }
     ]
   },
-  "addenda": [],
+  "addenda": [
+    {
+      "promulgation_date": "20261002",
+      "promulgation_no": "1564",
+      "content": "부칙 <제1564호, 2026. 10. 2.>이 예규는 2027. 1. 1. 시행한다.",
+      "provision_id": "admrul:범죄통계개선#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000286470",
+      "source_version_uid": "",
+      "source_revision_type": "폐지",
+      "version_enforcement_date": "20270101",
+      "enforcement_date": "20270101"
+    }
+  ],
   "appendices": [],
   "attachments": [
     {
@@ -303,8 +316,14 @@
   "addendum_provision_id": "admrul:범죄통계개선#ADDENDUM",
   "amendment_provision_id": "admrul:범죄통계개선#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270101"
+  ],
+  "has_future": true,
+  "repeal_scheduled": {
+    "enforcement_date": "20270101",
+    "revision_type": "폐지"
+  },
+  "version_count": 2,
   "git_path": "범죄통계 개선/범죄통계 개선.json"
 }
