@@ -59,7 +59,14 @@
             "file_store_url": ""
           }
         ],
-        "provision_id": "admrul:통계작성의변경승인(협의)고시(춘천시전략작물실태조사)#DOC"
+        "provision_id": "admrul:통계작성의변경승인(협의)고시(춘천시전략작물실태조사)#DOC",
+        "scheduled": [
+          {
+            "enforcement_date": "20280111",
+            "change": "개정",
+            "content": "1. 통계의 명칭 : 춘천시전략작물실태조사 2. 통계작성기관의 명칭 : 강원특별자치도 춘천시 3. 통계작성승인(협의)번호 [작성승인(협의)일] : 제651006호 [2019.11.19.] 4. 통계작성의 변경 연월일 : 2028.01.11. 5. 통계작성의 변경 내용과 사유 :[그림]"
+          }
+        ]
       }
     ]
   },
@@ -105,8 +112,10 @@
   "addendum_provision_id": "admrul:통계작성의변경승인(협의)고시(춘천시전략작물실태조사)#ADDENDUM",
   "amendment_provision_id": "admrul:통계작성의변경승인(협의)고시(춘천시전략작물실태조사)#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20280111"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "통계작성의 변경승인(협의) 고시(춘천시전략작물실태조사)/통계작성의 변경승인(협의) 고시(춘천시전략작물실태조사).json"
 }
