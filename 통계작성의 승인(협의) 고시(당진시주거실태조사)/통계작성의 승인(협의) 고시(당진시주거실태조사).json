@@ -49,7 +49,14 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:통계작성의승인(협의)고시(당진시주거실태조사)#DOC"
+        "provision_id": "admrul:통계작성의승인(협의)고시(당진시주거실태조사)#DOC",
+        "scheduled": [
+          {
+            "enforcement_date": "20270831",
+            "change": "개정",
+            "content": "1. 통계의 명칭 : 당진시주거실태조사 2. 통계작성기관의 명칭 : 충청남도 당진시 3. 통계작성승인(협의)번호 [작성승인(협의)일] : 제705004호 [2021.07.29.] 4. 통계작성의 변경 연월일 : 2027.08.31. 5. 통계작성의 변경 내용과 사유 :[그림]"
+          }
+        ]
       }
     ]
   },
@@ -95,8 +102,10 @@
   "addendum_provision_id": "admrul:통계작성의승인(협의)고시(당진시주거실태조사)#ADDENDUM",
   "amendment_provision_id": "admrul:통계작성의승인(협의)고시(당진시주거실태조사)#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270831"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "통계작성의 승인(협의) 고시(당진시주거실태조사)/통계작성의 승인(협의) 고시(당진시주거실태조사).json"
 }
