@@ -121,8 +121,10 @@
   "addendum_provision_id": "admrul:철도시설설치및유지관리기준(KDS479010)#ADDENDUM",
   "amendment_provision_id": "admrul:철도시설설치및유지관리기준(KDS479010)#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270318"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "철도시설 설치 및 유지관리기준(KDS 47 90 10)/철도시설 설치 및 유지관리기준(KDS 47 90 10).json"
 }
