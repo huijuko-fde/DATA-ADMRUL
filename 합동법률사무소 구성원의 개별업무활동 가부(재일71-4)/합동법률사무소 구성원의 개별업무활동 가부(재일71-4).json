@@ -1,0 +1,122 @@
+{
+  "law_id": "2113315",
+  "mst": "2200000101439",
+  "law_name": "합동법률사무소 구성원의 개별업무활동 가부(재일71-4)",
+  "law_abbr": "",
+  "law_type": "재판예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2113315",
+  "promulgation_no": "871-29",
+  "promulgation_date": "20020627",
+  "enforcement_date": "20020701",
+  "revision_date": "20020627",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "대법원(대법원)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0013",
+    "행정규칙명": "합동법률사무소 구성원의 개별업무활동 가부(재일71-4)",
+    "발령일자": "20020627",
+    "행정규칙종류": "재판예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "대법원",
+    "전화번호": "",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "9740000",
+    "생성일자": "20241125",
+    "행정규칙ID": "2113315",
+    "시행일자": "20020701",
+    "담당부서기관코드": "",
+    "발령번호": "871-29",
+    "행정규칙일련번호": "2200000101439",
+    "상위부처명": "대법원"
+  },
+  "amendment_text": "※비고※\n합동법률사무소 구성원의 개별업무활동 가부(송일 71-4) 중 다음과 같이 개정한다.\n본문 중  \"변호사법 제48조의2, 제48조의4, 제48조의6, 제24조\" 를  \"변호사법 제59조, 제61조, 제63조, 제31조\" 로 한다.\n부   칙\n이 예규는 2002. 7. 1.부터 시행한다.",
+  "revision_reason": "민사소송법, 민사집행법, 민사소송규칙 및 민사집행규칙 그 밖의 법령의 제·개정에 맞추어 관련 송무예규(일반송무 및 민사소송편)를 정비하고자 함",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "문.간이절차에의한민사분쟁사건처리특례법\n제9조(편·주 현: 변호사법 제59조, 제61조)에 의하여 설립된 합동법률사무소의 구성원인 변호사의 업무처리에 관하여 다음과 같이 양설이 있어 질의하니 교시바랍니다.1. 동법\n제9조(편·주 현: 변호사법 제59조, 제63조)의 \"변호사가 합동하여 법률사무에 종사할 것을 약정하고\" 라고 규정한 입법취지는 한 사무소의 구성원 전원이 합동하여 업무처리하는 것이 원칙이므로 구성원 개개인이 개별적인 업무활동을 할 수 없는 것이다. 만약 개별적인 업무처리도 무방하다고 할 경우에는 한 사무소의 구성원간에 민사사건 쌍방대리도 성립된다고 보아야 하므로 부당한 것임.2. 동법\n제9조(편·주 현: 변호사법 제59조, 제63조)의 합동사무소 설립목적은 단지 동법\n제11조(편·주 현: 변호사법 제59조)의 \"공증업무\" 를 행할 수 있도록 규정한 것이므로 공증업무 이외의 일반법률사무는 변호사 개개인이 각기 개별적으로 독립하여 업무처리할 수 있는 것이므로 합동사무소 구성원간에 쌍방대리 문제조차 성립되지 않는 것임.답.간이절차에의한민사분쟁사건처리특례법\n제16조(편·주 현: 변호사법 제63조) 및 변호사법 제16조 제1호(편·주 현:제31조)에 의하여 동일 합동법률사무소의 구성원인 변호사 상호간에는 대립당사자인 원,피고의 소송대리인이 될 수 없는 것으로 보아 귀문 \"1설\" 을 취함이 타당하다고 사료합니다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "동법",
+            "line_text": "",
+            "target_law_name": "합동법률사무소 구성원의 개별업무활동 가부(재일71-4)",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2113315",
+            "target_url": "https://www.law.go.kr/행정규칙/합동법률사무소 구성원의 개별업무활동 가부(재일71-4)",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:합동법률사무소구성원의개별업무활동가부(재일71-4)#DOC",
+            "reference_id": "admrul:합동법률사무소구성원의개별업무활동가부(재일71-4)#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "합동법률사무소 구성원의 개별업무활동 가부(재일71-4)/합동법률사무소 구성원의 개별업무활동 가부(재일71-4).json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:합동법률사무소구성원의개별업무활동가부(재일71-4)#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20020627",
+      "promulgation_no": "871",
+      "content": "부   칙(2002. 6. 27. 제871호)이 예규는 2002. 7. 1.부터 시행한다.",
+      "provision_id": "admrul:합동법률사무소구성원의개별업무활동가부(재일71-4)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000101439",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20020701"
+    }
+  ],
+  "appendices": [],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "internal_ref": 1
+    },
+    "articles_total": 1,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/합동법률사무소 구성원의 개별업무활동 가부(재일71-4)"
+  },
+  "provision_id": "admrul:합동법률사무소구성원의개별업무활동가부(재일71-4)#DOC",
+  "addendum_provision_id": "admrul:합동법률사무소구성원의개별업무활동가부(재일71-4)#ADDENDUM",
+  "amendment_provision_id": "admrul:합동법률사무소구성원의개별업무활동가부(재일71-4)#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "합동법률사무소 구성원의 개별업무활동 가부(재일71-4)/합동법률사무소 구성원의 개별업무활동 가부(재일71-4).json"
+}
