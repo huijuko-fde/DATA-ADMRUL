@@ -495,6 +495,18 @@
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260701"
+    },
+    {
+      "promulgation_date": "20260918",
+      "promulgation_no": "62419",
+      "content": "부칙 <제62419호, 2026. 9. 18.>제1조(시행일) 이 고시는 고시 후 3개월이 경과한 날부터 시행한다.제2조(경과조치) 이 고시의 시행에 따라 신규로 지정된 인체등유해성물질을 고시 시행일 이전부터 취급하는 자는 「화학물질관리법」(이하 “화관법”이라 한다)에 따른 다음 각 호의 사항에 대하여 각 호에서 정한 날짜 이내에 해당 사항을 준수하여야 한다.1. 화관법 제9조에 따른 화학물질 확인: 2027년 7월 1일2. 화관법 제16조에 따른 유해화학물질에 관한 표시: 2027년 7월 1일3. 화관법 제20조에 따른 인체등유해성물질 수입신고: 2027년 7월 1일4. 화관법 제29조의2에 따른 유해화학물질 등 판매자의 고지의무: 2027년 7월 1일5. 화관법 제23조에 따른 화학사고예방관리계획서의 작성ㆍ제출: 2029년 1월 1일6. 화관법 제28조에 따른 유해화학물질 영업허가 및 영업신고: 2029년 1월 1일7. 화관법 제13조 및 같은 법 시행규칙 별표 1에 따른 유해화학물질의 취급기준: 2028년 1월 1일8. 화관법 제24조 및 같은 법 시행규칙 별표 5에 따른 유해화학물질 취급시설 설치 및 관리기준: 2031년 1월 1일",
+      "provision_id": "admrul:인체급성유해성물질,인체만성유해성물질및생태유해성물질의지정고시#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000285142",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261219",
+      "enforcement_date": "20261219"
     }
   ],
   "appendices": [
@@ -590,8 +602,10 @@
   "addendum_provision_id": "admrul:인체급성유해성물질,인체만성유해성물질및생태유해성물질의지정고시#ADDENDUM",
   "amendment_provision_id": "admrul:인체급성유해성물질,인체만성유해성물질및생태유해성물질의지정고시#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261219"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "인체급성유해성물질, 인체만성유해성물질 및 생태유해성물질의 지정고시/인체급성유해성물질, 인체만성유해성물질 및 생태유해성물질의 지정고시.json"
 }
