@@ -9,10 +9,10 @@
   "adm_uid": "admrul:62551",
   "promulgation_no": "2026-69",
   "promulgation_date": "20260930",
-  "enforcement_date": "20260930",
+  "enforcement_date": "20261231",
   "revision_date": "20260930",
   "revision_type": "일부개정",
-  "is_current": true,
+  "is_current": false,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "식품의약품안전처(위생용품정책과)",
@@ -27,9 +27,9 @@
     "전화번호": "043-719-1734",
     "제개정구분명": "일부개정",
     "소관부처코드": "1471000",
-    "생성일자": "20261008",
+    "생성일자": "20261016",
     "행정규칙ID": "62551",
-    "시행일자": "20260930",
+    "시행일자": "20261231",
     "담당부서기관코드": "1471241",
     "발령번호": "2026-69",
     "행정규칙일련번호": "2100000285738",
@@ -499,7 +499,7 @@
       "source_mst": "2100000285738",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260930"
+      "version_enforcement_date": "20261231"
     },
     {
       "promulgation_date": "20181030",
@@ -510,7 +510,7 @@
       "source_mst": "2100000285738",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260930"
+      "version_enforcement_date": "20261231"
     },
     {
       "promulgation_date": "20200902",
@@ -521,7 +521,7 @@
       "source_mst": "2100000285738",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260930"
+      "version_enforcement_date": "20261231"
     },
     {
       "promulgation_date": "20211223",
@@ -532,7 +532,7 @@
       "source_mst": "2100000285738",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260930"
+      "version_enforcement_date": "20261231"
     },
     {
       "promulgation_date": "20220908",
@@ -543,7 +543,7 @@
       "source_mst": "2100000285738",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260930"
+      "version_enforcement_date": "20261231"
     },
     {
       "promulgation_date": "20250527",
@@ -554,7 +554,7 @@
       "source_mst": "2100000285738",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260930"
+      "version_enforcement_date": "20261231"
     },
     {
       "promulgation_date": "20260930",
@@ -565,7 +565,7 @@
       "source_mst": "2100000285738",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260930"
+      "version_enforcement_date": "20261231"
     }
   ],
   "appendices": [
@@ -677,7 +677,7 @@
   "provision_id": "admrul:위생용품의표시기준#DOC",
   "addendum_provision_id": "admrul:위생용품의표시기준#ADDENDUM",
   "amendment_provision_id": "admrul:위생용품의표시기준#AMENDMENT",
-  "is_future": false,
+  "is_future": true,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
