@@ -81,7 +81,20 @@
       }
     ]
   },
-  "addenda": [],
+  "addenda": [
+    {
+      "promulgation_date": "20221229",
+      "promulgation_no": "2022-36",
+      "content": "부칙 (특수교육 교과용도서 구분 고시)<제2022-36호, 2022. 12. 29.>1. 및 2. 생략3. 교육부고시 제2016-87호(2016. 1. 12.)의 교과용도서 구분 고시는 2027년 2월 28일로 폐지한다.",
+      "provision_id": "admrul:특수교육초중고등학교교과용도서국정구분#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2200000080653",
+      "source_version_uid": "",
+      "source_revision_type": "타법폐지",
+      "version_enforcement_date": "20270228",
+      "enforcement_date": "20270228"
+    }
+  ],
   "appendices": [],
   "attachments": [
     {
@@ -115,8 +128,14 @@
   "addendum_provision_id": "admrul:특수교육초중고등학교교과용도서국정구분#ADDENDUM",
   "amendment_provision_id": "admrul:특수교육초중고등학교교과용도서국정구분#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270228"
+  ],
+  "has_future": true,
+  "repeal_scheduled": {
+    "enforcement_date": "20270228",
+    "revision_type": "타법폐지"
+  },
+  "version_count": 2,
   "git_path": "특수교육 초·중·고등학교 교과용도서 국정 구분/특수교육 초·중·고등학교 교과용도서 국정 구분.json"
 }
