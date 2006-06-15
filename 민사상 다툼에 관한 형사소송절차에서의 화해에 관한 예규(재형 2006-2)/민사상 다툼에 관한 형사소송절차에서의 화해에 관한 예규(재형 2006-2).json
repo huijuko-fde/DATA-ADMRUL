@@ -1,6 +1,6 @@
 {
   "law_id": "2114325",
-  "mst": "2200000102857",
+  "mst": "2200000109257",
   "law_name": "민사상 다툼에 관한 형사소송절차에서의 화해에 관한 예규(재형 2006-2)",
   "law_abbr": "",
   "law_type": "재판예규",
@@ -23,16 +23,16 @@
     "행정규칙종류": "재판예규",
     "제개정구분코드": "200401",
     "조문형식여부": "N",
-    "소관부처명": "대법원",
+    "소관부처명": "",
     "전화번호": "",
     "제개정구분명": "제정",
     "소관부처코드": "9740000",
-    "생성일자": "20241125",
+    "생성일자": "20261014",
     "행정규칙ID": "2114325",
     "시행일자": "20060615",
     "담당부서기관코드": "",
     "발령번호": "1080",
-    "행정규칙일련번호": "2200000102857",
+    "행정규칙일련번호": "2200000109257",
     "상위부처명": "대법원"
   },
   "amendment_text": "",
@@ -96,7 +96,7 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/flDownload.do?flSeq=145618419&gubun=ESTABLISHRULEIMG",
+            "url": "https://www.law.go.kr/flDownload.do?flSeq=170567377&gubun=ESTABLISHRULEIMG",
             "seq": "",
             "filename": "제5조_1.gif",
             "file_dir": "본문이미지",
@@ -210,7 +210,7 @@
       "content": "부  칙이 예규는 2006. 6. 15.부터 시행한다.",
       "provision_id": "admrul:민사상다툼에관한형사소송절차에서의화해에관한예규(재형2006-2)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000102857",
+      "source_mst": "2200000109257",
       "source_version_uid": "",
       "source_revision_type": "제정",
       "version_enforcement_date": "20060615"
