@@ -1,0 +1,91 @@
+{
+  "law_id": "2006074",
+  "mst": "70236",
+  "law_name": "국민·공무원 제안 활성화 지침",
+  "law_abbr": "",
+  "law_type": "지침",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2006074",
+  "promulgation_no": "2008-0",
+  "promulgation_date": "20080806",
+  "enforcement_date": "20080806",
+  "revision_date": "20080806",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "행정안전부(국민참여정책과)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0005",
+    "행정규칙명": "국민·공무원 제안 활성화 지침",
+    "발령일자": "20080806",
+    "행정규칙종류": "지침",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "행정안전부",
+    "전화번호": "044-205-2412",
+    "제개정구분명": "제정",
+    "소관부처코드": "1741000",
+    "생성일자": "20260907",
+    "행정규칙ID": "2006074",
+    "시행일자": "20080806",
+    "담당부서기관코드": "",
+    "발령번호": "2008-0",
+    "행정규칙일련번호": "70236",
+    "상위부처명": "행정안전부"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 0,
+    "articles": []
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "080424-국민공무원제안 활성화지침(책자용).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169016567",
+      "filename": "080424-국민공무원제안 활성화지침(책자용).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/080424-국민공무원제안 활성화지침(책자용).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "080424-국민공무원제안 활성화지침(책자용).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169016571",
+      "filename": "080424-국민공무원제안 활성화지침(책자용).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/080424-국민공무원제안 활성화지침(책자용).pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 0,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/국민·공무원 제안 활성화 지침"
+  },
+  "provision_id": "admrul:국민공무원제안활성화지침#DOC",
+  "addendum_provision_id": "admrul:국민공무원제안활성화지침#ADDENDUM",
+  "amendment_provision_id": "admrul:국민공무원제안활성화지침#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "국민·공무원 제안 활성화 지침/국민·공무원 제안 활성화 지침.json"
+}
