@@ -1,0 +1,104 @@
+{
+  "law_id": "2001469",
+  "mst": "64350",
+  "law_name": "등록문화재 관리단체 지정",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2001469",
+  "promulgation_no": "2009-43",
+  "promulgation_date": "20090602",
+  "enforcement_date": "20090602",
+  "revision_date": "20090602",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국가유산청(근대문화재과)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "등록문화재 관리단체 지정",
+    "발령일자": "20090602",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "N",
+    "소관부처명": "국가유산청",
+    "전화번호": "042-481-4881",
+    "제개정구분명": "제정",
+    "소관부처코드": "1833100",
+    "생성일자": "20200221",
+    "행정규칙ID": "2001469",
+    "시행일자": "20090602",
+    "담당부서기관코드": "1550000",
+    "발령번호": "2009-43",
+    "행정규칙일련번호": "64350",
+    "상위부처명": "국가유산청"
+  },
+  "amendment_text": "⊙문화재청 고시 제2009-43호\n「문화재보호법」 제10조, 제16조, 제47조, 제48조 및 제53조에 따라 등록문화재 제270호 “반야월역사” 등 2건의 등록문화재 관리단체를 다음과 같이 지정하여 고시합니다.\n2009년 6월 2일\n문화재청장\n등록문화재 관리단체 지정\n[본문 생략]",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "1. 고 시 명 : 등록문화재 관리단체 지정2. 고시내용[그림]3. 변경등록일자 : 관보 고시일4. 참고사항등록문화재에 관하여 궁금하신 사항은 「문화재 정보센터(http://info.cha.go.kr)」의 ‘등록문화재’에서 열람하실 수 있습니다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=5308549",
+            "seq": "5308549",
+            "filename": "전문_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:등록문화재관리단체지정#DOC"
+      }
+    ]
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "[고시][기타]문화재청고시43호(등록문화재관리단체지정).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=1771666",
+      "filename": "[고시][기타]문화재청고시43호(등록문화재관리단체지정).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/[고시][기타]문화재청고시43호(등록문화재관리단체지정).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/등록문화재 관리단체 지정"
+  },
+  "provision_id": "admrul:등록문화재관리단체지정#DOC",
+  "addendum_provision_id": "admrul:등록문화재관리단체지정#ADDENDUM",
+  "amendment_provision_id": "admrul:등록문화재관리단체지정#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "등록문화재 관리단체 지정/등록문화재 관리단체 지정.json"
+}
