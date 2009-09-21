@@ -1,0 +1,133 @@
+{
+  "law_id": "34642",
+  "mst": "2000000010732",
+  "law_name": "이·취임식 식순",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:34642",
+  "promulgation_no": "466",
+  "promulgation_date": "20090921",
+  "enforcement_date": "20090921",
+  "revision_date": "20090921",
+  "revision_type": "폐지제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "대검찰청(운영지원과)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "이·취임식 식순",
+    "발령일자": "20090921",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200407",
+    "조문형식여부": "N",
+    "소관부처명": "대검찰청",
+    "전화번호": "02-3480-2196",
+    "제개정구분명": "폐지제정",
+    "소관부처코드": "1280000",
+    "생성일자": "20171214",
+    "행정규칙ID": "34642",
+    "시행일자": "20090921",
+    "담당부서기관코드": "1281276",
+    "발령번호": "466",
+    "행정규칙일련번호": "2000000010732",
+    "상위부처명": "대검찰청"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "[그림][그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=5084165",
+            "seq": "5084165",
+            "filename": "전문_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=5084166",
+            "seq": "5084166",
+            "filename": "전문_2.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_2.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:이취임식식순#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20090921",
+      "promulgation_no": "466",
+      "content": "부칙 <제466호,2009. 9. 21.>제1조(시행일) 이 예규는 2009. 9. 21.부터 시행한다.제2조(종전 예규의 폐지) 종전의 대검예규 222호는 2009. 9. 21. 이를 폐지한다.",
+      "provision_id": "admrul:이취임식식순#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2000000010732",
+      "source_version_uid": "",
+      "source_revision_type": "폐지제정",
+      "version_enforcement_date": "20090921"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "(대검예규 제466호) 이취임식식순.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=1802890",
+      "filename": "(대검예규 제466호) 이취임식식순.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(대검예규 제466호) 이취임식식순.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "이, 취임식 식순.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=1802891",
+      "filename": "이, 취임식 식순.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/이, 취임식 식순.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/이·취임식 식순"
+  },
+  "provision_id": "admrul:이취임식식순#DOC",
+  "addendum_provision_id": "admrul:이취임식식순#ADDENDUM",
+  "amendment_provision_id": "admrul:이취임식식순#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "이·취임식 식순/이·취임식 식순.json"
+}
