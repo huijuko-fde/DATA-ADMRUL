@@ -1,0 +1,140 @@
+{
+  "law_id": "35928",
+  "mst": "2000000015892",
+  "law_name": "폐수종말처리시설 방류수수질기준 변경지정(아산 탕정TC 일반산업단지)",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:35928",
+  "promulgation_no": "2011-20",
+  "promulgation_date": "20110223",
+  "enforcement_date": "20110223",
+  "revision_date": "20110223",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "기후에너지환경부(수생태보전과)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "폐수종말처리시설 방류수수질기준 변경지정(아산 탕정TC 일반산업단지)",
+    "발령일자": "20110223",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "기후에너지환경부",
+    "전화번호": "044-201-7046",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1482000",
+    "생성일자": "20230713",
+    "행정규칙ID": "35928",
+    "시행일자": "20110223",
+    "담당부서기관코드": "1480663",
+    "발령번호": "2011-20",
+    "행정규칙일련번호": "2000000015892",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "⊙환경부고시 제2011-20호\n「수질 및 수생태계 보전에 관한 법률」제12조 3항 및 동법 시행규칙 제26조 규정에 의거 환경부고시 제2009-61호(2009.4.16)를 다음과 같이 변경지정·고시합니다.\n2011년 2월 23일\n환 경 부 장 관\n폐수종말처리시설 방류수수질기준 변경지정·고시\n[본문 생략]\n부칙\n이 고시는 발령한 날부터 시행한다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "아산 탕정TC 일반산업단지 폐수종말처리시설에 대한 방류수수질기준에 시안화합물(CN) 항목을 추가하여 다음과 같이 변경한다.[그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=5435178",
+            "seq": "5435178",
+            "filename": "전문_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:폐수종말처리시설방류수수질기준변경지정(아산탕정TC일반산업단지)#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20110223",
+      "promulgation_no": "2011-20",
+      "content": "부칙 <제2011-20호,2011. 2. 23.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:폐수종말처리시설방류수수질기준변경지정(아산탕정TC일반산업단지)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2000000015892",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20110223"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "2009-61.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=131226677",
+      "filename": "2009-61.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/2009-61.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "2009-61.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=131226681",
+      "filename": "2009-61.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/2009-61.pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "2011-20.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=131226685",
+      "filename": "2011-20.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/2011-20.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "2011-20.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=131226689",
+      "filename": "2011-20.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/2011-20.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/폐수종말처리시설 방류수수질기준 변경지정(아산 탕정TC 일반산업단지)"
+  },
+  "provision_id": "admrul:폐수종말처리시설방류수수질기준변경지정(아산탕정TC일반산업단지)#DOC",
+  "addendum_provision_id": "admrul:폐수종말처리시설방류수수질기준변경지정(아산탕정TC일반산업단지)#ADDENDUM",
+  "amendment_provision_id": "admrul:폐수종말처리시설방류수수질기준변경지정(아산탕정TC일반산업단지)#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "폐수종말처리시설 방류수수질기준 변경지정(아산 탕정TC 일반산업단지)/폐수종말처리시설 방류수수질기준 변경지정(아산 탕정TC 일반산업단지).json"
+}
