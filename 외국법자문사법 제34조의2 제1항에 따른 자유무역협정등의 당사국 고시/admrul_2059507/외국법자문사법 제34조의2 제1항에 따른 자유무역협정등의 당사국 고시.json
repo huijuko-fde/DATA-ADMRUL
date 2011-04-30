@@ -49,7 +49,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:외국법자문사법제34조의2제1항에따른자유무역협정등의당사국고시#DOC"
+        "provision_id": "admrul:외국법자문사법제34조의2제1항에따른자유무역협정등의당사국고시:admrul_2059507#DOC"
       }
     ]
   },
@@ -83,12 +83,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/외국법자문사법 제34조의2 제1항에 따른 자유무역협정등의 당사국 고시"
   },
-  "provision_id": "admrul:외국법자문사법제34조의2제1항에따른자유무역협정등의당사국고시#DOC",
-  "addendum_provision_id": "admrul:외국법자문사법제34조의2제1항에따른자유무역협정등의당사국고시#ADDENDUM",
-  "amendment_provision_id": "admrul:외국법자문사법제34조의2제1항에따른자유무역협정등의당사국고시#AMENDMENT",
+  "provision_id": "admrul:외국법자문사법제34조의2제1항에따른자유무역협정등의당사국고시:admrul_2059507#DOC",
+  "addendum_provision_id": "admrul:외국법자문사법제34조의2제1항에따른자유무역협정등의당사국고시:admrul_2059507#ADDENDUM",
+  "amendment_provision_id": "admrul:외국법자문사법제34조의2제1항에따른자유무역협정등의당사국고시:admrul_2059507#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "외국법자문사법 제34조의2 제1항에 따른 자유무역협정등의 당사국 고시/외국법자문사법 제34조의2 제1항에 따른 자유무역협정등의 당사국 고시.json"
+  "git_path": "외국법자문사법 제34조의2 제1항에 따른 자유무역협정등의 당사국 고시/admrul_2059507/외국법자문사법 제34조의2 제1항에 따른 자유무역협정등의 당사국 고시.json"
 }
