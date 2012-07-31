@@ -1,0 +1,187 @@
+{
+  "law_id": "2051488",
+  "mst": "2000000078498",
+  "law_name": "자유무역지역 국유토지 및 건물 임대가격",
+  "law_abbr": "",
+  "law_type": "공고",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2051488",
+  "promulgation_no": "2012-378",
+  "promulgation_date": "20120731",
+  "enforcement_date": "20120731",
+  "revision_date": "20120731",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "산업통상부(정책기획팀)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0004",
+    "행정규칙명": "자유무역지역 국유토지 및 건물 임대가격",
+    "발령일자": "20120731",
+    "행정규칙종류": "공고",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "산업통상부",
+    "전화번호": "044-203-4612",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1451000",
+    "생성일자": "20181113",
+    "행정규칙ID": "2051488",
+    "시행일자": "20120731",
+    "담당부서기관코드": "",
+    "발령번호": "2012-378",
+    "행정규칙일련번호": "2000000078498",
+    "상위부처명": "산업통상부"
+  },
+  "amendment_text": "⊙지식경제부 공고 제2012-378호\n지식경제부 공고 제2011-378호(2011.7.26) 중 마산자유무역지역 건물 종업원 기숙사에 대한 임대가격을 다음과 같이 변경 공고합니다.\n2012년 7월 31일\n지식경제부장관\n자유무역지역 국유토지 및 건물 임대가격\n[그림]\n┌───┬───┬────────┬────────┬───┐\n│지역별│재산별│용 도 별        │m2당            │적용  │\n│      │      │                │월 임대가격(원) │기간  │\n│      │      │                ├────┬───┤      │\n│      │      │                │기존    │변경  │      │\n├───┼───┼────────┼────┼───┼───┤\n│      │      │                │        │      │      │\n│마산  │건물  │o 종업원 기숙사 │8,279   │3,015 │2012. │\n│자유  │      │                │(1실당) │(㎡당)│8.1   │\n│무역  │      │                │        │      │～    │\n│지역  │      │                │        │      │2013. │\n│      │      │                │        │      │7.31  │\n│      │      │                │        │      │      │\n│      │      │                │        │      │      │\n└───┴───┴────────┴────┴───┴───┘\n\n부칙\n1. (시행일) 이 공고는 공고일부터 시행한다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "[그림][그림][그림][그림][그림][그림][그림][그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=10742259",
+            "seq": "10742259",
+            "filename": "전문_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=10742239",
+            "seq": "10742239",
+            "filename": "전문_2.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_2.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=10742240",
+            "seq": "10742240",
+            "filename": "전문_3.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_3.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=10742241",
+            "seq": "10742241",
+            "filename": "전문_4.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_4.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=10742260",
+            "seq": "10742260",
+            "filename": "전문_5.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_5.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=10742262",
+            "seq": "10742262",
+            "filename": "전문_6.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_6.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=10742261",
+            "seq": "10742261",
+            "filename": "전문_7.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_7.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=10742263",
+            "seq": "10742263",
+            "filename": "전문_8.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_8.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:자유무역지역국유토지및건물임대가격#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20120731",
+      "promulgation_no": "2012-378",
+      "content": "부칙 <제2012-378호,2012. 7. 31.>1. (시행일) 이 공고는 공고일부터 시행한다.",
+      "provision_id": "admrul:자유무역지역국유토지및건물임대가격#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2000000078498",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20120731"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "자유무역지역 국유토지 및 건물 임대가격 (전문).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=10742220",
+      "filename": "자유무역지역 국유토지 및 건물 임대가격 (전문).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/자유무역지역 국유토지 및 건물 임대가격 (전문).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "자유무역지역 국유토지 및 건물 임대가격 (제개정문).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=10742221",
+      "filename": "자유무역지역 국유토지 및 건물 임대가격 (제개정문).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/자유무역지역 국유토지 및 건물 임대가격 (제개정문).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/자유무역지역 국유토지 및 건물 임대가격"
+  },
+  "provision_id": "admrul:자유무역지역국유토지및건물임대가격#DOC",
+  "addendum_provision_id": "admrul:자유무역지역국유토지및건물임대가격#ADDENDUM",
+  "amendment_provision_id": "admrul:자유무역지역국유토지및건물임대가격#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "자유무역지역 국유토지 및 건물 임대가격/자유무역지역 국유토지 및 건물 임대가격.json"
+}
