@@ -68,7 +68,7 @@
             "file_store_url": ""
           }
         ],
-        "provision_id": "admrul:지역특화발전특구특구계획변경#DOC"
+        "provision_id": "admrul:지역특화발전특구특구계획변경:admrul_45576#DOC"
       }
     ]
   },
@@ -110,12 +110,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/지역특화발전특구 특구계획 변경"
   },
-  "provision_id": "admrul:지역특화발전특구특구계획변경#DOC",
-  "addendum_provision_id": "admrul:지역특화발전특구특구계획변경#ADDENDUM",
-  "amendment_provision_id": "admrul:지역특화발전특구특구계획변경#AMENDMENT",
+  "provision_id": "admrul:지역특화발전특구특구계획변경:admrul_45576#DOC",
+  "addendum_provision_id": "admrul:지역특화발전특구특구계획변경:admrul_45576#ADDENDUM",
+  "amendment_provision_id": "admrul:지역특화발전특구특구계획변경:admrul_45576#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "지역특화발전특구 특구계획 변경/지역특화발전특구 특구계획 변경.json"
+  "git_path": "지역특화발전특구 특구계획 변경/admrul_45576/지역특화발전특구 특구계획 변경.json"
 }
