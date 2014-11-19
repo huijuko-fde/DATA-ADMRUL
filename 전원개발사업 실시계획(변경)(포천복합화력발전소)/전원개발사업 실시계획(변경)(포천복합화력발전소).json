@@ -1,0 +1,112 @@
+{
+  "law_id": "48289",
+  "mst": "2100000006702",
+  "law_name": "전원개발사업 실시계획(변경)(포천복합화력발전소)",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:48289",
+  "promulgation_no": "2014-215",
+  "promulgation_date": "20141119",
+  "enforcement_date": "20141119",
+  "revision_date": "20141119",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "기후에너지환경부(전력산업정책과)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "전원개발사업 실시계획(변경)(포천복합화력발전소)",
+    "발령일자": "20141119",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "산업통상부",
+    "전화번호": "044-203-3883",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1482000",
+    "생성일자": "20260616",
+    "행정규칙ID": "48289",
+    "시행일자": "20141119",
+    "담당부서기관코드": "1482000",
+    "발령번호": "2014-215",
+    "행정규칙일련번호": "2100000006702",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "⊙산업통상자원부고시제2014-215호\n지식경제부 고시 제2011-172호(2011.9.6.), 제2012-229호(2012.11.29.), 산업통상자원부 고시 제2013-33호(2013.5.23.), 제2014-100호(2014.6.23.)로 고시된 포천복합화력발전소 건설사업을 위한 전원개발사업 실시계획에 대하여 「전원개발촉진법」제5조제2항의 규정에 의하여 변경 신고된 내용을 다음과 같이 고시하며, 동일건에 대하여 「토지이용규제기본법」 제8조 및 같은법 시행령 제7조의 규정에 의하여 다음과 같이 지형도면 고시합니다. 관계도서는 「토지이용규제기본법」제8조 및 같은법 시행령 제7조의 규정에 의거 토지이용규제정보시스템(http://luris.mltm.go.kr)에서 열람이 가능하고 포천파워(주) 해당 발전소에 비치하여 일반인에게 보입니다. 다만, 「국가 공간정보 보안 관리 규정」 제10조 및 제11조에 의거 전력·통신·가스 등 공공의 이익 및 안전과 밀접한 관계가 있는 국가기간시설이 포함된 지도는 공개제한 대상으로 분류되어 있어 도면에 표기하지 않습니다.\n2014년 11월 19일\n산업통상자원부장관\n전원개발사업 실시계획(변경)\n[본문 생략]",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "1. 사업의 명칭 : 포천복합화력발전소 건설사업 2. 사업시행자의 성명 및 주소가. 성   명 : 포천파워(주)나. 주   소 : 경기도 포천시 창수면 추동리 790 3. 변경사유 : 도시계획시설사업 공사완료에 따른 지적확정측량 중 실시계획에 반영된 도시계획시설(도로)와 도시계획시설(전기공급설비)의 선형이 불일치함에 따라 경기도 도시주택과 요청에 의거 도로재시공이 발생하여 사업기간이 변경(연장)됨 4. 변경내역?? 사업시행기간[그림]?? 기타 변경사항 없음",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=18748541",
+            "seq": "18748541",
+            "filename": "전문_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:전원개발사업실시계획(변경)(포천복합화력발전소)#DOC"
+      }
+    ]
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "산업통상자원부 고시 제2014-215호(포천복합화력발전소).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=18741167",
+      "filename": "산업통상자원부 고시 제2014-215호(포천복합화력발전소).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/산업통상자원부 고시 제2014-215호(포천복합화력발전소).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "산업통상자원부 고시 제2014-215호(포천복합화력발전소).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=18741166",
+      "filename": "산업통상자원부 고시 제2014-215호(포천복합화력발전소).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/산업통상자원부 고시 제2014-215호(포천복합화력발전소).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/전원개발사업 실시계획(변경)(포천복합화력발전소)"
+  },
+  "provision_id": "admrul:전원개발사업실시계획(변경)(포천복합화력발전소)#DOC",
+  "addendum_provision_id": "admrul:전원개발사업실시계획(변경)(포천복합화력발전소)#ADDENDUM",
+  "amendment_provision_id": "admrul:전원개발사업실시계획(변경)(포천복합화력발전소)#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "전원개발사업 실시계획(변경)(포천복합화력발전소)/전원개발사업 실시계획(변경)(포천복합화력발전소).json"
+}
