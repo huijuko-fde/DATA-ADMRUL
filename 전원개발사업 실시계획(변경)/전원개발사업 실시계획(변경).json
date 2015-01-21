@@ -1,0 +1,193 @@
+{
+  "law_id": "46068",
+  "mst": "2100000012315",
+  "law_name": "전원개발사업 실시계획(변경)",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:46068",
+  "promulgation_no": "2015-21",
+  "promulgation_date": "20150121",
+  "enforcement_date": "20150121",
+  "revision_date": "20150121",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "기후에너지환경부(전력망정책과)",
+    "담당자명": "권용균",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "전원개발사업 실시계획(변경)",
+    "발령일자": "20150121",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "산업통상부",
+    "전화번호": "044-203-5124",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1482000",
+    "생성일자": "20260616",
+    "행정규칙ID": "46068",
+    "시행일자": "20150121",
+    "담당부서기관코드": "1482000",
+    "발령번호": "2015-21",
+    "행정규칙일련번호": "2100000012315",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "⊙산업통상자원부고시제2015-21호\n산업통상자원부 고시 제2014-190호(’14.10.28)로 고시한 바 있는 154kV 만호분기 송전선로 건설사업에 대하여 다음과 같이 정정 고시하며, 동일건에 대하여 토지이용규제기본법 제8조 및 같은 법 시행령 제7조의 규정에 의하여 다음과 같이 지형도면 고시합니다. 관계도서는 토지이용규제기본법 제8조 및 같은 법 시행령 제7조의 규정에 의거 토지이용규제정보시스템(http://luris.mltm.go.kr)에서 열람이 가능하고 한국전력공사 해당 사업소에 비치하여 일반인에게 보입니다. 다만 국가지리정보 보안관리지침(지식경제부훈령 제50호) 제9조 및 제10조에 의거 전력·통신·가스 등 공공의 이익 및 안전과 밀접한 관계가 있는 국가기간시설이 포함된 지도는 공개제한 대상으로 분류되어 있어 도면에 표기하지 않습니다.\n2015년 1월 21일\n산업통상자원부장관\n전원개발사업 실시계획(변경)\n[본문 생략]",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "1. 사업의 명칭 : 154kV 만호분기 송전선로 건설사업 2. 사업시행자의 성명 및 주소 : 한국전력공사 사장 조환익서울특별시 강남구 영동대로 512 3. 정정사유 : 소유권 변동 및 지번합병, 소재지 오류에 따른 정정 4. 도시·군계획시설(전기공급설비) 결정(변경)조서ㅇ 선하부지[그림] 5. 변경수용·사용할 토지등의 명세[그림][그림][그림][그림][그림][그림][그림][그림][그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22334268",
+            "seq": "22334268",
+            "filename": "전문_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22334269",
+            "seq": "22334269",
+            "filename": "전문_2.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_2.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22334114",
+            "seq": "22334114",
+            "filename": "전문_3.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_3.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22334115",
+            "seq": "22334115",
+            "filename": "전문_4.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_4.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22334270",
+            "seq": "22334270",
+            "filename": "전문_5.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_5.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22334116",
+            "seq": "22334116",
+            "filename": "전문_6.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_6.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22334117",
+            "seq": "22334117",
+            "filename": "전문_7.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_7.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22334271",
+            "seq": "22334271",
+            "filename": "전문_8.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_8.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22334272",
+            "seq": "22334272",
+            "filename": "전문_9.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_9.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22334118",
+            "seq": "22334118",
+            "filename": "전문_10.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_10.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:전원개발사업실시계획(변경)#DOC"
+      }
+    ]
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "산업부 고시 2015-21호(154kV 만호분기 송전선로 건설사업).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=20848870",
+      "filename": "산업부 고시 2015-21호(154kV 만호분기 송전선로 건설사업).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/산업부 고시 2015-21호(154kV 만호분기 송전선로 건설사업).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "산업부 고시 2015-21호(154kV 만호분기 송전선로 건설사업).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=20848869",
+      "filename": "산업부 고시 2015-21호(154kV 만호분기 송전선로 건설사업).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/산업부 고시 2015-21호(154kV 만호분기 송전선로 건설사업).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/전원개발사업 실시계획(변경)"
+  },
+  "provision_id": "admrul:전원개발사업실시계획(변경)#DOC",
+  "addendum_provision_id": "admrul:전원개발사업실시계획(변경)#ADDENDUM",
+  "amendment_provision_id": "admrul:전원개발사업실시계획(변경)#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "전원개발사업 실시계획(변경)/전원개발사업 실시계획(변경).json"
+}
