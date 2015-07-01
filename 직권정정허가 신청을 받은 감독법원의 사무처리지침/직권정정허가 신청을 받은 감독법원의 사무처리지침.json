@@ -1,6 +1,6 @@
 {
   "law_id": "2114917",
-  "mst": "2200000101743",
+  "mst": "2200000109115",
   "law_name": "직권정정허가 신청을 받은 감독법원의 사무처리지침",
   "law_abbr": "",
   "law_type": "가족관계등록예규",
@@ -23,16 +23,16 @@
     "행정규칙종류": "가족관계등록예규",
     "제개정구분코드": "200403",
     "조문형식여부": "N",
-    "소관부처명": "대법원",
+    "소관부처명": "",
     "전화번호": "",
     "제개정구분명": "일부개정",
     "소관부처코드": "9740000",
-    "생성일자": "20241125",
+    "생성일자": "20261014",
     "행정규칙ID": "2114917",
     "시행일자": "20150701",
     "담당부서기관코드": "",
     "발령번호": "471",
-    "행정규칙일련번호": "2200000101743",
+    "행정규칙일련번호": "2200000109115",
     "상위부처명": "대법원"
   },
   "amendment_text": "직권정정허가 신청을 받은 감독법원의 사무처리지침 일부를 다음과 같이 개정한다.\n제1호 중 “시(구)ㆍ읍ㆍ면의ㆍ장”을 “시(구)ㆍ읍ㆍ면의ㆍ장 또는「가족관계의 등록 등에 관한 법률」제4조의2의 가족관계등록관(이하 ‘가족관계등록관’이라 한다)”으로 한다.\n제2호 중 (고무인 규격)을 다음과 같이 한다.\n제4호 중 “가족관계등록관서의장”을 “가족관계등록관서의 장 또는 가족관계등록관”으로 하고,?“시(구)?읍?면”을 “시(구)?읍?면 또는 재외국민 가족관계등록사무소”로 한다.\n부 칙\n이 예규는 2015년 7월 1일부터 시행한다.",
@@ -92,7 +92,7 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/flDownload.do?flSeq=145613867&gubun=ESTABLISHRULEIMG",
+            "url": "https://www.law.go.kr/flDownload.do?flSeq=170567145&gubun=ESTABLISHRULEIMG",
             "seq": "",
             "filename": "전문_1.gif",
             "file_dir": "본문이미지",
@@ -111,7 +111,7 @@
       "content": "부   칙(2015. 6. 10. 제471호)이 예규는 2015년 7월 1일부터 시행한다.",
       "provision_id": "admrul:직권정정허가신청을받은감독법원의사무처리지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000101743",
+      "source_mst": "2200000109115",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20150701"
@@ -122,7 +122,7 @@
       "content": "부   칙이 예규는 2008년 1월 1일부터 시행한다.",
       "provision_id": "admrul:직권정정허가신청을받은감독법원의사무처리지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000101743",
+      "source_mst": "2200000109115",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20150701"
@@ -138,11 +138,11 @@
       "content": "[별지서식]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145613869",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170567147",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145613869",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170567147",
           "name": "",
           "file_store_url": ""
         }
