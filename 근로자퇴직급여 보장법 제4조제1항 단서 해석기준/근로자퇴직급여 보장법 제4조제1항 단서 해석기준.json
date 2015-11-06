@@ -1,0 +1,170 @@
+{
+  "law_id": "22171",
+  "mst": "2100000031704",
+  "law_name": "근로자퇴직급여 보장법 제4조제1항 단서 해석기준",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:22171",
+  "promulgation_no": "2015-99",
+  "promulgation_date": "20151106",
+  "enforcement_date": "20151106",
+  "revision_date": "20151106",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "고용노동부(퇴직연금복지과)",
+    "담당자명": "이강연",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "근로자퇴직급여 보장법 제4조제1항 단서 해석기준",
+    "발령일자": "20151106",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "고용노동부",
+    "전화번호": "044-202-7557",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1492000",
+    "생성일자": "20260403",
+    "행정규칙ID": "22171",
+    "시행일자": "20151106",
+    "담당부서기관코드": "1494750",
+    "발령번호": "2015-99",
+    "행정규칙일련번호": "2100000031704",
+    "상위부처명": "고용노동부"
+  },
+  "amendment_text": "⊙고용노동부 예규 제2015-99호\n「근로자퇴직급여보장법 제4조제1항 단서 해석기준」 일부 개정를 다음과 같이 개정한다.\n2015년 11월 6일\n고용노동부장관\n「근로자퇴직급여보장법 제4조제1항 단서 해석기준」 일부 개정\n평균임금산정 특례 고시 일부를 다음과 같이 개정한다.\nⅡ. 행정사항의 재검토기한을 다음과 같이 한다.\n2. (재검토기한) 고용노동부 장관은 이 고시에 대하여 2016년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.\n부칙\n이 예규는 발령한 날부터 시행한다.",
+  "revision_reason": "◇ 개정이유\n○ 행정환경의 변화에 따라 주기적으로 행정규칙의 존속 여부를 재검토하도록 함으로써 행정의 현실적합성과 합리성을 높이려는 것임.\n◇ 주요내용\n○ 재검토기한 재설정",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "Ⅰ. 근로자퇴직급여 보장법 제4조제1항 단서 해석기준「근로자퇴직급여 보장법」 제4조제1항 단서의 \"근로기간이 1년 미만\" 이란 계속근로기간이 전체적으로 1년 미만인 경우를 말하는 것이지, 근로기간이 몇 년, 몇 월, 며칠인 경우에 1년에 못 미치는 몇 월, 며칠을 뜻하는 것이 아니므로 계속근로기간이 몇 년, 몇 월, 며칠인 경우에는 1년 미만의 단수인 몇 월, 며칠에 대하여도 해당 기간에 비례하여 퇴직금을 산정하고 지급해야 한다. Ⅱ. 행정사항1. 시행일이 고시는 발령한 날부터 시행한다.2. 재검토기한(3년)고용노동부 장관은 이 고시에 대하여 2016년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "「근로자퇴직급여 보장법」",
+            "line_text": "",
+            "target_law_name": "근로자퇴직급여 보장법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "22171",
+            "target_url": "https://www.law.go.kr/법령/근로자퇴직급여 보장법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:근로자퇴직급여보장법제4조제1항단서해석기준#DOC",
+            "reference_id": "law:근로자퇴직급여보장법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제4조제1항",
+            "line_text": "",
+            "target_law_name": "근로자퇴직급여 보장법",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "22171",
+            "target_url": "https://www.law.go.kr/법령/근로자퇴직급여 보장법/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:근로자퇴직급여보장법제4조제1항단서해석기준#DOC",
+            "reference_id": "law:근로자퇴직급여보장법#JO0004",
+            "target_repo": "LAW",
+            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:근로자퇴직급여보장법제4조제1항단서해석기준#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20071127",
+      "promulgation_no": "549",
+      "content": "부칙 <제549호,2007. 11. 27.>(시행일) 이 예규는 공포한 날부터 시행한다.",
+      "provision_id": "admrul:근로자퇴직급여보장법제4조제1항단서해석기준#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000031704",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20151106"
+    },
+    {
+      "promulgation_date": "20151106",
+      "promulgation_no": "2015-99",
+      "content": "부칙 <제2015-99호, 2015. 11. 6.>이 예규는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:근로자퇴직급여보장법제4조제1항단서해석기준#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000031704",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20151106"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "근로자퇴직급여_보장법_제4조제1항_단서_해석기준(예규_제2015-99호¸_11..hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=163056863",
+      "filename": "근로자퇴직급여_보장법_제4조제1항_단서_해석기준(예규_제2015-99호¸_11..hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/근로자퇴직급여_보장법_제4조제1항_단서_해석기준(예규_제2015-99호¸_11..hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "근로자퇴직급여_보장법_제4조제1항_단서_해석기준(예규_제2015-99호¸_11..pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=163056867",
+      "filename": "근로자퇴직급여_보장법_제4조제1항_단서_해석기준(예규_제2015-99호¸_11..pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/근로자퇴직급여_보장법_제4조제1항_단서_해석기준(예규_제2015-99호¸_11..pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 2,
+    "by_category": {
+      "법령": 2
+    },
+    "by_relation_type": {
+      "citation": 2
+    },
+    "articles_total": 1,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/근로자퇴직급여 보장법 제4조제1항 단서 해석기준"
+  },
+  "provision_id": "admrul:근로자퇴직급여보장법제4조제1항단서해석기준#DOC",
+  "addendum_provision_id": "admrul:근로자퇴직급여보장법제4조제1항단서해석기준#ADDENDUM",
+  "amendment_provision_id": "admrul:근로자퇴직급여보장법제4조제1항단서해석기준#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "근로자퇴직급여 보장법 제4조제1항 단서 해석기준/근로자퇴직급여 보장법 제4조제1항 단서 해석기준.json"
+}
