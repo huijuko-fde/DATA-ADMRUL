@@ -1,0 +1,140 @@
+{
+  "law_id": "53485",
+  "mst": "2100000054176",
+  "law_name": "국가기반시설 지정",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:53485",
+  "promulgation_no": "2016-1",
+  "promulgation_date": "20160107",
+  "enforcement_date": "20160107",
+  "revision_date": "20160107",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "경찰청(대테러위기관리과)",
+    "담당자명": "인치욱",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "국가기반시설 지정",
+    "발령일자": "20160107",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "N",
+    "소관부처명": "경찰청",
+    "전화번호": "02-3150-1641",
+    "제개정구분명": "제정",
+    "소관부처코드": "1320000",
+    "생성일자": "20240110",
+    "행정규칙ID": "53485",
+    "시행일자": "20160107",
+    "담당부서기관코드": "1335280",
+    "발령번호": "2016-1",
+    "행정규칙일련번호": "2100000054176",
+    "상위부처명": "경찰청"
+  },
+  "amendment_text": "⊙경찰청 고시 제2016-1호\n「재난 및 안전관리 기본법」 제26조, 같은 법 시행령 제30조제1항 및 별표 2에 따라 국가기반시설을 다음과 같이 지정 고시합니다.\n2016년 1월 7일\n경찰청장\n국가기반시설 지정\n[본문 생략]\n부칙\n이 고시는 고시한 날부터 시행한다.",
+  "revision_reason": "◇ 제정이유 및 주요 내용\n「재난 및 안전관리 기본법」 제26조, 같은 법 시행령 제30조제1항 및 별표 2에 따라 경찰청이 국가기반시설로 신규지정됨에 따라 경찰청 국가기반시설을 신규로 지정·고시하려는 것임",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "국가기반시설 지정 대상[그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25337852",
+            "seq": "25337852",
+            "filename": "전문_1.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.bmp",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:국가기반시설지정#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20160107",
+      "promulgation_no": "2016-1",
+      "content": "부칙 <제2016-1호,2016. 1. 7.>이 고시는 고시한 날부터 시행한다.",
+      "provision_id": "admrul:국가기반시설지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000054176",
+      "source_version_uid": "",
+      "source_revision_type": "제정",
+      "version_enforcement_date": "20160107"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "국가기반시설_지정_고시 제정문(제2016-1호_2016.01.07).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=136759951",
+      "filename": "국가기반시설_지정_고시 제정문(제2016-1호_2016.01.07).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국가기반시설_지정_고시 제정문(제2016-1호_2016.01.07).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "국가기반시설_지정_고시 제정문(제2016-1호_2016.01.07).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=136759955",
+      "filename": "국가기반시설_지정_고시 제정문(제2016-1호_2016.01.07).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국가기반시설_지정_고시 제정문(제2016-1호_2016.01.07).pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "국가기반시설_지정_고시 전문(제2016-1호_2016.01.07).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=136759959",
+      "filename": "국가기반시설_지정_고시 전문(제2016-1호_2016.01.07).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국가기반시설_지정_고시 전문(제2016-1호_2016.01.07).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "국가기반시설_지정_고시 전문(제2016-1호_2016.01.07).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=136759963",
+      "filename": "국가기반시설_지정_고시 전문(제2016-1호_2016.01.07).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국가기반시설_지정_고시 전문(제2016-1호_2016.01.07).pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/국가기반시설 지정"
+  },
+  "provision_id": "admrul:국가기반시설지정#DOC",
+  "addendum_provision_id": "admrul:국가기반시설지정#ADDENDUM",
+  "amendment_provision_id": "admrul:국가기반시설지정#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "국가기반시설 지정/국가기반시설 지정.json"
+}
