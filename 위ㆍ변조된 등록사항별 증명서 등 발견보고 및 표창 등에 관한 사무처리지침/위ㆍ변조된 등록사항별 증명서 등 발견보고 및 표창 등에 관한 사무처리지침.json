@@ -1,6 +1,6 @@
 {
   "law_id": "2112059",
-  "mst": "2200000102145",
+  "mst": "2200000109107",
   "law_name": "위ㆍ변조된 등록사항별 증명서 등 발견보고 및 표창 등에 관한 사무처리지침",
   "law_abbr": "",
   "law_type": "가족관계등록예규",
@@ -23,16 +23,16 @@
     "행정규칙종류": "가족관계등록예규",
     "제개정구분코드": "200403",
     "조문형식여부": "N",
-    "소관부처명": "대법원",
+    "소관부처명": "",
     "전화번호": "",
     "제개정구분명": "일부개정",
     "소관부처코드": "9740000",
-    "생성일자": "20241125",
+    "생성일자": "20261014",
     "행정규칙ID": "2112059",
     "시행일자": "20160601",
     "담당부서기관코드": "",
     "발령번호": "487",
-    "행정규칙일련번호": "2200000102145",
+    "행정규칙일련번호": "2200000109107",
     "상위부처명": "대법원"
   },
   "amendment_text": "위ㆍ변조된 등록사항별 증명서 등 발견보고 및 포상 등에 관한 사무처리지침 일부를 다음과 같이 개정한다.\n제명 “위ㆍ변조된 등록사항별 증명서 등 발견보고 및 포상 등에 관한 사무처리지침”을 “위ㆍ변조된 등록사항별 증명서 등 발견보고 및 표창 등에 관한 사무처리지침”으로 한다.\n제1조 중 “가족관계등록공무원에 대한 포상에 관한 사항”을 “가족관계등록공무원에 대한 표창에 관한 사항”으로 한다.\n제5조의 제목 “(위ㆍ변조된 등록사항별 증명서 등을 발견한 공무원에 대한 포상)”을 “(위ㆍ변조된 등록사항별 증명서 등을 발견한 공무원에 대한 표창)”으로 한다.\n제5조 중 “가족관계등록공무원을 포상할 수 있다.”를 “가족관계등록공무원을 표창할 수 있다.”로 한다.\n제7조의 제목 “(포상위원회의 구성과 운영 및 포상금 액수)”를 “(표창위원회의 구성과 운영 및 포상금 액수)”로 한다.\n제7조제1항 중 “포상대상자, 포상시기”를 “표창추천대상자”로, “사법등기국 내에 포상위원회를 둔다.”를 “사법등기국 내에 표창위원회를 둔다.”로 한다.\n제7조제2항 중 “포상위원회”를 “표창위원회”로 한다.\n제7조제3항 중 “포상은 연 2회로 한다. 포상위원회 위원장은 반기별로 간사로부터 포상대상에 해당하는 사건에 대한 보고를 받아 포상위원회를 개최하거나”를 “표창위원회 위원장은 간사로부터 표창대상에 해당하는 사건에 대한 보고를 받아 표창위원회를 개최하거나”로, “포상대상자와 포상시기를 정한다.”를  “법원표창내규에 따라 표창대상자를 추천한다.”로 한다.\n제7조제4항 중 “포상대상자에 대한 포상금의 구체적인 액수는 예산이 허용하는 범위 내에서 포상위원회가 정한다.”를 “표창추천대상자에 대한 포상금의 구체적인 액수는 예산이 허용하는 범위 내에서 표창위원회가 정하여 공적심사위원회에 상신한다.”로 한다.\n부 칙\n이 예규는 2016년 6월 1일부터 시행한다.",
@@ -257,7 +257,7 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2112059",
-        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000102145&bylNo=&bylBrNo=",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000109107&bylNo=&bylBrNo=",
         "resolve_method": "html",
         "source_provision_id": "admrul:위변조된등록사항별증명서등발견보고및표창등에관한사무처리지침#DOC",
         "target_unit": "FORM0001",
@@ -282,7 +282,7 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2112059",
-        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000102145&bylNo=&bylBrNo=",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000109107&bylNo=&bylBrNo=",
         "resolve_method": "html",
         "source_provision_id": "admrul:위변조된등록사항별증명서등발견보고및표창등에관한사무처리지침#DOC",
         "target_unit": "FORM0001",
@@ -307,7 +307,7 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2112059",
-        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000102145&bylNo=&bylBrNo=",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000109107&bylNo=&bylBrNo=",
         "resolve_method": "html",
         "source_provision_id": "admrul:위변조된등록사항별증명서등발견보고및표창등에관한사무처리지침#DOC",
         "target_unit": "FORM0002",
@@ -332,7 +332,7 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2112059",
-        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000102145&bylNo=&bylBrNo=",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000109107&bylNo=&bylBrNo=",
         "resolve_method": "html",
         "source_provision_id": "admrul:위변조된등록사항별증명서등발견보고및표창등에관한사무처리지침#DOC",
         "target_unit": "FORM0003",
@@ -389,7 +389,7 @@
       "content": "부   칙(2016. 5. 25. 제487호)이 예규는 2016년 6월 1일부터 시행한다.",
       "provision_id": "admrul:위변조된등록사항별증명서등발견보고및표창등에관한사무처리지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000102145",
+      "source_mst": "2200000109107",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20160601"
@@ -400,7 +400,7 @@
       "content": "부   칙이 예규는 2008년 1월 1일부터 시행한다.",
       "provision_id": "admrul:위변조된등록사항별증명서등발견보고및표창등에관한사무처리지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000102145",
+      "source_mst": "2200000109107",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20160601"
@@ -416,11 +416,11 @@
       "content": "[별지 제1호 서식]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145615029",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566845",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145615029",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566845",
           "name": "",
           "file_store_url": ""
         }
@@ -441,11 +441,11 @@
       "content": "[별지 제2호 서식]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145615031",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566847",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145615031",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566847",
           "name": "",
           "file_store_url": ""
         }
@@ -466,11 +466,11 @@
       "content": "[별지 제3호 서식]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145615033",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566849",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145615033",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566849",
           "name": "",
           "file_store_url": ""
         }
