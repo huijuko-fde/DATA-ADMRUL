@@ -1,0 +1,102 @@
+{
+  "law_id": "56441",
+  "mst": "2100000078249",
+  "law_name": "외국법자문사법 제34조의2 제1항에 따른 자유무역협정등의 당사국",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:56441",
+  "promulgation_no": "2016-351",
+  "promulgation_date": "20161212",
+  "enforcement_date": "20161212",
+  "revision_date": "20161212",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "법무부(국제법무정책과)",
+    "담당자명": "유현욱",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "외국법자문사법 제34조의2 제1항에 따른 자유무역협정등의 당사국",
+    "발령일자": "20161212",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "법무부",
+    "전화번호": "02-2110-4621",
+    "제개정구분명": "제정",
+    "소관부처코드": "1270000",
+    "생성일자": "20170307",
+    "행정규칙ID": "56441",
+    "시행일자": "20161212",
+    "담당부서기관코드": "1270024",
+    "발령번호": "2016-351",
+    "행정규칙일련번호": "2100000078249",
+    "상위부처명": "법무부"
+  },
+  "amendment_text": "⊙법무부 고시 제2016-351호\n외국법자문사법 제34조의2 제1항 규정에 따라 자유무역협정등의 당사국을 아래와 같이 고시합니다.\n2016년 12월 12일\n법무부장관\n외국법자문사법 제34조의2 제1항에 따른 자유무역협정등의 당사국\n[본문 생략]",
+  "revision_reason": "◇ 제정 이유\n□ 한-호주 FTA에서 정한 법률시장 2단계 개방 약속 이행(’16. 12. 12.)을 위해 외국법자문사법 제34조의2 제1항에 따라 개방 당사국을 고시\n◇ 주요 내용\n□ 호주에 대한 법률시장 2단계 개방",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "호주",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:외국법자문사법제34조의2제1항에따른자유무역협정등의당사국:admrul_56441#DOC"
+      }
+    ]
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "법무부 장관 고시 제2016-351호 관보고시 의뢰(호주).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=29057741",
+      "filename": "법무부 장관 고시 제2016-351호 관보고시 의뢰(호주).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/법무부 장관 고시 제2016-351호 관보고시 의뢰(호주).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "법무부장관 고시 제2016-351호 제정이유서(호주).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=29057742",
+      "filename": "법무부장관 고시 제2016-351호 제정이유서(호주).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/법무부장관 고시 제2016-351호 제정이유서(호주).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/외국법자문사법 제34조의2 제1항에 따른 자유무역협정등의 당사국"
+  },
+  "provision_id": "admrul:외국법자문사법제34조의2제1항에따른자유무역협정등의당사국:admrul_56441#DOC",
+  "addendum_provision_id": "admrul:외국법자문사법제34조의2제1항에따른자유무역협정등의당사국:admrul_56441#ADDENDUM",
+  "amendment_provision_id": "admrul:외국법자문사법제34조의2제1항에따른자유무역협정등의당사국:admrul_56441#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "외국법자문사법 제34조의2 제1항에 따른 자유무역협정등의 당사국/admrul_56441/외국법자문사법 제34조의2 제1항에 따른 자유무역협정등의 당사국.json"
+}
