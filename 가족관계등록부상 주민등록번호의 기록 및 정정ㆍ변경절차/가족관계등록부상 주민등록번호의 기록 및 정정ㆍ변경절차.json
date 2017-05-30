@@ -1,0 +1,146 @@
+{
+  "law_id": "2112033",
+  "mst": "2200000103587",
+  "law_name": "가족관계등록부상 주민등록번호의 기록 및 정정ㆍ변경절차",
+  "law_abbr": "",
+  "law_type": "가족관계등록예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2112033",
+  "promulgation_no": "508",
+  "promulgation_date": "20170525",
+  "enforcement_date": "20170530",
+  "revision_date": "20170525",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "대법원(대법원)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0015",
+    "행정규칙명": "가족관계등록부상 주민등록번호의 기록 및 정정ㆍ변경절차",
+    "발령일자": "20170525",
+    "행정규칙종류": "가족관계등록예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "대법원",
+    "전화번호": "",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "9740000",
+    "생성일자": "20241125",
+    "행정규칙ID": "2112033",
+    "시행일자": "20170530",
+    "담당부서기관코드": "",
+    "발령번호": "508",
+    "행정규칙일련번호": "2200000103587",
+    "상위부처명": "대법원"
+  },
+  "amendment_text": "가족관계등록부상 주민등록번호의 기록 및 정정절차 전부를 다음과 같이 개정한다.\n제명“가족관계등록부상 주민등록번호의 기록 및 정정절차”를 “가족관계등록부상 주민등록번호의 기록 및 정정ㆍ변경절차”로 한다.\n본문생략",
+  "revision_reason": "1. 개정이유\n○ 주민등록법(법률 제14191호, 시행 2017. 5. 30.) 개정에 따라 주민등록번호 부여ㆍ정정ㆍ변경에 따른 가족관계등록부 기록에 관하여 필요한 사항을 정하고자 함\n2. 주요내용\n○ 주민등록법 제7조의2 및 제15조에 따른 주민등록번호 부여 통보에 따라 주민등록번호를 기록하고, 주민등록번호 기록이 누락되었을 경우에는 본인 또는 동거하는 친족의 기록 신청에 의하여 감독법원의 허가 없이 직권으로 기록하도록 함(제1조)\n○ 주민등록법 제7조의3 및 제15조에 따른 주민등록번호 정정 통보에 따라 주민등록번호를 정정하고, 주민등록번호가 잘못 기록된 경우에 본인 또는 동거하는 친족의 정정 신청이 있는 경우에는 감독법원의 허가 없이 직권으로 정정하도록 함(제2조)\n○ 주민등록법 제7조의4 및 같은 법 시행령 제12조의6에 따른 주민등록번호 변경 통보에 따라 주민등록번호를 변경함(제3조)",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "주민등록번호 기록",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제1조  (주민등록번호 기록) ① 가족관계등록부의 주민등록번호의 기록은 주민등록법 제7조의2 및   제15조에 따른 주민등록번호 부여 통보에 의하여야 한다.② 가족관계등록부상 주민등록번호의 기록이 누락되었을 경우 본인 또는 동거하는 친족이 주민등록표 등ㆍ초본을 첨부하여 그 기록을 신청하는 때에는 가족관계등록공무원은 감독법원의 허가 없이 직권으로 이를 기록한다. 다만, 본인이 신청하는 경우에는 주민등록표 등ㆍ초본의 첨부 없이 주민등록증을 제시받아 가족관계등록공무원이 그 내용을 확인한 후 주민등록증을 복사하여 신청서에 첨부하고 기록의 절차를 취하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:가족관계등록부상주민등록번호의기록및정정변경절차#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "주민등록번호 정정",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조 (주민등록번호 정정) ① 주민등록법 제7조의3 및   제15조에 따라 주민등록번호 정정 통보가 있는 경우 가족관계등록공무원은 이를 정정한다.② 가족관계등록부상 주민등록번호가 잘못 기록된 경우 그 정정절차에 관하여는 제1조제2항을 준용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:가족관계등록부상주민등록번호의기록및정정변경절차#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "주민등록번호 변경",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제3조  (주민등록번호 변경) 주민등록법 제7조의4및 같은 법 시행령 제12조의6에 따라 주민등록번호 변경 통보가 있는 경우 가족관계등록공무원은 이를 변경한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:가족관계등록부상주민등록번호의기록및정정변경절차#JO0003"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "internal_ref",
+        "delegation_type": null,
+        "target_category": "행정규칙",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제1조제2항",
+        "line_text": "",
+        "target_law_name": "가족관계등록부상 주민등록번호의 기록 및 정정ㆍ변경절차",
+        "target_article_no": "제1조",
+        "target_article_title": "",
+        "target_mst": "",
+        "source_admrul_seq": "2112033",
+        "target_url": "https://www.law.go.kr/행정규칙/가족관계등록부상 주민등록번호의 기록 및 정정ㆍ변경절차/제1조",
+        "resolve_method": "html",
+        "source_provision_id": "admrul:가족관계등록부상주민등록번호의기록및정정변경절차#DOC",
+        "reference_id": "admrul:가족관계등록부상주민등록번호의기록및정정변경절차#JO0001",
+        "target_repo": "ADMRUL",
+        "target_git_path_guess": "가족관계등록부상 주민등록번호의 기록 및 정정ㆍ변경절차/가족관계등록부상 주민등록번호의 기록 및 정정ㆍ변경절차.json"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "99991231",
+      "promulgation_no": "9999",
+      "content": "부   칙이 예규는 2017년 5월 30일부터 시행한다.",
+      "provision_id": "admrul:가족관계등록부상주민등록번호의기록및정정변경절차#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000103587",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20170530"
+    }
+  ],
+  "appendices": [],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "internal_ref": 1
+    },
+    "articles_total": 3,
+    "articles_with_relations": 0,
+    "unmatched_relations": 1,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/가족관계등록부상 주민등록번호의 기록 및 정정ㆍ변경절차"
+  },
+  "provision_id": "admrul:가족관계등록부상주민등록번호의기록및정정변경절차#DOC",
+  "addendum_provision_id": "admrul:가족관계등록부상주민등록번호의기록및정정변경절차#ADDENDUM",
+  "amendment_provision_id": "admrul:가족관계등록부상주민등록번호의기록및정정변경절차#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "가족관계등록부상 주민등록번호의 기록 및 정정ㆍ변경절차/가족관계등록부상 주민등록번호의 기록 및 정정ㆍ변경절차.json"
+}
