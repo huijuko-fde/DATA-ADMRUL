@@ -1,0 +1,250 @@
+{
+  "law_id": "58029",
+  "mst": "2100000092341",
+  "law_name": "국가지정문화재 국보·보물 주변 건축행위 등 허용기준 조정 고시(충주 탑평리 칠층석탑 등 74건)",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:58029",
+  "promulgation_no": "2017-86",
+  "promulgation_date": "20170717",
+  "enforcement_date": "20170717",
+  "revision_date": "20170717",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국가유산청(유형문화재과)",
+    "담당자명": "김철호",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "국가지정문화재 국보·보물 주변 건축행위 등 허용기준 조정 고시(충주 탑평리 칠층석탑 등 74건)",
+    "발령일자": "20170717",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "N",
+    "소관부처명": "국가유산청",
+    "전화번호": "042-481-4918",
+    "제개정구분명": "제정",
+    "소관부처코드": "1833100",
+    "생성일자": "20171110",
+    "행정규칙ID": "58029",
+    "시행일자": "20170717",
+    "담당부서기관코드": "1550186",
+    "발령번호": "2017-86",
+    "행정규칙일련번호": "2100000092341",
+    "상위부처명": "국가유산청"
+  },
+  "amendment_text": "⊙문화재청 고시 제2017-86호\n「문화재보호법」제13조의 규정에 따라 국보 제6호「충주 탑평리 칠층석탑」등 74건의 건축행위 등에 관한 허용기준 조정 사항을 다음과 같이 고시합니다.\n2017년 7월 17일\n문화재청장\n국가지정문화재<국보·보물> 주변 건축행위 등 허용기준 조정 고시(충주 탑평리 칠층석탑 등 74건)\n[본문 생략]",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "1. 고시명 : 국가지정문화재<국보·보물> 주변 건축행위 등 허용기준 조정 고시(충주 탑평리 칠층석탑 등 74건)가. 대상 문화재[그림][그림][그림][그림]나. 조정내용 : 붙임 참고ㅇ 토지이용규제기본법 제8조에 따른 지형도면 등은 문화재공간정보서비스(http://www.gis-heritage.go.kr)에서 열람이 가능합니다.다. 기준의 적용ㅇ 본 허용기준은 「문화재보호법」제13조 제6항 및 「문화재보호법 시행령」제21조의2제2항제1호의 행위를 대상으로 한정하며, 그 이외의 사항에 대해서는 현행과 같은 절차에 따라 처리함ㅇ 본 허용기준 이하의 행위는 「문화재보호법」 제13조제2항, 제6항에 따라 문화재 보존에 영향을 미칠 우려가 없는 행위이므로 문화재 영향검토를 생략하고, 지방자치단체에서 자체 처리함. 2. 시행 기준일 : 관보 고시일 3. 연락처ㅇ 문화재청 유형문화재과- 전화 (042)481-4918 / 팩스 (042)481-4939- 주소 (우 35208) 대전광역시 서구 선사로 139 정부대전청사 1동",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "문화재보호법",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "58029",
+            "target_url": "https://www.law.go.kr/법령/문화재보호법/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가지정문화재국보보물주변건축행위등허용기준조정고시(충주탑평리칠층석탑등74건)#DOC",
+            "reference_id": "law:문화재보호법#JO0013",
+            "target_repo": "LAW",
+            "target_git_path_guess": "문화재보호법/법률/문화재보호법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "「문화재보호법 시행령」",
+            "line_text": "",
+            "target_law_name": "문화재보호법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "58029",
+            "target_url": "https://www.law.go.kr/법령/문화재보호법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가지정문화재국보보물주변건축행위등허용기준조정고시(충주탑평리칠층석탑등74건)#DOC",
+            "reference_id": "law:문화재보호법시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "문화재보호법/시행령/문화재보호법 시행령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제21조의2제2항제1호",
+            "line_text": "",
+            "target_law_name": "문화재보호법 시행령",
+            "target_article_no": "제21조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "58029",
+            "target_url": "https://www.law.go.kr/법령/문화재보호법 시행령/제21조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가지정문화재국보보물주변건축행위등허용기준조정고시(충주탑평리칠층석탑등74건)#DOC",
+            "reference_id": "law:문화재보호법시행령#JO0021_02",
+            "target_repo": "LAW",
+            "target_git_path_guess": "문화재보호법/시행령/문화재보호법 시행령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제13조제2항",
+            "line_text": "",
+            "target_law_name": "문화재보호법",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "58029",
+            "target_url": "https://www.law.go.kr/법령/문화재보호법/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가지정문화재국보보물주변건축행위등허용기준조정고시(충주탑평리칠층석탑등74건)#DOC",
+            "reference_id": "law:문화재보호법#JO0013",
+            "target_repo": "LAW",
+            "target_git_path_guess": "문화재보호법/법률/문화재보호법.json"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=30530493",
+            "seq": "30530493",
+            "filename": "전문_1.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.bmp",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=30530494",
+            "seq": "30530494",
+            "filename": "전문_2.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_2.bmp",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=30530495",
+            "seq": "30530495",
+            "filename": "전문_3.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_3.bmp",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=30530496",
+            "seq": "30530496",
+            "filename": "전문_4.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_4.bmp",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:국가지정문화재국보보물주변건축행위등허용기준조정고시(충주탑평리칠층석탑등74건)#DOC"
+      }
+    ]
+  },
+  "addenda": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "붙임",
+      "title": "국가지정문화재 주변 허용기준 및 도면",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=30552022",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=30552022",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국가지정문화재국보보물주변건축행위등허용기준조정고시(충주탑평리칠층석탑등74건)#ATT0000",
+      "filename": "붙임0_국가지정문화재 주변 허용기준 및 도면.hwp",
+      "file_dir": "붙임",
+      "local_path": "붙임/붙임0_국가지정문화재 주변 허용기준 및 도면.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "20170717 고시문(국가지정문화재(국보·보물) 주변 건축행위 등 허용기준 조정 고시(충주 탑평리 칠층석탑 등 74건)).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=30520782",
+      "filename": "20170717 고시문(국가지정문화재(국보·보물) 주변 건축행위 등 허용기준 조정 고시(충주 탑평리 칠층석탑 등 74건)).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/20170717 고시문(국가지정문화재(국보·보물) 주변 건축행위 등 허용기준 조정 고시(충주 탑평리 칠층석탑 등 74건)).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "국가지정문화재(국보보물) 주변 허용기준 변경 고시 사유.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=30520783",
+      "filename": "국가지정문화재(국보보물) 주변 허용기준 변경 고시 사유.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국가지정문화재(국보보물) 주변 허용기준 변경 고시 사유.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 4,
+    "by_category": {
+      "법령": 4
+    },
+    "by_relation_type": {
+      "citation": 4
+    },
+    "articles_total": 1,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 1,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/국가지정문화재 국보·보물 주변 건축행위 등 허용기준 조정 고시(충주 탑평리 칠층석탑 등 74건)"
+  },
+  "provision_id": "admrul:국가지정문화재국보보물주변건축행위등허용기준조정고시(충주탑평리칠층석탑등74건)#DOC",
+  "addendum_provision_id": "admrul:국가지정문화재국보보물주변건축행위등허용기준조정고시(충주탑평리칠층석탑등74건)#ADDENDUM",
+  "amendment_provision_id": "admrul:국가지정문화재국보보물주변건축행위등허용기준조정고시(충주탑평리칠층석탑등74건)#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "국가지정문화재 국보·보물 주변 건축행위 등 허용기준 조정 고시(충주 탑평리 칠층석탑 등 74건)/국가지정문화재 국보·보물 주변 건축행위 등 허용기준 조정 고시(충주 탑평리 칠층석탑 등 74건).json"
+}
