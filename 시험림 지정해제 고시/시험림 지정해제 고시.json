@@ -1,0 +1,133 @@
+{
+  "law_id": "58941",
+  "mst": "2100000095017",
+  "law_name": "시험림 지정해제 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:58941",
+  "promulgation_no": "2017-4",
+  "promulgation_date": "20170831",
+  "enforcement_date": "20170831",
+  "revision_date": "20170831",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립산림품종관리센터(종묘관리과)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "시험림 지정해제 고시",
+    "발령일자": "20170831",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "N",
+    "소관부처명": "국립산림품종관리센터",
+    "전화번호": "043-850-3342",
+    "제개정구분명": "제정",
+    "소관부처코드": "1400000",
+    "생성일자": "20250206",
+    "행정규칙ID": "58941",
+    "시행일자": "20170831",
+    "담당부서기관코드": "",
+    "발령번호": "2017-4",
+    "행정규칙일련번호": "2100000095017",
+    "상위부처명": "산림청"
+  },
+  "amendment_text": "⊙국립산림품종관리센터 고시 제2017-4호\n「산림자원의 조성 및 관리에 관한 법률」제47조 및 동법시행규칙 제57조의 규정에 의거 시험림을 다음과 같이 지정해제 고시합니다.\n2017년 8월 31일\n국립산림품종관리센터장\n시험림 지정해제 고시\n[본문 생략]\n부칙\n이 고시는 고시한 날부터 시행한다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "시험림 지정해제 내역[그림][그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31096960",
+            "seq": "31096960",
+            "filename": "전문_1.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.bmp",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31096962",
+            "seq": "31096962",
+            "filename": "전문_2.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_2.bmp",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:시험림지정해제고시#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20170831",
+      "promulgation_no": "2017-4",
+      "content": "부칙 <제2017-4호,2017. 8. 31.>이 고시는 고시한 날부터 시행한다.",
+      "provision_id": "admrul:시험림지정해제고시#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000095017",
+      "source_version_uid": "",
+      "source_revision_type": "제정",
+      "version_enforcement_date": "20170831"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "시험림 지정해제 고시(고시)(제2017-4호)(20170831)_담당부서.연락처 변경.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148923861",
+      "filename": "시험림 지정해제 고시(고시)(제2017-4호)(20170831)_담당부서.연락처 변경.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/시험림 지정해제 고시(고시)(제2017-4호)(20170831)_담당부서.연락처 변경.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "시험림 지정해제 고시(고시)(제2017-4호)(20170831)_담당부서.연락처 변경.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148923865",
+      "filename": "시험림 지정해제 고시(고시)(제2017-4호)(20170831)_담당부서.연락처 변경.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/시험림 지정해제 고시(고시)(제2017-4호)(20170831)_담당부서.연락처 변경.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/시험림 지정해제 고시"
+  },
+  "provision_id": "admrul:시험림지정해제고시#DOC",
+  "addendum_provision_id": "admrul:시험림지정해제고시#ADDENDUM",
+  "amendment_provision_id": "admrul:시험림지정해제고시#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "시험림 지정해제 고시/시험림 지정해제 고시.json"
+}
