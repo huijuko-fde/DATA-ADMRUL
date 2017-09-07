@@ -63,7 +63,7 @@
             "source_admrul_seq": "59221",
             "target_url": "https://www.law.go.kr/법령/중국산 인쇄제판용 평면 모양 사진플레이트에 대한 덤핑방지관세 부과에 관한 규칙",
             "resolve_method": "html",
-            "source_provision_id": "admrul:중국산인쇄제판용평면모양사진플레이트에대한덤핑방지관세부과결정#DOC",
+            "source_provision_id": "admrul:중국산인쇄제판용평면모양사진플레이트에대한덤핑방지관세부과결정:admrul_59221#DOC",
             "reference_id": "law:중국산인쇄제판용평면모양사진플레이트에대한덤핑방지관세부과에관한규칙#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "중국산 인쇄제판용 평면 모양 사진플레이트에 대한 덤핑방지관세 부과에 관한 규칙/법률/중국산 인쇄제판용 평면 모양 사진플레이트에 대한 덤핑방지관세 부과에 관한 규칙.json"
@@ -83,14 +83,14 @@
             "source_admrul_seq": "59221",
             "target_url": "https://www.law.go.kr/행정규칙/중국산 인쇄제판용 평면모양 사진플레이트에 대한 덤핑방지관세 부과 결정",
             "resolve_method": "html",
-            "source_provision_id": "admrul:중국산인쇄제판용평면모양사진플레이트에대한덤핑방지관세부과결정#DOC",
-            "reference_id": "admrul:중국산인쇄제판용평면모양사진플레이트에대한덤핑방지관세부과결정#DOC",
+            "source_provision_id": "admrul:중국산인쇄제판용평면모양사진플레이트에대한덤핑방지관세부과결정:admrul_59221#DOC",
+            "reference_id": "admrul:중국산인쇄제판용평면모양사진플레이트에대한덤핑방지관세부과결정:admrul_59221#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "중국산 인쇄제판용 평면모양 사진플레이트에 대한 덤핑방지관세 부과 결정/중국산 인쇄제판용 평면모양 사진플레이트에 대한 덤핑방지관세 부과 결정.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:중국산인쇄제판용평면모양사진플레이트에대한덤핑방지관세부과결정#DOC"
+        "provision_id": "admrul:중국산인쇄제판용평면모양사진플레이트에대한덤핑방지관세부과결정:admrul_59221#DOC"
       }
     ]
   },
@@ -138,12 +138,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/중국산 인쇄제판용 평면 모양 사진플레이트에 대한 덤핑방지관세 부과 결정"
   },
-  "provision_id": "admrul:중국산인쇄제판용평면모양사진플레이트에대한덤핑방지관세부과결정#DOC",
-  "addendum_provision_id": "admrul:중국산인쇄제판용평면모양사진플레이트에대한덤핑방지관세부과결정#ADDENDUM",
-  "amendment_provision_id": "admrul:중국산인쇄제판용평면모양사진플레이트에대한덤핑방지관세부과결정#AMENDMENT",
+  "provision_id": "admrul:중국산인쇄제판용평면모양사진플레이트에대한덤핑방지관세부과결정:admrul_59221#DOC",
+  "addendum_provision_id": "admrul:중국산인쇄제판용평면모양사진플레이트에대한덤핑방지관세부과결정:admrul_59221#ADDENDUM",
+  "amendment_provision_id": "admrul:중국산인쇄제판용평면모양사진플레이트에대한덤핑방지관세부과결정:admrul_59221#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "중국산 인쇄제판용 평면 모양 사진플레이트에 대한 덤핑방지관세 부과 결정/중국산 인쇄제판용 평면 모양 사진플레이트에 대한 덤핑방지관세 부과 결정.json"
+  "git_path": "중국산 인쇄제판용 평면 모양 사진플레이트에 대한 덤핑방지관세 부과 결정/admrul_59221/중국산 인쇄제판용 평면 모양 사진플레이트에 대한 덤핑방지관세 부과 결정.json"
 }
