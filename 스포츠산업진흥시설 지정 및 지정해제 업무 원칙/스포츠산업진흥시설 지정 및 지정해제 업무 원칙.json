@@ -1,0 +1,222 @@
+{
+  "law_id": "59415",
+  "mst": "2100000097778",
+  "law_name": "스포츠산업진흥시설 지정 및 지정해제 업무 원칙",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:59415",
+  "promulgation_no": "2017-36",
+  "promulgation_date": "20170928",
+  "enforcement_date": "20170928",
+  "revision_date": "20170928",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "문화체육관광부(스포츠산업과)",
+    "담당자명": "류지연",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "스포츠산업진흥시설 지정 및 지정해제 업무 원칙",
+    "발령일자": "20170928",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "N",
+    "소관부처명": "문화체육관광부",
+    "전화번호": "044-203-3153",
+    "제개정구분명": "제정",
+    "소관부처코드": "1371000",
+    "생성일자": "20220824",
+    "행정규칙ID": "59415",
+    "시행일자": "20170928",
+    "담당부서기관코드": "1371672",
+    "발령번호": "2017-36",
+    "행정규칙일련번호": "2100000097778",
+    "상위부처명": "문화체육관광부"
+  },
+  "amendment_text": "⊙문화체육관광부 고시 제2017-36호\n「스포츠산업진흥법」 제11조(스포츠산업진흥시설의 지정 등), 제12조(스포츠산업진흥시설의 지정해제) 및 같은 법 시행령 제8조(스포츠산업진흥시설의 지정 절차), 제9조(진흥시설의 지원), 제10조(진흥시설의 지정해제), 제21조(권한 등의 위임·위탁)의 규정에 따라 「스포츠산업진흥시설 지정 및 지정해제 업무 원칙」을 다음과 같이 제정·고시합니다.\n2017년 9월 28일\n문화체육관광부장관\n스포츠산업진흥시설 지정 및 지정해제 업무 원칙\n[본문 생략]",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "제9조",
+        "article_title": "진흥시설의 지원",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제9조(진흥시설의 지원) 제1항에 따라 진흥시설의 운영비 및 공동이용시설의 설치비ㆍ운영비를 지원할 수 있다. 국비 지원의 세부사항에 대해서는 추후 공모 등을 통해 안내하도록 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "「스포츠산업진흥법」",
+            "line_text": "",
+            "target_law_name": "스포츠산업진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "59415",
+            "target_url": "https://www.law.go.kr/법령/스포츠산업진흥법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스포츠산업진흥시설지정및지정해제업무원칙#JO0009",
+            "reference_id": "law:스포츠산업진흥법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "스포츠산업진흥법/법률/스포츠산업진흥법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제21조",
+            "line_text": "",
+            "target_law_name": "스포츠산업진흥법",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "59415",
+            "target_url": "https://www.law.go.kr/법령/스포츠산업진흥법/제21조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스포츠산업진흥시설지정및지정해제업무원칙#JO0009",
+            "reference_id": "law:스포츠산업진흥법#JO0021",
+            "target_repo": "LAW",
+            "target_git_path_guess": "스포츠산업진흥법/법률/스포츠산업진흥법.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "스포츠산업진흥시설 지정 및 지정해제 업무 원칙",
+            "target_article_no": "별지2",
+            "target_article_title": "",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": false,
+            "target_mst": "",
+            "source_admrul_seq": "59415",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000097778&bylNo=&bylBrNo=",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스포츠산업진흥시설지정및지정해제업무원칙#JO0009",
+            "target_unit": "BJ0002",
+            "reference_id": "admrul:스포츠산업진흥시설지정및지정해제업무원칙#BJ0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스포츠산업진흥시설 지정 및 지정해제 업무 원칙/스포츠산업진흥시설 지정 및 지정해제 업무 원칙.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "스포츠산업진흥시설 지정 및 지정해제 업무 원칙",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "59415",
+            "target_url": "https://www.law.go.kr/행정규칙/스포츠산업진흥시설 지정 및 지정해제 업무 원칙/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:스포츠산업진흥시설지정및지정해제업무원칙#JO0009",
+            "reference_id": "admrul:스포츠산업진흥시설지정및지정해제업무원칙#JO0009",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "스포츠산업진흥시설 지정 및 지정해제 업무 원칙/스포츠산업진흥시설 지정 및 지정해제 업무 원칙.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:스포츠산업진흥시설지정및지정해제업무원칙#JO0009"
+      }
+    ]
+  },
+  "addenda": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별첨",
+      "title": "스포츠산업진흥시설 지정 신청서 양식",
+      "enforcement_date": "",
+      "content": "┏━━━┓━━━━━━━━━━━━━━━━━━━━\n┃첨 부 ┃   스포츠산업진흥시설 지정 신청서 양식\n┗━━━┛━━━━━━━━━━━━━━━━━━━━\n\n■ 스포츠산업 진흥법 시행규칙 [별지 제2호서식]\n\n스포츠산업진흥시설 지정 신청서\n───────────┬──────────────────┬─────────────────────────────\n접수번호            │접수일                              │처리기간    14일\n───────────┴──────────────────┴─────────────────────────────\n\n────┬──────┬────────────────────────────────────────────────\n신청인│법인ㆍ기관명│\n├──────┼────────────────────────────────────────────────\n│대표자명    │\n├──────┼────────────────────────────────────────────────\n│주소 또는 소재지│          (전화번호:                   )\n────┴──────┴────────────────────────────────────────────────\n\n────┬───────────────────────────────────────────────────────\n신청  │진흥시설 주소\n내용  ├────┬─────┬────────────┬───────┬───────────────────────\n│입주    │총사업자 수│개                      │스포츠산업    │개\n│사업자  │          │                        │사업자 수     │\n│수      ├─────┼────────────┼───────┼───────────────────────\n│        │중소기업  │개                      │지원시설 수   │개\n│        │사업자 수 │                        │              │\n────┴────┴─────┴────────────┴───────┴───────────────────────\n「스포츠산업 진흥법」 제11조제1항, 같은 법 시행령 제8조제1항 및 같은 법 시행규칙 제3조제2항에 따\n라 위와 같이 스포츠산업진흥시설의 지정을 신청합니다.\n\n년     월     일\n\n신청인                                   (서명 또는 인)\n\n문화체육관광부장관                    귀하\n특별시장ㆍ광역시장ㆍ특별자치시장\n도지사ㆍ특별자치도지사\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────┬─────────────────────────────────────────┬────────────\n첨부서류│「스포츠산업 진흥법」 제11조제1항 각 호에 따른 지정요건을 갖추었음을 증명하는 서류│수수료\n│                                                                                  │없  음\n─────┴─────────────────────────────────────────┴────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처 리 절 차\n────────────────────────────────────────────────────────────\n\n┌──────┐    ┌─────┐  ┌────────┐  ┌──────────┐              ┌──────────┐\n│신청서 작성 │?  │접 수     │?│현지조사(필요시)│?│지방자치단체의 장과 │?            │스포츠산업진흥시설의│\n│            │    │          │  │또는 심의       │  │협의                │              │지정 및 공고        │\n└──────┘    └─────┘  └────────┘  └──────────┘              └──────────┘\n신청인              처 리 기 관: 문화체육관광부\n\n\n────────────────────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=118871911",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=118871911",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:스포츠산업진흥시설지정및지정해제업무원칙#BC0000",
+      "filename": "별첨0_스포츠산업진흥시설 지정 신청서 양식.hwp",
+      "file_dir": "별첨",
+      "local_path": "별첨/별첨0_스포츠산업진흥시설 지정 신청서 양식.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "170913 스포츠산업진흥시설 고시 제정 보고v2.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=31424282",
+      "filename": "170913 스포츠산업진흥시설 고시 제정 보고v2.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/170913 스포츠산업진흥시설 고시 제정 보고v2.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "스포츠산업진흥시설 지정 고시(최종).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=31424283",
+      "filename": "스포츠산업진흥시설 지정 고시(최종).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/스포츠산업진흥시설 지정 고시(최종).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 4,
+    "by_category": {
+      "법령": 2,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 2,
+      "appendix_ref": 1,
+      "internal_ref": 1
+    },
+    "articles_total": 1,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 1,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/스포츠산업진흥시설 지정 및 지정해제 업무 원칙"
+  },
+  "provision_id": "admrul:스포츠산업진흥시설지정및지정해제업무원칙#DOC",
+  "addendum_provision_id": "admrul:스포츠산업진흥시설지정및지정해제업무원칙#ADDENDUM",
+  "amendment_provision_id": "admrul:스포츠산업진흥시설지정및지정해제업무원칙#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "스포츠산업진흥시설 지정 및 지정해제 업무 원칙/스포츠산업진흥시설 지정 및 지정해제 업무 원칙.json"
+}
