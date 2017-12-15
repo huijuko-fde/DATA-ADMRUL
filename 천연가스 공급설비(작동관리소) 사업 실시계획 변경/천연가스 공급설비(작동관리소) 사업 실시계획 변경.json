@@ -1,0 +1,128 @@
+{
+  "law_id": "51769",
+  "mst": "2100000106209",
+  "law_name": "천연가스 공급설비(작동관리소) 사업 실시계획 변경",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:51769",
+  "promulgation_no": "2017-178",
+  "promulgation_date": "20171215",
+  "enforcement_date": "20171215",
+  "revision_date": "20171215",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "산업통상부(가스산업과)",
+    "담당자명": "김성환",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "천연가스 공급설비(작동관리소) 사업 실시계획 변경",
+    "발령일자": "20171215",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "산업통상부",
+    "전화번호": "044-203-5238",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1451000",
+    "생성일자": "20171220",
+    "행정규칙ID": "51769",
+    "시행일자": "20171215",
+    "담당부서기관코드": "1450095",
+    "발령번호": "2017-178",
+    "행정규칙일련번호": "2100000106209",
+    "상위부처명": "산업통상부"
+  },
+  "amendment_text": "⊙산업통상자원부고시제2017-178호\n한국가스공사법 제16조의2제3항 및 동법시행령 제14조의5의 규정에 따라 고시된 산업통상자원부 고시 제2017-104호(2017.07.14)「천연가스 공급설비(작동관리소) 사업 실시계획 변경」을 다음과 같이 변경 고시합니다.\n2017년 12월 15일\n산업통상자원부장관\n천연가스 공급설비(작동관리소) 사업 실시계획 변경\n[본문 생략]",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "1. 사업의 명칭 : 천연가스 공급설비(작동관리소) 건설공사 2. 사업 시행자의 명칭·주소 및 대표자의 성명ㅇ 명         칭 : 한국가스공사ㅇ 주         소 : 대구광역시 동구 첨단로 120 (전화 1588-1604)ㅇ 대표자의 성명 : 안 완 기(사장직무대리) 3. 사업의 목적 및 개요ㅇ 목 적 : 천연가스 공급 및 차단을 위한 공급관리소 건설공사ㅇ 개 요 : 제6호의 사업시행지내에 가스공급시설[가스공급설비 및 그 부속설비(건축물, 조경 등포함)]을 건설 4. 사업구역의 위치 및 면적 :ㅇ 당 초 : 울산광역시 울주군 삼동면 작동리 산36-10번지(1,165㎡)ㅇ 변 경 : 울산광역시 울주군 삼동면 작동리 220-6번지(1,106㎡) 5. 사업시행기간 : 2015. 04 ～ 2017. 12 6. 수용·사용할 토지 또는 건물의 소재지·지번·지목·면적 및 소유권외의 권리명세서 : 별항 7. 토지 등의 소유자 및 공익사업을위한토지등의취득및보상에관한법률 제2조제5호의 규정에 의한 관계인의 성명 및 주소 : 별항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:천연가스공급설비(작동관리소)사업실시계획변경#DOC"
+      }
+    ]
+  },
+  "addenda": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별첨",
+      "title": "수용·사용할 토지의 권리명세서 : 작동관리소",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=32626003",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=32626003",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:천연가스공급설비(작동관리소)사업실시계획변경#BC0000",
+      "filename": "별첨0_수용·사용할 토지의 권리명세서 _ 작동관리소.hwp",
+      "file_dir": "별첨",
+      "local_path": "별첨/별첨0_수용·사용할 토지의 권리명세서 _ 작동관리소.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "산업통상자원부고시 제2017-178호(작동).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=32595008",
+      "filename": "산업통상자원부고시 제2017-178호(작동).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/산업통상자원부고시 제2017-178호(작동).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "산업통상자원부고시 제2017-178호(작동).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=32595009",
+      "filename": "산업통상자원부고시 제2017-178호(작동).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/산업통상자원부고시 제2017-178호(작동).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 1,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/천연가스 공급설비(작동관리소) 사업 실시계획 변경"
+  },
+  "provision_id": "admrul:천연가스공급설비(작동관리소)사업실시계획변경#DOC",
+  "addendum_provision_id": "admrul:천연가스공급설비(작동관리소)사업실시계획변경#ADDENDUM",
+  "amendment_provision_id": "admrul:천연가스공급설비(작동관리소)사업실시계획변경#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "천연가스 공급설비(작동관리소) 사업 실시계획 변경/천연가스 공급설비(작동관리소) 사업 실시계획 변경.json"
+}
