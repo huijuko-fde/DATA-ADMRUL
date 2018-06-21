@@ -1,12 +1,12 @@
 {
-  "law_id": "72752",
+  "law_id": "62421",
   "mst": "2100000131430",
   "law_name": "수형목 지정해제",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
-  "adm_uid": "admrul:72752",
+  "adm_uid": "admrul:62421",
   "promulgation_no": "2018-2",
   "promulgation_date": "20180615",
   "enforcement_date": "20180621",
@@ -27,8 +27,8 @@
     "전화번호": "043-850-3342",
     "제개정구분명": "일부개정",
     "소관부처코드": "1400000",
-    "생성일자": "20250206",
-    "행정규칙ID": "72752",
+    "생성일자": "20260921",
+    "행정규칙ID": "62421",
     "시행일자": "20180621",
     "담당부서기관코드": "",
     "발령번호": "2018-2",
@@ -51,33 +51,33 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=34842426",
-            "seq": "34842426",
-            "filename": "전문_1.bmp",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169458489",
+            "seq": "169458489",
+            "filename": "전문_1.gif",
             "file_dir": "본문이미지",
-            "local_path": "본문이미지/전문_1.bmp",
+            "local_path": "본문이미지/전문_1.gif",
             "file_store_url": ""
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=34842428",
-            "seq": "34842428",
-            "filename": "전문_2.bmp",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169458491",
+            "seq": "169458491",
+            "filename": "전문_2.gif",
             "file_dir": "본문이미지",
-            "local_path": "본문이미지/전문_2.bmp",
+            "local_path": "본문이미지/전문_2.gif",
             "file_store_url": ""
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=34842430",
-            "seq": "34842430",
-            "filename": "전문_3.bmp",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169458493",
+            "seq": "169458493",
+            "filename": "전문_3.gif",
             "file_dir": "본문이미지",
-            "local_path": "본문이미지/전문_3.bmp",
+            "local_path": "본문이미지/전문_3.gif",
             "file_store_url": ""
           }
         ],
-        "provision_id": "admrul:수형목지정해제:admrul_72752#DOC"
+        "provision_id": "admrul:수형목지정해제:admrul_62421#DOC"
       }
     ]
   },
@@ -135,14 +135,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/수형목 지정해제"
   },
-  "provision_id": "admrul:수형목지정해제:admrul_72752#DOC",
-  "addendum_provision_id": "admrul:수형목지정해제:admrul_72752#ADDENDUM",
-  "amendment_provision_id": "admrul:수형목지정해제:admrul_72752#AMENDMENT",
+  "provision_id": "admrul:수형목지정해제:admrul_62421#DOC",
+  "addendum_provision_id": "admrul:수형목지정해제:admrul_62421#ADDENDUM",
+  "amendment_provision_id": "admrul:수형목지정해제:admrul_62421#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "수형목 지정해제/admrul_72752/수형목 지정해제.json",
-  "repealed": true,
-  "repealed_at": "20261002"
+  "git_path": "수형목 지정해제/admrul_62421/수형목 지정해제.json"
 }
