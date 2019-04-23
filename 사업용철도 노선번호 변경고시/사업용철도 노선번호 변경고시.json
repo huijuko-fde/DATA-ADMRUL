@@ -1,0 +1,209 @@
+{
+  "law_id": "67488",
+  "mst": "2100000178395",
+  "law_name": "사업용철도 노선번호 변경고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:67488",
+  "promulgation_no": "2019-173",
+  "promulgation_date": "20190417",
+  "enforcement_date": "20190423",
+  "revision_date": "20190417",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국토교통부(철도운영과)",
+    "담당자명": "김지겸",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "사업용철도 노선번호 변경고시",
+    "발령일자": "20190417",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "국토교통부",
+    "전화번호": "044-201-3979",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1613000",
+    "생성일자": "20200221",
+    "행정규칙ID": "67488",
+    "시행일자": "20190423",
+    "담당부서기관코드": "1613106",
+    "발령번호": "2019-173",
+    "행정규칙일련번호": "2100000178395",
+    "상위부처명": "국토교통부"
+  },
+  "amendment_text": "⊙국토교통부고시 제2019-173호\n「철도사업법」 제4조에 따라 고시된 사업용 철도노선에 대하여 같은 법의 개정(법률 제13688호, ‘15.12.29.) 및 「철도 노선 및 역의 명칭 관리지침」개정(국토교통부 고시 제2018-671호, ’18.11.11.)에 따라 사업용 철도의 노선번호를 아래와 같이 변경하고 「철도사업법 시행규칙」 제2조제2항에 따라 철도 노선의 지정(변경)을 고시합니다.\n2019년 4월 17일\n국토교통부장관\n사업용철도 노선번호 변경고시\n[본문 생략]\n[관보 정정]\n⊙국토교통부고시 제2019-198호\n국토교통부 고시 제2019-173호(2019.4.17.)로 고시한 철도 노선 중 장항선지선(남포선)이 폐선되어 아래와 같이 정정 고시합니다.\n2019년 5월 3일\n국토교통부장관\n사업용철도 노선번호 정정고시\n□ 당초 : 일반철도노선 : 93개 노선(간선 23, 지선 71)\n□ 변경 : 일반철도노선 : 92개 노선(간선 23, 지선 70)\n[그림]\n┌─────────────────┬─────────────┐\n│현  행                            │개  정                    │\n├───┬─────────────┼───┬─────────┤\n│노선  │노선명                    │노선  │노선명            │\n│번호  ├───────┬─────┤번호  ├───┬─────┤\n│      │간선(보조간선)│지선      │      │간선  │지선      │\n┢━━━┿━━━━━━━┿━━━━━┿━━━┿━━━┿━━━━━┪\n┃308   │장항선        │(4개 지선)│308   │장항선│(4개 지선)┃\n┠───┼───────┼─────┼───┼───┼─────┨\n┃30801 │장항선        │남포선    │      │(삭제)│          ┃\n┠───┼───────┼─────┼───┼───┼─────┨\n┃30802 │장항선        │장항화물선│30801 │장항선│장항화물선┃\n┠───┼───────┼─────┼───┼───┼─────┨\n┃30803 │장항선        │군산화물선│30802 │장항선│군산화물선┃\n┠───┼───────┼─────┼───┼───┼─────┨\n┃30804 │장항선        │옥구선    │30803 │장항선│옥구선    ┃\n┗━━━┷━━━━━━━┷━━━━━┷━━━┷━━━┷━━━━━┛\n",
+  "revision_reason": "◇ 개정 이유\n「철도노선 및 역의 명칭 관리지침(이하 ‘지침’이라 함)」의 개정(‘18.11.11.)에 따른 철도노선의 관리 및 번호체계 변경에 맞춰 기존 노선번호 관리를 체계화하고 향후 신설되는 노선에 연속성을 부여하고자 함\n\n◇ 주요내용\nㅇ 변경된 번호체계에 따라 기존 노선번호 일괄 개정\n-「철도사업법 시행규칙」제2조의2에 따라 철도노선을 고속(1), 준고속(2), 일반(3)으로 분류하고, 광역전철은 따로 명시하여 지정\n- 기존 4자리 번호체계에 따라 지선번호가 부족*한 점을 감안하여 5자리 번호체계로 변경",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "□ 고속철도노선 : 10개 노선(간선 3, 지선 7)[그림] □ 준고속철도노선 : 1개 노선(간선 1)[그림] □ 일반철도노선 : 92개 노선(간선 23, 지선 70)[그림][그림][그림][그림][그림][그림][그림] □ 광역전철노선이 포함된 노선 : 18개 노선(간선 16, 지선 2)[그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=42109651",
+            "seq": "42109651",
+            "filename": "전문_1.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.bmp",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=42109653",
+            "seq": "42109653",
+            "filename": "전문_2.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_2.bmp",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=42116028",
+            "seq": "42116028",
+            "filename": "전문_3.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_3.bmp",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=42116030",
+            "seq": "42116030",
+            "filename": "전문_4.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_4.bmp",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=42116032",
+            "seq": "42116032",
+            "filename": "전문_5.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_5.bmp",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=42116034",
+            "seq": "42116034",
+            "filename": "전문_6.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_6.bmp",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=42116036",
+            "seq": "42116036",
+            "filename": "전문_7.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_7.bmp",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=42116038",
+            "seq": "42116038",
+            "filename": "전문_8.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_8.bmp",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=42116040",
+            "seq": "42116040",
+            "filename": "전문_9.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_9.bmp",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=42109669",
+            "seq": "42109669",
+            "filename": "전문_10.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_10.bmp",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:사업용철도노선번호변경고시#DOC"
+      }
+    ]
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "사업용철도 노선번호 변경고시 정정.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=42116430",
+      "filename": "사업용철도 노선번호 변경고시 정정.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/사업용철도 노선번호 변경고시 정정.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "190410-사업용철도 노선번호 변경고시.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=42103408",
+      "filename": "190410-사업용철도 노선번호 변경고시.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/190410-사업용철도 노선번호 변경고시.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "190513-개정이유서.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=42103409",
+      "filename": "190513-개정이유서.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/190513-개정이유서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "사업용철도 노선번호 변경고시 정정이유서.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=42115876",
+      "filename": "사업용철도 노선번호 변경고시 정정이유서.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/사업용철도 노선번호 변경고시 정정이유서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/사업용철도 노선번호 변경고시"
+  },
+  "provision_id": "admrul:사업용철도노선번호변경고시#DOC",
+  "addendum_provision_id": "admrul:사업용철도노선번호변경고시#ADDENDUM",
+  "amendment_provision_id": "admrul:사업용철도노선번호변경고시#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "사업용철도 노선번호 변경고시/사업용철도 노선번호 변경고시.json"
+}
