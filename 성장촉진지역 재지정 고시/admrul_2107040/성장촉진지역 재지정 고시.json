@@ -88,12 +88,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/성장촉진지역 재지정 고시"
   },
-  "provision_id": "admrul:성장촉진지역재지정고시#DOC",
-  "addendum_provision_id": "admrul:성장촉진지역재지정고시#ADDENDUM",
-  "amendment_provision_id": "admrul:성장촉진지역재지정고시#AMENDMENT",
+  "provision_id": "admrul:성장촉진지역재지정고시:admrul_2107040#DOC",
+  "addendum_provision_id": "admrul:성장촉진지역재지정고시:admrul_2107040#ADDENDUM",
+  "amendment_provision_id": "admrul:성장촉진지역재지정고시:admrul_2107040#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "성장촉진지역 재지정 고시/성장촉진지역 재지정 고시.json"
+  "git_path": "성장촉진지역 재지정 고시/admrul_2107040/성장촉진지역 재지정 고시.json"
 }
