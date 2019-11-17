@@ -1,0 +1,112 @@
+{
+  "law_id": "2104293",
+  "mst": "2100000183602",
+  "law_name": "2016년도 산업·발전부문 온실가스·에너지 목표관리업체 변경",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2104293",
+  "promulgation_no": "2019-178",
+  "promulgation_date": "20191111",
+  "enforcement_date": "20191117",
+  "revision_date": "20191111",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "산업통상부(온실가스감축팀)",
+    "담당자명": "김애선",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "2016년도 산업·발전부문 온실가스·에너지 목표관리업체 변경",
+    "발령일자": "20191111",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "산업통상부",
+    "전화번호": "044-203-5165",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1451000",
+    "생성일자": "20200520",
+    "행정규칙ID": "2104293",
+    "시행일자": "20191117",
+    "담당부서기관코드": "1450281",
+    "발령번호": "2019-178",
+    "행정규칙일련번호": "2100000183602",
+    "상위부처명": "산업통상부"
+  },
+  "amendment_text": "⊙산업통상자원부고시 제2019-178호\n산업통상자원부장관은 「온실가스·에너지 목표관리 운영 등에 관한 지침」(환경부 고시 제2016-255호, 2016.12.30.) 제20조의 규정에 따라 산업통상자원부 소관 “2016년도 산업·발전부문 온실가스·에너지 목표관리업체 추가고시(산업통상자원부 고시 제2017-172호)”를 업체명 변경 등의 이유로 다음과 같이 변경고시합니다.\n2019년 11월 11일\n산업통상자원부장관\n2016년도 산업·발전부문 온실가스·에너지 목표관리업체 변경\n[본문 생략]",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "[그림] □ 문의처ㅇ 산업통상자원부 온실가스감축팀 : 044-203-4237ㅇ 한국에너지공단 산업기후실 목표관리팀 : 052-920-0392",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49556749",
+            "seq": "49556749",
+            "filename": "전문_1.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.bmp",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:2016년도산업발전부문온실가스에너지목표관리업체변경#DOC"
+      }
+    ]
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "2016년도 산업발전부문 온실가스에너지 목표관리업체 변경고시(2019-178).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=49378443",
+      "filename": "2016년도 산업발전부문 온실가스에너지 목표관리업체 변경고시(2019-178).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/2016년도 산업발전부문 온실가스에너지 목표관리업체 변경고시(2019-178).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "2016년도 산업발전부문 온실가스에너지 목표관리업체 변경고시(2019-178).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=49378445",
+      "filename": "2016년도 산업발전부문 온실가스에너지 목표관리업체 변경고시(2019-178).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/2016년도 산업발전부문 온실가스에너지 목표관리업체 변경고시(2019-178).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/2016년도 산업·발전부문 온실가스·에너지 목표관리업체 변경"
+  },
+  "provision_id": "admrul:2016년도산업발전부문온실가스에너지목표관리업체변경#DOC",
+  "addendum_provision_id": "admrul:2016년도산업발전부문온실가스에너지목표관리업체변경#ADDENDUM",
+  "amendment_provision_id": "admrul:2016년도산업발전부문온실가스에너지목표관리업체변경#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "2016년도 산업·발전부문 온실가스·에너지 목표관리업체 변경/2016년도 산업·발전부문 온실가스·에너지 목표관리업체 변경.json"
+}
