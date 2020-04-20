@@ -77,7 +77,7 @@
             "file_store_url": ""
           }
         ],
-        "provision_id": "admrul:공공폐수처리시설방류수수질기준지정고시#DOC"
+        "provision_id": "admrul:공공폐수처리시설방류수수질기준지정고시:admrul_71712#DOC"
       }
     ]
   },
@@ -86,7 +86,7 @@
       "promulgation_date": "20200420",
       "promulgation_no": "2020-89",
       "content": "부칙 <제2020-89호,2020. 4. 20.>이 고시는 고시한 날부터 시행한다.",
-      "provision_id": "admrul:공공폐수처리시설방류수수질기준지정고시#ADDENDUM",
+      "provision_id": "admrul:공공폐수처리시설방류수수질기준지정고시:admrul_71712#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000188375",
       "source_version_uid": "",
@@ -131,12 +131,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/공공폐수처리시설 방류수 수질기준 지정·고시"
   },
-  "provision_id": "admrul:공공폐수처리시설방류수수질기준지정고시#DOC",
-  "addendum_provision_id": "admrul:공공폐수처리시설방류수수질기준지정고시#ADDENDUM",
-  "amendment_provision_id": "admrul:공공폐수처리시설방류수수질기준지정고시#AMENDMENT",
+  "provision_id": "admrul:공공폐수처리시설방류수수질기준지정고시:admrul_71712#DOC",
+  "addendum_provision_id": "admrul:공공폐수처리시설방류수수질기준지정고시:admrul_71712#ADDENDUM",
+  "amendment_provision_id": "admrul:공공폐수처리시설방류수수질기준지정고시:admrul_71712#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "공공폐수처리시설 방류수 수질기준 지정·고시/공공폐수처리시설 방류수 수질기준 지정·고시.json"
+  "git_path": "공공폐수처리시설 방류수 수질기준 지정·고시/admrul_71712/공공폐수처리시설 방류수 수질기준 지정·고시.json"
 }
