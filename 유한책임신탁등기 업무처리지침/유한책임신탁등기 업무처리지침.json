@@ -1,6 +1,6 @@
 {
   "law_id": "2111487",
-  "mst": "2200000102123",
+  "mst": "2200000109101",
   "law_name": "유한책임신탁등기 업무처리지침",
   "law_abbr": "",
   "law_type": "등기예규",
@@ -23,16 +23,16 @@
     "행정규칙종류": "등기예규",
     "제개정구분코드": "200403",
     "조문형식여부": "N",
-    "소관부처명": "대법원",
+    "소관부처명": "",
     "전화번호": "",
     "제개정구분명": "일부개정",
     "소관부처코드": "9740000",
-    "생성일자": "20241125",
+    "생성일자": "20261014",
     "행정규칙ID": "2111487",
     "시행일자": "20200731",
     "담당부서기관코드": "",
     "발령번호": "1700",
-    "행정규칙일련번호": "2200000102123",
+    "행정규칙일련번호": "2200000109101",
     "상위부처명": "대법원"
   },
   "amendment_text": "유한책임신탁등기 업무처리지침 일부를 다음과 같이 개정한다.\n양식 제15호, 제16호를 별지와 같이 한다.\n부 칙\n이 예규는 즉시 시행한다.",
@@ -232,7 +232,7 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111487",
-        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000102123&bylNo=&bylBrNo=",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000109101&bylNo=&bylBrNo=",
         "resolve_method": "html",
         "source_provision_id": "admrul:유한책임신탁등기업무처리지침#DOC",
         "target_unit": "FRM0001",
@@ -357,7 +357,7 @@
         "appendix_found": false,
         "target_mst": "",
         "source_admrul_seq": "2111487",
-        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000102123&bylNo=&bylBrNo=",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000109101&bylNo=&bylBrNo=",
         "resolve_method": "html",
         "source_provision_id": "admrul:유한책임신탁등기업무처리지침#DOC",
         "target_unit": "BJ0013",
@@ -382,7 +382,7 @@
         "appendix_found": false,
         "target_mst": "",
         "source_admrul_seq": "2111487",
-        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000102123&bylNo=&bylBrNo=",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000109101&bylNo=&bylBrNo=",
         "resolve_method": "html",
         "source_provision_id": "admrul:유한책임신탁등기업무처리지침#DOC",
         "target_unit": "BJ0014",
@@ -407,7 +407,7 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111487",
-        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000102123&bylNo=&bylBrNo=",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000109101&bylNo=&bylBrNo=",
         "resolve_method": "html",
         "source_provision_id": "admrul:유한책임신탁등기업무처리지침#DOC",
         "target_unit": "FRM0015",
@@ -432,7 +432,7 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111487",
-        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000102123&bylNo=&bylBrNo=",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000109101&bylNo=&bylBrNo=",
         "resolve_method": "html",
         "source_provision_id": "admrul:유한책임신탁등기업무처리지침#DOC",
         "target_unit": "FRM0016",
@@ -489,7 +489,7 @@
       "content": "부   칙 (2013. 4. 17.제1494호)이 예규는 2013년 5월 1일부터 시행한다.",
       "provision_id": "admrul:유한책임신탁등기업무처리지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000102123",
+      "source_mst": "2200000109101",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20200731"
@@ -500,7 +500,7 @@
       "content": "부  칙(2014. 11. 5. 제1555호)이 예규는 2014년 11월 21일부터 시행한다.",
       "provision_id": "admrul:유한책임신탁등기업무처리지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000102123",
+      "source_mst": "2200000109101",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20200731"
@@ -511,7 +511,7 @@
       "content": "부  칙(2015. 12. 8. 제1594호)이 예규는 2016년 1월 11일부터 시행한다.",
       "provision_id": "admrul:유한책임신탁등기업무처리지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000102123",
+      "source_mst": "2200000109101",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20200731"
@@ -522,7 +522,7 @@
       "content": "부  칙(2020. 7. 31. 제1700호)이 예규는 즉시 시행한다.",
       "provision_id": "admrul:유한책임신탁등기업무처리지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000102123",
+      "source_mst": "2200000109101",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20200731"
@@ -533,7 +533,7 @@
       "content": "부   칙이 예규는 2012년 7월 26일부터 시행한다.",
       "provision_id": "admrul:유한책임신탁등기업무처리지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000102123",
+      "source_mst": "2200000109101",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20200731"
@@ -549,11 +549,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614937",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566769",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614937",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566769",
           "name": "",
           "file_store_url": ""
         }
@@ -574,11 +574,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614941",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566771",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614941",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566771",
           "name": "",
           "file_store_url": ""
         }
@@ -599,11 +599,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614945",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566777",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614945",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566777",
           "name": "",
           "file_store_url": ""
         }
@@ -624,11 +624,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614947",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566779",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614947",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566779",
           "name": "",
           "file_store_url": ""
         }
@@ -649,11 +649,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614953",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566785",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614953",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566785",
           "name": "",
           "file_store_url": ""
         }
@@ -674,11 +674,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614957",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566789",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614957",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566789",
           "name": "",
           "file_store_url": ""
         }
@@ -699,11 +699,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614961",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566793",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614961",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566793",
           "name": "",
           "file_store_url": ""
         }
@@ -724,11 +724,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614963",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566795",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614963",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566795",
           "name": "",
           "file_store_url": ""
         }
@@ -749,11 +749,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614969",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566801",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614969",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566801",
           "name": "",
           "file_store_url": ""
         }
@@ -774,11 +774,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614973",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566805",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614973",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566805",
           "name": "",
           "file_store_url": ""
         }
@@ -799,11 +799,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614977",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566809",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614977",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566809",
           "name": "",
           "file_store_url": ""
         }
@@ -824,11 +824,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614979",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566811",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614979",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566811",
           "name": "",
           "file_store_url": ""
         }
@@ -849,11 +849,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614989",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566821",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614989",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566821",
           "name": "",
           "file_store_url": ""
         }
@@ -861,10 +861,10 @@
       "images": [],
       "provision_id": "admrul:유한책임신탁등기업무처리지침#FRM0015",
       "appendix_duplicate_count": 2,
-      "appendix_instance_id": "admrul:유한책임신탁등기업무처리지침#FRM0015:file:145614989",
-      "filename": "양식15_[양식 제15호] 유한책임신탁등기사항전부증명서(말소사항포함)_flSeq145614989.hwp",
+      "appendix_instance_id": "admrul:유한책임신탁등기업무처리지침#FRM0015:file:170566821",
+      "filename": "양식15_[양식 제15호] 유한책임신탁등기사항전부증명서(말소사항포함)_flSeq170566821.hwp",
       "file_dir": "양식",
-      "local_path": "양식/양식15_[양식 제15호] 유한책임신탁등기사항전부증명서(말소사항포함)_flSeq145614989.hwp",
+      "local_path": "양식/양식15_[양식 제15호] 유한책임신탁등기사항전부증명서(말소사항포함)_flSeq170566821.hwp",
       "file_store_url": ""
     },
     {
@@ -876,11 +876,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614991",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566823",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614991",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566823",
           "name": "",
           "file_store_url": ""
         }
@@ -888,10 +888,10 @@
       "images": [],
       "provision_id": "admrul:유한책임신탁등기업무처리지침#FRM0015",
       "appendix_duplicate_count": 2,
-      "appendix_instance_id": "admrul:유한책임신탁등기업무처리지침#FRM0015:file:145614991",
-      "filename": "양식15_[양식 제15호] 유한책임신탁등기사항전부증명서(말소사항포함)_flSeq145614991.hwp",
+      "appendix_instance_id": "admrul:유한책임신탁등기업무처리지침#FRM0015:file:170566823",
+      "filename": "양식15_[양식 제15호] 유한책임신탁등기사항전부증명서(말소사항포함)_flSeq170566823.hwp",
       "file_dir": "양식",
-      "local_path": "양식/양식15_[양식 제15호] 유한책임신탁등기사항전부증명서(말소사항포함)_flSeq145614991.hwp",
+      "local_path": "양식/양식15_[양식 제15호] 유한책임신탁등기사항전부증명서(말소사항포함)_flSeq170566823.hwp",
       "file_store_url": ""
     },
     {
@@ -903,11 +903,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614995",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566827",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614995",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170566827",
           "name": "",
           "file_store_url": ""
         }
