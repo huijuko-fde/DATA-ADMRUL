@@ -1,0 +1,140 @@
+{
+  "law_id": "75592",
+  "mst": "2100000196672",
+  "law_name": "경산 공공폐수처리시설 기본계획(변경) 승인",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:75592",
+  "promulgation_no": "2021-4",
+  "promulgation_date": "20210108",
+  "enforcement_date": "20210108",
+  "revision_date": "20210108",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "기후에너지환경부(수질관리과)",
+    "담당자명": "정진호",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "경산 공공폐수처리시설 기본계획(변경) 승인",
+    "발령일자": "20210108",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "기후에너지환경부",
+    "전화번호": "044-201-7068",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1482000",
+    "생성일자": "20240619",
+    "행정규칙ID": "75592",
+    "시행일자": "20210108",
+    "담당부서기관코드": "1480779",
+    "발령번호": "2021-4",
+    "행정규칙일련번호": "2100000196672",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "⊙환경부 고시 제2021-4호\n「물환경보전법」제49조 제3항의 규정에 의하여 경산 공공폐수처리시설 기본계획을 다음과 같이 변경하였기에 경산 공공폐수처리시설 공동처리구역 지정 고시(환경부고시 제2015-235호)를 다음과 같이 개정 고시합니다.\n2021년 1월 8일\n환경부장관\n경산 공공폐수처리시설 기본계획(변경) 승인\n[본문 생략]\n부칙\n이 고시는 고시한 날부터 시행한다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "1. 사업계획내용가. 사업지역(공동처리구역)○ 면 적 : (당초)18,327,355㎡ → (변경) 54,110,000㎡(조정 후* 26,330,000㎡)[그림]* 경산 제4 일반산단 및 경산지식산업지구 활성화로 공장 오·폐수 발생량 증가 시 조정 예정 2. 오염원분포 및 폐수배출량과 그 예측에 관한 사항○ 오염원 분포 : 공동처리구역에서 발생하는 오·폐수 등○ 오·폐수 배출량 : (당초)84,891㎥/일 → (변경)98,802㎥/일(조정 후 87,870㎡) 3. 폐수처리계통도, 처리능력 및 처리방법가. 폐수처리계통도○ 유입 → 유량조정조 → 1차침전조 → 생물반응조 → 2차침전조 → 총인처리시설(응집가압부상) → 소독·방류나 처리능력 : 100,000㎥/일다. 처리방법 : 생물학적 고도처리공법(ACS공법 + S-DAF공법) 4. 기본계획서 열람 장소 및 기간가. 열람장소 : 환경부 수질관리과(전화 : 044-201-7064)대구지방환경청 수질총량관리과(전화 : 053-230-6410)나. 열람기간 : 30일 이상 5. 기본계획 승인조건가. 승인조건 1부.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=93562571",
+            "seq": "93562571",
+            "filename": "전문_1.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.bmp",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:경산공공폐수처리시설기본계획(변경)승인#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20210108",
+      "promulgation_no": "2021-4",
+      "content": "부칙 <제2021-4호,2021. 1. 8.>이 고시는 고시한 날부터 시행한다.",
+      "provision_id": "admrul:경산공공폐수처리시설기본계획(변경)승인#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000196672",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20210108"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "경산 공공폐수처리시설 기본계획(변경) 승인 고시.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=141379565",
+      "filename": "경산 공공폐수처리시설 기본계획(변경) 승인 고시.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/경산 공공폐수처리시설 기본계획(변경) 승인 고시.pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "(양식)조문별제개정이유서_행정규칙.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=141379569",
+      "filename": "(양식)조문별제개정이유서_행정규칙.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(양식)조문별제개정이유서_행정규칙.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "경산 공공폐수처리시설 기본계획(변경) 승인 고시.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=141379561",
+      "filename": "경산 공공폐수처리시설 기본계획(변경) 승인 고시.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/경산 공공폐수처리시설 기본계획(변경) 승인 고시.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "(양식)조문별제개정이유서_행정규칙.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=141379573",
+      "filename": "(양식)조문별제개정이유서_행정규칙.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(양식)조문별제개정이유서_행정규칙.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/경산 공공폐수처리시설 기본계획(변경) 승인"
+  },
+  "provision_id": "admrul:경산공공폐수처리시설기본계획(변경)승인#DOC",
+  "addendum_provision_id": "admrul:경산공공폐수처리시설기본계획(변경)승인#ADDENDUM",
+  "amendment_provision_id": "admrul:경산공공폐수처리시설기본계획(변경)승인#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "경산 공공폐수처리시설 기본계획(변경) 승인/경산 공공폐수처리시설 기본계획(변경) 승인.json"
+}
