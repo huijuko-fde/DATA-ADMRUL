@@ -1,0 +1,328 @@
+{
+  "law_id": "77883",
+  "mst": "2100000202025",
+  "law_name": "안전기준 등록",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:77883",
+  "promulgation_no": "2021-39",
+  "promulgation_date": "20210616",
+  "enforcement_date": "20210622",
+  "revision_date": "20210616",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "행정안전부(예방안전제도과)",
+    "담당자명": "마윤경",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "안전기준 등록",
+    "발령일자": "20210616",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "N",
+    "소관부처명": "행정안전부",
+    "전화번호": "044-205-4512",
+    "제개정구분명": "제정",
+    "소관부처코드": "1741000",
+    "생성일자": "20220829",
+    "행정규칙ID": "77883",
+    "시행일자": "20210622",
+    "담당부서기관코드": "1741243",
+    "발령번호": "2021-39",
+    "행정규칙일련번호": "2100000202025",
+    "상위부처명": "행정안전부"
+  },
+  "amendment_text": "⊙행정안전부 고시 제2021-39호\n다음 안전기준에 대해 재난 및 안전관리 기본법 제34조의7에 따라 확정하고, 같은 법 시행령 제43조의10제2항에 따라 다음과 같이 고시합니다.\n2021년 6월 16일\n행정안전부장관\n안전기준 등록\n[본문 생략]",
+  "revision_reason": "◇ 제ㆍ개정 이유\n- 부처별 산재해 있는 안전기준의 체계적 관리를 위해 「재난 및 안전관리 기본법」제34조의7에 따라 안전기준심의회 심의를 거쳐 신설 및 변경 안전기준 등록 확정\n\n◇ 주요내용\n- 제 11회 안전기준심의회에서 등록 확정된 176개의 신규 및 변경 안전기준을 관보 고시(「재난 및 안전관리 기본법 시행령」 제43조의10)",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "1. 등록목적ㅇ 국민의 안전과 밀접한 안전기준을 통합적으로 등록ㆍ관리하여, 안전 사각지대 적시 해소와 안전기준의 체계적 관리 도모 2. 주요 내용? 신규등록 안전기준- (행정안전부) 엘리베이터 제어반 안전기준 등 21개 안전기준[그림][그림]? 변경등록 안전기준- (고용노동부) 외국어로 작성하는 안전보건표지에 관한 규정 등 26개 안전기준[그림][그림]- (과학기술정보통신부) 방송통신설비의 안전성·신뢰성 및 통신규약에 대한 기술기준 등 2개 안전기준[그림]- (교육부) 급식시설 세부기준 등 4개 안전기준[그림]- (국토교통부) 시설물의 안전등급 기준 등 63개 안전기준[그림][그림][그림]- (보건복지부) 정신의료기관의 시설 및 장비 기준 등 2개 안전기준[그림]- (소방청) 연결살수설비의 화재안전기준 등 1개 안전기준[그림]- (식품의약품안전처) 오·남용우려의약품 지정에 관한 규정 등 2개 안전기준[그림]- (여성가족부) 수련시설의 안전기준 등 5개 안전기준[그림]- (질병관리청) 권역별 감염병병원의 지정기준 등 4개 안전기준[그림]- (해양경찰청) 수상레저기구 안전검사 기준 등 2개 안전기준[그림]- (해양수산부) 저인화점연료 추진선박기준 등 16개 안전기준[그림]- (행정안전부) 소형화물용 엘리베이터 안전기준 등 5개 안전기준[그림]- (환경부) 공회전제한장치의 성능기준 등 7개 안전기준[그림]? 폐지등록 안전기준- (경찰청) 신호기 등의 설치 및 관리 등 1개 안전기준[그림]- (고용노동부) 안전밸브의 조정(이동식 크레인) 등 1개 안전기준[그림]- (교육부) 학교시설 안전관리기준 등 2개 안전기준[그림]- (국토교통부) 항행안전기설의 관리 등 3개 안전기준[그림]- (소방청) 소방용수시설의 설치기준 등 5개 안전기준[그림]- (질병관리청) 소독의 기준 등 2개 안전기준[그림]- (행정안전부) 유압식 엘리베이터의 구조 및 검사기준 등 2개 안전기준[그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555711",
+            "seq": "103555711",
+            "filename": "전문_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555713",
+            "seq": "103555713",
+            "filename": "전문_2.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_2.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555707",
+            "seq": "103555707",
+            "filename": "전문_3.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_3.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555709",
+            "seq": "103555709",
+            "filename": "전문_4.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_4.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555715",
+            "seq": "103555715",
+            "filename": "전문_5.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_5.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555755",
+            "seq": "103555755",
+            "filename": "전문_6.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_6.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555717",
+            "seq": "103555717",
+            "filename": "전문_7.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_7.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555719",
+            "seq": "103555719",
+            "filename": "전문_8.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_8.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555721",
+            "seq": "103555721",
+            "filename": "전문_9.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_9.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555907",
+            "seq": "103555907",
+            "filename": "전문_10.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_10.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555725",
+            "seq": "103555725",
+            "filename": "전문_11.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_11.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555723",
+            "seq": "103555723",
+            "filename": "전문_12.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_12.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555727",
+            "seq": "103555727",
+            "filename": "전문_13.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_13.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555729",
+            "seq": "103555729",
+            "filename": "전문_14.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_14.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555921",
+            "seq": "103555921",
+            "filename": "전문_15.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_15.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555735",
+            "seq": "103555735",
+            "filename": "전문_16.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_16.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555943",
+            "seq": "103555943",
+            "filename": "전문_17.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_17.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555999",
+            "seq": "103555999",
+            "filename": "전문_18.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_18.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103556013",
+            "seq": "103556013",
+            "filename": "전문_19.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_19.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103556015",
+            "seq": "103556015",
+            "filename": "전문_20.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_20.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555745",
+            "seq": "103555745",
+            "filename": "전문_21.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_21.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103556033",
+            "seq": "103556033",
+            "filename": "전문_22.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_22.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555747",
+            "seq": "103555747",
+            "filename": "전문_23.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_23.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103555749",
+            "seq": "103555749",
+            "filename": "전문_24.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_24.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=103554669",
+            "seq": "103554669",
+            "filename": "전문_25.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_25.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:안전기준등록:admrul_77883#DOC"
+      }
+    ]
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "(고시)안전기준등록.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=103555151",
+      "filename": "(고시)안전기준등록.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(고시)안전기준등록.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "(고시)조문별제개정이유서.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=103555153",
+      "filename": "(고시)조문별제개정이유서.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(고시)조문별제개정이유서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/안전기준 등록"
+  },
+  "provision_id": "admrul:안전기준등록:admrul_77883#DOC",
+  "addendum_provision_id": "admrul:안전기준등록:admrul_77883#ADDENDUM",
+  "amendment_provision_id": "admrul:안전기준등록:admrul_77883#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "안전기준 등록/admrul_77883/안전기준 등록.json"
+}
