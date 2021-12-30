@@ -1,0 +1,112 @@
+{
+  "law_id": "2001722",
+  "mst": "2100000208060",
+  "law_name": "포락지조사 증명기관의 지정",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2001722",
+  "promulgation_no": "2021-216",
+  "promulgation_date": "20211224",
+  "enforcement_date": "20211230",
+  "revision_date": "20211224",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "해양수산부(해양공간정책과)",
+    "담당자명": "정다혜",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "포락지조사 증명기관의 지정",
+    "발령일자": "20211224",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "해양수산부",
+    "전화번호": "051-773-5265,5266",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1192000",
+    "생성일자": "20220207",
+    "행정규칙ID": "2001722",
+    "시행일자": "20211230",
+    "담당부서기관코드": "1192555",
+    "발령번호": "2021-216",
+    "행정규칙일련번호": "2100000208060",
+    "상위부처명": "해양수산부"
+  },
+  "amendment_text": "⊙해양수산부 고시 제2021-216호\n「공유수면 관리 및 매립에 관한 법률」 시행규칙 제4조 및 공유수면 관리 및 매립에 관한 업무처리규정 제13조에 따라 다음과 같이 포락지조사 증명기관을 지정하여 고시합니다.\n2021년 12월 24일\n해양수산부장관\n포락지조사 증명기관의 지정\n[본문 생략]",
+  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ「공유수면법 시행규칙 제4조제2항제9호 및 공유수면 업무처리규정 제13조」에 따라 해양지질 및 측량 등에 전문성이 있는 기관을 포락지조사 증명기관으로 지정(지정고시일로부터 3년)또는 지정기간을 연장하도록 규정\n◇ 주요내용\nㅇ 군산대학교 환경건설연구소 등 5개 기관을 포락지 조사 증명기관으로 지정",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "[그림]* 포락지조사 증명기관의 지정기간은 지정고시일로부터 3년임",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=111757595",
+            "seq": "111757595",
+            "filename": "전문_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:포락지조사증명기관의지정#DOC"
+      }
+    ]
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "포락지조사 증명기관 지정고시(2021).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=111585011",
+      "filename": "포락지조사 증명기관 지정고시(2021).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/포락지조사 증명기관 지정고시(2021).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "행정규칙사후심사(정부입법지원시스템).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=111585013",
+      "filename": "행정규칙사후심사(정부입법지원시스템).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/행정규칙사후심사(정부입법지원시스템).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/포락지조사 증명기관의 지정"
+  },
+  "provision_id": "admrul:포락지조사증명기관의지정#DOC",
+  "addendum_provision_id": "admrul:포락지조사증명기관의지정#ADDENDUM",
+  "amendment_provision_id": "admrul:포락지조사증명기관의지정#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "포락지조사 증명기관의 지정/포락지조사 증명기관의 지정.json"
+}
