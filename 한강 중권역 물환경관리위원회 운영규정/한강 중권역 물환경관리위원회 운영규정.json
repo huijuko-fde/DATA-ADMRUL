@@ -1,0 +1,261 @@
+{
+  "law_id": "60493",
+  "mst": "2100000210430",
+  "law_name": "한강 중권역 물환경관리위원회 운영규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:60493",
+  "promulgation_no": "2022-1",
+  "promulgation_date": "20220405",
+  "enforcement_date": "20220405",
+  "revision_date": "20220405",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "한강유역환경청(유역계획과)",
+    "담당자명": "이형민",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "한강 중권역 물환경관리위원회 운영규정",
+    "발령일자": "20220405",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "한강유역환경청",
+    "전화번호": "031-790-2441",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1482000",
+    "생성일자": "20220407",
+    "행정규칙ID": "60493",
+    "시행일자": "20220405",
+    "담당부서기관코드": "1480438",
+    "발령번호": "2022-1",
+    "행정규칙일련번호": "2100000210430",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 하천관리 일원화에 따른 조직개편(‘22.1)으로 서울지방국토관리청 하천국이 한강유역환경청 하천국으로 이관됨에 따라 ‘한강 중권역 물환경관리위원회’ 구성 중 ‘서울지방국토관리청’을 삭제하고자 함\n◇ 주요내용\n○ 위원 구성 개정(제3조제2항제4호)\n- 위원회 구성원 중 ‘서울지방국토관리청’ 삭제",
+  "body": {
+    "format": "articles",
+    "article_count": 11,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제1조(목적) 이 규정은 한강수계 중권역의 물환경관리를 위한 한강 중권역 물환경관리위원회 구성ㆍ운영에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:한강중권역물환경관리위원회운영규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "기능",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조(기능) 한강 중권역 물환경관리위원회(이하 ‘위원회’라 한다)는 다음 각호의 사항을 수행한다.1. 중권역별 관리 우선순위 선정에 관한 사항2. 우선순위 중권역에 대한 중권역 계획 수립에 관한 사항3. 중권역 계획(안) 최종 확정에 관한 사항4. 연차별 중권역 계획의 총괄 조정에 관한 사항 등",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:한강중권역물환경관리위원회운영규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "구성",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제3조(구성) ① 위원회 위원은 위원장을 포함하여 15인 내외로 구성하며, 위원장은 한강유역환경청장이 된다.② 위원은 다음 각호 기관의 장이 위촉한 자와 지역 전문가 또는 시민단체로 구성한다.1. 한강유역환경청2. 한강물환경연구소3. 서울특별시ㆍ인천광역시ㆍ경기도ㆍ강원도ㆍ충북도ㆍ충남도(이하 ‘지자체’라 한다)",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:한강중권역물환경관리위원회운영규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "위원의 임기",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제4조(위원의 임기) ① 지역 전문가 또는 시민단체의 임기는 2년으로 하며 연임할 수 있다.② 한강유역환경청, 한강물환경연구소, 지자체의 위원은 당연직으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:한강중권역물환경관리위원회운영규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "회의",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제5조(회의) ① 회의는 위원장이 필요에 따라 소집한다.② 위원장은 위원회의 의장이 된다.③ 위원회의 회의는 재적위원 3분의2 출석으로 개의하고, 출석위원 과반수의 찬성으로 의결한다. 다만, 제2조 제2호 내지 제4호에 관한 사항은 해당 중권역 계획 수립지역 외의 지자체 위원은 재적위원에서 제외한다.④ 위원회의 회의는 위원장이 필요하다고 인정하는 경우에는 서면심의로 대체할 수 있다.⑤ 위원은 부득이한 사유로 협의회에 참석할 수 없을 때에는 서면으로 의견을 제출할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "한강 중권역 물환경관리위원회 운영규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "60493",
+            "target_url": "https://www.law.go.kr/행정규칙/한강 중권역 물환경관리위원회 운영규정/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:한강중권역물환경관리위원회운영규정#JO0005",
+            "reference_id": "admrul:한강중권역물환경관리위원회운영규정#JO0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "한강 중권역 물환경관리위원회 운영규정/한강 중권역 물환경관리위원회 운영규정.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:한강중권역물환경관리위원회운영규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "결정사항의 성실반영",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제6조(결정사항의 성실반영) 위원회 참여기관은 위원회에서 결정된 사항에 대하여는 해당기관의 정책에 성실히 반영하고 보고하여야 하며, 상부 건의 및 협의가 필요한 사항에 대하여는 위원장이 성실히 이행하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:한강중권역물환경관리위원회운영규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "의견의 청취",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제7조(의견의 청취) ① 위원회를 운영함에 있어서 필요한 때에는 관계자의 의견을 들을 수 있다.② 기타 필요시 위원장이 지정하는 관계전문가 또는 공무원은 회의에 참석하여 의견을 진술하고 토의에 참여할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:한강중권역물환경관리위원회운영규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "조사ㆍ연구의 의뢰",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제8조(조사ㆍ연구의 의뢰) 위원회는 효율적인 업무수행을 위하여 필요하다고 인정되는 때에는 국립환경과학원 등 전문기관에 자문을 구하거나 조사 또는 연구를 의뢰할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:한강중권역물환경관리위원회운영규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "수당 등",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제9조(수당 등) 위원회 회의에 참여하는 관계 전문가 등에 대해서는 위원회가 정하는 바에 따라 예산의 범위내에서 수당 및 여비를 지급할 수 있다. 다만 소관업무와 직접 관련되는 공무원의 경우에는 그러하지 아니하다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:한강중권역물환경관리위원회운영규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "간사",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제10조(간사) ① 위원회의 실무를 처리하기 위하여 간사 1인을 둔다.② 간사는 한강유역환경청 유역계획과장이 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:한강중권역물환경관리위원회운영규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "운영세칙",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제11조(운영세칙) 이 훈령에 규정되지 아니한 사항으로서 위원회 운영에 필요한 사항은 별도의 운영세칙으로 규정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:한강중권역물환경관리위원회운영규정#JO0011"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20090730",
+      "promulgation_no": "2009-37",
+      "content": "부칙 <제2009-37호,2009. 7. 30.>① 이 훈령은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:한강중권역물환경관리위원회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000210430",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20220405"
+    },
+    {
+      "promulgation_date": "20220405",
+      "promulgation_no": "2022-1",
+      "content": "부칙 <제2022-1호, 2022. 4. 5.>① 이 훈령은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:한강중권역물환경관리위원회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000210430",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20220405"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "한강 중권역 물환경관리위원회 운영규정_전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=114730549",
+      "filename": "한강 중권역 물환경관리위원회 운영규정_전문.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/한강 중권역 물환경관리위원회 운영규정_전문.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "[붙임]조문별제개정이유서.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=114730551",
+      "filename": "[붙임]조문별제개정이유서.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/[붙임]조문별제개정이유서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "internal_ref": 1
+    },
+    "articles_total": 11,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/한강 중권역 물환경관리위원회 운영규정"
+  },
+  "provision_id": "admrul:한강중권역물환경관리위원회운영규정#DOC",
+  "addendum_provision_id": "admrul:한강중권역물환경관리위원회운영규정#ADDENDUM",
+  "amendment_provision_id": "admrul:한강중권역물환경관리위원회운영규정#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "한강 중권역 물환경관리위원회 운영규정/한강 중권역 물환경관리위원회 운영규정.json"
+}
