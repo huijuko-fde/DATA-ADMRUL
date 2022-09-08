@@ -80,12 +80,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/대기오염측정망 설치계획 고시"
   },
-  "provision_id": "admrul:대기오염측정망설치계획고시#DOC",
-  "addendum_provision_id": "admrul:대기오염측정망설치계획고시#ADDENDUM",
-  "amendment_provision_id": "admrul:대기오염측정망설치계획고시#AMENDMENT",
+  "provision_id": "admrul:대기오염측정망설치계획고시:admrul_82992#DOC",
+  "addendum_provision_id": "admrul:대기오염측정망설치계획고시:admrul_82992#ADDENDUM",
+  "amendment_provision_id": "admrul:대기오염측정망설치계획고시:admrul_82992#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "대기오염측정망 설치계획 고시/대기오염측정망 설치계획 고시.json"
+  "git_path": "대기오염측정망 설치계획 고시/admrul_82992/대기오염측정망 설치계획 고시.json"
 }
