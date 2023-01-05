@@ -59,7 +59,7 @@
             "file_store_url": ""
           }
         ],
-        "provision_id": "admrul:전원개발사업실시계획승인(변경)#DOC"
+        "provision_id": "admrul:전원개발사업실시계획승인(변경):admrul_79407#DOC"
       }
     ]
   },
@@ -101,12 +101,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/전원개발사업실시계획 승인(변경)"
   },
-  "provision_id": "admrul:전원개발사업실시계획승인(변경)#DOC",
-  "addendum_provision_id": "admrul:전원개발사업실시계획승인(변경)#ADDENDUM",
-  "amendment_provision_id": "admrul:전원개발사업실시계획승인(변경)#AMENDMENT",
+  "provision_id": "admrul:전원개발사업실시계획승인(변경):admrul_79407#DOC",
+  "addendum_provision_id": "admrul:전원개발사업실시계획승인(변경):admrul_79407#ADDENDUM",
+  "amendment_provision_id": "admrul:전원개발사업실시계획승인(변경):admrul_79407#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "전원개발사업실시계획 승인(변경)/전원개발사업실시계획 승인(변경).json"
+  "git_path": "전원개발사업실시계획 승인(변경)/admrul_79407/전원개발사업실시계획 승인(변경).json"
 }
