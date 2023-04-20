@@ -1,0 +1,99 @@
+{
+  "law_id": "91180",
+  "mst": "2100000250764",
+  "law_name": "안전기준 등록",
+  "law_abbr": "",
+  "law_type": "공고",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:91180",
+  "promulgation_no": "2023-589",
+  "promulgation_date": "20230414",
+  "enforcement_date": "20230420",
+  "revision_date": "20230414",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "행정안전부(예방안전제도과)",
+    "담당자명": "김일문",
+    "행정규칙종류코드": "B0004",
+    "행정규칙명": "안전기준 등록",
+    "발령일자": "20230414",
+    "행정규칙종류": "공고",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "행정안전부",
+    "전화번호": "044-205-4512",
+    "제개정구분명": "제정",
+    "소관부처코드": "1741000",
+    "생성일자": "20250424",
+    "행정규칙ID": "91180",
+    "시행일자": "20230420",
+    "담당부서기관코드": "1741758",
+    "발령번호": "2023-589",
+    "행정규칙일련번호": "2100000250764",
+    "상위부처명": "행정안전부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n국민의 안전과 밀접한 안전기준을 통합적으로 등록ㆍ관리하여, 안전 사각지대 적시 해소와 안전기준의 체계적 관리 도모\n◇ 주요내용\n가. 13개 부처, 안전기준 185건 등록\n※ 부처별 : 소방청 54개, 해수부 33개, 식약처 28개, 행안부 27개 등\n[그림]\n\n※ 분야별 : 건축시설 85개, 보건ㆍ식품 41개, 교통ㆍ교통시설 34개 등[그림]\n",
+  "body": {
+    "format": "articles",
+    "article_count": 0,
+    "articles": []
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "조문별 제·개정이유서_안전기준 등록.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=151296475",
+      "filename": "조문별 제·개정이유서_안전기준 등록.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조문별 제·개정이유서_안전기준 등록.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "조문별 제·개정이유서_안전기준 등록.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=151296479",
+      "filename": "조문별 제·개정이유서_안전기준 등록.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조문별 제·개정이유서_안전기준 등록.pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "행정안전부공고 제2023-589호(안전기준 등록).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=146261329",
+      "filename": "행정안전부공고 제2023-589호(안전기준 등록).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/행정안전부공고 제2023-589호(안전기준 등록).pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 0,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 3
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/안전기준 등록"
+  },
+  "provision_id": "admrul:안전기준등록:admrul_91180#DOC",
+  "addendum_provision_id": "admrul:안전기준등록:admrul_91180#ADDENDUM",
+  "amendment_provision_id": "admrul:안전기준등록:admrul_91180#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "안전기준 등록/admrul_91180/안전기준 등록.json"
+}
