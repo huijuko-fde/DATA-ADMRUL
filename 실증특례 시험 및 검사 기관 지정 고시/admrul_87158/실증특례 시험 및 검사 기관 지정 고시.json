@@ -63,7 +63,7 @@
             "source_admrul_seq": "87158",
             "target_url": "https://www.law.go.kr/법령/규제자유특구 및 지역특화발전특구에 관한 규제특례법 시행령",
             "resolve_method": "html",
-            "source_provision_id": "admrul:실증특례시험및검사기관지정고시#DOC",
+            "source_provision_id": "admrul:실증특례시험및검사기관지정고시:admrul_87158#DOC",
             "reference_id": "law:규제자유특구및지역특화발전특구에관한규제특례법시행령#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "규제자유특구 및 지역특화발전특구에 관한 규제특례법/시행령/규제자유특구 및 지역특화발전특구에 관한 규제특례법 시행령.json"
@@ -83,7 +83,7 @@
             "source_admrul_seq": "87158",
             "target_url": "https://www.law.go.kr/법령/규제자유특구 및 지역특화발전특구에 관한 규제특례법 시행령/제59조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:실증특례시험및검사기관지정고시#DOC",
+            "source_provision_id": "admrul:실증특례시험및검사기관지정고시:admrul_87158#DOC",
             "reference_id": "law:규제자유특구및지역특화발전특구에관한규제특례법시행령#JO0059",
             "target_repo": "LAW",
             "target_git_path_guess": "규제자유특구 및 지역특화발전특구에 관한 규제특례법/시행령/규제자유특구 및 지역특화발전특구에 관한 규제특례법 시행령.json"
@@ -103,14 +103,14 @@
             "source_admrul_seq": "87158",
             "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
             "resolve_method": "html",
-            "source_provision_id": "admrul:실증특례시험및검사기관지정고시#DOC",
+            "source_provision_id": "admrul:실증특례시험및검사기관지정고시:admrul_87158#DOC",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:실증특례시험및검사기관지정고시#DOC"
+        "provision_id": "admrul:실증특례시험및검사기관지정고시:admrul_87158#DOC"
       }
     ]
   },
@@ -119,7 +119,7 @@
       "promulgation_date": "20231122",
       "promulgation_no": "2023-101",
       "content": "부칙 <제2023-101호, 2023. 11. 22.>이 고시는 고시한 날부터 시행한다.",
-      "provision_id": "admrul:실증특례시험및검사기관지정고시#ADDENDUM",
+      "provision_id": "admrul:실증특례시험및검사기관지정고시:admrul_87158#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000231694",
       "source_version_uid": "",
@@ -177,12 +177,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/실증특례 시험 및 검사 기관 지정 고시"
   },
-  "provision_id": "admrul:실증특례시험및검사기관지정고시#DOC",
-  "addendum_provision_id": "admrul:실증특례시험및검사기관지정고시#ADDENDUM",
-  "amendment_provision_id": "admrul:실증특례시험및검사기관지정고시#AMENDMENT",
+  "provision_id": "admrul:실증특례시험및검사기관지정고시:admrul_87158#DOC",
+  "addendum_provision_id": "admrul:실증특례시험및검사기관지정고시:admrul_87158#ADDENDUM",
+  "amendment_provision_id": "admrul:실증특례시험및검사기관지정고시:admrul_87158#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "실증특례 시험 및 검사 기관 지정 고시/실증특례 시험 및 검사 기관 지정 고시.json"
+  "git_path": "실증특례 시험 및 검사 기관 지정 고시/admrul_87158/실증특례 시험 및 검사 기관 지정 고시.json"
 }
