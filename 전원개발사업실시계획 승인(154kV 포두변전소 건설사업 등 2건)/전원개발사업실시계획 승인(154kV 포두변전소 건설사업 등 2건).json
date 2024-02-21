@@ -1,0 +1,107 @@
+{
+  "law_id": "88119",
+  "mst": "2100000236446",
+  "law_name": "전원개발사업실시계획 승인(154kV 포두변전소 건설사업 등 2건)",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:88119",
+  "promulgation_no": "2024-27",
+  "promulgation_date": "20240215",
+  "enforcement_date": "20240221",
+  "revision_date": "20240215",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "기후에너지환경부(전력망정책과)",
+    "담당자명": "유용상",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "전원개발사업실시계획 승인(154kV 포두변전소 건설사업 등 2건)",
+    "발령일자": "20240215",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "산업통상부",
+    "전화번호": "044-203-5124",
+    "제개정구분명": "제정",
+    "소관부처코드": "1482000",
+    "생성일자": "20260616",
+    "행정규칙ID": "88119",
+    "시행일자": "20240221",
+    "담당부서기관코드": "1482000",
+    "발령번호": "2024-27",
+    "행정규칙일련번호": "2100000236446",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "⊙산업통상자원부고시 제2024-27호\n전원개발촉진법 제5조 제1항의 규정에 의하여 승인한 ① 154kV 포두변전소 건설사업, ②154kV 이원-도계 1파이분기 송전선로 건설사업을 위한 전원개발사업 실시계획을 같은 법 제5조 제5항의 규정에 의거 다음과 같이 고시하며, 동일 건에 대하여 토지이용규제기본법 제8조 및 같은 법 시행령 제7조의 규정에 의하여 다음과 같이 지형도면을 고시합니다. 관계도서는 토지이용규제기본법 제8조 및 같은 법 시행령 제7조의 규정에 의거 토지이용규제정보시스템(http://luris.molit.go.kr)에서 열람이 가능하고 한국전력공사 해당 사업소에 비치하여 일반인에게 보입니다. 다만, 국가공간정보 보안관리규정(산업통상자원부 훈령 제238호) 제9조 및 제10조에 의거 전력ㆍ통신ㆍ가스 등 공공의 이익 및 안전과 밀접한 관계가 있는 국가기간시설이 포함된 지도는 공개제한 대상으로 분류되어 있어 도면에 표기하지 않습니다.\n2024년 2월 15일\n산업통상자원부장관\n전원개발사업 실시계획 승인\n[본문 생략]",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 0,
+    "articles": []
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "산업통상자원부고시 제2024-027호.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=137987913",
+      "filename": "산업통상자원부고시 제2024-027호.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/산업통상자원부고시 제2024-027호.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "산업통상자원부고시 제2024-027호.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=137987917",
+      "filename": "산업통상자원부고시 제2024-027호.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/산업통상자원부고시 제2024-027호.pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "실시계획승인문(포두변전소 등 2건).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=137987921",
+      "filename": "실시계획승인문(포두변전소 등 2건).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/실시계획승인문(포두변전소 등 2건).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "실시계획승인문(포두변전소 등 2건).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=137987925",
+      "filename": "실시계획승인문(포두변전소 등 2건).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/실시계획승인문(포두변전소 등 2건).pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 0,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/전원개발사업실시계획 승인(154kV 포두변전소 건설사업 등 2건)"
+  },
+  "provision_id": "admrul:전원개발사업실시계획승인(154kV포두변전소건설사업등2건)#DOC",
+  "addendum_provision_id": "admrul:전원개발사업실시계획승인(154kV포두변전소건설사업등2건)#ADDENDUM",
+  "amendment_provision_id": "admrul:전원개발사업실시계획승인(154kV포두변전소건설사업등2건)#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "전원개발사업실시계획 승인(154kV 포두변전소 건설사업 등 2건)/전원개발사업실시계획 승인(154kV 포두변전소 건설사업 등 2건).json"
+}
