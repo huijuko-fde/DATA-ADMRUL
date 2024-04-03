@@ -59,7 +59,7 @@
             "file_store_url": ""
           }
         ],
-        "provision_id": "admrul:통계작성의변경승인(협의)고시(상주시사회조사)#DOC"
+        "provision_id": "admrul:통계작성의변경승인(협의)고시(상주시사회조사):admrul_49253#DOC"
       }
     ]
   },
@@ -117,12 +117,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/통계작성의 변경승인(협의) 고시(상주시사회조사)"
   },
-  "provision_id": "admrul:통계작성의변경승인(협의)고시(상주시사회조사)#DOC",
-  "addendum_provision_id": "admrul:통계작성의변경승인(협의)고시(상주시사회조사)#ADDENDUM",
-  "amendment_provision_id": "admrul:통계작성의변경승인(협의)고시(상주시사회조사)#AMENDMENT",
+  "provision_id": "admrul:통계작성의변경승인(협의)고시(상주시사회조사):admrul_49253#DOC",
+  "addendum_provision_id": "admrul:통계작성의변경승인(협의)고시(상주시사회조사):admrul_49253#ADDENDUM",
+  "amendment_provision_id": "admrul:통계작성의변경승인(협의)고시(상주시사회조사):admrul_49253#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "통계작성의 변경승인(협의) 고시(상주시사회조사)/통계작성의 변경승인(협의) 고시(상주시사회조사).json"
+  "git_path": "통계작성의 변경승인(협의) 고시(상주시사회조사)/admrul_49253/통계작성의 변경승인(협의) 고시(상주시사회조사).json"
 }
