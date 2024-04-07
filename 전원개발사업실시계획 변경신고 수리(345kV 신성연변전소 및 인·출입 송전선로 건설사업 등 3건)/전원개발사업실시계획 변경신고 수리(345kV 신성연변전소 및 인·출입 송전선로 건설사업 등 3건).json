@@ -1,0 +1,91 @@
+{
+  "law_id": "82394",
+  "mst": "2100000238592",
+  "law_name": "전원개발사업실시계획 변경신고 수리(345kV 신성연변전소 및 인·출입 송전선로 건설사업 등 3건)",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:82394",
+  "promulgation_no": "2024-47",
+  "promulgation_date": "20240401",
+  "enforcement_date": "20240407",
+  "revision_date": "20240401",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "기후에너지환경부(전력망정책과)",
+    "담당자명": "박성모",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "전원개발사업실시계획 변경신고 수리(345kV 신성연변전소 및 인·출입 송전선로 건설사업 등 3건)",
+    "발령일자": "20240401",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "산업통상부",
+    "전화번호": "044-203-5124",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1482000",
+    "생성일자": "20260616",
+    "행정규칙ID": "82394",
+    "시행일자": "20240407",
+    "담당부서기관코드": "1482000",
+    "발령번호": "2024-47",
+    "행정규칙일련번호": "2100000238592",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "⊙산업통상자원부고시 제2024-47호\n산업통상자원부 고시 제2022-111호(’22.6.30)로 고시한바 있는 ① 345kV 신성연 변전소 및 인ㆍ출입 송전선로 건설사업, ② 154kV 신성연-태안 송전선로 계통변경 건설사업, ③ 154kV 서산-성연 송전선로 건설사업 및 전력구 공사를 위한 전원개발사업실시계획에 대하여 전원개발촉진법 제5조 제2항의 규정에 의하여 변경된 내용을 다음과 같이 고시하며, 동일 건에 대하여 토지이용규제기본법 제8조 및 같은 법 시행령 제7조의 규정에 의하여 다음과 같이 지형도면 고시합니다. 관계도서는 토지이용규제기본법 제8조 및 같은 법 시행령 제7조의 규정에 의거 토지이용규제정보시스템(http://luris.molit.go.kr)에서 열람이 가능하고 한국전력공사 해당 사업소에 비치하여 일반인에게 보입니다. 다만, 산업통상자원부 국가공간정보 보안관리규정(산업통상자원부 훈령 제238호) 제9조에 의거 전력ㆍ통신ㆍ가스 등 공공의 이익 및 안전과 밀접한 관계가 있는 국가기간시설이 포함된 지도는 공개제한 대상으로 분류되어 있어 도면에 표기하지 않습니다.\n2024년 4월 1일\n산업통상자원부장관\n전원개발사업 실시계획(변경)\n[본문 생략]",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 0,
+    "articles": []
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "관보고시문(345kV 신성연변전소 등 3개_통합_)_블라인드.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=162884579",
+      "filename": "관보고시문(345kV 신성연변전소 등 3개_통합_)_블라인드.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/관보고시문(345kV 신성연변전소 등 3개_통합_)_블라인드.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "관보고시문(345kV 신성연변전소 등 3개_통합_)_블라인드.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=162884583",
+      "filename": "관보고시문(345kV 신성연변전소 등 3개_통합_)_블라인드.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/관보고시문(345kV 신성연변전소 등 3개_통합_)_블라인드.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 0,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/전원개발사업실시계획 변경신고 수리(345kV 신성연변전소 및 인·출입 송전선로 건설사업 등 3건)"
+  },
+  "provision_id": "admrul:전원개발사업실시계획변경신고수리(345kV신성연변전소및인출입송전선로건설사업등3건)#DOC",
+  "addendum_provision_id": "admrul:전원개발사업실시계획변경신고수리(345kV신성연변전소및인출입송전선로건설사업등3건)#ADDENDUM",
+  "amendment_provision_id": "admrul:전원개발사업실시계획변경신고수리(345kV신성연변전소및인출입송전선로건설사업등3건)#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "전원개발사업실시계획 변경신고 수리(345kV 신성연변전소 및 인·출입 송전선로 건설사업 등 3건)/전원개발사업실시계획 변경신고 수리(345kV 신성연변전소 및 인·출입 송전선로 건설사업 등 3건).json"
+}
