@@ -50,7 +50,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:공무원의직무관련범죄고발세부지침#JO0001"
+        "provision_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#JO0001"
       },
       {
         "article_no": "제2조",
@@ -61,7 +61,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:공무원의직무관련범죄고발세부지침#JO0002"
+        "provision_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#JO0002"
       },
       {
         "article_no": "제3조",
@@ -86,14 +86,14 @@
             "source_admrul_seq": "2082568",
             "target_url": "https://www.law.go.kr/행정규칙/공무원의 직무관련 범죄 고발 세부지침/제2조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:공무원의직무관련범죄고발세부지침#JO0003",
-            "reference_id": "admrul:공무원의직무관련범죄고발세부지침#JO0002",
+            "source_provision_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#JO0003",
+            "reference_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#JO0002",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "공무원의 직무관련 범죄 고발 세부지침/공무원의 직무관련 범죄 고발 세부지침.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:공무원의직무관련범죄고발세부지침#JO0003"
+        "provision_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#JO0003"
       },
       {
         "article_no": "제4조",
@@ -104,7 +104,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:공무원의직무관련범죄고발세부지침#JO0004"
+        "provision_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#JO0004"
       },
       {
         "article_no": "제5조",
@@ -115,7 +115,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:공무원의직무관련범죄고발세부지침#JO0005"
+        "provision_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#JO0005"
       },
       {
         "article_no": "제6조",
@@ -144,9 +144,9 @@
             "source_admrul_seq": "2082568",
             "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000096457&bylNo=&bylBrNo=",
             "resolve_method": "html",
-            "source_provision_id": "admrul:공무원의직무관련범죄고발세부지침#JO0006",
+            "source_provision_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#JO0006",
             "target_unit": "FORM0001",
-            "reference_id": "admrul:공무원의직무관련범죄고발세부지침#FORM0001",
+            "reference_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#FORM0001",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "공무원의 직무관련 범죄 고발 세부지침/공무원의 직무관련 범죄 고발 세부지침.json"
           },
@@ -165,14 +165,14 @@
             "source_admrul_seq": "2082568",
             "target_url": "https://www.law.go.kr/행정규칙/공무원의 직무관련 범죄 고발 세부지침/제3조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:공무원의직무관련범죄고발세부지침#JO0006",
-            "reference_id": "admrul:공무원의직무관련범죄고발세부지침#JO0003",
+            "source_provision_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#JO0006",
+            "reference_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#JO0003",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "공무원의 직무관련 범죄 고발 세부지침/공무원의 직무관련 범죄 고발 세부지침.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:공무원의직무관련범죄고발세부지침#JO0006"
+        "provision_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#JO0006"
       },
       {
         "article_no": "제7조",
@@ -183,7 +183,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:공무원의직무관련범죄고발세부지침#JO0007"
+        "provision_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#JO0007"
       }
     ]
   },
@@ -192,7 +192,7 @@
       "promulgation_date": "20100111",
       "promulgation_no": "67",
       "content": "부칙 <제67호,2010. 1. 11.>이 지침은 2010. 1. 11.부터 시행한다.",
-      "provision_id": "admrul:공무원의직무관련범죄고발세부지침#ADDENDUM",
+      "provision_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000096457",
       "source_version_uid": "",
@@ -203,7 +203,7 @@
       "promulgation_date": "20170101",
       "promulgation_no": "125",
       "content": "부칙 (직제 개정에 의한 조직개편 등에 따른 중앙전파관리소 공무국외여행 업무지침 등 일괄개정예규)<제125호,2017. 1. 1.>(시행일) 이 규정은 발령한 날로부터 시행한다.",
-      "provision_id": "admrul:공무원의직무관련범죄고발세부지침#ADDENDUM",
+      "provision_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000096457",
       "source_version_uid": "",
@@ -214,7 +214,7 @@
       "promulgation_date": "20170914",
       "promulgation_no": "143",
       "content": "부칙(직제 개정에 의한 조직개편 등에 따른 공무원의 직무관련 범죄 고발 세부지침 등 일괄개정예규) <제143호,2017. 9. 14.>(시행일) 이 예규는 발령한 날로부터 시행한다.",
-      "provision_id": "admrul:공무원의직무관련범죄고발세부지침#ADDENDUM",
+      "provision_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000096457",
       "source_version_uid": "",
@@ -242,7 +242,7 @@
         }
       ],
       "images": [],
-      "provision_id": "admrul:공무원의직무관련범죄고발세부지침#FORM0001",
+      "provision_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#FORM0001",
       "filename": "서식1_공직자 고발처리상황 관리대장.hwp",
       "file_dir": "서식",
       "local_path": "서식/서식1_공직자 고발처리상황 관리대장.hwp",
@@ -290,12 +290,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/공무원의 직무관련 범죄 고발 세부지침"
   },
-  "provision_id": "admrul:공무원의직무관련범죄고발세부지침#DOC",
-  "addendum_provision_id": "admrul:공무원의직무관련범죄고발세부지침#ADDENDUM",
-  "amendment_provision_id": "admrul:공무원의직무관련범죄고발세부지침#AMENDMENT",
+  "provision_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#DOC",
+  "addendum_provision_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#ADDENDUM",
+  "amendment_provision_id": "admrul:공무원의직무관련범죄고발세부지침:admrul_2082568#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "공무원의 직무관련 범죄 고발 세부지침/공무원의 직무관련 범죄 고발 세부지침.json"
+  "git_path": "공무원의 직무관련 범죄 고발 세부지침/admrul_2082568/공무원의 직무관련 범죄 고발 세부지침.json"
 }
