@@ -1,0 +1,123 @@
+{
+  "law_id": "36197",
+  "mst": "2100000245118",
+  "law_name": "어선구조기준",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:36197",
+  "promulgation_no": "2024-84",
+  "promulgation_date": "20240726",
+  "enforcement_date": "20240726",
+  "revision_date": "20240726",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "해양수산부(어선안전정책과)",
+    "담당자명": "서범석",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "어선구조기준",
+    "발령일자": "20240726",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "해양수산부",
+    "전화번호": "051-773-5551,5552",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1192000",
+    "생성일자": "20240729",
+    "행정규칙ID": "36197",
+    "시행일자": "20240726",
+    "담당부서기관코드": "1192559",
+    "발령번호": "2024-84",
+    "행정규칙일련번호": "2100000245118",
+    "상위부처명": "해양수산부"
+  },
+  "amendment_text": "⊙해양수산부고시 제2024-84호\n어선구조기준을 다음과 같이 개정한다.\n2024년 7월 26일\n해양수산부장관\n어선구조기준 일부개정고시\n어선구조기준을 다음과 같이 개정한다.\n제350조제5항 중 \"표에 따라\"를 \"각 호의 어느 하나에 해당하는 경우\"로 하고, 같은 항에 각 호를 다음과 같이 신설한다.\n1. 배의 길이 24미터 이상인 경우 (현행과 같음)\n[그림]\n\n이 표의 계산식에서\nℓ은 웰에 있어서의 불워크의 길이(미터). 다만, 그 길이가 [그림] 이상일 때에는 [그림]로 한다.\na는 다음 표에 따른 수정량(제곱미터)\n[그림]\n\n이 표의 계산식에서\nh는 불워크의 갑판상 평균높이(미터)\n2. 배의 길이 24미터 미만인 경우  <신  설>\n[그림]\n\n이 표의 계산식에서\nA는 방수구의 면적(제곱미터)\nm은 웰의 길이(미터). 이 경우 웰의 길이가 배의 길이의 70퍼센트를 초과하면 배의 길이의 70퍼센트로 할 것\nh는 불워크의 높이(미터)\n부칙\n이 고시는 발령한 날부터 시행한다.",
+  "revision_reason": "◇ 개정이유\n○ 국내 어선 특성(폭이 좁고, 깊이가 낮음)상 잔잔한 파도에도 좌우로 흔들려, 큰 방수구 면적을 가질 경우 갑판에 많은 해수 유입으로 어선 안전성에 부정적으로 작용하는 점을 개선하고자 배의 길이 24m미만 어선에 대해서는 소형어선의 방수구 기준을 준용하여 어업인의 안전한 조업환경을 조성하고자 함\n◇ 개정내용\n○ 배의 길이 24미터 미만인 어선에 방수구 면적 규정을 총톤수 10톤 미만 소형어선과 동일하게 적용",
+  "body": {
+    "format": "articles",
+    "article_count": 0,
+    "articles": []
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "[개정전문] 어선구조기준.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=143021795",
+      "filename": "[개정전문] 어선구조기준.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/[개정전문] 어선구조기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "[개정전문] 어선구조기준.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=143021799",
+      "filename": "[개정전문] 어선구조기준.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/[개정전문] 어선구조기준.pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "조문별 개정 이유서(어선구조기준) 일부개정.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=143022005",
+      "filename": "조문별 개정 이유서(어선구조기준) 일부개정.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조문별 개정 이유서(어선구조기준) 일부개정.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "조문별 개정 이유서(어선구조기준) 일부개정.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=143022009",
+      "filename": "조문별 개정 이유서(어선구조기준) 일부개정.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조문별 개정 이유서(어선구조기준) 일부개정.pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "[발령문] 어선구조기준 일부개정안.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=143022013",
+      "filename": "[발령문] 어선구조기준 일부개정안.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/[발령문] 어선구조기준 일부개정안.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "[발령문] 어선구조기준 일부개정안.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=143022017",
+      "filename": "[발령문] 어선구조기준 일부개정안.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/[발령문] 어선구조기준 일부개정안.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 0,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 6
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/어선구조기준"
+  },
+  "provision_id": "admrul:어선구조기준#DOC",
+  "addendum_provision_id": "admrul:어선구조기준#ADDENDUM",
+  "amendment_provision_id": "admrul:어선구조기준#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "어선구조기준/어선구조기준.json"
+}
