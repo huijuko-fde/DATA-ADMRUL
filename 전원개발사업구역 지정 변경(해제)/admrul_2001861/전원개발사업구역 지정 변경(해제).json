@@ -131,7 +131,7 @@
             "file_store_url": ""
           }
         ],
-        "provision_id": "admrul:전원개발사업구역지정변경(해제)#DOC"
+        "provision_id": "admrul:전원개발사업구역지정변경(해제):admrul_2001861#DOC"
       }
     ]
   },
@@ -173,12 +173,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/전원개발사업구역 지정 변경(해제)"
   },
-  "provision_id": "admrul:전원개발사업구역지정변경(해제)#DOC",
-  "addendum_provision_id": "admrul:전원개발사업구역지정변경(해제)#ADDENDUM",
-  "amendment_provision_id": "admrul:전원개발사업구역지정변경(해제)#AMENDMENT",
+  "provision_id": "admrul:전원개발사업구역지정변경(해제):admrul_2001861#DOC",
+  "addendum_provision_id": "admrul:전원개발사업구역지정변경(해제):admrul_2001861#ADDENDUM",
+  "amendment_provision_id": "admrul:전원개발사업구역지정변경(해제):admrul_2001861#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "전원개발사업구역 지정 변경(해제)/전원개발사업구역 지정 변경(해제).json"
+  "git_path": "전원개발사업구역 지정 변경(해제)/admrul_2001861/전원개발사업구역 지정 변경(해제).json"
 }
