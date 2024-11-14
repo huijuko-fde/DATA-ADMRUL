@@ -49,7 +49,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:외국법자문사법제35조의2제1항에따른자유무역협정등의당사국#DOC"
+        "provision_id": "admrul:외국법자문사법제35조의2제1항에따른자유무역협정등의당사국:admrul_58409#DOC"
       }
     ]
   },
@@ -91,12 +91,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/외국법자문사법 제35조의2 제1항에 따른 자유무역협정등의 당사국"
   },
-  "provision_id": "admrul:외국법자문사법제35조의2제1항에따른자유무역협정등의당사국#DOC",
-  "addendum_provision_id": "admrul:외국법자문사법제35조의2제1항에따른자유무역협정등의당사국#ADDENDUM",
-  "amendment_provision_id": "admrul:외국법자문사법제35조의2제1항에따른자유무역협정등의당사국#AMENDMENT",
+  "provision_id": "admrul:외국법자문사법제35조의2제1항에따른자유무역협정등의당사국:admrul_58409#DOC",
+  "addendum_provision_id": "admrul:외국법자문사법제35조의2제1항에따른자유무역협정등의당사국:admrul_58409#ADDENDUM",
+  "amendment_provision_id": "admrul:외국법자문사법제35조의2제1항에따른자유무역협정등의당사국:admrul_58409#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "외국법자문사법 제35조의2 제1항에 따른 자유무역협정등의 당사국/외국법자문사법 제35조의2 제1항에 따른 자유무역협정등의 당사국.json"
+  "git_path": "외국법자문사법 제35조의2 제1항에 따른 자유무역협정등의 당사국/admrul_58409/외국법자문사법 제35조의2 제1항에 따른 자유무역협정등의 당사국.json"
 }
