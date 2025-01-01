@@ -1,0 +1,163 @@
+{
+  "law_id": "75039",
+  "mst": "2100000252104",
+  "law_name": "예술인의 기준보수 및 보수액에서 제외하는 필요경비 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:75039",
+  "promulgation_no": "2024-93",
+  "promulgation_date": "20241230",
+  "enforcement_date": "20250101",
+  "revision_date": "20241230",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "고용노동부(고용보험기획과)",
+    "담당자명": "임동석",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "예술인의 기준보수 및 보수액에서 제외하는 필요경비 고시",
+    "발령일자": "20241230",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "고용노동부",
+    "전화번호": "044-202-7358",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1492000",
+    "생성일자": "20250101",
+    "행정규칙ID": "75039",
+    "시행일자": "20250101",
+    "담당부서기관코드": "1494581",
+    "발령번호": "2024-93",
+    "행정규칙일련번호": "2100000252104",
+    "상위부처명": "고용노동부"
+  },
+  "amendment_text": "⊙고용노동부고시 제2024-93호\n「고용보험 및 산업재해보상보험의 보험료징수 등에 관한 법률」제3조 및 제16조의6, 같은 법 시행령 제3조에 따라 ①사업의 폐업ㆍ도산 등으로 보수를 산정ㆍ확인하기 곤란한 경우, ②보수 관련 자료가 없거나 명확하지 않은 경우, ③사업 또는 사업장의 이전 등으로 사업의 소재지를 파악하기 곤란한 경우, ④조사에 의한 산정시 보수 관련 자료 확인이 곤란한 경우, ⑤개인별 월평균보수가 월단위 기준보수보다 적은 경우에 보수로 적용하는 예술인의 기준보수 및 같은 법 제 48조의2제2항 및 같은 법 시행령 제56조의5제1항에 따라 예술인의 보수액을 산정하는 경우 보수액에서 제외하는 필요경비를 다음과 같이 개정하여 고시합니다.\n2024년 12월 30일\n고용노동부 장관\n예술인의 기준보수 및 보수액에서 제외하는 필요경비 고시\n[본문 생략]",
+  "revision_reason": "◇ 제ㆍ개정 이유\n예술인에게 적용되는 기준보수 및 보수액에서 제외하는 필요경비율의 타당성을 검토하여 고시\n◇ 주요내용\n가. 「고용보험법」제77조의2에 따른 예술인의 월단위 기준보수액: 월 800,000원\n나. 예술인의 보수액에서 제외되는 필요경비 공제율: 분야별 차등없이 25%",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "1. 예술인의 기준보수 「고용보험법」 제77조의2에 따른 예술인의 월단위 기준보수액: 월 800,000원 2. 예술인의 보수액에서 제외되는 필요경비 가. 공제율: 분야별 차등없이 25% 나. 공제 산식: {(사업소득 또는 기타소득) - (사업소득 또는 기타 소득 중 소득세법 제12조제2호 또는 제5호에 따른 비과세 소득)}×25% 3. 행정사항 가. 시행일: 이 고시는 2025년 1월 1일부터 시행한다. 나. 재검토기한(3년): 고용노동부 장관은 이 고시에 대하여 2025년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다. 다. 이 고시는 노동시장 여건 변화 등에 따라 변경될 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "「고용보험법」",
+            "line_text": "",
+            "target_law_name": "고용보험법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "75039",
+            "target_url": "https://www.law.go.kr/법령/고용보험법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:예술인의기준보수및보수액에서제외하는필요경비고시#DOC",
+            "reference_id": "law:고용보험법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "고용보험법/법률/고용보험법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제77조의2",
+            "line_text": "",
+            "target_law_name": "고용보험법",
+            "target_article_no": "제77조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "75039",
+            "target_url": "https://www.law.go.kr/법령/고용보험법/제77조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:예술인의기준보수및보수액에서제외하는필요경비고시#DOC",
+            "reference_id": "law:고용보험법#JO0077_02",
+            "target_repo": "LAW",
+            "target_git_path_guess": "고용보험법/법률/고용보험법.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:예술인의기준보수및보수액에서제외하는필요경비고시#DOC"
+      }
+    ]
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "조문별제개정이유서_예술인의 기준보수 및 보수액에서 제외하는 필요경비.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=147706221",
+      "filename": "조문별제개정이유서_예술인의 기준보수 및 보수액에서 제외하는 필요경비.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조문별제개정이유서_예술인의 기준보수 및 보수액에서 제외하는 필요경비.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "조문별제개정이유서_예술인의 기준보수 및 보수액에서 제외하는 필요경비.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=147706225",
+      "filename": "조문별제개정이유서_예술인의 기준보수 및 보수액에서 제외하는 필요경비.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조문별제개정이유서_예술인의 기준보수 및 보수액에서 제외하는 필요경비.pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "예술인의 기준보수 및 보수액에서 제외하는 필요경비 고시(제2024-93호).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=147706305",
+      "filename": "예술인의 기준보수 및 보수액에서 제외하는 필요경비 고시(제2024-93호).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/예술인의 기준보수 및 보수액에서 제외하는 필요경비 고시(제2024-93호).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "예술인의 기준보수 및 보수액에서 제외하는 필요경비 고시(제2024-93호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=147706309",
+      "filename": "예술인의 기준보수 및 보수액에서 제외하는 필요경비 고시(제2024-93호).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/예술인의 기준보수 및 보수액에서 제외하는 필요경비 고시(제2024-93호).pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 2,
+    "by_category": {
+      "법령": 2
+    },
+    "by_relation_type": {
+      "citation": 2
+    },
+    "articles_total": 1,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/예술인의 기준보수 및 보수액에서 제외하는 필요경비 고시"
+  },
+  "provision_id": "admrul:예술인의기준보수및보수액에서제외하는필요경비고시#DOC",
+  "addendum_provision_id": "admrul:예술인의기준보수및보수액에서제외하는필요경비고시#ADDENDUM",
+  "amendment_provision_id": "admrul:예술인의기준보수및보수액에서제외하는필요경비고시#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "예술인의 기준보수 및 보수액에서 제외하는 필요경비 고시/예술인의 기준보수 및 보수액에서 제외하는 필요경비 고시.json"
+}
