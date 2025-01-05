@@ -1,0 +1,107 @@
+{
+  "law_id": "68300",
+  "mst": "2100000251442",
+  "law_name": "제2차 에너지산업융복합단지 기본계획",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:68300",
+  "promulgation_no": "2024-210",
+  "promulgation_date": "20241230",
+  "enforcement_date": "20250105",
+  "revision_date": "20241230",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "기후에너지환경부(기후에너지신산업과)",
+    "담당자명": "조희정",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "제2차 에너지산업융복합단지 기본계획",
+    "발령일자": "20241230",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "산업통상부",
+    "전화번호": "044-203-3971",
+    "제개정구분명": "제정",
+    "소관부처코드": "1482000",
+    "생성일자": "20260616",
+    "행정규칙ID": "68300",
+    "시행일자": "20250105",
+    "담당부서기관코드": "1482000",
+    "발령번호": "2024-210",
+    "행정규칙일련번호": "2100000251442",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "⊙산업통상자원부 고시 제2024-210호\n「에너지산업융복합단지의 지정 및 육성에 관한 특별법」 제5조 제2항에 따라 제2차 에너지산업융복합단지 기본계획을 에너지위원회의 심의를 거쳐, 이를 동법 제5조 제5항에 따라 고시합니다.\n2024년 12월 30일\n산업통상자원부장관\n제2차 에너지산업융복합단지 기본계획\n[본문 생략]",
+  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ 「에너지산업융복합단지의 지정 및 육성에 관한 특별법」제5조에 의거 5년을 계획기간으로 5년마다 수립ㆍ시행\n- 제1차 기본계획(’19년 ~ ’23년), 제2차 기본계획(’24년 ~ ’28년)\n◇ 주요내용\n[그림]\n",
+  "body": {
+    "format": "articles",
+    "article_count": 0,
+    "articles": []
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "산업부 고시 2024-210_제2차 에너지산업융복합단지 기본계획.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=147242543",
+      "filename": "산업부 고시 2024-210_제2차 에너지산업융복합단지 기본계획.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/산업부 고시 2024-210_제2차 에너지산업융복합단지 기본계획.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "산업부 고시 2024-210_제2차 에너지산업융복합단지 기본계획.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=147242547",
+      "filename": "산업부 고시 2024-210_제2차 에너지산업융복합단지 기본계획.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/산업부 고시 2024-210_제2차 에너지산업융복합단지 기본계획.pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "(양식)조문별제개정이유서_제2차 에너지산업융복합단지 기본계획.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=147242551",
+      "filename": "(양식)조문별제개정이유서_제2차 에너지산업융복합단지 기본계획.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(양식)조문별제개정이유서_제2차 에너지산업융복합단지 기본계획.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "(양식)조문별제개정이유서_제2차 에너지산업융복합단지 기본계획.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=147242555",
+      "filename": "(양식)조문별제개정이유서_제2차 에너지산업융복합단지 기본계획.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(양식)조문별제개정이유서_제2차 에너지산업융복합단지 기본계획.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 0,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/제2차 에너지산업융복합단지 기본계획"
+  },
+  "provision_id": "admrul:제2차에너지산업융복합단지기본계획#DOC",
+  "addendum_provision_id": "admrul:제2차에너지산업융복합단지기본계획#ADDENDUM",
+  "amendment_provision_id": "admrul:제2차에너지산업융복합단지기본계획#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "제2차 에너지산업융복합단지 기본계획/제2차 에너지산업융복합단지 기본계획.json"
+}
