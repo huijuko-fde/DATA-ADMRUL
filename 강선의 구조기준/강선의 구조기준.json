@@ -1,0 +1,128 @@
+{
+  "law_id": "34858",
+  "mst": "2100000253606",
+  "law_name": "강선의 구조기준",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:34858",
+  "promulgation_no": "2025-14",
+  "promulgation_date": "20250120",
+  "enforcement_date": "20250120",
+  "revision_date": "20250120",
+  "revision_type": "타법개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "해양수산부(해사산업기술과)",
+    "담당자명": "최대한",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "강선의 구조기준",
+    "발령일자": "20250120",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200409",
+    "조문형식여부": "Y",
+    "소관부처명": "해양수산부",
+    "전화번호": "051-773-5833",
+    "제개정구분명": "타법개정",
+    "소관부처코드": "1192000",
+    "생성일자": "20250121",
+    "행정규칙ID": "34858",
+    "시행일자": "20250120",
+    "담당부서기관코드": "1192051",
+    "발령번호": "2025-14",
+    "행정규칙일련번호": "2100000253606",
+    "상위부처명": "해양수산부"
+  },
+  "amendment_text": "⊙해양수산부고시 제2025-14호(2025.1.20)\n행정규칙 속 어려운 용어 및 장애인 비하 용어 정비를 위한 강선의 구조기준 등 21개 행정규칙(고시)의 일부개정\n제1조(「강선의 구조기준」의 개정) 강선의 구조기준 일부를 다음과 같이 개정한다.\n제2조제13호 중 \"달하는\"을 \"이르는\"으로, 제3조제3항 중 \"구조부재\"를 \"구조부재(구조체를 구성하는 각 단위)\"로, 제45조제5항 중 \"방식\"을 \"방식(부식 방지)\"으로, 제144조제1항 중 \"코밍\"을 \"코밍(바닷물의 유입을 막기 위해 선박의 갑판 위에 붙여놓은 프레임)\", 제227조의2제1호 중 \"폭로된\"을 \"노출된\"으로, 제316조제3항 중 \"부식여유\"를 \"부식여유(부식을 고려하여 두께를 두껍게 한 부분)\"으로 개정한다.\n제2조부터 제21조까지 생략\n부칙\n이 고시는 2025년 1월 20일부터 시행한다.",
+  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ 행정규칙 속 어려운 용어 및 장애인 비하용어 정비\n\n◇ 주요내용\n가. 행정규칙 속 어려운 용어 및 장애인 비하용어 정비",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "「강선의 구조기준」의 자세한 내용은 상단 메뉴 \"[그림]\"버튼을 이용하십시오.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=40425753",
+            "seq": "40425753",
+            "filename": "전문_1.bmp",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.bmp",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:강선의구조기준#DOC"
+      }
+    ]
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "1. 강선의 구조기준(개정전문).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148630709",
+      "filename": "1. 강선의 구조기준(개정전문).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/1. 강선의 구조기준(개정전문).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "1. 강선의 구조기준(개정전문).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148630713",
+      "filename": "1. 강선의 구조기준(개정전문).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/1. 강선의 구조기준(개정전문).pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "조문별제개정이유서_강선의 구조기준 외 21개 행정규칙.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148630717",
+      "filename": "조문별제개정이유서_강선의 구조기준 외 21개 행정규칙.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조문별제개정이유서_강선의 구조기준 외 21개 행정규칙.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "조문별제개정이유서_강선의 구조기준 외 21개 행정규칙.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148630721",
+      "filename": "조문별제개정이유서_강선의 구조기준 외 21개 행정규칙.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/조문별제개정이유서_강선의 구조기준 외 21개 행정규칙.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/강선의 구조기준"
+  },
+  "provision_id": "admrul:강선의구조기준#DOC",
+  "addendum_provision_id": "admrul:강선의구조기준#ADDENDUM",
+  "amendment_provision_id": "admrul:강선의구조기준#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "강선의 구조기준/강선의 구조기준.json"
+}
