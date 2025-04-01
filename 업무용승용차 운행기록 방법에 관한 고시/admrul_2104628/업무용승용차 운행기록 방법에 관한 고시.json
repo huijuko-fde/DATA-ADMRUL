@@ -64,7 +64,7 @@
             "source_admrul_seq": "2104628",
             "target_url": "https://www.law.go.kr/법령/소득세법/제33조의2",
             "resolve_method": "html",
-            "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0001",
+            "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#JO0001",
             "reference_id": "law:소득세법#JO0033_02",
             "target_repo": "LAW",
             "target_git_path_guess": "소득세법/법률/소득세법.json"
@@ -84,7 +84,7 @@
             "source_admrul_seq": "2104628",
             "target_url": "https://www.law.go.kr/법령/소득세법 시행령",
             "resolve_method": "html",
-            "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0001",
+            "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#JO0001",
             "reference_id": "law:소득세법시행령#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "소득세법/시행령/소득세법 시행령.json"
@@ -104,7 +104,7 @@
             "source_admrul_seq": "2104628",
             "target_url": "https://www.law.go.kr/법령/소득세법 시행령/제78조의3",
             "resolve_method": "html",
-            "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0001",
+            "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#JO0001",
             "reference_id": "law:소득세법시행령#JO0078_03",
             "target_repo": "LAW",
             "target_git_path_guess": "소득세법/시행령/소득세법 시행령.json"
@@ -124,7 +124,7 @@
             "source_admrul_seq": "2104628",
             "target_url": "https://www.law.go.kr/법령/소득세법 시행규칙",
             "resolve_method": "html",
-            "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0001",
+            "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#JO0001",
             "reference_id": "law:소득세법시행규칙#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "소득세법/시행규칙/소득세법 시행규칙.json"
@@ -144,14 +144,14 @@
             "source_admrul_seq": "2104628",
             "target_url": "https://www.law.go.kr/법령/소득세법 시행규칙/제42조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0001",
+            "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#JO0001",
             "reference_id": "law:소득세법시행규칙#JO0042",
             "target_repo": "LAW",
             "target_git_path_guess": "소득세법/시행규칙/소득세법 시행규칙.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0001"
+        "provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#JO0001"
       },
       {
         "article_no": "제2조",
@@ -162,7 +162,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0002"
+        "provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#JO0002"
       },
       {
         "article_no": "제3조",
@@ -173,7 +173,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0003"
+        "provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#JO0003"
       },
       {
         "article_no": "제4조",
@@ -198,14 +198,14 @@
             "source_admrul_seq": "2104628",
             "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
             "resolve_method": "html",
-            "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0004",
+            "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#JO0004",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0004"
+        "provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#JO0004"
       }
     ]
   },
@@ -214,7 +214,7 @@
       "promulgation_date": "20250401",
       "promulgation_no": "2025-5",
       "content": "부칙 <제2025-5호, 2025. 4. 1.>제1조(시행일) 이 고시는 고시한 날부터 시행한다.제2조(종전 고시의 폐지) 종전의「업무용승용차 운행기록 방법에 관한 고시」(국세청고시 제2022-8호)는 이를 폐지한다.",
-      "provision_id": "admrul:업무용승용차운행기록방법에관한고시#ADDENDUM",
+      "provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000257314",
       "source_version_uid": "",
@@ -248,7 +248,7 @@
         }
       ],
       "images": [],
-      "provision_id": "admrul:업무용승용차운행기록방법에관한고시#BJ0000",
+      "provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#BJ0000",
       "filename": "별지0_업무용승용차 운행기록부.pdf",
       "file_dir": "별지",
       "local_path": "별지/별지0_업무용승용차 운행기록부.pdf",
@@ -312,12 +312,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/업무용승용차 운행기록 방법에 관한 고시"
   },
-  "provision_id": "admrul:업무용승용차운행기록방법에관한고시#DOC",
-  "addendum_provision_id": "admrul:업무용승용차운행기록방법에관한고시#ADDENDUM",
-  "amendment_provision_id": "admrul:업무용승용차운행기록방법에관한고시#AMENDMENT",
+  "provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#DOC",
+  "addendum_provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#ADDENDUM",
+  "amendment_provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "업무용승용차 운행기록 방법에 관한 고시/업무용승용차 운행기록 방법에 관한 고시.json"
+  "git_path": "업무용승용차 운행기록 방법에 관한 고시/admrul_2104628/업무용승용차 운행기록 방법에 관한 고시.json"
 }
