@@ -64,7 +64,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/국가연구개발혁신법/제18조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0001",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0001",
             "reference_id": "law:국가연구개발혁신법#JO0018",
             "target_repo": "LAW",
             "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
@@ -84,7 +84,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/국가연구개발혁신법 시행령",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0001",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0001",
             "reference_id": "law:국가연구개발혁신법시행령#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
@@ -104,14 +104,14 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/국가연구개발혁신법 시행령/제38조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0001",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0001",
             "reference_id": "law:국가연구개발혁신법시행령#JO0038",
             "target_repo": "LAW",
             "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0001"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0001"
       },
       {
         "article_no": "제2조",
@@ -136,8 +136,8 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제3조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0002",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0002",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -156,7 +156,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/민ㆍ군기술협력사업 촉진법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0002",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0002",
             "reference_id": "law:민군기술협력사업촉진법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "민ㆍ군기술협력사업 촉진법/법률/민ㆍ군기술협력사업 촉진법.json"
@@ -176,7 +176,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/전기사업법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0002",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0002",
             "reference_id": "law:전기사업법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "전기사업법/법률/전기사업법.json"
@@ -196,7 +196,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/에너지법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0002",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0002",
             "reference_id": "law:에너지법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "에너지법/법률/에너지법.json"
@@ -216,7 +216,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/방사성폐기물 관리법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0002",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0002",
             "reference_id": "law:방사성폐기물관리법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "방사성폐기물 관리법/법률/방사성폐기물 관리법.json"
@@ -236,7 +236,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/고준위 방사성폐기물 관리에 관한 특별법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0002",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0002",
             "reference_id": "law:고준위방사성폐기물관리에관한특별법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "고준위 방사성폐기물 관리에 관한 특별법/법률/고준위 방사성폐기물 관리에 관한 특별법.json"
@@ -256,7 +256,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0002",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0002",
             "reference_id": "law:신에너지및재생에너지개발이용보급촉진법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json"
@@ -276,7 +276,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/환경친화적 산업구조로의 전환촉진에 관한 법률",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0002",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0002",
             "reference_id": "law:환경친화적산업구조로의전환촉진에관한법률#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "환경친화적 산업구조로의 전환촉진에 관한 법률/법률/환경친화적 산업구조로의 전환촉진에 관한 법률.json"
@@ -296,7 +296,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/에너지법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0002",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0002",
             "reference_id": "law:에너지법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "에너지법/법률/에너지법.json"
@@ -316,14 +316,14 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/기술의 이전 및 사업화 촉진에 관한 법률",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0002",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0002",
             "reference_id": "law:기술의이전및사업화촉진에관한법률#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "기술의 이전 및 사업화 촉진에 관한 법률/법률/기술의 이전 및 사업화 촉진에 관한 법률.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0002"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0002"
       },
       {
         "article_no": "제3조",
@@ -348,7 +348,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/국가연구개발혁신법/제2조의9",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "reference_id": "law:국가연구개발혁신법#JO0002_09",
             "target_repo": "LAW",
             "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
@@ -368,7 +368,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/상법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "상법/법률/상법.json"
@@ -388,7 +388,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/상법/제169조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "reference_id": "law:상법#JO0169",
             "target_repo": "LAW",
             "target_git_path_guess": "상법/법률/상법.json"
@@ -408,7 +408,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/중소기업기본법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "reference_id": "law:중소기업기본법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
@@ -428,7 +428,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/중소기업기본법/제2조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "reference_id": "law:중소기업기본법#JO0002",
             "target_repo": "LAW",
             "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
@@ -448,7 +448,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "reference_id": "law:중견기업성장촉진및경쟁력강화에관한특별법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json"
@@ -468,7 +468,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/제2조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "reference_id": "law:중견기업성장촉진및경쟁력강화에관한특별법#JO0002",
             "target_repo": "LAW",
             "target_git_path_guess": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json"
@@ -488,7 +488,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
@@ -508,7 +508,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률/제5조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "reference_id": "law:공공기관의운영에관한법률#JO0005",
             "target_repo": "LAW",
             "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
@@ -528,7 +528,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/지방공기업법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
@@ -548,7 +548,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/국가연구개발혁신법/제18조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "reference_id": "law:국가연구개발혁신법#JO0018",
             "target_repo": "LAW",
             "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
@@ -568,7 +568,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/국가연구개발혁신법 시행령",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "reference_id": "law:국가연구개발혁신법시행령#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
@@ -588,7 +588,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/국가연구개발혁신법 시행령/제38조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "reference_id": "law:국가연구개발혁신법시행령#JO0038",
             "target_repo": "LAW",
             "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
@@ -612,9 +612,9 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163064451",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "target_unit": "BJ0001",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#BJ0001",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#BJ0001",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -633,8 +633,8 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제4조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0004",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0004",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -657,15 +657,15 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274950&bylNo=&bylBrNo=",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "target_unit": "BC0005",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#BC0005",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#BC0005",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0003"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003"
       },
       {
         "article_no": "제4조",
@@ -676,7 +676,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0004"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0004"
       },
       {
         "article_no": "제5조",
@@ -701,8 +701,8 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제4조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0005",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0004",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0005",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0004",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -721,8 +721,8 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제3조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0005",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0005",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -741,8 +741,8 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제3조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0005",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0005",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -761,14 +761,14 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제3조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0005",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0005",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0005"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0005"
       },
       {
         "article_no": "제6조",
@@ -793,8 +793,8 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제3조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0006",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0006",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -813,8 +813,8 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제3조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0006",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0006",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -833,14 +833,14 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제3조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0006",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0003",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0006",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0003",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0006"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0006"
       },
       {
         "article_no": "제7조",
@@ -865,14 +865,14 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제2조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0007",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0002",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0007",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0002",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0007"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0007"
       },
       {
         "article_no": "제8조",
@@ -901,9 +901,9 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163064451",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0008",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0008",
             "target_unit": "BJ0001",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#BJ0001",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#BJ0001",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -922,8 +922,8 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제5조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0008",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0005",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0008",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0005",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -942,8 +942,8 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제6조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0008",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0006",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0008",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0006",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -962,8 +962,8 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제4조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0008",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0004",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0008",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0004",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -982,8 +982,8 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제6조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0008",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0006",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0008",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0006",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -1006,9 +1006,9 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163064463",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0008",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0008",
             "target_unit": "BJ0003",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#BJ0003",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#BJ0003",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -1031,9 +1031,9 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163064469",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0008",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0008",
             "target_unit": "BJ0004",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#BJ0004",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#BJ0004",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -1056,9 +1056,9 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163064457",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0008",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0008",
             "target_unit": "BJ0002",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#BJ0002",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#BJ0002",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -1077,8 +1077,8 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제6조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0008",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0006",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0008",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0006",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -1097,8 +1097,8 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제7조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0008",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0007",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0008",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0007",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -1117,8 +1117,8 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제5조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0008",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0005",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0008",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0005",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -1137,8 +1137,8 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제6조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0008",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0006",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0008",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0006",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -1157,8 +1157,8 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제5조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0008",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0005",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0008",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0005",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -1177,14 +1177,14 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제6조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0008",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0006",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0008",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0006",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0008"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0008"
       },
       {
         "article_no": "제9조",
@@ -1209,14 +1209,14 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제8조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0009",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0008",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0009",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0008",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0009"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0009"
       },
       {
         "article_no": "제10조",
@@ -1241,8 +1241,8 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제6조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0010",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0006",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0010",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0006",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -1261,14 +1261,14 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제9조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0010",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0009",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0010",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0009",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0010"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0010"
       },
       {
         "article_no": "제11조",
@@ -1297,9 +1297,9 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274950&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0011",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0011",
             "target_unit": "BYL0001",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#BYL0001",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#BYL0001",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           },
@@ -1318,7 +1318,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/국가연구개발혁신법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0011",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0011",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
@@ -1338,7 +1338,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/국가연구개발혁신법/제18조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0011",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0011",
             "reference_id": "law:국가연구개발혁신법#JO0018",
             "target_repo": "LAW",
             "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
@@ -1358,14 +1358,14 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제5조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0011",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0005",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0011",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0005",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0011"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0011"
       },
       {
         "article_no": "제12조",
@@ -1376,7 +1376,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0012"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0012"
       },
       {
         "article_no": "제13조",
@@ -1401,14 +1401,14 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령/제8조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0013",
-            "reference_id": "admrul:기술료징수및관리에관한통합요령#JO0008",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0013",
+            "reference_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0008",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0013"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0013"
       },
       {
         "article_no": "제14조",
@@ -1419,7 +1419,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0014"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0014"
       },
       {
         "article_no": "제15조",
@@ -1444,7 +1444,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/기술의 이전 및 사업화 촉진에 관한 법률",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0015",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0015",
             "reference_id": "law:기술의이전및사업화촉진에관한법률#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "기술의 이전 및 사업화 촉진에 관한 법률/법률/기술의 이전 및 사업화 촉진에 관한 법률.json"
@@ -1464,7 +1464,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/기술의 이전 및 사업화 촉진에 관한 법률/제10조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0015",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0015",
             "reference_id": "law:기술의이전및사업화촉진에관한법률#JO0010",
             "target_repo": "LAW",
             "target_git_path_guess": "기술의 이전 및 사업화 촉진에 관한 법률/법률/기술의 이전 및 사업화 촉진에 관한 법률.json"
@@ -1484,7 +1484,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/기술의 이전 및 사업화 촉진에 관한 법률",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0015",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0015",
             "reference_id": "law:기술의이전및사업화촉진에관한법률#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "기술의 이전 및 사업화 촉진에 관한 법률/법률/기술의 이전 및 사업화 촉진에 관한 법률.json"
@@ -1504,7 +1504,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/기술의 이전 및 사업화 촉진에 관한 법률/제35조의2",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0015",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0015",
             "reference_id": "law:기술의이전및사업화촉진에관한법률#JO0035_02",
             "target_repo": "LAW",
             "target_git_path_guess": "기술의 이전 및 사업화 촉진에 관한 법률/법률/기술의 이전 및 사업화 촉진에 관한 법률.json"
@@ -1524,7 +1524,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/특허법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0015",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0015",
             "reference_id": "law:특허법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "특허법/법률/특허법.json"
@@ -1544,7 +1544,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/실용신안법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0015",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0015",
             "reference_id": "law:실용신안법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "실용신안법/법률/실용신안법.json"
@@ -1564,7 +1564,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/디자인보호법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0015",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0015",
             "reference_id": "law:디자인보호법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "디자인보호법/법률/디자인보호법.json"
@@ -1584,14 +1584,14 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/저작권법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0015",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0015",
             "reference_id": "law:저작권법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "저작권법/법률/저작권법.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0015"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0015"
       },
       {
         "article_no": "제16조",
@@ -1616,7 +1616,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/국가연구개발혁신법/제31조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0016",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0016",
             "reference_id": "law:국가연구개발혁신법#JO0031",
             "target_repo": "LAW",
             "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
@@ -1636,7 +1636,7 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/국가연구개발혁신법 시행령",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0016",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0016",
             "reference_id": "law:국가연구개발혁신법시행령#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
@@ -1656,14 +1656,14 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/법령/국가연구개발혁신법 시행령/제59조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0016",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0016",
             "reference_id": "law:국가연구개발혁신법시행령#JO0059",
             "target_repo": "LAW",
             "target_git_path_guess": "국가연구개발혁신법/시행령/국가연구개발혁신법 시행령.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0016"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0016"
       },
       {
         "article_no": "제17조",
@@ -1674,7 +1674,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0017"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0017"
       },
       {
         "article_no": "제18조",
@@ -1685,7 +1685,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0018"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0018"
       },
       {
         "article_no": "제19조",
@@ -1696,7 +1696,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0019"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0019"
       },
       {
         "article_no": "제20조",
@@ -1707,7 +1707,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0020"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0020"
       },
       {
         "article_no": "제21조",
@@ -1718,7 +1718,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0021"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0021"
       },
       {
         "article_no": "제22조",
@@ -1743,14 +1743,14 @@
             "source_admrul_seq": "96203",
             "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
             "resolve_method": "html",
-            "source_provision_id": "admrul:기술료징수및관리에관한통합요령#JO0022",
+            "source_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0022",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:기술료징수및관리에관한통합요령#JO0022"
+        "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#JO0022"
       }
     ]
   },
@@ -1759,7 +1759,7 @@
       "promulgation_date": "20260129",
       "promulgation_no": "2026-31",
       "content": "부칙 <제2026-31호, 2026. 1. 29.>제1조(시행일) 이 요령은 고시하는 날부터 시행한다.제2조(경과조치) 이 요령 시행 이전에 별도의 규정 또는 규칙에 의하여 처리한 사항은 이 요령에 의하여 처리된 것으로 간주한다.",
-      "provision_id": "admrul:기술료징수및관리에관한통합요령#ADDENDUM",
+      "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000274950",
       "source_version_uid": "",
@@ -1793,7 +1793,7 @@
         }
       ],
       "images": [],
-      "provision_id": "admrul:기술료징수및관리에관한통합요령#BYL0001",
+      "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#BYL0001",
       "filename": "별표1_정부납부기술료 감면 등 처리기준.pdf",
       "file_dir": "별표",
       "local_path": "별표/별표1_정부납부기술료 감면 등 처리기준.pdf",
@@ -1824,7 +1824,7 @@
         }
       ],
       "images": [],
-      "provision_id": "admrul:기술료징수및관리에관한통합요령#BJ0001",
+      "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#BJ0001",
       "filename": "별지1_정부납부기술료 납부대상 확약서.pdf",
       "file_dir": "별지",
       "local_path": "별지/별지1_정부납부기술료 납부대상 확약서.pdf",
@@ -1855,7 +1855,7 @@
         }
       ],
       "images": [],
-      "provision_id": "admrul:기술료징수및관리에관한통합요령#BJ0002",
+      "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#BJ0002",
       "filename": "별지2_연구개발성과로 인한 매출액 대표자 확인서.pdf",
       "file_dir": "별지",
       "local_path": "별지/별지2_연구개발성과로 인한 매출액 대표자 확인서.pdf",
@@ -1886,7 +1886,7 @@
         }
       ],
       "images": [],
-      "provision_id": "admrul:기술료징수및관리에관한통합요령#BJ0003",
+      "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#BJ0003",
       "filename": "별지3_연구개발성과로 인한 매출액(제품_상품_용역 등) 관련 목록.pdf",
       "file_dir": "별지",
       "local_path": "별지/별지3_연구개발성과로 인한 매출액(제품_상품_용역 등) 관련 목록.pdf",
@@ -1917,7 +1917,7 @@
         }
       ],
       "images": [],
-      "provision_id": "admrul:기술료징수및관리에관한통합요령#BJ0004",
+      "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#BJ0004",
       "filename": "별지4_연구개발성과로인한 매출액 미발생 사유서.pdf",
       "file_dir": "별지",
       "local_path": "별지/별지4_연구개발성과로인한 매출액 미발생 사유서.pdf",
@@ -1948,7 +1948,7 @@
         }
       ],
       "images": [],
-      "provision_id": "admrul:기술료징수및관리에관한통합요령#BC0005",
+      "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#BC0005",
       "filename": "별첨5_기술료 징수결과 보고서.pdf",
       "file_dir": "별첨",
       "local_path": "별첨/별첨5_기술료 징수결과 보고서.pdf",
@@ -1979,7 +1979,7 @@
         }
       ],
       "images": [],
-      "provision_id": "admrul:기술료징수및관리에관한통합요령#ATT0000",
+      "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#ATT0000",
       "filename": "붙임0_정부납부기술료 가이드라인(에너지기술개발사업).pdf",
       "file_dir": "붙임",
       "local_path": "붙임/붙임0_정부납부기술료 가이드라인(에너지기술개발사업).pdf",
@@ -2029,12 +2029,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/기술료 징수 및 관리에 관한 통합요령"
   },
-  "provision_id": "admrul:기술료징수및관리에관한통합요령#DOC",
-  "addendum_provision_id": "admrul:기술료징수및관리에관한통합요령#ADDENDUM",
-  "amendment_provision_id": "admrul:기술료징수및관리에관한통합요령#AMENDMENT",
+  "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#DOC",
+  "addendum_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#ADDENDUM",
+  "amendment_provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json"
+  "git_path": "기술료 징수 및 관리에 관한 통합요령/admrul_96203/기술료 징수 및 관리에 관한 통합요령.json"
 }
