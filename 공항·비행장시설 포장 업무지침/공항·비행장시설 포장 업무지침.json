@@ -1,0 +1,131 @@
+{
+  "law_id": "49423",
+  "mst": "2100000260846",
+  "law_name": "공항·비행장시설 포장 업무지침",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:49423",
+  "promulgation_no": "430",
+  "promulgation_date": "20250630",
+  "enforcement_date": "20250630",
+  "revision_date": "20250630",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국토교통부(공항운영과)",
+    "담당자명": "조원준",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "공항·비행장시설 포장 업무지침",
+    "발령일자": "20250630",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국토교통부",
+    "전화번호": "044-201-4342",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1613000",
+    "생성일자": "20250630",
+    "행정규칙ID": "49423",
+    "시행일자": "20250630",
+    "담당부서기관코드": "1613813",
+    "발령번호": "430",
+    "행정규칙일련번호": "2100000260846",
+    "상위부처명": "국토교통부"
+  },
+  "amendment_text": "⊙국토교통부예규 제430호\n공항ㆍ비행장시설 포장 업무지침 일부를 다음과 같이 개정한다.\n2025년 6월 30일\n국토교통부장관\n공항ㆍ비행장시설 포장 업무지침 일부개정예규\n공항ㆍ비행장시설 포장 업무지침 일부를 다음과 같이 개정한다.\n제3조제15호 중 \"공시체의 관입\"을 \"공시체(供試體)의 관입(貫入)\"으로 한다.\n제9조제6항제2호 중 \"관입\"을 \"관입(貫入)\"으로 한다.\n제19조제1항 중 \"공시체\"를 \"공시체(供試體)\"로 한다.\n제76조 중 \"2025년 6월 31일\"을 \"2028년 6월 30일\"로 한다.\n부칙\n이 예규는 발령한 날부터 시행한다.",
+  "revision_reason": "◇ 개정 이유 및 주요내용\n‘행정규칙 속 어려운 용어 정비계획(법제처)’에 따라 한자를 병기하도록 해당 용어를 정비하고,\n「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」제7조에 따라 유효기간을 ‘2025년 6월 31일’에서 ‘2028년 6월 30일’로 연장하려는 것임",
+  "body": {
+    "format": "articles",
+    "article_count": 0,
+    "articles": []
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "(개정전문) 2. 공항ㆍ비행장시설 포장 업무지침 일부개정예규.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153642585",
+      "filename": "(개정전문) 2. 공항ㆍ비행장시설 포장 업무지침 일부개정예규.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(개정전문) 2. 공항ㆍ비행장시설 포장 업무지침 일부개정예규.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "(개정전문) 2. 공항ㆍ비행장시설 포장 업무지침 일부개정예규.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153642589",
+      "filename": "(개정전문) 2. 공항ㆍ비행장시설 포장 업무지침 일부개정예규.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(개정전문) 2. 공항ㆍ비행장시설 포장 업무지침 일부개정예규.pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "(제개정이유서) 2. 공항·비행장시설 포장 업무지침.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153641689",
+      "filename": "(제개정이유서) 2. 공항·비행장시설 포장 업무지침.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(제개정이유서) 2. 공항·비행장시설 포장 업무지침.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "(제개정이유서) 2. 공항·비행장시설 포장 업무지침.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153641693",
+      "filename": "(제개정이유서) 2. 공항·비행장시설 포장 업무지침.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(제개정이유서) 2. 공항·비행장시설 포장 업무지침.pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "(개정문) 2. 공항·비행장시설 포장 업무지침.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153641697",
+      "filename": "(개정문) 2. 공항·비행장시설 포장 업무지침.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(개정문) 2. 공항·비행장시설 포장 업무지침.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "(개정문) 2. 공항·비행장시설 포장 업무지침.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153642341",
+      "filename": "(개정문) 2. 공항·비행장시설 포장 업무지침.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(개정문) 2. 공항·비행장시설 포장 업무지침.pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "(심의결과) 2. 공항·비행장시설 포장 업무지침.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153592837",
+      "filename": "(심의결과) 2. 공항·비행장시설 포장 업무지침.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(심의결과) 2. 공항·비행장시설 포장 업무지침.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 0,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 7
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/공항·비행장시설 포장 업무지침"
+  },
+  "provision_id": "admrul:공항비행장시설포장업무지침#DOC",
+  "addendum_provision_id": "admrul:공항비행장시설포장업무지침#ADDENDUM",
+  "amendment_provision_id": "admrul:공항비행장시설포장업무지침#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "공항·비행장시설 포장 업무지침/공항·비행장시설 포장 업무지침.json"
+}
