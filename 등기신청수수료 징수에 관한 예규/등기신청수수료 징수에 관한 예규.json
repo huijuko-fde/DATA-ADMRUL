@@ -1,6 +1,6 @@
 {
   "law_id": "2111763",
-  "mst": "2200000107775",
+  "mst": "2200000109209",
   "law_name": "등기신청수수료 징수에 관한 예규",
   "law_abbr": "",
   "law_type": "등기예규",
@@ -23,16 +23,16 @@
     "행정규칙종류": "등기예규",
     "제개정구분코드": "200403",
     "조문형식여부": "N",
-    "소관부처명": "대법원",
+    "소관부처명": "",
     "전화번호": "",
     "제개정구분명": "일부개정",
     "소관부처코드": "9740000",
-    "생성일자": "20250807",
+    "생성일자": "20261014",
     "행정규칙ID": "2111763",
     "시행일자": "20250805",
     "담당부서기관코드": "",
     "발령번호": "1861",
-    "행정규칙일련번호": "2200000107775",
+    "행정규칙일련번호": "2200000109209",
     "상위부처명": "대법원"
   },
   "amendment_text": "등기신청수수료 징수에 관한 예규 일부를 다음과 같이 개정한다.\n별표 1 및 별표 2를 각각 별지와 같이 한다.\n부    칙\n이 예규는 즉시 시행한다.",
@@ -125,7 +125,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2111763",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000107775&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000109209&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:등기신청수수료징수에관한예규#DOC",
             "target_unit": "BYL0001",
@@ -190,7 +190,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2111763",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000107775&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000109209&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:등기신청수수료징수에관한예규#DOC",
             "target_unit": "BYL0002",
@@ -371,7 +371,7 @@
       "content": "부  칙(2014. 12. 24. 제1565호)이 예규는 2015. 1. 1. 부터 시행한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -382,7 +382,7 @@
       "content": "부  칙(2017. 5. 18. 제1622호)제1조(시행일) 이 예규는 2017년 7월 18일부터 시행한다.제2조(적용례) 이 예규는 이 예규 시행 후 최초로 접수되는 사건부터 적용한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -393,7 +393,7 @@
       "content": "부  칙(2017. 12. 6. 제1629호)제1조(시행일) 이 예규는 2018년 1월 1일부터 시행한다.제2조(적용례) 이 예규는 이 예규 시행 후 최초로 접수되는 사건부터 적용한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -404,7 +404,7 @@
       "content": "부  칙(2018. 12. 11. 제1662호)이 예규는 2018년 12월 19일부터 시행한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -415,7 +415,7 @@
       "content": "부  칙(2020. 12. 8. 제1722호)제1조(시행일) 이 예규는 2021년 7월 6일부터 시행한다.제2조(적용례) 이 예규는 이 예규 시행 후 최초로 접수되는 사건부터 적용 한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -426,7 +426,7 @@
       "content": "부  칙(2021. 7. 2. 제1733호)이 예규는 2021년 7월 16일부터 시행한다. 다만 법원행정처장은 일부 등기소에 대하여 이 예규 시행 전에 신용카드 결제방식을 시범운영할 수 있다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -437,7 +437,7 @@
       "content": "부  칙(2024. 11. 29. 제1789호)이 예규는 2025년 1월 31일부터 시행한다. 다만, 「상업등기법」(법률 제20437호, 2024. 9. 20. 공포, 2025. 1. 31. 시행) 부칙 제2조 및 「법인의 등기사항 등에 관한 특례법」(법률 제20434호, 2024. 9. 20. 공포, 2025. 1. 31. 시행) 부칙 제2조에 따라 시범사업을 실시하는 등기소에 대해서는 2024년 12월 2일부터 시행한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -448,7 +448,7 @@
       "content": "부  칙(2025. 7. 23. 제1856호)제1조(시행일) 이 예규는 2025년 8월 1일부터 시행한다.제2조(적용례) 이 예규는 이 예규 시행 후 최초로 접수되는 사건부터 적용 한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -459,7 +459,7 @@
       "content": "부  칙(2025. 8. 5. 제1861호)이 예규는 즉시 시행한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -470,7 +470,7 @@
       "content": "부  칙(2013. 4. 10. 제1487호)1. (시행일) 이 예규는 2013년 5월 1일부터 시행한다.2. (적용례) 이 예규는 시행 후 최초로 접수되는 사건부터 적용한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -481,7 +481,7 @@
       "content": "부  칙(2012. 11. 30. 제1479호)제1조(시행일) 이 예규는 2012년  12월  1일부터 시행한다.제2조(적용례) 이 예규는 이 예규 시행 후 최초로 접수되는 사건부터 적용한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -492,7 +492,7 @@
       "content": "부  칙(2012. 5. 25. 제1463호)이 예규는 2012년 6월 11일부터 시행한다. 다만 4. 나. 중 유한책임신탁등기에 관한 개정규정은 2012년 7월 26일부터 시행하고, 4의2. 라. 의 개정규정 중 전자신청에 관한 규정은 2013년 7월 1일부터 시행한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -503,7 +503,7 @@
       "content": "부  칙(2012. 4. 24. 제1451호)이 예규는 즉시 시행한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -514,7 +514,7 @@
       "content": "부  칙(2011. 10. 11. 제1403호)이 예규는 2011년 10월 13일부터 시행한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -525,7 +525,7 @@
       "content": "부  칙(2011. 6. 14. 제1333호)이 예규는 2011년 6월 24일부터 시행한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -536,7 +536,7 @@
       "content": "부  칙(2010. 12. 13. 제1324호)1. (시행일) 이 예규는 2010년 12월 20일부터 시행한다.2. (적용례) 이 예규는 이 예규 시행 후 최초로 접수되는 사건부터 적용한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -547,7 +547,7 @@
       "content": "부  칙(2009. 5. 15. 제1291호)이 예규는 2009년 6월 1일부터 시행한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -558,7 +558,7 @@
       "content": "부  칙(2007. 4. 27. 제1181호)(다른 예규의 폐지) 농지개량조합이 무료로 등기부등본 등을 청구할 수 있는 경우(등기예규 제234호), 등기부 등ㆍ초본 무료 교부청구(등기예규 제345호)는 이를 폐지한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -569,7 +569,7 @@
       "content": "부  칙(2006. 5. 12. 제1130호)이 예규는 2006. 6. 1.부터 시행한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -580,7 +580,7 @@
       "content": "부  칙(2001. 8. 27. 제1037호)위 예규는 2001년 9월 1일부터 시행한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -591,7 +591,7 @@
       "content": "부  칙이 예규는 1997년 7월 1일 부터 시행한다.",
       "provision_id": "admrul:등기신청수수료징수에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107775",
+      "source_mst": "2200000109209",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250805"
@@ -606,12 +606,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000107775&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155298979",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000109209&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170567415",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155298979",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170567415",
           "name": "",
           "file_store_url": ""
         }
@@ -631,12 +631,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000107775&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155298981",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000109209&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170567417",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155298981",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170567417",
           "name": "",
           "file_store_url": ""
         }
