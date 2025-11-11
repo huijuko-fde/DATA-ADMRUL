@@ -1,0 +1,83 @@
+{
+  "law_id": "97913",
+  "mst": "2100000283414",
+  "law_name": "국가기간 전력망 설비의 지정",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:97913",
+  "promulgation_no": "2025-11",
+  "promulgation_date": "20251105",
+  "enforcement_date": "20251111",
+  "revision_date": "20251105",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "기후에너지환경부(전력망정책과)",
+    "담당자명": "박희범",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "국가기간 전력망 설비의 지정",
+    "발령일자": "20251105",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "기후에너지환경부",
+    "전화번호": "044-203-5125",
+    "제개정구분명": "제정",
+    "소관부처코드": "1482000",
+    "생성일자": "20260731",
+    "행정규칙ID": "97913",
+    "시행일자": "20251111",
+    "담당부서기관코드": "1482227",
+    "발령번호": "2025-11",
+    "행정규칙일련번호": "2100000283414",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n가. 「국가기간 전력망 확충 특별법」제8조 제4항에 따라 국가기간 전력망확충위원회의 심의ㆍ의결을 거친 국가기간 전력망 설비를 지정ㆍ고시하려는 것임\n\n◇ 주요내용\n가. 「국가기간 전력망 확충 특별법」제8조에 따라 국가기간 전력망확충위원회의 심의ㆍ의결을 거친 국가기간 전력망 설비를 국가기간 전력망 설비로 지정함.",
+  "body": {
+    "format": "articles",
+    "article_count": 0,
+    "articles": []
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "기후에너지환경부고시제2025-11호(국가기간 전력망 설비의 지정).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=167652887",
+      "filename": "기후에너지환경부고시제2025-11호(국가기간 전력망 설비의 지정).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/기후에너지환경부고시제2025-11호(국가기간 전력망 설비의 지정).pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 0,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/국가기간 전력망 설비의 지정"
+  },
+  "provision_id": "admrul:국가기간전력망설비의지정#DOC",
+  "addendum_provision_id": "admrul:국가기간전력망설비의지정#ADDENDUM",
+  "amendment_provision_id": "admrul:국가기간전력망설비의지정#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "국가기간 전력망 설비의 지정/국가기간 전력망 설비의 지정.json"
+}
