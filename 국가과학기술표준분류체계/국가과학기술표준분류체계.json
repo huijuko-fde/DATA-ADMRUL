@@ -1,0 +1,556 @@
+{
+  "law_id": "34052",
+  "mst": "2100000269796",
+  "law_name": "국가과학기술표준분류체계",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:34052",
+  "promulgation_no": "2025-60",
+  "promulgation_date": "20251216",
+  "enforcement_date": "20251216",
+  "revision_date": "20251216",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "과학기술정보통신부(과학기술정보분석과)",
+    "담당자명": "장종덕",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "국가과학기술표준분류체계",
+    "발령일자": "20251216",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "과학기술정보통신부",
+    "전화번호": "044-202-6967",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1721000",
+    "생성일자": "20260122",
+    "행정규칙ID": "34052",
+    "시행일자": "20251216",
+    "담당부서기관코드": "1726062",
+    "발령번호": "2025-60",
+    "행정규칙일련번호": "2100000269796",
+    "상위부처명": "과학기술정보통신부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n가. 「과학기술기본법」제27조 및 동법\t시행령 제41조에 따라 과학기술 관련 정보ㆍ인력ㆍ연구개발사업 등을 효율적으로 관리할 수 있도록 국가과학기술표준분류체계 개편(안)을 확정하여 고시하고자 함\n\n◇ 주요내용\n가. 국가과학기술표준분류체계의 연구분야를 22개 대분류, 277개 중분류, 2,807개 세부영역(8개↑) 체계로 개정\n[그림]\n",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "[그림]1. 연구분야[그림]□ 자연NA. 수학[그림]NB. 물리학[그림]NC. 화학[그림]ND. 지구과학(지구/대기/해양/천문)[그림][그림]□ 생명LA. 생명과학[그림]LB. 농림수산식품[그림][그림]LC. 보건의료[그림][그림][그림]□ 인공물EA. 기계[그림][그림][그림]EB. 재료[그림]EC. 화공[그림][그림]ED. 전기/전자[그림][그림]EE. 정보/통신[그림]EF. 에너지/자원[그림]EG. 원자력[그림]EH. 환경[그림]EI. 건설/교통[그림][그림]□ 인문사회학HF. 인문학[그림][그림][그림][그림][그림][그림]HG. 사회과학[그림][그림][그림][그림][그림][그림][그림][그림]HH. 문화예술체육학[그림][그림]□ 인간 과학과 기술OA. 뇌과학[그림]OB. 인지/감성과학[그림]OC. 과학기술과 인문사회[그림]2. 적용분야X. 공공분야[그림][그림]Y. 산업분야[그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161119971",
+            "seq": "161119971",
+            "filename": "전문_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161119981",
+            "seq": "161119981",
+            "filename": "전문_2.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_2.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161119983",
+            "seq": "161119983",
+            "filename": "전문_3.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_3.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161119991",
+            "seq": "161119991",
+            "filename": "전문_4.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_4.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161119993",
+            "seq": "161119993",
+            "filename": "전문_5.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_5.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161119995",
+            "seq": "161119995",
+            "filename": "전문_6.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_6.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161119997",
+            "seq": "161119997",
+            "filename": "전문_7.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_7.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161119999",
+            "seq": "161119999",
+            "filename": "전문_8.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_8.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120009",
+            "seq": "161120009",
+            "filename": "전문_9.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_9.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120019",
+            "seq": "161120019",
+            "filename": "전문_10.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_10.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120021",
+            "seq": "161120021",
+            "filename": "전문_11.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_11.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120023",
+            "seq": "161120023",
+            "filename": "전문_12.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_12.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120093",
+            "seq": "161120093",
+            "filename": "전문_13.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_13.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120095",
+            "seq": "161120095",
+            "filename": "전문_14.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_14.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120097",
+            "seq": "161120097",
+            "filename": "전문_15.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_15.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120099",
+            "seq": "161120099",
+            "filename": "전문_16.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_16.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120101",
+            "seq": "161120101",
+            "filename": "전문_17.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_17.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120103",
+            "seq": "161120103",
+            "filename": "전문_18.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_18.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120105",
+            "seq": "161120105",
+            "filename": "전문_19.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_19.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120107",
+            "seq": "161120107",
+            "filename": "전문_20.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_20.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120109",
+            "seq": "161120109",
+            "filename": "전문_21.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_21.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120111",
+            "seq": "161120111",
+            "filename": "전문_22.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_22.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120113",
+            "seq": "161120113",
+            "filename": "전문_23.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_23.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120123",
+            "seq": "161120123",
+            "filename": "전문_24.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_24.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120125",
+            "seq": "161120125",
+            "filename": "전문_25.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_25.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120127",
+            "seq": "161120127",
+            "filename": "전문_26.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_26.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120129",
+            "seq": "161120129",
+            "filename": "전문_27.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_27.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120131",
+            "seq": "161120131",
+            "filename": "전문_28.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_28.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120133",
+            "seq": "161120133",
+            "filename": "전문_29.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_29.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120135",
+            "seq": "161120135",
+            "filename": "전문_30.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_30.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120137",
+            "seq": "161120137",
+            "filename": "전문_31.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_31.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120177",
+            "seq": "161120177",
+            "filename": "전문_32.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_32.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120179",
+            "seq": "161120179",
+            "filename": "전문_33.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_33.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120181",
+            "seq": "161120181",
+            "filename": "전문_34.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_34.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120183",
+            "seq": "161120183",
+            "filename": "전문_35.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_35.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120185",
+            "seq": "161120185",
+            "filename": "전문_36.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_36.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120271",
+            "seq": "161120271",
+            "filename": "전문_37.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_37.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120289",
+            "seq": "161120289",
+            "filename": "전문_38.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_38.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120291",
+            "seq": "161120291",
+            "filename": "전문_39.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_39.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120293",
+            "seq": "161120293",
+            "filename": "전문_40.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_40.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120295",
+            "seq": "161120295",
+            "filename": "전문_41.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_41.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120623",
+            "seq": "161120623",
+            "filename": "전문_42.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_42.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120631",
+            "seq": "161120631",
+            "filename": "전문_43.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_43.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120675",
+            "seq": "161120675",
+            "filename": "전문_44.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_44.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120677",
+            "seq": "161120677",
+            "filename": "전문_45.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_45.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120679",
+            "seq": "161120679",
+            "filename": "전문_46.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_46.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120681",
+            "seq": "161120681",
+            "filename": "전문_47.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_47.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120683",
+            "seq": "161120683",
+            "filename": "전문_48.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_48.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161120685",
+            "seq": "161120685",
+            "filename": "전문_49.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_49.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:국가과학기술표준분류체계#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20251216",
+      "promulgation_no": "2025-60",
+      "content": "부칙 <제2025-60호, 2025. 12. 16.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:국가과학기술표준분류체계#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000269796",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251216"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "(과학기술정보통신부 고시 제2025-60호) 국가과학기술표준분류체계 일부개정 고시.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161120697",
+      "filename": "(과학기술정보통신부 고시 제2025-60호) 국가과학기술표준분류체계 일부개정 고시.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(과학기술정보통신부 고시 제2025-60호) 국가과학기술표준분류체계 일부개정 고시.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "(과학기술정보통신부 고시 제2025-60호) 국가과학기술표준분류체계 일부개정 고시.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161120701",
+      "filename": "(과학기술정보통신부 고시 제2025-60호) 국가과학기술표준분류체계 일부개정 고시.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(과학기술정보통신부 고시 제2025-60호) 국가과학기술표준분류체계 일부개정 고시.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/국가과학기술표준분류체계"
+  },
+  "provision_id": "admrul:국가과학기술표준분류체계#DOC",
+  "addendum_provision_id": "admrul:국가과학기술표준분류체계#ADDENDUM",
+  "amendment_provision_id": "admrul:국가과학기술표준분류체계#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "국가과학기술표준분류체계/국가과학기술표준분류체계.json"
+}
