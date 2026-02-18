@@ -64,7 +64,7 @@
             "source_admrul_seq": "96148",
             "target_url": "https://www.law.go.kr/법령/농어업고용인력 지원 특별법 시행령",
             "resolve_method": "html",
-            "source_provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시#JO0001",
+            "source_provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시:admrul_96148#JO0001",
             "reference_id": "law:농어업고용인력지원특별법시행령#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "농어업고용인력 지원 특별법/시행령/농어업고용인력 지원 특별법 시행령.json"
@@ -84,14 +84,14 @@
             "source_admrul_seq": "96148",
             "target_url": "https://www.law.go.kr/법령/농어업고용인력 지원 특별법 시행령/제8조의2",
             "resolve_method": "html",
-            "source_provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시#JO0001",
+            "source_provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시:admrul_96148#JO0001",
             "reference_id": "law:농어업고용인력지원특별법시행령#JO0008_02",
             "target_repo": "LAW",
             "target_git_path_guess": "농어업고용인력 지원 특별법/시행령/농어업고용인력 지원 특별법 시행령.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시#JO0001"
+        "provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시:admrul_96148#JO0001"
       },
       {
         "article_no": "제2조",
@@ -116,7 +116,7 @@
             "source_admrul_seq": "96148",
             "target_url": "https://www.law.go.kr/법령/농어업고용인력 지원 특별법 시행령",
             "resolve_method": "html",
-            "source_provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시#JO0002",
+            "source_provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시:admrul_96148#JO0002",
             "reference_id": "law:농어업고용인력지원특별법시행령#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "농어업고용인력 지원 특별법/시행령/농어업고용인력 지원 특별법 시행령.json"
@@ -136,14 +136,14 @@
             "source_admrul_seq": "96148",
             "target_url": "https://www.law.go.kr/법령/농어업고용인력 지원 특별법 시행령/제8조의2",
             "resolve_method": "html",
-            "source_provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시#JO0002",
+            "source_provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시:admrul_96148#JO0002",
             "reference_id": "law:농어업고용인력지원특별법시행령#JO0008_02",
             "target_repo": "LAW",
             "target_git_path_guess": "농어업고용인력 지원 특별법/시행령/농어업고용인력 지원 특별법 시행령.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시#JO0002"
+        "provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시:admrul_96148#JO0002"
       },
       {
         "article_no": "제3조",
@@ -168,14 +168,14 @@
             "source_admrul_seq": "96148",
             "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
             "resolve_method": "html",
-            "source_provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시#JO0003",
+            "source_provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시:admrul_96148#JO0003",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시#JO0003"
+        "provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시:admrul_96148#JO0003"
       }
     ]
   },
@@ -184,7 +184,7 @@
       "promulgation_date": "20260212",
       "promulgation_no": "2026-32",
       "content": "부칙 <제2026-32호, 2026. 2. 12.>이 고시는 2026년 2월 15일 이후 근로계약을 체결하는 외국인 계절근로자부터 적용한다.",
-      "provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시#ADDENDUM",
+      "provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시:admrul_96148#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000274704",
       "source_version_uid": "",
@@ -234,12 +234,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/외국인 계절근로자 임금체불 보증보험의 보증금액 고시"
   },
-  "provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시#DOC",
-  "addendum_provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시#ADDENDUM",
-  "amendment_provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시#AMENDMENT",
+  "provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시:admrul_96148#DOC",
+  "addendum_provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시:admrul_96148#ADDENDUM",
+  "amendment_provision_id": "admrul:외국인계절근로자임금체불보증보험의보증금액고시:admrul_96148#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "외국인 계절근로자 임금체불 보증보험의 보증금액 고시/외국인 계절근로자 임금체불 보증보험의 보증금액 고시.json"
+  "git_path": "외국인 계절근로자 임금체불 보증보험의 보증금액 고시/admrul_96148/외국인 계절근로자 임금체불 보증보험의 보증금액 고시.json"
 }
