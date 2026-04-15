@@ -27,7 +27,7 @@
     "전화번호": "02-2100-2688",
     "제개정구분명": "일부개정",
     "소관부처코드": "1160100",
-    "생성일자": "20260430",
+    "생성일자": "20261013",
     "행정규칙ID": "81395",
     "시행일자": "20260415",
     "담당부서기관코드": "1160214",
@@ -3677,34 +3677,19 @@
       "promulgation_date": "20220331",
       "promulgation_no": "119",
       "content": "부칙 <제119호, 2022. 3. 31.>이 훈령은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:자본시장특별사법경찰집무규칙#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2100000277938",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "provision_id": "admrul:자본시장특별사법경찰집무규칙#ADDENDUM"
     },
     {
       "promulgation_date": "20230118",
       "promulgation_no": "135",
       "content": "부칙 <제135호, 2023. 1. 18.>이 훈령은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:자본시장특별사법경찰집무규칙#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2100000277938",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "provision_id": "admrul:자본시장특별사법경찰집무규칙#ADDENDUM"
     },
     {
       "promulgation_date": "20260415",
       "promulgation_no": "183",
       "content": "부칙 <제183호, 2026. 4. 15.>이 훈령은 발령한 날부터 시행한다.",
-      "provision_id": "admrul:자본시장특별사법경찰집무규칙#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2100000277938",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "provision_id": "admrul:자본시장특별사법경찰집무규칙#ADDENDUM"
     }
   ],
   "appendices": [
@@ -5026,9 +5011,11 @@
   "provision_id": "admrul:자본시장특별사법경찰집무규칙#DOC",
   "addendum_provision_id": "admrul:자본시장특별사법경찰집무규칙#ADDENDUM",
   "amendment_provision_id": "admrul:자본시장특별사법경찰집무규칙#AMENDMENT",
-  "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "catalog_resolution": {
+    "previous_unavailable_mst": "2100000286746",
+    "resolved_mst": "2100000277938",
+    "verified_at": "2026-10-13T01:58:29.288028+00:00",
+    "reason": "current_search_result_verified_by_document_id"
+  },
   "git_path": "자본시장특별사법경찰 집무규칙/자본시장특별사법경찰 집무규칙.json"
 }
