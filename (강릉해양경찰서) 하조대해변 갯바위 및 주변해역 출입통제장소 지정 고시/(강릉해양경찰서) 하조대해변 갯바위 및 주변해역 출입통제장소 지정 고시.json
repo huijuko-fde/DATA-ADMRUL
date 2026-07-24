@@ -1,0 +1,83 @@
+{
+  "law_id": "97882",
+  "mst": "2100000283178",
+  "law_name": "(강릉해양경찰서) 하조대해변 갯바위 및 주변해역 출입통제장소 지정 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:97882",
+  "promulgation_no": "2026-1",
+  "promulgation_date": "20260724",
+  "enforcement_date": "20260724",
+  "revision_date": "20260724",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "강릉해양경찰서(해양안전방제과)",
+    "담당자명": "이정래",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "(강릉해양경찰서) 하조대해변 갯바위 및 주변해역 출입통제장소 지정 고시",
+    "발령일자": "20260724",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "강릉해양경찰서",
+    "전화번호": "033-924-2348",
+    "제개정구분명": "제정",
+    "소관부처코드": "1532000",
+    "생성일자": "20260728",
+    "행정규칙ID": "97882",
+    "시행일자": "20260724",
+    "담당부서기관코드": "1532868",
+    "발령번호": "2026-1",
+    "행정규칙일련번호": "2100000283178",
+    "상위부처명": "해양경찰청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제정이유\n익수, 표류, 고립 등 연안사고(사망사고)가 반복 발생한 ‘하조대해변 갯바위 및 주변해역’을 연안사고예방법상 출입통제장소로 지정하여 국민으로 하여금 경각심을 높이고 안전사고를 방지하려고 하는 것임.\n◇ 주요내용\n가. 강릉해양경찰서 출입통제장소 지정 근거 조항\n1) 지정근거: 「연안사고 예방에 관한 법률」 제10조제1항\n2) 벌칙조항: 「연안사고 예방에 관한 법률」 제25조제2항제1호\n나. 출입통제장소의 소재지, 통제범위?기간, 대상 등\n다. 그 밖의 출입통제와 관련하여 필요한 사항",
+  "body": {
+    "format": "articles",
+    "article_count": 0,
+    "articles": []
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "강릉해양경찰서고시제2026-1호(하조대해변 갯바위 및 주변해역 출입통제장소 지정 고시).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=167486117",
+      "filename": "강릉해양경찰서고시제2026-1호(하조대해변 갯바위 및 주변해역 출입통제장소 지정 고시).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/강릉해양경찰서고시제2026-1호(하조대해변 갯바위 및 주변해역 출입통제장소 지정 고시).pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 0,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/(강릉해양경찰서) 하조대해변 갯바위 및 주변해역 출입통제장소 지정 고시"
+  },
+  "provision_id": "admrul:(강릉해양경찰서)하조대해변갯바위및주변해역출입통제장소지정고시#DOC",
+  "addendum_provision_id": "admrul:(강릉해양경찰서)하조대해변갯바위및주변해역출입통제장소지정고시#ADDENDUM",
+  "amendment_provision_id": "admrul:(강릉해양경찰서)하조대해변갯바위및주변해역출입통제장소지정고시#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "(강릉해양경찰서) 하조대해변 갯바위 및 주변해역 출입통제장소 지정 고시/(강릉해양경찰서) 하조대해변 갯바위 및 주변해역 출입통제장소 지정 고시.json"
+}
