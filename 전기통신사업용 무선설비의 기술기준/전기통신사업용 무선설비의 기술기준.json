@@ -1,0 +1,91 @@
+{
+  "law_id": "2055207",
+  "mst": "2100000282848",
+  "law_name": "전기통신사업용 무선설비의 기술기준",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2055207",
+  "promulgation_no": "2026-4",
+  "promulgation_date": "20260724",
+  "enforcement_date": "20260724",
+  "revision_date": "20260724",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립전파연구원(기술기준과)",
+    "담당자명": "주상임",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "전기통신사업용 무선설비의 기술기준",
+    "발령일자": "20260724",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국립전파연구원",
+    "전화번호": "061-338-4652",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1721000",
+    "생성일자": "20260907",
+    "행정규칙ID": "2055207",
+    "시행일자": "20260724",
+    "담당부서기관코드": "1721137",
+    "발령번호": "2026-4",
+    "행정규칙일련번호": "2100000282848",
+    "상위부처명": "과학기술정보통신부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n- LTE 주파수 이용기간(2026. 6월, 12월까지) 종료 및 「AI 시대를 준비하는 이동통신 주파수 재할당 세부 정책방안」(2025. 12월, 과기정통부)에 따라 LTE 재할당 주파수를 5G 이상 기술도 이용할 수 있도록 관련 기술기준(고시) 정비\n◇ 주요내용\n- 전기통신사업용 무선설비 기술기준의 해당 LTE 조항(제4조, 4항)에 5G 이상 기술기준을 수용하도록 ITU/3GPP 국제표준에 근거하여 정비\n가. 통신방식 조건 완화 (현행 제4조제4항제1호가목)\nㆍ 현행 LTE 기술의 통신방식 조건을 5G 기술 이상의 통신방식도 수용할 수 있도록 ITU 등 국제표준에 따라 IMT 표준 기술방식으로 통신방식 조건 완화\n나. 안테나탭 공급전력 조건 완화 (현행 제4조제4항제2호가목, 나목)\nㆍ 현행 LTE 기술의 공급전력 조건을 5G 기술의 공급전력 조건도 수용할 수 있도록 ITU 등 국제표준에 따라 안테나탭*에 공급되는 전력으로 완화하고, 관련된 주파수허용편차도 등도 안테나탭 최대공급전력으로 공급전력 조건도 완화\n* 5G는 다중안테나 기술을 사용하고 있어 안테나탭(통상 2∼4개 이상) 단위로 전력이 공급됨\n다. 점유주파수대역폭 조건 완화 (현행 제4조제4항제1호라목)\nㆍ 현행 LTE 기술의 점유주파수대역폭(최대 20㎒) 조건을 5G 기술의 점유주파수대역폭(최대 50㎒)도 수용할 수 있도록 ITU 등 국제표준에 따라 점유주파수대역폭 조건 완화",
+  "body": {
+    "format": "articles",
+    "article_count": 0,
+    "articles": []
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "개정 전문_전기통신사업용 무선설비의 기술기준_clean.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=167411091",
+      "filename": "개정 전문_전기통신사업용 무선설비의 기술기준_clean.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/개정 전문_전기통신사업용 무선설비의 기술기준_clean.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "개정 전문_전기통신사업용 무선설비의 기술기준_clean.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=167411095",
+      "filename": "개정 전문_전기통신사업용 무선설비의 기술기준_clean.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/개정 전문_전기통신사업용 무선설비의 기술기준_clean.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 0,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/전기통신사업용 무선설비의 기술기준"
+  },
+  "provision_id": "admrul:전기통신사업용무선설비의기술기준#DOC",
+  "addendum_provision_id": "admrul:전기통신사업용무선설비의기술기준#ADDENDUM",
+  "amendment_provision_id": "admrul:전기통신사업용무선설비의기술기준#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "전기통신사업용 무선설비의 기술기준/전기통신사업용 무선설비의 기술기준.json"
+}
