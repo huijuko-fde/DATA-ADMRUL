@@ -1,0 +1,222 @@
+{
+  "law_id": "2078605",
+  "mst": "2100000283518",
+  "law_name": "(울산해양경찰서) 해양레저활동 허가필요수역 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2078605",
+  "promulgation_no": "2026-12",
+  "promulgation_date": "20260729",
+  "enforcement_date": "20260729",
+  "revision_date": "20260729",
+  "revision_type": "폐지제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "울산해양경찰서(해양안전과)",
+    "담당자명": "박창원",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "(울산해양경찰서) 해양레저활동 허가필요수역 고시",
+    "발령일자": "20260729",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200407",
+    "조문형식여부": "N",
+    "소관부처명": "울산해양경찰서",
+    "전화번호": "052-230-2449",
+    "제개정구분명": "폐지제정",
+    "소관부처코드": "1532000",
+    "생성일자": "20260805",
+    "행정규칙ID": "2078605",
+    "시행일자": "20260729",
+    "담당부서기관코드": "1532326",
+    "발령번호": "2026-12",
+    "행정규칙일련번호": "2100000283518",
+    "상위부처명": "해양경찰청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n가. 해양레저활동 허가필요수역 고시 재검토 기한 도래에 따른 고시 검토\n나. 재검토 기한을 수정하여 고시 효력을 유지하고 기존 근거 법령인 「해사안전법」이 「해사안전기본법」과 「해상교통안전법」으로 분법 시행(‘24. 1. 26.)됨에 따라 개정 사항을 반영\n\n◇ 주요내용\n가. 근거 법령 변경됨에 따라 인용 조항 변경\n※ 해사안전법이 해사안전기본법, 해상교통안전법으로 분법 시행(’24.1.26.)\n나. 고시 구역 해점에 병기된 명칭 삭제(안 제1호)\n다. 관련부서 및 과태료 부과에 관한 사항 신설(안 제2, 3호)\n라. 재검토 기한 재설정(안 제4호)",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "1. 울산해양경찰서 해양레저활동 허가필요수역[그림] 2. 문의처: 울산해양경찰서 해양안전과(052-230-2449) 3. 상기 해양레저활동 허가필요수역 내에서 울산해양경찰서장의 허가 없이 스킨다이빙, 스쿠버다이빙, 윈드서핑 등의 행위를 하거나 허가할 때에 붙인 조건을 위반한 자는 「해상교통안전법」 제118조제3항제13호에 따라 300만원 이하의 과태료가 부과됩니다. 4. 재검토 기한 : 울산해양경찰서장은「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2027년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "「해상교통안전법」",
+            "line_text": "",
+            "target_law_name": "해상교통안전법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2078605",
+            "target_url": "https://www.law.go.kr/법령/해상교통안전법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(울산해양경찰서)해양레저활동허가필요수역고시#DOC",
+            "reference_id": "law:해상교통안전법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "해상교통안전법/법률/해상교통안전법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제118조제3항제13호",
+            "line_text": "",
+            "target_law_name": "해상교통안전법",
+            "target_article_no": "제118조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2078605",
+            "target_url": "https://www.law.go.kr/법령/해상교통안전법/제118조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(울산해양경찰서)해양레저활동허가필요수역고시#DOC",
+            "reference_id": "law:해상교통안전법#JO0118",
+            "target_repo": "LAW",
+            "target_git_path_guess": "해상교통안전법/법률/해상교통안전법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2078605",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(울산해양경찰서)해양레저활동허가필요수역고시#DOC",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167781393",
+            "seq": "167781393",
+            "filename": "전문_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:(울산해양경찰서)해양레저활동허가필요수역고시#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20260729",
+      "promulgation_no": "2026-12",
+      "content": "부칙 <제2026-12호, 2026. 7. 29.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(종전 고시의 폐지) 종전 울산해양경찰서 고시 제2023-4호는 폐지한다.",
+      "provision_id": "admrul:(울산해양경찰서)해양레저활동허가필요수역고시#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283518",
+      "source_version_uid": "",
+      "source_revision_type": "폐지제정",
+      "version_enforcement_date": "20260729"
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별첨",
+      "title": "해양레저활동 허가필요수역도",
+      "enforcement_date": "",
+      "content": "┌──┬──────────────┐\n│별첨│ 해양레저활동 허가필요수역도│\n└──┴──────────────┘\n┌─────────────┐\n│                          │\n├─────────────┤\n│울산항(신항), 미포·전하항│\n└─────────────┘\n┌───┐\n│      │\n├───┤\n│대변항│\n└───┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167831611",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167831607",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167831611",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(울산해양경찰서)해양레저활동허가필요수역고시#BC0000",
+      "filename": "별첨0_해양레저활동 허가필요수역도.pdf",
+      "file_dir": "별첨",
+      "local_path": "별첨/별첨0_해양레저활동 허가필요수역도.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "(울산해양경찰서) 해양레저활동 허가필요수역 고시.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=167781055",
+      "filename": "(울산해양경찰서) 해양레저활동 허가필요수역 고시.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(울산해양경찰서) 해양레저활동 허가필요수역 고시.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "(울산해양경찰서) 해양레저활동 허가필요수역 고시.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=167781099",
+      "filename": "(울산해양경찰서) 해양레저활동 허가필요수역 고시.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(울산해양경찰서) 해양레저활동 허가필요수역 고시.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 3,
+    "by_category": {
+      "법령": 2,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 3
+    },
+    "articles_total": 1,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/(울산해양경찰서) 해양레저활동 허가필요수역 고시"
+  },
+  "provision_id": "admrul:(울산해양경찰서)해양레저활동허가필요수역고시#DOC",
+  "addendum_provision_id": "admrul:(울산해양경찰서)해양레저활동허가필요수역고시#ADDENDUM",
+  "amendment_provision_id": "admrul:(울산해양경찰서)해양레저활동허가필요수역고시#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "(울산해양경찰서) 해양레저활동 허가필요수역 고시/(울산해양경찰서) 해양레저활동 허가필요수역 고시.json"
+}
