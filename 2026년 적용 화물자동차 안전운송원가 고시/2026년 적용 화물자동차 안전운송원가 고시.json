@@ -1,0 +1,83 @@
+{
+  "law_id": "73453",
+  "mst": "2100000283546",
+  "law_name": "2026년 적용 화물자동차 안전운송원가 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:73453",
+  "promulgation_no": "2026-403",
+  "promulgation_date": "20260801",
+  "enforcement_date": "20260801",
+  "revision_date": "20260801",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국토교통부(물류산업과)",
+    "담당자명": "이우석",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "2026년 적용 화물자동차 안전운송원가 고시",
+    "발령일자": "20260801",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국토교통부",
+    "전화번호": "044-201-4019",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1613000",
+    "생성일자": "20260810",
+    "행정규칙ID": "73453",
+    "시행일자": "20260801",
+    "담당부서기관코드": "1613080",
+    "발령번호": "2026-403",
+    "행정규칙일련번호": "2100000283546",
+    "상위부처명": "국토교통부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ ’26년 4월 1일부터 6월 30일까지의 유가 변동을 운임에 반영\n◇ 주요내용\n가. 철강재 품목 안전운송원가(제1호)\nㅇ 유가 변동을 반영하여 「자동차관리법」 제2조제1호에 따른 피견인자동차로 운송되는 철강재 품목의 안전운송원가 변경\n나. 일반형 화물자동차 품목 안전운송원가(제2호)\nㅇ 유가 변동을 반영하여 「자동차관리법」 제3조에 따른 일반형 화물자동차로 운송되는 모든 품목의 안전운송원가 변경\n다. 개정된 안전운송원가 고시의 시행 시기 규정(부칙)\nㅇ 유가 변동을 반영한 안전운송원가 변경 고시는 ’26.8.1.부터 시행",
+  "body": {
+    "format": "articles",
+    "article_count": 0,
+    "articles": []
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "(전문) 2026년 적용 화물자동차 안전운송원가 고시 일부개정고시.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=167811579",
+      "filename": "(전문) 2026년 적용 화물자동차 안전운송원가 고시 일부개정고시.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(전문) 2026년 적용 화물자동차 안전운송원가 고시 일부개정고시.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 0,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/2026년 적용 화물자동차 안전운송원가 고시"
+  },
+  "provision_id": "admrul:2026년적용화물자동차안전운송원가고시#DOC",
+  "addendum_provision_id": "admrul:2026년적용화물자동차안전운송원가고시#ADDENDUM",
+  "amendment_provision_id": "admrul:2026년적용화물자동차안전운송원가고시#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "2026년 적용 화물자동차 안전운송원가 고시/2026년 적용 화물자동차 안전운송원가 고시.json"
+}
