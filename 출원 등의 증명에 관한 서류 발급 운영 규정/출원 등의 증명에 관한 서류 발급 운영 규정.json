@@ -1,0 +1,721 @@
+{
+  "law_id": "98216",
+  "mst": "2100000285208",
+  "law_name": "출원 등의 증명에 관한 서류 발급 운영 규정",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:98216",
+  "promulgation_no": "2026-18",
+  "promulgation_date": "20260804",
+  "enforcement_date": "20260804",
+  "revision_date": "20260804",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "지식재산처(특허제도과)",
+    "담당자명": "주상현",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "출원 등의 증명에 관한 서류 발급 운영 규정",
+    "발령일자": "20260804",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "지식재산처",
+    "전화번호": "042-481-8153",
+    "제개정구분명": "제정",
+    "소관부처코드": "1431000",
+    "생성일자": "20260918",
+    "행정규칙ID": "98216",
+    "시행일자": "20260804",
+    "담당부서기관코드": "1431050",
+    "발령번호": "2026-18",
+    "행정규칙일련번호": "2100000285208",
+    "상위부처명": "지식재산처"
+  },
+  "amendment_text": "⊙지식재산처 고시 제2026-18호\n출원 등의 증명원에 관한 서류 발급 운영 규정을 다음과 같이 제정한다.\n2026년 8월 4일\n지식재산처장\n출원 등의 증명에 관한 서류 발급 운영 규정\n[본문과 동일하여 생략]\n부칙\n이 지침은 발령한 날부터 시행한다.",
+  "revision_reason": "◇ 제정이유\n「특허법」, 「실용신안법」, 「상표법」 및 「디자인보호법」에 따른 각종 증명서류 발급 및 그 신청절차 등에 관한 세부사항을 정하려는 것임\n◇ 주요내용\n가. 고시 제정 목적(안 제1조)\n특허ㆍ실용신안ㆍ상표ㆍ디자인의 증명에 관한 서류의 발급 및 신청에 관하여 필요한 사항을 규정하기 위함\n나. 출원 등의 증명에 관한 발급의 근거를 마련하기 위함(안 제2조)\n특허ㆍ실용신안ㆍ상표ㆍ디자인의 증명에 관한 서류의 발급 근거를 마련하기 위함\n다. 출원 등의 증명에 관한 신청절차를 규정(안 제3조)\n특허ㆍ실용신안ㆍ상표ㆍ디자인의 증명에 관한 서류의 신청절차를 정의하기 위함\n라. 재검토 기한(안 4조)\n매 3년이 되는 시점마다 그 타당성을 검토하여 개선 등의 조치",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제1조(목적) 이 규정은 특허ㆍ실용신안ㆍ상표ㆍ디자인의 증명에 관한 서류의 발급 및 신청에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:출원등의증명에관한서류발급운영규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "출원 등의 증명에 관한 발급",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조(출원 등의 증명에 관한 발급) 지식재산처장 또는 특허심판원장은 신청인의 신청이 있는 경우 다음 각 호에 따른 서식을 발급할 수 있다.1. 별지 제1호서식에 따른 미생물분양자격증명2. 별지 제2호서식에 따른 비밀디자인등록증명3. 별지 제3호서식에 따른 우선권증명4. 별지 제4호서식에 따른 출원사실증명5. 별지 제5호서식에 따른 각하결정문등본송달증명6. 별지 제6호서식에 따른 보정각하결정문문등본송달증명7. 별지 제7호서식에 따른 심판비용액결정문등본송달증명8. 별지 제8호서식에 따른 심결문등본송달증명9. 별지 제9호서식에 따른 심결확정사실증명10. 별지 제10호서식에 따른 심판청구사실증명11. 별지 제11호서식에 따른 취소결정확정사실증명12. 별지 제12호서식에 따른 취소신청사실증명13. 별지 제13호서식에 따른 최초출원인증명14. 별지 제14호서식에 따른 주소동일성증명",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:출원등의증명에관한서류발급운영규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "출원 등의 증명에 관한 신청",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제3조(출원 등의 증명에 관한 신청) ① 신청인은 제2조에 따른 서식의 발급을 신청하려는 경우 다음 각 호의 구분에 따른 방법으로 신청하여야 한다.1. 별지 제1호부터 별지 제12호까지의 서식: 「특허법 시행규칙」 별지 제19호서식의 증명신청서에 발급받으려는 서류를 기재하여 신청2. 별지 제13호서식: 「특허법 시행규칙」 별지 제29호서식의 열람신청서에 발급받으려는 서류를 기재하여 신청3. 별지 제14호서식: 지식재산처에서 운영하는 출원 등을 위한 누리집(http://www.patent.go.kr, 이하 \"특허로\"라 한다)을 통해 신청② 제1항에도 불구하고 제1항제1호 및 제2호에 따른 신청은 「특허법 시행규칙」의 서식을 갈음하여 특허로를 통해 신청할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "「특허법 시행규칙」",
+            "line_text": "",
+            "target_law_name": "특허법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "98216",
+            "target_url": "https://www.law.go.kr/법령/특허법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:출원등의증명에관한서류발급운영규정#JO0003",
+            "reference_id": "law:특허법시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "특허법/시행규칙/특허법 시행규칙.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "별지 제19호서식",
+            "line_text": "",
+            "target_law_name": "특허법 시행규칙",
+            "target_article_no": "별지19",
+            "target_article_title": "",
+            "appendix_no": "19",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": false,
+            "target_mst": "",
+            "source_admrul_seq": "98216",
+            "target_url": "https://www.law.go.kr/법령/특허법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:출원등의증명에관한서류발급운영규정#JO0003",
+            "target_unit": "BJ0019",
+            "reference_id": "law:특허법시행규칙#BJ0019",
+            "target_repo": "LAW",
+            "target_git_path_guess": "특허법/시행규칙/특허법 시행규칙.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "「특허법 시행규칙」",
+            "line_text": "",
+            "target_law_name": "특허법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "98216",
+            "target_url": "https://www.law.go.kr/법령/특허법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:출원등의증명에관한서류발급운영규정#JO0003",
+            "reference_id": "law:특허법시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "특허법/시행규칙/특허법 시행규칙.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "별지 제29호서식",
+            "line_text": "",
+            "target_law_name": "특허법 시행규칙",
+            "target_article_no": "별지29",
+            "target_article_title": "",
+            "appendix_no": "29",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": false,
+            "target_mst": "",
+            "source_admrul_seq": "98216",
+            "target_url": "https://www.law.go.kr/법령/특허법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:출원등의증명에관한서류발급운영규정#JO0003",
+            "target_unit": "BJ0029",
+            "reference_id": "law:특허법시행규칙#BJ0029",
+            "target_repo": "LAW",
+            "target_git_path_guess": "특허법/시행규칙/특허법 시행규칙.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "「특허법 시행규칙」",
+            "line_text": "",
+            "target_law_name": "특허법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "98216",
+            "target_url": "https://www.law.go.kr/법령/특허법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:출원등의증명에관한서류발급운영규정#JO0003",
+            "reference_id": "law:특허법시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "특허법/시행규칙/특허법 시행규칙.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:출원등의증명에관한서류발급운영규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "재검토 기한",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제4조(재검토 기한) 지식재산처장은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 지침에 대해 2027년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "98216",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:출원등의증명에관한서류발급운영규정#JO0004",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:출원등의증명에관한서류발급운영규정#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20260804",
+      "promulgation_no": "2026-18",
+      "content": "부칙 <제2026-18호, 2026. 8. 4.>이 지침은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:출원등의증명에관한서류발급운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285208",
+      "source_version_uid": "",
+      "source_revision_type": "제정",
+      "version_enforcement_date": "20260804"
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "미생물분양자격증명서",
+      "enforcement_date": "",
+      "content": "\n■ 출원 등의 증명원에 관한 서류 발급 운영 규정 [별지 제1호서식]                                                        (앞쪽)\n\n발송번호 :              수신\n\n발송일자 :\n\n지식재산처\n\n미생물분양자격증명서\n\n\n신청인          명칭\n\n주소\n\n대리인          성명\n\n주소\n\n\n\n원인서류\n\n출원번호\n\n기탁기관\n\n수탁번호\n\n\n\n[붙임]\n\n\n\n년         월         일\n\n\n\n┏━━━┓\n┃직  인┃\n┗━━━┛\n지식재산처장\n\n<< 안내>>\n┌───────────────────────────────────────────────────────────────┐\n│위에서 안내한 후속 절차 또는 신청 서식 등에 관한 사항은 특허고객상담센터 ☎1544-8080로, 이                                    │\n│통지서 내용에 대한 사항은 지식재산처 바이오기반심사과 ☎042-481-5792(대표번호)로 문의하시기                                   │\n│바랍니다.                                                                                                                     │\n│특허로(www.patent.go.kr) 또는 지식재산처(www,moip.go.kr) 홈페이지를 방문하시면 심사 진행상황,                                 │\n│서류 제출 및 절차에 관한 보다 많은 정보를 제공받을 수 있습니다.                                                               │\n│(지식재산처) 우 35208 대전광역시 서구 청사로 189, 4동 (둔산동, 정부대전청사)                                                  │\n└───────────────────────────────────────────────────────────────┘\n210㎜×297㎜(보존용지(1종) 120g/㎡)\n\n\n(뒤쪽)\n\n미생물분양자격증명서\n\n\n\n특허법시행령 제4조에 따라 다음과 같이 해당 미생물을 분양받을 수 있음을\n증명합니다.\n┌───────────────────────────────────────────┐\n│분양대상 미생물                                                                       │\n├────┬──────────────────────────────────────┤\n│기탁기관│                                                                            │\n├────┼──────────────────────────────────────┤\n│기탁번호│                                                                            │\n├────┴──────────────────────────────────────┤\n│분양대상 미생물에 관계되는 발명                                                       │\n├────┬┬────┬┬────┬──────────────────────────┤\n│출원번호││출원일자││출원인  │                                                    │\n├────┼┼────┼┼────┼──────────────────────────┤\n│공개번호││공개일자││출원인  │                                                    │\n├────┼┼────┼┼────┼──────────────────────────┤\n│등록번호││등록일자││특허권자│                                                    │\n├────┴┴────┴┴────┴──────────────────────────┤\n│분양조건                                                                              │\n├────┬──────────────────────────────────────┤\n│분양목적│                                                                            │\n└────┴──────────────────────────────────────┘\n\n\n※ 특허법시행령 제4조의 규정에 의하여 미생물시료를 분양받은 자는 그 미생물을 타인에게\n이용하게 하여서는 아니됩니다.\n\n\n\n년         월         일\n\n관인생략\n\n210㎜×297㎜(보존용지(1종) 120g/㎡)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407145",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407139",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407145",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:출원등의증명에관한서류발급운영규정#BJ0001",
+      "filename": "별지1_미생물분양자격증명서.pdf",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_미생물분양자격증명서.pdf",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀디자인 등록증명 CERTIFICATE OF SECRET DESIGN REGISTRATION",
+      "enforcement_date": "",
+      "content": "\n■ 출원 등의 증명원에 관한 서류 발급 운영 규정 [별지 제2호서식]\n\n발급번호 :\n\n비밀디자인 등록증명\nCERTIFICATE OF SECRET DESIGN\nREGISTRATION\n┌─────────────┬──┬┬─────────┬──────────────────────────────────────────┐\n│출원인                    │성명││주민번호          │                                                                                    │\n│Applicant                 │Name││Residence No      │                                                                                    │\n│                          │    ├┼─────────┼──────────────────────────────────────────┤\n│                          ├──┤│전화번호          │                                                                                    │\n│                          │주소├┼─────────┼──────────────────────────────────────────┤\n├─────────────┼──┤│대리인번호        │                                                                                    │\n│대리인                    │성명├┴─────────┴──────────────────────────────────────────┤\n│Agent                     ├──┤                                                                                                          │\n│                          │주소│                                                                                                          │\n├─────────────┼──┴┬─────────┬──────────────────────────────────────────┤\n│출원번호                  │      │출원일자          │                                                                                    │\n│Application No            │      │Application Date  │                                                                                    │\n├─────────────┼───┼─────────┼──────────────────────────────────────────┤\n│등록번호                  │      │등록일자          │                                                                                    │\n│Design Registration No    │      │Registration Date │                                                                                    │\n├─────────────┼───┴─────────┴──────────────────────────────────────────┤\n│디자인을 표현할 물품      │                                                                                                                │\n│Product(s) Embodied       │                                                                                                                │\n│in the Design             │                                                                                                                │\n├─────────────┼────────────────────────────────────────────────────────┤\n│용도                      │                                                                                                                │\n│Use(s) of the Certificate │                                                                                                                │\n├─────────────┴────────────────────────────────────────────────────────┤\n│                                                                                                                                            │\n├──────────────────────────────────────────────────────────────────────┤\n│위 사실을 증명함.                                                                                                                           │\n│                                                                                                                                            │\n│This is to certify that the above applicant has filed as stated in this                                                                     │\n│certificate at the Ministry of Intellectual Property of the Republic of Korea.                                                              │\n│                                                                                                                                            │\n│년         월         일                                                                                                                    │\n│                                                                                                                                            │\n│┏━━━┓     지식재산처장                                                                                                                 │\n│┃직  인┃                                                                                                                                  │\n│┗━━━┛                                                                                                                                  │\n│                    MINISTER,                                                                                                               │\n│                    MINISTRY OF INTELLECTUAL PROPERTY                                                                                       │\n│                    REPUBLIC OF KOREA                                                                                                       │\n│                                                                                                                                            │\n└──────────────────────────────────────────────────────────────────────┘\n◆본 증명서는 지식재산처에서 발급되었으며, 특허로 홈페이지 (www.patent.go.kr)의 ‘특허로-증명서발급’ 메뉴를 통해 발급번호 또는 문서하단의\n바코드로 내용의 위·변조 여부를 확인해 주십시오. 단, 발급번호를 통한 확인은 90일까지 가능합니다.\n\n210㎜×297㎜(보존용지(1종) 120g/㎡)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407151",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407147",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407151",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:출원등의증명에관한서류발급운영규정#BJ0002",
+      "filename": "별지2_비밀디자인 등록증명 CERTIFICATE OF SECRET DESIGN REGISTRATION.pdf",
+      "file_dir": "별지",
+      "local_path": "별지/별지2_비밀디자인 등록증명 CERTIFICATE OF SECRET DESIGN REGISTRATION.pdf",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "우선권증명",
+      "enforcement_date": "",
+      "content": "\n■ 출원 등의 증명원에 관한 서류 발급 운영 규정 [별지 제3호서식]\n\nIssue Number:\n\n\n\n지식재산처\nMinistry of Intellectual Property\n\n별첨 사본은 아래 출원의 원본과 동일함을 증명함.\n\nThis is to certify that the following application annexed\nhereto is a true copy from the records of the Ministry of\nIntellectual Property of the Republic of Korea.\n\n\n\n출원번호:\n\nApplication Number\n\n출원년월일:                    년     월     일\n\nFiling Date\n\n출원인:\n\nApplicant(s)\n\n\n\n년     월     일\n\n┏━━━┓                지식재산처장\n┃직  인┃\n┗━━━┛\nMINISTER,\nMINISTRY OF INTELLECTUAL PROPERTY\nREPUBLIC OF KOREA\n\n\n◆This certificate was issued by Ministry of Intellectual Property, the Republic of Korea. Please confirm any forgery or alteration of\nthe contents by an issue number or a barcode of the document below through the “Certificate issuance-Verification of issued\ndocument” menu of the PatentRo homepage (www.patent.go.kr). But please notice that the confirmation by the issue number is\navailable only for 90 days.\n\n210㎜×297㎜(보존용지(1종) 120g/㎡)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407157",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407153",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407157",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:출원등의증명에관한서류발급운영규정#BJ0003",
+      "filename": "별지3_우선권증명.pdf",
+      "file_dir": "별지",
+      "local_path": "별지/별지3_우선권증명.pdf",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "출원사실증명원",
+      "enforcement_date": "",
+      "content": "\n■ 출원 등의 증명원에 관한 서류 발급 운영 규정 [별지 제4호서식]\n\n발급번호 :\n\n출원사실증명원\nCERTIFICATE OF APPLICATION\n┌─────┬─────┬┬──────┬────────────────────────────────────────────────────┐\n│출원인    │성명      ││주민번호    │                                                                                                        │\n│Applicant │Name      ││Residence No│                                                                                                        │\n│          ├─────┼┼──────┼────────────────────────────────────────────────────┤\n│          │주소      ││전화번호    │                                                                                                        │\n├─────┼─────┼┼──────┼────────────────────────────────────────────────────┤\n│발명자    │성명      ││전화번호    │                                                                                                        │\n│Inventor  │Name      ││            │                                                                                                        │\n│          ├─────┼┴──────┴────────────────────────────────────────────────────┤\n│          │주소      │                                                                                                                        │\n├─────┼─────┼┬──────┬────────────────────────────────────────────────────┤\n│대리인    │성명      ││대리인번호  │                                                                                                        │\n│Agent     ├─────┼┴──────┴────────────────────────────────────────────────────┤\n│          │주소      │                                                                                                                        │\n├─────┴─────┼┬──────┬────────────────────────────────────────────────────┤\n│출원번호              ││출원일자    │                                                                                                        │\n│Application Number    ││Filing Date │                                                                                                        │\n├───────────┼┴──────┴────────────────────────────────────────────────────┤\n│발명(고안)의 명칭.    │                                                                                                                        │\n│디자인을 표현할 물품. │                                                                                                                        │\n│상품(서비스업)류 구분 │                                                                                                                        │\n│                      │                                                                                                                        │\n│Title of Invention,   │                                                                                                                        │\n│Product(s) Embodied   │                                                                                                                        │\n│in Design, or         │                                                                                                                        │\n│Classification of Mark│                                                                                                                        │\n├───────────┼┬──────┬────────────────────────────────────────────────────┤\n│용도                  ││IPC 분류    │                                                                                                        │\n├───────────┼┼──────┼────────────────────────────────────────────────────┤\n│최종처분상태          ││최종처분일  │                                                                                                        │\n├───────────┼┼──────┼────────────────────────────────────────────────────┤\n│심사청구유무          ││심사청구일자│                                                                                                        │\n├───────────┼┴──────┴────────────────────────────────────────────────────┤\n│청구범위 제출 여부    │                                                                                                                        │\n├───────────┴────────────────────────────────────────────────────────────┤\n│위 사실을 증명함.                                                                                                                               │\n│                                                                                                                                                │\n│This is to certify that the above applicant has filed as stated in this certificate at the                                                      │\n│Ministry of Intellectual Property of the Republic of Korea.                                                                                     │\n│                                                                                                                                                │\n│년         월         일                                                                                                                        │\n│                                                                                                                                                │\n│지식재산처장                                                                                                                                    │\n│┏━━━┓MINISTER,                                                                                                                             │\n│┃직  인┃                                                                                                                                      │\n│┗━━━┛                                                                                                                                      │\n│MINISTRY OF INTELLECTUAL PROPERTY                                                                                                               │\n│REPUBLIC OF KOREA                                                                                                                               │\n└────────────────────────────────────────────────────────────────────────┘\n본 증명서는 인터넷으로 발급되었으며, 특허로 홈페이지 (www.patent.go.kr)의 ‘특허로-증명서발급’ 메뉴를 통해 발급번호 또는 문서하단의 바코드로 내\n용의 위·변조 여부를 확인해 주십시오. 단, 발급번호를 통한 확인은 90일까지 가능합니다.\n본 출원사실증명원은 단순 출원사실을 확인해주는 서류일 뿐, 기술내용 등을 확인하기 위해 활용될 수 있는 서류가 아님을 참고 바랍니다.\n\n210㎜×297㎜(보존용지(1종) 120g/㎡)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407163",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407159",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407163",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:출원등의증명에관한서류발급운영규정#BJ0004",
+      "filename": "별지4_출원사실증명원.pdf",
+      "file_dir": "별지",
+      "local_path": "별지/별지4_출원사실증명원.pdf",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "각하결정문등본송달증명원",
+      "enforcement_date": "",
+      "content": "\n■ 출원 등의 증명원에 관한 서류 발급 운영 규정 [별지 제5호서식]\n\n발급번호 :\n\n각하결정문등본송달증명원\n┌───┬──────┬┬─────┬────────────────────────────────────────────────────┐\n│청구인│성명        ││생년월일/ │                                                                                                        │\n│      │            ││법인번호  │                                                                                                        │\n│      ├──────┼┴─────┴────────────────────────────────────────────────────┤\n│      │주소        │                                                                                                                      │\n├───┼──────┼┬─────┬────────────────────────────────────────────────────┤\n│대리인│성명        ││대리인번호│                                                                                                        │\n│      ├──────┼┼─────┼────────────────────────────────────────────────────┤\n│      │주소        ││전화번호  │                                                                                                        │\n├───┴──────┼┴─────┴────────────────────────────────────────────────────┤\n│심판번호            │                                                                                                                      │\n├──────────┼───────────────────────────────────────────────────────────┤\n│심판사건의표시      │                                                                                                                      │\n├──────────┼───────────────────────────────────────────────────────────┤\n│심판청구일자        │년월일                                                                                                                │\n├──────────┼───────────────────────────────────────────────────────────┤\n│발명(고안)의 명칭   │                                                                                                                      │\n│. 디자인을 표현할 물│                                                                                                                      │\n│품. 상품(서비스업)  │                                                                                                                      │\n│류 구분             │                                                                                                                      │\n├──────────┼───────────────────────────────────────────────────────────┤\n│각하결정일자        │년월일                                                                                                                │\n├──────────┼───────────────────────────────────────────────────────────┤\n│각하결정문          │                                                                                                                      │\n│수령일자            │                                                                                                                      │\n├──────────┼───────────────────────────────────────────────────────────┤\n│용도                │                                                                                                                      │\n├──────────┴───────────────────────────────────────────────────────────┤\n│                                                                                                                                            │\n├──────────────────────────────────────────────────────────────────────┤\n│위 사실을 증명함.                                                                                                                           │\n│                                                                                                                                            │\n│년         월         일                                                                                                                    │\n│                                                                                                                                            │\n│┏━━━┓                                                                                                                                  │\n│┃직  인┃                                                                                                                                  │\n│┗━━━┛                                                                                                                                  │\n│특허심판원장                                                                                                                                │\n└──────────────────────────────────────────────────────────────────────┘\n◆본 증명서는 지식재산처에서 발급되었으며, 특허로 홈페이지 (www.patent.go.kr)의 ‘특허로-증명서발급’ 메뉴를 통해 발급번호 또는 문서하단의\n바코드로 내용의 위·변조 여부를 확인해 주십시오. 단, 발급번호를 통한 확인은 90일까지 가능합니다.\n\n210㎜×297㎜(보존용지(1종) 120g/㎡)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407169",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407165",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407169",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:출원등의증명에관한서류발급운영규정#BJ0005",
+      "filename": "별지5_각하결정문등본송달증명원.pdf",
+      "file_dir": "별지",
+      "local_path": "별지/별지5_각하결정문등본송달증명원.pdf",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "보정각하결정문등본송달증명원",
+      "enforcement_date": "",
+      "content": "\n■ 출원 등의 증명원에 관한 서류 발급 운영 규정 [별지 제6호서식]\n\n발급번호 :\n\n보정각하결정문등본송달증명원\n┌───┬──────┬┬─────┬────────────────────────────────────────────────────────┐\n│청구인│성명        ││생년월일/ │                                                                                                                │\n│      │            ││법인번호  │                                                                                                                │\n│      ├──────┼┴─────┴────────────────────────────────────────────────────────┤\n│      │주소        │                                                                                                                              │\n├───┼──────┼┬─────┬────────────────────────────────────────────────────────┤\n│대리인│성명        ││대리인번호│                                                                                                                │\n│      ├──────┼┼─────┼────────────────────────────────────────────────────────┤\n│      │주소        ││전화번호  │                                                                                                                │\n├───┴──────┼┴─────┴────────────────────────────────────────────────────────┤\n│심판번호            │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│심판사건의표시      │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│심판청구일자        │년월일                                                                                                                        │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│발명(고안)의 명칭   │                                                                                                                              │\n│. 디자인을 표현할 물│                                                                                                                              │\n│품. 상품(서비스업)  │                                                                                                                              │\n│류 구분             │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│보정각하결정일자    │년월일                                                                                                                        │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│보정각하결정문      │                                                                                                                              │\n│수령일자            │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│용도                │                                                                                                                              │\n├──────────┴───────────────────────────────────────────────────────────────┤\n│                                                                                                                                                    │\n├──────────────────────────────────────────────────────────────────────────┤\n│위 사실을 증명함.                                                                                                                                   │\n│                                                                                                                                                    │\n│년         월         일                                                                                                                            │\n│                                                                                                                                                    │\n│┏━━━┓                                                                                                                                          │\n│┃직  인┃                                                                                                                                          │\n│┗━━━┛                                                                                                                                          │\n│특허심판원장                                                                                                                                        │\n└──────────────────────────────────────────────────────────────────────────┘\n본 증명서는 지식재산처에서 발급되었으며, 특허로 홈페이지 (www.patent.go.kr)의 ‘특허로-증명서발급’ 메뉴를 통해 발급번호 또는 문서하단의 바코드로 내\n용의 위·변조 여부를 확인해 주십시오. 단, 발급번호를 통한 확인은 90일까지 가능합니다.\n\n210㎜×297㎜(보존용지(1종) 120g/㎡)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407175",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407171",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407175",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:출원등의증명에관한서류발급운영규정#BJ0006",
+      "filename": "별지6_보정각하결정문등본송달증명원.pdf",
+      "file_dir": "별지",
+      "local_path": "별지/별지6_보정각하결정문등본송달증명원.pdf",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "심판비용액결정문등본송달증명원",
+      "enforcement_date": "",
+      "content": "\n■ 출원 등의 증명원에 관한 서류 발급 운영 규정 [별지 제7호서식]\n\n발급번호 :\n\n심판비용액결정문등본송달증명원\n┌────┬──┬┬─────┬───────────────────────────────────────────────────────────┐\n│청구인  │성명││생년월일/ │                                                                                                                      │\n│        │    ││법인번호  │                                                                                                                      │\n│        ├──┼┴─────┴───────────────────────────────────────────────────────────┤\n│        │주소│                                                                                                                                    │\n├────┼──┼┬─────┬───────────────────────────────────────────────────────────┤\n│대리인  │성명││대리인번호│                                                                                                                      │\n│        ├──┼┼─────┼───────────────────────────────────────────────────────────┤\n│        │주소││전화번호  │                                                                                                                      │\n├────┼──┼┼─────┼───────────────────────────────────────────────────────────┤\n│피청구인│성명││생년월일/ │                                                                                                                      │\n│        │    ││법인번호  │                                                                                                                      │\n│        ├──┼┴─────┴───────────────────────────────────────────────────────────┤\n│        │주소│                                                                                                                                    │\n├────┼──┼┬─────┬───────────────────────────────────────────────────────────┤\n│대리인  │성명││대리인번호│                                                                                                                      │\n│        ├──┼┼─────┼───────────────────────────────────────────────────────────┤\n│        │주소││전화번호  │                                                                                                                      │\n├────┴──┼┴─────┴───────────────────────────────────────────────────────────┤\n│심판번호      │                                                                                                                                    │\n├───────┼──────────────────────────────────────────────────────────────────┤\n│심판사건의표시│                                                                                                                                    │\n├───────┼──────────────────────────────────────────────────────────────────┤\n│심판청구일자  │년월일                                                                                                                              │\n├───────┼──────────────────────────────────────────────────────────────────┤\n│비용액결정    │년월일                                                                                                                              │\n│청구일자      │                                                                                                                                    │\n├───────┼──────────────────────────────────────────────────────────────────┤\n│비용액결정일자│년월일                                                                                                                              │\n├───────┼──────────────────────────────────────────────────────────────────┤\n│결정문수령일자│년월일                                                                                                                              │\n├───────┼──────────────────────────────────────────────────────────────────┤\n│용도          │                                                                                                                                    │\n├───────┴──────────────────────────────────────────────────────────────────┤\n│                                                                                                                                                    │\n├──────────────────────────────────────────────────────────────────────────┤\n│위 사실을 증명함.                                                                                                                                   │\n│                                                                                                                                                    │\n│년         월         일                                                                                                                            │\n│                                                                                                                                                    │\n│┏━━━┓                                                                                                                                          │\n│┃직  인┃                                                                                                                                          │\n│┗━━━┛                                                                                                                                          │\n│특허심판원장                                                                                                                                        │\n└──────────────────────────────────────────────────────────────────────────┘\n본 증명서는 지식재산처에서 발급되었으며, 특허로 홈페이지 (www.patent.go.kr)의 ‘특허로-증명서발급’ 메뉴를 통해 발급번호 또는 문서하단의 바코드로 내\n용의 위·변조 여부를 확인해 주십시오. 단, 발급번호를 통한 확인은 90일까지 가능합니다.\n\n210㎜×297㎜(보존용지(1종) 120g/㎡)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407181",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407177",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407181",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:출원등의증명에관한서류발급운영규정#BJ0007",
+      "filename": "별지7_심판비용액결정문등본송달증명원.pdf",
+      "file_dir": "별지",
+      "local_path": "별지/별지7_심판비용액결정문등본송달증명원.pdf",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "심결문등본송달증명원",
+      "enforcement_date": "",
+      "content": "\n■ 출원 등의 증명원에 관한 서류 발급 운영 규정 [별지 제8호서식]\n\n발급번호 :\n\n심결문등본송달증명원\n┌────┬─────┬┬─────┬────────────────────────────────────────────────────────┐\n│청구인  │성명      ││생년월일/ │                                                                                                                │\n│        │          ││법인번호  │                                                                                                                │\n│        ├─────┼┴─────┴────────────────────────────────────────────────────────┤\n│        │주소      │                                                                                                                              │\n├────┼─────┼┬─────┬────────────────────────────────────────────────────────┤\n│대리인  │성명      ││대리인번호│                                                                                                                │\n│        ├─────┼┼─────┼────────────────────────────────────────────────────────┤\n│        │주소      ││전화번호  │                                                                                                                │\n├────┼─────┼┼─────┼────────────────────────────────────────────────────────┤\n│피청구인│성명      ││생년월일/ │                                                                                                                │\n│        │          ││법인번호  │                                                                                                                │\n│        ├─────┼┴─────┴────────────────────────────────────────────────────────┤\n│        │주소      │                                                                                                                              │\n├────┼─────┼┬─────┬────────────────────────────────────────────────────────┤\n│대리인  │성명      ││대리인번호│                                                                                                                │\n│        ├─────┼┼─────┼────────────────────────────────────────────────────────┤\n│        │주소      ││전화번호  │                                                                                                                │\n├────┴─────┼┴─────┴────────────────────────────────────────────────────────┤\n│심판사건의표시      │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│심판번호            │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│심판청구일자        │년월일                                                                                                                        │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│발명(고안)의 명칭   │                                                                                                                              │\n│. 디자인을 표현할 물│                                                                                                                              │\n│품. 상품(서비스업)  │                                                                                                                              │\n│류 구분             │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│심결일자            │년월일                                                                                                                        │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│심결문수령일자      │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│용도                │                                                                                                                              │\n├──────────┴───────────────────────────────────────────────────────────────┤\n│                                                                                                                                                    │\n├──────────────────────────────────────────────────────────────────────────┤\n│위 사실을 증명함.                                                                                                                                   │\n│                                                                                                                                                    │\n│년         월         일                                                                                                                            │\n│                                                                                                                                                    │\n│┏━━━┓                                                                                                                                          │\n│┃직  인┃                                                                                                                                          │\n│┗━━━┛                                                                                                                                          │\n│특허심판원장                                                                                                                                        │\n└──────────────────────────────────────────────────────────────────────────┘\n본 증명서는 지식재산처에서 발급되었으며, 특허로 홈페이지 (www.patent.go.kr)의 ‘특허로-증명서발급’ 메뉴를 통해 발급번호 또는 문서하단의 바코드로 내\n용의 위·변조 여부를 확인해 주십시오. 단, 발급번호를 통한 확인은 90일까지 가능합니다.\n\n210㎜×297㎜(보존용지(1종) 120g/㎡)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407187",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407183",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407187",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:출원등의증명에관한서류발급운영규정#BJ0008",
+      "filename": "별지8_심결문등본송달증명원.pdf",
+      "file_dir": "별지",
+      "local_path": "별지/별지8_심결문등본송달증명원.pdf",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "심결확정사실증명원",
+      "enforcement_date": "",
+      "content": "\n■ 출원 등의 증명원에 관한 서류 발급 운영 규정 [별지 제9호서식]\n\n발급번호 :\n\n심결확정사실증명원\n┌────┬─────┬┬─────┬────────────────────────────────────────────────────────┐\n│청구인  │성명      ││생년월일/ │                                                                                                                │\n│        │          ││법인번호  │                                                                                                                │\n│        ├─────┼┴─────┴────────────────────────────────────────────────────────┤\n│        │주소      │                                                                                                                              │\n├────┼─────┼┬─────┬────────────────────────────────────────────────────────┤\n│대리인  │성명      ││대리인번호│                                                                                                                │\n│        ├─────┼┼─────┼────────────────────────────────────────────────────────┤\n│        │주소      ││전화번호  │                                                                                                                │\n├────┼─────┼┼─────┼────────────────────────────────────────────────────────┤\n│피청구인│성명      ││생년월일/ │                                                                                                                │\n│        │          ││법인번호  │                                                                                                                │\n│        ├─────┼┴─────┴────────────────────────────────────────────────────────┤\n│        │주소      │                                                                                                                              │\n├────┼─────┼┬─────┬────────────────────────────────────────────────────────┤\n│대리인  │성명      ││대리인번호│                                                                                                                │\n│        ├─────┼┼─────┼────────────────────────────────────────────────────────┤\n│        │주소      ││전화번호  │                                                                                                                │\n├────┴─────┼┴─────┴────────────────────────────────────────────────────────┤\n│사건의표시          │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│심판번호            │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│청구일자            │년월일                                                                                                                        │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│청구의취지          │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│발명(고안)의 명칭   │                                                                                                                              │\n│. 디자인을 표현할 물│                                                                                                                              │\n│품. 상품(서비스업)  │                                                                                                                              │\n│류 구분             │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│심결확정일자        │년월일                                                                                                                        │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│심결주문            │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│용도                │                                                                                                                              │\n├──────────┴───────────────────────────────────────────────────────────────┤\n│                                                                                                                                                    │\n├──────────────────────────────────────────────────────────────────────────┤\n│위 사실을 증명함.                                                                                                                                   │\n│                                                                                                                                                    │\n│년         월         일                                                                                                                            │\n│                                                                                                                                                    │\n│┏━━━┓                                                                                                                                          │\n│┃직  인┃                                                                                                                                          │\n│┗━━━┛                                                                                                                                          │\n│특허심판원장                                                                                                                                        │\n└──────────────────────────────────────────────────────────────────────────┘\n본 증명서는 지식재산처에서 발급되었으며, 특허로 홈페이지 (www.patent.go.kr)의 ‘특허로-증명서발급’ 메뉴를 통해 발급번호 또는 문서하단의 바코드로 내\n용의 위·변조 여부를 확인해 주십시오. 단, 발급번호를 통한 확인은 90일까지 가능합니다.\n\n210㎜×297㎜(보존용지(1종) 120g/㎡)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407193",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407189",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407193",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:출원등의증명에관한서류발급운영규정#BJ0009",
+      "filename": "별지9_심결확정사실증명원.pdf",
+      "file_dir": "별지",
+      "local_path": "별지/별지9_심결확정사실증명원.pdf",
+      "file_store_url": ""
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "별지",
+      "title": "심판청구사실증명원",
+      "enforcement_date": "",
+      "content": "\n■ 출원 등의 증명원에 관한 서류 발급 운영 규정 [별지 제10호서식]\n\n발급번호 :\n\n심판청구사실증명원\n┌────┬─────┬┬─────┬────────────────────────────────────────────────────────────┐\n│청구인  │성명      ││생년월일/ │                                                                                                                        │\n│        │          ││법인번호  │                                                                                                                        │\n│        ├─────┼┴─────┴────────────────────────────────────────────────────────────┤\n│        │주소      │                                                                                                                                      │\n├────┼─────┼┬─────┬────────────────────────────────────────────────────────────┤\n│대리인  │성명      ││대리인번호│                                                                                                                        │\n│        ├─────┼┼─────┼────────────────────────────────────────────────────────────┤\n│        │주소      ││전화번호  │                                                                                                                        │\n├────┼─────┼┼─────┼────────────────────────────────────────────────────────────┤\n│피청구인│성명      ││생년월일/ │                                                                                                                        │\n│        │          ││법인번호  │                                                                                                                        │\n│        ├─────┼┴─────┴────────────────────────────────────────────────────────────┤\n│        │주소      │                                                                                                                                      │\n├────┴─────┼───────────────────────────────────────────────────────────────────┤\n│사건의표시          │                                                                                                                                      │\n├──────────┼───────────────────────────────────────────────────────────────────┤\n│심판번호            │                                                                                                                                      │\n├──────────┼───────────────────────────────────────────────────────────────────┤\n│청구일자            │년월일                                                                                                                                │\n├──────────┼───────────────────────────────────────────────────────────────────┤\n│청구의취지          │                                                                                                                                      │\n├──────────┼───────────────────────────────────────────────────────────────────┤\n│발명(고안)의 명칭   │                                                                                                                                      │\n│. 디자인을 표현할 물│                                                                                                                                      │\n│품. 상품(서비스업)  │                                                                                                                                      │\n│류 구분             │                                                                                                                                      │\n├──────────┼───────────────────────────────────────────────────────────────────┤\n│용도                │                                                                                                                                      │\n├──────────┴───────────────────────────────────────────────────────────────────┤\n│                                                                                                                                                            │\n├──────────────────────────────────────────────────────────────────────────────┤\n│위 사실을 증명함.                                                                                                                                           │\n│                                                                                                                                                            │\n│년         월         일                                                                                                                                    │\n│                                                                                                                                                            │\n│┏━━━┓                                                                                                                                                  │\n│┃직  인┃                                                                                                                                                  │\n│┗━━━┛                                                                                                                                                  │\n│                                                                                                                                                            │\n│특허심판원장                                                                                                                                                │\n└──────────────────────────────────────────────────────────────────────────────┘\n◆본 증명서는 인터넷으로 발급되었으며, 특허로 홈페이지 (www.patent.go.kr)의 ‘특허로-증명서발급’ 메뉴를 통해 발급번호 또는 문서하단의 바코드로 내용의 위·\n변조 여부를 확인해 주십시오. 단, 발급번호를 통한 확인은 90일까지 가능합니다.\n\n210㎜×297㎜(보존용지(1종) 120g/㎡)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407199",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407195",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407199",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:출원등의증명에관한서류발급운영규정#BJ0010",
+      "filename": "별지10_심판청구사실증명원.pdf",
+      "file_dir": "별지",
+      "local_path": "별지/별지10_심판청구사실증명원.pdf",
+      "file_store_url": ""
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "별지",
+      "title": "취소결정확정사실증명원",
+      "enforcement_date": "",
+      "content": "\n■ 출원 등의 증명원에 관한 서류 발급 운영 규정 [별지 제11호서식]\n\n발급번호 :\n\n취소결정확정사실증명원\n┌────┬─────┬┬─────┬────────────────────────────────────────────────────────┐\n│취소신청│성명      ││생년월일/ │                                                                                                                │\n│인      │          ││법인번호  │                                                                                                                │\n│        ├─────┼┴─────┴────────────────────────────────────────────────────────┤\n│        │주소      │                                                                                                                              │\n├────┼─────┼┬─────┬────────────────────────────────────────────────────────┤\n│대리인  │성명      ││대리인번호│                                                                                                                │\n│        ├─────┼┼─────┼────────────────────────────────────────────────────────┤\n│        │주소      ││전화번호  │                                                                                                                │\n├────┼─────┼┼─────┼────────────────────────────────────────────────────────┤\n│권리자  │성명      ││생년월일/ │                                                                                                                │\n│        │          ││법인번호  │                                                                                                                │\n│        ├─────┼┴─────┴────────────────────────────────────────────────────────┤\n│        │주소      │                                                                                                                              │\n│        ├─────┼┬─────┬────────────────────────────────────────────────────────┤\n│        │성명      ││생년월일/ │                                                                                                                │\n│        │          ││법인번호  │                                                                                                                │\n│        ├─────┼┴─────┴────────────────────────────────────────────────────────┤\n│        │주소      │                                                                                                                              │\n├────┴─────┼───────────────────────────────────────────────────────────────┤\n│사건의표시          │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│취소신청번호        │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│취소신청일자        │년월일                                                                                                                        │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│대상청구항          │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│발명(고안)의 명칭   │                                                                                                                              │\n│. 디자인을 표현할 물│                                                                                                                              │\n│품. 상품(서비스업)  │                                                                                                                              │\n│류 구분             │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│심결확정일자        │년월일                                                                                                                        │\n├──────────┴───────────────────────────────────────────────────────────────┤\n│                                                                                                                                                    │\n├──────────────────────────────────────────────────────────────────────────┤\n│위 사실을 증명함.                                                                                                                                   │\n│                                                                                                                                                    │\n│년         월         일                                                                                                                            │\n│                                                                                                                                                    │\n│┏━━━┓                                                                                                                                          │\n│┃직  인┃                                                                                                                                          │\n│┗━━━┛                                                                                                                                          │\n│특허심판원장                                                                                                                                        │\n└──────────────────────────────────────────────────────────────────────────┘\n본 증명서는 지식재산처에서 발급되었으며, 특허로 홈페이지 (www.patent.go.kr)의 ‘특허로-증명서발급’ 메뉴를 통해 발급번호 또는 문서하단의 바코드로 내\n용의 위·변조 여부를 확인해 주십시오. 단, 발급번호를 통한 확인은 90일까지 가능합니다.\n\n210㎜×297㎜(보존용지(1종) 120g/㎡)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407205",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407201",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407205",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:출원등의증명에관한서류발급운영규정#BJ0011",
+      "filename": "별지11_취소결정확정사실증명원.pdf",
+      "file_dir": "별지",
+      "local_path": "별지/별지11_취소결정확정사실증명원.pdf",
+      "file_store_url": ""
+    },
+    {
+      "no": "0012",
+      "branch": "00",
+      "kind": "별지",
+      "title": "취소신청사실증명원",
+      "enforcement_date": "",
+      "content": "\n■ 출원 등의 증명원에 관한 서류 발급 운영 규정 [별지 제12호서식]\n\n발급번호 :\n\n취소신청사실증명원\n┌────┬─────┬┬─────┬────────────────────────────────────────────────────────┐\n│취소신청│성명      ││생년월일/ │                                                                                                                │\n│인      │          ││법인번호  │                                                                                                                │\n│        ├─────┼┴─────┴────────────────────────────────────────────────────────┤\n│        │주소      │                                                                                                                              │\n├────┼─────┼┬─────┬────────────────────────────────────────────────────────┤\n│대리인  │성명      ││대리인번호│                                                                                                                │\n│        ├─────┼┼─────┼────────────────────────────────────────────────────────┤\n│        │주소      ││전화번호  │                                                                                                                │\n├────┼─────┼┼─────┼────────────────────────────────────────────────────────┤\n│권리자  │성명      ││생년월일/ │                                                                                                                │\n│        │          ││법인번호  │                                                                                                                │\n│        ├─────┼┴─────┴────────────────────────────────────────────────────────┤\n│        │주소      │                                                                                                                              │\n│        ├─────┼┬─────┬────────────────────────────────────────────────────────┤\n│        │성명      ││생년월일/ │                                                                                                                │\n│        │          ││법인번호  │                                                                                                                │\n│        ├─────┼┴─────┴────────────────────────────────────────────────────────┤\n│        │주소      │                                                                                                                              │\n├────┼─────┼┬─────┬────────────────────────────────────────────────────────┤\n│대리인  │성명      ││대리인번호│                                                                                                                │\n│        ├─────┼┼─────┼────────────────────────────────────────────────────────┤\n│        │주소      ││전화번호  │                                                                                                                │\n├────┴─────┼┴─────┴────────────────────────────────────────────────────────┤\n│사건의표시          │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│취소신청번호        │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│취소신청일자        │년월일                                                                                                                        │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│대상청구항          │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│발명(고안)의 명칭   │                                                                                                                              │\n│. 디자인을 표현할 물│                                                                                                                              │\n│품. 상품(서비스업)  │                                                                                                                              │\n│류 구분             │                                                                                                                              │\n├──────────┼───────────────────────────────────────────────────────────────┤\n│용도                │                                                                                                                              │\n├──────────┴───────────────────────────────────────────────────────────────┤\n│                                                                                                                                                    │\n├──────────────────────────────────────────────────────────────────────────┤\n│위 사실을 증명함.                                                                                                                                   │\n│                                                                                                                                                    │\n│년         월         일                                                                                                                            │\n│                                                                                                                                                    │\n│┏━━━┓                                                                                                                                          │\n│┃직  인┃                                                                                                                                          │\n│┗━━━┛                                                                                                                                          │\n│특허심판원장                                                                                                                                        │\n└──────────────────────────────────────────────────────────────────────────┘\n본 증명서는 지식재산처에서 발급되었으며, 특허로 홈페이지 (www.patent.go.kr)의 ‘특허로-증명서발급’ 메뉴를 통해 발급번호 또는 문서하단의 바코드로 내\n용의 위·변조 여부를 확인해 주십시오. 단, 발급번호를 통한 확인은 90일까지 가능합니다.\n\n210㎜×297㎜(보존용지(1종) 120g/㎡)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407211",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407207",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407211",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:출원등의증명에관한서류발급운영규정#BJ0012",
+      "filename": "별지12_취소신청사실증명원.pdf",
+      "file_dir": "별지",
+      "local_path": "별지/별지12_취소신청사실증명원.pdf",
+      "file_store_url": ""
+    },
+    {
+      "no": "0013",
+      "branch": "00",
+      "kind": "별지",
+      "title": "최초 출원인 확인용",
+      "enforcement_date": "",
+      "content": "\n■ 출원 등의 증명원에 관한 서류 발급 운영 규정 [별지 제13호서식]\n\n(최초 출원인 확인용)\n\n\n[서지사항]\n\n[서류명]                특허출원서\n\n[참조번호]\n\n[출원구분]              특허출원\n\n[출원인]\n\n[명칭]\n\n[대리인번호]\n\n[명칭]\n\n\n[대리인번호]\n\n[지정된변리사]\n\n[포괄위임등록번호]\n\n[발명의 국문명칭]\n\n\n\n[발명의 영문명칭]\n\n\n\n[발명자]\n\n[성명]\n\n[성명의 영문표기]\n\n[우편번호]\n\n\n\n[주소]\n\n\n\n[국적]\n\n[거주국]\n\n[출원언어]\n\n[임시 명세서]\n\n\n\n[수수료]\n\n[출원료]\n\n[가산출원료]\n\n[우선권주장료]\n\n[심사청구료]\n\n[합계]\n\n[수수료 자동납부번호]\n\n\n\n상기 출원인이 이 출원의 최초 출원인임을 확인합니다.\n\n년      월       일\n\n┏━━━┓                지식재산처장\n┃직  인┃\n┗━━━┛\nMINISTER,\nMINISTRY OF INTELLECTUAL PROPERTY\nREPUBLIC OF KOREA\n\n\n\n\n제         호\n\n※ 우측 상단의 번호는 이출원의 출원번호이며,\n출원이후 출원인과 발명(고안)의 명칭 등은 특허법에\n의하여 변경될 수 있음을 알려드립니다.\n\n210㎜×297㎜(보존용지(1종) 120g/㎡)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407217",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407213",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407217",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:출원등의증명에관한서류발급운영규정#BJ0013",
+      "filename": "별지13_최초 출원인 확인용.pdf",
+      "file_dir": "별지",
+      "local_path": "별지/별지13_최초 출원인 확인용.pdf",
+      "file_store_url": ""
+    },
+    {
+      "no": "0014",
+      "branch": "00",
+      "kind": "별지",
+      "title": "Official Confirmation Proving that Old and New Addresses are Identical",
+      "enforcement_date": "",
+      "content": "\n■ 출원 등의 증명원에 관한 서류 발급 운영 규정 [별지 제14호서식]\n\nIssue Number:\n\n\n\n지식재산처\nMinistry of Intellectual Property\n\nOfficial Confirmation Proving that Old and New Addresses are Identical\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nKorea has replaced a land lot-based address system with one based on road\nnames to make it easier for foreigners as well as Korean residents to find\nlocations. For Korean residents to adjust to the new system, old and new\naddresses will be used concurrently for the time being, however. So, please\nnote that both of them are legally valid.\n┌──────────────┬───────────────────────────────────────────────────────┐\n│Name                        │                                                                                                              │\n│(corporate name)            │                                                                                                              │\n├──────────────┼───────────────────────────────────────────────────────┤\n│Old Address                 │                                                                                                              │\n│(based on land lot numbers) │                                                                                                              │\n├──────────────┼───────────────────────────────────────────────────────┤\n│New Address                 │                                                                                                              │\n│(based on road names and    │                                                                                                              │\n│building numbers)           │                                                                                                              │\n└──────────────┴───────────────────────────────────────────────────────┘\nWe confirm that new and old addresses are identical and both of them are\nlegally valid.\n\n.        .\n\n┏━━━┓     지식재산처장\n┃직  인┃\n┗━━━┛\nMINISTER,\nMINISTRY OF INTELLECTUAL PROPERTY\nREPUBLIC OF KOREA\n\n\n◆This certificate was issued by Internet. Please confirm any forgery or alteration of the contents by an issue number or a barcode of the\ndocument below through the “Certificate issuance-Verification of issued document” menu of the PatentRo homepage (www.patent.go.kr). But\nplease notice that the confirmation by the issue number is available only for 90 days.\n\n210㎜×297㎜(보존용지(1종) 120g/㎡)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407223",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407219",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169407223",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:출원등의증명에관한서류발급운영규정#BJ0014",
+      "filename": "별지14_Official Confirmation Proving that Old and New Addresses are Identical.pdf",
+      "file_dir": "별지",
+      "local_path": "별지/별지14_Official Confirmation Proving that Old and New Addresses are Identical.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "(지식재산처고시 제2026-18호) 출원 등의 증명에 관한 서류 발급 운영 규정(전문¸ 별지포함).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169406781",
+      "filename": "(지식재산처고시 제2026-18호) 출원 등의 증명에 관한 서류 발급 운영 규정(전문¸ 별지포함).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(지식재산처고시 제2026-18호) 출원 등의 증명에 관한 서류 발급 운영 규정(전문¸ 별지포함).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "(지식재산처고시 제2026-18호) 출원 등의 증명에 관한 서류 발급 운영 규정(전문¸ 별지포함).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169406785",
+      "filename": "(지식재산처고시 제2026-18호) 출원 등의 증명에 관한 서류 발급 운영 규정(전문¸ 별지포함).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(지식재산처고시 제2026-18호) 출원 등의 증명에 관한 서류 발급 운영 규정(전문¸ 별지포함).pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 5,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 4,
+      "appendix_ref": 2
+    },
+    "articles_total": 4,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 14,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/출원 등의 증명에 관한 서류 발급 운영 규정"
+  },
+  "provision_id": "admrul:출원등의증명에관한서류발급운영규정#DOC",
+  "addendum_provision_id": "admrul:출원등의증명에관한서류발급운영규정#ADDENDUM",
+  "amendment_provision_id": "admrul:출원등의증명에관한서류발급운영규정#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "출원 등의 증명에 관한 서류 발급 운영 규정/출원 등의 증명에 관한 서류 발급 운영 규정.json"
+}
