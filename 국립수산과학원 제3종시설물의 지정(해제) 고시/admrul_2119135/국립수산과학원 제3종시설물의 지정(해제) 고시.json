@@ -1,12 +1,12 @@
 {
-  "law_id": "63692",
+  "law_id": "2119135",
   "mst": "2100000283800",
   "law_name": "국립수산과학원 제3종시설물의 지정(해제) 고시",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
-  "adm_uid": "admrul:63692",
+  "adm_uid": "admrul:2119135",
   "promulgation_no": "2026-96",
   "promulgation_date": "20260806",
   "enforcement_date": "20260806",
@@ -15,7 +15,7 @@
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
-    "담당부서기관명": "해양수산부(항만기술안전과)",
+    "담당부서기관명": "어업정책과",
     "담당자명": "백수현",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "국립수산과학원 제3종시설물의 지정(해제) 고시",
@@ -24,11 +24,11 @@
     "제개정구분코드": "200403",
     "조문형식여부": "N",
     "소관부처명": "해양수산부",
-    "전화번호": "051-773-5956",
+    "전화번호": "051-773-5512",
     "제개정구분명": "일부개정",
     "소관부처코드": "1192000",
-    "생성일자": "20260811",
-    "행정규칙ID": "63692",
+    "생성일자": "20261006",
+    "행정규칙ID": "2119135",
     "시행일자": "20260806",
     "담당부서기관코드": "1192036",
     "발령번호": "2026-96",
@@ -60,10 +60,10 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "63692",
+            "source_admrul_seq": "2119135",
             "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
             "resolve_method": "html",
-            "source_provision_id": "admrul:국립수산과학원제3종시설물의지정(해제)고시:admrul_63692#DOC",
+            "source_provision_id": "admrul:국립수산과학원제3종시설물의지정(해제)고시:admrul_2119135#DOC",
             "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
@@ -72,8 +72,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168101437",
-            "seq": "168101437",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123245",
+            "seq": "170123245",
             "filename": "전문_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_1.gif",
@@ -81,8 +81,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168101439",
-            "seq": "168101439",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123247",
+            "seq": "170123247",
             "filename": "전문_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_2.gif",
@@ -90,46 +90,24 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168101441",
-            "seq": "168101441",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123435",
+            "seq": "170123435",
             "filename": "전문_3.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_3.gif",
             "file_store_url": ""
           }
         ],
-        "provision_id": "admrul:국립수산과학원제3종시설물의지정(해제)고시:admrul_63692#DOC"
+        "provision_id": "admrul:국립수산과학원제3종시설물의지정(해제)고시:admrul_2119135#DOC"
       }
     ]
   },
   "addenda": [
     {
-      "promulgation_date": "20210901",
-      "promulgation_no": "2021-176",
-      "content": "부칙 <제2021-176호, 2021. 9. 1.>이 고시는 발령한 발부터 시행한다.",
-      "provision_id": "admrul:국립수산과학원제3종시설물의지정(해제)고시:admrul_63692#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2100000283800",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
-    },
-    {
-      "promulgation_date": "20250507",
-      "promulgation_no": "2025-76",
-      "content": "부칙 <제2025-76호, 2025. 5. 7.>이 고시는 발령한 날부터 시행한다.",
-      "provision_id": "admrul:국립수산과학원제3종시설물의지정(해제)고시:admrul_63692#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2100000283800",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
-    },
-    {
       "promulgation_date": "20260806",
       "promulgation_no": "2026-96",
       "content": "부칙 <제2026-96호, 2026. 8. 6.>이 고시는 발령한 날부터 시행한다.",
-      "provision_id": "admrul:국립수산과학원제3종시설물의지정(해제)고시:admrul_63692#ADDENDUM",
+      "provision_id": "admrul:국립수산과학원제3종시설물의지정(해제)고시:admrul_2119135#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000283800",
       "source_version_uid": "",
@@ -171,19 +149,19 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 1,
     "appendices_count": 0,
     "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/국립수산과학원 제3종시설물의 지정(해제) 고시"
   },
-  "provision_id": "admrul:국립수산과학원제3종시설물의지정(해제)고시:admrul_63692#DOC",
-  "addendum_provision_id": "admrul:국립수산과학원제3종시설물의지정(해제)고시:admrul_63692#ADDENDUM",
-  "amendment_provision_id": "admrul:국립수산과학원제3종시설물의지정(해제)고시:admrul_63692#AMENDMENT",
+  "provision_id": "admrul:국립수산과학원제3종시설물의지정(해제)고시:admrul_2119135#DOC",
+  "addendum_provision_id": "admrul:국립수산과학원제3종시설물의지정(해제)고시:admrul_2119135#ADDENDUM",
+  "amendment_provision_id": "admrul:국립수산과학원제3종시설물의지정(해제)고시:admrul_2119135#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "국립수산과학원 제3종시설물의 지정(해제) 고시/admrul_63692/국립수산과학원 제3종시설물의 지정(해제) 고시.json"
+  "git_path": "국립수산과학원 제3종시설물의 지정(해제) 고시/admrul_2119135/국립수산과학원 제3종시설물의 지정(해제) 고시.json"
 }
