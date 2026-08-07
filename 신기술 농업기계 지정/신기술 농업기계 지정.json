@@ -1,0 +1,531 @@
+{
+  "law_id": "2087506",
+  "mst": "2100000283834",
+  "law_name": "신기술 농업기계 지정",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2087506",
+  "promulgation_no": "2026-21",
+  "promulgation_date": "20260807",
+  "enforcement_date": "20260807",
+  "revision_date": "20260807",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "농촌진흥청(농자재산업과)",
+    "담당자명": "이승윤",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "신기술 농업기계 지정",
+    "발령일자": "20260807",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "농촌진흥청",
+    "전화번호": "063-238-0835",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1390000",
+    "생성일자": "20260812",
+    "행정규칙ID": "2087506",
+    "시행일자": "20260807",
+    "담당부서기관코드": "1391008",
+    "발령번호": "2026-21",
+    "행정규칙일련번호": "2100000283834",
+    "상위부처명": "농촌진흥청"
+  },
+  "amendment_text": "⊙농촌진흥청 고시 제2026-21호\n농업기계화 촉진법 제7조 제1항, 같은 법 시행령 제4조 및 같은 법 시행규칙 제2조의 규정에 따라 아래와 같이 신기술 농업기계로 지정되었음을 고시합니다.\n2026년 8월 7일\n농촌진흥청장\n「신기술 농업기계 지정」 고시 일부개정(신규지정)\n[본문 생략]\n부칙\n이 고시는 발령한 날부터 시행한다.",
+  "revision_reason": "◇ 개정사유\n○ 「농업기계화 촉진법」제7조에 따라 신기술을 이용한 농업기계의 개발과 보급을 촉진하기 위한 신기술 농업기계 지정\n◇ 신기술 농업기계 지정 내용\n[그림]\n\n",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "[그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131037",
+            "seq": "168131037",
+            "filename": "전문_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131253",
+            "seq": "168131253",
+            "filename": "전문_2.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_2.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131255",
+            "seq": "168131255",
+            "filename": "전문_3.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_3.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131257",
+            "seq": "168131257",
+            "filename": "전문_4.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_4.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131499",
+            "seq": "168131499",
+            "filename": "전문_5.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_5.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131501",
+            "seq": "168131501",
+            "filename": "전문_6.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_6.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131503",
+            "seq": "168131503",
+            "filename": "전문_7.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_7.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131505",
+            "seq": "168131505",
+            "filename": "전문_8.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_8.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131507",
+            "seq": "168131507",
+            "filename": "전문_9.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_9.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131767",
+            "seq": "168131767",
+            "filename": "전문_10.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_10.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131769",
+            "seq": "168131769",
+            "filename": "전문_11.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_11.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131509",
+            "seq": "168131509",
+            "filename": "전문_12.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_12.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131771",
+            "seq": "168131771",
+            "filename": "전문_13.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_13.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131773",
+            "seq": "168131773",
+            "filename": "전문_14.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_14.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131775",
+            "seq": "168131775",
+            "filename": "전문_15.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_15.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131511",
+            "seq": "168131511",
+            "filename": "전문_16.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_16.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131513",
+            "seq": "168131513",
+            "filename": "전문_17.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_17.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131777",
+            "seq": "168131777",
+            "filename": "전문_18.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_18.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131515",
+            "seq": "168131515",
+            "filename": "전문_19.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_19.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168131979",
+            "seq": "168131979",
+            "filename": "전문_20.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_20.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168132071",
+            "seq": "168132071",
+            "filename": "전문_21.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_21.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168132073",
+            "seq": "168132073",
+            "filename": "전문_22.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_22.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168132075",
+            "seq": "168132075",
+            "filename": "전문_23.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_23.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:신기술농업기계지정#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20181119",
+      "promulgation_no": "2018-30",
+      "content": "부칙 <제2018-30호,2018. 11. 19.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    },
+    {
+      "promulgation_date": "20190411",
+      "promulgation_no": "2019-12",
+      "content": "부칙 <제2019-12호,2019. 4. 11.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    },
+    {
+      "promulgation_date": "20190501",
+      "promulgation_no": "2019-13",
+      "content": "부칙 <제2019-13호,2019. 5. 1.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    },
+    {
+      "promulgation_date": "20190611",
+      "promulgation_no": "2019-18",
+      "content": "부칙 <제2019-18호,2019. 6. 11.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    },
+    {
+      "promulgation_date": "20190614",
+      "promulgation_no": "2019-19",
+      "content": "부칙 <제2019-19호,2019. 6. 14.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    },
+    {
+      "promulgation_date": "20190816",
+      "promulgation_no": "2019-22",
+      "content": "부칙 <제2019-22호,2019. 8. 16.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    },
+    {
+      "promulgation_date": "20200108",
+      "promulgation_no": "2020-1",
+      "content": "부칙 <제2020-1호,2020. 1. 8.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    },
+    {
+      "promulgation_date": "20200131",
+      "promulgation_no": "2020-3",
+      "content": "부칙 <제2020-3호,2020. 1. 31.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    },
+    {
+      "promulgation_date": "20200310",
+      "promulgation_no": "2020-10",
+      "content": "부칙 <제2020-10호,2020. 3. 10.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    },
+    {
+      "promulgation_date": "20200506",
+      "promulgation_no": "2020-13",
+      "content": "부칙 <제2020-13호,2020. 5. 6.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    },
+    {
+      "promulgation_date": "20200622",
+      "promulgation_no": "2020-16",
+      "content": "부칙 <제2020-16호,2020. 6. 22.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    },
+    {
+      "promulgation_date": "20200910",
+      "promulgation_no": "2020-22",
+      "content": "부칙 <제2020-22호,2020. 9. 10.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    },
+    {
+      "promulgation_date": "20210219",
+      "promulgation_no": "2021-3",
+      "content": "부칙 <제2021-3호, 2021. 2. 19.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    },
+    {
+      "promulgation_date": "20210415",
+      "promulgation_no": "2021-8",
+      "content": "부칙 <제2021-8호, 2021. 4. 15.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    },
+    {
+      "promulgation_date": "20220411",
+      "promulgation_no": "2022-8",
+      "content": "부칙 <제2022-8호, 2022. 4. 11.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    },
+    {
+      "promulgation_date": "20240111",
+      "promulgation_no": "2024-1",
+      "content": "부칙 <제2024-1호, 2024. 1. 11.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    },
+    {
+      "promulgation_date": "20240419",
+      "promulgation_no": "2024-8",
+      "content": "부칙 <제2024-8호, 2024. 4. 19.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    },
+    {
+      "promulgation_date": "20240626",
+      "promulgation_no": "2024-12",
+      "content": "부칙 <제2024-12호, 2024. 6. 26.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    },
+    {
+      "promulgation_date": "20251229",
+      "promulgation_no": "2025-27",
+      "content": "부칙 <제2025-27호, 2025. 12. 29.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    },
+    {
+      "promulgation_date": "20260807",
+      "promulgation_no": "2026-21",
+      "content": "부칙 <제2026-21호, 2026. 8. 7.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283834",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260807"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "신기술 농업기계 지정 고시 개정전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=168130909",
+      "filename": "신기술 농업기계 지정 고시 개정전문.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/신기술 농업기계 지정 고시 개정전문.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "신기술 농업기계 지정 고시 개정전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=168130913",
+      "filename": "신기술 농업기계 지정 고시 개정전문.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/신기술 농업기계 지정 고시 개정전문.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 20,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/신기술 농업기계 지정"
+  },
+  "provision_id": "admrul:신기술농업기계지정#DOC",
+  "addendum_provision_id": "admrul:신기술농업기계지정#ADDENDUM",
+  "amendment_provision_id": "admrul:신기술농업기계지정#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "신기술 농업기계 지정/신기술 농업기계 지정.json"
+}
