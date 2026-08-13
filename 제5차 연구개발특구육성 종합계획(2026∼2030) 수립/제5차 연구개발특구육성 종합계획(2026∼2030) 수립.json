@@ -1,0 +1,91 @@
+{
+  "law_id": "77881",
+  "mst": "2100000283774",
+  "law_name": "제5차 연구개발특구육성 종합계획(2026∼2030) 수립",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:77881",
+  "promulgation_no": "2026-53",
+  "promulgation_date": "20260807",
+  "enforcement_date": "20260813",
+  "revision_date": "20260807",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "과학기술정보통신부(지역과학기술진흥과)",
+    "담당자명": "이상현",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "제5차 연구개발특구육성 종합계획(2026∼2030) 수립",
+    "발령일자": "20260807",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "과학기술정보통신부",
+    "전화번호": "044-202-4745",
+    "제개정구분명": "제정",
+    "소관부처코드": "1721000",
+    "생성일자": "20260904",
+    "행정규칙ID": "77881",
+    "시행일자": "20260813",
+    "담당부서기관코드": "1723312",
+    "발령번호": "2026-53",
+    "행정규칙일련번호": "2100000283774",
+    "상위부처명": "과학기술정보통신부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n- 「연구개발특구의 육성에 관한 특별법」제6조에 따라 특구 지정 목적 달성을 위해 특구 육성 전반이 포함된「제5차 연구개발특구육성 종합계획(2026∼2030)」을 수립(’26.4.10.)하여, 이를 동법 시행령 제7조제2항의 규정에 의하여 고시하고자 함\n\n◇ 주요내용\n- 「제5차 연구개발특구육성 종합계획(2026∼2030)」 수립배경, 주요내용 및 관련 자료의 열람 방법",
+  "body": {
+    "format": "articles",
+    "article_count": 0,
+    "articles": []
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "제5차 연구개발특구육성 종합계획(2026~2030).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=168035033",
+      "filename": "제5차 연구개발특구육성 종합계획(2026~2030).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/제5차 연구개발특구육성 종합계획(2026~2030).pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "제5차 연구개발특구육성 종합계획(2026~2030).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=168035029",
+      "filename": "제5차 연구개발특구육성 종합계획(2026~2030).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/제5차 연구개발특구육성 종합계획(2026~2030).hwpx",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 0,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/제5차 연구개발특구육성 종합계획(2026∼2030) 수립"
+  },
+  "provision_id": "admrul:제5차연구개발특구육성종합계획(2026∼2030)수립#DOC",
+  "addendum_provision_id": "admrul:제5차연구개발특구육성종합계획(2026∼2030)수립#ADDENDUM",
+  "amendment_provision_id": "admrul:제5차연구개발특구육성종합계획(2026∼2030)수립#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "제5차 연구개발특구육성 종합계획(2026∼2030) 수립/제5차 연구개발특구육성 종합계획(2026∼2030) 수립.json"
+}
