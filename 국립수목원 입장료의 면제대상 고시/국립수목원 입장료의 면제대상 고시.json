@@ -1,0 +1,267 @@
+{
+  "law_id": "97989",
+  "mst": "2100000283822",
+  "law_name": "국립수목원 입장료의 면제대상 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:97989",
+  "promulgation_no": "2026-92",
+  "promulgation_date": "20260813",
+  "enforcement_date": "20260813",
+  "revision_date": "20260813",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "산림청(수목원정원정책과)",
+    "담당자명": "장영택",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "국립수목원 입장료의 면제대상 고시",
+    "발령일자": "20260813",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "산림청",
+    "전화번호": "042-481-1831",
+    "제개정구분명": "제정",
+    "소관부처코드": "1400000",
+    "생성일자": "20260813",
+    "행정규칙ID": "97989",
+    "시행일자": "20260813",
+    "담당부서기관코드": "1400809",
+    "발령번호": "2026-92",
+    "행정규칙일련번호": "2100000283822",
+    "상위부처명": "산림청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제정 이유\n○ 「수목원ㆍ정원의 조성 및 진흥에 관한 법률」 제11조(이하 \"법\"이라 한다.) 및 같은 법 시행규칙 제11조의 입장료 등의 징수기준에 따라 국립수목원 입장료 면제대상에 산림청장이 고시하는 사람을 규정하기 위함\n◇ 제정 내용\n○ 국립수목원 입장료 면제대상에 산림청장이 고시하는 사람을 규정함\n* (입장료 면제대상) 보훈보상대상자, 의사상자, 고엽제후유증환자, 귀환포로ㆍ억류지출신 포로가족, 임업후계자ㆍ독림가, 한국숲사랑청소년단 단원 등",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제1조(목적) 이 고시는 「수목원ㆍ정원의 조성 및 진흥에 관한 법률」 제11조 및 같은 법 시행규칙 제11조제2항제14호에 따라 국립수목원 입장료의 면제가 필요한 자를 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "수목원ㆍ정원의 조성 및 진흥에 관한 법률",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "97989",
+            "target_url": "https://www.law.go.kr/법령/수목원ㆍ정원의 조성 및 진흥에 관한 법률/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립수목원입장료의면제대상고시#JO0001",
+            "reference_id": "law:수목원정원의조성및진흥에관한법률#JO0011",
+            "target_repo": "LAW",
+            "target_git_path_guess": "수목원ㆍ정원의 조성 및 진흥에 관한 법률/법률/수목원ㆍ정원의 조성 및 진흥에 관한 법률.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "수목원ㆍ정원의 조성 및 진흥에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "97989",
+            "target_url": "https://www.law.go.kr/법령/수목원ㆍ정원의 조성 및 진흥에 관한 법률 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립수목원입장료의면제대상고시#JO0001",
+            "reference_id": "law:수목원정원의조성및진흥에관한법률시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "수목원ㆍ정원의 조성 및 진흥에 관한 법률/시행규칙/수목원ㆍ정원의 조성 및 진흥에 관한 법률 시행규칙.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제11조제2항제14호",
+            "line_text": "",
+            "target_law_name": "수목원ㆍ정원의 조성 및 진흥에 관한 법률 시행규칙",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "97989",
+            "target_url": "https://www.law.go.kr/법령/수목원ㆍ정원의 조성 및 진흥에 관한 법률 시행규칙/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립수목원입장료의면제대상고시#JO0001",
+            "reference_id": "law:수목원정원의조성및진흥에관한법률시행규칙#JO0011",
+            "target_repo": "LAW",
+            "target_git_path_guess": "수목원ㆍ정원의 조성 및 진흥에 관한 법률/시행규칙/수목원ㆍ정원의 조성 및 진흥에 관한 법률 시행규칙.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립수목원입장료의면제대상고시#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "면제대상",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조(면제대상) 「수목원ㆍ정원의 조성 및 진흥에 관한 법률 시행규칙」제11조제2항제14호에 따라 국립수목원 입장료의 면제가 필요한 자는 다음과 같다.[그림]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「수목원ㆍ정원의 조성 및 진흥에 관한 법률 시행규칙」",
+            "line_text": "",
+            "target_law_name": "수목원ㆍ정원의 조성 및 진흥에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "97989",
+            "target_url": "https://www.law.go.kr/법령/수목원ㆍ정원의 조성 및 진흥에 관한 법률 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립수목원입장료의면제대상고시#JO0002",
+            "reference_id": "law:수목원정원의조성및진흥에관한법률시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "수목원ㆍ정원의 조성 및 진흥에 관한 법률/시행규칙/수목원ㆍ정원의 조성 및 진흥에 관한 법률 시행규칙.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제11조제2항제14호",
+            "line_text": "",
+            "target_law_name": "수목원ㆍ정원의 조성 및 진흥에 관한 법률 시행규칙",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "97989",
+            "target_url": "https://www.law.go.kr/법령/수목원ㆍ정원의 조성 및 진흥에 관한 법률 시행규칙/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립수목원입장료의면제대상고시#JO0002",
+            "reference_id": "law:수목원정원의조성및진흥에관한법률시행규칙#JO0011",
+            "target_repo": "LAW",
+            "target_git_path_guess": "수목원ㆍ정원의 조성 및 진흥에 관한 법률/시행규칙/수목원ㆍ정원의 조성 및 진흥에 관한 법률 시행규칙.json"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168140821",
+            "seq": "168140821",
+            "filename": "제2조_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제2조_1.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:국립수목원입장료의면제대상고시#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제3조(재검토기한) 산림청장은 이 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2027년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "97989",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립수목원입장료의면제대상고시#JO0003",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립수목원입장료의면제대상고시#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20260813",
+      "promulgation_no": "2026-92",
+      "content": "부칙 <제2026-92호, 2026. 8. 13.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:국립수목원입장료의면제대상고시#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000283822",
+      "source_version_uid": "",
+      "source_revision_type": "제정",
+      "version_enforcement_date": "20260813"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "(산림청고시 제2026-92호) 국립수목원 입장료의 면제대상 고시(전문).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=168125783",
+      "filename": "(산림청고시 제2026-92호) 국립수목원 입장료의 면제대상 고시(전문).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(산림청고시 제2026-92호) 국립수목원 입장료의 면제대상 고시(전문).pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 5,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 6
+    },
+    "articles_total": 3,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/국립수목원 입장료의 면제대상 고시"
+  },
+  "provision_id": "admrul:국립수목원입장료의면제대상고시#DOC",
+  "addendum_provision_id": "admrul:국립수목원입장료의면제대상고시#ADDENDUM",
+  "amendment_provision_id": "admrul:국립수목원입장료의면제대상고시#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "국립수목원 입장료의 면제대상 고시/국립수목원 입장료의 면제대상 고시.json"
+}
