@@ -1,0 +1,444 @@
+{
+  "law_id": "36952",
+  "mst": "2100000283254",
+  "law_name": "청소년유해매체물(음반 및 음악파일) 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:36952",
+  "promulgation_no": "2026-28",
+  "promulgation_date": "20260810",
+  "enforcement_date": "20260817",
+  "revision_date": "20260810",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "성평등가족부(청소년보호환경과)",
+    "담당자명": "정기준",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "청소년유해매체물(음반 및 음악파일) 고시",
+    "발령일자": "20260810",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "N",
+    "소관부처명": "성평등가족부",
+    "전화번호": "02-2100-6293",
+    "제개정구분명": "제정",
+    "소관부처코드": "1384000",
+    "생성일자": "20260817",
+    "행정규칙ID": "36952",
+    "시행일자": "20260817",
+    "담당부서기관코드": "1384046",
+    "발령번호": "2026-28",
+    "행정규칙일련번호": "2100000283254",
+    "상위부처명": "성평등가족부"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "1. 청소년유해매체물 목록 : 아래 목록표와 같음 2. 의무사항가. 아래 목록의 청소년유해매체물을 제공하는 사업자는 청소년보호법 제13조에 따라 청소년유해표시의무를 이행하여야 하며, 같은 법 제16조에 따라 판매ㆍ대여ㆍ배포하거나 시청ㆍ관람ㆍ이용하도록 제공하려는 자는 그 상대방의 나이 및 본인여부를 확인하여야 함[그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "같은 법",
+            "line_text": "",
+            "target_law_name": "청소년유해매체물(음반 및 음악파일) 고시",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "36952",
+            "target_url": "https://www.law.go.kr/행정규칙/청소년유해매체물(음반 및 음악파일) 고시",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:청소년유해매체물(음반및음악파일)고시#DOC",
+            "reference_id": "admrul:청소년유해매체물(음반및음악파일)고시#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "청소년유해매체물(음반 및 음악파일) 고시/청소년유해매체물(음반 및 음악파일) 고시.json"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100763",
+            "seq": "168100763",
+            "filename": "전문_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100765",
+            "seq": "168100765",
+            "filename": "전문_2.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_2.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100767",
+            "seq": "168100767",
+            "filename": "전문_3.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_3.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100769",
+            "seq": "168100769",
+            "filename": "전문_4.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_4.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100771",
+            "seq": "168100771",
+            "filename": "전문_5.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_5.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100773",
+            "seq": "168100773",
+            "filename": "전문_6.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_6.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100775",
+            "seq": "168100775",
+            "filename": "전문_7.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_7.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100777",
+            "seq": "168100777",
+            "filename": "전문_8.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_8.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100939",
+            "seq": "168100939",
+            "filename": "전문_9.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_9.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100941",
+            "seq": "168100941",
+            "filename": "전문_10.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_10.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100943",
+            "seq": "168100943",
+            "filename": "전문_11.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_11.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100945",
+            "seq": "168100945",
+            "filename": "전문_12.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_12.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100947",
+            "seq": "168100947",
+            "filename": "전문_13.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_13.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100949",
+            "seq": "168100949",
+            "filename": "전문_14.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_14.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100951",
+            "seq": "168100951",
+            "filename": "전문_15.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_15.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100953",
+            "seq": "168100953",
+            "filename": "전문_16.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_16.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100955",
+            "seq": "168100955",
+            "filename": "전문_17.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_17.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100957",
+            "seq": "168100957",
+            "filename": "전문_18.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_18.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100959",
+            "seq": "168100959",
+            "filename": "전문_19.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_19.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100961",
+            "seq": "168100961",
+            "filename": "전문_20.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_20.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100963",
+            "seq": "168100963",
+            "filename": "전문_21.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_21.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100965",
+            "seq": "168100965",
+            "filename": "전문_22.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_22.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100967",
+            "seq": "168100967",
+            "filename": "전문_23.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_23.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100969",
+            "seq": "168100969",
+            "filename": "전문_24.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_24.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100971",
+            "seq": "168100971",
+            "filename": "전문_25.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_25.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100973",
+            "seq": "168100973",
+            "filename": "전문_26.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_26.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100975",
+            "seq": "168100975",
+            "filename": "전문_27.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_27.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100977",
+            "seq": "168100977",
+            "filename": "전문_28.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_28.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100979",
+            "seq": "168100979",
+            "filename": "전문_29.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_29.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100981",
+            "seq": "168100981",
+            "filename": "전문_30.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_30.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100983",
+            "seq": "168100983",
+            "filename": "전문_31.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_31.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100985",
+            "seq": "168100985",
+            "filename": "전문_32.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_32.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100987",
+            "seq": "168100987",
+            "filename": "전문_33.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_33.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100989",
+            "seq": "168100989",
+            "filename": "전문_34.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_34.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100991",
+            "seq": "168100991",
+            "filename": "전문_35.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_35.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168100993",
+            "seq": "168100993",
+            "filename": "전문_36.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_36.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:청소년유해매체물(음반및음악파일)고시#DOC"
+      }
+    ]
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "2. ★성평등부 제2026-28호(음반 및 음악파일, 8월 10일, 425건).zip",
+      "url": "http://law.go.kr/flDownload.do?flSeq=167587193",
+      "filename": "2. ★성평등부 제2026-28호(음반 및 음악파일, 8월 10일, 425건).zip",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/2. ★성평등부 제2026-28호(음반 및 음악파일, 8월 10일, 425건).zip",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "internal_ref": 1
+    },
+    "articles_total": 1,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/청소년유해매체물(음반 및 음악파일) 고시"
+  },
+  "provision_id": "admrul:청소년유해매체물(음반및음악파일)고시#DOC",
+  "addendum_provision_id": "admrul:청소년유해매체물(음반및음악파일)고시#ADDENDUM",
+  "amendment_provision_id": "admrul:청소년유해매체물(음반및음악파일)고시#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "청소년유해매체물(음반 및 음악파일) 고시/청소년유해매체물(음반 및 음악파일) 고시.json"
+}
