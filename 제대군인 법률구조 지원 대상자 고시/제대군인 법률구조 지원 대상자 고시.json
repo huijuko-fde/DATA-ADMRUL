@@ -1,0 +1,204 @@
+{
+  "law_id": "98025",
+  "mst": "2100000284004",
+  "law_name": "제대군인 법률구조 지원 대상자 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:98025",
+  "promulgation_no": "2026-6",
+  "promulgation_date": "20260818",
+  "enforcement_date": "20260820",
+  "revision_date": "20260818",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국가보훈부(제대군인일자리과)",
+    "담당자명": "김성준",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "제대군인 법률구조 지원 대상자 고시",
+    "발령일자": "20260818",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "국가보훈부",
+    "전화번호": "044-202-5731",
+    "제개정구분명": "제정",
+    "소관부처코드": "1830000",
+    "생성일자": "20260821",
+    "행정규칙ID": "98025",
+    "시행일자": "20260820",
+    "담당부서기관코드": "1830055",
+    "발령번호": "2026-6",
+    "행정규칙일련번호": "2100000284004",
+    "상위부처명": "국가보훈부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제정이유\n「제대군인지원에 관한 법률 시행령」제32조의2제1항제2호다목에 따라 국가보훈부장관이 정하여 고시하도록 한 법률구조 지원대상 제대군인을 정하려는 것임\n◇ 주요내용\n제1연평해전(1999년 6월 15일), 대청해전(2009년 11월 10일), 연평도 포격전(2010년 11월 23일)에서 군 임무를 수행하고 전역한 제대군인에게 법률구조 지원을 할 수 있도록 함",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제1조(목적) 이 고시는 「제대군인지원에 관한 법률 시행령」제32조의2제1항제2호다목에 따라 국가보훈부장관에게 위임된 법률구조 지원대상 제대군인을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「제대군인지원에 관한 법률 시행령」",
+            "line_text": "",
+            "target_law_name": "제대군인지원에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "98025",
+            "target_url": "https://www.law.go.kr/법령/제대군인지원에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:제대군인법률구조지원대상자고시#JO0001",
+            "reference_id": "law:제대군인지원에관한법률시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "제대군인지원에 관한 법률/시행령/제대군인지원에 관한 법률 시행령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제32조의2제1항제2호다목",
+            "line_text": "",
+            "target_law_name": "제대군인지원에 관한 법률 시행령",
+            "target_article_no": "제32조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "98025",
+            "target_url": "https://www.law.go.kr/법령/제대군인지원에 관한 법률 시행령/제32조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:제대군인법률구조지원대상자고시#JO0001",
+            "reference_id": "law:제대군인지원에관한법률시행령#JO0032_02",
+            "target_repo": "LAW",
+            "target_git_path_guess": "제대군인지원에 관한 법률/시행령/제대군인지원에 관한 법률 시행령.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:제대군인법률구조지원대상자고시#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "제대군인 법률구조 지원 대상자",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조(제대군인 법률구조 지원 대상자) 다음 각 호의 전투나 사건에서 군 임무를 수행하고 전역한 제대군인에게 법률구조 지원을 할 수 있다.1. 제1연평해전(1999년 6월 15일)2. 대청해전(2009년 11월 10일)3. 연평도 포격전(2010년 11월 23일)",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:제대군인법률구조지원대상자고시#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제3조(재검토기한) 국가보훈부장관은 이 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2027년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "98025",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:제대군인법률구조지원대상자고시#JO0003",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:제대군인법률구조지원대상자고시#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20260820",
+      "promulgation_no": "2026-6",
+      "content": "부칙 <제2026-6호, 2026. 8. 20.>이 고시는 2026년 8월 20일부터 시행한다.",
+      "provision_id": "admrul:제대군인법률구조지원대상자고시#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000284004",
+      "source_version_uid": "",
+      "source_revision_type": "제정",
+      "version_enforcement_date": "20260820"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "「제대군인 법률구조 지원 대상자 고시」(국가보훈부고시 제2026-6호¸ 2026.8.20.시행).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=168372425",
+      "filename": "「제대군인 법률구조 지원 대상자 고시」(국가보훈부고시 제2026-6호¸ 2026.8.20.시행).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/「제대군인 법률구조 지원 대상자 고시」(국가보훈부고시 제2026-6호¸ 2026.8.20.시행).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "「제대군인 법률구조 지원 대상자 고시」(국가보훈부고시 제2026-6호¸ 2026.8.20.시행).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=168372429",
+      "filename": "「제대군인 법률구조 지원 대상자 고시」(국가보훈부고시 제2026-6호¸ 2026.8.20.시행).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/「제대군인 법률구조 지원 대상자 고시」(국가보훈부고시 제2026-6호¸ 2026.8.20.시행).pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 3,
+    "by_category": {
+      "법령": 2,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 3
+    },
+    "articles_total": 3,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/제대군인 법률구조 지원 대상자 고시"
+  },
+  "provision_id": "admrul:제대군인법률구조지원대상자고시#DOC",
+  "addendum_provision_id": "admrul:제대군인법률구조지원대상자고시#ADDENDUM",
+  "amendment_provision_id": "admrul:제대군인법률구조지원대상자고시#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "제대군인 법률구조 지원 대상자 고시/제대군인 법률구조 지원 대상자 고시.json"
+}
