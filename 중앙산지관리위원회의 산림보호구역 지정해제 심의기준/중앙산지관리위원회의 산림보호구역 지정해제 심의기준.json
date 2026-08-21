@@ -1,0 +1,83 @@
+{
+  "law_id": "52621",
+  "mst": "2100000284152",
+  "law_name": "중앙산지관리위원회의 산림보호구역 지정해제 심의기준",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:52621",
+  "promulgation_no": "2026-93",
+  "promulgation_date": "20260821",
+  "enforcement_date": "20260821",
+  "revision_date": "20260821",
+  "revision_type": "전부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "산림청(산림환경보호과)",
+    "담당자명": "박노진",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "중앙산지관리위원회의 산림보호구역 지정해제 심의기준",
+    "발령일자": "20260821",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200402",
+    "조문형식여부": "Y",
+    "소관부처명": "산림청",
+    "전화번호": "042-481-4246",
+    "제개정구분명": "전부개정",
+    "소관부처코드": "1400000",
+    "생성일자": "20260824",
+    "행정규칙ID": "52621",
+    "시행일자": "20260821",
+    "담당부서기관코드": "1400565",
+    "발령번호": "2026-93",
+    "행정규칙일련번호": "2100000284152",
+    "상위부처명": "산림청"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 0,
+    "articles": []
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "(산림청고시 제2026-93호) 중앙산지관리위원회의 산림보호구역 지정해제 심의기준 전부개정고시(전문).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=168423897",
+      "filename": "(산림청고시 제2026-93호) 중앙산지관리위원회의 산림보호구역 지정해제 심의기준 전부개정고시(전문).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(산림청고시 제2026-93호) 중앙산지관리위원회의 산림보호구역 지정해제 심의기준 전부개정고시(전문).pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 0,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/중앙산지관리위원회의 산림보호구역 지정해제 심의기준"
+  },
+  "provision_id": "admrul:중앙산지관리위원회의산림보호구역지정해제심의기준#DOC",
+  "addendum_provision_id": "admrul:중앙산지관리위원회의산림보호구역지정해제심의기준#ADDENDUM",
+  "amendment_provision_id": "admrul:중앙산지관리위원회의산림보호구역지정해제심의기준#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "중앙산지관리위원회의 산림보호구역 지정해제 심의기준/중앙산지관리위원회의 산림보호구역 지정해제 심의기준.json"
+}
