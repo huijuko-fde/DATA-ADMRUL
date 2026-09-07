@@ -1,0 +1,83 @@
+{
+  "law_id": "2034229",
+  "mst": "2100000286852",
+  "law_name": "외국인의 자동출입국심사 이용대상자 등록 요건 및 절차",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2034229",
+  "promulgation_no": "2026-301",
+  "promulgation_date": "20260907",
+  "enforcement_date": "20260907",
+  "revision_date": "20260907",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "법무부(출입국심사과)",
+    "담당자명": "유하나",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "외국인의 자동출입국심사 이용대상자 등록 요건 및 절차",
+    "발령일자": "20260907",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "법무부",
+    "전화번호": "02-2110-4043",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1270000",
+    "생성일자": "20261014",
+    "행정규칙ID": "2034229",
+    "시행일자": "20260907",
+    "담당부서기관코드": "1271771",
+    "발령번호": "2026-301",
+    "행정규칙일련번호": "2100000286852",
+    "상위부처명": "법무부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 주요내용\n가. 사전등록 후 자동출입국 이용이 가능한 사람의 범위 추가\n-  자동출입국 이용 대상 확대를 위한 근거 마련\n나. 생체정보(지문, 얼굴) 등록장소를 입국심사장까지 확대\n\n다. 재검토 기한 재설정",
+  "body": {
+    "format": "articles",
+    "article_count": 0,
+    "articles": []
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "외국인의 자동출입국심사 이용대상자 등록 요건 및 절차(법무부고시)(제2026-301호)(20260907).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170532465",
+      "filename": "외국인의 자동출입국심사 이용대상자 등록 요건 및 절차(법무부고시)(제2026-301호)(20260907).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/외국인의 자동출입국심사 이용대상자 등록 요건 및 절차(법무부고시)(제2026-301호)(20260907).pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 0,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/외국인의 자동출입국심사 이용대상자 등록 요건 및 절차"
+  },
+  "provision_id": "admrul:외국인의자동출입국심사이용대상자등록요건및절차#DOC",
+  "addendum_provision_id": "admrul:외국인의자동출입국심사이용대상자등록요건및절차#ADDENDUM",
+  "amendment_provision_id": "admrul:외국인의자동출입국심사이용대상자등록요건및절차#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "외국인의 자동출입국심사 이용대상자 등록 요건 및 절차/외국인의 자동출입국심사 이용대상자 등록 요건 및 절차.json"
+}
