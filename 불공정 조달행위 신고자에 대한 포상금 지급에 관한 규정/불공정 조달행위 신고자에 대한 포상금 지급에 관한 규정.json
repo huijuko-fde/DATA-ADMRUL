@@ -8,9 +8,9 @@
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:75375",
   "promulgation_no": "2026-44",
-  "promulgation_date": "20260908",
-  "enforcement_date": "20260908",
-  "revision_date": "20260908",
+  "promulgation_date": "20260911",
+  "enforcement_date": "20260911",
+  "revision_date": "20260911",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "손종민",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "불공정 조달행위 신고자에 대한 포상금 지급에 관한 규정 ",
-    "발령일자": "20260908",
+    "발령일자": "20260911",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "070-4056-6134",
     "제개정구분명": "일부개정",
     "소관부처코드": "1230000",
-    "생성일자": "20260910",
+    "생성일자": "20261029",
     "행정규칙ID": "75375",
-    "시행일자": "20260908",
+    "시행일자": "20260911",
     "담당부서기관코드": "1230574",
     "발령번호": "2026-44",
     "행정규칙일련번호": "2100000284894",
     "상위부처명": "조달청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n신고 유인을 높이고 ‘26년 가용예산 및 ’27년 예산증액(예정)을 고려하여 부당이득 환수액 대비 낮은 환수 분야 단가를 상향하고자 함\n◇ 주요내용\n가. 부당이득환수 포상금 단가 인상\n[그림]\n【환수분야 포상금 인상안】\n\n나. 포상금 지급 평가ㆍ환류 체계 마련\nㅇ 권익위 표준안 등을 고려하여 신고 포상금 지급액, 지급방식의 적정성 등을 계약심사협의회를 통해 3년* 단위 평가 실시\n다. 포상금 지급 기록 작성 관리\nㅇ 효율적 관리를 위해 포상금 지급실적 기록ㆍ관리 의무 부여\nㅇ ’신고포상금 접수 및 처리대장‘(별지 제3호 서식) 운영ㆍ관리 규정 신설",
+  "revision_reason": "◇ 제ㆍ개정 이유\n신고 유인을 높이기 위해 부당이득 환수액 대비 낮은 환수 분야 단가를 상향하고자 함\n◇ 주요내용\n가. 부당이득환수 포상금 단가 인상\n[그림]\n【환수분야 포상금 인상안】\n\n나. 포상금 지급 평가ㆍ환류 체계 마련\nㅇ 권익위 표준안 등을 고려하여 신고 포상금 지급액, 지급방식의 적정성 등을 계약심사협의회를 통해 3년* 단위 평가 실시\n다. 포상금 지급 기록 작성 관리\nㅇ 효율적 관리를 위해 포상금 지급실적 기록ㆍ관리 의무 부여\nㅇ ‘신고포상금 접수 및 처리대장’(별지 제3호 서식) 운영ㆍ관리 규정 신설",
   "body": {
     "format": "articles",
     "article_count": 12,
@@ -314,7 +314,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "75375",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169184799",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170999247",
             "resolve_method": "html",
             "source_provision_id": "admrul:불공정조달행위신고자에대한포상금지급에관한규정#JO0005",
             "target_unit": "BJ0001",
@@ -411,7 +411,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "75375",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169184805",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170999253",
             "resolve_method": "html",
             "source_provision_id": "admrul:불공정조달행위신고자에대한포상금지급에관한규정#JO0006",
             "target_unit": "BJ0002",
@@ -502,7 +502,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "75375",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169184811",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170999459",
             "resolve_method": "html",
             "source_provision_id": "admrul:불공정조달행위신고자에대한포상금지급에관한규정#JO0010",
             "target_unit": "BJ0003",
@@ -569,7 +569,7 @@
       "source_mst": "2100000284894",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260908"
+      "version_enforcement_date": "20260911"
     },
     {
       "promulgation_date": "20220530",
@@ -580,7 +580,7 @@
       "source_mst": "2100000284894",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260908"
+      "version_enforcement_date": "20260911"
     },
     {
       "promulgation_date": "20221212",
@@ -591,7 +591,7 @@
       "source_mst": "2100000284894",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260908"
+      "version_enforcement_date": "20260911"
     },
     {
       "promulgation_date": "20230519",
@@ -602,7 +602,7 @@
       "source_mst": "2100000284894",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260908"
+      "version_enforcement_date": "20260911"
     },
     {
       "promulgation_date": "20230721",
@@ -613,7 +613,7 @@
       "source_mst": "2100000284894",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260908"
+      "version_enforcement_date": "20260911"
     },
     {
       "promulgation_date": "20240223",
@@ -624,7 +624,7 @@
       "source_mst": "2100000284894",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260908"
+      "version_enforcement_date": "20260911"
     },
     {
       "promulgation_date": "20260227",
@@ -635,7 +635,7 @@
       "source_mst": "2100000284894",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260908"
+      "version_enforcement_date": "20260911"
     },
     {
       "promulgation_date": "20260430",
@@ -646,18 +646,18 @@
       "source_mst": "2100000284894",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260908"
+      "version_enforcement_date": "20260911"
     },
     {
-      "promulgation_date": "20260908",
+      "promulgation_date": "20260911",
       "promulgation_no": "2026-44",
-      "content": "부칙 <제2026-44호, 2026. 9. 8.>제1조(시행일) 이 규정은 발령한 날로부터 시행한다제2조(적용대상) 시행일 이후 심의할 불공정 조달행위 ‘부당이득 환수결정 신고포상금’ 지급 건에 적용하며 거래정지, 과징금 부과 등에서 적용할 신고포상금은 이전 부칙에서 정한 바에 따른다",
+      "content": "부칙 <제2026-44호, 2026. 9. 11.>제1조(시행일) 이 규정은 발령한 날로부터 시행한다제2조(적용대상) 시행일 이후 심의할 불공정 조달행위 ‘부당이득 환수결정 신고포상금’ 지급 건에 적용하며 거래정지, 과징금 부과 등에서 적용할 신고포상금은 이전 부칙에서 정한 바에 따른다",
       "provision_id": "admrul:불공정조달행위신고자에대한포상금지급에관한규정#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000284894",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260908"
+      "version_enforcement_date": "20260911"
     }
   ],
   "appendices": [
@@ -670,17 +670,17 @@
       "content": "<별표> 신고포상금 지급기준\n신고포상금 기준\n제4조제1항에 따른 불공정 조달행위의 신고포상금은 「조달사업에 관한 법률 시행령」제26조 제2항에 따라 20백만원 이내에서 다음 각호에 따라 합산하여 산정한다.\n1. 불공정 조달행위 신고에 대한 조사결과에 따라 거래정지, 과징금 부과나 부정당업자 제재 처분을 한 경우 다음과 같이 신고포상금을 지급한다.\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━┓\n┃포상금 산정기준                                         │신고포상금┃\n┠────────────────────────────┼─────┨\n┃ 거래정지, 과징금 부과 또는 부정당제재기간이 3개월 이하 │60만원    ┃\n┠────────────────────────────┼─────┨\n┃ 부정당제재기간이 3개월 초과 1년 미만                   │85만원    ┃\n┠────────────────────────────┼─────┨\n┃ 부정당제재기간이 1년 이상                              │120만원   ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━┛\n2. 불공정 조달행위 신고에 대한 조사결과에 따라 부당이득을 환수하기로 결정한 경우 다음 \"부당이득 환수결정금액\"구간별 산정한 합산 금액\n┏━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━┓\n┃부당이득 환수 결정 금액   │신고포상금                    ┃\n┠─────────────┼───────────────┨\n┃1천만원 이하              │40만원                        ┃\n┠─────────────┼───────────────┨\n┃1천만원 초과 ~ 1억원 이하 │부당이득 환수 결정금액 ×4.0% ┃\n┃                          │ (최대 360만원)               ┃\n┠─────────────┼───────────────┨\n┃1억원 초과 ~ 5억원 이하   │부당이득 환수 결정금액 ×2.0% ┃\n┃                          │(최대 800만원)                ┃\n┠─────────────┼───────────────┨\n┃5억원 초과 ~ 10억원 이하  │부당이득 환수 결정금액 ×1.0% ┃\n┃                          │(최대 500만원)                ┃\n┠─────────────┼───────────────┨\n┃10억원 초과               │부당이득 환수 결정금액 ×0.4% ┃\n┗━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169184793",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170999241",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169184789",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170999237",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169184793",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170999241",
           "name": "",
           "file_store_url": ""
         }
@@ -701,17 +701,17 @@
       "content": "<별지 제1호 서식>\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃불공정 조달행위 신고포상금 지급신청서                                                           ┃\n┣━━━━━┯━━━━┯┯━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃신 고 자  │성   명 ││생년월일│                                                              ┃\n┃          ├────┼┴────┴───────────────────────────────┨\n┃          │주   소 │                                                                          ┃\n┃          ├────┼─────────────────────────────────────┨\n┃          │연락처  │                                                                          ┃\n┣━━━━━┿━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃피신고    │업체명  │                                                                          ┃\n┃업체      │        │                                                                          ┃\n┣━━━━━┿━━━━┿┯━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃신고내용  │신고일자││신고    │                                                              ┃\n┃          │        ││접수번호│                                                              ┃\n┃          ├────┼┴────┴───────────────────────────────┨\n┃          │신고내용│                                                                          ┃\n┃          │요약    │                                                                          ┃\n┣━━━━━┷━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃  조달청 「불공정 조달행위 신고자에 대한 포상금 지급에 관한 규정」 제5조에 따라                 ┃\n┃불공정 조달행위 신고포상금 지급을 신청합니다.                                                   ┃\n┃             년    월    일                                                                     ┃\n┃신청인                   (서명 또는 인)                                                         ┃\n┃ 조달청장 귀하                                                                                  ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃□ 개인정보 수집?이용 동의                                                                     ┃\n┃──────────────────────┬────────┬─────                      ┃\n┃  항 목                                     │수집목적        │보유기간                        ┃\n┃──────────────────────┼────────┼─────                      ┃\n┃  성명, 주민등록번호, 주소, 연락처, 계좌정보│신고포상금 지급 │5년                             ┃\n┃──────────────────────┴────────┴─────                      ┃\n┃ ※ 개인정보 수집?이용에 대한 동의를 거부할 권리가 있습니다. 그러나 동의를 거부할 경우         ┃\n┃사업 참여에 제한을 받을 수 있습니다.                                                            ┃\n┃┌────────────────────────┐                                            ┃\n┃│ 개인정보 수집·이용 동의   □예       □아니요 │                                            ┃\n┃└────────────────────────┘                                            ┃\n┣━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃구비서류  │ ① 신분증(주민등록증, 운전면허증, 여권 등 신분을 확인할 수 있는 공적 서류) 사본 1부┃\n┃          │ ② 신고자 명의의 통장사본 1부                                                      ┃\n┗━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169184799",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170999247",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169184795",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170999243",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169184799",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170999247",
           "name": "",
           "file_store_url": ""
         }
@@ -732,17 +732,17 @@
       "content": "<별지 제2호 서식>\n┏━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃불공정 조달행위 신고포상금 지급결정서             ┃\n┣━━━━━━━┯━━━━━━━━━━┯┯━━━━┯┫\n┃포상대상자    │성   명             ││생년월일│┃\n┃              ├──────────┼┴────┴┨\n┃              │주   소             │            ┃\n┃              ├──────────┼──────┨\n┃              │연락처              │            ┃\n┗━━━━━━━┷━━━━━━━━━━┷━━━━━━┛\n\n┏━━━━━━━┯━━━━━━━━━━┯┯━━━━┯┓\n┃심사내용      │신고일자            ││최종    │┃\n┃              │                    ││처리부서│┃\n┃              ├──────────┼┴────┴┨\n┃              │피신고업체명        │            ┃\n┃              ├──────────┼──────┨\n┃              │위반 법규           │            ┃\n┃              ├──────────┼──────┨\n┃              │불공정 조달행위 유형│            ┃\n┣━━━━━━━┿━━━━━━━━━━┷━━━━━━┫\n┃처분내용(일자)│                                  ┃\n┠───────┼─────────────────┨\n┃기타 참고사항 │                                  ┃\n┗━━━━━━━┷━━━━━━━━━━━━━━━━━┛\n\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃ 포상금 결정내용                                  ┃\n┃────┬───────────────────  ┃\n┃  포상금│                                  원    ┃\n┃────┴───────────────────  ┃\n┃                                                  ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━┛\n위와 같이 결정함\n\n년    월    일\n\n조    달    청\n\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169184805",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170999253",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169184801",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170999249",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169184805",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170999253",
           "name": "",
           "file_store_url": ""
         }
@@ -763,17 +763,17 @@
       "content": "<별지 제3호 서식>\n신고포상금 접수 및 처리 대장\n┏━━┯━━━┯━━━┯━━┯━━┯━━━┯━━┯━━┯━━┯━━┯━━┯━━━┯━━┯━━┯━━┓\n┃접수│신고자│연락처│메일│신고│피신고│조사│위반│처분│처분│처분│지급  │지급│지급│비고┃\n┃번호│      │      │    │일자│업체  │부서│유형│결과│상세│일자│신청일│금액│처리│    ┃\n┃    │      │      │    │    │      │    │    │    │    │    │      │    │일자│    ┃\n┠──┼───┼───┼──┼──┼───┼──┼──┼──┼──┼──┼───┼──┼──┼──┨\n┃    │      │      │    │    │      │    │    │    │    │    │      │    │    │    ┃\n┠──┼───┼───┼──┼──┼───┼──┼──┼──┼──┼──┼───┼──┼──┼──┨\n┃    │      │      │    │    │      │    │    │    │    │    │      │    │    │    ┃\n┠──┼───┼───┼──┼──┼───┼──┼──┼──┼──┼──┼───┼──┼──┼──┨\n┃    │      │      │    │    │      │    │    │    │    │    │      │    │    │    ┃\n┠──┼───┼───┼──┼──┼───┼──┼──┼──┼──┼──┼───┼──┼──┼──┨\n┃    │      │      │    │    │      │    │    │    │    │    │      │    │    │    ┃\n┠──┼───┼───┼──┼──┼───┼──┼──┼──┼──┼──┼───┼──┼──┼──┨\n┃    │      │      │    │    │      │    │    │    │    │    │      │    │    │    ┃\n┠──┼───┼───┼──┼──┼───┼──┼──┼──┼──┼──┼───┼──┼──┼──┨\n┃    │      │      │    │    │      │    │    │    │    │    │      │    │    │    ┃\n┠──┼───┼───┼──┼──┼───┼──┼──┼──┼──┼──┼───┼──┼──┼──┨\n┃    │      │      │    │    │      │    │    │    │    │    │      │    │    │    ┃\n┠──┼───┼───┼──┼──┼───┼──┼──┼──┼──┼──┼───┼──┼──┼──┨\n┃    │      │      │    │    │      │    │    │    │    │    │      │    │    │    ┃\n┠──┼───┼───┼──┼──┼───┼──┼──┼──┼──┼──┼───┼──┼──┼──┨\n┃    │      │      │    │    │      │    │    │    │    │    │      │    │    │    ┃\n┠──┼───┼───┼──┼──┼───┼──┼──┼──┼──┼──┼───┼──┼──┼──┨\n┃    │      │      │    │    │      │    │    │    │    │    │      │    │    │    ┃\n┠──┼───┼───┼──┼──┼───┼──┼──┼──┼──┼──┼───┼──┼──┼──┨\n┃    │      │      │    │    │      │    │    │    │    │    │      │    │    │    ┃\n┖──┴───┴───┴──┴──┴───┴──┴──┴──┴──┴──┴───┴──┴──┴──┚",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169184811",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170999459",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169184807",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170999255",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169184811",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170999459",
           "name": "",
           "file_store_url": ""
         }
@@ -789,18 +789,10 @@
   "attachments": [
     {
       "name": "불공정 조달행위 신고자에 대한 포상금 지급에 관한 규정 개정 전문 .hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=169183615",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170989517",
       "filename": "불공정 조달행위 신고자에 대한 포상금 지급에 관한 규정 개정 전문 .hwpx",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/불공정 조달행위 신고자에 대한 포상금 지급에 관한 규정 개정 전문 .hwpx",
-      "file_store_url": ""
-    },
-    {
-      "name": "불공정 조달행위 신고자에 대한 포상금 지급에 관한 규정 개정 전문 .pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=169184019",
-      "filename": "불공정 조달행위 신고자에 대한 포상금 지급에 관한 규정 개정 전문 .pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/불공정 조달행위 신고자에 대한 포상금 지급에 관한 규정 개정 전문 .pdf",
       "file_store_url": ""
     }
   ],
@@ -824,7 +816,7 @@
     "ordinance_docs_total": 0,
     "addenda_count": 9,
     "appendices_count": 4,
-    "attachments_count": 2
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/불공정 조달행위 신고자에 대한 포상금 지급에 관한 규정"
