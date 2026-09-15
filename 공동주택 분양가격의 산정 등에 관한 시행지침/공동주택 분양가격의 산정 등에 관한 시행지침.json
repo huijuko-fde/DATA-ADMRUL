@@ -1,16 +1,16 @@
 {
   "law_id": "34242",
-  "mst": "2100000282562",
+  "mst": "2100000285102",
   "law_name": "공동주택 분양가격의 산정 등에 관한 시행지침",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:34242",
-  "promulgation_no": "2026-370",
-  "promulgation_date": "20260715",
-  "enforcement_date": "20260715",
-  "revision_date": "20260715",
+  "promulgation_no": "2026-489",
+  "promulgation_date": "20260915",
+  "enforcement_date": "20260915",
+  "revision_date": "20260915",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "전재한",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "공동주택 분양가격의 산정 등에 관한 시행지침",
-    "발령일자": "20260715",
+    "발령일자": "20260915",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,12 +27,12 @@
     "전화번호": "044-201-4089",
     "제개정구분명": "일부개정",
     "소관부처코드": "1613000",
-    "생성일자": "20260716",
+    "생성일자": "20260916",
     "행정규칙ID": "34242",
-    "시행일자": "20260715",
+    "시행일자": "20260915",
     "담당부서기관코드": "1613038",
-    "발령번호": "2026-370",
-    "행정규칙일련번호": "2100000282562",
+    "발령번호": "2026-489",
+    "행정규칙일련번호": "2100000285102",
     "상위부처명": "국토교통부"
   },
   "amendment_text": "",
@@ -630,7 +630,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "34242",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167119473",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169350603",
             "resolve_method": "html",
             "source_provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#JO0003",
             "target_unit": "BJ0001",
@@ -953,7 +953,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "34242",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000282562&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285102&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#JO0006",
             "target_unit": "BYL0001",
@@ -1330,7 +1330,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "34242",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167119481",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169350611",
             "resolve_method": "html",
             "source_provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#JO0007",
             "target_unit": "BJ0002",
@@ -1411,10 +1411,10 @@
       "content": "부칙 <제2009-851호,2009. 9. 1.>제1조(시행일) 이 고시는 2009년  9월  1일부터 시행한다.제2조(종전 지침의 폐지) 종전 「공동주택 분양가격의 산정 등에 관한 시행지침」(국토해양부 주택정책과-1005, ‘ 9. 2. 27.)은 폐지한다.제3조(분양가격 공시에 대한 적용례) 제6조제1항의 별표1은 이 고시 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.제4조(분양가심사위원회의 구성 등에 관한 적용례) 제7조제3항은 이 고시 시행일 이후 분양가심사위원회 위원을 위촉하는 분부터 적용한다.제5조(일반적 경과조치) 이 고시 시행 당시 종전의 지침에 의한 절차 그 밖의 행위는 이 고시에 의하여 행하여진 것으로 본다.제6조(분양가격 공시에 대한 경과조치) 제6조제1항의 별표1에도 불구하고 이 고시 시행일 전에 입주자모집승인을 신청하거나 입주자모집승인을 받은 경우에는 종전의 지침에 따른다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20100301",
@@ -1422,10 +1422,10 @@
       "content": "부칙 <제2010-128호,2010. 3. 1.>제1조(시행일) 이 고시는 2010년  3월  1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20100901",
@@ -1433,10 +1433,10 @@
       "content": "부칙 <제2010-609호,2010. 9. 1.>제1조(시행일) 이 고시는 2010년 9월 1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20110301",
@@ -1444,10 +1444,10 @@
       "content": "부칙 <제2011-66호,2011. 3. 1.>제1조(시행일) 이 고시는 2011년  3월  1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20110901",
@@ -1455,10 +1455,10 @@
       "content": "부칙 <제2011-488호,2011. 9. 1.>제1조(시행일) 이 고시는 2011년  9월  1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20111124",
@@ -1466,10 +1466,10 @@
       "content": "부칙 <제2011-709호,2011. 11. 24.>제1조(시행일) 이 고시는 2011년 11월 28일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20120301",
@@ -1477,10 +1477,10 @@
       "content": "부칙 <제2012-91호,2012. 3. 1.>제1조(시행일) 이 고시는 2012년 3월 1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20120901",
@@ -1488,10 +1488,10 @@
       "content": "부칙 <제2012-589호,2012. 9. 1.>제1조(시행일) 이 고시는 2012년 9월 1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20130301",
@@ -1499,10 +1499,10 @@
       "content": "부칙 <제2013-135호,2013. 3. 1.>제1조(시행일) 이 고시는 2013년 3월 1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20130901",
@@ -1510,10 +1510,10 @@
       "content": "부칙 <제2013-526호,2013. 9. 1.>제1조(시행일) 이 고시는 2013년 9월 1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20140301",
@@ -1521,10 +1521,10 @@
       "content": "부칙 <제2014-93호,2014. 3. 1.>제1조(시행일) 이 고시는 2014년  3월  1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20141030",
@@ -1532,10 +1532,10 @@
       "content": "부칙 <제2014-660호,2014. 10. 30.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20150301",
@@ -1543,10 +1543,10 @@
       "content": "부칙 <제2015-116호,2015. 3. 1.>제1조(시행일) 이 고시는 2015년  3월  1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20150901",
@@ -1554,10 +1554,10 @@
       "content": "부칙 <제2015-635호,2015. 9. 1.>제1조(시행일) 이 고시는 2015년 9월 1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20160301",
@@ -1565,10 +1565,10 @@
       "content": "부칙 <제2016-89호,2016. 3. 1.>제1조(시행일) 이 고시는 2016년  3월  1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20160901",
@@ -1576,10 +1576,10 @@
       "content": "부칙 <제2016-596호,2016. 9. 1.>제1조(시행일) 이 고시는 2016년  9월  1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20160912",
@@ -1587,10 +1587,10 @@
       "content": "부칙 <제2016-613호,2016. 9. 12.>제1조(시행일) 이 고시는 2016년  9월  12일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20170301",
@@ -1598,10 +1598,10 @@
       "content": "부칙 <제2017-131호,2017. 3. 1.>제1조(시행일) 이 고시는 2017년 3월 1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20170915",
@@ -1609,10 +1609,10 @@
       "content": "부칙 <제2017-622호,2017. 9. 15.>제1조(시행일) 이 고시는 2017년  9월  15일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20180301",
@@ -1620,10 +1620,10 @@
       "content": "부칙 <제2018-126호,2018. 3. 1.>제1조(시행일) 이 고시는 2018년  3월  1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20180915",
@@ -1631,10 +1631,10 @@
       "content": "부칙 <제2018-563호,2018. 9. 15.>제1조(시행일) 이 고시는 2018년 9월 15일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20190301",
@@ -1642,10 +1642,10 @@
       "content": "부칙 <제2019-92호,2019. 3. 1.>제1조(시행일) 이 고시는 2019년  3월  1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20190915",
@@ -1653,10 +1653,10 @@
       "content": "부칙 <제2019-495호,2019. 9. 15.>제1조(시행일) 이 고시는 2019년 9월 15일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20200301",
@@ -1664,10 +1664,10 @@
       "content": "부칙 <제2020-235호,2020. 3. 1.>제1조(시행일) 이 고시는 2020년  3월 1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청하는 분부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20200915",
@@ -1675,10 +1675,10 @@
       "content": "부칙 <제2020-641호,2020. 9. 15.>제1조(시행일) 이 고시는 2020년 9월 15일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청(「공동주택 분양가격의 산정 등에 관한 규칙」 제2조 각 호의 어느 하나에 해당하는 사업주체의 경우에는 입주자모집공고를 말한다)하는 경우부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20210301",
@@ -1686,10 +1686,10 @@
       "content": "부칙 <제2021-216호, 2021. 3. 1.>제1조(시행일) 이 고시는 2021년 3월 1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청(「공동주택 분양가격의 산정 등에 관한 규칙」 제2조 각 호의 어느 하나에 해당하는 사업주체의 경우에는 입주자모집공고를 말한다)하는 경우부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20210719",
@@ -1697,10 +1697,10 @@
       "content": "부칙 <제2021-965호, 2021. 7. 19.>제1조(시행일) 이 고시는 2021년 7월 19일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청(「공동주택 분양가격의 산정 등에 관한 규칙」 제2조 각 호의 어느 하나에 해당하는 사업주체의 경우에는 입주자모집공고를 말한다)하는 경우부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20210915",
@@ -1708,10 +1708,10 @@
       "content": "부칙 <제2021-1098호, 2021. 9. 15.>제1조(시행일) 이 고시는 2021년 9월 15일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청(「공동주택 분양가격의 산정 등에 관한 규칙」 제2조 각 호의 어느 하나에 해당하는 사업주체의 경우에는 입주자모집공고를 말한다)하는 경우부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20220301",
@@ -1719,10 +1719,10 @@
       "content": "부칙 <제2022-110호, 2022. 3. 1.>제1조(시행일) 이 고시는 2022년 3월 1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청(「공동주택 분양가격의 산정 등에 관한 규칙」 제2조 각 호의 어느 하나에 해당하는 사업주체의 경우에는 입주자모집공고를 말한다)하는 경우부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20220715",
@@ -1730,10 +1730,10 @@
       "content": "부칙 <제2022-418호, 2022. 7. 15.>제1조(시행일) 이 고시는 2022년 7월 15일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 입주자 모집공고(이 고시 시행 전에 입주자 모집공고를 한 경우로서 이 고시 시행 이후 입주자 모집 재공고를 하는 경우는 제외한다)를 하는 경우부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20220915",
@@ -1741,10 +1741,10 @@
       "content": "부칙 <제2022-521호, 2022. 9. 15.>제1조(시행일) 이 고시는 2022년 9월 15일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청(「공동주택 분양가격의 산정 등에 관한 규칙」제2조 각 호의 어느 하나에 해당하는 사업주체의 경우에는 입주자모집공고를 말한다)하는 경우부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20230210",
@@ -1752,10 +1752,10 @@
       "content": "부칙 <제2023-75호, 2023. 2. 10.>제1조(시행일) 이 고시는 2023년 2월 10일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청(「공동주택 분양가격의 산정 등에 관한 규칙」제2조 각 호의 어느 하나에 해당하는 사업주체의 경우에는 입주자모집공고를 말한다)하는 경우부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20230301",
@@ -1763,10 +1763,10 @@
       "content": "부칙 <제2023-110호, 2023. 3. 1.>제1조(시행일) 이 고시는 2023년 3월 1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청(「공동주택 분양가격의 산정 등에 관한 규칙」제2조 각 호의 어느 하나에 해당하는 사업주체의 경우에는 입주자모집공고를 말한다)하는 경우부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20230915",
@@ -1774,10 +1774,10 @@
       "content": "부칙 <제2023-534호, 2023. 9. 15.>제1조(시행일) 이 고시는 2023년 9월 15일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청(「공동주택 분양가격의 산정 등에 관한 규칙」제2조 각 호의 어느 하나에 해당하는 사업주체의 경우에는 입주자모집공고를 말한다)하는 경우부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20240301",
@@ -1785,10 +1785,10 @@
       "content": "부칙 <제2024-117호, 2024. 3. 1.>제1조(시행일) 이 고시는 2024년 3월 1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청(「공동주택 분양가격의 산정 등에 관한 규칙」제2조 각 호의 어느 하나에 해당하는 사업주체의 경우에는 입주자모집공고를 말한다)하는 경우부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20240913",
@@ -1796,10 +1796,10 @@
       "content": "부칙 <제2024-496호, 2024. 9. 13.>제1조(시행일) 이 고시는 2024년 9월 13일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청(「공동주택 분양가격의 산정 등에 관한 규칙」제2조 각 호의 어느 하나에 해당하는 사업주체의 경우에는 입주자모집공고를 말한다)하는 경우부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20250301",
@@ -1807,10 +1807,10 @@
       "content": "부칙 <제2025-92호, 2025. 3. 1.>제1조(시행일) 이 고시는 2025년 3월 1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청(「공동주택 분양가격의 산정 등에 관한 규칙」제2조 각 호의 어느 하나에 해당하는 사업주체의 경우에는 입주자모집공고를 말한다)하는 경우부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20250915",
@@ -1818,10 +1818,10 @@
       "content": "부칙 <제2025-502호, 2025. 9. 15.>제1조(시행일) 이 고시는 2025년 9월 15일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청(「공동주택 분양가격의 산정 등에 관한 규칙」제2조 각 호의 어느 하나에 해당하는 사업주체의 경우에는 입주자모집공고를 말한다)하는 경우부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20260301",
@@ -1829,10 +1829,10 @@
       "content": "부칙 <제2026-105호, 2026. 3. 1.>제1조(시행일) 이 고시는 2026년 3월 1일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청(「공동주택 분양가격의 산정 등에 관한 규칙」제2조 각 호의 어느 하나에 해당하는 사업주체의 경우에는 입주자모집공고를 말한다)하는 경우부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
     },
     {
       "promulgation_date": "20260715",
@@ -1840,10 +1840,21 @@
       "content": "부칙 <제2026-370호, 2026. 7. 15.>제1조(시행일) 이 고시는 공포한 날부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청(「공동주택 분양가격의 산정 등에 관한 규칙」제2조 각 호의 어느 하나에 해당하는 사업주체의 경우에는 입주자모집공고를 말한다)하는 경우부터 적용한다.",
       "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282562",
+      "source_mst": "2100000285102",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260715"
+      "version_enforcement_date": "20260915"
+    },
+    {
+      "promulgation_date": "20260915",
+      "promulgation_no": "2026-489",
+      "content": "부칙 <제2026-489호, 2026. 9. 15.>제1조(시행일) 이 고시는 2026년 9월 15일부터 시행한다.제2조(적용례) 이 고시는 시행일 이후 사업주체가 입주자모집승인을 신청(「공동주택 분양가격의 산정 등에 관한 규칙」제2조 각 호의 어느 하나에 해당하는 사업주체의 경우에는 입주자모집공고를 말한다)하는 경우부터 적용한다.",
+      "provision_id": "admrul:공동주택분양가격의산정등에관한시행지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285102",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260915"
     }
   ],
   "appendices": [
@@ -1853,20 +1864,20 @@
       "kind": "별표",
       "title": "기본형건축비 세부 공시내역",
       "enforcement_date": "",
-      "content": "[별표 1]\n기본형건축비 세부 공시내역\n(단위 : 천원/㎡)\n┌─────┬─────────┬────────┐\n│항  목    │지상층건축비      │지하층건축비    │\n│          │(주택공급면적기준)│(지하층면적기준)│\n├─────┼─────────┼────────┤\n│직접공사비│1,459             │825             │\n├─────┼─────────┼────────┤\n│간접공사비│604               │331             │\n├─────┼─────────┼────────┤\n│설계비    │28                │16              │\n├─────┼─────────┼────────┤\n│감리비    │20                │11              │\n├─────┼─────────┼────────┤\n│부대비    │126               │-               │\n└─────┴─────────┴────────┘\n주1) 지상층건축비는 16∼25층 이하, 주거전용면적 60㎡초과∼85㎡이하를 기준으로 함\n주2) 층수 및 세대면적에 따라 지상층건축비 중 직접공사비 및간접공사비는 다음과 같이 산출함\n- 지상층 직접공사비 =[해당 지상층건축비 - (설계ㆍ감리비 및 부대비)]× 70.7%\n- 지상층 간접공사비 =[해당 지상층건축비 - (설계ㆍ감리비 및 부대비)]× 29.3%",
+      "content": "[별표 1]\n기본형건축비 세부 공시내역\n(단위 : 천원/㎡)\n┌─────┬─────────┬────────┐\n│항  목    │지상층건축비      │지하층건축비    │\n│          │(주택공급면적기준)│(지하층면적기준)│\n├─────┼─────────┼────────┤\n│직접공사비│1,487             │844             │\n├─────┼─────────┼────────┤\n│간접공사비│663               │362             │\n├─────┼─────────┼────────┤\n│설계비    │29                │16              │\n├─────┼─────────┼────────┤\n│감리비    │20                │11              │\n├─────┼─────────┼────────┤\n│부대비    │129               │-               │\n└─────┴─────────┴────────┘\n주1) 지상층건축비는 16∼25층 이하, 주거전용면적 60㎡초과∼85㎡이하를 기준으로 함\n주2) 층수 및 세대면적에 따라 지상층건축비 중 직접공사비 및간접공사비는 다음과 같이 산출함\n- 지상층 직접공사비 =[해당 지상층건축비 - (설계ㆍ감리비 및 부대비)]× 69.2%\n- 지상층 간접공사비 =[해당 지상층건축비 - (설계ㆍ감리비 및 부대비)]× 30.8%",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000282562&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167119467",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285102&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169350597",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167119463",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169350593",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167119467",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169350597",
           "name": "",
           "file_store_url": ""
         }
@@ -1887,17 +1898,17 @@
       "content": "[별지 제1호서식]\n┌─────────────────────────────────────────┐\n│기본선택품목 시공?설치 관련 확약서                                               │\n├──────┬─────┬────┬───────┬────┬──────────┤\n│공 사 개 요 │사업주체  │상  호  │              │대표자  │                    │\n│            ├─────┼────┼───────┴────┼────┬─────┤\n│            │사업내용  │위  치  │                        │대지면적│    ㎡    │\n│            │          ├────┼───────┬────┼────┼─────┤\n│            │          │사업내용│규  모        │연면적  │착공일  │준공일    │\n│            │          │        ├───────┼────┼────┴─────┤\n│            │          │        │ 층,   동,    │    ㎡  │                    │\n│            │          │        │세대          │        │                    │\n├──────┼─────┼────┴───────┼────┼──────────┤\n│입 주 자    │이   름   │                        │생년월일│                    │\n│            ├─────┼────────────┴────┴──────────┤\n│            │주   소   │    (전화번호 :             )                           │\n│            ├─────┼────────────────────────────┤\n│            │입주예정  │                                                        │\n│            │동 ?호   │                                                        │\n├──────┼─────┴────────────────────────────┤\n│확 약 내 용 │                                                                    │\n│            │    주택공급계약을 체결함에 있어 기본선택품목의 시공?설치와 관련   │\n│            │하여 아래 사항을 인지하고, 분쟁에 있어서 각 위반사실은 그 위반자    │\n│            │의 과실로 추정할 것을 확약합니다.                                   │\n│            │                                                                    │\n│            │  (1) 입주자는「주택법」제61조제2항의 입주가능일부터 60일 이내에    │\n│            │기본선택품목의 시공?설치를 완료하여야 한다.                        │\n│            │                                                                    │\n│            │  (2) 입주자는 기본선택품목을 시공?설치하는 자로 하여금 「건축법」 │\n│            │제52조, 「건축법 시행령」제61조 및 「건축물의 피난?방화구조        │\n│            │등의 기준에 관한 규칙」 제24조에 적합한 자재를 사용하도록 하        │\n│            │여야 한다.                                                          │\n│            │                                                                    │\n│            │  (3) 사업주체는 당해 시?군 또는 구내의 실내건축공사업 등록을 한   │\n│            │자의 현황 및 입주자가 기본선택품목의 시공?설치 시에 하자담         │\n│            │보책임 기간과 담보방법에 대하여 입주자에게 알리도록 하여야          │\n│            │하며, 입주자는 기본선택품목의 시공?설치 시 「공동주택 분양         │\n│            │가격의 산정 등에 관한 규칙」 제3조제1항 각 호에 해당하는 품         │\n│            │목에 대한 훼손행위를 하여서는 아니 된다.                            │\n├──────┴──────────────────────────────────┤\n│년      월       일                                                               │\n│                                                                                  │\n│입주자         (서명 또는 인)   주택건설사업자         (서명 또는 인)             │\n└─────────────────────────────────────────┘\n210㎜×297㎜[일반용지 60g/㎡(재활용품)]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167119473",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169350603",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167119469",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169350599",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167119473",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169350603",
           "name": "",
           "file_store_url": ""
         }
@@ -1918,17 +1929,17 @@
       "content": "[별지 제2호서식]                                                                                             (앞  면)\n분양가심사위원회 심사결과 (00년 00분기)\n1. 총괄표(시ㆍ도)\n(단위 : 건수)\n┌──────┬──────┬──┬──┬──┐\n│구   분     │00분기 누계 │00월│00월│00월│\n├──────┼──────┼──┼──┼──┤\n│심사건수    │            │    │    │    │\n├──────┼──────┼──┼──┼──┤\n│원안통과    │            │    │    │    │\n├──────┼──────┼──┼──┼──┤\n│조정후 통과 │            │    │    │    │\n├──────┼──────┼──┼──┼──┤\n│재심사 결정 │            │    │    │    │\n└──────┴──────┴──┴──┴──┘\n2. 분양가심사위원회 사업장별 현황\n(단위 : 백만원)\n┌───┬──┬─┬────────┬────┬─────────────────────────────────┬────────────┬────┐\n│개최  │시  │소│사업규모        │구분    │택지비 ①                                                         │건축비 ②               │분양가격│\n│시점  │군  │재├──┬──┬──┤        ├───────┬─────────────────────────┼─┬───┬───┬──┤총   액 │\n│      │구  │지│총  │총  │총  │        │공공택지      │민간택지                                          │계│지상층│지하층│가산│①+②   │\n│      │    │  │공급│공급│대지│        ├─┬──┬──┼───────┬─────────────────┤  │건축비│건축비│비용│        │\n│      │    │  │호수│면적│면적│        │계│공급│가산│감정가격 적용 │실매입가격 인정                   │  │      │      │    │        │\n│      │    │  │    │(㎡)│(㎡)│        │  │가격│비용├─┬──┬──┼───┬───┬───┬──┬──┤  │      │      │    │        │\n│      │    │  │    │    │    │        │  │    │    │계│감정│가산│계    │실매입│감정  │인정│가산│  │      │      │    │        │\n│      │    │  │    │    │    │        │  │    │    │  │가격│비용│ⓐ+ⓑ │가  격│가격  │매입│비용│  │      │      │    │        │\n│      │    │  │    │    │    │        │  │    │    │  │    │    │      │      │×    │가격│ⓑ  │  │      │      │    │        │\n│      │    │  │    │    │    │        │  │    │    │  │    │    │      │      │120%  │ⓐ  │    │  │      │      │    │        │\n┝━━━┿━━┿━┿━━┿━━┿━━┿━━━━┿━┿━━┿━━┿━┿━━┿━━┿━━━┿━━━┿━━━┿━━┿━━┿━┿━━━┿━━━┿━━┿━━━━┥\n│00년  │00구│  │    │    │    │신청금액│  │    │    │  │    │    │      │      │      │    │    │  │      │      │    │        │\n│00월  │    │  │    │    │    ├────┼─┼──┼──┼─┼──┼──┼───┼───┼───┼──┼──┼─┼───┼───┼──┼────┤\n│      │    │  │    │    │    │심사결과│  │    │    │  │    │    │      │      │      │    │    │  │      │      │    │        │\n├───┼──┼─┼──┼──┼──┼────┼─┼──┼──┼─┼──┼──┼───┼───┼───┼──┼──┼─┼───┼───┼──┼────┤\n│      │    │  │    │    │    │신청금액│  │    │    │  │    │    │      │      │      │    │    │  │      │      │    │        │\n│      │    │  │    │    │    ├────┼─┼──┼──┼─┼──┼──┼───┼───┼───┼──┼──┼─┼───┼───┼──┼────┤\n│      │    │  │    │    │    │심사결과│  │    │    │  │    │    │      │      │      │    │    │  │      │      │    │        │\n└───┴──┴─┴──┴──┴──┴────┴─┴──┴──┴─┴──┴──┴───┴───┴───┴──┴──┴─┴───┴───┴──┴────┘\n1) 사업규모 : 상한제 적용주택의 총 공급호수, 총 공급면적(주거전용면적+주거공용면적), 총 대지면적(상한제 적용주택의 대지지분)을 기재\n2) 민간택지 실매입가격 인정란 : 주택법 제57조제3항제2호 각 목 외의 부분 단서에 따라 실매입가로 인정받는 경우에 한하여 작성\n297㎜×210㎜[일반용지 60g/㎡(재활용품)]\n(뒷  면)\n3. 사업장별 감정평가현황\n(단위 : 천원)\n┌────┬───┬───┬────┬────┬───────────────────────┬────┬───────────────┐\n│평가    │시군구│소재지│대지면적│사업주체│감정평가 총액                                 │㎡당    │재평가시                      │\n│시점    │      │      │(㎡)    │        │                                              │공시지가│ 직전 감정평가 총액           │\n│        │      │      │        │        ├────┬────┬───┬─────┬───┤        ├────┬────┬─────┤\n│        │      │      │        │        │평가자 1│평가자 2│최고액│산술평균액│㎡당  │        │평가자 1│평가자 2│재평가사유│\n│        │      │      │        │        │        │        │/최저 │          │단가  │        │        │        │          │\n│        │      │      │        │        │        │        │액    │          │      │        │        │        │          │\n│        │      │      │        │        │        │        │(%)   │          │      │        │        │        │          │\n├────┼───┼───┼────┼────┼────┼────┼───┼─────┼───┼────┼────┼────┼─────┤\n│00년0월 │00구  │      │        │        │명칭:   │명칭:   │      │          │      │        │명칭:   │명칭:   │          │\n│        │      │      │        │        ├────┼────┤      │          │      │        ├────┼────┤          │\n│        │      │      │        │        │금액:   │금액:   │      │          │      │        │금액 :  │금액:   │          │\n├────┼───┼───┼────┼────┼────┼────┼───┼─────┼───┼────┼────┼────┼─────┤\n│        │      │      │        │        │명칭:   │명칭:   │      │          │      │        │명칭:   │명칭:   │          │\n│        │      │      │        │        ├────┼────┤      │          │      │        ├────┼────┤          │\n│        │      │      │        │        │금액:   │금액:   │      │          │      │        │금액 :  │금액:   │          │\n└────┴───┴───┴────┴────┴────┴────┴───┴─────┴───┴────┴────┴────┴─────┘\n1) 작성대상 : 당해 분기에 분양가심사위원회 심사를 완료한 지구 (당해 분기에 감정평가는 완료하였으나 당해 분기에 분양가심사위원회 심사를 받지 못한 지구는 추후 분양가심사위원회의 심사를 완료한 분기에 포함하여 제출)\n2) 평가시점 : 감정평가가 완료된 시점이 해당하는 월\n3) 최고액/최저액(%) : 감정평가자 2인의 평가총액 비율\n4) 산술평균액 : 감정평가자 2인의 평가합계액÷2\n5) ㎡당 단가 : 산술평균액÷대지면적\n6) ㎡당 공시지가 : 감정평가 신청일 당시 해당 토지의 공시된 공시지가 중 신청일에 가장 가까운 시점에 공시된 공시지가\n7) 재평가시 직전 감정평가 총액 : 재평가가 실시된 지구에 한해 재평가 직전의 최초 평가금액 기재\n8) 재평가사유 : 평가자간 감정평가액 차이가 10% 초과 또는 사업주체 이의제기 등 사유 간략히 기재",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167119481",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169350611",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167119475",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169350605",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167119481",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169350611",
           "name": "",
           "file_store_url": ""
         }
@@ -1943,19 +1954,19 @@
   ],
   "attachments": [
     {
-      "name": "(전문) 공동주택 분양가격의 산정 등에 관한 시행지침(제2026-370호).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=167119405",
-      "filename": "(전문) 공동주택 분양가격의 산정 등에 관한 시행지침(제2026-370호).hwpx",
+      "name": "(전문) 공동주택 분양가격의 산정 등에 관한 시행지침(제2026-489호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169350563",
+      "filename": "(전문) 공동주택 분양가격의 산정 등에 관한 시행지침(제2026-489호).pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/(전문) 공동주택 분양가격의 산정 등에 관한 시행지침(제2026-370호).hwpx",
+      "local_path": "첨부파일/(전문) 공동주택 분양가격의 산정 등에 관한 시행지침(제2026-489호).pdf",
       "file_store_url": ""
     },
     {
-      "name": "(전문) 공동주택 분양가격의 산정 등에 관한 시행지침(제2026-370호).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=167119409",
-      "filename": "(전문) 공동주택 분양가격의 산정 등에 관한 시행지침(제2026-370호).pdf",
+      "name": "(전문) 공동주택 분양가격의 산정 등에 관한 시행지침(제2026-489호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169350559",
+      "filename": "(전문) 공동주택 분양가격의 산정 등에 관한 시행지침(제2026-489호).hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/(전문) 공동주택 분양가격의 산정 등에 관한 시행지침(제2026-370호).pdf",
+      "local_path": "첨부파일/(전문) 공동주택 분양가격의 산정 등에 관한 시행지침(제2026-489호).hwpx",
       "file_store_url": ""
     }
   ],
@@ -1976,7 +1987,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 40,
+    "addenda_count": 41,
     "appendices_count": 3,
     "attachments_count": 2
   },
