@@ -1,25 +1,25 @@
 {
   "law_id": "83162",
-  "mst": "2100000251472",
+  "mst": "2100000285166",
   "law_name": "국립수목원 안전보건관리규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:83162",
-  "promulgation_no": "149",
-  "promulgation_date": "20241231",
-  "enforcement_date": "20241231",
-  "revision_date": "20241231",
+  "promulgation_no": "170",
+  "promulgation_date": "20260916",
+  "enforcement_date": "20260916",
+  "revision_date": "20260916",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "국립수목원(광릉숲관리센터)",
-    "담당자명": "지권석",
+    "담당자명": "이지연",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "국립수목원 안전보건관리규정",
-    "발령일자": "20241231",
+    "발령일자": "20260916",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "031-540-1022",
     "제개정구분명": "일부개정",
     "소관부처코드": "1400000",
-    "생성일자": "20241231",
+    "생성일자": "20260917",
     "행정규칙ID": "83162",
-    "시행일자": "20241231",
-    "담당부서기관코드": "1400700",
-    "발령번호": "149",
-    "행정규칙일련번호": "2100000251472",
+    "시행일자": "20260916",
+    "담당부서기관코드": "1400837",
+    "발령번호": "170",
+    "행정규칙일련번호": "2100000285166",
     "상위부처명": "산림청"
   },
-  "amendment_text": "⊙국립수목원훈령 제149호\n국립수목원 안전보건관리규정 일부를 다음과 같이 개정한다.\n2024년 12월 31일\n국립수목원장\n국립수목원 안전보건관리규정 일부개정훈령\n국립수목원 안전보건관리규정 일부를 다음과 같이 개정한다.\n[별표 1] 안전보건관리 조직표를 다음과 같이 한다.\n[그림]\n[별표 1] 안전보건관리 조직표(국립수목원 안전보건관리규정)\n안전보건관리 조직표\n\n부칙\n이 규정은 발령한 날부터 시행한다.",
-  "revision_reason": "◇ 개정이유\n2024.12.31.자 조직개편에 따라 변경되는 부서 명칭 변경 등의 사항을 반영하고자 함\n◇ 주요내용\n가. [별표 1] 안전보건관리 조직표를 부서 명칭 변경에 따라 수정",
+  "amendment_text": "⊙국립수목원 훈령 제170호\n「국립수목원 안전보건관리규정」 일부개정령을 다음과 같이 발령한다.\n2026년 9월 16일\n국립수목원장\n국립수목원 안전보건관리규정 일부개정령\n국립수목원 안전보건관리규정 일부를 다음과 같이 개정한다.\n가. 국립수목원의 조직개편에 대한 안전보건관리 조직표[별표1] (제7조)\n나. 국립수목원의 안전관리 주관부서를 광릉숲관리센터로 함(제7조)\n부칙\n이 규정은 발령한 날부터 시행한다.",
+  "revision_reason": "◇ 개정이유\n국립수목원 사업장의 조직개편에 따른 안전보건관리 규정을 개정함.\n◇ 주요내용\n가. 조직개편에 따른 부서명 변경에 대한 사항을 반영함(제7조)\n나. 조직개편에 따른 안전관리 주관부서를 변경함(제7조)",
   "body": {
     "format": "articles",
     "article_count": 63,
@@ -46,7 +46,7 @@
         "article_title": "목적",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제1조(목적) 이 규정은 「산업안전보건법」(이하 \"법\"이라 한다.) 제25조에 따라 국립수목원의 사업장 안전보건에 관한 사항을 규정함으로써 안전하고 쾌적한 근무ㆍ작업환경을 조성하여 근로자의 안전과 보건을 유지ㆍ증진함을 목적으로 한다.",
+        "content": "제1조(목적) 이 규정은 「산업안전보건법」(이하\"법\"이라 한다.) 제25조에 따라 국립수목원의 사업장 안전보건에 관한 사항을 규정함으로써 안전하고 쾌적한 근무ㆍ작업환경을 조성하여 근로자의 안전과 보건을 유지ㆍ증진함을 목적으로 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -914,7 +914,7 @@
         "article_title": "안전보건관리 조직",
         "chapter": "제2장 안전보건관리 조직과 직무",
         "chapter_path": "제2장 안전보건관리 조직과 직무",
-        "content": "제7조(안전보건관리 조직) ① 국립수목원의 안전보건관리 조직표는 [별표 1]과 같다② 국립수목원장은 안전보건에 관한 사항의 입안 및 관리ㆍ통제를 안전관리 주관부서인 \"연구지원과\"로 한다.③ 국립수목원장은 제1항의 조직ㆍ직책에 따른 업무수행에 필요한 책임과 권한을 부여하고 인원ㆍ시설ㆍ장비ㆍ예산 등 필요한 자원을 지원하여야 한다.",
+        "content": "제7조(안전보건관리 조직) ① 국립수목원의 안전보건관리 조직표는 [별표 1]과 같다② 국립수목원장은 안전보건에 관한 사항의 입안 및 관리ㆍ통제를 안전관리 주관부서인 \"광릉숲관리센터\"로 한다.③ 국립수목원장은 제1항의 조직ㆍ직책에 따른 업무수행에 필요한 책임과 권한을 부여하고 인원ㆍ시설ㆍ장비ㆍ예산 등 필요한 자원을 지원하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -934,7 +934,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83162",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000251472&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285166&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원안전보건관리규정#JO0007",
             "target_unit": "BYL0001",
@@ -982,7 +982,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83162",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000251472&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285166&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원안전보건관리규정#JO0009",
             "target_unit": "BYL0003",
@@ -1030,7 +1030,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83162",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000251472&bylNo=0006&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285166&bylNo=0006&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원안전보건관리규정#JO0011",
             "target_unit": "BYL0006",
@@ -1055,7 +1055,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83162",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000251472&bylNo=0006&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285166&bylNo=0006&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원안전보건관리규정#JO0011",
             "target_unit": "BYL0006",
@@ -1300,7 +1300,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83162",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000251472&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285166&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원안전보건관리규정#JO0029",
             "target_unit": "BYL0002",
@@ -1325,7 +1325,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83162",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000251472&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285166&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원안전보건관리규정#JO0029",
             "target_unit": "BYL0003",
@@ -1362,7 +1362,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83162",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000251472&bylNo=0004&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285166&bylNo=0004&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원안전보건관리규정#JO0030",
             "target_unit": "BYL0004",
@@ -1432,7 +1432,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83162",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374757",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376659",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원안전보건관리규정#JO0034",
             "target_unit": "BJ0001",
@@ -1457,7 +1457,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83162",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374763",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376665",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원안전보건관리규정#JO0034",
             "target_unit": "BJ0002",
@@ -1482,7 +1482,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83162",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374769",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376671",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원안전보건관리규정#JO0034",
             "target_unit": "BJ0003",
@@ -1507,7 +1507,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83162",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374775",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376677",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원안전보건관리규정#JO0034",
             "target_unit": "BJ0004",
@@ -1532,7 +1532,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83162",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374781",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376683",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원안전보건관리규정#JO0034",
             "target_unit": "BJ0005",
@@ -1557,7 +1557,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83162",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374787",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376689",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원안전보건관리규정#JO0034",
             "target_unit": "BJ0006",
@@ -1605,7 +1605,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83162",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000251472&bylNo=0005&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285166&bylNo=0005&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원안전보건관리규정#JO0036",
             "target_unit": "BYL0005",
@@ -1630,7 +1630,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83162",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000251472&bylNo=0005&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285166&bylNo=0005&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원안전보건관리규정#JO0036",
             "target_unit": "BYL0005",
@@ -1733,7 +1733,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83162",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000251472&bylNo=0006&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285166&bylNo=0006&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원안전보건관리규정#JO0039",
             "target_unit": "BYL0006",
@@ -2037,10 +2037,10 @@
       "content": "부칙 <제128호, 2022. 7. 1.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:국립수목원안전보건관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000251472",
+      "source_mst": "2100000285166",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20241231"
+      "version_enforcement_date": "20260916"
     },
     {
       "promulgation_date": "20230101",
@@ -2048,10 +2048,10 @@
       "content": "부칙 <제130호, 2023. 1. 1.>이 규정은 2023. 1. 1.부터 시행한다.",
       "provision_id": "admrul:국립수목원안전보건관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000251472",
+      "source_mst": "2100000285166",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20241231"
+      "version_enforcement_date": "20260916"
     },
     {
       "promulgation_date": "20230701",
@@ -2059,10 +2059,10 @@
       "content": "부칙 <제136호, 2023. 7. 1.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:국립수목원안전보건관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000251472",
+      "source_mst": "2100000285166",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20241231"
+      "version_enforcement_date": "20260916"
     },
     {
       "promulgation_date": "20240701",
@@ -2070,10 +2070,10 @@
       "content": "부칙 <제141호, 2024. 7. 1.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:국립수목원안전보건관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000251472",
+      "source_mst": "2100000285166",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20241231"
+      "version_enforcement_date": "20260916"
     },
     {
       "promulgation_date": "20241231",
@@ -2081,10 +2081,21 @@
       "content": "부칙 <제149호, 2024. 12. 31.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:국립수목원안전보건관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000251472",
+      "source_mst": "2100000285166",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20241231"
+      "version_enforcement_date": "20260916"
+    },
+    {
+      "promulgation_date": "20260916",
+      "promulgation_no": "170",
+      "content": "부칙 <제170호, 2026. 9. 16.>이 규정은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:국립수목원안전보건관리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285166",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260916"
     }
   ],
   "appendices": [
@@ -2094,20 +2105,20 @@
       "kind": "별표",
       "title": "안전보건관리 조직표",
       "enforcement_date": "",
-      "content": "[별표 1] 안전보건관리 조직표\n안전보건관리 조직표\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                ┌────────────┐                                            ┃\n┃                                │안전보건관리책임자      │                                            ┃\n┃                                │(안전보건총괄책임자)    │                                            ┃\n┃┌────────────┐    ├────────────┤    ┌─────────────┐          ┃\n┃│산업안전보건위원회      │    │국립수목원장            │    │안전보건지원조직          │          ┃\n┃├────────────┤    └────┬───────┘    ├─────────────┤          ┃\n┃│사용자측 위원(10명)     │              │                    │안전관리자                │          ┃\n┃│근로자측 위원(10명)     ├───────┼──────────┤보건관리자                │          ┃\n┃│                        │              │                    │                          │          ┃\n┃└────────────┘              │                    └─────────────┘          ┃\n┃                                       │                                                          ┃\n┃              ┌─────────┬───┼──────┬──────────┐                        ┃\n┃             │                  │      │            │                    │                        ┃\n┃             │                  │      │            │                    │                        ┃\n┃             │                  │      │            │                    │                        ┃\n┃             │                  │      │            │                    │                        ┃\n┃    ┌────┴───┐┌────┴──┐│┌─────┴────┐┌────┴──────┐          ┃\n┃    │관리감독자      ││관리감독자    │││관리감독자          ││관리감독자            │          ┃\n┃    │                ││              │││                    ││                      │          ┃\n┃    │연구기획운영과장││산림생물다양성연구과장│││산림생물보전연구과장││전시교육연구과장      │  ┃\n┃    └────┬───┘└────┬──┘│└───┬──────┘└────┬──────┘          ┃\n┃              │                  │      │        │                        │                        ┃\n┃    ┌────┴───┐┌────┴──┐│┌───┴──────┐┌────┴──────┐          ┃\n┃    │연구기획실      ││산림생물분류연구실│││종보전연구실        ││수목원정원정책연구실  │      ┃\n┃    │행정지원실      ││산림생물조사연구실│││산림보호지역연구실  ││수목원정원전시교육실  │      ┃\n┃    │시설관리실      ││자생식물인증실│││                    ││고객지원실            │          ┃\n┃    └────┬───┘└────┬──┘│└───┬──────┘└────┬──────┘          ┃\n┃              │                  │      │        │                        │                        ┃\n┃    ┌────┴───┐┌────┴──┐│┌───┴──────┐┌────┴──────┐          ┃\n┃    │위험성평가담당자,││위험성평가담당자,│││위험성평가담당자,   ││위험성평가담당자,     │      ┃\n┃    │근로자          ││근로자        │││근로자              ││근로자                │          ┃\n┃    └────────┘└───────┘│└──────────┘└───────────┘          ┃\n┃                                          │                                                            ┃\n┃                        ┌────────┴───────────┐                                    ┃\n┃                        │                                        │                                    ┃\n┃                ┌───┴────┐                                                                    ┃\n┃                │관리감독자      │  관리감독자        관리감독자                                      ┃\n┃                │                │                                                                    ┃\n┃                │DMZ산림생물자원 │  광릉숲관리센터장      산림생물자원활용센터장                      ┃\n┃                │보전과장        │                                                                    ┃\n┃                └────────┘                                                                    ┃\n┃                                                                                                        ┃\n┃                ┌────────┐                                                                    ┃\n┃                │전시원관리실    │  광릉숲거버넌스협력실      유용식물증식연구실                      ┃\n┃                │자생식물공급담당실│  광릉숲산림재난관리실      식물자원연구실                        ┃\n┃                └───┬────┘                                                                    ┃\n┃                        │                                                                              ┃\n┃                                                                                                        ┃\n┃                  위험성평가담당자,    위험성평가담당자,      위험성평가담당자,                         ┃\n┃                  근로자              근로자            근로자                                          ┃\n┃                                                                                                        ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "content": "[별표 1] 안전보건관리 조직표\n안전보건관리 조직표\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                              ┌───────────────┐                                        ┃\n┃                              │안전보건총괄책임자            │                                        ┃\n┃                              │안전보건관리책임자            │                                        ┃\n┃                              ├───────────────┤    ┌──────────────┐    ┃\n┃                              │국립수목원장                  │    │안전보건 전담조직           │    ┃\n┃                              └────┬──────────┘    ├──────┬───────┤    ┃\n┃                                        │                          │안전관리자  │보건관리자    │    ┃\n┃                                        ├─────────────┤            │              │    ┃\n┃                                        │                          │            │              │    ┃\n┃                                        │                          └──────┴───────┘    ┃\n┃                                        │                                                             ┃\n┃                                     │                                                             ┃\n┃            ┌─────────┬───┼─────────┬───────────┐                  ┃\n┃           │                  │      │                  │                      │                  ┃\n┃           │                  │      │                  │                      │                  ┃\n┃           │                  │      │                  │                      │                  ┃\n┃           │                  │      │                  │                      │                  ┃\n┃┌─────┴───┐┌────┴──┐│┌────────┴────┐┌─────┴──────┐    ┃\n┃│관리감독자        ││관리감독자    │││관리감독자                ││관리감독자              │    ┃\n┃│                  ││              │││                          ││                        │    ┃\n┃│연구기획운영과장  ││산림생물다양성│││전시교육연구과장          ││DMZ산림생물자원         │    ┃\n┃│                  ││연구과장      │││                          ││연구과장                │    ┃\n┃└─────┬───┘└────┬──┘│└──────┬──────┘└─────┬──────┘    ┃\n┃            │                  │      │              │                          │                  ┃\n┃┌─────┴───┐┌────┴──┐│┌──────┴──────┐┌─────┴──────┐    ┃\n┃│연구기획실        ││산림생물분류연구실│││전시교육실                ││자생식물공급운영실      │┃\n┃│행정지원실        ││산림생물조사연구실│││수목원정원정책            ││DMZ식물자원             │┃\n┃│시설관리실        ││자생식물인증실│││연구실                    ││연구실                  │    ┃\n┃│                  ││              │││                          ││                        │    ┃\n┃└─────┬───┘└────┬──┘│└──────┬──────┘└─────┬──────┘    ┃\n┃            │                  │      │              │                          │                  ┃\n┃┌─────┴───┐┌────┴──┐│┌──────┴──────┐┌─────┴──────┐    ┃\n┃│위험성평가담당자, ││위험성평가담당자,│││위험성평가담당자,         ││위험성평가담당자,       │ ┃\n┃│근로자            ││근로자        │││근로자                    ││근로자                  │    ┃\n┃└─────────┘└───────┘│└─────────────┘└────────────┘    ┃\n┃                                        │                                                              ┃\n┃                      ┌────────┴──────────────┐                                ┃\n┃                      │                                              │                                ┃\n┃              ┌───┴────┐                                                                      ┃\n┃              │관리감독자      │  관리감독자              관리감독자                                  ┃\n┃              │                │                                                                      ┃\n┃              │산림생물보전    │  산림생물자원            광릉숲관리센터장                            ┃\n┃              │연구과장        │  활용센터장                                                          ┃\n┃              └────────┘───┐                                                              ┃\n┃                                        │                                                              ┃\n┃              ┌────────┐      │                                                              ┃\n┃              │산림보호지역연구실│      │                  산림재난관리실                            ┃\n┃              │종보전연구실    │      │                  광릉숲거버넌스                              ┃\n┃              │                │      │                  협력실                                      ┃\n┃              └───┬────┘      │                                                              ┃\n┃                      │                │                                                              ┃\n┃                                  ───┘                                                              ┃\n┃                위험성평가담당자,    위험성평가담당자,       위험성평가담당자,                          ┃\n┃                근로자              근로자                  근로자                                      ┃\n┃                                                                                                        ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000251472&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374719",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285166&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376703",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374715",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376699",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374719",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376703",
           "name": "",
           "file_store_url": ""
         }
@@ -2127,18 +2138,18 @@
       "enforcement_date": "",
       "content": "[별표 2] 방호조치대상 기계ㆍ기구설비\n방호조치대상 기계ㆍ기구설비\n┌─────────────────┬────────────────────────┐\n│기계?기구명                      │방호조치 내용                                   │\n├─────────────────┼────────────────────────┤\n│지게차                            │후진경보기?경광등, 후방감지기, 헤드가드, 백레스│\n│                                  │트, 전조등, 후미등, 안전벨트                    │\n├─────────────────┼────────────────────────┤\n│예초기                            │날 접촉예방장치                                 │\n├─────────────────┼────────────────────────┤\n│원심기                            │덮개, 방호울, 과부하 안전장치                   │\n├─────────────────┼────────────────────────┤\n│공기압축기                        │압력방출장치, 압력조절스위치                    │\n├─────────────────┼────────────────────────┤\n│금속절단기                        │날 접촉예방장치                                 │\n├─────────────────┼────────────────────────┤\n│포장기계(진공포장기, 래핑기 한정) │구동부방호 연동장치                             │\n└─────────────────┴────────────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000251472&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374725",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285166&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376709",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374721",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376705",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374725",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376709",
           "name": "",
           "file_store_url": ""
         }
@@ -2158,18 +2169,18 @@
       "enforcement_date": "",
       "content": "[별표 3] 안전인증 및 자율안전확인 신고 대상품목\n안전인증 및 자율안전확인 신고 대상품목\n1. 안전인증 대상 품목\n┌─────┬───────────────────────────────────┐\n│구 분     │대 상                                                                 │\n├─────┼───────────────────────────────────┤\n│기계?기구│프레스                            롤러기                              │\n│          │전단기 및 절곡기                  사출성형기                          │\n│          │크레인                            고소작업대                          │\n│          │리프트                            곤돌라                              │\n│          │압력용기                                                              │\n├─────┼───────────────────────────────────┤\n│방호장치  │프레스 및 전단기 방호장치         6. 절연용 방호구 및 활선작업용 기구 │\n│          │양중기용 과부하 방지장치          7. 방폭구조 전기기계?기구 및 부품  │\n│          │보일러 압력방출용 안전밸브        8. 가설기자재                       │\n│          │압력용기 압력방출용 안전밸브      9. 산업용 로봇 방호장치             │\n│          │압력용기 압력방출용 파열판                                            │\n├─────┼───────────────────────────────────┤\n│보호구    │안전모(추락 및 감전 위험방지용)   전동식 호흡보호구                   │\n│          │안전화                            보호복                              │\n│          │안전장갑                          안전대                              │\n│          │방진마스크                        보안경(차광 및 비산물 위험방지용)   │\n│          │방독마스크                        용접용 보안면                       │\n│          │송기마스크                        방음용 귀마개 또는 귀덮개           │\n└─────┴───────────────────────────────────┘\n2. 자율안전확인 신고 대상 품목\n┌─────┬──────────────────────────────────────┐\n│구 분     │대 상                                                                       │\n├─────┼──────────────────────────────────────┤\n│기계?기구│연삭기 또는 연마기(휴대용 제외)       자동차정비용 리프트                   │\n│          │산업용 로봇                           공작기계(선반, 드릴기, 평삭?형삭기,  │\n│          │혼합기                                밀링만 해당)                          │\n│          │파쇄기 또는 분쇄기                    고정용 목재가공용 기계(둥근톱, 대패,  │\n│          │식품가공용 기계(파쇄?절단?혼합?제  루타기, 띠톱, 모떼기 기계만 해당)     │\n│          │면기만 해당)                          인쇄기                                │\n│          │컨베이어                                                                    │\n├─────┼──────────────────────────────────────┤\n│방호장치  │아세틸렌 용접장치용 또는 가스         목재 가공용 동근톱 반발 예방장치와    │\n│          │집합 용접장치용 안전기                날 접촉 예방장치                      │\n│          │교류 아크용접기용 자동전격방지기      동력식 수동대패용 칼날 접촉 방지장치  │\n│          │롤러기 급정지장치                     가설기자재(안전인증 대상 제외)        │\n│          │연삭기 덮개                                                                 │\n├─────┼──────────────────────────────────────┤\n│보호구    │1. 안전모(안전인증 대상 제외)         3. 보안면(안전인증 대상 제외)         │\n│          │2. 보안경(안전인증 대상 제외)                                               │\n└─────┴──────────────────────────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000251472&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374731",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285166&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376715",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374727",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376711",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374731",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376715",
           "name": "",
           "file_store_url": ""
         }
@@ -2189,18 +2200,18 @@
       "enforcement_date": "",
       "content": "[별표 4] 안전검사 대상 및 검사주기\n안전검사 대상 및 검사주기\n┌──────┬──────┬───────────┐\n│검사대상    │안전검사주기│자율검사프로그램 주기 │\n├──────┼──────┼───────────┤\n│프레스      │2년 / 1회   │1년 / 1회             │\n├──────┼──────┼───────────┤\n│전단기      │2년 / 1회   │1년 / 1회             │\n├──────┼──────┼───────────┤\n│크레인      │2년 / 1회   │6개월 / 1회           │\n├──────┼──────┼───────────┤\n│리프트      │2년 / 1회   │1년 / 1회             │\n├──────┼──────┼───────────┤\n│곤돌라      │2년 / 1회   │1년 / 1회             │\n├──────┼──────┼───────────┤\n│로울러기    │2년 / 1회   │1년 / 1회             │\n├──────┼──────┼───────────┤\n│원심기      │2년 / 1회   │1년 / 1회             │\n├──────┼──────┼───────────┤\n│사출성형기  │2년 / 1회   │1년 / 1회             │\n├──────┼──────┼───────────┤\n│압력용기    │2년 / 1회   │1년 / 1회             │\n├──────┼──────┼───────────┤\n│국소배기장치│2년 / 1회   │1년 / 1회             │\n├──────┼──────┼───────────┤\n│고소작업대  │2년 / 1회   │1년 / 1회             │\n├──────┼──────┼───────────┤\n│컨베이어    │2년 / 1회   │1년 / 1회             │\n├──────┼──────┼───────────┤\n│산업용로봇  │2년 / 1회   │1년 / 1회             │\n└──────┴──────┴───────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000251472&bylNo=0004&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374737",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285166&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376721",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374733",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376717",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374737",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376721",
           "name": "",
           "file_store_url": ""
         }
@@ -2220,18 +2231,18 @@
       "enforcement_date": "",
       "content": "[별표 5] 사전조사 및 작업계획서 내용\n사전조사 및 작업계획서 내용\n┌────────────┬─────────────────┬───────────────────────────┐\n│작업명                  │사전조사 내용                     │작업계획서 내용                                       │\n├────────────┼─────────────────┼───────────────────────────┤\n│1. 타워크레인을 설치    │-                                 │가. 타워크레인의 종류 및 형식                         │\n│ㆍ조립ㆍ해체하는        │                                  │나. 설치ㆍ조립 및 해체순서                            │\n│작업                    │                                  │다. 작업도구ㆍ장비ㆍ가설설비 및 방호설비              │\n│                        │                                  │라. 작업인원의 구성 및 작업근로자의 역할 범위         │\n│                        │                                  │마. 타워크레인 지지 방법                              │\n├────────────┼─────────────────┼───────────────────────────┤\n│2. 차량계 하역운반      │-                                 │가. 해당 작업에 따른 추락ㆍ낙하ㆍ전도ㆍ협착 및 붕괴   │\n│   기계등을 사용하는    │                                  │등의 위험 예방대책                                    │\n│작업                    │                                  │나. 차량계 하역운반기계등의 운행경로 및 작업방법      │\n├────────────┼─────────────────┼───────────────────────────┤\n│3. 차량계 건설기계를    │해당 기계의 굴러 떨어짐, 지반의   │가. 사용하는 차량계 건설기계의 종류 및 성능           │\n│사용하는 작업           │붕괴 등으로 인한 근로자의 위험    │나. 차량계 건설기계의 운행경로                        │\n│                        │을 방지하기 위한 해당 작업장소    │다. 차량계 건설기계에 의한 작업방법                   │\n│                        │의 지형 및 지반상태               │                                                      │\n├────────────┼─────────────────┼───────────────────────────┤\n│4. 화학설비와 그 부속   │-                                 │가. 밸브ㆍ콕 등의 조작(해당 화학설비에 원재료를 공    │\n│설비 사용작업           │                                  │급하거나 해당 화학설비에서 제품 등을 꺼내는 경        │\n│                        │                                  │우만 해당한다)                                        │\n│                        │                                  │나. 냉각장치ㆍ가열장치ㆍ교반장치 및 압축장치의 조작   │\n│                        │                                  │다. 계측장치 및 제어장치의 감시 및 조정               │\n│                        │                                  │라. 안전밸브, 긴급차단장치, 그 밖의 방호장치 및 자동  │\n│                        │                                  │경보장치의 조정                                       │\n│                        │                                  │마. 덮개판ㆍ플랜지ㆍ밸브ㆍ콕 등의 접합부에서 위험물   │\n│                        │                                  │등의 누출 여부에 대한 점검                            │\n│                        │                                  │바. 시료의 채취                                       │\n│                        │                                  │사. 화학설비에서는 그 운전이 일시적 또는 부분적으로   │\n│                        │                                  │중단된 경우의 작업방법 또는 운전 재개 시의 작         │\n│                        │                                  │업방법                                                │\n│                        │                                  │아. 이상 상태가 발생한 경우의 응급조치                │\n│                        │                                  │자. 위험물 누출 시의 조치                             │\n│                        │                                  │차. 그 밖에 폭발ㆍ화재를 방지하기 위하여 필요한 조치  │\n├────────────┼─────────────────┼───────────────────────────┤\n│5. 감전위험이 있는      │-                                 │가. 전기작업의 목적 및 내용                           │\n│   전기작업             │                                  │나. 전기작업 근로자의 자격 및 적정 인원               │\n│                        │                                  │다. 작업 범위, 작업책임자 임명, 전격ㆍ아크 섬광       │\n│                        │                                  │ㆍ아크 폭발 등 전기 위험 요인 파악, 접근 한           │\n│                        │                                  │계거리, 활선접근 경보장치 휴대 등 작업시작            │\n│                        │                                  │전에 필요한 사항                                      │\n│                        │                                  │라. 정전전로의 전로 차단에 관한 작업계획 및 전원      │\n│                        │                                  │재투입 절차 등 작업 상황에 필요한 안전 작업 요령      │\n│                        │                                  │마. 절연용 보호구 및 방호구, 활선작업용 기구ㆍ장치    │\n│                        │                                  │등의 준비ㆍ점검ㆍ착용ㆍ사용 등에 관한 사항            │\n│                        │                                  │바. 점검ㆍ시운전을 위한 일시 운전, 작업 중단 등       │\n│                        │                                  │에 관한 사항                                          │\n│                        │                                  │사. 교대 근무 시 근무 인계에 관한 사항                │\n│                        │                                  │아. 전기작업장소에 대한 관계 근로자가 아닌 사람       │\n│                        │                                  │의 출입금지에 관한 사항                               │\n│                        │                                  │자. 전기안전작업계획서를 해당 근로자에게 교육할       │\n│                        │                                  │수 있는 방법과 작성된 전기안전작업계획서의            │\n│                        │                                  │평가ㆍ관리계획                                        │\n│                        │                                  │차. 전기 도면, 기기 세부 사항 등 작업과 관련되는 자료 │\n├────────────┼─────────────────┼───────────────────────────┤\n│6. 굴착작업             │가. 형상ㆍ지질 및 지층의 상태     │가. 굴착방법 및 순서, 토사 반출 방법                  │\n│                        │나. 균열ㆍ함수ㆍ용수 및 동결의    │나. 필요한 인원 및 장비 사용계획                      │\n│                        │유무 또는 상태                    │다. 매설물 등에 대한 이설ㆍ보호대책                   │\n│                        │다. 매설물 등의 유무 또는 상태    │라. 사업장 내 연락방법 및 신호방법                    │\n│                        │라. 지반의 지하수위 상태          │마. 흙막이 지보공 설치방법 및 계측계획                │\n│                        │                                  │바. 작업지휘자의 배치계획                             │\n│                        │                                  │사. 그 밖에 안전ㆍ보건에 관련된 사항                  │\n├────────────┼─────────────────┼───────────────────────────┤\n│7. 터널굴착작업         │보링 등 적절한 방법으로 낙반ㆍ    │가. 굴착의 방법                                       │\n│                        │출수 및 가스폭발 등으로 인한 근   │나. 터널지보공 및 복공의 시공방법과 용수의 처리방법   │\n│                        │로자의 위험을 방지하기 위하여     │다. 환기 또는 조명시설을 설치할 때에는 그 방법        │\n│                        │미리 지형ㆍ지질 및 지층상태를 조사│                                                      │\n├────────────┼─────────────────┼───────────────────────────┤\n│8. 교량작업             │-                                 │가. 작업 방법 및 순서                                 │\n│                        │                                  │나. 부재의 낙하ㆍ전도 또는 붕괴를 방지하기 위한 방법  │\n│                        │                                  │다. 작업에 종사하는 근로자의 추락 위험을 방지하기     │\n│                        │                                  │위한 안전조치 방법                                    │\n│                        │                                  │라. 공사에 사용되는 가설 철구조물 등의 설치ㆍ사용     │\n│                        │                                  │ㆍ해체 시 안전성 검토 방법                            │\n│                        │                                  │마. 사용하는 기계 등의 종류 및 성능, 작업방법         │\n│                        │                                  │바. 작업지휘자 배치계획                               │\n│                        │                                  │사. 그 밖에 안전ㆍ보건에 관련된 사항                  │\n├────────────┼─────────────────┼───────────────────────────┤\n│9. 채석작업             │지반의 붕괴ㆍ굴착기계의 굴러      │가. 노천굴착과 갱내굴착의 구별 및 채석방법            │\n│                        │떨어짐 등에 의한 근로자에게 발    │나. 굴착면의 높이와 기울기                            │\n│                        │생할 위험을 방지하기 위한 해당    │다. 굴착면 소단의 위치와 넓이                         │\n│                        │작업장의 지형ㆍ지질 및 지층의     │라. 갱내에서의 낙반 및 붕괴방지 방법                  │\n│                        │상태                              │마. 발파방법                                          │\n│                        │                                  │바. 암석의 분할방법                                   │\n│                        │                                  │사. 암석의 가공장소                                   │\n│                        │                                  │아. 사용하는 굴착기계ㆍ분할기계ㆍ적재기계 또는 운     │\n│                        │                                  │반기계(이하 \"굴착기계등\"이라 한다)의 종류 및          │\n│                        │                                  │성능                                                  │\n│                        │                                  │자. 토석 또는 암석의 적재 및 운반방법과 운반경로      │\n│                        │                                  │차. 표토 또는 용수의 처리방법                         │\n├────────────┼─────────────────┼───────────────────────────┤\n│10. 건물 등의 해체      │해체건물 등의 구조, 주변 상황 등  │가. 해체의 방법 및 해체 순서도면                      │\n│    작업                │                                  │나.가설설비ㆍ방호설비ㆍ환기설비 및 살수ㆍ방화설비     │\n│                        │                                  │등의 방법                                             │\n│                        │                                  │다. 사업장 내 연락방법                                │\n│                        │                                  │라. 해체물의 처분계획                                 │\n│                        │                                  │마. 해체작업용 기계ㆍ기구 등의 작업계획서             │\n│                        │                                  │바. 해체작업용 화약류 등의 사용계획서                 │\n│                        │                                  │사. 그 밖에 안전ㆍ보건에 관련된 사항                  │\n├────────────┼─────────────────┼───────────────────────────┤\n│11. 중량물의 취급       │-                                 │가. 추락위험을 예방할 수 있는 안전대책                │\n│    작업                │                                  │나.낙하위험을 예방할 수 있는 안전대책                 │\n│                        │                                  │다. 전도위험을 예방할 수 있는 안전대책                │\n│                        │                                  │라. 협착위험을 예방할 수 있는 안전대책                │\n│                        │                                  │마. 붕괴위험을 예방할 수 있는 안전대책                │\n├────────────┼─────────────────┼───────────────────────────┤\n│12. 궤도와 그 밖의 관련 │-                                 │가. 적절한 작업 인원                                  │\n│설비의 보수ㆍ점검       │                                  │나. 작업량                                            │\n│작업                    │                                  │다. 작업순서                                          │\n│13. 입환작업            │                                  │라. 작업방법 및 위험요인에 대한 안전조치방법 등       │\n└────────────┴─────────────────┴───────────────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000251472&bylNo=0005&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374745",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285166&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376729",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374739",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376723",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374745",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376729",
           "name": "",
           "file_store_url": ""
         }
@@ -2251,18 +2262,18 @@
       "enforcement_date": "",
       "content": "[별표 6] 작업환경측정대상 작업장\n작업환경측정대상 작업장\n┌─────────────────────┬───────┬────────────┐\n│측정대상                                  │측정주기      │관련법규                │\n│                                          │              │(산업보건기준에관한규칙)│\n├─────────────────────┼───────┼────────────┤\n│ 강렬한 소음이 발생되는 옥내작업장        │6월에 1회 이상│제6조, 제31조           │\n├─────────────────────┼───────┼────────────┤\n│ 고열?한냉 또는 다습한 옥내작업장        │6월에 1회 이상│제8조, 제31조           │\n├─────────────────────┼───────┼────────────┤\n│ 분진이 현저하게 발산되는 옥내작업장      │6월에 1회 이상│제33조 제2호 제3호,     │\n│ (갱내를 포함한다.)                       │              │제50조                  │\n├─────────────────────┼───────┼────────────┤\n│ 연업무를 행하는 옥내작업장               │6월에 1회 이상│제95조 제1항            │\n├─────────────────────┼───────┼────────────┤\n│ 4알킬연업무를 행하는 옥내작업장          │6월에 1회 이상│제116조 제1항           │\n├─────────────────────┼───────┼────────────┤\n│ 유기용제업무를 행하는 옥내작업장         │6월에 1회 이상│제147조 제1항           │\n├─────────────────────┼───────┼────────────┤\n│ 특정화학물질을 취급하는 옥내작업장       │6월에 1회 이상│제186조 제1항           │\n├─────────────────────┼───────┼────────────┤\n│ 산소 결핍 위험이 있는 옥내작업장         │6월에 1회 이상│제212조 제1항           │\n├─────────────────────┼───────┼────────────┤\n│ 기타 고용노동부장관이 정하는 유해화학 물 │-             │-                       │\n│질을 취급 또는 제조하는 옥내작업장        │              │                        │\n└─────────────────────┴───────┴────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000251472&bylNo=0006&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374751",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285166&bylNo=0006&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376735",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374747",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376731",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374751",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376735",
           "name": "",
           "file_store_url": ""
         }
@@ -2280,20 +2291,20 @@
       "kind": "별지",
       "title": "화기작업 허가서",
       "enforcement_date": "",
-      "content": "[별지 제1호 서식] 화기작업 허가서\n\n화기작업 허가서\n────────┬────────────────────────────────────\n작 업 자      │□ 국립수목원                   □ 수급업체\n────────┼────────────────────────────────────\n작업구분      │□ 용접  □ 용단  □ 땜질  □ 기타(                      )\n────────┼────────────────────────────────────\n작업기간      │년    월     일(   요일),      시  부터\n│\n│년    월     일(   요일),      시  까지\n────────┼────────────────────────────────────\n작업장소      │\n────────┼────────────────────────────────────\n작업개요      │\n(필요시       │\n도면첨부)     │\n────────┼────────────────────────────────────\n작업자 대표   │\n/ 비상연락처  │\n────────┼────────────────────────────────────\n안전조치      │? 작업 전 안전조치기 필요한 사항에 모두 [V] 표시\n요구사항      ├─────────────────┬──────────────────\n│?? 화재예방조치                 │?? 안전교육\n├─────────────────┼──────────────────\n│□ 가연물 이동(11m이상)및 보호조  │□ 화재안전교육(안전수칙)\n│치                                │□ 비상 시 행동요령\n│□ 소화설비(소화, 경보)위치 확인  │□ 소방시설 사용 교육·훈련\n│□ 용접·용단 장비/보호구 점검    │\n├─────────────────┼──────────────────\n│?? 화재감시인 입회 및 감독      │?? 기타\n├─────────────────┼──────────────────\n│□ 화재감시인 지정 및 입회        │□ 작업구역설정(출입통제)\n│□ 개인보호장구 착용              │□ 작업구역 통풍 및 환기\n│□ 소화기 및 비상통신장비 비치    │□ 작업 사전공지(게시, 통보, 방송)\n────────┼─────────────────┴──────────────────\n입회자        │□ 입회자 필요(위험 작업 시)     □ 입회자 불필요\n────────┼────────────────────────────────────\n신청인        │소속(업체명)                     성명                (서명)\n────────┼────────────────────────────────────\n안전조치확인  │(입회자) 부서                    성명                (서명)\n(국립수목원)  │\n────────┼────────────────────────────────────\n승인자        │         년     월      일            ?확인자:            (서명)\n(부서장)      │\n────────┴────────────────────────────────────",
+      "content": "[별지 제1호 서식] 화기작업 허가서\n\n화기작업 허가서\n──────────┬────────────────────────────────────\n작 업 자          │□ 국립수목원                   □ 수급업체\n──────────┼────────────────────────────────────\n작업구분          │□ 용접  □ 용단  □ 땜질  □ 기타(                      )\n──────────┼────────────────────────────────────\n작업기간          │년    월     일(   요일),      시  부터\n│\n│년    월     일(   요일),      시  까지\n──────────┼────────────────────────────────────\n작업장소          │\n──────────┼────────────────────────────────────\n작업개요          │\n(필요시 도면첨부) │\n──────────┼────────────────────────────────────\n작업자 대표       │\n/ 비상연락처      │\n──────────┼────────────────────────────────────\n안전조치          │? 작업 전 안전조치기 필요한 사항에 모두 [V] 표시\n요구사항          ├─────────────────┬──────────────────\n│?? 화재예방조치                 │?? 안전교육\n├─────────────────┼──────────────────\n│□ 가연물 이동(11m이상)및 보호조치│□ 화재안전교육(안전수칙)\n│□ 소화설비(소화, 경보)위치 확인  │□ 비상 시 행동요령\n│□ 용접·용단 장비/보호구 점검    │□ 소방시설 사용 교육·훈련\n├─────────────────┼──────────────────\n│?? 화재감시인 입회 및 감독      │?? 기타\n├─────────────────┼──────────────────\n│□ 화재감시인 지정 및 입회        │□ 작업구역설정(출입통제)\n│□ 개인보호장구 착용              │□ 작업구역 통풍 및 환기\n│□ 소화기 및 비상통신장비 비치    │□ 작업 사전공지(게시, 통보, 방송)\n──────────┼─────────────────┴──────────────────\n입회자            │□ 입회자 필요(위험 작업 시)     □ 입회자 불필요\n──────────┼────────────────────────────────────\n신청인            │소속(업체명)                     성명                (서명)\n──────────┼────────────────────────────────────\n안전조치확인      │(입회자) 부서                    성명                (서명)\n(국립수목원)      │\n──────────┼────────────────────────────────────\n승인자            │         년     월      일            ?확인자:            (서명)\n(부서장)          │\n──────────┴────────────────────────────────────",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374757",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376659",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374753",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376655",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374757",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376659",
           "name": "",
           "file_store_url": ""
         }
@@ -2311,20 +2322,20 @@
       "kind": "별지",
       "title": "밀폐공간 출입작업 허가서",
       "enforcement_date": "",
-      "content": "[별지 제2호 서식] 밀폐공간 출입작업 허가서\n\n밀폐공간 출입작업 허가서\n──────────┬─────────────────────────────────────\n작 업 자          │□ 국립수목원                  □ 수급업체\n──────────┼─────────────────────────────────────\n작업구분          │□ 맨홀  □ 탱크  □ 기타(                      )\n──────────┼─────────────────────────────────────\n작업기간          │년    월     일(   요일),      시  부터\n│\n│년    월     일(   요일),      시  까지\n──────────┼─────────────────────────────────────\n작업장소          │\n──────────┼─────────────────────────────────────\n작업개요          │\n(필요시 도면첨부) │\n──────────┼─────────────────────────────────────\n작업자 대표       │\n/ 비상연락처      │\n──────────┼─────────────────────────────────────\n안전조치          │? 작업 전 안전조치가 필요한 사항에 모두 [V] 표시\n요구사항          ├──────────────────┬──────────────────\n│□ 밸브차단 및 차단표식부착         │ □ 정전/잠금/표지부착\n│ □ 가스농도 측정                   │ □ 환기장비\n│ □ 맹판설치 및 표지부착            │ □ 조명장비\n│ □ 압력방출                        │ □ 소 화 기\n│ □ 용기세착 후 공기/물 치환 및 환기│ □ 안전장구(구명선 등)\n│ □ 산소농도 측정                   │ □ 안전교육\n│ □ 감시인 배치                     │\n├──────────────────┴──────────────────\n│가스농도 측정결과 확인\n│┌────┬─────────┬─────┬─────┬──┬────┐\n││구분    │O2                │H2S       │CO        │H?C│CO2     │\n│├────┼─────────┼─────┼─────┼──┼────┤\n││측정결과│                  │          │          │    │        │\n│├────┼─────────┼─────┼─────┼──┼────┤\n││기준값  │18%이상~23.5%미만 │10ppm미만 │30ppm미만 │0%  │1.5%미만│\n│└────┴─────────┴─────┴─────┴──┴────┘\n──────────┼─────────────────────────────────────\n입회자            │□ 입회자 필요(위험 작업 시)     □ 입회자 불필요\n──────────┼─────────────────────────────────────\n신청인            │소속(업체명)                     성명                (서명)\n──────────┼─────────────────────────────────────\n안전조치확        │(입회자) 부서                    성명                (서명)\n인                │\n(국립수목원)      │\n──────────┼─────────────────────────────────────\n승인자            │         년     월      일              ?확인자:            (서명)\n(부서장)          │\n──────────┴─────────────────────────────────────",
+      "content": "[별지 제2호 서식] 밀폐공간 출입작업 허가서\n\n밀폐공간 출입작업 허가서\n──────────┬─────────────────────────────────────\n작 업 자          │□ 국립수목원                  □ 수급업체\n──────────┼─────────────────────────────────────\n작업구분          │□ 맨홀  □ 탱크  □ 기타(                      )\n──────────┼─────────────────────────────────────\n작업기간          │년    월     일(   요일),      시  부터\n│\n│년    월     일(   요일),      시  까지\n──────────┼─────────────────────────────────────\n작업장소          │\n──────────┼─────────────────────────────────────\n작업개요          │\n(필요시 도면첨부) │\n──────────┼─────────────────────────────────────\n작업자 대표       │\n/ 비상연락처      │\n──────────┼─────────────────────────────────────\n안전조치          │? 작업 전 안전조치가 필요한 사항에 모두 [V] 표시\n요구사항          ├──────────────────┬──────────────────\n│□ 밸브차단 및 차단표식부착         │ □ 정전/잠금/표지부착\n│ □ 가스농도 측정                   │ □ 환기장비\n│ □ 맹판설치 및 표지부착            │ □ 조명장비\n│ □ 압력방출                        │ □ 소 화 기\n│ □ 용기세착 후 공기/물 치환 및 환기│ □ 안전장구(구명선 등)\n│ □ 산소농도 측정                   │ □ 안전교육\n│ □ 감시인 배치                     │\n├──────────────────┴──────────────────\n│가스농도 측정결과 확인\n│┌────┬─────────┬─────┬─────┬──┬────┐\n││구분    │O2                │H2S       │CO        │H?C│CO2     │\n│├────┼─────────┼─────┼─────┼──┼────┤\n││측정결과│                  │          │          │    │        │\n│├────┼─────────┼─────┼─────┼──┼────┤\n││기준값  │18%이상~23.5%미만 │10ppm미만 │30ppm미만 │0%  │1.5%미만│\n│└────┴─────────┴─────┴─────┴──┴────┘\n──────────┼─────────────────────────────────────\n입회자            │□ 입회자 필요(위험 작업 시)     □ 입회자 불필요\n──────────┼─────────────────────────────────────\n신청인            │소속(업체명)                     성명                (서명)\n──────────┼─────────────────────────────────────\n안전조치확인      │(입회자) 부서                    성명                (서명)\n(국립수목원)      │\n──────────┼─────────────────────────────────────\n승인자            │         년     월      일              ?확인자:            (서명)\n(부서장)          │\n──────────┴─────────────────────────────────────",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374763",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376665",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374759",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376661",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374763",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376665",
           "name": "",
           "file_store_url": ""
         }
@@ -2345,17 +2356,17 @@
       "content": "[별지 제3호 서식] 정전작업 허가서\n\n정전작업 허가서\n──────────┬───────────────────────────────\n작 업 자          │□ 국립수목원                 □ 수급업체\n──────────┼───────────────────────────────\n작업구분          │□ 맨홀  □ 탱크  □ 기타(                      )\n──────────┼───────────────────────────────\n작업기간          │년    월     일(   요일),      시  부터\n│\n│년    월     일(   요일),      시  까지\n──────────┼───────────────────────────────\n작업장소          │\n──────────┼───────────────────────────────\n작업개요          │\n(필요시 도면첨부) │\n──────────┼───────────────────────────────\n작업자 대표       │\n/ 비상연락처      │\n──────────┼───────────────────────────────\n안전조치          │? 작업 전 안전조치가 필요한 사항에 모두 [V] 표시\n요구사항          ├───────────────────────────────\n│□ 주 차단 스위치 내림\n│ □ 제어차단기 내림\n│ □ 잠금장치\n│ □ 시험전원 차단\n│ □ 현장스위치 내림\n│ □ 차단표지판 부착\n──────────┼───────────────────────────────\n입회자            │□ 입회자 필요(위험 작업 시)     □ 입회자 불필요\n──────────┼───────────────────────────────\n신청인            │소속(업체명)                     성명                (서명)\n──────────┼───────────────────────────────\n안전조치확인      │(입회자) 부서                    성명                (서명)\n(국립수목원)      │\n──────────┼───────────────────────────────\n승인자            │         년     월      일  ?확인자:            (서명)\n(부서장)          │\n──────────┴───────────────────────────────",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374769",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376671",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374765",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376667",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374769",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376671",
           "name": "",
           "file_store_url": ""
         }
@@ -2373,20 +2384,20 @@
       "kind": "별지",
       "title": "굴착작업 허가서",
       "enforcement_date": "",
-      "content": "[별지 제4호 서식] 굴착작업 허가서\n\n굴착작업 허가서\n──────────┬───────────────────────────────\n작 업 자          │□ 국립수목원                  □ 수급업체\n──────────┼───────────────────────────────\n작업구분          │□ 토목  □ 기계배관  □ 전기배선  □ 기타(             )\n──────────┼───────────────────────────────\n작업기간          │년    월     일(   요일),      시  부터\n│\n│년    월     일(   요일),      시  까지\n──────────┼───────────────────────────────\n작업장소          │\n──────────┼───────────────────────────────\n작업개요          │\n(필요시 도면첨부) │\n──────────┼───────────────────────────────\n작업자 대표       │\n/ 비상연락처      │\n──────────┼───────────────────────────────\n안전조치          │? 작업 전 안전조치가 필요한 사항에 모두 [V] 표시\n요구사항          ├───────────────────────────────\n│□ 기계배관 관련 확인사항 : 지하배관 유무\n│ □ 소방관련 확인사항 : 소방배관, 배출구 유무\n│ □ 전기관련 확인사항 : 전기동력선 유무\n│ □ 계장관련 확인사항 : 제어용 케이블 유무\n│ □ 기타관련 확인사항 : 전화선?접지선 유무\n│ ※ 작업 전 도면 등 반드시 확인\n──────────┼───────────────────────────────\n입회자            │□ 입회자 필요(위험 작업 시)     □ 입회자 불필요\n──────────┼───────────────────────────────\n신청인            │소속(업체명)                     성명                (서명)\n──────────┼───────────────────────────────\n안전조치확        │(입회자) 부서                    성명                (서명)\n인                │\n(국립수목원 )     │\n──────────┼───────────────────────────────\n승인자            │         년     월      일  ?확인자:            (서명)\n(부서장)          │\n──────────┴───────────────────────────────",
+      "content": "[별지 제4호 서식] 굴착작업 허가서\n\n굴착작업 허가서\n──────────┬───────────────────────────────\n작 업 자          │□ 국립수목원                  □ 수급업체\n──────────┼───────────────────────────────\n작업구분          │□ 토목  □ 기계배관  □ 전기배선  □ 기타(             )\n──────────┼───────────────────────────────\n작업기간          │년    월     일(   요일),      시  부터\n│\n│년    월     일(   요일),      시  까지\n──────────┼───────────────────────────────\n작업장소          │\n──────────┼───────────────────────────────\n작업개요          │\n(필요시 도면첨부) │\n──────────┼───────────────────────────────\n작업자 대표       │\n/ 비상연락처      │\n──────────┼───────────────────────────────\n안전조치          │? 작업 전 안전조치가 필요한 사항에 모두 [V] 표시\n요구사항          ├───────────────────────────────\n│□ 기계배관 관련 확인사항 : 지하배관 유무\n│ □ 소방관련 확인사항 : 소방배관, 배출구 유무\n│ □ 전기관련 확인사항 : 전기동력선 유무\n│ □ 계장관련 확인사항 : 제어용 케이블 유무\n│ □ 기타관련 확인사항 : 전화선?접지선 유무\n│ ※ 작업 전 도면 등 반드시 확인\n──────────┼───────────────────────────────\n입회자            │□ 입회자 필요(위험 작업 시)     □ 입회자 불필요\n──────────┼───────────────────────────────\n신청인            │소속(업체명)                     성명                (서명)\n──────────┼───────────────────────────────\n안전조치확인      │(입회자) 부서                    성명                (서명)\n(국립수목원 )     │\n──────────┼───────────────────────────────\n승인자            │         년     월      일  ?확인자:            (서명)\n(부서장)          │\n──────────┴───────────────────────────────",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374775",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376677",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374771",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376673",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374775",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376677",
           "name": "",
           "file_store_url": ""
         }
@@ -2404,20 +2415,20 @@
       "kind": "별지",
       "title": "고소작업 허가서",
       "enforcement_date": "",
-      "content": "[별지 제5호 서식] 고소작업 허가서\n\n고소작업 허가서\n──────────┬───────────────────────────────\n작 업 자          │□ 국립수목원              □ 수급업체\n──────────┼───────────────────────────────\n작업구분          │□ 차량 탑재형  □ 전동형  □ 사다리  □ 기타(          )\n──────────┼───────────────────────────────\n작업기간          │년    월     일(   요일),      시  부터\n│\n│년    월     일(   요일),      시  까지\n──────────┼───────────────────────────────\n작업장소          │\n──────────┼───────────────────────────────\n작업개요          │\n(필요시 도면첨부) │\n──────────┼───────────────────────────────\n작업자 대표       │\n/ 비상연락처      │\n──────────┼───────────────────────────────\n안전조치          │? 작업 전 안전조치가 필요한 사항에 모두 [V] 표시\n요구사항          ├───────────────────────────────\n│□ 작업에 적합한 작업발판 및 안전난간설치 여부\n│ □ 안전대 착용 및 부착 여부\n│ □ 추락 방지용 방망 필요 여부\n│ □ 2인이상 작업 여부\n│ □ 아웃트리거 사다리 사용여부\n──────────┼───────────────────────────────\n입회자            │□ 입회자 필요(위험 작업 시)     □ 입회자 불필요\n──────────┼───────────────────────────────\n신청인            │소속(업체명)                     성명                (서명)\n──────────┼───────────────────────────────\n안전조치확        │(입회자) 부서                    성명                (서명)\n인                │\n(국립수목원)      │\n──────────┼───────────────────────────────\n승인자            │         년     월      일  ?확인자:            (서명)\n(부서장)          │\n──────────┴───────────────────────────────",
+      "content": "[별지 제5호 서식] 고소작업 허가서\n\n고소작업 허가서\n──────────┬───────────────────────────────\n작 업 자          │□ 국립수목원              □ 수급업체\n──────────┼───────────────────────────────\n작업구분          │□ 차량 탑재형  □ 전동형  □ 사다리  □ 기타(          )\n──────────┼───────────────────────────────\n작업기간          │년    월     일(   요일),      시  부터\n│\n│년    월     일(   요일),      시  까지\n──────────┼───────────────────────────────\n작업장소          │\n──────────┼───────────────────────────────\n작업개요          │\n(필요시 도면첨부) │\n──────────┼───────────────────────────────\n작업자 대표       │\n/ 비상연락처      │\n──────────┼───────────────────────────────\n안전조치          │? 작업 전 안전조치가 필요한 사항에 모두 [V] 표시\n요구사항          ├───────────────────────────────\n│□ 작업에 적합한 작업발판 및 안전난간설치 여부\n│ □ 안전대 착용 및 부착 여부\n│ □ 추락 방지용 방망 필요 여부\n│ □ 2인이상 작업 여부\n│ □ 아웃트리거 사다리 사용여부\n──────────┼───────────────────────────────\n입회자            │□ 입회자 필요(위험 작업 시)     □ 입회자 불필요\n──────────┼───────────────────────────────\n신청인            │소속(업체명)                     성명                (서명)\n──────────┼───────────────────────────────\n안전조치확인      │(입회자) 부서                    성명                (서명)\n(국립수목원)      │\n──────────┼───────────────────────────────\n승인자            │         년     월      일  ?확인자:            (서명)\n(부서장)          │\n──────────┴───────────────────────────────",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374781",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376683",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374777",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376679",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374781",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376683",
           "name": "",
           "file_store_url": ""
         }
@@ -2438,17 +2449,17 @@
       "content": "[별지 제6호 서식] 중장비사용작업 허가서\n\n중장비사용작업 허가서\n──────────┬───────────────────────────────\n작 업 자          │□ 국립수목원                 □ 수급업체\n──────────┼───────────────────────────────\n작업구분          │□ 굴착기  □ 타워크레인  □ 지게차  □ 기타(          )\n──────────┼───────────────────────────────\n작업기간          │년    월     일(   요일),      시  부터\n│\n│년    월     일(   요일),      시  까지\n──────────┼───────────────────────────────\n작업장소          │\n──────────┼───────────────────────────────\n작업개요          │\n(필요시 도면첨부) │\n──────────┼───────────────────────────────\n작업자 대표       │\n/ 비상연락처      │\n──────────┼───────────────────────────────\n안전조치          │? 작업 전 안전조치가 필요한 사항에 모두 [V] 표시\n요구사항          ├───────────────────────────────\n│□ 기상상태\n│ □ 신호수배치\n│ □ 조명설비\n│ □ 통행금지 표지판 부착\n│ □ 전원설비 간섭여부\n│ □ 매트 등 부속장구\n│ □ 노면상태\n──────────┼───────────────────────────────\n입회자            │□ 입회자 필요(위험 작업 시)     □ 입회자 불필요\n──────────┼───────────────────────────────\n신청인            │소속(업체명)                     성명                (서명)\n──────────┼───────────────────────────────\n안전조치확인      │(입회자) 부서                    성명                (서명)\n(국립수목원)      │\n──────────┼───────────────────────────────\n승인자            │         년     월      일  ?확인자:            (서명)\n(부서장)          │\n──────────┴───────────────────────────────",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374787",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376689",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374783",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376685",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374787",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376689",
           "name": "",
           "file_store_url": ""
         }
@@ -2469,17 +2480,17 @@
       "content": "[별지 제7호 서식] 재해발생 경위서\n재해발생 경위서\n━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n재해일시    │년       월       일(  요일),      시    분\n───────┼───────────────────────────────\n재해장소    │\n───────┼───────────────────────────────\n관련부서    │\n───────┼───────────────────────────────\n업 무 명    │\n───────┴───────────────────────────────\n관련자\n───────┬────┬──┬────┬──────────────────\n소속        │직급    │성명│피해정도│비고\n───────┼────┼──┼────┼──────────────────\n│        │    │        │\n───────┼────┼──┼────┼──────────────────\n│        │    │        │\n───────┼────┼──┼────┼──────────────────\n│        │    │        │\n───────┼────┼──┼────┼──────────────────\n│        │    │        │\n───────┼────┼──┼────┼──────────────────\n│        │    │        │\n───────┴────┴──┴────┴──────────────────\n재산피해\n───────┬────┬──┬────┬──────────────────\n물품명      │자산여부│수량│피해정도│비고\n───────┼────┼──┼────┼──────────────────\n│        │    │        │\n───────┼────┼──┼────┼──────────────────\n│        │    │        │\n───────┼────┼──┼────┼──────────────────\n│        │    │        │\n───────┼────┼──┼────┼──────────────────\n│        │    │        │\n───────┼────┼──┼────┼──────────────────\n│        │    │        │\n───────┼────┼──┼────┼──────────────────\n│        │    │        │\n───────┼────┴──┴────┴──────────────────\n사고원인 및 │재해원인물질, 기기 및 기계(사용량, 사용장소 등 상세히 기록)\n발생경위    │\n├───────────────────────────────\n│발생경위(육하원칙에 따라 발생과정 상세히 기록)\n│\n├───────────────────────────────\n│개인보호구 착용여부(사고당시 복장상태 등)\n│\n───────┴───────────────────────────────\n\n[별지 제7호 서식]\n안전보건 관리체계 담당자 목록\n1. 안전보건관계자\n┏━━━━━━━━━┯━━━━━━━━┯━━━━┯━━━━┯━━┯━━━━┯━━━━┓\n┃구분              │선임 연?월?일 │소속    │직급(위)│성명│자격명  │전화번호┃\n┃                  │                │        │        │    │        │(휴대폰)┃\n┠─────────┼────────┼────┼────┼──┼────┼────┨\n┃안전보건총괄책임자│                │        │        │    │        │        ┃\n┠─────────┼────────┼────┼────┼──┼────┼────┨\n┃안전보건관리책임자│                │        │        │    │        │        ┃\n┠─────────┼────────┼────┼────┼──┼────┼────┨\n┃안  전  관  리  자│                │        │        │    │        │        ┃\n┠─────────┼────────┼────┼────┼──┼────┼────┨\n┃보  건  관  리  자│                │        │        │    │        │        ┃\n┠─────────┼────────┼────┼────┼──┼────┼────┨\n┃안전보건관리담당자│                │        │        │    │        │        ┃\n┣━━━━━━━━━┿━━━━━━━━┿━━━━┿━━━━┿━━┿━━━━┿━━━━┫\n┃관리감독자        │                │        │        │    │        │        ┃\n┗━━━━━━━━━┷━━━━━━━━┷━━━━┷━━━━┷━━┷━━━━┷━━━━┛\n\n┏━━━━━━━━━┯━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━┓\n┃구분              │근로자위원                          │사용자위원              ┃\n┃                  ├────────┬────┬────┼──┬────┬────┨\n┃                  │소속            │직급(위)│성명    │소속│직급(위)│성명    ┃\n┠─────────┼────────┼────┼────┼──┼────┼────┨\n┃대표              │                │        │        │    │        │        ┃\n┠─────────┼────────┼────┼────┼──┼────┼────┨\n┃위원              │                │        │        │    │        │        ┃\n┠─────────┼────────┼────┼────┼──┼────┼────┨\n┃위원              │                │        │        │    │        │        ┃\n┠─────────┼────────┼────┼────┼──┼────┼────┨\n┃위원              │                │        │        │    │        │        ┃\n┗━━━━━━━━━┷━━━━━━━━┷━━━━┷━━━━┷━━┷━━━━┷━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374795",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376697",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374789",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376691",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147374795",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169376697",
           "name": "",
           "file_store_url": ""
         }
@@ -2494,27 +2505,19 @@
   ],
   "attachments": [
     {
-      "name": "개정본문(국립수목원 안전보건관리규정).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=147372639",
-      "filename": "개정본문(국립수목원 안전보건관리규정).hwpx",
+      "name": "국립수목원 안전보건관리규정 개정전문(2026).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169373467",
+      "filename": "국립수목원 안전보건관리규정 개정전문(2026).hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/개정본문(국립수목원 안전보건관리규정).hwpx",
+      "local_path": "첨부파일/국립수목원 안전보건관리규정 개정전문(2026).hwpx",
       "file_store_url": ""
     },
     {
-      "name": "개정본문(국립수목원 안전보건관리규정).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=147372643",
-      "filename": "개정본문(국립수목원 안전보건관리규정).pdf",
+      "name": "국립수목원 안전보건관리규정 개정전문(2026).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169373471",
+      "filename": "국립수목원 안전보건관리규정 개정전문(2026).pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/개정본문(국립수목원 안전보건관리규정).pdf",
-      "file_store_url": ""
-    },
-    {
-      "name": "법령안(국립수목원 안전보건관리규정 일부개정훈령안).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=147226509",
-      "filename": "법령안(국립수목원 안전보건관리규정 일부개정훈령안).hwpx",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/법령안(국립수목원 안전보건관리규정 일부개정훈령안).hwpx",
+      "local_path": "첨부파일/국립수목원 안전보건관리규정 개정전문(2026).pdf",
       "file_store_url": ""
     }
   ],
@@ -2536,9 +2539,9 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 6,
     "appendices_count": 13,
-    "attachments_count": 3
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/국립수목원 안전보건관리규정"
