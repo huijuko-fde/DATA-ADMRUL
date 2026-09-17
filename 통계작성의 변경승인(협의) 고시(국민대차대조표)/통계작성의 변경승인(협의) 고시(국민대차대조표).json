@@ -59,7 +59,14 @@
             "file_store_url": ""
           }
         ],
-        "provision_id": "admrul:통계작성의변경승인(협의)고시(국민대차대조표)#DOC"
+        "provision_id": "admrul:통계작성의변경승인(협의)고시(국민대차대조표)#DOC",
+        "scheduled": [
+          {
+            "enforcement_date": "20260917",
+            "change": "개정",
+            "content": "1. 통계의 명칭 : 국민대차대조표 2. 통계작성기관의 명칭 : 국가데이터처, 한국은행 3. 통계작성승인(협의)번호 [작성승인(협의)일] : 제920013호 [1968.11.21.] 4. 통계작성의 변경 연월일 : 2026.09.17. 5. 통계작성의 변경 내용과 사유 :[그림]"
+          }
+        ]
       }
     ]
   },
@@ -105,8 +112,10 @@
   "addendum_provision_id": "admrul:통계작성의변경승인(협의)고시(국민대차대조표)#ADDENDUM",
   "amendment_provision_id": "admrul:통계작성의변경승인(협의)고시(국민대차대조표)#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260917"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "통계작성의 변경승인(협의) 고시(국민대차대조표)/통계작성의 변경승인(협의) 고시(국민대차대조표).json"
 }
