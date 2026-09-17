@@ -1,10 +1,323 @@
 {
   "law_id": "2104628",
-  "doc_target": "admrul",
+  "mst": "2100000257314",
   "law_name": "업무용승용차 운행기록 방법에 관한 고시",
-  "_placeholder": true,
-  "provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#DOC",
-  "addendum_provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#ADDENDUM",
-  "amendment_provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#AMENDMENT",
-  "git_path": "업무용승용차 운행기록 방법에 관한 고시/admrul_2104628/업무용승용차 운행기록 방법에 관한 고시.json"
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2104628",
+  "promulgation_no": "2025-5",
+  "promulgation_date": "20250401",
+  "enforcement_date": "20250401",
+  "revision_date": "20250401",
+  "revision_type": "폐지제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국세청(소득세과)",
+    "담당자명": "유지희",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "업무용승용차 운행기록 방법에 관한 고시",
+    "발령일자": "20250401",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200407",
+    "조문형식여부": "Y",
+    "소관부처명": "국세청",
+    "전화번호": "044-204-3265",
+    "제개정구분명": "폐지제정",
+    "소관부처코드": "1210000",
+    "생성일자": "20250402",
+    "행정규칙ID": "2104628",
+    "시행일자": "20250401",
+    "담당부서기관코드": "1212025",
+    "발령번호": "2025-5",
+    "행정규칙일련번호": "2100000257314",
+    "상위부처명": "국세청"
+  },
+  "amendment_text": "⊙국세청고시 제2025-5호\n「소득세법」제33조의2제1항, 같은 법 시행령 제78조의3제4항, 같은 법 시행규칙 제42조제2항의 위임에 따라 업무용승용차 운행기록 방법을 다음과 같이 개정하여 고시합니다.\n2025년 4월 1일\n국세청장\n업무용승용차 운행기록 방법에 관한 고시\n[본문 생략]\n부칙\n제1조(시행일) 이 고시는 고시한 날부터 시행한다.\n제2조(종전 고시의 폐지) 종전의「업무용승용차 운행기록 방법에 관한 고시」(국세청고시 제2022-8호)는 이를 폐지한다.",
+  "revision_reason": "◇ 개정 이유\n○ 「소득세법」제33조의2제1항, 같은 법 시행령 제78조의3제4항, 같은 법 시행규칙 제42조제2항에 따른 업무용승용차 운행기록 방법에 관한 고시의 재검토기한이 2025.03.31.만료됨에 따라 고시 유효기간 연장 필요\n◇ 주요 내용\n○ 업무용승용차 운행기록 방법에 관한 고시 유효기간 연장\n- (당초) 2025년 3월 31일     (개정) 2028년 3월 31일",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제1조(목적) 이 고시는 「소득세법」 제33조의2제1항, 같은 법 시행령 제78조의3제4항, 같은 법 시행규칙 제42조제2항에서 국세청장에게 위임한 업무용승용차 운행기록 방법을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제33조의2제1항",
+            "line_text": "",
+            "target_law_name": "소득세법",
+            "target_article_no": "제33조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2104628",
+            "target_url": "https://www.law.go.kr/법령/소득세법/제33조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0001",
+            "reference_id": "law:소득세법#JO0033_02",
+            "target_repo": "LAW",
+            "target_git_path_guess": "소득세법/법률/소득세법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "소득세법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2104628",
+            "target_url": "https://www.law.go.kr/법령/소득세법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0001",
+            "reference_id": "law:소득세법시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "소득세법/시행령/소득세법 시행령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제78조의3제4항",
+            "line_text": "",
+            "target_law_name": "소득세법 시행령",
+            "target_article_no": "제78조의3",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2104628",
+            "target_url": "https://www.law.go.kr/법령/소득세법 시행령/제78조의3",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0001",
+            "reference_id": "law:소득세법시행령#JO0078_03",
+            "target_repo": "LAW",
+            "target_git_path_guess": "소득세법/시행령/소득세법 시행령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "소득세법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2104628",
+            "target_url": "https://www.law.go.kr/법령/소득세법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0001",
+            "reference_id": "law:소득세법시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "소득세법/시행규칙/소득세법 시행규칙.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제42조제2항",
+            "line_text": "",
+            "target_law_name": "소득세법 시행규칙",
+            "target_article_no": "제42조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2104628",
+            "target_url": "https://www.law.go.kr/법령/소득세법 시행규칙/제42조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0001",
+            "reference_id": "law:소득세법시행규칙#JO0042",
+            "target_repo": "LAW",
+            "target_git_path_guess": "소득세법/시행규칙/소득세법 시행규칙.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "운행기록 방법 및 서식",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조(운행기록 방법 및 서식) 업무용승용차 운행기록 방법은 별지 서식 「업무용승용차 운행기록부」를 작성하는 것으로 하되, 별지 서식상의 차종, 자동차등록번호, 사용일자, 사용자, 운행내역이 포함된 별도의 서식으로 작성할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "업무목적 소명",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제3조(업무목적 소명) 해당 개인사업자는 과세관청의 요청시 업무용승용차 관리 규정, 출장명령서 등을 통하여 업무목적을 소명하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "재검토 기한",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제4조(재검토 기한)「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령 훈령 제431호)에 따라 이 고시 발령 후의 법령이나 현실여건의 변화 등을 검토하여 이 고시의 폐지, 개정 등의 조치를 하여야 하는 기한은 2028년 3월 31일까지로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2104628",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0004",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:업무용승용차운행기록방법에관한고시#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20250401",
+      "promulgation_no": "2025-5",
+      "content": "부칙 <제2025-5호, 2025. 4. 1.>제1조(시행일) 이 고시는 고시한 날부터 시행한다.제2조(종전 고시의 폐지) 종전의「업무용승용차 운행기록 방법에 관한 고시」(국세청고시 제2022-8호)는 이를 폐지한다.",
+      "provision_id": "admrul:업무용승용차운행기록방법에관한고시#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000257314",
+      "source_version_uid": "",
+      "source_revision_type": "폐지제정",
+      "version_enforcement_date": "20250401"
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별지",
+      "title": "업무용승용차 운행기록부",
+      "enforcement_date": "",
+      "content": "【업무용승용차 운행기록부에 관한 별지 서식】<2022.4.1. 개정>\n──────┬───────┬──────────────────────────┬───────┬─────────────────────\n과세기간  │ .     .     .│업무용승용차 운행기록부                             │상 호 명      │\n│              │                                                    │              │\n│～            │                                                    ├───────┼─────────────────────\n│              │                                                    │사업자등록번호│\n│.     .     . │                                                    │              │\n──────┴───────┴──────────────────────────┴───────┴─────────────────────\n\n\n1. 기본정보\n─────────┬─────────────\n①차 종         │②자동차등록번호\n─────────┼─────────────\n│\n─────────┴─────────────\n\n\n2. 업무용 사용비율 계산\n─────┬─────┬───────────────────────────────────────────────────────────\n③사용  │④사용자  │운 행       내 역\n일자  ├──┬──┼─────────┬─────────┬───────┬──────────────────┬────────────\n(요일)│부서│성명│⑤주행 전         │⑥주행 후         │⑦주행거리(㎞)│업무용 사용거리(㎞)                 │⑩비 고\n│    │    │계기판의 거리(㎞) │계기판의 거리(㎞) │              ├────────┬─────────┤\n│    │    │                  │                  │              │⑧출?퇴근용(㎞)│⑨일반 업무용(㎞) │\n─────┼──┼──┼─────────┼─────────┼───────┼────────┼─────────┼────────────\n│    │    │                  │                  │              │                │                  │\n─────┼──┼──┼─────────┼─────────┼───────┼────────┼─────────┼────────────\n│    │    │                  │                  │              │                │                  │\n─────┼──┼──┼─────────┼─────────┼───────┼────────┼─────────┼────────────\n│    │    │                  │                  │              │                │                  │\n─────┼──┼──┼─────────┼─────────┼───────┼────────┼─────────┼────────────\n│    │    │                  │                  │              │                │                  │\n─────┼──┼──┼─────────┼─────────┼───────┼────────┼─────────┼────────────\n│    │    │                  │                  │              │                │                  │\n─────┼──┼──┼─────────┼─────────┼───────┼────────┼─────────┼────────────\n│    │    │                  │                  │              │                │                  │\n─────┼──┼──┼─────────┼─────────┼───────┼────────┼─────────┼────────────\n│    │    │                  │                  │              │                │                  │\n─────┼──┴──┼─────────┴─────────┴───────┼────────┴─────────┼────────────\n│          │⑪과세기간 총주행 거리(㎞)                            │⑫과세기간 업무용 사용거리(㎞)      │⑬업무사용비율(⑫/⑪)\n│          ├───────────────────────────┼──────────────────┼────────────\n│          │                                                      │                                    │\n─────┴─────┴───────────────────────────┴──────────────────┴────────────\n\n───────────────────────────────────────────────────────────────────────\n\n(뒤 쪽)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n작 성 방 법\n─────────────────────────────────────────────────────────────────────────────────────\n1. ① 업무용승용차의 차종을 적습니다.\n\n2. ② 업무용승용차의 자동차등록번호를 적습니다.\n\n3. ③ 사용일자를 적습니다.\n\n4. ④ 사용자(운전자가 아닌 차량이용자)의 부서, 성명을 적습니다.\n\n5. ⑤ 주행 전 자동차 계기판의 누적거리를 적습니다.(당일 동일인이 2회 이상 사용하는 경우 ⑤란을 적지 않고 ⑦란에 주행거리의 합만 적을 수 있습니다.)\n\n6. ⑥ 주행 후 자동차 계기판의 누적거리를 적습니다.(당일 동일인이 2회 이상 사용하는 경우 ⑥란을 적지 않고 ⑦란에 주행거리의 합만 적을 수 있습니다.)\n\n7. ⑦ 사용시마다 주행거리(⑥-⑤)를 적거나, 사용자별 주행거리의 합을 적습니다.\n\n8. ⑧ 업무용 사용거리 중 출?퇴근용(원격지 출?퇴근을 포함) 사용거리를 적습니다.\n\n9. ⑨ 업무용 사용거리 중 제조?판매시설 등 해당 업체의 사업장 방문, 거래처?대리점 방문, 회의 참석, 판촉 활동, 업무관련 교육?훈련 등 일반업무용 사용거리를 적습니다.\n\n10. ⑪~⑬ 해당 과세기간의 주행거리 합계, 업무용 사용거리 합계, 업무사용 비율을 각각 적습니다.\n─────────────────────────────────────────────────────────────────────────────────────\n210mm×297mm[백상지 80g/㎡ 또는 중질지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150732883",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150732877",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150732883",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:업무용승용차운행기록방법에관한고시#BJ0000",
+      "filename": "별지0_업무용승용차 운행기록부.pdf",
+      "file_dir": "별지",
+      "local_path": "별지/별지0_업무용승용차 운행기록부.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "업무용승용차 운행기록 방법에 관한 고시(국세청 고시 제2025-5호¸ 2025.4.1.).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=150732867",
+      "filename": "업무용승용차 운행기록 방법에 관한 고시(국세청 고시 제2025-5호¸ 2025.4.1.).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/업무용승용차 운행기록 방법에 관한 고시(국세청 고시 제2025-5호¸ 2025.4.1.).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "업무용승용차 운행기록 방법에 관한 고시(국세청 고시 제2025-5호¸ 2025.4.1.).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=150732871",
+      "filename": "업무용승용차 운행기록 방법에 관한 고시(국세청 고시 제2025-5호¸ 2025.4.1.).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/업무용승용차 운행기록 방법에 관한 고시(국세청 고시 제2025-5호¸ 2025.4.1.).pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "제개정 이유서(국세청 고시 제2025-5호).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=150732791",
+      "filename": "제개정 이유서(국세청 고시 제2025-5호).hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/제개정 이유서(국세청 고시 제2025-5호).hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "제개정 이유서(국세청 고시 제2025-5호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=150732795",
+      "filename": "제개정 이유서(국세청 고시 제2025-5호).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/제개정 이유서(국세청 고시 제2025-5호).pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 5,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 6
+    },
+    "articles_total": 4,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/업무용승용차 운행기록 방법에 관한 고시"
+  },
+  "provision_id": "admrul:업무용승용차운행기록방법에관한고시#DOC",
+  "addendum_provision_id": "admrul:업무용승용차운행기록방법에관한고시#ADDENDUM",
+  "amendment_provision_id": "admrul:업무용승용차운행기록방법에관한고시#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "업무용승용차 운행기록 방법에 관한 고시/업무용승용차 운행기록 방법에 관한 고시.json"
 }
