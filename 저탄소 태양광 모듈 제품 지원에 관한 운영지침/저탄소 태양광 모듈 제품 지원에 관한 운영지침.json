@@ -111,7 +111,14 @@
           }
         ],
         "images": [],
-        "provision_id": "admrul:저탄소태양광모듈제품지원에관한운영지침#JO0001"
+        "provision_id": "admrul:저탄소태양광모듈제품지원에관한운영지침#JO0001",
+        "scheduled": [
+          {
+            "enforcement_date": "20260918",
+            "change": "개정",
+            "content": "제1조(목적) 이 지침은 태양광모듈 제품의 친환경성 강화와 글로벌 온실가스 감축 등에 기여하기 위하여 「재생에너지 개발ㆍ이용ㆍ보급 촉진법」(이하 \"법\"이라 한다) 제27조 제1항 및 동법 시행령 제27조 제3항 등에 따라 저탄소 태양광모듈 제품의 보급을 촉진하는데 필요한 사항을 정함을 목적으로 한다."
+          }
+        ]
       },
       {
         "article_no": "제2조",
@@ -133,7 +140,14 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:저탄소태양광모듈제품지원에관한운영지침#JO0003"
+        "provision_id": "admrul:저탄소태양광모듈제품지원에관한운영지침#JO0003",
+        "scheduled": [
+          {
+            "enforcement_date": "20260918",
+            "change": "개정",
+            "content": "제3조(용어의 정의) 이 지침에서 사용하는 용어의 정의는 다음과 같다.1. \"태양광모듈 제품\"이란 태양전지를 종 또는 횡으로 연결 및 결합하여 태양전지에서 생산된 전기를 모으는 단위 제품을 말한다.2. \"태양광모듈 탄소배출량 산정 및 검증\"(이하 \"탄소배출량검증\"이라 한다)이란 한국에너지공단 재생에너지센터(이하 \"센터\"라 한다)가 태양광모듈 제품의 이산화탄소 총량을 계량적으로 산정하고 검증하는 절차를 말한다.3. \"표준배출계수\"란 태양광모듈 제품 생산 시 발생되는 kW당 이산화탄소 배출량을 국가별, 제조단계별로 산출한 배출계수를 말한다.4. \"전과정평가(LCA)\"란 KS I ISO 14040에 따라 제품의 전 과정에 걸쳐 제품 시스템의 투입물, 산출물 그리고 제품시스템의 잠재적 환경영향을 집계하고 평가하는 기법을 말한다."
+          }
+        ]
       },
       {
         "article_no": "제4조",
@@ -338,7 +352,14 @@
           }
         ],
         "images": [],
-        "provision_id": "admrul:저탄소태양광모듈제품지원에관한운영지침#JO0014"
+        "provision_id": "admrul:저탄소태양광모듈제품지원에관한운영지침#JO0014",
+        "scheduled": [
+          {
+            "enforcement_date": "20260918",
+            "change": "개정",
+            "content": "제14조(재검토기한) 이 고시에 대하여 기후에너지환경부장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2027년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다"
+          }
+        ]
       }
     ]
   },
@@ -375,6 +396,18 @@
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20251218"
+    },
+    {
+      "promulgation_date": "20260903",
+      "promulgation_no": "2026-225",
+      "content": "부칙 <제2026-225호, 2026. 9. 3.>이 고시는 2026년 9월 18일부터 시행한다.",
+      "provision_id": "admrul:저탄소태양광모듈제품지원에관한운영지침#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000284648",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260918",
+      "enforcement_date": "20260918"
     }
   ],
   "appendices": [],
@@ -424,8 +457,10 @@
   "addendum_provision_id": "admrul:저탄소태양광모듈제품지원에관한운영지침#ADDENDUM",
   "amendment_provision_id": "admrul:저탄소태양광모듈제품지원에관한운영지침#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260918"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "저탄소 태양광 모듈 제품 지원에 관한 운영지침/저탄소 태양광 모듈 제품 지원에 관한 운영지침.json"
 }
