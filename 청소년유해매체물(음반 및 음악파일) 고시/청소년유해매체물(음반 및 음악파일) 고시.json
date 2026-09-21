@@ -395,7 +395,14 @@
             "file_store_url": ""
           }
         ],
-        "provision_id": "admrul:청소년유해매체물(음반및음악파일)고시#DOC"
+        "provision_id": "admrul:청소년유해매체물(음반및음악파일)고시#DOC",
+        "scheduled": [
+          {
+            "enforcement_date": "20260921",
+            "change": "개정",
+            "content": "1. 청소년유해매체물 목록 : 아래 목록표와 같음 2. 의무사항가. 아래 목록의 청소년유해매체물을 제공하는 사업자는 청소년보호법 제13조에 따라 청소년유해표시의무를 이행하여야 하며, 같은 법 제16조에 따라 판매ㆍ대여ㆍ배포하거나 시청ㆍ관람ㆍ이용하도록 제공하려는 자는 그 상대방의 나이 및 본인여부를 확인하여야 함[그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림]"
+          }
+        ]
       }
     ]
   },
@@ -437,8 +444,10 @@
   "addendum_provision_id": "admrul:청소년유해매체물(음반및음악파일)고시#ADDENDUM",
   "amendment_provision_id": "admrul:청소년유해매체물(음반및음악파일)고시#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260921"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "청소년유해매체물(음반 및 음악파일) 고시/청소년유해매체물(음반 및 음악파일) 고시.json"
 }
