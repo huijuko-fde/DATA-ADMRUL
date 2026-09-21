@@ -1,16 +1,16 @@
 {
   "law_id": "2036809",
-  "mst": "2100000283704",
+  "mst": "2100000285150",
   "law_name": "민원처리기준표 일부개정고시",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2036809",
-  "promulgation_no": "2026-49",
-  "promulgation_date": "20260806",
-  "enforcement_date": "20260806",
-  "revision_date": "20260806",
+  "promulgation_no": "2026-56",
+  "promulgation_date": "20260915",
+  "enforcement_date": "20260921",
+  "revision_date": "20260915",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "이규찬",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "민원처리기준표 일부개정고시",
-    "발령일자": "20260806",
+    "발령일자": "20260915",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "N",
@@ -27,12 +27,12 @@
     "전화번호": "044-205-2452",
     "제개정구분명": "일부개정",
     "소관부처코드": "1741000",
-    "생성일자": "20260807",
+    "생성일자": "20260921",
     "행정규칙ID": "2036809",
-    "시행일자": "20260806",
+    "시행일자": "20260921",
     "담당부서기관코드": "1741992",
-    "발령번호": "2026-49",
-    "행정규칙일련번호": "2100000283704",
+    "발령번호": "2026-56",
+    "행정규칙일련번호": "2100000285150",
     "상위부처명": "행정안전부"
   },
   "amendment_text": "",
@@ -45,14 +45,14 @@
         "article_no": "전문",
         "article_title": "",
         "chapter": "",
-        "content": "○ 신설민원 : 29종1. 경찰청 : 1종[그림]2. 국가보훈부 : 2종[그림][그림]3. 기후에너지환경부 : 15종[그림][그림][그림][그림][그림][그림][그림][그림][그림][그림]4. 보건복지부 : 1종[그림]5. 우주항공청 : 1종[그림]6. 지식재산처 : 3종[그림][그림][그림]7. 해양경찰청 : 5종[그림][그림][그림][그림][그림]8. 행정안전부 : 1종[그림]○ 변경민원: 98종1. 경찰청 : 1종[그림]2. 고용노동부 : 4종[그림][그림]3. 관세청 : 1종[그림]4. 국가데이터처 : 1종[그림]5. 국가보훈부 : 26종[그림][그림][그림][그림][그림][그림][그림]6. 국가유산청 : 2종[그림]7. 국세청 : 42종[그림][그림][그림][그림][그림][그림][그림][그림][그림]8. 기후에너지환경부 : 12종[그림][그림][그림][그림]9. 병무청 : 4종[그림][그림][그림]10. 보건복지부 : 1종[그림]11. 산업통상부 : 1종[그림]12. 중소벤처기업부 : 1종[그림]13. 통일부 : 1종[그림]14. 행정안전부 : 1종[그림]○ 폐지민원: 3종1. 국세청 : 2종[그림]2. 산업통상부 : 1종[그림]",
+        "content": "○ 신설민원 : 18종1. 국가보훈부 : 1종[그림] 2. 기후에너지환경부 : 2종[그림][그림] 3. 농림축산식품부 : 5종[그림][그림][그림][그림][그림] 4. 보건복지부 : 4종[그림][그림][그림][그림][그림] 5. 성평등가족부 : 4종[그림][그림][그림][그림] 6. 원자력안전위원회 : 1종[그림] 7. 행정안전부 : 1종[그림] ○ 변경민원: 234종1. 경찰청 : 22종[그림][그림][그림][그림][그림][그림][그림][그림][그림] 2. 국가보훈부 : 7종[그림][그림][그림] 3. 국방부 : 1종[그림] 4. 기후에너지환경부 : 130종[그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림] 5. 농촌진흥청 : 1종[그림] 6. 방위사업청 : 1종[그림] 7. 병무청 : 1종[그림] 8. 보건복지부 : 6종[그림][그림] 9. 인사혁신처 : 2종[그림] 10. 행정안전부 : 21종[그림][그림][그림][그림][그림][그림][그림][그림] ○ 폐지민원: 16종1. 국가보훈부 : 7종[그림] 2. 기후에너지환경부 : 8종[그림] 3. 행정안전부 : 1종[그림]",
         "enforcement_date": "",
         "relations": [],
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965229",
-            "seq": "167965229",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355103",
+            "seq": "169355103",
             "filename": "전문_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_1.gif",
@@ -60,8 +60,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965227",
-            "seq": "167965227",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355105",
+            "seq": "169355105",
             "filename": "전문_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_2.gif",
@@ -69,8 +69,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965097",
-            "seq": "167965097",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355107",
+            "seq": "169355107",
             "filename": "전문_3.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_3.gif",
@@ -78,8 +78,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965207",
-            "seq": "167965207",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355109",
+            "seq": "169355109",
             "filename": "전문_4.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_4.gif",
@@ -87,8 +87,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965209",
-            "seq": "167965209",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355113",
+            "seq": "169355113",
             "filename": "전문_5.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_5.gif",
@@ -96,8 +96,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965211",
-            "seq": "167965211",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355115",
+            "seq": "169355115",
             "filename": "전문_6.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_6.gif",
@@ -105,8 +105,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965213",
-            "seq": "167965213",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169357301",
+            "seq": "169357301",
             "filename": "전문_7.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_7.gif",
@@ -114,8 +114,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965215",
-            "seq": "167965215",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355169",
+            "seq": "169355169",
             "filename": "전문_8.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_8.gif",
@@ -123,8 +123,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965217",
-            "seq": "167965217",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355171",
+            "seq": "169355171",
             "filename": "전문_9.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_9.gif",
@@ -132,8 +132,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965219",
-            "seq": "167965219",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355173",
+            "seq": "169355173",
             "filename": "전문_10.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_10.gif",
@@ -141,8 +141,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965221",
-            "seq": "167965221",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355175",
+            "seq": "169355175",
             "filename": "전문_11.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_11.gif",
@@ -150,8 +150,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965223",
-            "seq": "167965223",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355177",
+            "seq": "169355177",
             "filename": "전문_12.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_12.gif",
@@ -159,8 +159,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965225",
-            "seq": "167965225",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355299",
+            "seq": "169355299",
             "filename": "전문_13.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_13.gif",
@@ -168,8 +168,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965205",
-            "seq": "167965205",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355339",
+            "seq": "169355339",
             "filename": "전문_14.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_14.gif",
@@ -177,8 +177,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965203",
-            "seq": "167965203",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355301",
+            "seq": "169355301",
             "filename": "전문_15.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_15.gif",
@@ -186,8 +186,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965201",
-            "seq": "167965201",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355341",
+            "seq": "169355341",
             "filename": "전문_16.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_16.gif",
@@ -195,8 +195,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965199",
-            "seq": "167965199",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355343",
+            "seq": "169355343",
             "filename": "전문_17.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_17.gif",
@@ -204,8 +204,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965095",
-            "seq": "167965095",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355303",
+            "seq": "169355303",
             "filename": "전문_18.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_18.gif",
@@ -213,8 +213,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965197",
-            "seq": "167965197",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355345",
+            "seq": "169355345",
             "filename": "전문_19.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_19.gif",
@@ -222,8 +222,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965195",
-            "seq": "167965195",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169357303",
+            "seq": "169357303",
             "filename": "전문_20.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_20.gif",
@@ -231,8 +231,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965193",
-            "seq": "167965193",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169357305",
+            "seq": "169357305",
             "filename": "전문_21.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_21.gif",
@@ -240,8 +240,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965191",
-            "seq": "167965191",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169357307",
+            "seq": "169357307",
             "filename": "전문_22.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_22.gif",
@@ -249,8 +249,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965189",
-            "seq": "167965189",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169357309",
+            "seq": "169357309",
             "filename": "전문_23.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_23.gif",
@@ -258,8 +258,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965187",
-            "seq": "167965187",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169357311",
+            "seq": "169357311",
             "filename": "전문_24.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_24.gif",
@@ -267,8 +267,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965233",
-            "seq": "167965233",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169357313",
+            "seq": "169357313",
             "filename": "전문_25.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_25.gif",
@@ -276,8 +276,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965235",
-            "seq": "167965235",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169357315",
+            "seq": "169357315",
             "filename": "전문_26.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_26.gif",
@@ -285,8 +285,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965237",
-            "seq": "167965237",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169357317",
+            "seq": "169357317",
             "filename": "전문_27.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_27.gif",
@@ -294,8 +294,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965239",
-            "seq": "167965239",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169357319",
+            "seq": "169357319",
             "filename": "전문_28.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_28.gif",
@@ -303,8 +303,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965173",
-            "seq": "167965173",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355365",
+            "seq": "169355365",
             "filename": "전문_29.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_29.gif",
@@ -312,8 +312,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965079",
-            "seq": "167965079",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355367",
+            "seq": "169355367",
             "filename": "전문_30.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_30.gif",
@@ -321,8 +321,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965081",
-            "seq": "167965081",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355369",
+            "seq": "169355369",
             "filename": "전문_31.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_31.gif",
@@ -330,8 +330,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965083",
-            "seq": "167965083",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355309",
+            "seq": "169355309",
             "filename": "전문_32.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_32.gif",
@@ -339,8 +339,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965085",
-            "seq": "167965085",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355311",
+            "seq": "169355311",
             "filename": "전문_33.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_33.gif",
@@ -348,8 +348,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965087",
-            "seq": "167965087",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355313",
+            "seq": "169355313",
             "filename": "전문_34.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_34.gif",
@@ -357,8 +357,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965089",
-            "seq": "167965089",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355315",
+            "seq": "169355315",
             "filename": "전문_35.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_35.gif",
@@ -366,8 +366,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965091",
-            "seq": "167965091",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355317",
+            "seq": "169355317",
             "filename": "전문_36.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_36.gif",
@@ -375,8 +375,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965171",
-            "seq": "167965171",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355319",
+            "seq": "169355319",
             "filename": "전문_37.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_37.gif",
@@ -384,8 +384,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965153",
-            "seq": "167965153",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355321",
+            "seq": "169355321",
             "filename": "전문_38.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_38.gif",
@@ -393,8 +393,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965155",
-            "seq": "167965155",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355323",
+            "seq": "169355323",
             "filename": "전문_39.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_39.gif",
@@ -402,8 +402,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965157",
-            "seq": "167965157",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355325",
+            "seq": "169355325",
             "filename": "전문_40.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_40.gif",
@@ -411,8 +411,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965159",
-            "seq": "167965159",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355327",
+            "seq": "169355327",
             "filename": "전문_41.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_41.gif",
@@ -420,8 +420,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965161",
-            "seq": "167965161",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355329",
+            "seq": "169355329",
             "filename": "전문_42.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_42.gif",
@@ -429,8 +429,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965163",
-            "seq": "167965163",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355331",
+            "seq": "169355331",
             "filename": "전문_43.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_43.gif",
@@ -438,8 +438,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965165",
-            "seq": "167965165",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355333",
+            "seq": "169355333",
             "filename": "전문_44.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_44.gif",
@@ -447,8 +447,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965167",
-            "seq": "167965167",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355335",
+            "seq": "169355335",
             "filename": "전문_45.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_45.gif",
@@ -456,8 +456,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965169",
-            "seq": "167965169",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355337",
+            "seq": "169355337",
             "filename": "전문_46.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_46.gif",
@@ -465,8 +465,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965145",
-            "seq": "167965145",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355379",
+            "seq": "169355379",
             "filename": "전문_47.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_47.gif",
@@ -474,8 +474,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965147",
-            "seq": "167965147",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355381",
+            "seq": "169355381",
             "filename": "전문_48.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_48.gif",
@@ -483,8 +483,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965149",
-            "seq": "167965149",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355383",
+            "seq": "169355383",
             "filename": "전문_49.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_49.gif",
@@ -492,8 +492,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965151",
-            "seq": "167965151",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355385",
+            "seq": "169355385",
             "filename": "전문_50.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_50.gif",
@@ -501,8 +501,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965139",
-            "seq": "167965139",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355387",
+            "seq": "169355387",
             "filename": "전문_51.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_51.gif",
@@ -510,8 +510,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965141",
-            "seq": "167965141",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355389",
+            "seq": "169355389",
             "filename": "전문_52.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_52.gif",
@@ -519,8 +519,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965143",
-            "seq": "167965143",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355391",
+            "seq": "169355391",
             "filename": "전문_53.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_53.gif",
@@ -528,8 +528,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965137",
-            "seq": "167965137",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355393",
+            "seq": "169355393",
             "filename": "전문_54.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_54.gif",
@@ -537,8 +537,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965135",
-            "seq": "167965135",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355395",
+            "seq": "169355395",
             "filename": "전문_55.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_55.gif",
@@ -546,8 +546,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965077",
-            "seq": "167965077",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355397",
+            "seq": "169355397",
             "filename": "전문_56.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_56.gif",
@@ -555,8 +555,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965133",
-            "seq": "167965133",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355399",
+            "seq": "169355399",
             "filename": "전문_57.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_57.gif",
@@ -564,8 +564,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965131",
-            "seq": "167965131",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355401",
+            "seq": "169355401",
             "filename": "전문_58.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_58.gif",
@@ -573,8 +573,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965129",
-            "seq": "167965129",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355403",
+            "seq": "169355403",
             "filename": "전문_59.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_59.gif",
@@ -582,11 +582,326 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167965127",
-            "seq": "167965127",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355405",
+            "seq": "169355405",
             "filename": "전문_60.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/전문_60.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355407",
+            "seq": "169355407",
+            "filename": "전문_61.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_61.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355409",
+            "seq": "169355409",
+            "filename": "전문_62.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_62.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355411",
+            "seq": "169355411",
+            "filename": "전문_63.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_63.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355413",
+            "seq": "169355413",
+            "filename": "전문_64.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_64.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355415",
+            "seq": "169355415",
+            "filename": "전문_65.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_65.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355417",
+            "seq": "169355417",
+            "filename": "전문_66.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_66.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355419",
+            "seq": "169355419",
+            "filename": "전문_67.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_67.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355421",
+            "seq": "169355421",
+            "filename": "전문_68.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_68.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355423",
+            "seq": "169355423",
+            "filename": "전문_69.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_69.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355425",
+            "seq": "169355425",
+            "filename": "전문_70.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_70.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355427",
+            "seq": "169355427",
+            "filename": "전문_71.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_71.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355429",
+            "seq": "169355429",
+            "filename": "전문_72.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_72.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355431",
+            "seq": "169355431",
+            "filename": "전문_73.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_73.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355433",
+            "seq": "169355433",
+            "filename": "전문_74.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_74.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355435",
+            "seq": "169355435",
+            "filename": "전문_75.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_75.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355437",
+            "seq": "169355437",
+            "filename": "전문_76.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_76.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355439",
+            "seq": "169355439",
+            "filename": "전문_77.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_77.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355441",
+            "seq": "169355441",
+            "filename": "전문_78.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_78.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355373",
+            "seq": "169355373",
+            "filename": "전문_79.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_79.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355377",
+            "seq": "169355377",
+            "filename": "전문_80.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_80.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355499",
+            "seq": "169355499",
+            "filename": "전문_81.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_81.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355503",
+            "seq": "169355503",
+            "filename": "전문_82.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_82.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355505",
+            "seq": "169355505",
+            "filename": "전문_83.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_83.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355507",
+            "seq": "169355507",
+            "filename": "전문_84.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_84.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355509",
+            "seq": "169355509",
+            "filename": "전문_85.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_85.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355511",
+            "seq": "169355511",
+            "filename": "전문_86.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_86.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355513",
+            "seq": "169355513",
+            "filename": "전문_87.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_87.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355515",
+            "seq": "169355515",
+            "filename": "전문_88.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_88.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355517",
+            "seq": "169355517",
+            "filename": "전문_89.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_89.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355519",
+            "seq": "169355519",
+            "filename": "전문_90.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_90.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355521",
+            "seq": "169355521",
+            "filename": "전문_91.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_91.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355523",
+            "seq": "169355523",
+            "filename": "전문_92.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_92.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355525",
+            "seq": "169355525",
+            "filename": "전문_93.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_93.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355527",
+            "seq": "169355527",
+            "filename": "전문_94.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_94.gif",
+            "file_store_url": ""
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169355529",
+            "seq": "169355529",
+            "filename": "전문_95.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_95.gif",
             "file_store_url": ""
           }
         ],
@@ -601,10 +916,10 @@
       "content": "부칙 <제2023-55호, 2023. 7. 13.>이 고시는 2023년 7월 13일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20230804",
@@ -612,10 +927,10 @@
       "content": "부칙 <제2023-61호, 2023. 8. 4.>이 고시는 2023년 8월 4일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20231004",
@@ -623,10 +938,10 @@
       "content": "부칙 <제2023-68호, 2023. 10. 4.>이 고시는 2023년 10월 4일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20231017",
@@ -634,10 +949,10 @@
       "content": "부칙 <제2023-70호, 2023. 10. 17.>이 고시는 2023년 10월 17일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20231107",
@@ -645,10 +960,10 @@
       "content": "부칙 <제2023-74호, 2023. 11. 7.>이 고시는 2023년 11월 7일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20231123",
@@ -656,10 +971,10 @@
       "content": "부칙 <제2023-78호, 2023. 11. 23.>이 고시는 2023년 11월 23일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20231204",
@@ -667,10 +982,10 @@
       "content": "부칙 <제2023-82호, 2023. 12. 4.>이 고시는 2023년 12월 4일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20231218",
@@ -678,10 +993,10 @@
       "content": "부칙 <제2023-84호, 2023. 12. 18.>이 고시는 2023년 12월 18일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20240125",
@@ -689,10 +1004,10 @@
       "content": "부칙 <제2024-10호, 2024. 1. 25.>이 고시는 2024년 1월 25일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20240229",
@@ -700,10 +1015,10 @@
       "content": "부칙 <제2024-16호, 2024. 2. 29.>이 고시는 2024년 2월 29일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20240329",
@@ -711,10 +1026,10 @@
       "content": "부칙 <제2024-21호, 2024. 3. 29.>이 고시는 2024년 3월 29일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20240501",
@@ -722,10 +1037,10 @@
       "content": "부칙 <제2024-32호, 2024. 5. 1.>이 고시는 2024년 5월 1일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20240620",
@@ -733,10 +1048,10 @@
       "content": "부칙 <제2024-47호, 2024. 6. 20.>이 고시는 2024년 6월 20일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20240719",
@@ -744,10 +1059,10 @@
       "content": "부칙 <제2024-59호, 2024. 7. 19.>이 고시는 2024년 7월 19일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20240808",
@@ -755,10 +1070,10 @@
       "content": "부칙 <제2024-61호, 2024. 8. 8.>이 고시는 2024년 8월 8일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20240910",
@@ -766,10 +1081,10 @@
       "content": "부칙 <제2024-71호, 2024. 9. 10.>이 고시는 2024년 9월 10일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20241015",
@@ -777,10 +1092,10 @@
       "content": "부칙 <제2024-79호, 2024. 10. 15.>이 고시는 2024년 10월 15일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20241121",
@@ -788,10 +1103,10 @@
       "content": "부칙 <제2024-87호, 2024. 11. 21.>이 고시는 2024년 11월 21일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20250115",
@@ -799,10 +1114,10 @@
       "content": "부칙 <제2025-4호, 2025. 1. 15.>이 고시는 2025년 1월 15일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20250213",
@@ -810,10 +1125,10 @@
       "content": "부칙 <제2025-16호, 2025. 2. 13.>이 고시는 2025년 2월 13일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20250327",
@@ -821,10 +1136,10 @@
       "content": "부칙 <제2025-24호, 2025. 3. 27.>이 고시는 2025년 3월 27일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20250519",
@@ -832,10 +1147,10 @@
       "content": "부칙 <제2025-33호, 2025. 5. 19.>이 고시는 2025년 5월 19일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20250619",
@@ -843,10 +1158,10 @@
       "content": "부칙 <제2025-41호, 2025. 6. 19.>이 고시는 2025년 6월 19일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20250801",
@@ -854,10 +1169,10 @@
       "content": "부칙 <제2025-52호, 2025. 8. 1.>이 고시는 2025년 8월 1일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20251031",
@@ -865,10 +1180,10 @@
       "content": "부칙 <제2025-61호, 2025. 10. 31.>이 고시는 2025년 10월 31일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20260130",
@@ -876,10 +1191,10 @@
       "content": "부칙 <제2026-7호, 2026. 1. 30.>이 고시는 2026년 1월 00일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20260306",
@@ -887,10 +1202,10 @@
       "content": "부칙 <제2026-13호, 2026. 3. 6.>이 고시는 2026년 3월 6일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20260330",
@@ -898,10 +1213,10 @@
       "content": "부칙 <제2026-19호, 2026. 3. 30.>이 고시는 2026년 3월 30일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20260430",
@@ -909,10 +1224,10 @@
       "content": "부칙 <제2026-29호, 2026. 4. 30.>이 고시는 2026년 4월 30일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20260601",
@@ -920,10 +1235,10 @@
       "content": "부칙 <제2026-35호, 2026. 6. 1.>이 고시는 2026년 6월 1일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20260630",
@@ -931,10 +1246,10 @@
       "content": "부칙 <제2026-41호, 2026. 6. 30.>이 고시는 2026년 6월 30일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20260806",
@@ -942,28 +1257,20 @@
       "content": "부칙 <제2026-49호, 2026. 8. 6.>이 고시는 2026년 8월 6일부터 시행한다.",
       "provision_id": "admrul:민원처리기준표일부개정고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283704",
+      "source_mst": "2100000285150",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260806"
+      "version_enforcement_date": "20260921"
     }
   ],
   "appendices": [],
   "attachments": [
     {
-      "name": "2026년 제7차 민원처리기준표 일부개정고시문.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=167965109",
-      "filename": "2026년 제7차 민원처리기준표 일부개정고시문.hwpx",
+      "name": "2026년 제8차 민원처리기준표 일부개정고시문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169334661",
+      "filename": "2026년 제8차 민원처리기준표 일부개정고시문.hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/2026년 제7차 민원처리기준표 일부개정고시문.hwpx",
-      "file_store_url": ""
-    },
-    {
-      "name": "2026년 제7차 민원처리기준표 일부개정고시문.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=167965113",
-      "filename": "2026년 제7차 민원처리기준표 일부개정고시문.pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/2026년 제7차 민원처리기준표 일부개정고시문.pdf",
+      "local_path": "첨부파일/2026년 제8차 민원처리기준표 일부개정고시문.hwpx",
       "file_store_url": ""
     }
   ],
@@ -980,7 +1287,7 @@
     "ordinance_docs_total": 0,
     "addenda_count": 32,
     "appendices_count": 0,
-    "attachments_count": 2
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/민원처리기준표 일부개정고시"
