@@ -1,16 +1,16 @@
 {
   "law_id": "41937",
-  "mst": "2100000275100",
+  "mst": "2100000285374",
   "law_name": "해양수산부 위임전결규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:41937",
-  "promulgation_no": "824",
-  "promulgation_date": "20260227",
-  "enforcement_date": "20260227",
-  "revision_date": "20260227",
+  "promulgation_no": "853",
+  "promulgation_date": "20260922",
+  "enforcement_date": "20260928",
+  "revision_date": "20260922",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "김민성",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "해양수산부 위임전결규정",
-    "발령일자": "20260227",
+    "발령일자": "20260922",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "051-773-5154",
     "제개정구분명": "일부개정",
     "소관부처코드": "1192000",
-    "생성일자": "20260429",
+    "생성일자": "20260928",
     "행정규칙ID": "41937",
-    "시행일자": "20260227",
+    "시행일자": "20260928",
     "담당부서기관코드": "1192538",
-    "발령번호": "824",
-    "행정규칙일련번호": "2100000275100",
+    "발령번호": "853",
+    "행정규칙일련번호": "2100000285374",
     "상위부처명": "해양수산부"
   },
-  "amendment_text": "⊙해양수산부 훈령 제824호\n「해양수산부 위임전결규정」을 다음과 같이 일부개정합니다.\n2026년 2월 27일\n해양수산부장관\n해양수산부 위임전결규정 일부개정훈령\n해양수산부 위임전결규정 일부를 다음과 같이 개정한다.\n제1조 중 \"「행정 효율과 협업 촉진에 관한 규정」 제10조제2항\"을 \"「행정업무의 운영 및 혁신에 관한 규정」 제10조제2항\"으로 한다.\n제10조 중 \"「행정 효율과 협업 촉진에 관한 규정」\"을 \"「행정업무의 운영 및 혁신에 관한 규정」\"으로 한다.\n별표를 별지와 같이 한다.\n[별지 생략]\n부칙\n이 훈령은 발령한 날부터 시행한다.",
-  "revision_reason": "◇ 개정이유\n「해양수산부와 그 소속기관 직제 시행규칙」 개정에 따라 변경된 사항 및 자율기구 운영에 따른 신설ㆍ폐지 부서 등을 반영하고, 업무 책임성과 효율성을 고려한 전결권 조정사항을 반영하려는 것임\n◇ 주요내용\n가. (제1조ㆍ제10조) 「행정 효율과 협업 촉진에 관한 규정」 제명 변경에 따라 「행정업무의 운영 및 혁신에 관한 규정」으로 변경\n나. (제6조) 별표에서 해당 하부조직의 위임전결사항 수정",
+  "amendment_text": "⊙해양수산부훈령 제853호\n해양수산부 위임전결규정 일부를 다음과 같이 개정한다.\n2026년 9월 22일\n해양수산부장관\n해양수산부 위임전결규정 일부개정훈령\n해양수산부 위임전결규정 일부를 다음과 같이 개정한다.\n별표를 별지와 같이 한다.\n[별지생략]\n부칙\n이 훈령은 2026년 9월 28일부터 시행한다.",
+  "revision_reason": "◇ 개정이유\n해양수산부 내 별도조직 및 자율기구 신설ㆍ폐지에 따른 부서 간 업무 이관 및 신설 내용 등을 반영하여 현행화하고자 함\n◇ 주요내용\n가. (제6조) 조직변동 사항, 부서 간 업무 이관 및 신설 등을 반영하여 전결 사항 정비(별표)",
   "body": {
     "format": "articles",
     "article_count": 15,
@@ -358,10 +358,10 @@
       "content": "부칙 <제4호,2013. 5. 7.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:해양수산부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275100",
+      "source_mst": "2100000285374",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260227"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20150317",
@@ -369,10 +369,10 @@
       "content": "부칙 <제226호,2015. 3. 17.>제1조 (시행일) 이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:해양수산부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275100",
+      "source_mst": "2100000285374",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260227"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20160404",
@@ -380,10 +380,10 @@
       "content": "부칙 <제307호,2016. 4. 4.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:해양수산부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275100",
+      "source_mst": "2100000285374",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260227"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20170328",
@@ -391,10 +391,10 @@
       "content": "부칙 <제364호,2017. 3. 28.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:해양수산부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275100",
+      "source_mst": "2100000285374",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260227"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20180206",
@@ -402,10 +402,10 @@
       "content": "부칙 <제411호,2018. 2. 6.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:해양수산부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275100",
+      "source_mst": "2100000285374",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260227"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20191014",
@@ -413,10 +413,10 @@
       "content": "부칙 <제499호,2019. 10. 14.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:해양수산부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275100",
+      "source_mst": "2100000285374",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260227"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20210125",
@@ -424,10 +424,10 @@
       "content": "부칙 <제577호,2021. 1. 25.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:해양수산부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275100",
+      "source_mst": "2100000285374",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260227"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20210824",
@@ -435,10 +435,10 @@
       "content": "부칙 <제611호, 2021. 8. 24.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:해양수산부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275100",
+      "source_mst": "2100000285374",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260227"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20220407",
@@ -446,10 +446,10 @@
       "content": "부칙 <제649호, 2022. 4. 7.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다. 다만, 별표 중 26. 수산정책관 유통정책과, 35. 어촌양식정책관 어촌양식정책과, 36. 어촌양식정책관 양식산업과의 개정규정은 2022년 4월 29일부터 시행한다.제2조(수산정책실 위임전결사항에 대한 경과조치) 별표 중 26. 수산정책관 유통정책과, 35. 어촌양식정책관 어촌양식정책과, 36. 어촌양식정책관 양식산업과의 위임전결사항은 2022년 4월 28일까지 종전의 규정에 따른다.",
       "provision_id": "admrul:해양수산부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275100",
+      "source_mst": "2100000285374",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260227"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20220822",
@@ -457,10 +457,10 @@
       "content": "부칙 <제662호, 2022. 8. 22.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:해양수산부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275100",
+      "source_mst": "2100000285374",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260227"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20221101",
@@ -468,10 +468,10 @@
       "content": "부칙 <제674호, 2022. 11. 1.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:해양수산부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275100",
+      "source_mst": "2100000285374",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260227"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20230208",
@@ -479,10 +479,10 @@
       "content": "부칙 <제692호, 2023. 2. 8.>이 훈령은 2023년 2월 28일부터 시행한다.",
       "provision_id": "admrul:해양수산부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275100",
+      "source_mst": "2100000285374",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260227"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20240311",
@@ -490,10 +490,10 @@
       "content": "부칙 <제760호, 2024. 3. 11.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:해양수산부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275100",
+      "source_mst": "2100000285374",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260227"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20241024",
@@ -501,10 +501,10 @@
       "content": "부칙 <제775호, 2024. 10. 24.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:해양수산부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275100",
+      "source_mst": "2100000285374",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260227"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20250304",
@@ -512,10 +512,10 @@
       "content": "부칙 <제786호, 2025. 3. 4.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:해양수산부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275100",
+      "source_mst": "2100000285374",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260227"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20260227",
@@ -523,10 +523,21 @@
       "content": "부칙 <제824호, 2026. 2. 27.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:해양수산부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275100",
+      "source_mst": "2100000285374",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260227"
+      "version_enforcement_date": "20260928"
+    },
+    {
+      "promulgation_date": "20260922",
+      "promulgation_no": "853",
+      "content": "부칙 <제853호, 2026. 9. 22.>이 훈령은 2026년 9월 28일부터 시행한다.",
+      "provision_id": "admrul:해양수산부위임전결규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285374",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260928"
     }
   ],
   "appendices": [
@@ -536,20 +547,20 @@
       "kind": "별표",
       "title": "전결 사항",
       "enforcement_date": "",
-      "content": "[별표] 전결 사항의 자세한 내용은 상단 메뉴 \"\"버튼을 이용하십시오.",
+      "content": "[별표] 전결 사항\n※ 자세한 내용은 상단 메뉴 \"\" 버튼을 이용하십시오.\n\"\" 버튼 클릭 후 하단 파일명 참조\n★(별표) 해양수산부 위임전결사항(20260928).xlsx",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161933807",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169653245",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161933803",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169653241",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161933807",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169653245",
           "name": "",
           "file_store_url": ""
         }
@@ -564,27 +575,27 @@
   ],
   "attachments": [
     {
-      "name": "해양수산부 위임전결규정 일부개정훈령전문(260227).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=161933459",
-      "filename": "해양수산부 위임전결규정 일부개정훈령전문(260227).hwpx",
+      "name": "★(별표) 해양수산부 위임전결사항(20260928).xlsx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169599061",
+      "filename": "★(별표) 해양수산부 위임전결사항(20260928).xlsx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/해양수산부 위임전결규정 일부개정훈령전문(260227).hwpx",
+      "local_path": "첨부파일/★(별표) 해양수산부 위임전결사항(20260928).xlsx",
       "file_store_url": ""
     },
     {
-      "name": "해양수산부 위임전결규정 일부개정훈령전문(260227).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=161933463",
-      "filename": "해양수산부 위임전결규정 일부개정훈령전문(260227).pdf",
+      "name": "해양수산부 위임전결규정 일부개정훈령전문(260928).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169652505",
+      "filename": "해양수산부 위임전결규정 일부개정훈령전문(260928).hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/해양수산부 위임전결규정 일부개정훈령전문(260227).pdf",
+      "local_path": "첨부파일/해양수산부 위임전결규정 일부개정훈령전문(260928).hwpx",
       "file_store_url": ""
     },
     {
-      "name": "★(별표) 해양수산부 위임전결사항(20260227).xlsx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=161920947",
-      "filename": "★(별표) 해양수산부 위임전결사항(20260227).xlsx",
+      "name": "해양수산부 위임전결규정 일부개정훈령전문(260928).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169652509",
+      "filename": "해양수산부 위임전결규정 일부개정훈령전문(260928).pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/★(별표) 해양수산부 위임전결사항(20260227).xlsx",
+      "local_path": "첨부파일/해양수산부 위임전결규정 일부개정훈령전문(260928).pdf",
       "file_store_url": ""
     }
   ],
@@ -603,7 +614,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 16,
+    "addenda_count": 17,
     "appendices_count": 1,
     "attachments_count": 3
   },
