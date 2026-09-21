@@ -1,16 +1,16 @@
 {
   "law_id": "86680",
-  "mst": "2100000255932",
+  "mst": "2100000285304",
   "law_name": "인사혁신처 보안업무규정 시행세칙",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:86680",
-  "promulgation_no": "185",
-  "promulgation_date": "20250305",
-  "enforcement_date": "20250305",
-  "revision_date": "20250305",
+  "promulgation_no": "209",
+  "promulgation_date": "20260921",
+  "enforcement_date": "20260921",
+  "revision_date": "20260921",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "주혜성",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "인사혁신처 보안업무규정 시행세칙",
-    "발령일자": "20250305",
+    "발령일자": "20260921",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,49 +27,28 @@
     "전화번호": "044-201-8015",
     "제개정구분명": "일부개정",
     "소관부처코드": "1760000",
-    "생성일자": "20250306",
+    "생성일자": "20260922",
     "행정규칙ID": "86680",
-    "시행일자": "20250305",
+    "시행일자": "20260921",
     "담당부서기관코드": "1760049",
-    "발령번호": "185",
-    "행정규칙일련번호": "2100000255932",
+    "발령번호": "209",
+    "행정규칙일련번호": "2100000285304",
     "상위부처명": "인사혁신처"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n○ 국가정보원 보안업무규정(‘21.1.1.시행) 및 보안업무규정 시행규칙(’22.11.28. 시행) 개정에 따른 인사혁신처 보안업무규정 시행세칙을 현행화하고자 함\n○ 비밀취급인가 해제 관련 규정 정비, 비밀기록물 원본 이관 방안 마련, 보호지역 설정 현행화, 보안감사 규정 정비 등 미비점을 보완하고자 함\n◇ 제ㆍ개정 내용\n○ 비밀취급인가 해제 관련 규정 정비(제11조의1)\n- 비밀취급인가 해제 사유 중 보안사고 내용 명시\n○ 비밀기록물 원본 이관 방안 마련(제25조)\n- 비밀기록물 원본의 경우 기록관으로 이관함을 명시\n○ 보호지역 설정 현행화(제48조)\n- 청사 이전에 따른 현행화된 보호지역 내용 명시\n○ 보안감사 규정 정비(제53조)\n- 보안감사를 실시한 각급기관의 장은 보안감사의 결과를 국가정보원장에게 통보한다는 내용 명시\n○ 보안교육 규정 정비(제54조)\n- 보안교육은 반기 1회 이상 실시하여야 한다는 내용 명시\n○ 국가정보원 개정(안) 검토 의견 반영(제5조, 제9조, 제21조의1, 제23조, 제36조, 제46조의2, 별표 및 별지 서식)\n- 인사혁신처 보안업무규정 시행세칙 개정(안)에 대한 국가정보원 검토 의견 반영",
+  "revision_reason": "□ 인사혁신처 보안업무규정 시행세칙 일부개정(제4조, 제5조, 제24조의2, 제48조, 제51조, 제54조)\n◇ 제ㆍ개정 이유\n○ 국가정보원 보안업무규정(‘26.5.19.시행) 및 인사혁신처와 그 소속기관 직제 시행규칙(‘25.12.30.시행) 개정에 따른 인사혁신처 보안업무규정 시행세칙을 현행화하고자 함\n○ 보안심사위원회의 설치운영 및 심의사항 규정 정비, 보호지역 설정 현행화, 보안사고 보고 및 통보 내용 등 미비점 보완 및 국가정보원 검토 의견을 반영하고자 함\n◇ 제ㆍ개정 내용\n○ 보안심사위원회 설치운영 관련 규정 정비(제4조)\n- 소청심사위원회 및 공무원재해보상연금위원회 사무국 보안업무담당자 직급 명확화\n○ 보안심사위원회의 심의사항 규정 정비(제5조)\n- 보안 관련 규정 제ㆍ개정 사항, 보안정책 수립 및 제도 개선, 보안 업무 수행의 실태 평가 및 처리 사항 내용 추가\n○ 비밀의 범주 확대 및 등급 구분 신설(제24조의2)\n○ 보호지역 설정 현행화(제48조)\n- 부처합동 사이버안전센터 제한구역 및 통제구역 현행화\n○ 보안사고 보고 및 통보 지정(제51조)\n- 보안사고 발생 시, 보고 및 통보 내용 반영 등 미비점 보완\n○ 보안 업무 수행 인력의 양성 규정 정비(제54조)\n- 교육과정 등 내용 반영",
   "body": {
     "format": "articles",
-    "article_count": 61,
+    "article_count": 62,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "제1장  총    칙",
         "chapter_path": "제1장  총    칙",
-        "content": "제1조(목적) 이 세칙은 「보안업무규정」(이하 \"규정\"이라 한다) 및 「보안업무규정시행규칙」(이하 \"훈령\"이라 한다)의 적절한 운영을 기하기 위하여 필요한 사항을 규정함을 목적으로 한다.",
+        "content": "제1조(목적) 이 세칙은 보안업무규정(이하 \"규정\"이라 한다) 및 보안업무규정시행규칙(이하 \"훈령\"이라 한다)의 적절한 운영을 기하기 위하여 필요한 사항을 규정함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제1조",
-            "source_clause": "제1조",
-            "link_text": "「보안업무규정시행규칙」",
-            "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0001",
-            "reference_id": "admrul:보안업무규정시행규칙#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
-          }
-        ],
+        "relations": [],
         "images": [],
         "provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0001"
       },
@@ -89,50 +68,9 @@
         "article_title": "보안담당관",
         "chapter": "제1장  총    칙",
         "chapter_path": "제1장  총    칙",
-        "content": "제3조(보안담당관) ① 다음 각 호의 자는 임용과 동시에 소속기관의 보안담당관이 된다.1. 인사혁신처 본부 : 보안업무 담당과장2. 소속기관 : 서무업무를 담당하는 과장3. 산하기관 : 서무업무를 담당하는 부서장② 정보통신 분야는 업무의 전문성을 고려하여 \"인사혁신처 정보보안지침\"에 의거 정보보안담당관 제도를 운영하되, 정보통신 관련 업무에 관하여 보안담당관의 직무를 수행한다.③ 보안담당관의 업무수행능률을 위하여 다음 각호와 같이 분임보안담당관을 두되 당해 직위에 임용과 동시에 소속기관의 분임보안담당관이 된다.1. 인사혁신처 본부 : 각 과장2. 소속기관 : 각 실ㆍ국ㆍ부의 주무과장3. 산하기관 : 각 기관의 실정에 맞게 따로 정한다.④ 보안담당관의 임무는 다음 각호와 같다.1. 훈령 제68조에 정한 사항2. 본부, 소속기관, 산하기관의 보안감사 및 보안점검3. 본부보안진단 및 보안업무 심사분석에 관한 사항4. 정보보안담당관 및 분임보안담당관과 소속기관, 산하기관 보안담당관의 지휘 감독에 관한 사항5. 비밀 및 암호자재 보호를 위한 출입통제대책 마련6. 기타 보안업무 전반에 관한 지도, 조정 및 감독에 관한 사항⑤ 보안담당관(분임보안담당관을 포함한다) 유고시는 동급의 소속 직원 또는 그 상위자 중에서 보안담당관을 임명하여 업무를 대행하게 한다. 다만, 직제상 동급 또는 상위자가 없는 경우에는 차하위자로 할 수 있다.⑥ 분임보안담당관은 보안담당관의 지휘감독을 받아 소속부서 내에서 다음 각 호의 업무를 수행한다.1. 보안업무에 관한 자체계획의 수립, 집행2. 보안교육 및 보안진단3. 비밀소유 현황 및 비밀취급인가자 현황 조사4. 보호지역 등 중요시설에 대한 출입통제대책 마련5. 기타 보안담당관이 지시하는 보안업무의 이행⑦ 보안담당관이 교체되었을 때에는 교체 후 7일 이내 다음 각호와 같이 통보하여야 한다.1. 인사혁신처 본부는 국가정보원으로 통보2. 소속기관은 인사혁신처로 통보(인사기록카드 사본 1부 첨부)3. 산하기관은 당해 국가정보원 지부로 통보(인사기록카드 사본 등 필요사항 첨부)",
+        "content": "제3조(보안담당관) ① 다음 각 호의 자는 임용과 동시에 소속기관의 보안담당관이 된다.1. 인사혁신처 본부 : 보안업무 담당과장2. 소속기관 : 서무업무를 담당하는 과장3. 산하기관 : 서무업무를 담당하는 부서장② 정보통신 분야는 업무의 전문성을 고려하여 \"인사혁신처 정보보안지침\"에 의거 정보보안담당관 제도를 운영하되, 정보통신 관련 업무에 관하여 보안담당관의 직무를 수행한다.③ 보안담당관의 업무수행능률을 위하여 다음 각호와 같이 분임보안담당관을 두되 당해 직위에 임용과 동시에 소속기관의 분임보안담당관이 된다.1. 인사혁신처 본부 : 각 과장2.소속기관 : 각 실ㆍ국ㆍ부의 주무과장3. 산하기관 : 각 기관의 실정에 맞게 따로 정한다.④ 보안담당관의 임무는 다음 각호와 같다.1. 훈령 제68조에 정한 사항2. 본부, 소속기관, 산하기관의 보안감사 및 보안점검3. 본부보안진단 및 보안업무 심사분석에 관한 사항4.정보보안담당관 및 분임보안담당관과 소속기관, 산하기관 보안담당관의 지휘 감독에 관한 사항5. 비밀 및 암호자재 보호를 위한 출입통제대책 마련6. 기타 보안업무 전반에 관한 지도, 조정 및 감독에 관한 사항⑤ 보안담당관(분임보안담당관을 포함한다) 유고시는 동급의 소속 직원 또는 그 상위자 중에서 보안담당관을 임명하여 업무를 대행하게 한다. 다만, 직제상 동급 또는 상위자가 없는 경우에는 차하위자로 할 수 있다.⑥ 분임보안담당관은 보안담당관의 지휘감독을 받아 소속부서 내에서 다음 각 호의 업무를 수행한다.1. 보안업무에 관한 자체계획의 수립, 집행2. 보안교육 및 보안진단3. 비밀소유 현황 및 비밀취급인가자 현황 조사4. 보호지역 등 중요시설에 대한 출입통제대책 마련5. 기타 보안담당관이 지시하는 보안업무의 이행⑦ 보안담당관이 교체되었을 때에는 교체 후 7일 이내 다음 각호와 같이 통보하여야 한다.1.인사혁신처 본부는 국가정보원으로 통보2. 소속기관은 인사혁신처로 통보(인사기록카드 사본 1부 첨부)3.산하기관은 당해 국가정보원 지부로 통보(인사기록카드 사본 등 필요사항 첨부)",
         "enforcement_date": "",
-        "relations": [
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제3조",
-            "source_clause": "제3조제4항",
-            "link_text": "훈령",
-            "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0003",
-            "reference_id": "admrul:보안업무규정시행규칙#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제3조",
-            "source_clause": "제3조제4항",
-            "link_text": "제68조",
-            "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
-            "target_article_no": "제68조",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙/제68조",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0003",
-            "reference_id": "admrul:보안업무규정시행규칙#JO0068",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
-          }
-        ],
+        "relations": [],
         "images": [],
         "provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0003"
       },
@@ -141,7 +79,7 @@
         "article_title": "보안심사위원회의 설치운영",
         "chapter": "제1장  총    칙",
         "chapter_path": "제1장  총    칙",
-        "content": "제4조(보안심사위원회의 설치운영) ① 보안업무의 효율적인 운영과 중요보안사항을 심의ㆍ결정하기 위하여 보안심사위원회를 설치, 운영하고 보안심사위원회에서 심의 결정한 사항은 소속기관의 장에게 보고하여야 한다.② 보안심사위원회 구성은 다음과 같으며 그 직에 임명됨과 동시에 당연직으로 한다.1. 인사혁신처 : 차장을 위원장으로 하고 기획조정관을 부위원장으로 하며 재해보상정책관, 인재채용국장, 인사혁신국장, 인사관리국장, 윤리복무국장, 인재정보기획관, 공무원노사협력관은 위원이 되고 보안업무 담당과장이 간사가 된다.2. 국가공무원인재개발원 : 기획부장을 위원장으로 하고 교육지원과장을 부위원장으로 하며 각 과장은 위원이 되고 보안업무담당사무관이 간사가 된다.3. 소청심사위원회 : 행정과장을 위원장으로 하고 보안업무담당사무관을 부위원장으로 하며 각 계장은 위원이 되고 보안업무담당자가 간사가 된다.③ 위원장은 위원회를 정리하고 표결권을 가지며 가부 동수인 때에는 결정권을 가지고, 부위원장은 위원장 유고시 그 직무를 대행한다.④ 보안심사위원회는 재적위원 과반수의 출석과 출석위원 과반수로 결정된다.⑤ 보안심사위원회가 설치되지 않은 기관은 자체인사위원회 등 심의기구를 통하여 보안심사위원회의 심의사항 중 필요한 사항을 의결하도록 한다.",
+        "content": "제4조(보안심사위원회의 설치운영) ① 보안업무의 효율적인 운영과 중요보안사항을 심의ㆍ결정하기 위하여 보안심사위원회를 설치, 운영하고 보안심사위원회에서 심의 결정한 사항은 소속기관의 장에게 보고하여야 한다.② 보안심사위원회 구성은 다음과 같으며 그 직에 임명됨과 동시에 당연직으로 한다.1.인사혁신처 : 차장을 위원장으로 하고 기획조정관을 부위원장으로 하며 재해보상정책관, 인재채용국장, 인사혁신국장, 인사관리국장, 윤리복무국장, 인재정보기획관, 공무원노사협력관은 위원이 되고 보안업무 담당과장이 간사가 된다.2. 국가공무원인재개발원 : 기획부장을 위원장으로 하고 교육지원과장을 부위원장으로 하며 각 과장은 위원이 되고 보안업무담당사무관이 간사가 된다.3. 소청심사위원회 : 행정과장을 위원장으로 하고 보안업무담당서기관 또는 사무관을 부위원장으로 하며 각 계장은 위원이 되고 보안업무담당주무관이 간사가 된다.4. 공무원재해보상연금위원회 사무국 : 사무국장을 위원장으로 하고 보안업무담당서기관 또는 사무관을 부위원장으로 하며 각 계장은 위원이 되고 보안업무담당주무관이 간사가 된다.③ 위원장은 위원회를 정리하고 표결권을 가지며 가부 동수인 때에는 결정권을 가지고, 부위원장은 위원장 유고시 그 직무를 대행한다.④ 보안심사위원회는 재적위원 과반수의 출석과 출석위원 과반수로 결정된다.⑤ 보안심사위원회가 설치되지 않은 기관은 자체인사위원회 등 심의기구를 통하여 보안심사위원회의 심의사항 중 필요한 사항을 의결하도록 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -152,7 +90,7 @@
         "article_title": "심의사항",
         "chapter": "제1장  총    칙",
         "chapter_path": "제1장  총    칙",
-        "content": "제5조(심의사항) ① 보안심사위원회의 심의사항은 다음 각호와 같다.1. 보안제도운영 계획 수립에 관한 사항2. 연간 보안목표의 설정과 세부시행계획의 수정에 관한 사항3. 비밀의 공개에 관한 사항(본부 보안심사위원회에 한한다)4. 신원특이자의 임용, 비밀취급 인가 등 심사에 관한 사항5. 중요시설 경계대책6. 중요시설공사의 시행에 따른 설계도서, 시공업체 사후관리 등 보안조치사항(방위시설, 국민생명, 재산보호와 직결되는 각종 보안 시설공사)7. 민간업체의 비밀취급인가8. 항공사진촬영, 복사판의 관리9. 정보보안담당관 등의 임무 중 중요 보안업무 수행사항10. 보안사고 및 보안관련 제규정 위반자의 처리에 관한 사항11. 기타 소속기관 고유업무 등 기능에 입각한 보안업무수행에 필요한 사항② 국ㆍ관ㆍ과장은 소관업무 중 제1항의 심사대상 업무는 반드시 보안심사위원회의 사전심의를 거쳐 시행하여야 한다.",
+        "content": "제5조(심의사항) ① 보안심사위원회의 심의사항은 다음 각호와 같다.1. 연간 보안목표의 설정과 세부시행계획의 수정에 관한 사항2. 비밀의 공개에 관한 사항(본부 보안심사위원회에 한한다)3. 신원특이자의 임용, 비밀취급 인가 등 심사에 관한 사항4. 중요시설 경계대책5. 중요시설공사의 시행에 따른 설계도서, 시공업체 사후관리 등 보안조치사항(방위시설, 국민생명, 재산보호와 직결되는 각종 보안 시설공사)6. 민간업체의 비밀취급인가7. 항공사진촬영, 복사판의 관리8. 정보보안담당관 등의 임무 중 중요 보안업무 수행사항9. 보안사고 및 보안관련 제규정 위반자의 처리에 관한 사항10. 기타 소속기관 고유업무 등 기능에 입각한 보안업무수행에 필요한 사항11. 보안 관련 규정의 제정 또는 개정에 관한 사항12. 보안정책 수립 및 제도 개선에 관한 사항13. 보안 업무 수행의 실태 평가 및 처리에 관한 사항② 국ㆍ관ㆍ과장은 소관업무 중 제1항의 심사대상 업무는 반드시 보안심사위원회의 사전심의를 거쳐 시행하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -203,7 +141,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666885",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530549",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0006",
             "target_unit": "BJ0015",
@@ -221,14 +159,14 @@
             "line_text": "",
             "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "별지18",
-            "target_article_title": "보안심사위원회 회의록 (갑)",
+            "target_article_title": "보안심사위원회 회의록 (갑), 회의록 (을)",
             "appendix_no": "18",
             "appendix_branch": "",
             "appendix_kind": "별지",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666907",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530571",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0006",
             "target_unit": "BJ0018",
@@ -253,7 +191,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666891",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530555",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0006",
             "target_unit": "BJ0016",
@@ -296,44 +234,24 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제9조",
-            "source_clause": "제9조제1항",
-            "link_text": "훈령",
-            "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0009",
-            "reference_id": "admrul:보안업무규정시행규칙#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
-          },
-          {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제9조",
             "source_clause": "제9조제1항",
             "link_text": "제12조",
             "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제12조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙/제12조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제12조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0009",
-            "reference_id": "admrul:보안업무규정시행규칙#JO0012",
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -352,33 +270,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666921",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530585",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0009",
             "target_unit": "BJ0020",
             "reference_id": "admrul:인사혁신처보안업무규정시행세칙#BJ0020",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제9조",
-            "source_clause": "제9조제2항",
-            "link_text": "훈령",
-            "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0009",
-            "reference_id": "admrul:보안업무규정시행규칙#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -388,22 +286,22 @@
             "source_clause": "제9조제2항",
             "link_text": "별지 제21호 서식",
             "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "별지21",
-            "target_article_title": "",
+            "target_article_title": "암호(약호)자재사용대장",
             "appendix_no": "21",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530591",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0009",
             "target_unit": "BJ0021",
-            "reference_id": "admrul:보안업무규정시행규칙#BJ0021",
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#BJ0021",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -422,7 +320,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666945",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530609",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0009",
             "target_unit": "BJ0024",
@@ -447,7 +345,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666963",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530627",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0009",
             "target_unit": "BJ0027",
@@ -456,44 +354,44 @@
             "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           },
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "행정규칙",
             "source_article_no": "제9조",
             "source_clause": "제9조제3항",
             "link_text": "제8조",
             "line_text": "",
-            "target_law_name": "보안업무규정",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제8조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/법령/보안업무규정/제8조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제8조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0009",
-            "reference_id": "law:보안업무규정#JO0008",
-            "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0008",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           },
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "행정규칙",
             "source_article_no": "제9조",
             "source_clause": "제9조제3항",
             "link_text": "제10조제5항",
             "line_text": "",
-            "target_law_name": "보안업무규정",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제10조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/법령/보안업무규정/제10조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제10조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0009",
-            "reference_id": "law:보안업무규정#JO0010",
-            "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0010",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -528,44 +426,24 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제10조",
-            "source_clause": "제10조제1항",
-            "link_text": "규정",
-            "line_text": "",
-            "target_law_name": "보안업무규정",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/법령/보안업무규정",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0010",
-            "reference_id": "law:보안업무규정#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "행정규칙",
             "source_article_no": "제10조",
             "source_clause": "제10조제1항",
             "link_text": "제9조",
             "line_text": "",
-            "target_law_name": "보안업무규정",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제9조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/법령/보안업무규정/제9조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제9조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0010",
-            "reference_id": "law:보안업무규정#JO0009",
-            "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0009",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           }
         ],
         "images": [],
@@ -596,7 +474,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666783",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530447",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0011",
             "target_unit": "BJ0001",
@@ -621,7 +499,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666789",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530453",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0011",
             "target_unit": "BJ0002",
@@ -658,7 +536,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666795",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530459",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0011_02",
             "target_unit": "BJ0003",
@@ -711,64 +589,44 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제13조",
-            "source_clause": "제13조제1항",
-            "link_text": "훈령",
-            "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0013",
-            "reference_id": "admrul:보안업무규정시행규칙#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
-          },
-          {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제13조",
             "source_clause": "제13조제1항",
             "link_text": "제14조",
             "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제14조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙/제14조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제14조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0013",
-            "reference_id": "admrul:보안업무규정시행규칙#JO0014",
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0014",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           },
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제13조",
             "source_clause": "제13조제1항",
             "link_text": "제12조",
             "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제12조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙/제12조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제12조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0013",
-            "reference_id": "admrul:보안업무규정시행규칙#JO0012",
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -787,7 +645,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666963",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530627",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0013",
             "target_unit": "BJ0027",
@@ -812,7 +670,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666921",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530585",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0013",
             "target_unit": "BJ0020",
@@ -849,7 +707,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666795",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530459",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0014",
             "target_unit": "BJ0003",
@@ -874,7 +732,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666801",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530465",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0014",
             "target_unit": "BJ0003_01",
@@ -895,44 +753,24 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제15조",
-            "source_clause": "제15조제1항",
-            "link_text": "훈령",
-            "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0015",
-            "reference_id": "admrul:보안업무규정시행규칙#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
-          },
-          {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제15조",
             "source_clause": "제15조제1항",
             "link_text": "제13조",
             "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제13조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙/제13조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제13조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0015",
-            "reference_id": "admrul:보안업무규정시행규칙#JO0013",
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -998,14 +836,14 @@
             "line_text": "",
             "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "별지4",
-            "target_article_title": "신원대장",
+            "target_article_title": "신원조사대장",
             "appendix_no": "4",
             "appendix_branch": "",
             "appendix_kind": "별지",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666807",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530471",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0018",
             "target_unit": "BJ0004",
@@ -1107,7 +945,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666975",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530639",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0022",
             "target_unit": "BJ0029",
@@ -1132,7 +970,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666969",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530633",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0022",
             "target_unit": "BJ0028",
@@ -1153,64 +991,44 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제23조",
-            "source_clause": "제23조제1항",
-            "link_text": "제13조",
-            "line_text": "",
-            "target_law_name": "보안업무규정",
-            "target_article_no": "제13조",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/법령/보안업무규정/제13조",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0023",
-            "reference_id": "law:보안업무규정#JO0013",
-            "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
-          },
-          {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제23조",
             "source_clause": "제23조제1항",
-            "link_text": "훈령",
+            "link_text": "제13조",
             "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
-            "target_article_no": "",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
+            "target_article_no": "제13조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제13조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0023",
-            "reference_id": "admrul:보안업무규정시행규칙#DOC",
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           },
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제23조",
             "source_clause": "제23조제1항",
             "link_text": "제17조",
             "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제17조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙/제17조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제17조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0023",
-            "reference_id": "admrul:보안업무규정시행규칙#JO0017",
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0017",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           }
         ],
         "images": [],
@@ -1226,6 +1044,17 @@
         "relations": [],
         "images": [],
         "provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0024"
+      },
+      {
+        "article_no": "제24조의2",
+        "article_title": "비밀의 구분",
+        "chapter": "제1절  비밀의 분류",
+        "chapter_path": "제3장  문서보안 > 제1절  비밀의 분류",
+        "content": "제24조의2(비밀의 구분) 비밀은 그 중요성과 가치의 정도에 따라 다음 각 호와 같이 구분한다.1. Ⅰ급비밀 : 누설될 경우 다음 각 목의 어느 하나에 해당하는 국가안전보장에 중대하고 명백한 해(害)를 끼칠 우려가 있는 비밀가. 대한민국과 외교관계가 단절되거나 전쟁을 일으킬 수 있는 사항나. 국가방위에 반드시 필요한 과학기술이 침탈되거나 그 개발이 현저히 어렵게 될 수 있는 사항다. 국가의 방위계획ㆍ정보활동 및 경제안보 등을 현저히 위태롭게 할 수 있는 사항2. Ⅱ급비밀 : 누설될 경우 국가안전보장에 중대한 해를 끼칠 우려가 있는 비밀3. Ⅲ급비밀 : 누설될 경우 국가안전보장에 해를 끼칠 우려가 있는 비밀",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0024_02"
       },
       {
         "article_no": "제25조",
@@ -1299,8 +1128,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666541",
-            "seq": "149666541",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169512877",
+            "seq": "169512877",
             "filename": "제25조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제25조_1.gif",
@@ -1318,44 +1147,24 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제25조의2",
-            "source_clause": "제25조의2제2항",
-            "link_text": "규정",
-            "line_text": "",
-            "target_law_name": "보안업무규정",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/법령/보안업무규정",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0025_02",
-            "reference_id": "law:보안업무규정#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "행정규칙",
             "source_article_no": "제25조의2",
             "source_clause": "제25조의2제2항",
             "link_text": "제4조",
             "line_text": "",
-            "target_law_name": "보안업무규정",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제4조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/법령/보안업무규정/제4조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제4조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0025_02",
-            "reference_id": "law:보안업무규정#JO0004",
-            "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0004",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           },
           {
             "relation_type": "citation",
@@ -1414,7 +1223,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666951",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530615",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0025_02",
             "target_unit": "BJ0025",
@@ -1439,7 +1248,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666957",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530621",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0025_02",
             "target_unit": "BJ0026",
@@ -1471,8 +1280,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666539",
-            "seq": "149666539",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169512879",
+            "seq": "169512879",
             "filename": "제25조의2_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제25조의2_1.gif",
@@ -1490,44 +1299,24 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제26조",
-            "source_clause": "제26조제2항",
-            "link_text": "훈령",
-            "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0026",
-            "reference_id": "admrul:보안업무규정시행규칙#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
-          },
-          {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제26조",
             "source_clause": "제26조제2항",
             "link_text": "제52조",
             "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제52조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙/제52조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제52조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0026",
-            "reference_id": "admrul:보안업무규정시행규칙#JO0052",
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0052",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1539,14 +1328,14 @@
             "line_text": "",
             "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "별지18",
-            "target_article_title": "보안심사위원회 회의록 (갑)",
+            "target_article_title": "보안심사위원회 회의록 (갑), 회의록 (을)",
             "appendix_no": "18",
             "appendix_branch": "",
             "appendix_kind": "별지",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666907",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530571",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0026",
             "target_unit": "BJ0018",
@@ -1564,14 +1353,14 @@
             "line_text": "",
             "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "별지18",
-            "target_article_title": "보안심사위원회 회의록 (갑)",
+            "target_article_title": "보안심사위원회 회의록 (갑), 회의록 (을)",
             "appendix_no": "18",
             "appendix_branch": "",
             "appendix_kind": "별지",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666907",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530571",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0026",
             "target_unit": "BJ0018",
@@ -1592,44 +1381,24 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제27조",
-            "source_clause": "제27조",
-            "link_text": "규정",
-            "line_text": "",
-            "target_law_name": "보안업무규정",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/법령/보안업무규정",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0027",
-            "reference_id": "law:보안업무규정#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "행정규칙",
             "source_article_no": "제27조",
             "source_clause": "제27조",
             "link_text": "제15조",
             "line_text": "",
-            "target_law_name": "보안업무규정",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제15조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/법령/보안업무규정/제15조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제15조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0027",
-            "reference_id": "law:보안업무규정#JO0015",
-            "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0015",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           }
         ],
         "images": [],
@@ -1651,48 +1420,28 @@
         "article_title": "대외 접수ㆍ발송",
         "chapter": "제2절  비밀의 접수ㆍ발송",
         "chapter_path": "제3장  문서보안 > 제2절  비밀의 접수ㆍ발송",
-        "content": "제29조(대외 접수ㆍ발송) ① 비밀의 대외 접수ㆍ발송은 소속 문서주관부서에 행하며 그 담당자는 Ⅱ급 이상의 비밀취급 인가를 받은 사람이어야 한다.② 비밀문서의 접수ㆍ발송은 훈령 제31조에 의하며, 그 구체적 접수ㆍ\t발송절차는 다음 각 호와 같다.1. 비밀작성부서가. 관리기록부 및 비밀원본과 시행문을 지참하여 문서주관과의 심사를 받는다.나. 심사를 받은 다음 발송담당자에게 인도한다.2. 발송담당자가. 비밀작성부서의 관리기록부, 비밀의 원본 및 시행문을 인수하고 관리기록부 기재사항을 확인한 후 비밀 접수 및 발송대장(훈령 별지 제14호 서식) 수령자인 란에 날인 또는 서명하고 이를 비밀원본과 함께 발송의뢰자에게 인도하며 대장의 원본 인수자란에 서명을 받는다.나. 발송의뢰한 시행문을 대장에 수신처별로 기록한다.다. 접수증 작성, 봉함 등 사송절차를 취한다.라. 비밀사송원 등을 통하여 발송 조치한다.3. 비밀 사송원가. 비밀 사송부(별지 제24호 서식)에 수신처별로 기록한다.나. 접수기관의 접수담당자에게 인도하고 사송부에 날인 또는 서명을 받는다.다. 우송하는 경우에는 특수우편물 영수증을 수령한다.③ 외부로부터 접수된 비밀은 접수부에 기록하고 내용에 따라 주관부서를 결정, 직접 주관부서 비밀취급인가자에게 인도하여야 하며 접수부 수령자인 란에 날인 또는 서명을 받는다.④ 오착된 비밀은 원 발송기관에 반송하되 개봉하였을 때에는 개봉자가 서명 날인 후 다시 봉함하여야 한다.",
+        "content": "제29조(대외 접수ㆍ발송) ① 비밀의 대외 접수ㆍ발송은 소속 문서주관부서에 행하며 그 담당자는 Ⅱ급 이상의 비밀취급 인가를 받은 사람이어야 한다.② 비밀문서의 접수ㆍ발송은 훈령 제31조에 의하며, 그 구체적 접수ㆍ발송절차는 다음 각 호와 같다.1. 비밀작성부서가. 관리기록부 및 비밀원본과 시행문을 지참하여 문서주관과의 심사를 받는다.나. 심사를 받은 다음 발송담당자에게 인도한다.2. 발송담당자가. 비밀작성부서의 관리기록부, 비밀의 원본 및 시행문을 인수하고 관리기록부 기재사항을 확인한 후 비밀 접수 및 발송대장(훈령 별지 제14호 서식) 수령자인 란에 날인 또는 서명하고 이를 비밀원본과 함께 발송의뢰자에게 인도하며 대장의 원본 인수자란에 서명을 받는다.나. 발송의뢰한 시행문을 대장에 수신처별로 기록한다.다. 접수증 작성, 봉함 등 사송절차를 취한다.라. 비밀사송원 등을 통하여 발송 조치한다.3. 비밀 사송원가. 비밀 사송부(별지 제24호 서식)에 수신처별로 기록한다.나. 접수기관의 접수담당자에게 인도하고 사송부에 날인 또는 서명을 받는다.다. 우송하는 경우에는 특수우편물 영수증을 수령한다.③ 외부로부터 접수된 비밀은 접수부에 기록하고 내용에 따라 주관부서를 결정, 직접 주관부서 비밀취급인가자에게 인도하여야 하며 접수부 수령자인 란에 날인 또는 서명을 받는다.④ 오착된 비밀은 원 발송기관에 반송하되 개봉하였을 때에는 개봉자가 서명 날인 후 다시 봉함하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제29조",
-            "source_clause": "제29조제2항",
-            "link_text": "훈령",
-            "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0029",
-            "reference_id": "admrul:보안업무규정시행규칙#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
-          },
-          {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제29조",
             "source_clause": "제29조제2항",
             "link_text": "제31조",
             "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제31조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙/제31조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제31조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0029",
-            "reference_id": "admrul:보안업무규정시행규칙#JO0031",
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0031",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1711,7 +1460,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666879",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530543",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0029",
             "target_unit": "BJ0014",
@@ -1736,7 +1485,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666945",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530609",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0029",
             "target_unit": "BJ0024",
@@ -1817,7 +1566,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666825",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530489",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0034",
             "target_unit": "BJ0007",
@@ -1842,7 +1591,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666837",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530501",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0034",
             "target_unit": "BJ0008",
@@ -1867,7 +1616,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666879",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530543",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0034",
             "target_unit": "BJ0014",
@@ -1879,8 +1628,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666515",
-            "seq": "149666515",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169512891",
+            "seq": "169512891",
             "filename": "제34조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제34조_1.gif",
@@ -1914,7 +1663,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666843",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530507",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0035",
             "target_unit": "BJ0008_01",
@@ -1990,44 +1739,24 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제41조",
-            "source_clause": "제41조제2항",
-            "link_text": "훈령",
-            "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0041",
-            "reference_id": "admrul:보안업무규정시행규칙#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
-          },
-          {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제41조",
             "source_clause": "제41조제2항",
             "link_text": "제35조",
             "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제35조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙/제35조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제35조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0041",
-            "reference_id": "admrul:보안업무규정시행규칙#JO0035",
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0035",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2046,7 +1775,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666849",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530513",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0041",
             "target_unit": "BJ0009",
@@ -2058,8 +1787,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666519",
-            "seq": "149666519",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169512893",
+            "seq": "169512893",
             "filename": "제41조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제41조_1.gif",
@@ -2067,8 +1796,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666543",
-            "seq": "149666543",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169512927",
+            "seq": "169512927",
             "filename": "제41조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제41조_2.gif",
@@ -2102,7 +1831,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666831",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530495",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0042",
             "target_unit": "BJ0007_01",
@@ -2123,44 +1852,24 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제43조",
-            "source_clause": "제43조제4항",
-            "link_text": "훈령",
-            "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0043",
-            "reference_id": "admrul:보안업무규정시행규칙#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
-          },
-          {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제43조",
             "source_clause": "제43조제4항",
             "link_text": "제39조",
             "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제39조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙/제39조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제39조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0043",
-            "reference_id": "admrul:보안업무규정시행규칙#JO0039",
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0039",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           },
           {
             "relation_type": "citation",
@@ -2186,8 +1895,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666521",
-            "seq": "149666521",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169512943",
+            "seq": "169512943",
             "filename": "제43조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제43조_1.gif",
@@ -2205,44 +1914,24 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제44조",
-            "source_clause": "제44조",
-            "link_text": "훈령",
-            "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0044",
-            "reference_id": "admrul:보안업무규정시행규칙#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
-          },
-          {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제44조",
             "source_clause": "제44조",
             "link_text": "제39조",
             "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제39조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙/제39조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제39조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0044",
-            "reference_id": "admrul:보안업무규정시행규칙#JO0039",
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0039",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           }
         ],
         "images": [],
@@ -2268,44 +1957,24 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제46조",
-            "source_clause": "제46조제1항",
-            "link_text": "훈령",
-            "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0046",
-            "reference_id": "admrul:보안업무규정시행규칙#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
-          },
-          {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제46조",
             "source_clause": "제46조제1항",
             "link_text": "제49조",
             "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제49조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙/제49조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제49조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0046",
-            "reference_id": "admrul:보안업무규정시행규칙#JO0049",
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0049",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           }
         ],
         "images": [],
@@ -2320,24 +1989,24 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "행정규칙",
             "source_article_no": "제46조의2",
             "source_clause": "제46조의2제1항",
             "link_text": "제27조",
             "line_text": "",
-            "target_law_name": "보안업무규정",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제27조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/법령/보안업무규정/제27조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제27조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0046_02",
-            "reference_id": "law:보안업무규정#JO0027",
-            "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0027",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2349,40 +2018,20 @@
             "line_text": "",
             "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "별지17",
-            "target_article_title": "신원특이자 심의결정서 (갑)",
+            "target_article_title": "신원특이자 심의결정서 (갑), 심의안건(을)",
             "appendix_no": "17",
             "appendix_branch": "",
             "appendix_kind": "별지",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666899",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530563",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0046_02",
             "target_unit": "BJ0017",
             "reference_id": "admrul:인사혁신처보안업무규정시행세칙#BJ0017",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제46조의2",
-            "source_clause": "제46조의2제7항",
-            "link_text": "훈령",
-            "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0046_02",
-            "reference_id": "admrul:보안업무규정시행규칙#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2392,22 +2041,22 @@
             "source_clause": "제46조의2제7항",
             "link_text": "별지 제15호 서식",
             "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "별지15",
-            "target_article_title": "",
+            "target_article_title": "보안심사위원회 심의요구서",
             "appendix_no": "15",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530549",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0046_02",
             "target_unit": "BJ0015",
-            "reference_id": "admrul:보안업무규정시행규칙#BJ0015",
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#BJ0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           }
         ],
         "images": [],
@@ -2429,88 +2078,68 @@
         "article_title": "보호지역 설정",
         "chapter": "제4장  시설보안",
         "chapter_path": "제4장  시설보안",
-        "content": "제48조(보호지역 설정) ① 보호지역의 설정기준은 다음 각호와 같다.1. 제한구역가. <삭제>나. 문서고다. <삭제>라. <삭제>마. 시험관리(시험출제ㆍ채용)부서 및 부속시설바. 역량평가센터사. <삭제>아. ICT 유지보수사무실2. 통제구역가. <삭제>나. 행정전산실다. 충무시설라. 국가지도통신망실② 제1항 각호에 정하지 아니한 보호지역의 추가 설정이 필요한 경우에는 훈령 제53조 및 제54조, 제55조의 규정과 제1항을 준용하여 각 기관의 장이 정한다.③ 보안담당관(분임보안담당관)은 별지 제12호 서식에 의한 보호지역대장을 비치하여야 한다.④ 제한구역 및 통제구역에는 다음 각호와 같은 표찰을 게시하여야 한다.1. 제한구역[그림]가. 백색바탕에 청색글씨나. 청색테다. 규격은 출입문 크기에 따라 조정 제작2. 통제구역[그림]가. 백색바탕에 적색글씨나. 적색테 및 대각선다. 규격은 출입문의 크기에 따라 조정제작",
+        "content": "제48조(보호지역 설정) ① 보호지역의 설정기준은 다음 각호와 같다.1. 제한구역가. 문서고나. 시험관리(시험출제ㆍ채용)부서 및 부속시설다. 역량평가센터라. ICT 유지보수사무실아. 삭제마. 부처합동 사이버안전센터 관제상황실바. 삭제사. 삭제2. 통제구역가. 행정전산실나. 충무시설다. 국가지도통신망실라. 부처합동 사이버안전센터 1ㆍ2 전산실② 제1항 각호에 정하지 아니한 보호지역의 추가 설정이 필요한 경우에는 훈령 제53조 및 제54조, 제55조의 규정과 제1항을 준용하여 각 기관의 장이 정한다.③ 보안담당관(분임보안담당관)은 별지 제12호 서식에 의한 보호지역대장을 비치하여야 한다.④ 제한구역 및 통제구역에는 다음 각호와 같은 표찰을 게시하여야 한다.1. 제한구역[그림]가. 백색바탕에 청색글씨나. 청색테다. 규격은 출입문 크기에 따라 조정 제작2. 통제구역[그림]가. 백색바탕에 적색글씨나. 적색테 및 대각선다. 규격은 출입문의 크기에 따라 조정제작",
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제48조",
-            "source_clause": "제48조제2항",
-            "link_text": "훈령",
-            "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0048",
-            "reference_id": "admrul:보안업무규정시행규칙#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
-          },
-          {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제48조",
             "source_clause": "제48조제2항",
             "link_text": "제53조 및 제54조",
             "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제53조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙/제53조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제53조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0048",
-            "reference_id": "admrul:보안업무규정시행규칙#JO0053",
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0053",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           },
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제48조",
             "source_clause": "제48조제2항",
             "link_text": "제53조 및 제54조",
             "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제54조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙/제54조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제54조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0048",
-            "reference_id": "admrul:보안업무규정시행규칙#JO0054",
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0054",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           },
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제48조",
             "source_clause": "제48조제2항",
             "link_text": "제55조",
             "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제55조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙/제55조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제55조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0048",
-            "reference_id": "admrul:보안업무규정시행규칙#JO0055",
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0055",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2529,7 +2158,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666867",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530531",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0048",
             "target_unit": "BJ0012",
@@ -2541,8 +2170,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666757",
-            "seq": "149666757",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169512985",
+            "seq": "169512985",
             "filename": "제48조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제48조_1.gif",
@@ -2550,8 +2179,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666523",
-            "seq": "149666523",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169512987",
+            "seq": "169512987",
             "filename": "제48조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제48조_2.gif",
@@ -2569,44 +2198,24 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제49조",
-            "source_clause": "제49조제1항",
-            "link_text": "훈령",
-            "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0049",
-            "reference_id": "admrul:보안업무규정시행규칙#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
-          },
-          {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제49조",
             "source_clause": "제49조제1항",
             "link_text": "제54조",
             "line_text": "",
-            "target_law_name": "보안업무규정시행규칙",
+            "target_law_name": "인사혁신처 보안업무규정 시행세칙",
             "target_article_no": "제54조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정시행규칙/제54조",
+            "target_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙/제54조",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0049",
-            "reference_id": "admrul:보안업무규정시행규칙#JO0054",
+            "reference_id": "admrul:인사혁신처보안업무규정시행세칙#JO0054",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "인사혁신처 보안업무규정 시행세칙/인사혁신처 보안업무규정 시행세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2625,7 +2234,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "86680",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666873",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530537",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처보안업무규정시행세칙#JO0049",
             "target_unit": "BJ0013",
@@ -2650,10 +2259,10 @@
       },
       {
         "article_no": "제51조",
-        "article_title": "보안사고 보고",
+        "article_title": "보안사고 보고 및 통보",
         "chapter": "제5장  보안조사",
         "chapter_path": "제5장  보안조사",
-        "content": "제51조(보안사고 보고) ① 다음 각호의 보안사고가 발생하였을 때에는 지체없이 지휘계통을 통하여 인사혁신처장(보안담당관 참조)에게 보고하여야 한다.1. 비밀의 누설 또는 분실2. 국가보안시설ㆍ국가보호장비의 파괴 또는 기능 침해3. 보호지역에 대한 불법 침입사고4. 기타 보안사고② 보안사고 보고사항은 다음 각호와 같다.1. 일시, 장소2. 사고자 인적사항3. 사고내용(육하원칙에 의거)4. 조치사항③ 보안사고 발생자 또는 사고의 발생을 인지하고도 보고하지 아니한 자에 대하여는 징계 조치한다.",
+        "content": "제51조(보안사고 보고 및 통보) ① 다음 각호의 보안사고가 발생하였을 때에는 지체없이 지휘계통을 통하여 인사혁신처장(보안담당관 참조)에게 보고하고, 국가정보원장에 통보하여야 한다.1. 비밀의 누설 또는 분실2. 국가보안시설ㆍ국가보호장비의 파괴 또는 기능 침해3. 보호지역에 대한 불법 침입사고4. 기타 보안사고② 보안사고 보고사항은 다음 각호와 같다.1. 일시, 장소2. 사고자 인적사항3. 사고내용(육하원칙에 의거)4. 조치사항③ 보안사고 발생자 또는 사고의 발생을 인지하고도 보고하지 아니한 자에 대하여는 징계 조치한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -2683,10 +2292,10 @@
       },
       {
         "article_no": "제54조",
-        "article_title": "보안교육",
+        "article_title": "보안교육 및 보안담당관 직무교육",
         "chapter": "제6장  보안교육 및 점검",
         "chapter_path": "제6장  보안교육 및 점검",
-        "content": "제54조(보안교육) ① 각 기관 보안담당관, 분임보안담당관 또는 비밀보관 책임자는 소속 공무원에 대한 보안교육의 책임을 진다.② 신규임용자에 대하여는 부서 배치전에 필요한 기본교육을 실시하여야 한다.③ 각 기관 보안담당관, 분임보안담당관 또는 비밀보관책임자는 소속 직원에 대한 보안교육 계획을 수립 시행하여야 한다.④ 제1항의 교육은 자체 공무원교육기관을 이용할 수 있다.⑤ 보안업무의 수행능력 향상과 보안사고의 예방을 위하여 소속직원을 대상으로 반기 1회 이상 보안교육을 실시하여야 한다.",
+        "content": "제54조(보안교육 및 보안담당관 직무교육) ① 각 기관 보안담당관, 분임보안담당관 또는 비밀보관 책임자는 소속 공무원에 대한 보안교육의 책임을 진다.② 신규임용자에 대하여는 부서 배치전에 필요한 보안교육을 실시하여야 한다.③ 인사혁신처장은 소속 직원을 대상으로 반기 1회 이상 보안교육을 실시하여야 한다.④ 인사혁신처장은 보안업무를 수행하는 소속 공무원 및 임직원의 직무역량을 높이기 위해 필요한 직무교육을 실시해야 한다.⑤ 제4항에 따른 직무교육은 자체교육 또는 국가정보원에서 직접 운영하거나 지정한 교육과정으로 실시할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -2734,10 +2343,10 @@
       "content": "부칙 <제102호, 2020. 6. 15.>이 세칙은 2020. 6. 15. 부터 시행한다.",
       "provision_id": "admrul:인사혁신처보안업무규정시행세칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000255932",
+      "source_mst": "2100000285304",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250305"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20250305",
@@ -2745,10 +2354,21 @@
       "content": "부칙 <제185호, 2025. 3. 5.>이 세칙은 2025. 3. 5. 부터 시행한다.",
       "provision_id": "admrul:인사혁신처보안업무규정시행세칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000255932",
+      "source_mst": "2100000285304",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250305"
+      "version_enforcement_date": "20260921"
+    },
+    {
+      "promulgation_date": "20260921",
+      "promulgation_no": "209",
+      "content": "부칙 <제209호, 2026. 9. 21.>이 세칙은 2026.  9.  21. 부터 시행한다.",
+      "provision_id": "admrul:인사혁신처보안업무규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285304",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260921"
     }
   ],
   "appendices": [
@@ -2760,18 +2380,18 @@
       "enforcement_date": "",
       "content": "(별표 1) 삭제",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000255932&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666777",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285304&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530441",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666773",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530437",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666777",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530441",
           "name": "",
           "file_store_url": ""
         }
@@ -2792,17 +2412,17 @@
       "content": "\n■ 인사혁신처 보안업무규정 시행세칙 [별지 제1호 서식]\n\n\n비밀·암호자재 취급 (□ 인가 □ 해제 □ 재발급) 신청서\n───────┬────┬──────┬────┬────────────────────────────────\n대 상 자    │소    속│            │직위(급)│\n├────┼──────┴────┴────────────────────────────────\n│성    명│\n├────┼──────┬────┬────────────────────────────────\n│생년월일│            │기   타 │\n───────┴────┴──────┴────┴────────────────────────────────\n\n────────────┬──────┬─────────────────────────────────────\n인       가           │해       제 │재    발    급\n───────┬────┼────┬─┼────┬────────────────────────────────\n신청등급    │        │인가번호│  │인가등급│\n───────┼────┼────┼─┼────┼────────────────────────────────\n과거비밀/   │~       │인    가│  │당초    │\n암호자재    │        │년 월 일│  │인가일  │\n취급경력    │        │        │  │        │\n───────┼────┼────┼─┼────┼────────────────────────────────\n과거인가    │        │인가등급│  │인가번호│\n등    급    │        │        │  │        │\n───────┼────┼────┼─┼────┼────────────────────────────────\n과거비밀/   │        │해제사유│  │재발급  │\n암호자재    │        │        │  │사  유  │\n취급관서    │        │        │  │        │\n───────┼────┤        │  ├────┴────────────────────────────────\n담당업무    │        │        │  │ -일시:\nㆍ인가      │        │        │  │ -장소:\n필요성      │        │        │  │ -사유:\n───────┴────┴────┴─┴─────────────────────────────────────\n위와 같이 비밀/암호자재 취급 (          )를(을) 신청하오니 조치하여 주시기 바랍니다.\n\n년     월     일\n\n신청인                   (서명 또는 인)\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n──────┬──────────────────────────────────────────────────\n첨부서류 │ 1. 인  가 : 서약서 1부, (필요시)신원조사 회보서 1부, 여권용 사진 2매, (암호자재취급인가 신청시)\n│    비밀취급인가증 1매 또는 비밀취급인가 인사명령 공문 1부\n│ 2. 해  제 : 비밀·암호자재취급인가증 1매\n│ 3. 재발급 : 여권용 사진 2매\n──────┴──────────────────────────────────────────────────\n210㎜×297㎜(백상지80g/㎡)\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666783",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530447",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666779",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530443",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666783",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530447",
           "name": "",
           "file_store_url": ""
         }
@@ -2823,17 +2443,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제2호 서식]\n비밀ㆍ암호자재취급인가조서\n───────────┬┬──────┬────────────\n소 속               ││성 명       │\n───────────┼┼──────┼────────────\n직 급               ││생 년 월 일 │\n───────────┼┴──────┴────────────\n담 당 업 무         │\n(구 체 적 사 항)    │\n───────────┼────────────────────\n비 밀/암호자재 취 급│\n인 가 경 력         │\n───────────┼────────────────────\n신 원 조 사 내 용   │\n───────────┼────────────────────\n의 견               │\n───────────┼────────────────────\n│\n│\n│20     년     월     일\n│\n│\n│조사자                (서명 또는 인)\n│\n│\n│\n│보안담당관             (서명 또는 인)\n│\n│\n───────────┴────────────────────\n210mm×297mm[백상지 80g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666789",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530453",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666785",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530449",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666789",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530453",
           "name": "",
           "file_store_url": ""
         }
@@ -2854,17 +2474,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제3호 서식]\n비밀취급인가대장\n┌──┬─────┬──┬──┬──┬──┬──┬──┬────┬────┬────┬──┐\n│발행│결재      │취급│사진│소속│직위│직급│성명│인 가   │해 제   │발생사유│비고│\n│번호├──┬──┤등급│    │    │    │    │    │년 월 일│년 월 일│        │    │\n│    │담당│과장│    │    │    │    │    │    │        │        │        │    │\n├──┼──┼──┼──┼──┼──┼──┼──┼──┼────┼────┼───┬┼──┤\n│    │    │    │    │    │    │    │    │    │        │        │(인가)││    │\n│    │    │    │    │    │    │    │    │    │        │        ├───┼┤    │\n│    │    │    │    │    │    │    │    │    │        │        │(해제)││    │\n├──┼──┼──┼──┼──┼──┼──┼──┼──┼────┼────┼───┼┼──┤\n│    │    │    │    │    │    │    │    │    │        │        │(인가)││    │\n│    │    │    │    │    │    │    │    │    │        │        ├───┼┤    │\n│    │    │    │    │    │    │    │    │    │        │        │(해제)││    │\n├──┼──┼──┼──┼──┼──┼──┼──┼──┼────┼────┼───┼┼──┤\n│    │    │    │    │    │    │    │    │    │        │        │(인가)││    │\n│    │    │    │    │    │    │    │    │    │        │        ├───┼┤    │\n│    │    │    │    │    │    │    │    │    │        │        │(해제)││    │\n├──┼──┼──┼──┼──┼──┼──┼──┼──┼────┼────┼───┼┼──┤\n│    │    │    │    │    │    │    │    │    │        │        │(인가)││    │\n│    │    │    │    │    │    │    │    │    │        │        ├───┼┤    │\n│    │    │    │    │    │    │    │    │    │        │        │(해제)││    │\n├──┼──┼──┼──┼──┼──┼──┼──┼──┼────┼────┼───┼┼──┤\n│    │    │    │    │    │    │    │    │    │        │        │(인가)││    │\n│    │    │    │    │    │    │    │    │    │        │        ├───┼┤    │\n│    │    │    │    │    │    │    │    │    │        │        │(해제)││    │\n├──┼──┼──┼──┼──┼──┼──┼──┼──┼────┼────┼───┼┼──┤\n│    │    │    │    │    │    │    │    │    │        │        │(인가)││    │\n│    │    │    │    │    │    │    │    │    │        │        ├───┼┤    │\n│    │    │    │    │    │    │    │    │    │        │        │(해제)││    │\n├──┼──┼──┼──┼──┼──┼──┼──┼──┼────┼────┼───┼┼──┤\n│    │    │    │    │    │    │    │    │    │        │        │(인가)││    │\n│    │    │    │    │    │    │    │    │    │        │        ├───┼┤    │\n│    │    │    │    │    │    │    │    │    │        │        │(해제)││    │\n├──┼──┼──┼──┼──┼──┼──┼──┼──┼────┼────┼───┼┼──┤\n│    │    │    │    │    │    │    │    │    │        │        │(인가)││    │\n│    │    │    │    │    │    │    │    │    │        │        ├───┼┤    │\n│    │    │    │    │    │    │    │    │    │        │        │(해제)││    │\n└──┴──┴──┴──┴──┴──┴──┴──┴──┴────┴────┴───┴┴──┘\n210mm×297mm[백상지 80g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666795",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530459",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666791",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530455",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666795",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530459",
           "name": "",
           "file_store_url": ""
         }
@@ -2885,17 +2505,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제3호의1 서식]\n암호자재취급인가대장\n┌──┬─────┬──┬──┬──┬──┬──┬──┬────┬────┬────┬──┐\n│발행│결재      │취급│사진│소속│직위│직급│성명│인 가   │해 제   │발생사유│비고│\n│번호├──┬──┤등급│    │    │    │    │    │년 월 일│년 월 일│        │    │\n│    │담당│과장│    │    │    │    │    │    │        │        │        │    │\n├──┼──┼──┼──┼──┼──┼──┼──┼──┼────┼────┼───┬┼──┤\n│    │    │    │    │    │    │    │    │    │        │        │(인가)││    │\n│    │    │    │    │    │    │    │    │    │        │        ├───┼┤    │\n│    │    │    │    │    │    │    │    │    │        │        │(해제)││    │\n├──┼──┼──┼──┼──┼──┼──┼──┼──┼────┼────┼───┼┼──┤\n│    │    │    │    │    │    │    │    │    │        │        │(인가)││    │\n│    │    │    │    │    │    │    │    │    │        │        ├───┼┤    │\n│    │    │    │    │    │    │    │    │    │        │        │(해제)││    │\n├──┼──┼──┼──┼──┼──┼──┼──┼──┼────┼────┼───┼┼──┤\n│    │    │    │    │    │    │    │    │    │        │        │(인가)││    │\n│    │    │    │    │    │    │    │    │    │        │        ├───┼┤    │\n│    │    │    │    │    │    │    │    │    │        │        │(해제)││    │\n├──┼──┼──┼──┼──┼──┼──┼──┼──┼────┼────┼───┼┼──┤\n│    │    │    │    │    │    │    │    │    │        │        │(인가)││    │\n│    │    │    │    │    │    │    │    │    │        │        ├───┼┤    │\n│    │    │    │    │    │    │    │    │    │        │        │(해제)││    │\n├──┼──┼──┼──┼──┼──┼──┼──┼──┼────┼────┼───┼┼──┤\n│    │    │    │    │    │    │    │    │    │        │        │(인가)││    │\n│    │    │    │    │    │    │    │    │    │        │        ├───┼┤    │\n│    │    │    │    │    │    │    │    │    │        │        │(해제)││    │\n├──┼──┼──┼──┼──┼──┼──┼──┼──┼────┼────┼───┼┼──┤\n│    │    │    │    │    │    │    │    │    │        │        │(인가)││    │\n│    │    │    │    │    │    │    │    │    │        │        ├───┼┤    │\n│    │    │    │    │    │    │    │    │    │        │        │(해제)││    │\n├──┼──┼──┼──┼──┼──┼──┼──┼──┼────┼────┼───┼┼──┤\n│    │    │    │    │    │    │    │    │    │        │        │(인가)││    │\n│    │    │    │    │    │    │    │    │    │        │        ├───┼┤    │\n│    │    │    │    │    │    │    │    │    │        │        │(해제)││    │\n├──┼──┼──┼──┼──┼──┼──┼──┼──┼────┼────┼───┼┼──┤\n│    │    │    │    │    │    │    │    │    │        │        │(인가)││    │\n│    │    │    │    │    │    │    │    │    │        │        ├───┼┤    │\n│    │    │    │    │    │    │    │    │    │        │        │(해제)││    │\n└──┴──┴──┴──┴──┴──┴──┴──┴──┴────┴────┴───┴┴──┘\n210mm×297mm[백상지 80g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666801",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530465",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666797",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530461",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666801",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530465",
           "name": "",
           "file_store_url": ""
         }
@@ -2911,31 +2531,31 @@
       "no": "0004",
       "branch": "00",
       "kind": "별지",
-      "title": "신원대장",
+      "title": "신원조사대장",
       "enforcement_date": "",
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제4호 서식]\n신원조사대장\n┌───┬───┬───┬───┬─────────────────┬────┬───┐\n│연 번 │직 급 │직 책 │성 명 │신 원 조 사                       │임용또는│비 고 │\n│      │      │      │      ├───┬────┬────┬───┤전입일자│      │\n│      │      │      │      │목 적 │의뢰일자│회부일자│내 용 │        │      │\n├───┼───┼───┼───┼───┼────┼────┼───┼────┼───┤\n│      │      │      │      │      │        │        │      │        │      │\n├───┼───┼───┼───┼───┼────┼────┼───┼────┼───┤\n│      │      │      │      │      │        │        │      │        │      │\n├───┼───┼───┼───┼───┼────┼────┼───┼────┼───┤\n│      │      │      │      │      │        │        │      │        │      │\n├───┼───┼───┼───┼───┼────┼────┼───┼────┼───┤\n│      │      │      │      │      │        │        │      │        │      │\n├───┼───┼───┼───┼───┼────┼────┼───┼────┼───┤\n│      │      │      │      │      │        │        │      │        │      │\n├───┼───┼───┼───┼───┼────┼────┼───┼────┼───┤\n│      │      │      │      │      │        │        │      │        │      │\n├───┼───┼───┼───┼───┼────┼────┼───┼────┼───┤\n│      │      │      │      │      │        │        │      │        │      │\n├───┼───┼───┼───┼───┼────┼────┼───┼────┼───┤\n│      │      │      │      │      │        │        │      │        │      │\n├───┼───┼───┼───┼───┼────┼────┼───┼────┼───┤\n│      │      │      │      │      │        │        │      │        │      │\n├───┼───┼───┼───┼───┼────┼────┼───┼────┼───┤\n│      │      │      │      │      │        │        │      │        │      │\n├───┼───┼───┼───┼───┼────┼────┼───┼────┼───┤\n│      │      │      │      │      │        │        │      │        │      │\n├───┼───┼───┼───┼───┼────┼────┼───┼────┼───┤\n│      │      │      │      │      │        │        │      │        │      │\n└───┴───┴───┴───┴───┴────┴────┴───┴────┴───┘\n210mm×297mm[백상지 80g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666807",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530471",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666803",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530467",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666807",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530471",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:인사혁신처보안업무규정시행세칙#BJ0004",
-      "filename": "별지4_신원대장.pdf",
+      "filename": "별지4_신원조사대장.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지4_신원대장.pdf",
+      "local_path": "별지/별지4_신원조사대장.pdf",
       "file_store_url": ""
     },
     {
@@ -2947,17 +2567,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제5호 서식]\n신원특이자카드\n┌──────┬────────┐\n│소 속       │                │\n├──────┼┬──────┬┤\n│직 급       ││직 책       ││\n├──────┼┼──────┼┤\n│성 명       ││생 년 월 일 ││\n├──────┼┼──────┼┤\n│임 용 일 자 ││보 직 일 자 ││\n├──────┼┴──────┴┤\n│주  소      │                │\n├──────┼────────┤\n│신 원 내 용 │                │\n├──────┼────────┤\n│비 밀 취 급 │                │\n│인 가 경 력 │                │\n├──────┼────────┤\n│근 무 동 향 │                │\n└──────┴────────┘\n210mm×297mm[백상지 80g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666813",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530477",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666809",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530473",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666813",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530477",
           "name": "",
           "file_store_url": ""
         }
@@ -2978,17 +2598,17 @@
       "content": "\n■ 인사혁신처 보안업무규정 시행세칙 [별지 제6호 서식]\n\n\n비밀취급인가자 현황\n\n□ 비밀취급 인가자 현황(20  .  .  . 기준)\n───┬─────────────────────┬──────────────┬────\n구분│공직(소속기관 포함)                       │민간(산하기관 포함)         │계\n├───────┬───────┬──┬──┼───────┬───┬──┤\n│경력직 공무원 │특수경력직    │무기│공익│산하기관      │특    │기타│\n│              │공무원        │계약│요원│              │례    │    │\n├───┬───┼───┬───┤직  │    ├───┬───┤업    │    │\n│일반직│특정직│정무ㆍ│계약직│    │    │정규직│임기제│체    │    │\n│      │      │별정직│      │    │    │      │      │      │    │\n───┼───┼───┼───┼───┼──┼──┼───┼───┼───┼──┼────\nⅠ급│      │      │      │      │    │    │      │      │      │    │\n───┼───┼───┼───┼───┼──┼──┼───┼───┼───┼──┼────\nⅡ급│      │      │      │      │    │    │      │      │      │    │\n───┼───┼───┼───┼───┼──┼──┼───┼───┼───┼──┼────\nⅢ급│      │      │      │      │    │    │      │      │      │    │\n───┼───┼───┼───┼───┼──┼──┼───┼───┼───┼──┼────\n계  │      │      │      │      │    │    │      │      │      │    │\n───┴───┴───┴───┴───┴──┴──┴───┴───┴───┴──┴────\n□ 비밀취급 인가 신규 신청자 처리 현황(20  .  .  ~   .  )\n────┬───────────────┬────────────────────────\n구분  │신규 신청자                   │처리결과\n│                              ├──────┬───────┬─────────\n│                              │인가        │非인가        │非인가율\n────┼───────────────┼──────┼───────┼─────────\nⅠ급  │                              │            │              │\n────┼───────────────┼──────┼───────┼─────────\nⅡ급  │                              │            │              │\n────┼───────────────┼──────┼───────┼─────────\nⅢ급  │                              │            │              │\n────┼───────────────┼──────┼───────┼─────────\n계    │                              │            │              │\n────┴───────────────┴──────┴───────┴─────────\n\n□ 비밀취급 인가 신규 신청자 非인가 사유별 현황(20  .  .  ~   .  )\n────┬────────────┬───────────────────────────\n구분  │非인가자                │非인가 사유\n│                        ├────────┬───────┬──────────\n│                        │비밀취급 불필요 │보안관리 취약 │기타(사유 적시)\n────┼────────────┼────────┼───────┼──────────\nⅠ급  │                        │                │              │\n────┼────────────┼────────┼───────┼──────────\nⅡ급  │                        │                │              │\n────┼────────────┼────────┼───────┼──────────\nⅢ급  │                        │                │              │\n────┼────────────┼────────┼───────┼──────────\n계    │                        │                │              │\n────┴────────────┴────────┴───────┴──────────\n\n□ 기존 비밀취급 인가자 해제 현황(20  .  .  ~   .  )\n───┬────┬────────────────────────────────────\n구분│해제    │해제 사유\n│        ├───────┬────┬──────┬───────┬────────\n│        │퇴직          │보직변경│비밀취급불필│보안사고ㆍ위규│기타(사유적시)\n│        │              │        │요          │              │\n───┼────┼───────┼────┼──────┼───────┼────────\nⅠ급│        │              │        │            │              │\n───┼────┼───────┼────┼──────┼───────┼────────\nⅡ급│        │              │        │            │              │\n───┼────┼───────┼────┼──────┼───────┼────────\nⅢ급│        │              │        │            │              │\n───┼────┼───────┼────┼──────┼───────┼────────\n계  │        │              │        │            │              │\n───┴────┴───────┴────┴──────┴───────┴────────\n210㎜×297㎜(백상지80g/㎡)\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666819",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530483",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666815",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530479",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666819",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530483",
           "name": "",
           "file_store_url": ""
         }
@@ -3009,17 +2629,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제7호 서식]\n─────────────────────────────────────────\n기    관    명\n분류기호20...\n수신발신             (서명 또는 인)\n참    조\n\n급비밀 문서발간신청서\n────────┬──────┬──────────┬──────┬───────\n발 간 장 소   │업 체 및    │                    │비 밀 취 급 │\n│대 표 자 명 │                    │인 가 등 급 │\n├──────┼──────────┼──────┼───────\n│주 소       │                    │인 가 근 거 │\n────────┼──────┴──────────┼──────┼───────\n가 제 목      │                                  │문 서 비 밀 │\n│                                  │등 급       │\n────────┼──────┬──────┬───┼──────┼───────\n부 수         │            │사 정 부 수 │      │구 분       │타자, 프린트\n│            │            │      │            │마스터, 인쇄\n────────┼──────┴──────┴───┴──────┴───────\n기 간         │20   .   .   .부터 20   .   .   .까지(       시간)\n────────┼────────────────────────────────\n자 체 보 안 책│\n────────┼──────┬──────┬───┬──────┬──┬────\n입 회 관      │비밀취급    │      급    │직 급 │            │성명│\n│인가등급    │            │      │            │    │\n────────┼──────┴──────┴───┴──────┴──┴────\n배 부 처      │\n────────┴────────────────────────────────\n210mm×297mm[백상지 80g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666825",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530489",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666821",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530485",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666825",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530489",
           "name": "",
           "file_store_url": ""
         }
@@ -3040,17 +2660,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제7호의1 서식]\n비밀 입ㆍ출력 및 작업대장\n[대상 :       , 관리번호 :       ]\n┌──┬───┬──┬───┬──┬───┬─────────┬──┐\n│일자│제 목 │비밀│건수  │작업│작업자│열람 또는 수령자  │비고│\n│    │      │등급│(매수)│구분│      ├───┬──┬──┤    │\n│    │      │    │      │    │      │소속  │성명│서명│    │\n├──┼───┼──┼───┼──┼───┼───┼──┼──┼──┤\n│    │      │    │      │    │      │      │    │    │    │\n├──┼───┼──┼───┼──┼───┼───┼──┼──┼──┤\n│    │      │    │      │    │      │      │    │    │    │\n├──┼───┼──┼───┼──┼───┼───┼──┼──┼──┤\n│    │      │    │      │    │      │      │    │    │    │\n└──┴───┴──┴───┴──┴───┴───┴──┴──┴──┘\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n작 성 방 법\n───────────────────────────────────\n1) 대상에는 하드디스크, 디스켓, CD 등 구분\n2)작업구분은 입력, 출력, 열람으로 구분\n3)비고란에는 비밀을 지속 보관하고자 할 경우 관리책임자의 승인 서명 구분\n4) 기록은 대상별, 비밀등급별로 구분 작업\n───────────────────────────────────\n210mm×297mm[백상지 80g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666831",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530495",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666827",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530491",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666831",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530495",
           "name": "",
           "file_store_url": ""
         }
@@ -3071,17 +2691,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제8호 서식]\n비밀문서통제대장\n┌───┬───┬───┬───┬───┬──┬──┬───┬───┬───┬───┐\n│일 련 │통제일│발 신 │수 신 │제 목 │비밀│사본│형 태 │입회관│인쇄처│비 고 │\n│번 호 │      │      │      │      │등급│부수│      │      │      │      │\n├───┼───┼───┼───┼───┼──┼──┼───┼───┼───┼───┤\n│      │      │      │      │      │    │    │      │      │      │      │\n├───┼───┼───┼───┼───┼──┼──┼───┼───┼───┼───┤\n│      │      │      │      │      │    │    │      │      │      │      │\n├───┼───┼───┼───┼───┼──┼──┼───┼───┼───┼───┤\n│      │      │      │      │      │    │    │      │      │      │      │\n├───┼───┼───┼───┼───┼──┼──┼───┼───┼───┼───┤\n│      │      │      │      │      │    │    │      │      │      │      │\n├───┼───┼───┼───┼───┼──┼──┼───┼───┼───┼───┤\n│      │      │      │      │      │    │    │      │      │      │      │\n├───┼───┼───┼───┼───┼──┼──┼───┼───┼───┼───┤\n│      │      │      │      │      │    │    │      │      │      │      │\n├───┼───┼───┼───┼───┼──┼──┼───┼───┼───┼───┤\n│      │      │      │      │      │    │    │      │      │      │      │\n├───┼───┼───┼───┼───┼──┼──┼───┼───┼───┼───┤\n│      │      │      │      │      │    │    │      │      │      │      │\n├───┼───┼───┼───┼───┼──┼──┼───┼───┼───┼───┤\n│      │      │      │      │      │    │    │      │      │      │      │\n├───┼───┼───┼───┼───┼──┼──┼───┼───┼───┼───┤\n│      │      │      │      │      │    │    │      │      │      │      │\n└───┴───┴───┴───┴───┴──┴──┴───┴───┴───┴───┘\n210mm×297mm[백상지 80g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666837",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530501",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666833",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530497",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666837",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530501",
           "name": "",
           "file_store_url": ""
         }
@@ -3102,17 +2722,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제8호의1 서식]\n외국인에 대한 자료제공 통제대장\n┌───┬───┬────────────────────┬─────┬───┬────────┬───┐\n│일 련 │통제일│외 국 인 인 적 사 항                    │제공자료명│부 수 │제 공 처        │비 고 │\n│번 호 │      ├───┬───┬───┬───┬────┤          │      │(팀·실·과 명) │      │\n│      │      │국 적 │직 위 │성 명 │연 령 │내방목적│          │      │                │      │\n├───┼───┼───┼───┼───┼───┼────┼─────┼───┼────────┼───┤\n│      │      │      │      │      │      │        │          │      │                │      │\n├───┼───┼───┼───┼───┼───┼────┼─────┼───┼────────┼───┤\n│      │      │      │      │      │      │        │          │      │                │      │\n├───┼───┼───┼───┼───┼───┼────┼─────┼───┼────────┼───┤\n│      │      │      │      │      │      │        │          │      │                │      │\n├───┼───┼───┼───┼───┼───┼────┼─────┼───┼────────┼───┤\n│      │      │      │      │      │      │        │          │      │                │      │\n├───┼───┼───┼───┼───┼───┼────┼─────┼───┼────────┼───┤\n│      │      │      │      │      │      │        │          │      │                │      │\n├───┼───┼───┼───┼───┼───┼────┼─────┼───┼────────┼───┤\n│      │      │      │      │      │      │        │          │      │                │      │\n├───┼───┼───┼───┼───┼───┼────┼─────┼───┼────────┼───┤\n│      │      │      │      │      │      │        │          │      │                │      │\n├───┼───┼───┼───┼───┼───┼────┼─────┼───┼────────┼───┤\n│      │      │      │      │      │      │        │          │      │                │      │\n├───┼───┼───┼───┼───┼───┼────┼─────┼───┼────────┼───┤\n│      │      │      │      │      │      │        │          │      │                │      │\n└───┴───┴───┴───┴───┴───┴────┴─────┴───┴────────┴───┘\n210mm×297mm[백상지 80g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666843",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530507",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666839",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530503",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666843",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530507",
           "name": "",
           "file_store_url": ""
         }
@@ -3133,17 +2753,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제9호 서식]\n비밀문서 인수인계서\n부서명                                                                   보관책임자\n┌─┬───────┬─┬──┬─┬────┬─┬─┬─┬─┬────────┬──────────────┬───────┐\n│관│생산ㆍ접수    │문│비밀│형│건      │사│예│처│보│보              │처리방법                    │확인          │\n│리├─┬─┬───┤서│등급│태│명      │본│고│리│존│관              ├──┬────┬──┬───┼──┬────┤\n│번│년│생│수신처│번│    │  │        │번│문│담│기│장              │등급│파기    │보호│일반  │근거│확인자  │\n│호│월│산│(처리 │호│    │  │        │호│  │당│간│소              │변경│(날짜,  │기간│재분류│    │(서명   │\n│  │일│처│담당) │  │    │  │        │  │  │  │  │                │    │파기자) │만료│      │    │또는 인)│\n├─┼─┼─┼───┼─┴──┴─┴────┼─┼─┼─┼─┼────────┼──┼────┼──┼───┼──┼────┤\n│  │  │  │      │(비밀문서 인수인계)   │  │  │  │  │                │    │        │    │      │    │        │\n│  │  │  │      │비밀등급 Ⅱ급    건   │  │  │  │  │                │    │        │    │      │    │        │\n│  │  │  │      │(Ⅲ급     건)         │  │  │  │  │                │    │        │    │      │    │        │\n│  │  │  │      │위와 같이 인수인계함. │  │  │  │  │                │    │        │    │      │    │        │\n│  │  │  │      │20  .   .   .         │  │  │  │  │                │    │        │    │      │    │        │\n├─┼─┼─┼───┼───────────┴─┴─┴─┴─┴────────┼──┼────┼──┼───┼──┼────┤\n│  │  │  │      │ 인계자(전보관책임자)   직       성명 (서명 또는 인)    │    │        │    │      │    │        │\n├─┼─┼─┼───┼────────────────────────────┼──┼────┼──┼───┼──┼────┤\n│  │  │  │      │ 인수자(현보관책임자)   직       성명 (서명 또는 인)    │    │        │    │      │    │        │\n├─┼─┼─┼───┼────────────────────────────┼──┼────┼──┼───┼──┼────┤\n│  │  │  │      │ 확인자((분임)보안담당관)  직       성명 (서명 또는 인) │    │        │    │      │    │        │\n├─┼─┼─┼───┼────────────────────────────┴──┴────┴──┴───┼──┼────┤\n│  │  │  │      │ ※ 인수인계 기입은 적색으로 기재할 것, (직, 성명은 흑·청색으로 기재)                │    │        │\n└─┴─┴─┴───┴───────────────────────────────────────────┴──┴────┘\n330mm×190mm[백상지 80g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666849",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530513",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666845",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530509",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666849",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530513",
           "name": "",
           "file_store_url": ""
         }
@@ -3164,17 +2784,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제10호 서식] 삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666855",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530519",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666851",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530515",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666855",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530519",
           "name": "",
           "file_store_url": ""
         }
@@ -3195,17 +2815,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제11호 서식]\n┌──────────────────────────────────┐\n│기 관 명                                                            │\n│분류기호20...                                                       │\n│수 신발신           (서명 또는 인)                                  │\n│참 조                                                               │\n│제 목  암호자재 배부현황보고                                        │\n│        다음과 같이 배부하였기 보고합니다.                          │\n├────┬────┬────┬────┬────┬────┬────┤\n│증빙번호│자재명칭│부   수 │등록번호│배    부│배부일자│비   고 │\n│        │        │        │        │기 관 명│        │        │\n├────┼────┼────┼────┼────┼────┼────┤\n│        │        │        │        │        │        │        │\n└────┴────┴────┴────┴────┴────┴────┘\n210mm×297mm[백상지 80g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666861",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530525",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666857",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530521",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666861",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530525",
           "name": "",
           "file_store_url": ""
         }
@@ -3226,17 +2846,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제12호 서식]\n보호지역대장\n┌───┬───┬────────┬────────┬──────┬──────┐\n│구 분 │장 소 │관리팀·실·과명│사유 및 기타사항│설정 년월일 │해제 년월일 │\n├───┼───┼────────┼────────┼──────┼──────┤\n│      │      │                │                │            │            │\n├───┼───┼────────┼────────┼──────┼──────┤\n│      │      │                │                │            │            │\n├───┼───┼────────┼────────┼──────┼──────┤\n│      │      │                │                │            │            │\n├───┼───┼────────┼────────┼──────┼──────┤\n│      │      │                │                │            │            │\n├───┼───┼────────┼────────┼──────┼──────┤\n│      │      │                │                │            │            │\n├───┼───┼────────┼────────┼──────┼──────┤\n│      │      │                │                │            │            │\n├───┼───┼────────┼────────┼──────┼──────┤\n│      │      │                │                │            │            │\n├───┼───┼────────┼────────┼──────┼──────┤\n│      │      │                │                │            │            │\n├───┼───┼────────┼────────┼──────┼──────┤\n│      │      │                │                │            │            │\n├───┼───┼────────┼────────┼──────┼──────┤\n│      │      │                │                │            │            │\n└───┴───┴────────┴────────┴──────┴──────┘\n210mm×297mm[백상지 80g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666867",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530531",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666863",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530527",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666867",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530531",
           "name": "",
           "file_store_url": ""
         }
@@ -3257,17 +2877,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제13호 서식]\n\n??  제한구역  ??  출 입 자 명 부\n??  통제구역  ??\n\n┌───┬───┬───┬───┬───┬───┬───────┐\n│소 속 │신분증│직 위 │직 급 │성 명 │용 건 │출 입 일 시   │\n│      │번  호│      │      │      │      ├───┬───┤\n│      │      │      │      │      │      │부 터 │까 지 │\n├───┼───┼───┼───┼───┼───┼───┼───┤\n│      │      │      │      │      │      │      │      │\n├───┼───┼───┼───┼───┼───┼───┼───┤\n│      │      │      │      │      │      │      │      │\n├───┼───┼───┼───┼───┼───┼───┼───┤\n│      │      │      │      │      │      │      │      │\n├───┼───┼───┼───┼───┼───┼───┼───┤\n│      │      │      │      │      │      │      │      │\n├───┼───┼───┼───┼───┼───┼───┼───┤\n│      │      │      │      │      │      │      │      │\n├───┼───┼───┼───┼───┼───┼───┼───┤\n│      │      │      │      │      │      │      │      │\n├───┼───┼───┼───┼───┼───┼───┼───┤\n│      │      │      │      │      │      │      │      │\n├───┼───┼───┼───┼───┼───┼───┼───┤\n│      │      │      │      │      │      │      │      │\n├───┼───┼───┼───┼───┼───┼───┼───┤\n│      │      │      │      │      │      │      │      │\n├───┼───┼───┼───┼───┼───┼───┼───┤\n│      │      │      │      │      │      │      │      │\n├───┼───┼───┼───┼───┼───┼───┼───┤\n│      │      │      │      │      │      │      │      │\n├───┼───┼───┼───┼───┼───┼───┼───┤\n│      │      │      │      │      │      │      │      │\n├───┼───┼───┼───┼───┼───┼───┼───┤\n│      │      │      │      │      │      │      │      │\n├───┼───┼───┼───┼───┼───┼───┼───┤\n│      │      │      │      │      │      │      │      │\n└───┴───┴───┴───┴───┴───┴───┴───┘\n210mm×297mm[백상지 80g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666873",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530537",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666869",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530533",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666873",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530537",
           "name": "",
           "file_store_url": ""
         }
@@ -3288,17 +2908,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제14호 서식]\n비밀문서조달의뢰확인서\n┌───┬──┬──┬──┬──┬──┬───┬───┬─────────────┐\n│제  목│비밀│발간│납품│조달│원고│프린트│의  뢰│입   회   관              │\n│또  는│등급│의뢰│기일│의뢰│수교│공  판│업체명├──┬──┬───────┤\n│가제목│    │부수│    │일자│일자│인  쇄│      │인가│직명│성명          │\n│      │    │    │    │    │    │      │      │등급│    │              │\n├───┼──┼──┼──┼──┼──┼───┼───┼──┼──┼───────┤\n│      │    │    │    │    │    │      │      │    │    │              │\n├───┴──┴──┴──┴──┴──┴───┴───┴──┴──┴───────┤\n│상기와 같이 비밀문서 조달을 의뢰하고 입회관을 파견하였음을 확인함.              │\n│                                                                                │\n│20     .      .                                                                 │\n│                                                                                │\n│  수 요 기 관                                                                   │\n│  보안관리자 직책               직급             성명            (서명 또는 인) │\n└────────────────────────────────────────┘\n210mm×297mm[백상지 80g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666879",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530543",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666875",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530539",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666879",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530543",
           "name": "",
           "file_store_url": ""
         }
@@ -3319,17 +2939,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제15호 서식]\n보안심사위원회 심의요구서\n(의안번호 제        호)\n┌──────┬───────────────────────────────┐\n│제 목       │                                                              │\n├──────┼───────────────────────────────┤\n│회 부 근 거 │                                                              │\n├──────┼───────────────────────────────┤\n│회 부 기 관 │                                                              │\n├──────┼───────────────────────────────┤\n│주 요 내 용 │                                                              │\n├──────┼───────────────────────────────┤\n│요 구 자 의 │                                                              │\n│의 견       │                                                              │\n├──────┴───────────────────────────────┤\n│ 첨부서류 :                                                                 │\n│위와 같이 보안심사위원회 심의를 요구합니다.                                 │\n│20     .     .                                                              │\n│             심의요구자 직위                                                │\n│                                          성명                (서명 또는 인)│\n│                                                                            │\n│보안심사위원회 위원장 귀하                                                  │\n└──────────────────────────────────────┘\n210mm×297mm[백상지 80g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666885",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530549",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666881",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530545",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666885",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530549",
           "name": "",
           "file_store_url": ""
         }
@@ -3350,17 +2970,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제16호 서식]\n보안심사위원회 심의결정서\n(의안번호 제        호)\n┌──────┬────┐\n│개 최 일 시 │        │\n├──────┼────┤\n│장 소       │        │\n├──────┼────┤\n│안 건       │        │\n├──────┼────┤\n│회 부 기 관 │        │\n├──────┼────┤\n│결 정 주 문 │        │\n├──────┼────┤\n│결 정 이 유 │  별  첨│\n└──────┴────┘\n위 주문과 같이 심의 결정함.\n20   .   .   .\n위 원 장                     (서명 또는 인)\n부위원장                     (서명 또는 인)\n위   원                     (서명 또는 인)\n\"                       (서명 또는 인)\n\"                       (서명 또는 인)\n\"                       (서명 또는 인)\n\"                       (서명 또는 인)\n\"                       (서명 또는 인)\n간    사                     (서명 또는 인)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666891",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530555",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666887",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530551",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666891",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530555",
           "name": "",
           "file_store_url": ""
         }
@@ -3376,62 +2996,62 @@
       "no": "0017",
       "branch": "00",
       "kind": "별지",
-      "title": "신원특이자 심의결정서 (갑)",
+      "title": "신원특이자 심의결정서 (갑), 심의안건(을)",
       "enforcement_date": "",
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제17호 서식]\n신원특이자 심의결정서 (갑)\n┌─────┬───────┐\n│의안번호  │호            │\n├─────┼───────┤\n│의결년월일│20   .   .   .│\n└─────┴───────┘\n(결정주문)\n본건        에 관하여 다음과 같이 판정한다.\n┌──┬─────────┬───┬────┬───────┐\n│일련│임 용 예 정 직 급 │성 명 │생년월일│판          정│\n│번호│비 밀 인 가 등 급 │      │        ├─┬─────┤\n│    │                  │      │        │적│부        │\n├──┼─────────┼───┼────┼─┼─────┤\n│    │                  │      │        │  │          │\n└──┴─────────┴───┴────┴─┴─────┘\n보안심사위원회위원장\n직  위                        (서명 또는 인)\n(심의안건) (을)\nㆍ 소 속 :\nㆍ 성 명 :\nㆍ 생년월일 :\nㆍ임용예정직급 또는비밀취급인가 등급 :\nㆍ 신원특이사항 :\n(보안심사위원 적ㆍ부 판정)\n┌──────┬───┬───┬─────────┐\n│구 분       │직 위 │성 명 │판              정│\n│            │      │      ├─┬───────┤\n│            │      │      │적│부            │\n├──────┼───┼───┼─┼───────┤\n│부 위 원 장 │      │      │  │              │\n│위 원       │      │      │  │              │\n│위 원       │      │      │  │              │\n│위 원       │      │      │  │              │\n│위 원       │      │      │  │              │\n│위 원       │      │      │  │              │\n│위 원       │      │      │  │              │\n│위 원       │      │      │  │              │\n└──────┴───┴───┴─┴───────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666899",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530563",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666893",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530557",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666899",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530563",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:인사혁신처보안업무규정시행세칙#BJ0017",
-      "filename": "별지17_신원특이자 심의결정서 (갑).pdf",
+      "filename": "별지17_신원특이자 심의결정서 (갑), 심의안건(을).pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지17_신원특이자 심의결정서 (갑).pdf",
+      "local_path": "별지/별지17_신원특이자 심의결정서 (갑), 심의안건(을).pdf",
       "file_store_url": ""
     },
     {
       "no": "0018",
       "branch": "00",
       "kind": "별지",
-      "title": "보안심사위원회 회의록 (갑)",
+      "title": "보안심사위원회 회의록 (갑), 회의록 (을)",
       "enforcement_date": "",
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제18호 서식]\n보안심사위원회 회의록 (갑)\nㆍ 일    시 :\nㆍ 장    소 :\nㆍ 참 석 자 :\nㆍ 안    건 :\nㆍ 회부기관 :\n┌────┬───────────────┐\n│발 언 자│내                         용 │\n├────┼───────────────┤\n│        │                              │\n└────┴───────────────┘\n210mm×297mm[백상지 80g/㎡]\n\n회의록 (을)\n┌────┬───────────────┐\n│발 언 자│내                         용 │\n├────┼───────────────┤\n│        │                              │\n└────┴───────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666907",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530571",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666901",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530565",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666907",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530571",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:인사혁신처보안업무규정시행세칙#BJ0018",
-      "filename": "별지18_보안심사위원회 회의록 (갑).pdf",
+      "filename": "별지18_보안심사위원회 회의록 (갑), 회의록 (을).pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지18_보안심사위원회 회의록 (갑).pdf",
+      "local_path": "별지/별지18_보안심사위원회 회의록 (갑), 회의록 (을).pdf",
       "file_store_url": ""
     },
     {
@@ -3443,17 +3063,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제19호 서식]\n보안심사위원 의견서\nㆍ 안        건 :\nㆍ 위 원 성 명 :\nㆍ 의견진술내용 :\n┌───┬───────────────┐\n│제 목 │내                         용 │\n├───┼───────────────┤\n│      │                              │\n└───┴───────────────┘\n210mm×297mm[백상지 80g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666913",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530577",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666909",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530573",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666913",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530577",
           "name": "",
           "file_store_url": ""
         }
@@ -3474,17 +3094,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제20호 서식]\n(전면)\n퇴직공무원 보안교육 및 서약집행\n┌┬┬┬─┐\n││││결│\n├┼┼┤재│\n││││  │\n└┴┴┴─┘\n1. 대 상 자\n┌────┬───┬───┬───┐\n│전 소 속│직 급 │성 명 │비 고 │\n├────┼───┼───┼───┤\n│        │      │      │      │\n└────┴───┴───┴───┘\n2. 퇴직사유\n3. 보안교육 실시\nㆍ 일   시 :\nㆍ 장   소 :\nㆍ 교   관 :\nㆍ 교육내용 :\n4. 보안서약서 징구 : 별첨\n(후면)\n퇴직(     )자 보안 서약서\n┌─────────────────────────────────────────┐\n│  본인은 20      .      .부로 퇴직함에 있어서 다음 사항을 준수할 것을 엄숙히      │\n│서약합니다.                                                                       │\n│                                                                                  │\n│1. 본인은 인사혁신처 근무중 업무와 관련하여 지득한 기밀은 국가안전보장에 관한     │\n│기밀임을 인정한다.                                                                │\n│                                                                                  │\n│2. 본인은 이 기밀을 누설함이 이적행위가 됨을 자각하여 재직 중은 물론 퇴직 후에도  │\n│지득한 제반 비밀사항을 일체 누설하지 않을 것을 서약한다.                          │\n│                                                                                  │\n│3. 본인이 이 기밀을 누설하거나 유출하였을 때에는 관련 법령에 따라 엄중한 처벌을 받│\n│을 것을 서약한다. 다만, 부패행위 신고 및 공익신고 등을 위한 목적일 경우           │\n│비밀준수 의무를 위반하지 않은 것으로 본다.                                        │\n│                                                                                  │\n│20      년      월      일                                                        │\n│서  약  자    소     속 :                                                         │\n│직     급 :                                                                       │\n│성     명 :                (서명 또는 인)                                         │\n│서약집행관    소속·직위 :                                                        │\n│직     급 :                                                                       │\n│성     명 :                (서명 또는 인)                                         │\n│                                                                                  │\n│※ 각 기관 필요에 따라 서식내용 일부변경 활용가능                                 │\n└─────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666921",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530585",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666915",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530579",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666921",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530585",
           "name": "",
           "file_store_url": ""
         }
@@ -3505,17 +3125,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제21호 서식]\n암호(약호)자재사용대장\n┌───┬───┬─────┬──┬─────────┬───┬───┐\n│순 번 │일 시 │제     목 │비밀│작업구분          │작업자│서 명 │\n│      │      │          │등급├────┬────┤      │      │\n│      │      │          │    │해독조수│조립조수│      │      │\n├───┼───┼─────┼──┼────┼────┼───┼───┤\n│      │      │          │    │        │        │      │      │\n└───┴───┴─────┴──┴────┴────┴───┴───┘\n210mm×297mm[백상지 80g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666927",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530591",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666923",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530587",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666927",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530591",
           "name": "",
           "file_store_url": ""
         }
@@ -3536,17 +3156,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제22호 서식] 삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666933",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530597",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666929",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530593",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666933",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530597",
           "name": "",
           "file_store_url": ""
         }
@@ -3567,17 +3187,17 @@
       "content": "? 인사혁신처 보안업무규정 시행세칙 [별지 제23호 서식] 삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666939",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530603",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666935",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530599",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666939",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530603",
           "name": "",
           "file_store_url": ""
         }
@@ -3598,17 +3218,17 @@
       "content": "\n■ 인사혁신처 보안업무규정 시행세칙 [별지 제24호 서식]\n\n비밀 사송부\n\n───┬───┬────┬───┬───┬───┬──────┬──┬────┬────\n번호│년월일│문서번호│발 신 │수 신 │비밀  │건        명│수량│사본번호│수령자\n│      │        │      │      │등급  │            │    │        │(서명)\n───┼───┼────┼───┼───┼───┼──────┼──┼────┼────\n│      │        │      │      │      │            │    │        │\n│      │        │      │      │      │            │    │        │\n───┼───┼────┼───┼───┼───┼──────┼──┼────┼────\n│      │        │      │      │      │            │    │        │\n│      │        │      │      │      │            │    │        │\n───┼───┼────┼───┼───┼───┼──────┼──┼────┼────\n│      │        │      │      │      │            │    │        │\n│      │        │      │      │      │            │    │        │\n───┼───┼────┼───┼───┼───┼──────┼──┼────┼────\n│      │        │      │      │      │            │    │        │\n│      │        │      │      │      │            │    │        │\n───┼───┼────┼───┼───┼───┼──────┼──┼────┼────\n│      │        │      │      │      │            │    │        │\n───┼───┼────┼───┼───┼───┼──────┼──┼────┼────\n│      │        │      │      │      │            │    │        │\n───┴───┴────┴───┴───┴───┴──────┴──┴────┴────\n210㎜×297㎜(백상지80g/㎡)\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666945",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530609",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666941",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530605",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666945",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530609",
           "name": "",
           "file_store_url": ""
         }
@@ -3629,17 +3249,17 @@
       "content": "\n■ 인사혁신처 보안업무규정 시행세칙 [별지 제25호 서식]\n\n대외비 관리대장\n\n부서명 :                                                             보관책임자 :\n───┬───────┬──┬──┬──┬──┬─┬──┬──┬────────────┬─────────\n관리│생산?  접수  │문서│형태│건명│사본│예│보존│보관│처리방법                │확 인\n번호│              │번호│    │    │번호│고│기간│장소│(일자 및 처리자)        │\n├─┬─┬───┤    │    │    │    │문│    │    ├──┬───┬───┬─┼───┬─────\n│년│생│수신처│    │    │    │    │  │    │    │등급│일반  │기록관│기│근거  │확인자\n│월│산│(처리 │    │    │    │    │  │    │    │변경│재분류│이관  │타│(처리 │(서명\n│일│처│ 담당)│    │    │    │    │  │    │    │    │      │      │  │ 일자)│또는 인)\n───┼─┼─┼───┼──┼──┼──┼──┼─┼──┼──┼──┼───┼───┼─┼───┼─────\n│  │  │      │    │    │    │    │  │    │    │    │      │      │  │      │\n───┼─┼─┼───┼──┼──┼──┼──┼─┼──┼──┼──┼───┼───┼─┼───┼─────\n│  │  │      │    │    │    │    │  │    │    │    │      │      │  │      │\n───┼─┼─┼───┼──┼──┼──┼──┼─┼──┼──┼──┼───┼───┼─┼───┼─────\n│  │  │      │    │    │    │    │  │    │    │    │      │      │  │      │\n───┼─┼─┼───┼──┼──┼──┼──┼─┼──┼──┼──┼───┼───┼─┼───┼─────\n│  │  │      │    │    │    │    │  │    │    │    │      │      │  │      │\n───┼─┼─┼───┼──┼──┼──┼──┼─┼──┼──┼──┼───┼───┼─┼───┼─────\n│  │  │      │    │    │    │    │  │    │    │    │      │      │  │      │\n───┼─┼─┼───┼──┼──┼──┼──┼─┼──┼──┼──┼───┼───┼─┼───┼─────\n│  │  │      │    │    │    │    │  │    │    │    │      │      │  │      │\n───┼─┼─┼───┼──┼──┼──┼──┼─┼──┼──┼──┼───┼───┼─┼───┼─────\n│  │  │      │    │    │    │    │  │    │    │    │      │      │  │      │\n───┴─┴─┴───┴──┴──┴──┴──┴─┴──┴──┴──┴───┴───┴─┴───┴─────\n210㎜×297㎜(백상지80g/㎡)\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666951",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530615",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666947",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530611",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666951",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530615",
           "name": "",
           "file_store_url": ""
         }
@@ -3660,17 +3280,17 @@
       "content": "\n■ 인사혁신처 보안업무규정 시행세칙 [별지 제26호 서식]\n\n대외비 접수 및 발송대장\n───┬───┬────┬──┬──┬───┬──┬──────┬──────┬───\n번호│년월일│문서번호│발신│수신│제  목│수량│원본        │수령자      │비고\n│      │        │    │    │      │    │인수자      │(서명 또는  │\n│      │        │    │    │      │    │(서명 또는  │인)         │\n│      │        │    │    │      │    │인)         │            │\n───┼───┼────┼──┼──┼───┼──┼──────┼──────┼───\n│      │        │    │    │      │    │            │            │\n───┼───┼────┼──┼──┼───┼──┼──────┼──────┼───\n│      │        │    │    │      │    │            │            │\n───┼───┼────┼──┼──┼───┼──┼──────┼──────┼───\n│      │        │    │    │      │    │            │            │\n───┼───┼────┼──┼──┼───┼──┼──────┼──────┼───\n│      │        │    │    │      │    │            │            │\n───┼───┼────┼──┼──┼───┼──┼──────┼──────┼───\n│      │        │    │    │      │    │            │            │\n───┼───┼────┼──┼──┼───┼──┼──────┼──────┼───\n│      │        │    │    │      │    │            │            │\n───┼───┼────┼──┼──┼───┼──┼──────┼──────┼───\n│      │        │    │    │      │    │            │            │\n───┼───┼────┼──┼──┼───┼──┼──────┼──────┼───\n│      │        │    │    │      │    │            │            │\n───┼───┼────┼──┼──┼───┼──┼──────┼──────┼───\n│      │        │    │    │      │    │            │            │\n───┼───┼────┼──┼──┼───┼──┼──────┼──────┼───\n│      │        │    │    │      │    │            │            │\n───┼───┼────┼──┼──┼───┼──┼──────┼──────┼───\n│      │        │    │    │      │    │            │            │\n───┴───┴────┴──┴──┴───┴──┴──────┴──────┴───\n\n210㎜×297㎜(백상지80g/㎡)\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666957",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530621",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666953",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530617",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666957",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530621",
           "name": "",
           "file_store_url": ""
         }
@@ -3691,17 +3311,17 @@
       "content": "\n■ 인사혁신처 보안업무규정 시행세칙 [별지 제27호 서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                                  ┃\n┃                                                                                  ┃\n┃서약서                                                                            ┃\n┃                                                                                  ┃\n┃   본인은    년   월   일부터 근무함에 있어 다음 사항을 준수할 것을 엄숙히        ┃\n┃서약한다.                                                                         ┃\n┃                                                                                  ┃\n┃ 1. 본인은 비밀로 분류될 성질의 업무를 수행함에 있어 소관 업무가 국가안전         ┃\n┃보장과 관련된 기밀임을 인정한다.                                                  ┃\n┃                                                                                  ┃\n┃ 2. 본인은 보안 관련 규정을 준수하며 재직 중은 물론 퇴직 후에도 직무상 알게 된    ┃\n┃비밀을 일체 누설하지 않는다.                                                      ┃\n┃                                                                                  ┃\n┃ 3. 본인이 기밀을 누설하거나 유출하였을 때에는 관련 법령에 따라 엄중한 처벌을     ┃\n┃받을 것을 서약한다. 다만, 부패행위 신고 및 공익신고 등을 위한 목적일              ┃\n┃경우 비밀준수 의무를 위반하지 않은 것으로 본다.                                   ┃\n┃                                                                                  ┃\n┃                                                                                  ┃\n┃년       월       일                                                              ┃\n┃                                                                                  ┃\n┠─────────────────────────────────────────┨\n┃  서약자       소속               직급         생년월일                           ┃\n┃                                  직위         성명                          (인) ┃\n┠─────────────────────────────────────────┨\n┃  서약집행자   소속               직급                                            ┃\n┃                                  직위         성명                          (인) ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666963",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530627",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666959",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530623",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666963",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530627",
           "name": "",
           "file_store_url": ""
         }
@@ -3722,17 +3342,17 @@
       "content": "\n■ 인사혁신처 보안업무규정 시행세칙 [별지 제28호 서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃해외 출장 공무원 보안교육 사항                                                                  ┃\n┃                                                                                                ┃\n┃                                                                                                ┃\n┃1. 공무로 인한 해외출장시 보안분야 사전 조치사항                                                ┃\n┃   ㅇ 해외 출장 보안서약서 작성 (별지 제29호 서식)                                              ┃\n┃     - 해당부서 총괄과 보안담당자에게 제출                                                      ┃\n┃   ㅇ 해외 출장 공무원 보안교육 : 각 부서 분임 보안담당관 주관                                  ┃\n┃   ㅇ 휴대문서 및 기타 보안조치를 요하는 사항 사전 보안검토                                     ┃\n┃                                                                                                ┃\n┃2. 공무로 인한 해외 출장시 교육 사항                                                            ┃\n┃   ㅇ 외국공항 입국하는 순간부터 감시대상이 된다는 것을 명심하고 보안에 주의                    ┃\n┃   ㅇ 방문국 제공 차량보다는 우리공관 차량 이용(차량에 도청장치 등이 설치될 수도                ┃\n┃있으므로 상시 보안에 유의)                                                                      ┃\n┃   ㅇ 우리 대사관 및 공관을 효과적으로 활용(중요서류나 물품 등은 우리 대사관에 맡기는 것이 안전)┃\n┃   ㅇ 방문국 출입국 규정 준수하여 검색의 빌미를 제공하지 않도록 조치                            ┃\n┃   ㅇ 입국 심사시 불필요한 방문 목적 및 세부 일정에 관해 자세히 얘기하지 않기                   ┃\n┃   ㅇ 탁송 물품은 철저히 시건(반드시 열쇠로 잠그고 보조자물쇠를 채우는 등 시건장치를            ┃\n┃견고히 하여야 함)                                                                               ┃\n┃   ㅇ 세관 검색시 반드시 입회(본인의 짐에서 한시도 눈을 떼지 말아야하며, 핑계로                 ┃\n┃노트북 등을 확인한다고 별도의 장소로 가져가는 경우 무단복사를 하지 않는지 끝까지 확인)          ┃\n┃   ㅇ 24시간 감시당하고 있다는 사실을 명심하여 가급적 공관에서 추천하는 숙소 이용               ┃\n┃   ㅇ 실내 대화시에는 레이저도청에 대비 커튼을 쳐두는 것이 효과적                               ┃\n┃   ㅇ 외출 후 숙소로 돌아왔을 때 한번쯤 의심을 하고 점검                                        ┃\n┃   ㅇ 중요회의는 공관회의실을 이용하는 것이 바람직                                              ┃\n┃   ㅇ 통화는 간단히, 우리만 아는 용어로 하는 것이 바람직                                        ┃\n┃   ㅇ 중요 통화시 공관 내 비화전화 사용(숙소 내 전화는 도청될 우려)                             ┃\n┃   ㅇ 휴대전화 필요시엔 공관에서 임대폰 사용                                                    ┃\n┃   ㅇ 노트북 사용 시 개인 노트북을 사용하지 말고, 업무용 노트북 사용                            ┃\n┃      ㅇ 중요 회의 자료 등을 보관·휴대하는 경우 반드시 보안 USB 사용                           ┃\n┃      ㅇ 백신 등 보안 프로그램은 최신 버전으로 업데이트 되었는지 확인                           ┃\n┃      ㅇ 출장 중 업무 연락시 상용메일·상용메신저 사용금지(공직자 통합메일·바로톡 사용)        ┃\n┃      ㅇ 중요 대화시에는 TV 또는 음악을 틀고 함으로써 도청을 예방                               ┃\n┃      ㅇ 선물로 받는 물건은 의심의 눈초리로 살펴봐야 함(도청장치 여부)                          ┃\n┃      ㅇ 주변에 대한 일상점검은 기본                                                            ┃\n┃      ㅇ 중요 국제회의 참석 시 PC·노트북 등을 사용할 경우 아래 보안대책을 수립·시행하여야함   ┃\n┃       - 설치장소에 대한 물리적 접근통제                                                        ┃\n┃       - 정보시스템 접근 통제 및 분실 방지 등 보안관리                                          ┃\n┃       - 정보시스템 자료저장 암호화 등 자료 접근통제                                            ┃\n┃       - 전화기·팩스 등 통신장비에 대한 도청방지                                               ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666969",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530633",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666965",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530629",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666969",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530633",
           "name": "",
           "file_store_url": ""
         }
@@ -3753,17 +3373,17 @@
       "content": "\n■ 인사혁신처 보안업무규정 시행세칙 [별지 제29호 서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                                  ┃\n┃                                                                                  ┃\n┃해외출장공무원 보안서약서                                                         ┃\n┃                                                                                  ┃\n┃   본인은     년   월   일부터      년   월   일까지 공무로 인한 국외 출장을 함에 ┃\n┃있어 다음 사항을 준수할 것을 엄숙히 서약한다.                                     ┃\n┃                                                                                  ┃\n┃ 1. 본인은 국외출장 기간 중 대한민국의 공무원으로서 품위를 유지하고,              ┃\n┃ 국위선양과 대외관계 증진에 기여하도록 노력한다.                                  ┃\n┃                                                                                  ┃\n┃ 2. 본인은 출장목적 이외의 행동과 국익에 위배되는 언동을 하지 아니한다.           ┃\n┃                                                                                  ┃\n┃ 3. 본인은 보안관계 제 규정을 준수함은 물론 국가의 비밀을 일체 누설하지 아니한다. ┃\n┃단,「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」에 따른 부패           ┃\n┃행위 신고와 「공익신고자 보호법」에 따른 공익신고 등의 경우 비밀준수              ┃\n┃의무를 위반하지 않은 것으로 본다.                                                 ┃\n┃                                                                                  ┃\n┃ 4. 본인은 귀국시 공직자로서의 분에 넘치는 휴대품을 과다 반입하지 아니한다.       ┃\n┃                                                                                  ┃\n┃ 5. 중요서류나 국가 안보에 영향을 미치는 자료 등은 우리 대사관 또는 공관에 맡     ┃\n┃기거나 보관을 하여 분실 또는 외부유출을 방지하도록 조치한다.                      ┃\n┃                                                                                  ┃\n┃                                                                                  ┃\n┃                                                                                  ┃\n┃년       월       일                                                              ┃\n┃                                                                                  ┃\n┠─────────────────────────────────────────┨\n┃  서약자       소속               직급         생년월일                           ┃\n┃                                  직위         성명                          (인) ┃\n┠─────────────────────────────────────────┨\n┃  서약집행자   소속               직급                                            ┃\n┃                                  직위         성명                          (인) ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666975",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530639",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666971",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530635",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149666975",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169530639",
           "name": "",
           "file_store_url": ""
         }
@@ -3778,59 +3398,43 @@
   ],
   "attachments": [
     {
-      "name": "인사혁신처 보안업무규정 시행세칙 전문.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=149665523",
-      "filename": "인사혁신처 보안업무규정 시행세칙 전문.pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/인사혁신처 보안업무규정 시행세칙 전문.pdf",
-      "file_store_url": ""
-    },
-    {
       "name": "인사혁신처 보안업무규정 시행세칙 전문.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=149665519",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169512811",
       "filename": "인사혁신처 보안업무규정 시행세칙 전문.hwpx",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/인사혁신처 보안업무규정 시행세칙 전문.hwpx",
       "file_store_url": ""
     },
     {
-      "name": "조문별 제ㆍ개정이유서.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=149657087",
-      "filename": "조문별 제ㆍ개정이유서.hwp",
+      "name": "인사혁신처 보안업무규정 시행세칙 전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169512815",
+      "filename": "인사혁신처 보안업무규정 시행세칙 전문.pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/조문별 제ㆍ개정이유서.hwp",
-      "file_store_url": ""
-    },
-    {
-      "name": "인사혁신처 보안업무규정 시행세칙 개정 계획.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=149657089",
-      "filename": "인사혁신처 보안업무규정 시행세칙 개정 계획.hwpx",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/인사혁신처 보안업무규정 시행세칙 개정 계획.hwpx",
+      "local_path": "첨부파일/인사혁신처 보안업무규정 시행세칙 전문.pdf",
       "file_store_url": ""
     }
   ],
   "ordinance_delegations": [],
   "relation_mode": "no_crawl",
   "relation_stats": {
-    "relations_total": 87,
+    "relations_total": 67,
     "by_category": {
-      "행정규칙": 70,
-      "법령": 17
+      "행정규칙": 60,
+      "법령": 7
     },
     "by_relation_type": {
-      "citation": 49,
-      "internal_ref": 5,
-      "appendix_ref": 33
+      "internal_ref": 27,
+      "appendix_ref": 33,
+      "citation": 7
     },
-    "articles_total": 61,
-    "articles_with_relations": 30,
+    "articles_total": 62,
+    "articles_with_relations": 28,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 33,
-    "attachments_count": 4
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/인사혁신처 보안업무규정 시행세칙"
