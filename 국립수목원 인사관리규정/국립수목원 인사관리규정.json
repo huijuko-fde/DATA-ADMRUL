@@ -1,25 +1,25 @@
 {
   "law_id": "2046806",
-  "mst": "2100000261674",
+  "mst": "2100000285114",
   "law_name": "국립수목원 인사관리규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2046806",
-  "promulgation_no": "156",
-  "promulgation_date": "20250710",
-  "enforcement_date": "20250710",
-  "revision_date": "20250710",
+  "promulgation_no": "169",
+  "promulgation_date": "20260915",
+  "enforcement_date": "20260921",
+  "revision_date": "20260915",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "국립수목원(연구기획운영과)",
-    "담당자명": "김자금",
+    "담당자명": "정길자",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "국립수목원 인사관리규정",
-    "발령일자": "20250710",
+    "발령일자": "20260915",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "031-540-1012",
     "제개정구분명": "일부개정",
     "소관부처코드": "1400000",
-    "생성일자": "20250714",
+    "생성일자": "20260921",
     "행정규칙ID": "2046806",
-    "시행일자": "20250710",
+    "시행일자": "20260921",
     "담당부서기관코드": "1400834",
-    "발령번호": "156",
-    "행정규칙일련번호": "2100000261674",
+    "발령번호": "169",
+    "행정규칙일련번호": "2100000285114",
     "상위부처명": "산림청"
   },
-  "amendment_text": "⊙국립수목원 훈령 제156호\n국립수목원 인사관리규정 일부를 다음과 같이 개정한다.\n2025년 7월 10일\n국립수목원장\n국립수목원 인사관리규정 일부개정\n국립수목원 인사관리규정 일부를 다음과 같이 개정한다.\n제9조 (위원회의 구성) ⑤ 국립수목원 보통징계위원회의의 위원장과 위원은 다음 각 호와 같이 구성ㆍ운영한다.\n1. 위원장은 연구기획운영과장으로 한다. 다만, 특별한 사정이 있을 때에는 원장이 위원장을 따로 정할 수 있다.\n2. 위원은 위원장 1명을 포함하여 9명 이상 15명 이하 공무원위원과 민간위원으로 구성하고, 민간위원의 수는 위원장을 제외한 위원 수의 2분의 1 이상으로 한다. 공무원위원은 징계 대상자보다 상위계급의 소속 공무원 중에서 원장이 지명하여 구성한다.\n3. <삭제>\n4. <삭제>",
-  "revision_reason": "◇ 개정이유\n2024.12.17. 「국립수목원 기본운영규정」에 따른 국립수목원 조직개편으로 변경된 하부조직에 관한 사항 중 누락된 부분이 있어 이를 반영하고자 함\n◇ 주요내용\n가. 제9조제5항제1호를 다음과 같이 변경한다.\n1. 위원장을 연구기획운영과장으로 한다. 다만, 특별한 사정이 있을 때에는 원장이 위원장을 따로 정할 수 있다.",
+  "amendment_text": "⊙국립수목원 훈령 제169호\n국립수목원 인사관리규정 일부를 다음과 같이 개정한다.\n2026년 9월 15일\n국립수목원장\n국립수목원 인사관리규정 일부개정\n국립수목원 인사관리규정 일부를 다음과 같이 개정한다.\n제9조제6항을 다음과 같이 한다.\n제9조(위원회의 구성) ⑥ 국립수목원 보통고충심사위원회의 위원장과 위원과 다음 각호와 같이 구성하여 운영한다.\n1. 위원장은 연구기획운영과장으로 한다. 다만, 특별한 사정이 있을 때에는 원장이 따로 정할 수 있다.\n2. 위원회는 위원장 1명을 포함하여 7명 이상 15명 이하의 공무원위원과 민간위원으로 구성한다. 이 경우 민간위원의 수는 위원장을 제외한 위원 수의 2분의 1이상이어야 한다.\n3. 민간위원은 「공무원고충처리규정」제3조제5항 각 호에 해당하는 사람 중에서 원장이 위촉한 자로 임기는 2년으로 하며, 한 번만 연임할 수 있다.\n4. 회의는 위원장과 위원장이 회의마다 지정하는 5명 이상 7명 이하의 위원으로 성별을 고려하여 구성하고, 이 경우 민간위원이 3분의 1이상 포함한다.\n제11조제1항을 다음과 같이 한다.\n제11조(위원회의 의결) ① 위원회의 의결은 재적위원 과반수의 출석과 출석위원 과반수의 찬성에 따른다. 단, 보통징계위원회 및 보통고충심사위원회는 5명 이상의 출석과 과반수의 합의에 따른다.\n부칙\n이 영은 2026년 9월 00일부터 시행한다.",
+  "revision_reason": "◇ 개정이유\n「국가공무원법」 및 「공무원고충처리규정」에 따라 보통고충심사위원회의 구성 및 의결 요건의 미비점을 보완하고 명확히하여 운영하고자 함.\n◇ 주요내용\n가. 「공무원고충처리규정」제3조에 따라 보통고충심사위원회 구성요건 보완\n나. 「공무원고충처리규정」제10조제1항에 따라 위원회의 의결요건 명확화",
   "body": {
     "format": "articles",
     "article_count": 14,
@@ -44,8 +44,8 @@
       {
         "article_no": "제1조",
         "article_title": "목적",
-        "chapter": "제1장 총 칙",
-        "chapter_path": "제1장 총 칙",
+        "chapter": "제1장 총칙",
+        "chapter_path": "제1장 총칙",
         "content": "제1조(목적) 이 규정은 국립수목원 소속 공무원의 보직관리기준ㆍ근무성적평가ㆍ승진심사ㆍ공적심사ㆍ징계ㆍ고충심사ㆍ연구실적평가 및 경력경쟁채용을 위한 자격증 지정 등 인사관리에 필요한 사항을 규정함으로써 공정하고 효율적인 인사운용을 도모함을 목적으로 한다.",
         "enforcement_date": "",
         "relations": [],
@@ -77,7 +77,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2046806",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261674&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285114&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원인사관리규정#JO0002",
             "target_unit": "BYL0001",
@@ -114,7 +114,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2046806",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261674&bylNo=0001&bylBrNo=02",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285114&bylNo=0001&bylBrNo=02",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원인사관리규정#JO0002_02",
             "target_unit": "BYL0001_02",
@@ -151,7 +151,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2046806",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261674&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285114&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원인사관리규정#JO0003",
             "target_unit": "BYL0002",
@@ -199,7 +199,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2046806",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261674&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285114&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원인사관리규정#JO0005",
             "target_unit": "BYL0002",
@@ -224,7 +224,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2046806",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261674&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285114&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원인사관리규정#JO0005",
             "target_unit": "BYL0003",
@@ -335,9 +335,50 @@
         "article_title": "위원회의 구성",
         "chapter": "제4장 위원회의 설치ㆍ구성",
         "chapter_path": "제4장 위원회의 설치ㆍ구성",
-        "content": "제9조(위원회의 구성) ① 국립수목원 인사위원회는 위원장을 원장으로 하고, 위원은 각 부서(과ㆍ팀ㆍ센터)의 장(이하 ‘부서장’)이 된다. 단, 공무직 인사위원회는 위원장을 연구기획운영과장으로 하고, 위원은 연구기획운영과 외 각 부서의 장이 되고, 간사는 공무직 인사 담당자가 된다.② 국립수목원 근무성적평가위원회는 위원장은 원장으로 하고, 위원은 각 부서장이 된다. 단, 공무직 근무성적평가위원회는 위원장은 연구기획운영과장으로 하고, 위원은 연구기획운영과 외 각 부서장이 되고, 간사는 공무직 인사 담당자가 된다.③ 국립수목원 보통승진심사위원회는 위원장을 포함하여 3인 이상의 위원으로 구성하되 부득이한 경우에는 2인 이상의 위원으로 구성할 수 있다. 국립수목원 보통승진심사위원회의 위원장을 원장으로 하고, 위원은 위원회를 구성할 때마다 각 부서장 또는 승진임용 예정직급에 해당하는 계급의 상위계급자 중에서 원장이 지명하는 소속 공무원이 되며, 상위계급자가 부족한 경우에는 승진임용 예정직급의 계급과 같은 계급자 중에서 지명할 수 있다.④ 국립수목원 공적심사위원회의 위원장은 연구기획운영과장으로 하되, 특별한 사정이 있을 때에는 원장이 따로 정할 수 있으며 위원은 5인 이내로 구성하되 원장이 임명한다.⑤ 국립수목원 보통징계위원회의의 위원장과 위원은 다음 각 호와 같이 구성ㆍ운영한다.1. 위원장은 연구기획운영과장으로 한다. 다만, 특별한 사정이 있을 때에는 원장이 위원장을 따로 정할 수 있다.2. 위원은 위원장 1명을 포함하여 9명 이상 15명 이하 공무원위원과 민간위원으로 구성하고, 민간위원의 수는 위원장을 제외한 위원 수의 2분의 1 이상으로 한다. 공무원위원은 징계 대상자보다 상위계급의 소속 공무원 중에서 원장이 지명하여 구성한다.3. <삭제>4. <삭제>⑥ 국립수목원 보통고충심사위원회의 위원장은 연구기획운영과장으로 하고, 위원은 위원장을 포함하여 7인 이상 15인 이하의 공무원위원과 민간위원으로 명단 구성하되, 민간위원의 수는 위원장을 제외한 위원 수의 2분의 1이상으로 한다.⑦ 각 위원회의 간사는 연구기획운영과 인사담당이 된다.⑧ 각 위원회는 위원장이 사고가 있을 때에는 직제상 선순위 위원순으로 그 직무를 대행한다.",
+        "content": "제9조(위원회의 구성) ① 국립수목원 인사위원회는 위원장을 원장으로 하고, 위원은 각 부서(과ㆍ팀ㆍ센터)의 장(이하 ‘부서장’)이 된다. 단, 공무직 인사위원회는 위원장을 연구기획운영과장으로 하고, 위원은 연구기획운영과 외 각 부서의 장이 되고, 간사는 공무직 인사 담당자가 된다.② 국립수목원 근무성적평가위원회는 위원장은 원장으로 하고, 위원은 각 부서장이 된다. 단, 공무직 근무성적평가위원회는 위원장은 연구기획운영과장으로 하고, 위원은 연구기획운영과 외 각 부서장이 되고, 간사는 공무직 인사 담당자가 된다.③ 국립수목원 보통승진심사위원회는 위원장을 포함하여 3인 이상의 위원으로 구성하되 부득이한 경우에는 2인 이상의 위원으로 구성할 수 있다. 국립수목원 보통승진심사위원회의 위원장을 원장으로 하고, 위원은 위원회를 구성할 때마다 각 부서장 또는 승진임용 예정직급에 해당하는 계급의 상위계급자 중에서 원장이 지명하는 소속 공무원이 되며, 상위계급자가 부족한 경우에는 승진임용 예정직급의 계급과 같은 계급자 중에서 지명할 수 있다.④ 국립수목원 공적심사위원회의 위원장은 연구기획운영과장으로 하되, 특별한 사정이 있을 때에는 원장이 따로 정할 수 있으며 위원은 5인 이내로 구성하되 원장이 임명한다.⑤ 국립수목원 보통징계위원회의의 위원장과 위원은 다음 각 호와 같이 구성ㆍ운영한다.1. 위원장은 연구기획운영과장으로 한다. 다만, 특별한 사정이 있을 때에는 원장이 위원장을 따로 정할 수 있다.2. 위원은 위원장 1명을 포함하여 9명 이상 15명 이하 공무원위원과 민간위원으로 구성하고, 민간위원의 수는 위원장을 제외한 위원 수의 2분의 1 이상으로 한다. 공무원위원은 징계 대상자보다 상위계급의 소속 공무원 중에서 원장이 지명하여 구성한다.3. <삭제>4. <삭제>⑥ 국립수목원 보통고충심사위원회의 위원장과 위원과 다음 각호와 같이 구성하여 운영한다.1. 위원장은 연구기획운영과장으로 한다. 다만, 특별한 사정이 있을 때에는 원장이 따로 정할 수 있다.2. 위원회는 위원장 1명을 포함하여 7명 이상 15명 이하의 공무원위원과 민간위원으로 구성한다. 이 경우 민간위원의 수는 위원장을 제외한 위원 수의 2분의 1이상이어야 한다.3. 민간위원은 「공무원고충처리규정」제3조제5항 각 호에 해당하는 사람 중에서 원장이 위촉한 자로 임기는 2년으로 하며, 한 번만 연임할 수 있다.4. 회의는 위원장과 위원장이 회의마다 지정하는 5명 이상 7명 이하의 위원으로 성별을 고려하여 구성하고, 이 경우 민간위원이 3분의 1이상 포함한다.⑦ 각 위원회의 간사는 연구기획운영과 인사담당이 된다.⑧ 각 위원회는 위원장이 사고가 있을 때에는 직제상 선순위 위원순으로 그 직무를 대행한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제6항",
+            "link_text": "「공무원고충처리규정」",
+            "line_text": "",
+            "target_law_name": "공무원고충처리규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2046806",
+            "target_url": "https://www.law.go.kr/법령/공무원고충처리규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립수목원인사관리규정#JO0009",
+            "reference_id": "law:공무원고충처리규정#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공무원고충처리규정/법률/공무원고충처리규정.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제6항",
+            "link_text": "제3조제5항",
+            "line_text": "",
+            "target_law_name": "공무원고충처리규정",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2046806",
+            "target_url": "https://www.law.go.kr/법령/공무원고충처리규정/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립수목원인사관리규정#JO0009",
+            "reference_id": "law:공무원고충처리규정#JO0003",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공무원고충처리규정/법률/공무원고충처리규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국립수목원인사관리규정#JO0009"
       },
@@ -357,7 +398,7 @@
         "article_title": "위원회의 의결",
         "chapter": "제4장 위원회의 설치ㆍ구성",
         "chapter_path": "제4장 위원회의 설치ㆍ구성",
-        "content": "제11조(위원회의 의결) ① 위원회의 의결은 재적위원 과반수의 출석(징계위원회는 5인 이상 출석)과 출석위원 과반수의 찬성으로 의결한다.② 위원장도 표결권을 가진다.",
+        "content": "제11조(위원회의 의결) ① 위원회의 의결은 재적위원 과반수의 출석과 출석위원 과반수의 찬성에 따른다. 단, 보통징계위원회 및 보통고충심사위원회는 5명 이상의 출석과 과반수의 합의에 따른다.② 위원장도 표결권을 가진다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -419,7 +460,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2046806",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261674&bylNo=0006&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285114&bylNo=0006&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원인사관리규정#JO0013",
             "target_unit": "BYL0006",
@@ -444,7 +485,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2046806",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261674&bylNo=0007&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285114&bylNo=0007&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립수목원인사관리규정#JO0013",
             "target_unit": "BYL0007",
@@ -465,10 +506,10 @@
       "content": "부칙 <제44호,2014. 1. 28.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:국립수목원인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000261674",
+      "source_mst": "2100000285114",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250710"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20160127",
@@ -476,10 +517,10 @@
       "content": "부칙 <제61호,2016. 1. 27.>이 규정은 발령한 날부터 시행한다. 다만, 제4조 제4항의 개정규정은 2016년 1월 1일부터 시행한다.",
       "provision_id": "admrul:국립수목원인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000261674",
+      "source_mst": "2100000285114",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250710"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20160725",
@@ -487,10 +528,10 @@
       "content": "부칙 <제64호,2016. 7. 25.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:국립수목원인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000261674",
+      "source_mst": "2100000285114",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250710"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20170821",
@@ -498,10 +539,10 @@
       "content": "부칙 <제78호,2017. 8. 21.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:국립수목원인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000261674",
+      "source_mst": "2100000285114",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250710"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20171018",
@@ -509,10 +550,10 @@
       "content": "부칙 <제83호,2017. 10. 18.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:국립수목원인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000261674",
+      "source_mst": "2100000285114",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250710"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20180831",
@@ -520,10 +561,10 @@
       "content": "부칙 <제92호,2018. 8. 31.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:국립수목원인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000261674",
+      "source_mst": "2100000285114",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250710"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20190807",
@@ -531,10 +572,10 @@
       "content": "부칙 <제98호,2019. 8. 7.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:국립수목원인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000261674",
+      "source_mst": "2100000285114",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250710"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20200217",
@@ -542,10 +583,10 @@
       "content": "부칙 <제105호,2020. 2. 17.>이 지침은 발령한 날부터 시행한다.",
       "provision_id": "admrul:국립수목원인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000261674",
+      "source_mst": "2100000285114",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250710"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20211230",
@@ -553,10 +594,10 @@
       "content": "부칙 <제122호, 2021. 12. 30.>이 지침은 발령한 날부터 시행한다.",
       "provision_id": "admrul:국립수목원인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000261674",
+      "source_mst": "2100000285114",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250710"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20240709",
@@ -564,10 +605,10 @@
       "content": "부칙 <제142호, 2024. 7. 9.>이 영은 2024년 7월 9일부터 시행한다.",
       "provision_id": "admrul:국립수목원인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000261674",
+      "source_mst": "2100000285114",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250710"
+      "version_enforcement_date": "20260921"
     },
     {
       "promulgation_date": "20241231",
@@ -575,10 +616,21 @@
       "content": "부칙 <제150호, 2024. 12. 31.>이 규정은 2024년 12월 31일부터 시행한다.",
       "provision_id": "admrul:국립수목원인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000261674",
+      "source_mst": "2100000285114",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250710"
+      "version_enforcement_date": "20260921"
+    },
+    {
+      "promulgation_date": "20260915",
+      "promulgation_no": "169",
+      "content": "부칙 <제169호, 2026. 9. 15.>이 영은 2026년 9월 00일부터 시행한다.",
+      "provision_id": "admrul:국립수목원인사관리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285114",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260921"
     }
   ],
   "appendices": [
@@ -590,18 +642,18 @@
       "enforcement_date": "",
       "content": "[별표 1]\n근무성적 평가자 및 확인자(제2조 관련)\n┏━━━━━┯━━━━━━━━━━┯━━━━┯━━━━┓\n┃부서      │평  가  대  상      │평 가 자│확 인 자┃\n┣━━━━━┿━━━━━━━━━━┿━━━━┿━━━━┫\n┃과        │6급 이하  일반직    │과  장  │원 장   ┃\n┃          │공무원, 임업연구관, │        │        ┃\n┃          │임업연구사          │        │        ┃\n┠─────┼──────────┼────┼────┨\n┃팀 및 센터│6급 이하 일반직     │부서장  │원 장   ┃\n┃          │공무원, 임업연구사  │        │        ┃\n┃          ├──────────┼────┼────┨\n┃          │임업연구관          │원 장   │원 장   ┃\n┗━━━━━┷━━━━━━━━━━┷━━━━┷━━━━┛\n비고\n1. 임업연구관은 근무성적평정 대상이 되는 임업연구관(5급 상당)에 한한다.\n2. 일반임기제ㆍ시간선택제ㆍ한시임기제공무원은 일반직공무원에 준하여 평가한다.",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261674&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393151",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285114&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169310817",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393147",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169310813",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393151",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169310817",
           "name": "",
           "file_store_url": ""
         }
@@ -621,18 +673,18 @@
       "enforcement_date": "",
       "content": "[별표 1의2]\n근무성적 평가단위(제2조의2 관련)\n┌─────────┬──────────────┐\n│계 급             │평 가 단 위                 │\n┝━━━━━┯━━━┿━━━━━━━━━━━━━━┥\n│일반직    │5급   │행정·임업                  │\n│          ├───┼──────────────┤\n│          │6급   │행정·임업                  │\n│          ├───┼──────────────┤\n│          │7급   │행정·임업, 전산, 공업, 보건│\n│          ├───┼──────────────┤\n│          │8급   │행정·임업, 공업            │\n│          ├───┼──────────────┤\n│          │9급   │행정·임업, 공업, 시설, 운전│\n├─────┼───┼──────────────┤\n│연구직    │연구관│임업                        │\n│          ├───┼──────────────┤\n│          │연구사│임업                        │\n├─────┼───┼──────────────┤\n│관리운영직│9급   │농림운영                    │\n└─────┴───┴──────────────┘\n비고\n1. 근속승진으로 인해 해당 계급의 평가단위가 없을 경우 그 계급에서 별도의 평가단위가 있는 것으로 본다\n2. 일반임기제·시간선택제·한시임기제공무원은 일반직공무원의 평가단위에 준하여 평가한다.",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261674&bylNo=0001&bylBrNo=02",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393157",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285114&bylNo=0001&bylBrNo=02",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311183",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393153",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311179",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393157",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311183",
           "name": "",
           "file_store_url": ""
         }
@@ -652,18 +704,18 @@
       "enforcement_date": "",
       "content": "[별표 2]\n경력평정자 및 확인자(제3조 관련)\n┏━━━━━┯━━━━━━━━┯━━━━━━┯━━━━━━━━┓\n┃기  관    │평  정  대  상  │평 정 자    │확 인 자        ┃\n┣━━━━━┿━━━━━━━━┿━━━━━━┿━━━━━━━━┫\n┃국립수목원│6급 이하, 연구직│인사담당팀장│연구기획운영과장┃\n┗━━━━━┷━━━━━━━━┷━━━━━━┷━━━━━━━━┛",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261674&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393163",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285114&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311189",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393159",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311185",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393163",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311189",
           "name": "",
           "file_store_url": ""
         }
@@ -683,18 +735,18 @@
       "enforcement_date": "",
       "content": "[별표 3]\n연구직 직위별 보직기준(제5조관련)\n┏━━━┯━━━━━━┯━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━┓\n┃구분  │직  위  명  │경    력    요    건                  │연구관의 직위     ┃\n┣━━━┿━━━━━━┿━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━┫\n┃      │            │                                      │                  ┃\n┃제2호 │과장        │o 「공무원임용령」 제10조의3에 따른   │「연구직 및 지도  ┃\n┃      │            │과장급 후보자 역량평가를 통과한 다    │직공무원의 임용   ┃\n┃      │            │음 각 호의 어느 하나에 해당하는 사람  │등에 관한 규      ┃\n┃      │            │ - 임업연구관으로 2년 이상 재직한 사람│정」              ┃\n┃      │            │ - 동일직군 5급 이상 및 그에 상당한 직│별표2의 제2호나목 ┃\n┃      │            │위에서 6년 이상 재직한 사람           │                  ┃\n┃      │            │ - 교육ㆍ연구기관 등에서 관련 분야 연 │                  ┃\n┃      │            │구 경력이 10년 이상인 사람            │                  ┃\n┃      │            │                                      │                  ┃\n┃      ├──────┼───────────────────┼─────────┨\n┃      │            │                                      │                  ┃\n┃      │팀장ㆍ센터장│o 임업연구관으로 2년 이상 재직한 사람 │「연구직 및 지도  ┃\n┃      │            │                                      │직공무원의 임용   ┃\n┃      │            │                                      │등에 관한 규      ┃\n┃      │            │                                      │정」              ┃\n┃      │            │                                      │별표2의 제2호다목 ┃\n┗━━━┷━━━━━━┷━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━┛",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261674&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393169",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285114&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311195",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393165",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311191",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393169",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311195",
           "name": "",
           "file_store_url": ""
         }
@@ -714,18 +766,18 @@
       "enforcement_date": "",
       "content": "[별표 4] <삭 제>",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261674&bylNo=0004&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393175",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285114&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311201",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393171",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311197",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393175",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311201",
           "name": "",
           "file_store_url": ""
         }
@@ -745,18 +797,18 @@
       "enforcement_date": "",
       "content": "[별표 4-1]<삭 제>",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261674&bylNo=0004&bylBrNo=01",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393181",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285114&bylNo=0004&bylBrNo=01",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311207",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393177",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311203",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393181",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311207",
           "name": "",
           "file_store_url": ""
         }
@@ -776,18 +828,18 @@
       "enforcement_date": "",
       "content": "[별표 5]<삭 제>",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261674&bylNo=0005&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393187",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285114&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311213",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393183",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311209",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393187",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311213",
           "name": "",
           "file_store_url": ""
         }
@@ -807,18 +859,18 @@
       "enforcement_date": "",
       "content": "[별표 6]\n연구직 공무원 경력경쟁채용을 위한 자격증 구분표\n(제13조제1항 관련)\n┏━━━━┯━━━━┯━━━━━━━┯━━━━━━━┓\n┃직렬    │직류    │임업연구관    │임업연구사    ┃\n┣━━━━┿━━━━┿━━━━━━━┿━━━━━━━┫\n┃임업연구│임    업│ㆍ조경기술사  │ㆍ조경기사    ┃\n┃        ├────┤ㆍ종자기술사  │ㆍ종자기사    ┃\n┃        │산림조경│ㆍ산림기술사  │ㆍ산림기사    ┃\n┃        │        │ㆍ농화학기술사│ㆍ임업종묘기사┃\n┃        │        │              │ㆍ식물보호기사┃\n┃        │        │              │ㆍ임산가공기사┃\n┃        │        │              │ㆍ토양환경기사┃\n┗━━━━┷━━━━┷━━━━━━━┷━━━━━━━┛\n비고 1. 직류별로 연구관에 해당하는 자격증을 가진 경우, 연구사에 해당하는 자격증을 가진 것으로 본다.\n2. 경력경쟁채용등의 경우 기사 자격증을 가진 사람은 해당 자격증 취득 후 3년 이상 관련 분야에서 연구 또는 근무경력이 있어야 한다.\n3. 폐지된 자격증으로서 국가기술자격법령 등에 따라 그 자격이 계속 인정되는 자격증은 경력경쟁채용대상 자격증으로 인정한다.",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261674&bylNo=0006&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393193",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285114&bylNo=0006&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311219",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393189",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311215",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393193",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311219",
           "name": "",
           "file_store_url": ""
         }
@@ -838,18 +890,18 @@
       "enforcement_date": "",
       "content": "[별표 7]\n일반직 공무원 경력경쟁채용을 위한 자격증 구분표\n(제13조제2항 관련)\n┏━━━━┯━━━━┯━━━━━━━━━┓\n┃직렬    │직류    │자 격 증          ┃\n┣━━━━┿━━━━┿━━━━━━━━━┫\n┃운   전 │운    전│ ㆍ제1종 대형면허 ┃\n┃        │        │ ㆍ제1종 보통면허 ┃\n┗━━━━┷━━━━┷━━━━━━━━━┛\n비고 1. 별표 7에서 정한 것 외의 자격증 기준은 공무원임용시험령 제27조제1항 관련 [별표 8]에 따른다.\n2. 직렬(직류)별로 상위 계급에 규정된 자격증 지정기준을 충족한 사람은 하위 계급의 자격증 지정기준을 충족한 것으로 본다.\n3. 폐지된 자격증으로서 국가기술자격법령 등에 따라 그 자격이 계속\n인정되는 자격증은 경력경쟁채용 대상 자격증으로 인정한다.",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261674&bylNo=0007&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393199",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285114&bylNo=0007&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311225",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393195",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311221",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154393199",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169311225",
           "name": "",
           "file_store_url": ""
         }
@@ -864,51 +916,43 @@
   ],
   "attachments": [
     {
-      "name": "개정본문(국립수목원 인사관리규정 일부개정훈령안) (1).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=154367505",
-      "filename": "개정본문(국립수목원 인사관리규정 일부개정훈령안) (1).hwpx",
+      "name": "국립수목원 인사관리규정 개정본문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169309569",
+      "filename": "국립수목원 인사관리규정 개정본문.hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/개정본문(국립수목원 인사관리규정 일부개정훈령안) (1).hwpx",
+      "local_path": "첨부파일/국립수목원 인사관리규정 개정본문.hwpx",
       "file_store_url": ""
     },
     {
-      "name": "국립수목원 인사관리규정 일부개정이유.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=154393139",
-      "filename": "국립수목원 인사관리규정 일부개정이유.hwpx",
+      "name": "국립수목원 인사관리규정 개정본문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169309573",
+      "filename": "국립수목원 인사관리규정 개정본문.pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/국립수목원 인사관리규정 일부개정이유.hwpx",
-      "file_store_url": ""
-    },
-    {
-      "name": "국립수목원 인사관리규정 일부개정이유.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=154393143",
-      "filename": "국립수목원 인사관리규정 일부개정이유.pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/국립수목원 인사관리규정 일부개정이유.pdf",
+      "local_path": "첨부파일/국립수목원 인사관리규정 개정본문.pdf",
       "file_store_url": ""
     }
   ],
   "ordinance_delegations": [],
   "relation_mode": "no_crawl",
   "relation_stats": {
-    "relations_total": 11,
+    "relations_total": 13,
     "by_category": {
       "행정규칙": 9,
-      "법령": 2
+      "법령": 4
     },
     "by_relation_type": {
       "appendix_ref": 7,
       "internal_ref": 2,
-      "citation": 2
+      "citation": 4
     },
     "articles_total": 14,
-    "articles_with_relations": 6,
+    "articles_with_relations": 7,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 11,
+    "addenda_count": 12,
     "appendices_count": 9,
-    "attachments_count": 3
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/국립수목원 인사관리규정"
