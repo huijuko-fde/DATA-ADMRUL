@@ -1,25 +1,25 @@
 {
   "law_id": "36847",
-  "mst": "2100000277924",
+  "mst": "2100000285364",
   "law_name": "교육지원업무 처리규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:36847",
-  "promulgation_no": "147",
-  "promulgation_date": "20260415",
-  "enforcement_date": "20260415",
-  "revision_date": "20260415",
+  "promulgation_no": "167",
+  "promulgation_date": "20260922",
+  "enforcement_date": "20260922",
+  "revision_date": "20260922",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "국가보훈부(생활안정과)",
-    "담당자명": "김미정",
+    "담당자명": "이상완",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "교육지원업무 처리규정",
-    "발령일자": "20260415",
+    "발령일자": "20260922",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "044-202-5659",
     "제개정구분명": "일부개정",
     "소관부처코드": "1830000",
-    "생성일자": "20260417",
+    "생성일자": "20260923",
     "행정규칙ID": "36847",
-    "시행일자": "20260415",
-    "담당부서기관코드": "1830092",
-    "발령번호": "147",
-    "행정규칙일련번호": "2100000277924",
+    "시행일자": "20260922",
+    "담당부서기관코드": "1830055",
+    "발령번호": "167",
+    "행정규칙일련번호": "2100000285364",
     "상위부처명": "국가보훈부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n생활수준을 고려하여 교육지원 하는 교육지원 희망자의 경우, 조사가구원이 동일한 생활조정수당 또는 생계지원금 지원을 위하여 실시한 생활수준조사 결과를 공유ㆍ활용함으로써 별도의 생활수준조사를 생략할 수 있도록 규정 일부를 정비하려는 것임\n\n◇ 주요내용\n가. 교육지원 희망자 중 생활수준조사 생략 대상자를 생활조정수당ㆍ생계지원금 대상자까지 확대하여 행정절차 간소화(안 제3조제3항)\n\n나. 교육지원 희망자(조사 가구원에 수권자가 포함된 경우)의 생활수준조사 결과 소득인정액이 기준 중위소득 50% 이하인 경우 보상과에 통보하여 국가보훈대상자의 생활안정을 위해 노력함(안 제3조제7항)",
+  "revision_reason": "◇ 제ㆍ개정 이유\n현행 국가유공자 교육지원 신청자 중 「국민기초생활 보장법」에 따른 생계ㆍ주거ㆍ의료ㆍ교육급여자 및 차상위계층에 대하여 생활수준조사를 생략할 수 있도록 하는 규정(제3조제3항)을 제대군인 교육지원 업무에도 준용(제49조)하여 행정절차를 간소화하고 업무 효율성을 제고하고자 함\n\n◇ 주요내용\n국가유공자 교육지원 신청자 중 생활수준조사를 생략할 수 있도록 하는 규정을 제대군인 교육지원업무에도 준용(안 제49조)",
   "body": {
     "format": "articles",
     "article_count": 55,
@@ -370,7 +370,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36847",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277924&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285364&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:교육지원업무처리규정#JO0003",
             "target_unit": "BYL0001",
@@ -643,8 +643,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163527401",
-            "seq": "163527401",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585655",
+            "seq": "169585655",
             "filename": "제11조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제11조_1.gif",
@@ -752,7 +752,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36847",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552023",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585819",
             "resolve_method": "html",
             "source_provision_id": "admrul:교육지원업무처리규정#JO0015",
             "target_unit": "BJ0001",
@@ -777,7 +777,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36847",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552029",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585825",
             "resolve_method": "html",
             "source_provision_id": "admrul:교육지원업무처리규정#JO0015",
             "target_unit": "BJ0002",
@@ -802,7 +802,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36847",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552023",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585819",
             "resolve_method": "html",
             "source_provision_id": "admrul:교육지원업무처리규정#JO0015",
             "target_unit": "BJ0001",
@@ -870,7 +870,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36847",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552035",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585831",
             "resolve_method": "html",
             "source_provision_id": "admrul:교육지원업무처리규정#JO0017",
             "target_unit": "BJ0003",
@@ -935,7 +935,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36847",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277924&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285364&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:교육지원업무처리규정#JO0017",
             "target_unit": "BYL0002",
@@ -1069,7 +1069,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36847",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552041",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585837",
             "resolve_method": "html",
             "source_provision_id": "admrul:교육지원업무처리규정#JO0022",
             "target_unit": "BJ0004",
@@ -1106,7 +1106,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36847",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552041",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585837",
             "resolve_method": "html",
             "source_provision_id": "admrul:교육지원업무처리규정#JO0023",
             "target_unit": "BJ0004",
@@ -1143,7 +1143,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36847",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552041",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585837",
             "resolve_method": "html",
             "source_provision_id": "admrul:교육지원업무처리규정#JO0024",
             "target_unit": "BJ0004",
@@ -1233,7 +1233,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36847",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552047",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585843",
             "resolve_method": "html",
             "source_provision_id": "admrul:교육지원업무처리규정#JO0028",
             "target_unit": "BJ0005",
@@ -1292,7 +1292,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36847",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552053",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585849",
             "resolve_method": "html",
             "source_provision_id": "admrul:교육지원업무처리규정#JO0031",
             "target_unit": "BJ0006",
@@ -1329,7 +1329,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36847",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552059",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585855",
             "resolve_method": "html",
             "source_provision_id": "admrul:교육지원업무처리규정#JO0032",
             "target_unit": "BJ0007",
@@ -1377,7 +1377,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36847",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552059",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585855",
             "resolve_method": "html",
             "source_provision_id": "admrul:교육지원업무처리규정#JO0034",
             "target_unit": "BJ0007",
@@ -1414,7 +1414,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36847",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552065",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585861",
             "resolve_method": "html",
             "source_provision_id": "admrul:교육지원업무처리규정#JO0035",
             "target_unit": "BJ0008",
@@ -2013,7 +2013,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36847",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552071",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585867",
             "resolve_method": "html",
             "source_provision_id": "admrul:교육지원업무처리규정#JO0046",
             "target_unit": "BJ0009",
@@ -2073,9 +2073,29 @@
         "article_title": "준용",
         "chapter": "제9장 「제대군인지원에 관한 법률」에 따른 교육지원",
         "chapter_path": "제9장 「제대군인지원에 관한 법률」에 따른 교육지원",
-        "content": "제49조(준용) 제13조부터 제15조까지의 규정, 제28조, 제35조, 제36조의 규정은 「제대군인지원에 관한 법률」에 따른 교육지원에 관하여 이를 준용한다.",
+        "content": "제49조(준용) 제3조제3항의 규정, 제13조부터 제15조까지의 규정, 제28조, 제35조, 제36조의 규정은 「제대군인지원에 관한 법률」에 따른 교육지원에 관하여 이를 준용한다.",
         "enforcement_date": "",
         "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제49조",
+            "source_clause": "제49조",
+            "link_text": "제3조제3항",
+            "line_text": "",
+            "target_law_name": "교육지원업무 처리규정",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "36847",
+            "target_url": "https://www.law.go.kr/행정규칙/교육지원업무 처리규정/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교육지원업무처리규정#JO0049",
+            "reference_id": "admrul:교육지원업무처리규정#JO0003",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "교육지원업무 처리규정/교육지원업무 처리규정.json"
+          },
           {
             "relation_type": "internal_ref",
             "delegation_type": null,
@@ -2445,7 +2465,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36847",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552053",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585849",
             "resolve_method": "html",
             "source_provision_id": "admrul:교육지원업무처리규정#JO0050",
             "target_unit": "BJ0006",
@@ -2470,7 +2490,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36847",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552077",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585873",
             "resolve_method": "html",
             "source_provision_id": "admrul:교육지원업무처리규정#JO0050",
             "target_unit": "BJ0010",
@@ -2540,7 +2560,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36847",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552077",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585873",
             "resolve_method": "html",
             "source_provision_id": "admrul:교육지원업무처리규정#JO0050",
             "target_unit": "BJ0010",
@@ -2604,10 +2624,10 @@
       "content": "부칙 <제807호,2006. 12. 29.>①(시행일) 이 규정은 2007년 1월 1일부터 시행한다.②(경과조치) 이 규정 시행당시 종전의 교육보호업무지침에 의하여 시행한 교육보호에 관한 사항은 이 규정에 의하여 처리된 것으로 본다.③(대학등의 면제기간 및 적용례) 제14조제4항에 관한 규정은 이 규정 시행일 이후 \"대학수업료등면제대상자증명서\"를 발급하는 사람에게 적용한다.④(학자금 지급구분에 관한 경과조치) 이 규정 시행당시 학자금 지급구분을 함에 있어 종전 제34조의 규정에 따라 예술, 체육고등학교를 실업계로 구분한 경우 실업계 학자금을 지급한다.",
       "provision_id": "admrul:교육지원업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277924",
+      "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "version_enforcement_date": "20260922"
     },
     {
       "promulgation_date": "20090908",
@@ -2615,10 +2635,10 @@
       "content": "부칙 <제911호,2009. 9. 8.>이 지침은 발령한 날부터 시행한다.",
       "provision_id": "admrul:교육지원업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277924",
+      "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "version_enforcement_date": "20260922"
     },
     {
       "promulgation_date": "20100202",
@@ -2626,10 +2646,10 @@
       "content": "부칙 <제936호,2010. 2. 2.>①(시행일) 이 규정은 공포한 날부터 시행한다.",
       "provision_id": "admrul:교육지원업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277924",
+      "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "version_enforcement_date": "20260922"
     },
     {
       "promulgation_date": "20120702",
@@ -2637,10 +2657,10 @@
       "content": "부칙 <제988호,2012. 7. 2.>제1조(시행일) 이 훈령은 2012년 7월 1일부터 시행한다.제2조(경과조치) 이 훈령 시행 당시 종전의 규정에 따라 생활등급에 따른 교육지원을 받고 있는 사람은 해당교육기관 수업연한까지 교육지원을 실시한다.",
       "provision_id": "admrul:교육지원업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277924",
+      "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "version_enforcement_date": "20260922"
     },
     {
       "promulgation_date": "20131231",
@@ -2648,10 +2668,10 @@
       "content": "부칙 <제1044호,2013. 12. 31.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:교육지원업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277924",
+      "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "version_enforcement_date": "20260922"
     },
     {
       "promulgation_date": "20141124",
@@ -2659,10 +2679,10 @@
       "content": "부칙 (정부조직법 개정에 따른 교육지원업무처리규정 등 일부개정) <제1076호,2014. 11. 24.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:교육지원업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277924",
+      "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "version_enforcement_date": "20260922"
     },
     {
       "promulgation_date": "20150408",
@@ -2670,10 +2690,10 @@
       "content": "부칙 <제1086호,2015. 4. 8.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.제2조(생활수준을 고려한 교육지원에 관한 경과조치) 이 훈령 시행 당시 종전의 규정에 따라 동시에 그 밖의 다른 수업연한이 없는 교육기관에 취학하여 교육지원을 받고 있는 사람은 제3조제5항의 개정규정에도 불구하고 교육지원을 받고 있는 해당 교육기관에 한하여 종전의 규정에 따른다..",
       "provision_id": "admrul:교육지원업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277924",
+      "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "version_enforcement_date": "20260922"
     },
     {
       "promulgation_date": "20160623",
@@ -2681,10 +2701,10 @@
       "content": "부칙 <제1123호,2016. 6. 23.>제1조(시행일) 이 훈령은 2016년 6월 23일부터 시행한다.제2조(학습보조비 지급일 이전 취학변동자에 대한 적용례) 제20조제4항의 개정 규정 시행전 학습보조비 지급일 이전에 퇴학, 휴학, 자퇴 및 제적이 확인된 교육지원대상자도 개정규정을 적용하여 이미 지급한 학습보조비는 환수하지 아니한다.",
       "provision_id": "admrul:교육지원업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277924",
+      "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "version_enforcement_date": "20260922"
     },
     {
       "promulgation_date": "20170726",
@@ -2692,10 +2712,10 @@
       "content": "부칙 (정부조직법 개정에 따른 교육지원업무처리규정 등 일부개정령)<제1157호,2017. 7. 26.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:교육지원업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277924",
+      "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "version_enforcement_date": "20260922"
     },
     {
       "promulgation_date": "20190701",
@@ -2703,10 +2723,10 @@
       "content": "부칙 <제1277호,2019. 7. 1.>제1조(시행일) 이 훈령은 2019년 7월 1일부터 시행한다.",
       "provision_id": "admrul:교육지원업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277924",
+      "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "version_enforcement_date": "20260922"
     },
     {
       "promulgation_date": "20200228",
@@ -2714,10 +2734,10 @@
       "content": "부칙 (국가보훈처 적극행정 활성화를 위한 교육지원업무 처리규정 등 19개 훈령 일부개정)<제1301호,2020. 2. 28.>제1조(시행일) 이 지침은 공포한 날부터 시행한다.",
       "provision_id": "admrul:교육지원업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277924",
+      "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "version_enforcement_date": "20260922"
     },
     {
       "promulgation_date": "20200623",
@@ -2725,10 +2745,10 @@
       "content": "부칙 <제1328호,2020. 6. 23.>제1조(시행일)이 지침은 공포한 날부터 시행한다.",
       "provision_id": "admrul:교육지원업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277924",
+      "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "version_enforcement_date": "20260922"
     },
     {
       "promulgation_date": "20220628",
@@ -2736,10 +2756,10 @@
       "content": "부칙 <제1428호, 2022. 6. 28.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:교육지원업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277924",
+      "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "version_enforcement_date": "20260922"
     },
     {
       "promulgation_date": "20221229",
@@ -2747,10 +2767,10 @@
       "content": "부칙 <제1450호, 2022. 12. 29.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:교육지원업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277924",
+      "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "version_enforcement_date": "20260922"
     },
     {
       "promulgation_date": "20230605",
@@ -2758,10 +2778,10 @@
       "content": "부칙(정부조직법 개정에 따른 4ㆍ19혁명유공자 서훈공적심사위원회 운영규정 등 78개 훈령의 정비에 관한 훈령) <제2호, 2023. 6. 5.>이 훈령은 2023년 6월 5일부터 시행한다.",
       "provision_id": "admrul:교육지원업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277924",
+      "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "version_enforcement_date": "20260922"
     },
     {
       "promulgation_date": "20241230",
@@ -2769,10 +2789,10 @@
       "content": "부칙 <제98호, 2024. 12. 30.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:교육지원업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277924",
+      "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "version_enforcement_date": "20260922"
     },
     {
       "promulgation_date": "20260128",
@@ -2780,10 +2800,10 @@
       "content": "부칙(정부조직법 및 국가보훈부와 그 소속기관 직제 시행규칙 개정에 따른 국가보훈부 법제업무 처리규정 등 15개 훈령 일부개정) <제138호, 2026. 1. 28.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:교육지원업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277924",
+      "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "version_enforcement_date": "20260922"
     },
     {
       "promulgation_date": "20260415",
@@ -2791,10 +2811,10 @@
       "content": "부칙 <제147호, 2026. 4. 15.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:교육지원업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277924",
+      "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260415"
+      "version_enforcement_date": "20260922"
     }
   ],
   "appendices": [
@@ -2806,18 +2826,18 @@
       "enforcement_date": "",
       "content": "\n법적용 배제에 따른 교육지원 기한 구분표(제3조제6항 관련)\n┏━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃구분                              │교육지원 기한                                   ┃\n┠─────────────────┼────────────────────────┨\n┃국가유공자 등(본인)이 사망한      │?사망한 날이 속한 달까지 교육지원              ┃\n┃경우                              │                                                ┃\n┠─────────────────┼────────────────────────┨\n┃2. 국적상실한 경우                │                                                ┃\n┃  가) 국가유공자 등(본인)         │?가족 포함하여 국적상실을 한 날이 속하는 달까  ┃\n┃  나) 교육지원대상자 중           │지 교육지원                                     ┃\n┃      배우자 및 자녀              │?국적상실을 한 날이 속하는 달까지 교육지원     ┃\n┃                                  │                                                ┃\n┃                                  │                                                ┃\n┠─────────────────┼────────────────────────┨\n┃3. 양자로 있다가 파양된 경우      │?파양판결일이 속한 달까지 교육지원             ┃\n┠─────────────────┼────────────────────────┨\n┃4. 배우자가 재혼한 경우           │?재혼일이 속한 달이 포함된 학기까지 교육지원   ┃\n┠─────────────────┼────────────────────────┨\n┃5. 재판정 신체검사에서 상이등급이 │?해당교육기관이 정하는 수업연한까지 교육지원   ┃\n┃하락된 경우                       │?해당교육기관에서 이수 중에 있는 학습과정에 대 ┃\n┃  가) 수업연한이 있는 교육기관    │하여 국가보훈부장관이 정하여 고시하는 면제기준  ┃\n┃  나) 수업연한이 없는 교육기관    │까지 교육지원                                   ┃\n┗━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━┛\n[별표 1]",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277924&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163551971",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285364&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585807",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163551967",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585803",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163551971",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585807",
           "name": "",
           "file_store_url": ""
         }
@@ -2837,18 +2857,18 @@
       "enforcement_date": "",
       "content": "[별표 2]\n\n수업료 국비보전 지급 기준(제17조제6항 관련)\n┏━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━┓\n┃1. 등록일 기준                │2. 시효                             │3. 지급범위           ┃\n┠───────────────┼──────────────────┼───────────┨\n┃가.「국가유공자법」 적용대상: │?수업료 지급 신청일 현재 수업료    │?유공자로 등록신청한 ┃\n┃   2007.1.1. 이후 등록신청    │납부일로부터 5년이 경과하지         │이후 본인이 부담한 수 ┃\n┃하여 결정된 사람              │않은 경우(단, 유공자 등록결정전     │업료                  ┃\n┃나.「5·18유공자법」 및 「특수│으로, 자부담한 수업료에 대해서는    │                      ┃\n┃임무유공자법」 적용대상:      │수업료 지급 신청일 현재 유공자등    │                      ┃\n┃2007.4.4. 이후 등록신청       │록결정일로부터 5년이 경과하지 않은  │                      ┃\n┃하여 결정된 사람              │경우)                               │                      ┃\n┃                              │                                    │                      ┃\n┗━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━┛",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277924&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163551977",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285364&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585813",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163551973",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585809",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163551977",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585813",
           "name": "",
           "file_store_url": ""
         }
@@ -2869,17 +2889,17 @@
       "content": "[별지 제1호 서식]\n국고지원금 지급 확정명세서\n학 교 명 :\n┌────┬────┬────┬──┬──┬──┬──┬───────────┬────┬────┐\n│보훈번호│성   명 │생년월일│학과│학년│평균│학점│수 업 료 등           │국고지원│비   고 │\n│        │        │(성별)  │    │    │성적│    ├────┬────┬─┤금액    │        │\n│        │        │        │    │    │    │    │입 학 금│수 업 료│계│        │        │\n├────┼────┼────┼──┼──┼──┼──┼────┼────┼─┼────┼────┤\n│        │        │        │    │    │    │    │        │        │  │        │        │\n├────┼────┼────┼──┼──┼──┼──┼────┼────┼─┼────┼────┤\n│        │        │        │    │    │    │    │        │        │  │        │        │\n├────┼────┼────┼──┼──┼──┼──┼────┼────┼─┼────┼────┤\n│        │        │        │    │    │    │    │        │        │  │        │        │\n├────┼────┼────┼──┼──┼──┼──┼────┼────┼─┼────┼────┤\n│        │        │        │    │    │    │    │        │        │  │        │        │\n├────┼────┼────┼──┼──┼──┼──┼────┼────┼─┼────┼────┤\n│        │        │        │    │    │    │    │        │        │  │        │        │\n├────┼────┼────┼──┼──┼──┼──┼────┼────┼─┼────┼────┤\n│        │        │        │    │    │    │    │        │        │  │        │        │\n├────┼────┼────┼──┼──┼──┼──┼────┼────┼─┼────┼────┤\n│        │        │        │    │    │    │    │        │        │  │        │        │\n├────┼────┼────┼──┼──┼──┼──┼────┼────┼─┼────┼────┤\n│        │        │        │    │    │    │    │        │        │  │        │        │\n├────┼────┼────┼──┼──┼──┼──┼────┼────┼─┼────┼────┤\n│        │        │        │    │    │    │    │        │        │  │        │        │\n├────┼────┼────┼──┼──┼──┼──┼────┼────┼─┼────┼────┤\n│        │        │        │    │    │    │    │        │        │  │        │        │\n└────┴────┴────┴──┴──┴──┴──┴────┴────┴─┴────┴────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552023",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585819",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552019",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585815",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552023",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585819",
           "name": "",
           "file_store_url": ""
         }
@@ -2900,17 +2920,17 @@
       "content": "[별지 제2호 서식]\n┌─────────────────────────────────────────────────┐\n│                                                                                                  │\n│국고지원금 지급 결정통지서                                                                        │\n├────────┬────┬────────┬──────────────────────────┤\n│교육기관명      │        │소재지          │                                                    │\n├────────┼────┴────────┴──────────────────────────┤\n│대표자명        │                                                                                │\n├────────┼────────────────────────────────────────┤\n│지원사업의 목적 │ 국가유공자 등 자녀 교육지원                                                    │\n├────────┼────────────────────────────────────────┤\n│지원사업의 내용 │ 국가유공자 등 자녀 대학 수업료등 국고지원                                      │\n├────────┼────┬────────────┬──────────────────────┤\n│지 원 결 정     │소요경비│지원결정액              │자기자본의 부담액                           │\n│                ├────┼────────────┼──────────────────────┤\n│                │        │                        │                                            │\n├────────┼────┴───────┬────┼──────────────────────┤\n│회  계  명      │일반회계 국가보훈부 소관│예산과목│                                            │\n├────────┼────────────┴────┴──────────────────────┤\n│국고지원금      │                                                                                │\n│지급시기        │                                                                                │\n├────────┼────────────────────────────────────────┤\n│국고지원금      │ㅇ 교육기관 등은 「독립유공자법」,「국가유공자법」,「보훈보상자법」,「고엽제법」, │\n│지급조건        │「5?18유공자법」, 「특수임무유공자법」, 「제대군인법」과 교육지원업무 처리규정에 │\n│                │따라 사업을 수행                                                                │\n├────────┼────────────────────────────────────────┤\n│국고지원 결정의 │ㅇ 국고지원금 지급조건을 위반한 경우, 다음 각 목에 해당하는 경우에 국고지원금   │\n│취소 등         │지급결정의 전부 또는 일부를 취소                                                │\n│                │                                                                                │\n│                │   1. 거짓이나 그 밖의 부정한 방법으로 국고지원금을 청구?지원받은 경우         │\n│                │   2. 거짓이나 그 밖의 부정한 방법으로 국고지원금을 과다하게 청구하는 경우      │\n│                │   3. 법령 등 관련 규정에서 정한 절차에 따르지 아니한 경우                      │\n│                │   4. 국고지원금을 다른 용도에 사용한 경우                                      │\n│                │   5. 해당 국고지원과 직접 관련된 전제 조건이 사후에 충족되지 아니하는 경우     │\n│                │   6. 다른 법령에 따라 수업료등에 해당하는 금액을 감면 등 지원 받은 경우        │\n│                │   7. 국가유공자 등 등록 후 그 등록의 사유가 소급하여 소멸한 경우               │\n│                │   8. 그 밖에 국고지원금이 잘못 지급된 경우                                     │\n├────────┼────────────────────────────────────────┤\n│부정수급자의    │ㅇ 국고지원금을 부정수급한 자에게는 다음에 따라 환수 조치                       │\n│국고지원금 환수 │                                                                                │\n│                │   1.「독립유공자법」제35조 및 같은 법 시행령 제37조에 따라 환수                │\n│                │   2.「국가유공자법」제75조 및 같은 법 시행령 제95조에 따라 환수                │\n│                │   3.「보훈보상자법」제68조 및 같은 법 시행령 제81조에 따라 환수                │\n│                │   4.「고엽제법」제25조 및 같은 법 시행령 제11조에 따라 환수                    │\n│                │   5.「5?18유공자법」제92조 및 같은 법 시행령 제55조의2에 따라 환수            │\n│                │   6.「특수임무유공자법」제77조 및 같은 법 시행령 제61조의2에 따라 환수         │\n├────────┼────────────────────────────────────────┤\n│이 의 신 청     │ㅇ 동 결정 내용에 이의가 있을 경우에는 동 통지서를 받은 날부터 20일 이내에 서면 │\n│                │으로 이의를 신청할 수 있음.                                                     │\n├────────┴────────────────────────────────────────┤\n│  상기와 같이 국고지원금 지급을 결정 통지합니다.                                                  │\n│                                             년     월     일                                     │\n│                             귀 하                                                                │\n│                                                                                                  │\n│                                                                                                  │\n│                     ○ ○ 보훈(지)청장  (인)                                                     │\n│                                                                                                  │\n│                                                                                                  │\n└─────────────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552029",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585825",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552025",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585821",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552029",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585825",
           "name": "",
           "file_store_url": ""
         }
@@ -2931,17 +2951,17 @@
       "content": "[별지 제3호 서식]\n┌────────────────────────────────────┐\n│수업료등 지급결정(통보)서                                               │\n├────────┬─────┬─┬───────┬──┬──────┬─┤\n│국가유공자 등   │대상      │  │보훈번호      │    │성 명       │  │\n│인적사항(수권자)│구분      │  │              │    │            │  │\n├────────┼─────┼─┼───────┼──┼──────┼─┤\n│신 청 인        │성 명     │  │생년월일(성별)│    │수권자와의  │  │\n│                │          │  │              │    │관계        │  │\n│                ├─────┼─┼───────┼──┴──────┴─┤\n│                │학생과의  │  │주   소       │                      │\n│                │관계      │  │              │(전화번호            )│\n├────────┴─────┴─┴───────┴───────────┤\n│수업료등 지급결정내역                                                   │\n├────────┬──────┬───┬──┬───┬────┬────┤\n│학생명          │학교명      │학과  │학년│지급  │제외금액│지급    │\n│                │            │(학부)│    │신청액│        │결정액  │\n├────────┼──────┼───┼──┼───┼────┼────┤\n│                │            │      │    │      │        │        │\n├────────┼──────┼───┼──┼───┼────┼────┤\n│                │            │      │    │      │        │        │\n├────────┼──────┼───┼──┼───┼────┼────┤\n│                │            │      │    │      │        │        │\n├────────┼──────┼───┼──┼───┼────┼────┤\n│                │            │      │    │      │        │        │\n├────────┼──────┼───┼──┼───┼────┼────┤\n│계              │            │      │    │      │        │        │\n├────────┼──────┴───┴──┴───┴────┴────┤\n│특기사항        │                                                      │\n├────────┴─────┬─────────────────────┤\n│지정지급기관                │                                          │\n│(예금계좌)                  │                                          │\n├──────────────┴─────────────────────┤\n│  상기와 같이 수업료등을 지급결정(통보) 합니다.                         │\n│  년       월       일                                                  │\n│                                                                        │\n│                                                                        │\n│     ○  ○ 보  훈  (지)  청  장    (인)                                │\n└────────────────────────────────────┘\n\n※ 특기사항란은 제외금액 사유기재                   210mm×297mm 인쇄용지60g/㎡(재활용품)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552035",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585831",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552031",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585827",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552035",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585831",
           "name": "",
           "file_store_url": ""
         }
@@ -2962,17 +2982,17 @@
       "content": "[별지 제4호 서식]\n(  학기)학습보조비 지급 확정자(예정자)명단\n┌──┬──┬──┬────┬────┬──┬───┬───┬──┬──┬───┬──┬───┬───┬──┬──┐\n│기관│대상│보훈│수권자와│취학자명│학교│계 열 │학교명│학년│지급│은행명│계좌│학습  │가감액│합계│상태│\n│    │구분│번호│의 관계 │        │구분│      │      │    │방법│      │번호│보조비│      │    │    │\n├──┼──┼──┼────┼────┼──┼───┼───┼──┼──┼───┼──┼───┼───┼──┼──┤\n│    │    │    │        │        │    │      │      │    │    │      │    │      │      │    │    │\n│    │    │    │        │        │    │      │      │    │    │      │    │      │      │    │    │\n│    │    │    │        │        │    │      │      │    │    │      │    │      │      │    │    │\n│    │    │    │        │        │    │      │      │    │    │      │    │      │      │    │    │\n│    │    │    │        │        │    │      │      │    │    │      │    │      │      │    │    │\n│    │    │    │        │        │    │      │      │    │    │      │    │      │      │    │    │\n│    │    │    │        │        │    │      │      │    │    │      │    │      │      │    │    │\n│    │    │    │        │        │    │      │      │    │    │      │    │      │      │    │    │\n│    │    │    │        │        │    │      │      │    │    │      │    │      │      │    │    │\n│    │    │    │        │        │    │      │      │    │    │      │    │      │      │    │    │\n│    │    │    │        │        │    │      │      │    │    │      │    │      │      │    │    │\n│    │    │    │        │        │    │      │      │    │    │      │    │      │      │    │    │\n└──┴──┴──┴────┴────┴──┴───┴───┴──┴──┴───┴──┴───┴───┴──┴──┘\n297mm×210mm 인쇄용지60g/㎡(재활용품)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552041",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585837",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552037",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585833",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552041",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585837",
           "name": "",
           "file_store_url": ""
         }
@@ -2993,17 +3013,17 @@
       "content": "[별지 제5호 서식]\n학습보조비 등 과오불 발생(회수)자 통보서\n┌────┬────┬───┬───────┬───┬───┬────┬─────┬───┬────┬───┐\n│대상구분│보훈번호│성 명 │주          소│과오불│발  생│발생사유│부 책 자  │회수액│미회수액│비  고│\n│        │        │      │              │금  액│년월일│        │직위?성명│      │        │      │\n├────┼────┼───┼───────┼───┼───┼────┼─────┼───┼────┼───┤\n│        │        │      │              │      │      │        │          │      │        │      │\n├────┼────┼───┼───────┼───┼───┼────┼─────┼───┼────┼───┤\n│        │        │      │              │      │      │        │          │      │        │      │\n├────┼────┼───┼───────┼───┼───┼────┼─────┼───┼────┼───┤\n│        │        │      │              │      │      │        │          │      │        │      │\n├────┼────┼───┼───────┼───┼───┼────┼─────┼───┼────┼───┤\n│        │        │      │              │      │      │        │          │      │        │      │\n├────┼────┼───┼───────┼───┼───┼────┼─────┼───┼────┼───┤\n│        │        │      │              │      │      │        │          │      │        │      │\n├────┼────┼───┼───────┼───┼───┼────┼─────┼───┼────┼───┤\n│        │        │      │              │      │      │        │          │      │        │      │\n├────┼────┼───┼───────┼───┼───┼────┼─────┼───┼────┼───┤\n│        │        │      │              │      │      │        │          │      │        │      │\n├────┼────┼───┼───────┼───┼───┼────┼─────┼───┼────┼───┤\n│        │        │      │              │      │      │        │          │      │        │      │\n├────┼────┼───┼───────┼───┼───┼────┼─────┼───┼────┼───┤\n│        │        │      │              │      │      │        │          │      │        │      │\n├────┼────┼───┼───────┼───┼───┼────┼─────┼───┼────┼───┤\n│        │        │      │              │      │      │        │          │      │        │      │\n├────┼────┼───┼───────┼───┼───┼────┼─────┼───┼────┼───┤\n│        │        │      │              │      │      │        │          │      │        │      │\n├────┼────┼───┼───────┼───┼───┼────┼─────┼───┼────┼───┤\n│        │        │      │              │      │      │        │          │      │        │      │\n├────┼────┼───┼───────┼───┼───┼────┼─────┼───┼────┼───┤\n│        │        │      │              │      │      │        │          │      │        │      │\n├────┼────┼───┼───────┼───┼───┼────┼─────┼───┼────┼───┤\n│        │        │      │              │      │      │        │          │      │        │      │\n└────┴────┴───┴───────┴───┴───┴────┴─────┴───┴────┴───┘\n297mm×210mm 인쇄용지60g/㎡(재활용품)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552047",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585843",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552043",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585839",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552047",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585843",
           "name": "",
           "file_store_url": ""
         }
@@ -3024,17 +3044,17 @@
       "content": "\n[별지 제6호 서식]\n\n보훈장학 신청서\n\n\n──────┬──────────────────┬─────────────────\n접수번호  │접수일자                            │처리기간    30일\n──────┴──────────────────┴─────────────────\n\n━━━━━┯━━━━━━━━━━┯━━━━━━━━┯━━━━━━━━━━━━━━━━━\n취학자  │ 대상구분           │ 보훈번호       │ 유공자 등록일\n인적사항├──────────┼────────┼─────────────────\n│ 유공자와의 관계    │ 성명           │ 생년월일(성별)\n│                    │                │.    .    . (남,여)\n├──────────┴────────┴─────────────────\n│ 주소\n│\n│(전화번호 :                     , e-mail :\n│)\n─────┴─────────────────────────────────────\n\n─────┬─────────────┬───────────────────────\n취학사항│ 학교명                   │ 학과\n├──────────┬──┴─────┬─────────────────\n│ 학년/학기          │ 입학일자       │ 수업연한\n│(     학년    학기) │                │(     학기)\n─────┴──────────┴────────┴─────────────────\n\n─────┬──────────┬────────┬─────────────────\n수혜사항│ 직전학기 신청 여부 │ 직전학기 수혜여부│ 과거 수혜받은 총 학기\n│□신청  □미신청    │□수혜  □미수혜│(     학기)\n─────┴──────────┴────────┴─────────────────\n\n─────┬─────────────┬────┬──────────────────\n타 장학 │□ 대학원 자체장학 (심사예정 포함)│보조규모│원\n지원사항│□ 국비지원 장학 (지자체 지원 포함)├────┼──────────────────\n│□ 기타 장학 (회사 지원 포함)│지원기관│\n─────┴─────────────┴────┴──────────────────\n\n─────┬───────┬────┬───────┬───┬────────────\n지급계좌│□ 보상금 계좌│은행명  │              │예금주│\n│□ 지정 계좌  ├────┼───────┴───┴────────────\n│              │계좌번호│\n━━━━━┷━━━━━━━┷━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━\n\n위 본인은 보훈 장학생이 되고자 아래 서류를 첨부하여 (대학원장학, 특수장학)을 신청\n합니다.\n\n년        월        일\n\n신청인                                   (서명 또는 인)\n\n지방보훈청장    귀하\n보훈지청장\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────┬──────────────────────────┬──────────\n첨부서류│1. 재학증명서(   )                                  │수수료\n│2. 직전학기 성적증명서(  )                          │없  음\n│3. 등록금 납부영수증(  )                            │\n│4. 기타 소득을 입증할 수 있는 서류(    )            │\n│※ 해당 제출서류 (   )에 √ 표시                    │\n─────┴──────────────────────────┴──────────\n210mm×297mm[백상지 (80g/㎡) 또는 중질지(80g/㎡)]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552053",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585849",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552049",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585845",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552053",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585849",
           "name": "",
           "file_store_url": ""
         }
@@ -3055,17 +3075,17 @@
       "content": "[별지 제7호 서식]\n보훈장학생(금) 신청(지급)자 명단\n┌───┬────┬────┬───┬────┬──┬──────┬───┬──┬──┬──┐\n│기관명│장학구분│보훈번호│성 명 │생년월일│생활│직전학기성적│학교명│학과│과정│비고│\n│      │        │        │      │(연령)  │등급│            │      │    │    │    │\n├───┼────┼────┼───┼────┼──┼──────┼───┼──┼──┼──┤\n│      │        │        │      │        │    │            │      │    │    │    │\n├───┼────┼────┼───┼────┼──┼──────┼───┼──┼──┼──┤\n│      │        │        │      │        │    │            │      │    │    │    │\n├───┼────┼────┼───┼────┼──┼──────┼───┼──┼──┼──┤\n│      │        │        │      │        │    │            │      │    │    │    │\n├───┼────┼────┼───┼────┼──┼──────┼───┼──┼──┼──┤\n│      │        │        │      │        │    │            │      │    │    │    │\n├───┼────┼────┼───┼────┼──┼──────┼───┼──┼──┼──┤\n│      │        │        │      │        │    │            │      │    │    │    │\n├───┼────┼────┼───┼────┼──┼──────┼───┼──┼──┼──┤\n│      │        │        │      │        │    │            │      │    │    │    │\n├───┼────┼────┼───┼────┼──┼──────┼───┼──┼──┼──┤\n│      │        │        │      │        │    │            │      │    │    │    │\n├───┼────┼────┼───┼────┼──┼──────┼───┼──┼──┼──┤\n│      │        │        │      │        │    │            │      │    │    │    │\n├───┼────┼────┼───┼────┼──┼──────┼───┼──┼──┼──┤\n│      │        │        │      │        │    │            │      │    │    │    │\n├───┼────┼────┼───┼────┼──┼──────┼───┼──┼──┼──┤\n│      │        │        │      │        │    │            │      │    │    │    │\n├───┼────┼────┼───┼────┼──┼──────┼───┼──┼──┼──┤\n│      │        │        │      │        │    │            │      │    │    │    │\n├───┼────┼────┼───┼────┼──┼──────┼───┼──┼──┼──┤\n│      │        │        │      │        │    │            │      │    │    │    │\n├───┼────┼────┼───┼────┼──┼──────┼───┼──┼──┼──┤\n│합계  │        │        │      │        │    │            │      │    │    │    │\n└───┴────┴────┴───┴────┴──┴──────┴───┴──┴──┴──┘\n297mm×210mm 인쇄용지60g/㎡(재활용품)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552059",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585855",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552055",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585851",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552059",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585855",
           "name": "",
           "file_store_url": ""
         }
@@ -3086,17 +3106,17 @@
       "content": "[별지 제8호 서식]\n┌───────────────────────────────────────┐\n│                                                                              │\n│  제     호                                                                   │\n│대학입학특별전형대상자증명서                                                  │\n│                                                                              │\n├─┬─────────┬──────────┬──────┬─────────┤\n│인│ ① 성   명       │  ② 생년월일(성별) │ ③ 고등학교│ ④ 졸업(예정)연도│\n│적├─────────┼──────────┼──────┼─────────┤\n│사│                  │                    │            │                  │\n│항├─────────┼──────────┼──────┼─────────┤\n│  │ ⑤ 국가유공자 등 │            의      │ ⑥ 등급기준│                  │\n│  │    과의 관계     │                    │            │                  │\n│  ├─────────┼──────────┴──────┴─────────┤\n│  │ ⑦ 주   소       │                                                      │\n│  │                  │(전화 :                )                              │\n├─┼─────────┼─┬───────────────┬─────────┤\n│관│ ⑧ 국가유공자등  │  │ ⑨ 수 권 자                  │                  │\n│련├─────────┼─┼───────────────┼─────────┤\n│사│ ⑩ 보훈번호      │  │ ⑪ 대상구분                  │                  │\n│항│                  │  │                              │                  │\n├─┴─────────┴┬┴───────────────┴─────────┤\n│제출대학교명            │                                                    │\n├────────────┴──────────────────────────┤\n│                                                                              │\n│    위 사실을 확인합니다.                                                     │\n│                                            년     월     일                  │\n│                                                                              │\n│                                                                                │\n│ ○ ○ 보 훈(지)청장   (인)                                                   │\n├───────────────────────────────────────┤\n│                                                                              │\n│ ※ 기재요령                                                                  │\n│   ④ 졸업(예정)연도 : 재학생은 졸업예정연도, 졸업생은 졸업연도 표기          │\n│   ⑤ 국가유공자등과의 관계 : 본인, 자녀 또는 손자녀로 표기                   │\n│   ⑪ 대상구분 :  한글명칭 표기                                               │\n├───────────────────────────────────────┤\n│  ※ 본 증명서는 “대학입학특별전형”의 관련서류로서만 제출할 수 있으며       │\n│     대학수업료등의 면제용으로는 사용할 수 없습니다.                          │\n└───────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552065",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585861",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552061",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585857",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552065",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585861",
           "name": "",
           "file_store_url": ""
         }
@@ -3117,17 +3137,17 @@
       "content": "[별지 제9호 서식]\n제대군인(자녀) 타 법령 수혜사항통지서\n┌────┬┬────┬┬─────┬─────────────────────────────┐\n│성   명 ││ 학   과││ 관리번호 │                                                          │\n│        ││ 학   년││          │                                                          │\n├────┼┴────┴┴─────┴─────────────────────────────┤\n│수혜내용│  □면제   □보조   □기타(   )                                                     │\n├────┼──────────────────────────────────────────┤\n│수혜정도│       □ 전부                                                                  │\n│        │  수업료의       (금액        원)                                             │\n│        │           □ 일부                                                                  │\n├────┼──────────────────────────────────────────┤\n│관계법령│                                                                                    │\n│(사유)  │                                                                                    │\n├────┼──────────────────────────────────────────┤\n│수혜기간│                                                                                    │\n├────┴──────────────────────────────────────────┤\n│   본교에 재학 중인 제대군인(자녀) 중 타 법령에 의하여 수혜를 받는 자의 수혜사항을 통보합니다.│\n│                                                                                              │\n│                                             년     월     일                                 │\n│                                                                                              │\n│                                                                                              │\n│○ ○ 학  교  장     (인)                                                                     │\n│                                                                                              │\n│                                                                                              │\n│          보 훈 (지) 청 장  귀 하                                                             │\n└───────────────────────────────────────────────┘\n210㎜×297㎜ 일반용지60ｇ/㎡(재활용품)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552071",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585867",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552067",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585863",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552071",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585867",
           "name": "",
           "file_store_url": ""
         }
@@ -3148,17 +3168,17 @@
       "content": "[별지 제10호 서식]\n┌────────────────────────────────────────────────┐\n│개인정보 이용 및 제공 사전 동의서                                                               │\n│                                                                                                │\n│1. 처리하는 사무의 명칭 : 수업료등 지급신청, 외국교육기관 수업료등 보조금 지급신                │\n│청, 국가보훈대상자 및 자녀의 보훈장학금지급, 장기복무 제대군인(자녀) 수업료등 지원              │\n│신청, 국가보훈대상자 학습보조비 지급, 사립대수업료등 국고보조지원                               │\n│                                                                                                │\n│2. 수집ㆍ이용ㆍ제공하는 개인정보                                                                │\n│┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━┓│\n│┃정보의 범위 및 항목                                               ┃수집?이용 및 제공 목적 ┃│\n│┠─────────────────────────────────╂────────────┨│\n│┃주민등록등?초본, 기초수급자정보, 차상위(장애인, 자활, 한부모)    ┃인적사항 확인           ┃│\n│┠─────────────────────────────────╂────────────┨│\n│┃국가보훈대상자 수업료등 지급, 보훈장학금, 학습보조비, 국가장학금  ┃ 자격 및 사회보장급여   ┃│\n│┃(유형Ⅰ,Ⅱ),대통령과학장학금,국가우수장학금,(이공계,인문사회계,)  ┃수혜 확인               ┃│\n│┃국가연구장학금,대학생근로장학금지원,사랑드림(기부금) 등의 수혜이력┃                        ┃│\n│┃(성명?주민등록번호?주소 등 인적사항 포함)                       ┃                        ┃│\n│┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━┛│\n│                                                                                                │\n│■ 위 사무와 관련한 자격의 적정성 확인 및 사회보장급여의 적절한 대상자 선정·관리를 위          │\n│하여 국가보훈부장관(업무의 수탁기관 포함)이                                                     │\n│  (개인정보 수집ㆍ이용) 본인의 위 개인정보와 공공부조 및 사회서비스 등 사회보장 자격결정        │\n│정보 및 수혜이력을 행정안전부, 보건복지부, 교육부, 한국장학재단으로부터 관련 정보통             │\n│신망 또는 전자정부법 제36조 제1항에 따른 행정정보의 공동이용 등을 통하여 제공받아               │\n│확인하는 것에                                                 □ 동의함   □ 동의               │\n│하지 않음                                                                                       │\n│                                                                                                │\n│  (개인정보 제공) 위 사무처리 결과에 대한 본인의 자격결정정보와 수혜이력을 관련  정보통         │\n│신망 등을 통하여 보건복지부, 사회보장급여를 제공하는 국가 및 지방자치단체에 제공함              │\n│에                                                    □ 동의함   □ 동의하지 않음              │\n│                                                                                                │\n│■ 위 사무 처리와 관련하여                                                                      │\n│  (개인정보 이용·제공 알림) 위 동의 사항에 대해 「개인정보 보호법」제17조 제2항 및             │\n│제18조 제3항에 따른 안내로 갈음하는 것에              □ 동의함   □ 동의하지 않음              │\n│                                                                                                │\n│  (민감정보 및 고유식별정보의 처리) 본인은 「개인정보 보호법」 제23조 및 제24조에 따            │\n│른 민감정보(건강정보 등) 및 고유식별정보(주민등록번호 등)의 처리에 관하여 고지를 받             │\n│았으며, 이를 충분히 이해하고 처리함에                  □ 동의함   □ 동의하지 않               │\n│음                                                                                              │\n│                                                                                                │\n│  (보유 및 이용기간) 귀하의 위 개인정보는 동 서비스 및 사회보장급여 자격이 중지 또는            │\n│탈락 시점으로부터 5년까지 보유 및 이용한 후 폐기됩니다.                                         │\n│                                                                                                │\n│ ※ 귀하는 개인정보의 이용?수집 및 제공, 민감정보 등 처리에 대한 동의를 거부할 수 있습니다.    │\n│단, 동의하지 않을 경우에는 본 업무처리를 위하여 관련 증빙자료를 직접 제출하여야 하고, 자        │\n│료가 불충분할 경우에는 동 서비스 및 사회보장급여 혜택에 불이익을 받을 수 있음을 알려드립        │\n│니다.                                                                                           │\n│                                                                                                │\n│                                             년     월     일                                   │\n│                위 동의인   성   명 :                (서명 또는 인)                             │\n│                                                                                                │\n│                                                                                                │\n│        지방보훈청장     귀하                                                                   │\n│        보훈지청장                                                                              │\n│                                                                                                │\n└────────────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552077",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585873",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552073",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585869",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163552077",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169585873",
           "name": "",
           "file_store_url": ""
         }
@@ -3173,33 +3193,33 @@
   ],
   "attachments": [
     {
-      "name": "★교육지원업무 처리규정 일부개정훈령 전문.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=163527323",
-      "filename": "★교육지원업무 처리규정 일부개정훈령 전문.hwpx",
+      "name": "교육지원업무 처리규정 일부개정훈령 전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169585637",
+      "filename": "교육지원업무 처리규정 일부개정훈령 전문.hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/★교육지원업무 처리규정 일부개정훈령 전문.hwpx",
+      "local_path": "첨부파일/교육지원업무 처리규정 일부개정훈령 전문.hwpx",
       "file_store_url": ""
     },
     {
-      "name": "★교육지원업무 처리규정 일부개정훈령 전문.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=163527327",
-      "filename": "★교육지원업무 처리규정 일부개정훈령 전문.pdf",
+      "name": "교육지원업무 처리규정 일부개정훈령 전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169585641",
+      "filename": "교육지원업무 처리규정 일부개정훈령 전문.pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/★교육지원업무 처리규정 일부개정훈령 전문.pdf",
+      "local_path": "첨부파일/교육지원업무 처리규정 일부개정훈령 전문.pdf",
       "file_store_url": ""
     }
   ],
   "ordinance_delegations": [],
   "relation_mode": "no_crawl",
   "relation_stats": {
-    "relations_total": 89,
+    "relations_total": 90,
     "by_category": {
       "법령": 50,
-      "행정규칙": 39
+      "행정규칙": 40
     },
     "by_relation_type": {
       "citation": 46,
-      "internal_ref": 17,
+      "internal_ref": 18,
       "appendix_ref": 26
     },
     "articles_total": 55,
