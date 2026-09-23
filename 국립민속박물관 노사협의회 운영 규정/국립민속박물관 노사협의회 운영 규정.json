@@ -1,25 +1,25 @@
 {
   "law_id": "65723",
-  "mst": "2100000244372",
+  "mst": "2100000285466",
   "law_name": "국립민속박물관 노사협의회 운영 규정",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:65723",
-  "promulgation_no": "260",
-  "promulgation_date": "20240717",
-  "enforcement_date": "20240717",
-  "revision_date": "20240717",
+  "promulgation_no": "289",
+  "promulgation_date": "20260923",
+  "enforcement_date": "20260923",
+  "revision_date": "20260923",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "국립민속박물관(민속기획과)",
-    "담당자명": "이유진",
+    "담당자명": "김진아",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "국립민속박물관 노사협의회 운영 규정",
-    "발령일자": "20240717",
+    "발령일자": "20260923",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "02-3704-3024",
     "제개정구분명": "일부개정",
     "소관부처코드": "1371000",
-    "생성일자": "20240717",
+    "생성일자": "20260929",
     "행정규칙ID": "65723",
-    "시행일자": "20240717",
+    "시행일자": "20260923",
     "담당부서기관코드": "1371138",
-    "발령번호": "260",
-    "행정규칙일련번호": "2100000244372",
+    "발령번호": "289",
+    "행정규칙일련번호": "2100000285466",
     "상위부처명": "문화체육관광부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정이유\n법제처의 ‘알기 쉬운 법령 만들기 사업’ 협조를 위한 규정 내 일부 어려운 한자어의 우리말 순화(용어 재정비)\n\n◇ 주요내용\n가. 한자어을 쉬운 우리말로 변경(현행 제6조, 제7조, 제8조, 제17조,  제20조, 제21조)",
+  "revision_reason": "◇ 제ㆍ개정 이유\n- 국립민속박물관 조직 개편에 따른 부서 명칭 변경(시행 2025. 12. 30.)\n◇ 주요내용\nㅇ 부서명칭 변경\n1) 섭외교육과 → 교류홍보과\n2) 어린이박물관과 → 박물관교육과",
   "body": {
     "format": "articles",
     "article_count": 35,
@@ -90,7 +90,7 @@
         "article_title": "협의회의 구성",
         "chapter": "제2장 협의회의 구성",
         "chapter_path": "제2장 협의회의 구성",
-        "content": "제5조(협의회의 구성) ① 협의회는 근로자와 사용자를 대표하는 각 7인의 위원으로 구성한다.② 근로자를 대표하는 위원(이하 \"근로자위원\"이라 한다.)은 근로자가 선출하되, 근로자의 과반수로 조직된 노동조합이 있는 경우에는 노동조합의 대표자와 그 노동조합이 위촉하는 자로 한다.③ 사용자를 대표하는 위원(이하 \"사용자위원\"이라 한다.)은 다음과 같다.가. 국립민속박물관장나. 민속기획과장다. 섭외교육과장라. 전시운영과장마. 민속연구과장바. 유물과학과장사. 어린이박물관과장",
+        "content": "제5조(협의회의 구성) ① 협의회는 근로자와 사용자를 대표하는 각 7인의 위원으로 구성한다.② 근로자를 대표하는 위원(이하 \"근로자위원\"이라 한다.)은 근로자가 선출하되, 근로자의 과반수로 조직된 노동조합이 있는 경우에는 노동조합의 대표자와 그 노동조합이 위촉하는 자로 한다.③ 사용자를 대표하는 위원(이하 \"사용자위원\"이라 한다.)은 다음과 같다.(개정 2026.09.23.)가. 국립민속박물관장나. 민속기획과장다. 교류홍보과장라. 전시운영과장마. 민속연구과장바. 유물과학과장사. 박물관교육과장",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -277,7 +277,7 @@
         "article_title": "협의사항",
         "chapter": "제5장 협의회의 임무",
         "chapter_path": "제5장 협의회의 임무",
-        "content": "제22조(협의사항) 협의회가 협의하여야 할 사항은 「근로자 참여 및 협력증진에 관한 법률」 제20조를 준용한다.",
+        "content": "제22조(협의사항) 협의회가 협의하여야 할 사항은 「근로자 참여 및 협력증진에 관한 법률」 제 20조를 준용한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -297,26 +297,6 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:국립민속박물관노사협의회운영규정#JO0022",
             "reference_id": "law:근로자참여및협력증진에관한법률#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "근로자 참여 및 협력증진에 관한 법률/법률/근로자 참여 및 협력증진에 관한 법률.json"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제22조",
-            "source_clause": "제22조",
-            "link_text": "제20조",
-            "line_text": "",
-            "target_law_name": "근로자 참여 및 협력증진에 관한 법률",
-            "target_article_no": "제20조",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "65723",
-            "target_url": "https://www.law.go.kr/법령/근로자 참여 및 협력증진에 관한 법률/제20조",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:국립민속박물관노사협의회운영규정#JO0022",
-            "reference_id": "law:근로자참여및협력증진에관한법률#JO0020",
             "target_repo": "LAW",
             "target_git_path_guess": "근로자 참여 및 협력증진에 관한 법률/법률/근로자 참여 및 협력증진에 관한 법률.json"
           }
@@ -340,7 +320,7 @@
         "article_title": "보고사항",
         "chapter": "제5장 협의회의 임무",
         "chapter_path": "제5장 협의회의 임무",
-        "content": "제24조(보고사항) ① 사용자는 정기회의에 다음 각호의 1에 해당하는 사항에 관하여 성실하게 보고, 설명하여야 한다.1. 인력계획에 관한 사항2. 안전보건에 관한 사항3. 기타사항② 근로자위원은 제1항의 규정에 의한 보고ㆍ설명을 이행하지 아니하는 경우에는 제1항의 각 호에 관한 자료의 제출을 요구할 수 있으며, 사용자는 이에 성실히 응해야 한다.③근로자위원은 근로자의 요구사항을 보고ㆍ설명할 수 있다.",
+        "content": "제24조(보고사항) ① 사용자는 정기회의에 다음 각호의 1에 해당하는 사항에 관하여 성실하게 보고, 설명하여야 한다.1. 인력계획에 관한 사항2. 안전보건에 관한 사항3. 기타사항② 근로자위원은 제1항의 규정에 의한 보고ㆍ설명을 이행하지 아니하는 경우에는 제1항의 각 호에 관한 자료의 제출을 요구할 수 있으며, 사용자는 이에 성실히 응해야 한다.③ 근로자위원은 근로자의 요구사항을 보고ㆍ설명할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -497,10 +477,10 @@
       "content": "부칙 <제209호,2018. 12. 13.>(시행일)  이 규정은 2019년 1월 1일부터 시행한다.",
       "provision_id": "admrul:국립민속박물관노사협의회운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000244372",
+      "source_mst": "2100000285466",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240717"
+      "version_enforcement_date": "20260923"
     },
     {
       "promulgation_date": "20240717",
@@ -508,57 +488,52 @@
       "content": "부칙 <제260호, 2024. 7. 17.>이 규정은 2024년 7월 17일부터 시행한다.",
       "provision_id": "admrul:국립민속박물관노사협의회운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000244372",
+      "source_mst": "2100000285466",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240717"
+      "version_enforcement_date": "20260923"
+    },
+    {
+      "promulgation_date": "20260923",
+      "promulgation_no": "289",
+      "content": "부칙 <제289호, 2026. 9. 23.>이 규정은 발령한 날로부터 시행한다.",
+      "provision_id": "admrul:국립민속박물관노사협의회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285466",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260923"
     }
   ],
   "appendices": [],
   "attachments": [
     {
-      "name": "국립민속박물관 노사협의회 운영 규정 개정(안) 전문.hwp",
-      "url": "http://law.go.kr/flDownload.do?flSeq=142506443",
-      "filename": "국립민속박물관 노사협의회 운영 규정 개정(안) 전문.hwp",
+      "name": "국립민속박물관 노사협의회 운영 규정 개정 전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169752437",
+      "filename": "국립민속박물관 노사협의회 운영 규정 개정 전문.hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/국립민속박물관 노사협의회 운영 규정 개정(안) 전문.hwp",
+      "local_path": "첨부파일/국립민속박물관 노사협의회 운영 규정 개정 전문.hwpx",
       "file_store_url": ""
     },
     {
-      "name": "국립민속박물관 노사협의회 운영 규정 개정(안) 전문.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=142506447",
-      "filename": "국립민속박물관 노사협의회 운영 규정 개정(안) 전문.pdf",
+      "name": "국립민속박물관 노사협의회 운영 규정 개정 전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169752441",
+      "filename": "국립민속박물관 노사협의회 운영 규정 개정 전문.pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/국립민속박물관 노사협의회 운영 규정 개정(안) 전문.pdf",
-      "file_store_url": ""
-    },
-    {
-      "name": "조문별제개정이유서.hwp",
-      "url": "http://law.go.kr/flDownload.do?flSeq=142506451",
-      "filename": "조문별제개정이유서.hwp",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/조문별제개정이유서.hwp",
-      "file_store_url": ""
-    },
-    {
-      "name": "조문별제개정이유서.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=142506455",
-      "filename": "조문별제개정이유서.pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/조문별제개정이유서.pdf",
+      "local_path": "첨부파일/국립민속박물관 노사협의회 운영 규정 개정 전문.pdf",
       "file_store_url": ""
     }
   ],
   "ordinance_delegations": [],
   "relation_mode": "no_crawl",
   "relation_stats": {
-    "relations_total": 3,
+    "relations_total": 2,
     "by_category": {
-      "법령": 2,
+      "법령": 1,
       "행정규칙": 1
     },
     "by_relation_type": {
-      "citation": 2,
+      "citation": 1,
       "internal_ref": 1
     },
     "articles_total": 35,
@@ -566,9 +541,9 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 0,
-    "attachments_count": 4
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/국립민속박물관 노사협의회 운영 규정"
