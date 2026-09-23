@@ -1,0 +1,83 @@
+{
+  "law_id": "98247",
+  "mst": "2100000285384",
+  "law_name": "온실가스측정망 설치·운영지침",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:98247",
+  "promulgation_no": "2026-41",
+  "promulgation_date": "20260923",
+  "enforcement_date": "20260923",
+  "revision_date": "20260923",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립환경과학원(기후변화연구과)",
+    "담당자명": "엄효진",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "온실가스측정망 설치·운영지침",
+    "발령일자": "20260923",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "국립환경과학원",
+    "전화번호": "032-560-7301",
+    "제개정구분명": "제정",
+    "소관부처코드": "1482000",
+    "생성일자": "20260923",
+    "행정규칙ID": "98247",
+    "시행일자": "20260923",
+    "담당부서기관코드": "1482205",
+    "발령번호": "2026-41",
+    "행정규칙일련번호": "2100000285384",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 국가 통계자료인 도시지역 온실가스 농도의 신뢰도 제고, 품질관리 체계화를 위해 측정 지점의 선정, 자료의 생산ㆍ처리ㆍ확정 등에 대한 표준화된 지침 마련 필요\n○ 신설되는 '온실가스측정망 설치ㆍ운영지침'에 기존 지구대기측정망 운영 규정을 포함시켜 대기 중 온실가스 측정ㆍ관리ㆍ보고 체계의 일원화 추진\n○ 행정규칙의 제도적 기반 마련을 위해 과학원고시로 등재 필요\n◇ 주요내용\n가. 주요 제정 사항\n[그림]\n\n나. 온실가스측정망 지침 제정 세부 사항 요약\n- 온실가스측정망 운영체계 및 설치 목적을 도시지역과 배경지역으로 구분하여 작성\n- 측정망 종류를 도시대기 온실가스측정망과 지구대기 온실가스측정망으로 구분하여 측정항목 및 운영 절차를 세분화\n- 측정 방법, 정도관리 체계 등 공통사항에 대한 표준화된 기준 제시",
+  "body": {
+    "format": "articles",
+    "article_count": 0,
+    "articles": []
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "온실가스측정망 설치·운영지침(국립환경과학원고시)(제2026-41호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169553463",
+      "filename": "온실가스측정망 설치·운영지침(국립환경과학원고시)(제2026-41호).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/온실가스측정망 설치·운영지침(국립환경과학원고시)(제2026-41호).pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 0,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/온실가스측정망 설치·운영지침"
+  },
+  "provision_id": "admrul:온실가스측정망설치운영지침#DOC",
+  "addendum_provision_id": "admrul:온실가스측정망설치운영지침#ADDENDUM",
+  "amendment_provision_id": "admrul:온실가스측정망설치운영지침#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "온실가스측정망 설치·운영지침/온실가스측정망 설치·운영지침.json"
+}
