@@ -9,7 +9,7 @@
   "adm_uid": "admrul:36847",
   "promulgation_no": "167",
   "promulgation_date": "20260922",
-  "enforcement_date": "20260922",
+  "enforcement_date": "20260928",
   "revision_date": "20260922",
   "revision_type": "일부개정",
   "is_current": true,
@@ -27,9 +27,9 @@
     "전화번호": "044-202-5659",
     "제개정구분명": "일부개정",
     "소관부처코드": "1830000",
-    "생성일자": "20260923",
+    "생성일자": "20261016",
     "행정규칙ID": "36847",
-    "시행일자": "20260922",
+    "시행일자": "20260928",
     "담당부서기관코드": "1830055",
     "발령번호": "167",
     "행정규칙일련번호": "2100000285364",
@@ -2627,7 +2627,7 @@
       "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260922"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20090908",
@@ -2638,7 +2638,7 @@
       "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260922"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20100202",
@@ -2649,7 +2649,7 @@
       "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260922"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20120702",
@@ -2660,7 +2660,7 @@
       "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260922"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20131231",
@@ -2671,7 +2671,7 @@
       "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260922"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20141124",
@@ -2682,7 +2682,7 @@
       "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260922"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20150408",
@@ -2693,7 +2693,7 @@
       "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260922"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20160623",
@@ -2704,7 +2704,7 @@
       "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260922"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20170726",
@@ -2715,7 +2715,7 @@
       "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260922"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20190701",
@@ -2726,7 +2726,7 @@
       "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260922"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20200228",
@@ -2737,7 +2737,7 @@
       "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260922"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20200623",
@@ -2748,7 +2748,7 @@
       "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260922"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20220628",
@@ -2759,7 +2759,7 @@
       "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260922"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20221229",
@@ -2770,7 +2770,7 @@
       "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260922"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20230605",
@@ -2781,7 +2781,7 @@
       "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260922"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20241230",
@@ -2792,7 +2792,7 @@
       "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260922"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20260128",
@@ -2803,7 +2803,7 @@
       "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260922"
+      "version_enforcement_date": "20260928"
     },
     {
       "promulgation_date": "20260415",
@@ -2814,7 +2814,7 @@
       "source_mst": "2100000285364",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260922"
+      "version_enforcement_date": "20260928"
     }
   ],
   "appendices": [
