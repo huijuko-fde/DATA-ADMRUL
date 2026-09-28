@@ -4502,6 +4502,18 @@
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260327"
+    },
+    {
+      "promulgation_date": "20260327",
+      "promulgation_no": "2203",
+      "content": "부칙 <제2203호, 2026. 3. 27.>제1조(시행일) 이 규정은 2026년 9월 28일부터 시행한다.제2조(모집병 지원 및 선발에 대한 적용례) 별표 5의 기타 가산점(공인 영어성적) 삭제는 2026년 9월 28일 이후 공군의 전문기술병을 지원한 사람부터 적용한다.",
+      "provision_id": "admrul:현역병모집업무규정#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000276520",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260928",
+      "enforcement_date": "20260928"
     }
   ],
   "appendices": [
@@ -5514,8 +5526,10 @@
   "addendum_provision_id": "admrul:현역병모집업무규정#ADDENDUM",
   "amendment_provision_id": "admrul:현역병모집업무규정#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260928"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "현역병 모집업무 규정/현역병 모집업무 규정.json"
 }
