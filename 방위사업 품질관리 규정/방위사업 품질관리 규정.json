@@ -1,16 +1,16 @@
 {
   "law_id": "68915",
-  "mst": "2100000283808",
+  "mst": "2100000285644",
   "law_name": "방위사업 품질관리 규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:68915",
-  "promulgation_no": "980",
-  "promulgation_date": "20260810",
-  "enforcement_date": "20260810",
-  "revision_date": "20260810",
+  "promulgation_no": "995",
+  "promulgation_date": "20260929",
+  "enforcement_date": "20260929",
+  "revision_date": "20260929",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "박종민",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "방위사업 품질관리 규정",
-    "발령일자": "20260810",
+    "발령일자": "20260929",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,12 +27,12 @@
     "전화번호": "02-2079-6843",
     "제개정구분명": "일부개정",
     "소관부처코드": "1690000",
-    "생성일자": "20260811",
+    "생성일자": "20260930",
     "행정규칙ID": "68915",
-    "시행일자": "20260810",
+    "시행일자": "20260929",
     "담당부서기관코드": "1690421",
-    "발령번호": "980",
-    "행정규칙일련번호": "2100000283808",
+    "발령번호": "995",
+    "행정규칙일련번호": "2100000285644",
     "상위부처명": "방위사업청"
   },
   "amendment_text": "",
@@ -321,7 +321,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092419",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825513",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0004",
             "target_unit": "BJ0001",
@@ -776,7 +776,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092425",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825519",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0015",
             "target_unit": "BJ0002",
@@ -801,7 +801,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092431",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825525",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0015",
             "target_unit": "BJ0003",
@@ -826,7 +826,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092437",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825531",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0015",
             "target_unit": "BJ0004",
@@ -874,7 +874,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092443",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825537",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0017",
             "target_unit": "BJ0005",
@@ -943,7 +943,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092563",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825657",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0019",
             "target_unit": "BJ0022",
@@ -1128,7 +1128,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092449",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825543",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0024",
             "target_unit": "BJ0006",
@@ -1153,7 +1153,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092461",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825555",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0024",
             "target_unit": "BJ0007",
@@ -1178,7 +1178,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092467",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825561",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0024",
             "target_unit": "BJ0008",
@@ -1215,7 +1215,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092473",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825567",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0025",
             "target_unit": "BJ0009",
@@ -1252,7 +1252,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092479",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825573",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0026",
             "target_unit": "BJ0010",
@@ -1401,7 +1401,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092449",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825543",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0027",
             "target_unit": "BJ0006",
@@ -1595,7 +1595,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092563",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825657",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0033",
             "target_unit": "BJ0022",
@@ -1643,7 +1643,7 @@
         "article_title": "양산 품질보증 활동",
         "chapter": "제3절 양산단계 품질관리",
         "chapter_path": "제3장 양산단계 품질관리 > 제3절 양산단계 품질관리",
-        "content": "제35조(양산 품질보증 활동) ① 품질보증기관은 제34조에 따라 수립된 정부 품질보증계획에 따라 정부품질보증 활등을 수행하며, 활동 중 새로운 위험사항 등이 식별되면 정부 품질보증계획을 수정할 수 있다.② 계약업체는 국방규격(함정사업의 경우 형상식별서 포함)의 요구조건에 충족하는 제품의 제조 및 자체 품질보증을 수행하여야 한다. 단, 국방규격에서 요구하는 주행시험 및 내구성 시험에 대하여 사업본부(통합사업관리팀)는 체계특성, 계열장비의 시험결과 등을 고려하여 시험의 일부 또는 전부를 생략하게 할 수 있다.③ 품질보증기관은 정부 품질보증 활동 중 발견되는 불합리한 사항 또는 계약조건에 위배되는 사항에 대하여 계약업체에 시정조치를 요구하고, 계약업체는 이에 대한 시정과 재발방지를 위한 조치사항을 성실히 이행하여야 한다.④ 품질보증기관 또는 계약업체에서 계약업체의 시험시설이 불충분하거나 공인된 시설에서 시험을 수행할 필요가 있다고 볼 때에는 계약업체의 비용부담을 조건으로 품질보증기관에서 공인기관, 국과연, 각군 및 관련기관에 시험을 의뢰할 수 있다.⑤ 국방규격 등에 부착시험이 명시되어 있거나, 견본 및 구매요구서에 따른 품질보증활동이 곤란한 경우에는 품질보증기관의 의뢰에 따라 소요군은 장비부착시험을 실시하고, 부착시험내용 및 판정 결과를 품질보증기관에 통보한다.⑥ 품질보증기관은 계약업체가 계약요구조건을 충족하는 제품을 제조하여 납품하고 있는지 확인하기 위하여 수시로 계약업체 생산현장이나 운영부대에서 시료를 채취하여 확인 또는 시험분석을 할 수 있으며, 이를 위해 사업본부(계약부서)는 시험분석에 소요되는 예산을 계약에 포함하여야 한다.",
+        "content": "제35조(양산 품질보증 활동) ① 품질보증기관은 제34조에 따라 수립된 정부 품질보증계획에 따라 정부품질보증 활등을 수행하며, 활동 중 새로운 위험사항 등이 식별되면 정부 품질보증계획을 수정할 수 있다.② 계약업체는 국방규격(함정사업의 경우 형상식별서 포함)의 요구조건에 충족하는 제품의 제조 및 자체 품질보증을 수행하여야 한다. 단, 국방규격에서 요구하는 주행시험 및 내구성 시험에 대하여 사업본부(통합사업관리팀)는 체계특성, 계열장비의 시험결과 등을 고려하여 시험의 일부 또는 전부를 생략하게 할 수 있다.③ 품질보증기관은 정부 품질보증 활동 중 발견되는 불합리한 사항 또는 계약조건에 위배되는 사항에 대하여 계약업체에 시정조치를 요구하고, 계약업체는 이에 대한 시정과 재발방지를 위한 조치사항을 성실히 이행하여야 한다.④ 품질보증기관 또는 계약업체에서 계약업체의 시험시설이 불충분하거나 공인된 시설에서 시험을 수행할 필요가 있다고 볼 때에는 계약업체의 비용부담을 조건으로 품질보증기관에서 공인기관, 국과연, 각군 및 관련기관에 시험을 의뢰할 수 있다.⑤ 국방규격 등에 부착시험이 명시되어 있거나, 견본 및 구매요구서에 따른 품질보증활동이 곤란한 경우에는 품질보증기관의 의뢰에 따라 소요군은 장비부착시험을 실시하고, 부착시험내용 및 판정 결과를 품질보증기관에 통보한다.⑥ 품질보증기관은 계약업체가 계약요구조건을 충족하는 제품을 제조하여 납품하고 있는지 확인하기 위하여 수시로 계약업체 생산현장이나 운영부대에서 시료를 채취하여 확인 또는 시험분석을 할 수 있으며, 이를 위해 사업본부(계약부서)는 시험분석에 소요되는 예산을 계약에 포함하여야 한다.⑦ 품질보증기관은 사업본부(통합사업관리팀)의 승인을 받아 전력소요서에 미래탑재로 분류된 장비를 품질보증 범위에서 제외하고 검사조서를 발급할 수 있으며, 미래탑재장비에 대해서는 별도로 품질보증 활동을 수행한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1715,7 +1715,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092569",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825663",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0036",
             "target_unit": "BJ0023",
@@ -1740,7 +1740,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092557",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825651",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0036",
             "target_unit": "BJ0021",
@@ -2270,7 +2270,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092487",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825581",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0047",
             "target_unit": "BJ0011",
@@ -2392,7 +2392,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092495",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825589",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0052",
             "target_unit": "BJ0012",
@@ -2598,7 +2598,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092501",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825595",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0059",
             "target_unit": "BJ0013",
@@ -2646,7 +2646,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092507",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825601",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0061",
             "target_unit": "BJ0014",
@@ -2671,7 +2671,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092513",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825607",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0061",
             "target_unit": "BJ0015",
@@ -2708,7 +2708,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092523",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825617",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0062",
             "target_unit": "BJ0016",
@@ -2767,7 +2767,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092529",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825623",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0065",
             "target_unit": "BJ0017",
@@ -2792,7 +2792,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092537",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825631",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0065",
             "target_unit": "BJ0018",
@@ -2840,7 +2840,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092545",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825639",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0067",
             "target_unit": "BJ0019",
@@ -2921,7 +2921,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "68915",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092551",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825645",
             "resolve_method": "html",
             "source_provision_id": "admrul:방위사업품질관리규정#JO0071",
             "target_unit": "BJ0020",
@@ -3201,10 +3201,10 @@
       "content": "부칙 <제502호,2019. 4. 18.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.제2조(다른 규정의 폐지) ① 청 예규 제2호 「수출품 품질보증 용역비 산정 지침」은 폐지한다.② 청 예규 제42호 「양산품 품질보증업무 지침」은 폐지한다.③ 청 예규 제301호 「방산물자 계약 전 양산품 품질보증활동 지침」은 폐지한다.④ 청 예규 제341호 「대군 기술지원 업무 지침」은 폐지한다.⑤ 청 예규 제391호 「국방품질경영체제 인증제도 관리지침」은 폐지한다.제3조(인증 재신청에 관한 경과조치) 본 규정의 제정에도 불구하고 제51조 및 제53조제5항 단서는 이 규정의 시행일 이후 부적격 통보를 받았거나 인증 취소된 업체에 적용한다.",
       "provision_id": "admrul:방위사업품질관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283808",
+      "source_mst": "2100000285644",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260810"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20190918",
@@ -3212,10 +3212,10 @@
       "content": "부칙 <제554호,2019. 9. 18.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:방위사업품질관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283808",
+      "source_mst": "2100000285644",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260810"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20200507",
@@ -3223,10 +3223,10 @@
       "content": "부칙 <제596호,2020. 5. 7.>제1조(시행일) 이 규정은 발령한 날부터 시행한다. 다만, 별지 제11호‘인증분야 및 코드’의 개정규정은 2021. 3. 1. 이후부터 적용한다.",
       "provision_id": "admrul:방위사업품질관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283808",
+      "source_mst": "2100000285644",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260810"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20200813",
@@ -3234,10 +3234,10 @@
       "content": "부칙 <제622호,2020. 8. 13.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.제2조(시운전에 관한 적용례) 제37조 제2항, 제3항의 개정규정은 이 훈령 시행 당시 시운전계획서가 확정되지 않은 후속함 사업부터 적용한다.",
       "provision_id": "admrul:방위사업품질관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283808",
+      "source_mst": "2100000285644",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260810"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20201215",
@@ -3245,10 +3245,10 @@
       "content": "부칙 <제639호,2020. 12. 15.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:방위사업품질관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283808",
+      "source_mst": "2100000285644",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260810"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20211104",
@@ -3256,10 +3256,10 @@
       "content": "부칙 <제695호, 2021. 11. 4.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:방위사업품질관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283808",
+      "source_mst": "2100000285644",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260810"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20220124",
@@ -3267,10 +3267,10 @@
       "content": "부칙 <제718호, 2022. 1. 24.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:방위사업품질관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283808",
+      "source_mst": "2100000285644",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260810"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20220811",
@@ -3278,10 +3278,10 @@
       "content": "부칙 <제743호, 2022. 8. 11.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:방위사업품질관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283808",
+      "source_mst": "2100000285644",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260810"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20230309",
@@ -3289,10 +3289,10 @@
       "content": "부칙 <제794호, 2023. 3. 9.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:방위사업품질관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283808",
+      "source_mst": "2100000285644",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260810"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20230525",
@@ -3300,10 +3300,10 @@
       "content": "부칙 <제799호, 2023. 5. 25.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:방위사업품질관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283808",
+      "source_mst": "2100000285644",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260810"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20230831",
@@ -3311,10 +3311,10 @@
       "content": "부칙 <제814호, 2023. 8. 31.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:방위사업품질관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283808",
+      "source_mst": "2100000285644",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260810"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20231228",
@@ -3322,10 +3322,10 @@
       "content": "부칙 <제830호, 2023. 12. 28.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:방위사업품질관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283808",
+      "source_mst": "2100000285644",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260810"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20241231",
@@ -3333,10 +3333,10 @@
       "content": "부칙 <제886호, 2024. 12. 31.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:방위사업품질관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283808",
+      "source_mst": "2100000285644",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260810"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20251017",
@@ -3344,10 +3344,10 @@
       "content": "부칙 <제925호, 2025. 10. 17.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:방위사업품질관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283808",
+      "source_mst": "2100000285644",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260810"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20260810",
@@ -3355,10 +3355,21 @@
       "content": "부칙 <제980호, 2026. 8. 10.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:방위사업품질관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000283808",
+      "source_mst": "2100000285644",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260810"
+      "version_enforcement_date": "20260929"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "95",
+      "content": "부칙 <제95호, 2026. 9. 29.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:방위사업품질관리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285644",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260929"
     }
   ],
   "appendices": [
@@ -3371,17 +3382,17 @@
       "content": "【별지 제1호】\n용 어 의  정 의\n1. 관급부품\n계약이행을 위하여 정부가 국내 또는 국외에서 조달하여 계약상대자에게 지급하는 부품을 말한다.\n2. 국방규격(Korean Defense Specification)\n군수품의 조달을 위하여 필요한 제품 및 용역에 대한 성능, 재료, 형상, 치수 등 기술적인 요구사항과 요구필요조건의 일치성 여부를 판단하기 위한 절차와 방법을 서술한 사항으로 규격서, 도면, QAR, 소프트웨어 기술문서 등으로 구성된다.\n3. 기술성숙도 평가(TRA, Technology Readiness Assessment)\n기술성숙도 평가는 무기체계에 적용되는 핵심기술요소(CTEs)들이 어느정도 성숙되어 있는지 정량적인 지표로 평가하는 공식적인 프로세스를 말한다.\n4. 기술협력생산\n외국에서 생산되었거나 개발된 무기체계를 외국의 원제작업체로부터 생산면허를 받아 국내에서 생산하는 것을 말한다.\n5. 내구성(Endurance)\n내구성이란 유효수명의 척도로서 품목이 그의 계획된 사용수명, 분해수리시점, 또는 재생시까지 고장 없이 성공적으로 생존할 수 있는 확률을 말한다.\n6. 부적합(nonconformity)\n국방품질경영체제 인증 기준 요구사항의 불충족을 말한다.\n7. 중부적합(major nonconformity)\n국방품질경영체제 인증업체의 품질경영체제 및 체제 이행 시 중대한 부적합 사항이 있어 국방품질경영체제 인증기준에서 요구하는 결과를 달성하기 어려운 상태로 다음과 같이 분류할 수 있다.\nㆍ인증업체의 품질경영체제가 국방품질경영체제 인증기준의 요구사항 중 누락된 사항이 있거나 기준을 만족시키는데 현저한 부족이 있는 경우\nㆍ국방품질경영체제 인증기준 항목 중 1개의 항목기준에서 4건 이상의 부적합이 발견된 경우\nㆍ불량품이 출고되거나 출고를 초래할 수 있는 부적합이 있는 경우\nㆍ제품 또는 서비스의 의도된 목적을 현저히 감소시킬 수 있는 업체 품질경영체제의 부적합이 있는 경우\nㆍ사용자불만이 재발됨에도 불구하고 이를 해소하기 위한 원인조사 및 조치가 없는 경우\nㆍ국방품질경영체제 인증기준과 관련되는 법령 및 규정을 준수하지 않거나 준수할 수 없는 경우\nㆍ동일한 내용으로 2회 연속해서 부적합이 발생한 경우\n8. 경부적합(minor nonconformity)\n부적합사항 중 중부적합 이외의 부적합사항을 말한다.\n9. 성능개량\n운용 또는 개발 중인 무기체계에 대하여 일부 성능ㆍ기능의 변경 또는 품질개선 등을 통하여 무기체계의 능력을 향상 시키거나 운용유지 측면에서 신뢰성과 가용성을 증가시키는 것을 말한다.\n10. 위조부품\n원제작사 또는 공인된 제작사의 정품처럼 보이게 만든 무단 복제, 모조, 개조 또는 불법으로 제조된 자재, 부품 또는 구성품을 말한다.\n11. 작전운용성능(ROC, Required Operational Capability)\n군사전략 목표달성을 위해 획득이 요구되는 무기체계의 운용개념을 충족시킬 수 있는 성능수준과 무기체계능력을 제시한 것을 말한다.\n12. 전력화평가\n무기체계의 최초배치 후 1년 이내에 소요군에서 각종 작전환경 하에서의 전술적 운용을 통해 최초 기획단계에서 설정된 수준의 작전운용성능을 포함한 제반 전력화지원요소를 평가하여 후속 양산ㆍ구매 및 차기무기체계의 생산ㆍ개발에 반영할 사항을 도출하는 과정이다.\n13. 정부지정검사원 제도\n업체의 자율성 및 책임성 강화를 위하여 정부에서 지정한 업체의 품질검사원으로 하여금 정부품질보증계획에 따라 해당업체의 품질관리를 자체적으로 수행하고, 그 결과를 주기적으로 정부품질보증기관에 제출하도록 규정한 제도를 말한다.\n14. 정부지정검사원\n정부품질보증계획에 근거하여 품질이 안정된 계약품목에 대해 계약업체가 자체적으로 품질관리를 수행하고, 이에 대한 품질관리 강화 및 모니터링을 목적으로 국방기술품질원이지정한 검사원\n15. 현장검사전담원\n정부의 현장 품질보증활동 강화를 위해 납품 전 제품확인감사를 전담하는 검사원 (품질경영체제 평가 및 프로세스검토는 제외)\n16. 정부품질보증기관\n군수품에 대한 검사조서 발행 등 정부 품질관리활동을 수행하는 기관을 말한다.\n17. 정부품질관리\n군수품 개발자 및 생산자의 품질보증 및 품질경영 활동에 대한 적절성을 정부 또는 정부 품질보증기관이 관리하는 제반활동을 말한다.\n18. 제안요청서(RFP : Request For Proposal)\n구매대상 무기체계의 시험평가 또는 무기체계 연구개발 위한 주관기관 선정을 위하여 관련업체의 기술자료, 공급(연구개발)계획, 일정 등의 제안을 요청하는 문서를 말한다.\n19. 제안서(Proposal)\n제안요청서에 명시된 무기체계 등을 공급하기 위한 생산(연구개발을 포함한다), 품질보증, 형상관리, 일정관리 등의 계획과 관련 기술자료를 제안하는 문서를 말한다.\n20. 제조성숙도 평가(MRA, Manufacturing Readiness Assessment)\n제조성숙도 평가는 무기체계 획득의 핵심요소(체계, 부체계 및 구성품)의 제조 성숙도를 정량적인 지표로 평가하는 공식적인 프로세스를 말한다.\n21. 조달판단\n사업관리부서 및 기관의 조달요구품목의 구매추진에 필요한 사전판단 절차로서 계약방법, 조달원, 예산 등을 확인 검토 및 결정하는 일련의 과정을 말한다.\n22. 최초생산품\n무기체계 등 군수품의 연구개발 후 또는 기술협력 계약 후 최초양산 대상 물량, 업체가 신규로 계약하여 최초로 생산하는 물량을 말한다.\n23. 최초양산\n연구개발에 의한 획득사업의 해당사업 계획물량 중 최초에 사업 승인된 물량을 생산하는 것을 말한다.\n24. 품질\n군수품의 고유특성 집합이 요구사항을 충족시키는 정도를 말한다.\n25. 품질경영(QM, Quality Management)\n개발 및 생산자가 품질과 관련된 방침과 목표의 수립하고, 품질의 기획, 보증과 개선을 통하여 품질목표를 달성하기 위한 체제를 수립하고 이를 이행하는 활동을 말한다.\n26. 품질관리\n군수품이 요구하는 품질의 확보와 유지를 위한 제반 관리활동으로 품질경영과 품질보증 등을 포함한다.\n27. 품질관리수준(LQM, Level of Quality Management)\n무기체계 체계개발사업 착수 시점의 사업적ㆍ기술적 위험도 평가결과에 따라 정한 정부의 품질관리 수준을  말한다.\n28. 품질보증(QA, Quality Assurance)\n품질요구사항이 충족될 것이라는 신뢰를 제공하기 위한 제반활동을 말한다.\n29. 품질인증사격시험\n체계개발이 완료되어 최초양산 중인 유도무기의 품질을 납품 전에 확인, 개선ㆍ보완하기 위해 최초양산된 물량의 일부를 실사격하는 것을 말한다.\n30. 품질통제점(QCG, Quality Control Gate)\n체계개발 주요단계에서 개발 대상 무기체계의 종합적인 품질 성숙 수준을 평가하여, 후속 개발과정에서 품질을 확보할 수 있도록 관리하는 프로세스를 말한다.\n31. 품질특성\n성능, 기능, 물리적 특성, 관능적 특성, 인간공학적 특성, 신뢰성, 내구성, 정비성, 운용성, 생산성 등 군수품에 요구되는 고유한 특성을 말한다.\n32. 하자보고서\n하자발생에 대한 발생 경위, 발생 내역, 조치 요구사항 등을 기술하는 문서이다.\n33. 하자의 분류\n가. 소재 불량 : 제품에 사용된 원자재 등 소재의 특성이 규격의 요구조건을 충족하지 못하거나 규격과 다른 소재를 사용한 경우\n나. 치수ㆍ조립 불량 : 제품이 길이 등 규격에서 요구하는 치수를 충족하지 못하거나, 조립이 규격화 다르게 된 경우\n다. 성능ㆍ내구성 미달 : 제품이 규격에서 요구하는 성능ㆍ기능ㆍ내구성 등을 충족하지 못하는 경우\n라. 이종품 : 계약이나 규격에서 요구하는 품목과 다른 품목이 납품 또는 장착된 경우\n마. 수량부족 : 계약이나 규격에서 요구하는 수량에 미달하는 경우\n바. 부품 부족 : 일부 부품 등이 미 장착 또는 미 조립 되어 납품된 경우\n사. 포장ㆍ주기 불량 : 포장이 계약 또는 규격과 상이하거나 잘못 포장된 경우 또는 제품ㆍ포장 등의 표시나 주기가  잘못 된 경우\n34. 하자품\n군수품의 치수, 재질, 성능, 및 시험방법에 대한 품질보증도가 국방규격 등 기술 자료에서 규정한 기준, 수치나 수준에 미달되어 계약조건을 충족하지 못하는 품목을 말한다.\n35. 하자처리\n하자품이 발생하였을 때 보고절차, 보고된 하자품의 기술조사와 분석, 군 재산권 복구를 위한 요구 및 이행상태의 감독과 행정조치 등의 과정을 말한다.\n36. 시제품\n연구개발단계에서 성능 확인 등을 위해 시험 제작된 제품을 말한다.\n37. 국방우주품질인증\n우주무기체계에 적용 가능한 부품ㆍ구성품에 대하여 품질 및 신뢰성을 지상에서 확인하는 활동",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092419",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825513",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092367",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825501",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092419",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825513",
           "name": "",
           "file_store_url": ""
         }
@@ -3402,17 +3413,17 @@
       "content": "【별지 제2호】\n품질관리 수준에 따른 품질관리지원팀 운용, 품질통제점 적용 기준\n┌────┐  ┌──┐  ┌────┐  ┌────┐  ┌───┐\n│선행연구│→│설계│→│시제품  │→│시험평가│→│규격화│\n│        │  │    │  │제작    │  │        │  │      │\n└────┘  └──┘  └────┘  └────┘  └───┘\n↑\n\n품질관리 수준   체계개발단계\n및 방법 결정\n\n┌──┬─────────────┐┌─────────┬─────────────┐\n│LQM │구 분                     ││구 분             │기술적 위험성             │\n│    ├───────┬─────┤│                  ├───┬────┬────┤\n│    │품질관리지원팀│품질통제점││                  │하    │중      │상      │\n│    │(QMST)        │(QCG)     ││                  │      │        │        │\n├──┼───────┼─────┤├────┬────┼───┼────┼────┤\n│I   │미운영        │미적용    ││연구개발│850억   │LQM I │LQM I   │LQM II  │\n│    │              │          ││총      │미만    │      │        │        │\n├──┼───────┼─────┤│사업비  ├────┼───┼────┼────┤\n│II  │미운영        │적용      ││        │850억   │LQM I │LQM II  │LQM III │\n│    │              │          ││        │~3000억 │      │        │        │\n├──┼───────┼─────┤│        ├────┼───┼────┼────┤\n│III │운영          │적용      ││        │3000억  │LQM II│LQM III │LQM III │\n│    │              │          ││        │이상    │      │        │        │\n└──┴───────┴─────┘└────┴────┴───┴────┴────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092425",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825519",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092421",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825515",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092425",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825519",
           "name": "",
           "file_store_url": ""
         }
@@ -3433,17 +3444,17 @@
       "content": "【별지 제3호】\n품질관리지원팀(QMST) 구성안 및 임무(예시)\n┌─────────────────┐\n│  ㅇ 임무                         │\n│  개발단계 품질현안 추적 관리     │\n│  산출물검토 및 시제품 합치성 확인│\n│  시제품 검증/인증/신뢰성 평가    │\n│  국외도입 관급품 품질관리방안    │\n│  수립(국제품질보증위탁 포함)     │\n│  유지부품 중 공급자 변경 시 제   │\n│  품인증 필요품목 식별            │\n│  제조성숙도평가 관리 (평가팀 구  │\n│  성, 일정관리, 보고서 검증 등)   │\n│  품질통제점 관리                 │\n│  양산단계 정부품질관리대상 및    │\n│  품질신뢰성확인 항목 식별        │\n└─────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092431",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825525",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092427",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825521",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092431",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825525",
           "name": "",
           "file_store_url": ""
         }
@@ -3464,17 +3475,17 @@
       "content": "【별지 제4호】\n품질통제점(QCG) 적용안\n┌─────────────────────────────────────────┐\n│┌───┬───┬───┬───────────────────────────┐│\n││구 분 │QCG 1 │QCG 2 │QCG 3                                                 ││\n│├───┼───┼───┼───────────────────────────┤│\n││시 기 │PDR   │CDR   │TRR                                                   ││\n│├───┼───┴───┴───────────────────────────┤│\n││위원장│사업부장 (IPT팀장)                                                    ││\n│├───┼───────────────────────────────────┤│\n││위 원 │IPT사업담당, ILS기술팀, QMST, 각군, 국과연(방산기술지원센터 포함),    ││\n││      │기품원 및 민간 전문가 등                                              ││\n│├───┼───────────────────────────────────┤│\n││점 검 │① 설계 적합성 : 요구사항 확정/구현, 부체계/부품 확보, 설계 안전성 등 ││\n││사 항 │② TDP 완전성 : 기술자료 완성도, 기술자료 작성 진도                   ││\n││      │③ 제품 양산성 : 제조성, 시험설비/장비, 부품단종, 인력자격 등         ││\n││      │④ 검증 적절성 : 입증방법 타당성, 시험규격, 시험장비 등               ││\n││      │⑤ 군수 지원성 : 정비성, 인간공학, 호환성, 안전성, 포장/수송/저장 등  ││\n│├───┼───────────────────────────────────┤│\n││의 사 │① 점검사항 만족한 경우 : 다음 단계로 이행                            ││\n││결 정 │② 점검사항 미흡한 경우 : 미흡부분 조치 후 다음 단계로 이행           ││\n│└───┴───────────────────────────────────┘│\n└─────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092437",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825531",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092433",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825527",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092437",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825531",
           "name": "",
           "file_store_url": ""
         }
@@ -3495,17 +3506,17 @@
       "content": "【별지 제5호】\n품질관리 수준에 따른 기품원(국기연 포함) 인력지원 기준\n┌──────────────────────────────────┐\n│ - LQM I : 기품원(국기연 포함) 관련 센터에서 검토 인력을 지원       │\n│                                                                    │\n│ - LQM II : 기품원(국기연 포함)에서 전담인력을 지정, IPT 지원       │\n│                                                                    │\n│ - LQM III : 기품원(국기연 포함)로 구성된 품질관리지원팀(QMST) 운영 │\n└──────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092443",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825537",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092439",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825533",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092443",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825537",
           "name": "",
           "file_store_url": ""
         }
@@ -3526,17 +3537,17 @@
       "content": "【별지 제6호】\n\n계약전 승인요청서\n───────────┬───────────────────┬────────────┬───────────\n접수번호            │접수일시                              │처리일                  │처리기간    15일\n───────────┴───────────────────┴────────────┴───────────\n\n──────┬─────────────────────────────────────────────────\n요청인    │업체명\n(업체)    ├────────────────────────┬────────────────────────\n│대표자                                          │전화번호\n├────────────────────────┴────────────────────────\n│업종 및 주 생산품\n──────┴─────────────────────────────────────────────────\n\n────────────────────────────────────────────────────────\n승인 요청 내용\n──────┬────────────┬──┬────────┬──┬─────────────────────\n계약 전   │품명                    │수량│금액            │검토│사유\n승인대상  ├────┬───────┤    │                │부서│\n│방산물자│원자재 및 부품│    │                │    │\n──────┼────┼───────┼──┼────────┼──┼─────────────────────\n방산물자  │        │              │    │                │    │\n생산      │        │              │    │                │    │\n──────┼────┼───────┼──┼────────┼──┼─────────────────────\n방산물자  │        │              │    │                │    │\n원자재 및 │        │              │    │                │    │\n부품 확보 │        │              │    │                │    │\n──────┴────┴───────┴──┴────────┴──┴─────────────────────\n\n\n「방위사업법 시행령」 제50조제3항 또는 같은 조 제4항에 따라 위와 같이 승인을 요청합니다.\n\n\n년      월      일\n\n요청인                                      (서명 또는 인)\n\n방위사업청장 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n────────────────────────────────────────────────────────\n\n┌──────┐        ┌───────────────┐  ┌──────────┐  ┌───────────┐\n│신 청       │→      │심 사                         │→│승 인               │→│결과 통지             │\n│            │        │                              │  │                    │  │요청인(업체), 협의부서│\n│            │        │                              │  │                    │  │품질보증기관          │\n│            │        │                              │  │                    │  │(국방기술품질원, 각 군 │\n│            │        │                              │  │                    │  │등)                   │\n└──────┘        └───────────────┘  └──────────┘  └───────────┘\n\n\n요청인(업체)            방위사업청                          방위사업청                방위사업청\n(계약 전 승인담당부서)              (계약 전 승인담당부       (계약 전 승인담당부서)\n서)\n\n↕  협의\n┌───────────────┐\n│ㆍ서류와 내용의 타당성        │\n│ㆍ예산반영,물량,국방규격화 등 │\n└───────────────┘\n방위사업청, 각 군\n(계약부서, 사업부서 등)\n────────────────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092449",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825543",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092445",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825539",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092449",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825543",
           "name": "",
           "file_store_url": ""
         }
@@ -3557,17 +3568,17 @@
       "content": "【별지 제6-1호】\n\n계약전 품질확인요청서\n────────┬─────┬──────────────────┬───────────\n접수번호      │접수일    │처리일                              │처리기간    15일\n────────┴─────┼──────────────────┴───────────\n│\n──────────────┴──────────────────────────────\n업체명\n──────────────┬──────────────────────────────\n대표자                    │전화번호\n──────────────┴──────────────────────────────\n업종 및 주 생산품\n─────────────────────────────────────────────\n\n─────┬──┬──┬──┬──────┬───────────────────────\n품질    │품명│수량│금액│품질보증    │사유\n보증    │    │    │    │기관        │\n대상    │    │    │    │            │\n─────┼──┼──┼──┼──────┼───────────────────────\n방산물자│    │    │    │            │\n─────┼──┼──┼──┼──────┼───────────────────────\n방산물자│    │    │    │            │\n원자재ㆍ│    │    │    │            │\n부품    │    │    │    │            │\n─────┴──┴──┴──┴──────┴───────────────────────\n\n\n「방위사업법 시행령」 제50조제5항에 따라 위와 같이 품질확인을 요청합니다.\n\n\n년      월      일\n\n\n\n요청인                                                           (서명 또는 인)\n\n\n\n방위사업청장 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n─────────────────────────────────────────────\n\n┌──────┐  ┌───┐          ┌──────────┐  ┌───────────┐\n│신 청       │→│심 사 │→        │승 인               │→│결과 통지             │\n│            │  │      │          │                    │  │요청인(업체), 협의부서│\n└──────┘  └───┘          └──────────┘  └───────────┘\n\n\n요청인(업체)  방위사업청              방위사업청            ↘  방위사업청\n(계약 전 승인담당부서)  (계약 전 승인담당부       (계약 전 승인담당부서)\n서)\n\n\n\n\n┌───────────┐\n│품질보증 활동 지시/협조│\n│(국방기술품질원, 각 군 등)│\n└───────────┘\n\n\n방위사업청\n(계약 전 승인담당부서)\n─────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092455",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825549",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092451",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825545",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092455",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825549",
           "name": "",
           "file_store_url": ""
         }
@@ -3588,17 +3599,17 @@
       "content": "【별지 제7호】\n세부 품목 내역\n┌─┬──┬──┬──┬──┬──┬───┬──┬──┬──┬────┬───┬───┬────┬─────┐\n│순│재고│품명│단위│요청│예산│규격  │도면│품질│물량│방산    │방산  │복수  │부정당  │타사업    │\n│번│번호│    │    │물량│구분│번호  │번호│보증│확인│물자    │업체  │의    │제재    │(타       │\n│  │    │    │    │    │    │및    │    │기관│부서│지정    │지정  │방산  │해당    │구성품)   │\n│  │    │    │    │    │    │규격명│    │    │    │품목명  │근거  │업체  │여부    │으로      │\n│  │    │    │    │    │    │(제정 │    │    │    │및      │(지정 │지정  │및      │활용      │\n│  │    │    │    │    │    │또는  │    │    │    │지정    │일자) │여부  │제재    │가능성    │\n│  │    │    │    │    │    │개정  │    │    │    │근거    │      │      │기간    │          │\n│  │    │    │    │    │    │일자) │    │    │    │(지정   │      │      │        │          │\n│  │    │    │    │    │    │      │    │    │    │일자)   │      │      │        │          │\n├─┼──┼──┼──┼──┼──┼───┼──┼──┼──┼────┼───┼───┼────┼─────┤\n│  │    │    │    │    │    │      │    │    │    │        │      │      │        │          │\n├─┼──┼──┼──┼──┼──┼───┼──┼──┼──┼────┼───┼───┼────┼─────┤\n│  │    │    │    │    │    │      │    │    │    │        │      │      │        │          │\n├─┼──┼──┼──┼──┼──┼───┼──┼──┼──┼────┼───┼───┼────┼─────┤\n│  │    │    │    │    │    │      │    │    │    │        │      │      │        │          │\n├─┼──┼──┼──┼──┼──┼───┼──┼──┼──┼────┼───┼───┼────┼─────┤\n│  │    │    │    │    │    │      │    │    │    │        │      │      │        │          │\n└─┴──┴──┴──┴──┴──┴───┴──┴──┴──┴────┴───┴───┴────┴─────┘\n\n* 해당 품목별 ‘방산물자 지정서 및 방산업체 지정서’사본 첨부",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092461",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825555",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092457",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825551",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092461",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825555",
           "name": "",
           "file_store_url": ""
         }
@@ -3619,17 +3630,17 @@
       "content": "【별지 제8호】\n\n서   약   서\n방산물자 계약 전 생산 승인 등 요청은 당사 ((주) O O O)의 필요에 의해서 방위사업청에 요청하는 것이므로 이에 따르는 모든 책임은 당사에 있습니다.\n따라서 본 공문으로 요청한 품목에 대하여 향후에 만일 방위사업청에서 집행계획, 집행승인 또는 계약 체결시 물량 또는 예산을 변경하거나 사업을 취소하여 손실이 발생되더라도 그 손실에 대한 책임은 모두 당사에 있습니다.\n그러므로 이러한 당사의 손실에 대하여 계약 전 생산 승인 등을 근거로 어떠한 형태의 보상요구나 예산의 조정 요구도 하지 않겠음을 서약합니다.\n년       월      일\nO O O 주 식 회 사\n방위사업청장 귀하                          대표이사  O O O",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092467",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825561",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092463",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825557",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092467",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825561",
           "name": "",
           "file_store_url": ""
         }
@@ -3650,17 +3661,17 @@
       "content": "【별지 제9호】\n방 위 사 업 청\n수신자  수신자 참조\n참  조\n제  목  OOO㈜ 방산물자(방산물자명) 계약 전 생산 등 승인 요청품목 검토 의뢰\n1. 관련근거\n가. 방위사업법 시행령 제50조, 동법 시행규칙 제33조\n나. 방위사업청 훈령 제000호(2018.00.00.) 방위사업 품질관리 규정\n다. (업체요청 공문 근거)\n2. 위 관련근거에 따라 OOO㈜ 계약 전 생산 등 승인 요청 품목에 대하여 아래와 같이 검토를 의뢰하니 기한 내 회신하여 주시기 바랍니다.\n가. 검토대상 품목 : OOOO <세부내역 붙임 참조>\n나. 검토부서 : 통합사업관리팀 / 계약팀 / 각 군\n다. 검토기한 : 접수일로부터 5근무일 이내\n┌─┬─────┬──────┬─────┬───┬──────┬────┬──────┬──────┐\n│품│해당연도  │            │해당연도  │해당  │사업 집행   │계약전  │요청품목의  │ 복수의     │\n│명│집행추진  │해당연도    │예산      │연도  │추진상 향후 │승인 등 │국방규격화  │방산업체가  │\n│  │예정      │이후        │반영      │반영  │물량 변경   │필요    │여부        │지정된      │\n│  │또는      │물량        │여부      │예산  │가능성      │여부    │(규격번호   │품목인      │\n│  │확정물량  │(장기계약의 │          │액    │(물량변경시 │        │및 규격명)  │경우 계약   │\n│  │          │경우)       │          │      │대책포함    │        │            │전 생산 등  │\n│  │          │            │          │      │            │        │            │승인의      │\n│  │          │            │          │      │            │        │            │필요성      │\n├─┼─────┼──────┼─────┼───┼──────┼────┼──────┼──────┤\n│  │          │            │          │      │            │        │            │            │\n└─┴─────┴──────┴─────┴───┴──────┴────┴──────┴──────┘\n라. 검토 요청사항\n\n붙임  1. 세부품목내역서 1부.\n2. 생산납품공정계획표 1부.\n3. 서약서 1부.  끝.\n방 위 사 업 청 장\n수신자 : OOO사업팀, OOO계약팀, 소요군",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092473",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825567",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092469",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825563",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092473",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825567",
           "name": "",
           "file_store_url": ""
         }
@@ -3681,17 +3692,17 @@
       "content": "【별지 제10호】\n방 위 사 업 청\n수신자  수신자 참조\n참  조\n제  목  방산물자(해당 방산물자명) 계약 전 생산 등 승인 및 수행 통보\n1. 관련근거\n가. 방위사업법 시행령 제50조, 동 시행규칙 제33조\n나. 방위사업청 훈령 제000호(2019.00.00.) 방위사업 품질관리 규정\n다. (업체요청 공문 근거)\n라. 관련부서/기관 공문 근거\n2. 위 관련근거에 따라 OOO(주)에서 ’00년 방산물자 계약 전 승인을 요청한 품목 및 물량을 확인하여 아래와 같이 회신(통보)합니다.\n가. 확인승인품목 : OOOO(또는 OOOO정비)\n┌────┬────┬────┬────┬─────┬─────┐\n│품   명 │재고번호│요청물량│해당연도│해당연도  │해당연도  │\n│        │        │        │예산액  │확인물량  │이후      │\n│        │        │        │        │          │확인물량  │\n├────┼────┼────┼────┼─────┼─────┤\n│        │        │        │        │          │          │\n├────┼────┼────┼────┼─────┼─────┤\n│        │        │        │        │          │          │\n└────┴────┴────┴────┴─────┴─────┘\n\n나. 관급부품 업체 및 현황(해당사항 있을 시) : \"붙임\" 참조\n품질보증활동이 완료된 관급부품을 계약 전 승인된 완제품 생산에 투입하고자 할 경우는 관급부품 생산업체와 완제품 생산업체간 합의에 따르며, 각 업체는 합의결과를 사업본부(계약부서)에 제출해야 함\n다. 확인 승인조건\n1) 방산물자 지정근거 :\n2) 방산업체 지정근거 :\n3) ’00년 물량 및 예산에 한함.(장기계약의 해당 연도 이후 물량인 경우 계약연도 예산범위 내에서 원자재ㆍ부품 확보에 한함.)\n4) 계약 전 생산에 따르는 책임은 업체가 제출한 \"서약서\"에 의하며, 본 승인을 근거로 어떠한 형태의 보상요구나 예산 조정 요구를 할 수 없음.\n5) 승인유효기간\n가) 승인연도 내 계약체결 시    : 동 계약체결 시 까지\n나) 승인연도 내 계약 미체결 시 : 승인연도 말 까지\n6) 예산의 변경, 기타 사유로 집행계획이 변경될 수 있으며, 계약체결시 품목이나 물량이 변동될 수 있음.\n라. 품질보증기관 : 국방기술품질원(또는 소요군 품질보증기관)\n1) 승인 품목의 계약전 품질확인 필요시 별지6-1호 작성 및 신청이 필요함.  끝.\n방 위 사 업 청 장\n수신자 : OOO사업팀, OOO계약팀, 국방기술품질원(또는 소요군 품질보증기관), OO업체",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092479",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825573",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092475",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825569",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092479",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825573",
           "name": "",
           "file_store_url": ""
         }
@@ -3712,17 +3723,17 @@
       "content": "【별지 제11호】\n인증 분야 및 코드\n1. 무기체계 ┌────────┬────────────┬───┐\n│대분류          │중 분 류                │코드  │\n┝━━━━━━━━┿━━━━━━━━━━━━┿━━━┥\n│지휘통제ㆍ통신  │지휘통제 체계           │가-01 │\n│                ├────────────┼───┤\n│                │통신체계                │가-02 │\n│                ├────────────┼───┤\n│                │통신장비                │가-03 │\n├────────┼────────────┼───┤\n│감시?정찰      │전자전장비              │나-01 │\n│                ├────────────┼───┤\n│                │레이더장비              │나-02 │\n│                ├────────────┼───┤\n│                │전자광학장비            │나-03 │\n│                ├────────────┼───┤\n│                │수중감시장비            │나-04 │\n│                ├────────────┼───┤\n│                │기상감시장비            │나-05 │\n│                ├────────────┼───┤\n│                │정보분석체계            │나-06 │\n│                ├────────────┼───┤\n│                │그 밖의 감시?정찰장비  │나-07 │\n├────────┼────────────┼───┤\n│기동            │전  차                  │다-01 │\n│                ├────────────┼───┤\n│                │장 갑 차                │다-02 │\n│                ├────────────┼───┤\n│                │전투차량                │다-03 │\n│                ├────────────┼───┤\n│                │기동 및 대기동 지원장비 │다-04 │\n│                ├────────────┼───┤\n│                │지상무인체계            │다-05 │\n│                ├────────────┼───┤\n│                │개인전투체계            │다-06 │\n├────────┼────────────┼───┤\n│함정            │수 상 함                │라-01 │\n│                ├────────────┼───┤\n│                │잠수함(정)              │라-02 │\n│                ├────────────┼───┤\n│                │전투근무 지원정         │라-03 │\n│                ├────────────┼───┤\n│                │해상전투 지원장비       │라-04 │\n│                ├────────────┼───┤\n│                │함정무인 체계           │라-05 │\n├────────┼────────────┼───┤\n│항공            │고정익 항공기           │마-01 │\n│                ├────────────┼───┤\n│                │회전익 항공기           │마-02 │\n│                ├────────────┼───┤\n│                │무인 항공기             │마-03 │\n│                ├────────────┼───┤\n│                │항공전투 지원장비       │마-04 │\n├────────┼────────────┼───┤\n│화력            │소화기                  │바-01 │\n│                ├────────────┼───┤\n│                │대전차화기              │바-02 │\n│                ├────────────┼───┤\n│                │화  포                  │바-03 │\n│                ├────────────┼───┤\n│                │화력지원장비            │바-04 │\n│                ├────────────┼───┤\n│                │탄  약                  │바-05 │\n│                ├────────────┼───┤\n│                │유도무기                │바-06 │\n│                ├────────────┼───┤\n│                │특수무기                │바-07 │\n├────────┼────────────┼───┤\n│방호            │방공                    │사-01 │\n│                ├────────────┼───┤\n│                │화생방                  │사-02 │\n│                ├────────────┼───┤\n│                │EMP방호                 │사-03 │\n│                ├────────────┼───┤\n│                │전장의무                │사-04 │\n├────────┼────────────┼───┤\n│사이버 무기체계 │사이버작전체계          │아-01 │\n├────────┼────────────┼───┤\n│우주무기        │우주감시                │자-01 │\n│체계            ├────────────┼───┤\n│                │우주정보지원            │자-02 │\n│                ├────────────┼───┤\n│                │우주통제                │자-03 │\n│                ├────────────┼───┤\n│                │우주전력투사            │자-04 │\n├────────┼────────────┼───┤\n│그 밖의무기쳬계 │국방M&S체계             │차-01 │\n└────────┴────────────┴───┘\n2. 전력지원체계\n┌───────┬─────────┬───┐\n│대분류        │중 분 류          │코드  │\n┝━━━━━━━┿━━━━━━━━━┿━━━┥\n│전투지원장비  │일반차량          │자-01 │\n│(부품)        ├─────────┼───┤\n│              │특수차량          │자-02 │\n│              ├─────────┼───┤\n│              │전원?동력장치    │자-03 │\n│              ├─────────┼───┤\n│              │감시지원장비      │자-04 │\n│              ├─────────┼───┤\n│              │정비장비          │자-05 │\n│              ├─────────┼───┤\n│              │탄약?유도탄 장비 │자-06 │\n│              ├─────────┼───┤\n│              │전투지원일반장비  │자-07 │\n│              ├─────────┼───┤\n│              │측정장비          │자-08 │\n│              ├─────────┼───┤\n│              │통신전자장비      │자-09 │\n│              ├─────────┼───┤\n│              │개인화기지원장비  │자-10 │\n│              ├─────────┼───┤\n│              │근무지원장비      │자-11 │\n│              ├─────────┼───┤\n│              │항공장비          │자-12 │\n│              ├─────────┼───┤\n│              │수리부속          │자-13 │\n├───────┼─────────┼───┤\n│전투지원물자  │방탄류            │차-01 │\n│              ├─────────┼───┤\n│              │피복?장구류      │차-02 │\n│              ├─────────┼───┤\n│              │식량류            │차-03 │\n│              ├─────────┼───┤\n│              │화생방 물자류     │차-04 │\n│              ├─────────┼───┤\n│              │유류              │차-05 │\n│              ├─────────┼───┤\n│              │특수섬유물자      │차-06 │\n│              ├─────────┼───┤\n│              │탄약?유도탄물자  │차-07 │\n│              ├─────────┼───┤\n│              │전기?전자물자    │차-08 │\n│              ├─────────┼───┤\n│              │근무지원물자      │차-09 │\n│              ├─────────┼───┤\n│              │인쇄 물자류       │차-10 │\n├───────┼─────────┼───┤\n│의무지원물품  │의무장비          │카-01 │\n│              ├─────────┼───┤\n│              │의무물자          │카-02 │\n├───────┼─────────┼───┤\n│교육훈련물품  │교육훈련장비      │타-01 │\n│              ├─────────┼───┤\n│              │교육훈련물자      │타-02 │\n│              ├─────────┼───┤\n│              │교육훈련용탄약    │타-03 │\n├───────┼─────────┼───┤\n│국방정보시스템│자원관리정보체계  │파-01 │\n│              ├─────────┼───┤\n│              │국방M&S체계       │파-02 │\n│              ├─────────┼───┤\n│              │기반운영 환경     │파-03 │\n└───────┴─────────┴───┘\n3. 1~2의 분류표에 해당되지 않는 체계 구성품류 등과 같은 경우, 통계청 고시 ‘한국표준산업분류’의 제조업 코드 내 소분류 적용\n*‘인증분야 및 코드’는 2021. 3. 1일 이후부터 적용",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092487",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825581",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092481",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825575",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092487",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825581",
           "name": "",
           "file_store_url": ""
         }
@@ -3743,17 +3754,17 @@
       "content": "【별지 제12호】\n국방품질경영체제 인증서\n┌───────────────────┐\n│                                      │\n│ 인증번호 : 제OOO호                   │\n│                                      │\n│국 방 품 질 경 영 체 제  인 증 서     │\n│                                      │\n│○○○○㈜                            │\n│          주소 :                      │\n│                                      │\n│                                      │\n│적용표준                              │\n│KDS STD-0005-( )                      │\n│(ISO 9001:(    )  및 군 특수 요구사항)│\n│                                      │\n│                                      │\n│인증범위                              │\n│○○○○ ○○○○                     │\n│                                      │\n│유효기간:                             │\n│OOOO년  O월  O일 부터                 │\n│OOOO년  O월  O일 까지                 │\n│(최초인증일: OOOO년 O월 O일)          │\n│                                      │\n│                                      │\n│위와 같이 인증합니다.                 │\n│                                      │\n│                                      │\n│                                      │\n│                                      │\n│방 위 사 업 청 장                     │\n└───────────────────┘\n┌──────────────────────────────────────────┐\n│                                                                                    │\n│Certificate No. : OOO                                                               │\n│                                                                                    │\n│                                                                                    │\n│Certificate of Registration                                                         │\n│                                                                                    │\n│                                                                                    │\n│○○○○ CO., LTD.                                                                  │\n│OOO, OOO-dong, OOO-gu, OOOO-si, OOOO-do, Korea                                      │\n│                                                                                    │\n│  Defense Acquisition Program Administration hereby certifies that the Quality      │\n│Management System of the above organization has been assessed and complied with the │\n│requirements of defense specification detailed below                                │\n│                                                                                    │\n│                                                                                    │\n│KDS STD-0005-( )                                                                    │\n│(ISO 9001:(    ) and military requirements)                                         │\n│                                                                                    │\n│Scope of Certification                                                              │\n│                                                                                    │\n│                                                                                    │\n│○○○○, ○○○○.                                                                 │\n│                                                                                    │\n│                                                                                    │\n│                    Original Certification Date:     OO   OOO.   OOOO               │\n│                    Effective Date:                 OO   OOO.   OOOO                │\n│                    Expiration Date:               OO   OOO.   OOOO                 │\n│                                                                                    │\n│                                                                                    │\n│                     Approved by                                                    │\n│                                        Minister of Defense Acquisition             │\n│                                                                                    │\n│                                                                                    │\n│                                                                                    │\n│                                                                                    │\n│Defense Acquisition Program Administration                                          │\n│47, Gwanmun-ro, Gwacheon-si, Gyeonggi-do, Republic of Korea                         │\n└──────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092495",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825589",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092489",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825583",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092495",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825589",
           "name": "",
           "file_store_url": ""
         }
@@ -3774,17 +3785,17 @@
       "content": "【별지 제13호】\n심사수수료 산정기준\n1. 국방품질경영체제 인증심사 일수단가는 20만원(MD당) 이며, 부가가치세(V.A.T.)를미 포함한 금액으로 부가가치세(10%)를 가산한 금액을 청구한다.\n2. 인증심사 시의 심사일수는 서면 및 현장 심사일수를 합산하여 산정한다.\n3. 수수료산정 심사일수 기준표\n\n단위 : 일수(MD)\n\n┌───────┬─────┬───────┬────┐\n│심사종류      │최초심사  │사후관리심사  │갱신심사│\n│(종업원)      ├──┬──┤또는 변경심사 │        │\n│              │서면│현장│              │        │\n├───────┼──┼──┼───────┼────┤\n│25인이하      │1   │4   │2             │3       │\n├───────┼──┼──┼───────┼────┤\n│26 ~ 45인     │1   │5   │3             │4       │\n├───────┼──┼──┼───────┼────┤\n│46 ~ 65인     │1   │6   │3             │5       │\n├───────┼──┼──┼───────┼────┤\n│66 ~ 85인     │1   │7   │3             │5       │\n├───────┼──┼──┼───────┼────┤\n│86 ~ 125인    │1   │8   │4             │6       │\n├───────┼──┼──┼───────┼────┤\n│126 ~ 275인   │1   │9   │4             │7       │\n├───────┼──┼──┼───────┼────┤\n│276 ~ 425인   │2   │10  │4             │8       │\n├───────┼──┼──┼───────┼────┤\n│426 ~ 625인   │2   │11  │5             │9       │\n├───────┼──┼──┼───────┼────┤\n│626 ~ 875인   │2   │12  │5             │10      │\n├───────┼──┼──┼───────┼────┤\n│876 ~ 1,175인 │2   │13  │6             │11      │\n├───────┼──┼──┼───────┼────┤\n│1,176인이상   │2   │14  │6             │12      │\n└───────┴──┴──┴───────┴────┘\n가. 위 표는 방산업체등의 종업원수를 기준으로 적절한 심사기간을 결정할 때 사용할 수\n있는 기준으로 조직의 사업장 수, 시스템, 프로세스 및 제품/서비스의 복잡성을\n고려하여 표에 제시된 기간의 30% 범위 내에서 가감하여 조정할 수 있다.\n나. 국내외 인정기구에 등록된 인증기관으로부터 품질경영체제 인증을 획득 유지하고\n있는 방산업체등에 대해서는 국방품질경영체제 인증범위와의 유사정도에 따라 심\n사일수를 일부 단축할 수 있다.\n다. “종업원”은 품질경영체제에 기술된 인증범위를 지원하는 업무활동을 하는 정규직\n원(상근, 비상근, 파트타임)과 비정규직원(계절 노동직, 임시직, 위탁계약직)을 포\n함한 모든 개인을 지칭한다.\n라. 심사일수는 정규 1일 8시간(점심시간, 회의시간 포함)을 의미하며, 1일당 심사시간\n을 연장하여 심사일수를 단축할 수 없다.\n마. 심사원의 이동시간은 상시 심사일수에 포함되지 않으며, 심사장소가 2개소 이상으\n로 분리(예 : 연구소 등)되어 심사 중 장시간의 이동이 요구되는 경우에도 이동시\n간은 심사일수에 포함되지 않는다.\n바. 인증신청을 구분하여 심사수수료를 산정할 경우 상기의 현장심사 기준일수를 초\n과하지 않는 범위내에서 국방기술품질원장이 정하여 적용한다.\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092501",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825595",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092497",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825591",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092501",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825595",
           "name": "",
           "file_store_url": ""
         }
@@ -3805,17 +3816,17 @@
       "content": "【별지 제14호】\n국제품질보증 협정에 따른 외국정부에 대한 품질관리 요청 업무 절차\n┌─────┬────────┬───────┬─────┐\n│구 분     │통합사업관리팀, │국방기술품질원│협정체결국│\n│          │각군·기관      │              │          │\n┝━━━━━┿━━━━━━━━┷━━━━━━━┷━━━━━┥\n│국제      │                                            │\n│품질보증  │                                            │\n│협정 적용 │                                            │\n└─────┴──────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092507",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825601",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092503",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825597",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092507",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825601",
           "name": "",
           "file_store_url": ""
         }
@@ -3836,17 +3847,17 @@
       "content": "【별지 제15호】\n국제품질보증 협정 적용 가능성 검토 요청 양식\n┌───────────────────┐\n│1. 개요                               │\n│2. 관련근거                           │\n│3. 대상품목 개요                      │\n│  가. 주요기능                        │\n│  나. 제원 및 특성                    │\n│  다. 대상국가(업체)                  │\n│                                      │\n│4. 사업 추진 계획                     │\n│  가. 계약 추진 일정                  │\n│  나. 사업기간/연도별 생산량          │\n│  다. 국제품질보증협정 적용 대상 수량 │\n│                                      │\n│5. 기타사항                           │\n│                                      │\n│                                      │\n└───────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092513",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825607",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092509",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825603",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092513",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825607",
           "name": "",
           "file_store_url": ""
         }
@@ -3867,17 +3878,17 @@
       "content": "【별지 제16호】\n국외 구매 제안요청서의 품질관리 요구사항(예시)\n┌─────────────────────────────────────────────────────┐\n│제안업체는 계약기간 동안 (품질경영시스템명, 예. ISO 9001, AS 9100, AQAP 2110/2120/2310 등) 또는           │\n│이에 준하는 요구사항을 만족하는 품질경영시스템을 적용 및 유지해야 하며, 국제적으로 공인된 품질경영        │\n│시스템 인증서를 제출해야 한다.                                                                            │\n│                                                                                                          │\n│The proposing company shall apply and maintain quality management system in accordance with               │\n│(name of quality management system, ex. ISO 9001, AS 9100, AQAP 2110/2120/2310) or equivalent             │\n│system, and provide DAPA the international certificates of the relevant quality management system.        │\n│                                                                                                          │\n│제안업체는 품질보증 기준, 품질관리 활동과 관련된 조직구조, 임무, 절차, 과정, 품질관리 인력현황, 위조부    │\n│품에 대한 관리 및 보증 방안 등이 포함된 품질보증 계획을 제출해야 한다 (부록 0-0 참조).                    │\n│                                                                                                          │\n│The proposing company shall provide the Quality Assurance Plan, which includes quality assurance          │\n│standards, organization structure, responsibilities, procedures, processes, status of quality control     │\n│manpower, counterfeit parts prevention management and assurance methods and etc. in relation to           │\n│the proposing company’s quality management (Please refer to Appendix 0-0).                               │\n│                                                                                                          │\n│방위사업청은 필요시 정부 간 국제품질보증 협정에 따라 제안업체 국가의 정부품질보증기관에 정부품질관리      │\n│활동의 일부 또는 전부를 의뢰하여 그 결과를 접수, 참고할 수 있다.                                          │\n│                                                                                                          │\n│DAPA may request Government Qualty Assurance (GQA) partially or entirely to the GQA Authority             │\n│of the proposing company’s Government, if necessary, and receive the GQA results in accordance           │\n│with the GQA Agreement between the Governments.                                                           │\n│                                                                                                          │\n│제안업체는 국제품질보증 협정에 따라 방위사업청이 제안업체 국가의 정부품질관리 활동을 요구할 경우 계       │\n│약조건으로 수용해야 한다.                                                                                 │\n│                                                                                                          │\n│If DAPA requests Government Quality Assurance of manufacturing country's Government, the                  │\n│proposing company shall accept the request as contract terms and condition.                               │\n│                                                                                                          │\n│제안업체 및 제안업체의 협력업체는 정부품질관리 활동 수행이 안전하고 용이하게 이루어질 수 있도록 계약      │\n│금액 인상 없이 합리적인 선에서 모든 시설과 지원을 제공해야 한다.                                          │\n│                                                                                                          │\n│The proposing company shall furnish, and shall require subcontractors to furnish, at no increase in       │\n│contract price, all reasonable facilities and assistance for the safe and convenient performance of GQA   │\n│activities.                                                                                               │\n│                                                                                                          │\n│정부품질관리가 제품의 결함 또는 계약 요구사항 불만족에 대한 계약업체의 책임을 면제하지 않는다.            │\n│                                                                                                          │\n│GQA does not relieve the contractor of responsibility for defects or other failures to meet contract      │\n│requirements.                                                                                             │\n│                                                                                                          │\n│                                                                                                          │\n│                                                                                                          │\n│                                                                                                          │\n│                                                                                                          │\n│[업체 품질보증 계획서 작성 요구사항]                                                                      │\n│                                                                                                          │\n│1. 목적 및 범위 (Purpose / Scope)                                                                         │\n│                                                                                                          │\n│본 자료는 방위사업청이 제안업체의 품질보증 능력을 평가하고 제안업체의 품질보증 기준, 품질관리와 관련      │\n│된 업체구조, 임무, 절차, 과정 및 품질관리 인력 현황, 위조부품에 대한 관리 및 보증 방안을 파악하기 위      │\n│한 것이다.                                                                                                │\n│                                                                                                          │\n│The quality assurance plan is for DAPA to evaluate the quality assurance capability of the proposing      │\n│company and to comprehend the quality assurance standards, company structure, responsibilities,           │\n│procedures, processes, and status of quality control manpower human resource in relation to the           │\n│quality management, and counterfeit parts prevention management and assurance methods of the              │\n│proposing company.                                                                                        │\n│                                                                                                          │\n│2. 양식 및 작성 요령 (Format and Content Instructions)                                                    │\n│                                                                                                          │\n│본 자료에 정해진 양식은 없으며, 제안업체 스스로 위의 상세내용, 품질관리 절차서 및 검사기준서 목록, 협     │\n│력업체 관리계획, 공급품목에 대한 주요 제조시설/시험 및 검사장비 현황 등을 포함하여 계획서를 작성하여      │\n│야 한다. 제안업체가 획득한 품질경영시스템(예. ISO 9001, AS 9100, AQAP 2110 등) 인증현황을 인증기관        │\n│및 인증서 사본과 함께 제시하여야 한다.                                                                    │\n│                                                                                                          │\n│There is no standard form for this and the company shall describe the plan using its own format           │\n│including the above mentioned elements, the list of quality control procedures and inspection             │\n│specifications, sub- supplier control plan, status of major manufacturing / test /  inspection            │\n│equipments. Proposing company must present the status of quality management system certification          │\n│with the copy of the certificates (ex. ISO 9001, AS 9100, AQAP 2110, etc.)                                │\n│                                                                                                          │\n│3. 정부품질관리 (Government Quality Assurance)                                                            │\n│                                                                                                          │\n│제안업체는 정부품질관리가 요구될 경우, 정부품질관리와 관련된 정부품질관리대표자의 권한과 제안업체의       │\n│책임을 품질보증 계획에 반영하여야 한다.                                                                   │\n│For Government Qualiy Assurance (GQA) is required, the proposing company shall incorporate the            │\n│rights of GQA Representative (GQAR) and the proposing company’s responsibilities pertaining to           │\n│GQA into the Quality Assurance Plan.                                                                      │\n│                                                                                                          │\n│<정부품질관리대표자의 권한 (예시)>                                                                        │\n│계약된 활동이 이루어지는 제안업체 및 하도급업체 시설 출입 권한                                            │\n│제안업체 및 협력업체의 검사 시스템 평가 및 승인 권한                                                      │\n│제품 수락 전 제조 과정을 포함한 모든 시점에 모든 장소에서 제품 검사 및 시험 권한                          │\n│부적합품에 대한 불합격 처리 또는 시정을 요구할 권한                                                       │\n│제품의 규격만족 여부 확인을 위한 업체 문서 열람 권한                                                      │\n│                                                                                                          │\n│<Rights of GQAR (Example)>                                                                                │\n│The right of access to facilities of the proposing company and sub-suppliers where parts of the           │\n│contracted activities are being performed.                                                                │\n│The right of evaluate and accept/reject the proposing company and the subsupplier’s inspection system    │\n│The right to inspect and test all supplies called for by the contract, to the extent practicable, at all  │\n│places and times, including the period of manufacture, and in any event before acceptance.                │\n│The right to reject or to require correction of non-conforming products                                   │\n│The right of access to the necessary Supplier documentation, to confirm product conformance to            │\n│specification.                                                                                            │\n│                                                                                                          │\n│<제안업체의 책임 (예시)>                                                                                  │\n│정부가 요구한 부적합 사항 시정                                                                            │\n│정부의 제품 검사 및 시험에 필요한 지원                                                                    │\n│정부품질관리 수행을 위해 필요한 장비 사용 지원                                                            │\n│이러한 장비의 작동을 위한 업체 또는 협력업체 직원 지원                                                    │\n│정부품질관리 수행을 위해 필요한 문서 사본(전자파일 포함) 제공                                             │\n│   * 필요 문서는 정부의 위험식별·평가 등 정부품질관리 계획 수립에 필요한 제반  자료를 포함함 (작업구     │\n│조도, 제조공정도, 부적합사항 이력 등)                                                                     │\n│                                                                                                          │\n│<Responsibilities of Proposing Company (Example)>                                                         │\n│To correct nonconformance rejected by GQAR                                                                │\n│To provide all reasonable facilities and assistance for the safe and convenient performance of            │\n│Government inspection and test                                                                            │\n│To provide the reasonable use of necessary equipment for performing GQA                                   │\n│To provide supplier and or sub-suppliers personnel for operation of such equipment as required            │\n│To provide copies of necessary documents (including those on electronic media) for the                    │\n│performance of GQA                                                                                        │\n└─────────────────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092523",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825617",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092515",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825609",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092523",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825617",
           "name": "",
           "file_store_url": ""
         }
@@ -3898,17 +3909,17 @@
       "content": "【별지 제17호】\n국외 구매 품질관리 관련 계약특수조건 (예시)\n┌──────────────────────────────────────────────────────┐\n│<13. 검사 및 수락>                                                                                          │\n│                                                                                                            │\n│13.1. 계약상대자는 계약 물품에 대한 효과적인 품질관리를 유지할 책임, 계약 품질요구사항에 완전히 부합되      │\n│는 물품이라는 것을 증빙하는데 필요한 검사의 수행 및 시험설비를 갖추어야 할 책임 및 수락 전 관리             │\n│와 검사가 유효함을 나타내는 객관적 증거를 제시할 책임이 있다.                                               │\n│                                                                                                            │\n│The Contractor shall be responsible for maintaining effective control of the quality of                     │\n│Commodity, for the provision of test facilities and the performance of inspections essential to             │\n│demonstrate the full conformance of the Commodity to contract quality requirements and for                  │\n│the provision of objective evidence that controls and inspections are effective prior to offering           │\n│the Commodity for acceptance.                                                                               │\n│                                                                                                            │\n│13.2. 정부품질관리 (Government Quality Assurance)                                                           │\n│계약상대자는 작업지시서에 따라 정부품질관리를 수용하여야 한다.                                              │\n│                                                                                                            │\n│The Contractor shall accommodate Government Quality Assurance in accordance with the                        │\n│Statement of Work.                                                                                          │\n│                                                                                                            │\n│13.2.1. 정부품질관리 대표자는 계약물품에 대한 정부품질관리 활동 수행 권한이 있다.                           │\n│                                                                                                            │\n│A Government Quality Assurance Representative (GQAR) shall have the right to perform                        │\n│Quality Assurance activities on the contracted products.                                                    │\n│                                                                                                            │\n│13.2.2. 방위사업청은 필요시 대한민국과 (협정국명) 간의 국제품질보증 협정, ‘(협정명)‘에 따라, 계약상대자국 │\n│가의 정부품질보증기관에 정부품질관리 활동의 일부 또는 전부를 의뢰하여 그 결과를 접수, 참고할                │\n│수 있다.                                                                                                    │\n│                                                                                                            │\n│In accordance with the international GQA agreement between ROK and (Name of Country),                       │\n│‘(Name of MOU)’, DAPA may request GQA partially or entirely to the GQA authority of the                   │\n│(Name of Country), if necessary, and receive the GQA results.                                               │\n│                                                                                                            │\n│13.2.3. 계약상대자 및 계약상대자의 하도급업체는 정부품질관리 활동이 안전하고 용이하게 이루어질 수 있도      │\n│록 계약금액 인상없이 합리적인 선에서 모든 시설과 지원을 제공하여야 한다.                                    │\n│                                                                                                            │\n│The contractor shall furnish and shall require subcontractors to furnish, at no increase in                 │\n│contract price, all reasonable facilities and assistance for the safe and convenient performance of         │\n│GQA activities.                                                                                             │\n│                                                                                                            │\n│13.3. 계약상대자는 납품을 위하여 수락 가능한 물품만이 출하되도록 보증해야 한다.                             │\n│                                                                                                            │\n│The Contractor shall ensure that only acceptable Commodity, intended for delivery, is released.             │\n│                                                                                                            │\n│13.4. 계약상대자는 방위사업청에게 제공되는 모든 물품의 품질에 대한 전적인 책임이 있다. 정부품질관리가       │\n│제품의 결함 또는 계약 요구사항 불만족에 대한 매도인의 책임을 면제하지 않는다.                               │\n│                                                                                                            │\n│The Contractor is solely responsible for the quality of the Commodity it provides to the DAPA.              │\n│GQA does not relieve the Contractor of responsibility for defects or other failures to meet                 │\n│contract requirements.                                                                                      │\n└──────────────────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092529",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825623",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092525",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825619",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092529",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825623",
           "name": "",
           "file_store_url": ""
         }
@@ -3929,17 +3940,17 @@
       "content": "【별지 제18호】\n작업기술서 정부 품질관리 관련 업체 품질보증 계획 내용 (예시)\n┌──────────────────────────────────────────────────────┐\n│계약상대자는 (ISO 9001:2008, AQAP 2110:2009, ... ) 요구사항에 만족하는 품질경영시스템을 적용하여 사업의     │\n│모든 품질보증 / 품질관리 요소를 관리해야 한다.                                                              │\n│                                                                                                            │\n│The Contractor shall apply a quality management system in accordance with the requirements of               │\n│(ISO9001:2008, AQAP2110:2009, ... ) and and/or with its standard procedures, to manage all Quality          │\n│Assurance / Quality Control aspects of the program.                                                         │\n│                                                                                                            │\n│계약상대자는 계약 물품에 대한 효과적인 품질관리를 유지할 책임, 계약 품질요구사항에 완전히 부합되는 물       │\n│품라는 것을 증빙하는데 필요한 검사의 수행 및 시험설비를 갖추어야 할 책임 및 수락 전 관리와 검사가 유효      │\n│함을 나타내는 객관적 증거를 제시할 책임이 있다.                                                             │\n│                                                                                                            │\n│The Contractor shall be responsible for maintaining effective control of the quality of Commodity, for      │\n│the provision of test facilities and the performance of inspections essential to demonstrate the full       │\n│conformance of the Commodity to contract quality requirements and for the provision of objective            │\n│evidence that controls and inspections are effective prior to offering the Commodity for acceptance.        │\n│                                                                                                            │\n│정부품질관리 대표자는 계약물품에 대한 정부품질관리 활동 수행 권한이 있다.                                   │\n│                                                                                                            │\n│A Government Quality Assurance Representative (GQAR) shall have the right to perform Quality                │\n│Assurance activities on the contracted products.                                                            │\n│                                                                                                            │\n│계약상대자 및 계약상대자의 하도급업체는 정부품질관리 활동이 안전하고 용이하게 이루어질 수 있도록 계약금     │\n│액 인상없이 합리적인 선에서 모든 시설과 지원을 제공하여야 한다.                                             │\n│                                                                                                            │\n│The contractor shall furnish and shall require subcontractors to furnish, at no increase in contract price, │\n│all reasonable facilities and assistance for the safe and convenient performance of GQA activities.         │\n│                                                                                                            │\n│정부품질관리 대표자는 정부품질관리 활동 수행을 위한 다음의 권한을 갖는다.                                   │\n│                                                                                                            │\n│The GQAR shall have the following rights for the performance of GQA activities.                             │\n│                                                                                                            │\n│계약된 활동이 이루어지는 계약당사자 및 하도급업체 시설 출입 권한                                            │\n│계약당사자 및 하도급업체의 검사 시스템 평가 및 승인 권한                                                    │\n│제품 수락 전 제조 과정을 포함한 모든 시점에 모든 장소에서 제품 검사 및 시험 권한                            │\n│부적합품에 대한 불합격 처리 또는 시정을 요구할 권한                                                         │\n│제품의 규격만족 여부 확인을 위한 계약당사자 및 하도급업체의 문서 열람 권한                                  │\n│                                                                                                            │\n│The right of access to facilities of the Contractor and sub-contractors where parts of the contracted       │\n│activities are being performed.                                                                             │\n│The right of evaluate and accept/reject the Contractor and sub-contractors’ inspection system              │\n│The right to inspect and test all supplies called for by the contract, to the extent practicable, at all    │\n│places and times, including the period of manufacture, and in any event before acceptance.                  │\n│The right to reject or to require correction of non-conforming products                                     │\n│The right of access to the necessary Contractor and sub-contractors’ documentation, to confirm             │\n│product conformance to specification.                                                                       │\n└──────────────────────────────────────────────────────┘\n┌─────────────────────────────────────────────────────┐\n│계약상대자는 정부품질보증 대표자의 정부품질보증 활동 수행과 관련하여 다음의 책임을 이행해야 한다.         │\n│                                                                                                          │\n│The Contractor shall fulfill the follwing responsibilities regarding the performance of GQA activities by │\n│the GQAR.                                                                                                 │\n│                                                                                                          │\n│정부가 요구한 부적합 사항 시정                                                                            │\n│정부의 제품 검사 및 시험에 필요한 지원                                                                    │\n│정부품질보증 수행을 위해 필요한 장비 사용 지원                                                            │\n│이러한 장비의 작동을 위한 업체 또는 협력업체 직원 지원                                                    │\n│전자파일을 포함한 필요 문서 사본 제공                                                                     │\n│                                                                                                          │\n│To correct nonconformance rejected by GQAR                                                                │\n│To provide all reasonable facilities and assistance for the safe and convenient performance of            │\n│Government inspection and test                                                                            │\n│To provide the reasonable use of necessary equipment for performing GQA.                                  │\n│To provide Contractor and sub-contractors‘ personnel for operation of such equipment as required.        │\n│To provide copies of necessary documents, including those on electronic media.                            │\n│                                                                                                          │\n│계약업체는 정부품질보증 대표자가 보다 효과적이고 효율적으로 정부품질보증 계획을 수립할 수 있도록          │\n│정부품질보증 대표자가 요청시 아래 문서를 제출해야 한다.                                                   │\n│                                                                                                          │\n│The Contractor shall provide the GQAR the copies of necessary documents below at minimum, if              │\n│requested, for GQAR to establish GQA Plan and conduct GQA activities in a more effective and              │\n│efficient manner.                                                                                         │\n│                                                                                                          │\n│작업구조도 (WBS)                                                                                          │\n│제조, 교정 및 검사 공정을 포함한 공장공정목록 (공정별 자작/외주 구분 포함)                                │\n│위험식별 및 평가를 위한 각 제조공정별 부적합사항 이력                                                     │\n│제조 공정도 및 작업지시서 목록                                                                            │\n│사업관리계획 (예. 시험평가계획, 소프트웨어 품질계획 등)                                                   │\n│                                                                                                          │\n│WBS (Work Based Structure)                                                                                │\n│Facility Process List, which includes sub-sets of manufacturing, calibration, and inspection processes    │\n│along with whether each of them is conducted in-house or sub-contracted                                   │\n│List(history) of Nonconformance of each manufacturing process for risk identification and                 │\n│assessment                                                                                                │\n│Flow Diagram of Manufacturing Process and List of Work Standards                                          │\n│Project Management Plans (eg. Test and Evaluation Plan, Software Quality Plan, etc.)                      │\n│                                                                                                          │\n│정부품질보증 대표자는 필요시 FAT에 입회할 권한을 갖는다.                                                  │\n│GQAR shall have right to witness FAT, if necessary.                                                       │\n│                                                                                                          │\n│제품 인도시 또는 제품 인도 이후, 계약당사자가 공급한 제품에 결함이 발견된 경우, 계약당사자는 정부품질보   │\n│증 대표자에게 결함원인 분석결과, 시정조치내용 및 결과, 재발방지대책 및 모든 관련 문서를 제출해야 한다.    │\n│필요시 정부품질보증 대표자는 계약당사자의 원인분석 및 시정조치 활동에 입회할 권한이 있다.                 │\n│                                                                                                          │\n│In the event that defects in a product supplied by the Contractor are discovered on or subsequent to      │\n│the delivery of a product, the Contractor shall submit to GQAR the report of root-cause analysis of the   │\n│nonconformity, correction action and its result, preventive action plan, and all the relevant documents.  │\n│GQAR shall have the right to witness the Contractor‘s root cause analysis and corrective action          │\n│activities, if necessary.                                                                                 │\n└─────────────────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092537",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825631",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092531",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825625",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092537",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825631",
           "name": "",
           "file_store_url": ""
         }
@@ -3960,17 +3971,17 @@
       "content": "【별지 제19호】\n국제 품질보증 요청서\n┌─────────────────────────────────────────────────────┐\n│Request for Government Quality Assurance (RGQA)                                                           │\n├──────────────┬────────┬──────────────────┬──────────┤\n│1. Government Contract No:  │                │2. Supplier:                        │                    │\n├──────────────┼────────┼──────────────────┼──────────┤\n│3. Contract Modification No:│                │4. Subcontract No:                  │                    │\n├──────────────┼────────┼──────────────────┼──────────┤\n│5. Estimated Contract Final │                │6. Mailing Address of               │                    │\n│Delivery Date               │                │Supplier:                           │                    │\n├──────────────┼────────┼──────────────────┼──────────┤\n│                            │                │                                    │                    │\n├──────────────┴────────┴──────────────────┴──────────┤\n│7. Contractual Quality Assurance Requirements / Standards:                                                │\n├─────────────────────────────────────────────────────┤\n│                                                                                                          │\n├─────────────────────────────────────────────────────┤\n│8. Product / Supplies Descriptions (Include reference to Essential Items if applicable):                  │\n├─────────────────────────────────────────────────────┤\n│                                                                                                          │\n├─────────────────────────────────────────────────────┤\n│Requester Requirements:                                                                                   │\n├───────────────────────────────────────────────────┬─┤\n│9. Provide information copy of GQA Plan:                                                              │□│\n│Note: Requesting a copy of the plan should not be a common occurrence on routine                      │  │\n│RGQAs. Where major programs or higher risks are involved, it may be appropriate to                    │  │\n│request a copy of the plan.                                                                           │  │\n├──────────────────────────┬────────────────────────┼─┤\n│10. GQAR is requested to sign the Statement of      │For partial shipments:                          │□│\n│GQA on the CoC:                                     ├────────────────────────┼─┤\n│                                                    │and final shipments:                            │□│\n├──────────────────────────┼────────────────────────┼─┤\n│11. Product Release Special instructions related to │                                                │□│\n│product release (if CoC is not used):               │                                                │  │\n├──────────────────────────┴────────────────────────┴─┤\n│Deviation Permits/Concessions                                                                             │\n├─────────────────────────────────────────┬─────────┬─┤\n│12. GQAR is authorised to concur or non-concur with classification/disposition of │System Approach   │□│\n│Supplier’s minor deviation permits and/or concessions.                           ├─────────┼─┤\n│                                                                                  │Case By Case      │□│\n├─────────────────────────────────────────┴─────────┼─┤\n│13. GQAR is requested to provide comments and/or recommendations for major deviation permits and/or   │□│\n│concessions submitted by the Supplier for approval by the Acquirer Provide contractual reference and  │  │\n│instructions as necessary.                                                                            │  │\n├───────────────────────────────────────────────────┴─┤\n│Reporting                                                                                                 │\n├──────────────────────┬───┬────────────────────────┬─┤\n│14. Report risk status on an ongoing basis: │□    │16. Copies of Quality Deficiency Reports        │□│\n├──────────────────────┼───┤issued to the Supplier or Sub-supplier are      │  │\n│15. At RGQA Completion:                     │□    │requested:                                      │  │\n├──────────────────────┴───┼────────────────────────┼─┤\n│Other reporting, please Specify:                    │                                                │□│\n├──────────────────────────┴────────────────────────┴─┤\n│17. Other Requirements:                                                                                   │\n├────────────────────────┬────────────────────────────┤\n│18. Requester Signature :                       │19. Date :                                              │\n├────────────────────────┴────────────────────────────┤\n│Attachments:                                                                                              │\n├─────────────────────────────────────────────────────┤\n│1. Copies of the Contract / Subcontract / Purchase Order to be Subjected to GQA                           │\n├─────────────────────────────────────────────────────┤\n│2. Technical Data Specifications and Quality Assurance Standards                                          │\n├─────────────────────────────────────────────────────┤\n│3. Risk Identification, Assessment and Communication (RIAC)                                               │\n├─────────────────────────────────────────────────────┤\n│4. Other Attachments or Forms (Specify):                                                                  │\n└─────────────────────────────────────────────────────┘\n┌───────────────────────────────────────────┐\n│ ※ 작성요령                                                                          │\n│1 정부 계약번호 : 상대국 업체(또는 한국 업체)와 한국 정부간의 계약번호 기입           │\n│2. 공급자 : 제품을 제공하는 상대국의 업체 기입                                        │\n│3. 수정 계약번호 : 상대국 업체(또는 한국 업체)와 한국 정부간의 수정 계약번호 기입     │\n│4. 하도급 계약번호 : 상대국 업체와 한국 업체간의 계약번호 기입                        │\n│5. 계약 최종 납기예상일 : 상대국 업체와 한국 업체 또는 한국 정부간의 계약             │\n│    최종 납기일 기입                                                                  │\n│6. 공급자 주소 : 제품을 제공하는 상대국의 업체 주소 기입                              │\n│7. 계약상의 품질보증 요구사항/표준 : 상대국 업체와 한국 업체 또는 한국정부간          │\n│    계약서상의 품질보증 요구사항 기입                                                 │\n│8. 제품/공급품 세부사항(해당되는 경우 필수적인 항목에 대한 언급) : 상대국             │\n│    업체와 한국 업체 또는 한국정부간 계약서의 제품/공급품 기입                        │\n│9. 정부품질관리 계획서를 제공 여부 : 계획서를 요구하는 것은 보통 정부품질관리 요청    │\n│에 있어 일반적인 것은 아니며, 주요 프로그램 혹은 상당한 위험이 있을 때, 계획서        │\n│요청란에 “?” 표기                                                                  │\n│10. 정부품질관리원이 품질확인서 상의 정부품질관리 진술에 서명 요청됨 : 부분선적일     │\n│경우도 적용되면 부분선적 란에 “?” 표기하고 최종선적일 경우에 적용되면 최종선적     │\n│란에 “?” 표기                                                                      │\n│11. 제품인도와 관련된 특별 지시 : 품질확인서가 이용되지 않을 경우 “?” 표기         │\n│12. 정부품질관리원이 공급자의 작은 규격완화 및 특채의 분류 및 처리에 동의하거나 동    │\n│의하지 않을 권한을 위임 받는다 : 체계별 접근이면 체계별 접근란에 “?” 표기하고      │\n│사례별 접근이면 사례별 접근란에 “?” 표기                                           │\n│13. 정부품질관리원은 획득자의 승인을 받기 위해 공급자가 제출한 중대한 규제 완화 및    │\n│특채에 대한 의견 및 권고사항을 요청 받으며, 필요시 계약상의 참고문 또는  설명서       │\n│제공 : 이에 해당하면 표기란에 “?” 표기                                             │\n│14. 진행 중인 위험 상태 보고 요청 시 해당란에 “?” 표기                             │\n│15. 정부품질관리 완료 보고 요청 시 해당란에 “?” 표기                               │\n│16. 공급자 혹은 하도급 공급자에게 품질결함보고서 발행 요청될 시 해당란에 “?” 표기  │\n│17 기타 요구사항 : 완제품 품질확인 이외에 특별한 요구조건(공정감사, 시스템 감사, 시정 │\n│조치, 결함원인 분석 등)이 있을 경우 기입                                              │\n│18. 서명 : 요청자 사인 (전자문서로 전송할 경우 생략가능)                              │\n│19. 날짜 : 요청서 전송 날짜 기입                                                      │\n│□ 첨부자료                                                                           │\n│1. 계약서/하도급 계약서                                                               │\n│2. 기술 자료, 규격서                                                                  │\n│3. 위험식별, 평가 및 의견교환서                                                       │\n│4. 기타 첨부물 혹은 양식                                                              │\n└───────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092545",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825639",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092539",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825633",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092545",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825639",
           "name": "",
           "file_store_url": ""
         }
@@ -3991,17 +4002,17 @@
       "content": "【별지 제20호】\n정기 부대방문 계획서(○○년도)\n1. 개요\n2. 대상품목\n┌───┬┬────┬┒\n│장비명││재고번호│┃\n├───┼┼────┼┨\n│업체명││방문기간│┃\n┕━━━┷┷━━━━┷┛\n3. 방문목적/협조사항\n┌──┬───┬──────────┒\n│일자│부대명│방문목적 / 협조사항 ┃\n├──┼───┼──────────┨\n│    │      │                    ┃\n┕━━┷━━━┷━━━━━━━━━━┛\n4. 방문인원 인적사항\n┌──────┬───┬────┬──┬─────┒\n│기관/업체명 │성명  │생년월일│주소│기관/업체 ┃\n│(소속)      │(직급)│        │    │전화번호  ┃\n├──────┼───┼────┼──┼─────┨\n│            │      │        │    │          ┃\n┕━━━━━━┷━━━┷━━━━┷━━┷━━━━━┛\n※ 작성요령\n1. 관련 부대에 협조가 가능하도록 내용 재구성 가능\n단, 방문인원 명단은 반드시 기록\n2. 부대 협조사항 : \"정비대대 장비 집결\", \"A/S 주요부품 사전 통보\",\n\"점검 및 정비 운용교육 준비\" 등으로 기입",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092551",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825645",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092547",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825641",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092551",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825645",
           "name": "",
           "file_store_url": ""
         }
@@ -4022,17 +4033,17 @@
       "content": "【별지 제21호】\n위조(의심) 부품 식별/검증 업무절차도\n┌────────────┐  ┌───────────────────┐  ┌───────────┐\n│계약업체(공급자)        │  │국방기술품질원                        │  │방위사업청            │\n└────────────┘  └───────────────────┘  └───────────┘\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n┌────────────┐  ┌────────┬──────────┐\n│위조(의심) 부품         │→│업체품질보증    │┌────────┐│\n│관리방안 수립 등        │  │계획서 검토/접수││업체품질보증    ││\n│업체품질보증계획 작성   │  │                ││계획서 검토/접수││\n├────────────┤  ├────────┤└────────┘│\n│위조(의심) 부품         │→│위조(의심) 부품 │                    │\n│발견/수집 및 자진신고   │  │신고서 접수     │                    │\n└────────────┘  └────────┴──────────┘\n?\n┌────────────┐  ┌───────────────────┐  ┌───────────┐\n│위조(의심) 부품         │←│실태 파악 및 검증                     │←│검토 지원             │\n│분리보관 / 시료확보     │  │계획 수립                             │  │(실무검토회의 등)     │\n└────────────┘  └───────────────────┘  └───────────┘\n?\n┌───────────────────┐\n│관련 계약사항, 기술자료 내용 확인     │\n└───────────────────┘\n?\n┌───────────────────┐\n│위조(의심)부품                        │\n│검증 및                               │\n│위조 여부 확인                        │\n│비교군 정보 검토/획득                 │\n│(상용S/W, 원제작사)                   │\n│                                      │\n│↓                                    │\n│검증 방법 수립                        │\n│                                      │\n│↓                                    │\n│검증(직접/제3자)                      │\n│                                      │\n└───────────────────┘\n?\n┌────────────┐  ┌───────────────────┐  ┌───────────┐\n│위조 검증 결과 접수     │←│위조 검증 결과 제출/통보              │→│위조 검증 결과 접수   │\n└────────────┘  └───────────────────┘  └───────────┘\n?\n┌───────────┐\n│관련 부서(기관) 공유  │\n└───────────┘\n?\n┌───────────┐\n│행정처분, 법적처리    │\n└───────────┘\n?\n┌────────────┐  ┌───────────────────┐  ┌───────────┐\n│위조품 격리, 반송(폐기) │←│정보체계 탑재 및 공유,                │←│위조 부품 처리결과 및 │\n│및 위조 식별 강화       │  │예방 대책 수립                        │  │후속조치 사항 통보    │\n│                        │  │(DQMS 등)                             │  │                      │\n└────────────┘  └───────────────────┘  └───────────┘\n\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092557",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825651",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092553",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825647",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092557",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825651",
           "name": "",
           "file_store_url": ""
         }
@@ -4053,17 +4064,17 @@
       "content": "【별지 제22호】\n위조 부품 관리 계획서\n┌──────────────────────────────────┐\n│1. 개요                                                             │\n│  1.1. 목적 및 적용 범위                                            │\n│  1.2. 사업 이력                                                    │\n│  1.3. 장비 개요                                                    │\n│                                                                    │\n│2. 적용 규정 및 문서                                                │\n│3. 위조부품 방지를 위한 관리 계획                                   │\n│ 3.1 위조부품 방지 관리 절차                                        │\n│ 3.2 중점관리부품(위조부품 유입 방지를 위한 관리대상 부품) 선정 기준│\n│                                                                    │\n│4. 중점관리부품 선정                                                │\n│ 4.1. 중점관리부품 대상 식별                                        │\n│ 4.2. 중점관리부품 관리방안                                         │\n│                                                                    │\n│5. 위조(의심)부품 관리 절차                                         │\n│ 5.1  위조(의심) 부품 확인 절차                                     │\n│ 5.3. 위조(의심)부품 발견시 대응 절차                               │\n│ 5.4. 하도급업체 위조(의심)부품 관리 절차                           │\n│                                                                    │\n│  별첨 1. 중점관리부품  목록(4.1절 항목)                            │\n│  별첨 2. 업체 내부 업무 프로세스                                   │\n└──────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092563",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825657",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092559",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825653",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092563",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825657",
           "name": "",
           "file_store_url": ""
         }
@@ -4084,17 +4095,17 @@
       "content": "【별지 제23호】\n위조(의심) 부품 신고 양식\n┌───────────────────────┐\n│┌───────────┬─────────┐│\n││개   요               │고장 유형         ││\n│├─────────┬─┼─────────┤│\n││계약업체/계약번호 │  │□ Not received   ││\n│├─────────┼─┤□ Different kind ││\n││담당자            │  │□ Electrical     ││\n││(전화번호)        │  │□ Processing     ││\n│├─────────┼─┤□ Shortage       ││\n││원 제작사         │  │□ Appearance     ││\n│├─────────┼─┤□ Plating/coating││\n││P/N               │  │□ Packing        ││\n│├─────────┼─┤□ Assembly       ││\n││제품명            │  │□ Etc.           ││\n││(부품명)          │  │                  ││\n│├─────────┼─┤                  ││\n││입고일자          │  │                  ││\n│├─────────┼─┤                  ││\n││입고수량          │  │                  ││\n│├─────────┼─┤                  ││\n││발견 건수         │  │                  ││\n│├─────────┼─┤                  ││\n││S/N               │  │                  ││\n│├─────────┼─┤                  ││\n││발견 일자         │  │                  ││\n│├─────────┼─┤                  ││\n││기타              │  │                  ││\n│├─────────┴─┴─────────┤│\n││식별 현황                                 ││\n│├─────────────────────┤│\n││                                          ││\n│├─────────────────────┤│\n││식별 현황 상세                            ││\n│├─────────────────────┤│\n││사진                                      ││\n││                                          ││\n│└─────────────────────┘│\n│                                              │\n│위 품목에 대한 위조(의심) 현황을 신고합니다.  │\n│20 년   월   일                               │\n│                                              │\n│○○업체 대표이사 ○○○ 서명 또는 직인       │\n│                                              │\n│국방기술품질원장 귀하                         │\n└───────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092569",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825663",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092565",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825659",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168092569",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169825663",
           "name": "",
           "file_store_url": ""
         }
@@ -4110,7 +4121,7 @@
   "attachments": [
     {
       "name": "방위사업 품질관리 규정_전문.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=168087141",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169786417",
       "filename": "방위사업 품질관리 규정_전문.hwpx",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/방위사업 품질관리 규정_전문.hwpx",
@@ -4135,7 +4146,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 15,
+    "addenda_count": 16,
     "appendices_count": 24,
     "attachments_count": 1
   },
