@@ -105,8 +105,14 @@
   "addendum_provision_id": "admrul:통계작성의변경승인(협의)고시(경기도청년세대가족형성통계)#ADDENDUM",
   "amendment_provision_id": "admrul:통계작성의변경승인(협의)고시(경기도청년세대가족형성통계)#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261130"
+  ],
+  "has_future": true,
+  "repeal_scheduled": {
+    "enforcement_date": "20261130",
+    "revision_type": "폐지"
+  },
+  "version_count": 2,
   "git_path": "통계작성의 변경승인(협의) 고시(경기도청년세대가족형성통계)/통계작성의 변경승인(협의) 고시(경기도청년세대가족형성통계).json"
 }
