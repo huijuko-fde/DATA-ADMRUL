@@ -1,25 +1,25 @@
 {
   "law_id": "46410",
-  "mst": "2100000275742",
+  "mst": "2100000285886",
   "law_name": "경찰공무원 인사운영 규칙",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:46410",
-  "promulgation_no": "655",
-  "promulgation_date": "20260311",
-  "enforcement_date": "20260311",
-  "revision_date": "20260311",
+  "promulgation_no": "662",
+  "promulgation_date": "20260930",
+  "enforcement_date": "20260930",
+  "revision_date": "20260930",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "경찰청(인사담당관)",
-    "담당자명": "홍승기",
+    "담당자명": "방준영",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "경찰공무원 인사운영 규칙",
-    "발령일자": "20260311",
+    "발령일자": "20260930",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "02-3150-2131",
     "제개정구분명": "일부개정",
     "소관부처코드": "1320000",
-    "생성일자": "20260316",
+    "생성일자": "20261002",
     "행정규칙ID": "46410",
-    "시행일자": "20260311",
+    "시행일자": "20260930",
     "담당부서기관코드": "1335733",
-    "발령번호": "655",
-    "행정규칙일련번호": "2100000275742",
+    "발령번호": "662",
+    "행정규칙일련번호": "2100000285886",
     "상위부처명": "경찰청"
   },
-  "amendment_text": "⊙경찰청예규 제655호\n경찰공무원 인사운영 규칙 일부를 다음과 같이 개정한다.\n2026년 3월 11일\n경찰청장\n경찰공무원 인사운영 규칙 일부개정예규\n경찰공무원 인사운영 규칙 일부를 다음과 같이 개정한다.\n제18조 제목 외의 부분을 제1항으로 하고, 같은 조 제1항(종전의 제목 외의 부분) 각 호 외의 부분 중 \"다음\"을 \"총경 근무기간 8년 미만이면서 다음\"으로 하며, 같은 조에 제2항을 다음과 같이 신설한다.\n② 복수직급 직위는 승진후보자명부 등재연도와 나이를 고려하여 다음 각 호에 따라 배치한다. 다만, 대상자가 부족하거나 경찰청장이 특별히 필요하다고 인정하는 경우에는 예외로 한다.\n1. 상황팀장: 경찰서장을 2회 이하로 역임한 사람 또는 총경 근무기간이 3년 이하이고 치안정책교육과정을 이수한 사람\n2. 계장 등: 총경 근무기간이 2년(경찰청과 서울특별시경찰청은 3년) 이하인 사람\n제19조제2항제1호 중 \"이상이면서,\"를 \"이상 8년 미만이면서\"로 하고, 같은 조 제7항 본문 중 \"보직할 수 있다\"를 \"보직한다\"로 하며, 같은 항 단서를 삭제한다.\n제50조제1항 각 호 외의 부분 본문 중 \"가급적 대민접점부서\"를 \"대민접점부서\"로 하고, 같은 항 각 호 외의 부분 단서를 삭제하며, 같은 조 제2항 및 제3항을 각각 제3항 및 제4항으로 하고, 같은 조에 제2항을 다음과 같이 신설한다.\n② 제1항에도 불구하고 인력운영상 부득이한 경우에는 다음 각 호의 어느 하나에 해당하는 경우를 제외하고는 전보심사위원회의 심사를 거쳐 대민접점부서에 배치할 수 있다.\n1. 지역경찰관서 : 제1항제2호의 비위로 감봉 이상의 징계처분을 받은 날로부터 3년이 경과되지 않은 사람\n2. 교통외근 : 제1항제3호의 비위로 감봉 이상의 징계처분을 받은 날로부터 3년이 경과되지 않은 사람\n부칙\n이 규칙은 발령한 날부터 시행한다.",
-  "revision_reason": "1. 총경 복수직급 배치기준 확립(안 제18조제2항)\n가. 제ㆍ개정 이유\n○ 복수직급 직위에 대한 배치기준을 명확히 정립하여 인사예측성을 제고하려는 것임\n나. 제ㆍ개정 내용\n○ 복수직급 직위에 직근 상급자보다 고참인 총경이 배치되지 않도록 상황팀장 및 계장 등의 배치기준 마련\n2. 승진청 서장 횟수 제한 개선(안 제19조제7항)\n가. 제ㆍ개정 이유\n○ 제도 도입 취지를 살리면서 합리적 인사운영이 가능하도록 승진청을 포함한 동일청에서 최대 2회까지 서장 배치가 가능하도록 개선하려는 것임\n나. 제ㆍ개정 내용\n○ 승진청에서 서장 근무 횟수를 1회로 제한하는 단서 삭제\n3. 서울권 ‘하향배치’ 기준 명확화(안 제18조제1항, 제19조제2항제1호)\n가. 제ㆍ개정 이유\n○ 그간 자체지침으로 운영하고 이는 하향배치제도를 명시하여 총경급 보직기준을 명확화하고 인사예측성을 제고하려는 것임\n나. 제ㆍ개정 내용\n○ 서울권 총경의  ‘하향배치’ 기준(8년 이상 근무시 서울권 배치 불가)을 명시\n4. 징계자 대민접점부서 배치 개선(안 제50조)\n가. 제ㆍ개정 이유\n○ 주요 징계처분자 대민접점부서 배치 시 부득이한 경우에만 예외적으로 허용하였으나, 예외규정이 일반화 되어 이를 개선하려는 것임\n나. 제ㆍ개정 내용\n○ 대민부서별 업무특성에 따라 성비위, 음주운전 등 특정 비위는 배치를 원천 배제하도록 예외 적용기준을 구체화하고, 예외조항 남용을 방지할 수 있도록 개선",
+  "amendment_text": "",
+  "revision_reason": "1. 유착비리로 인한 징계처분자의 인사교류 명문화(안 제12조 제2항, 제3항)\n◇ 제ㆍ개정 이유\n○ 유착비리로 인한 징계처분자의 전보 근거 마련을 통해 경찰공무원의 지역 유착비리 차단 필요\n◇ 제ㆍ개정 내용\n○ 유착비리로 인해 ‘감봉 이상’의 징계처분 받은 자를 다른 시ㆍ도청으로 전보하는 법적 근거 마련\n2. 변호사 자격을 소지한 경감의 수사부서 전입연차 연장(안 제26조 제2항)\n◇ 제ㆍ개정 이유\n○ 변호사 자격 소지자의 장기근무 유도 및 수사의 질적 향상 도모를 위해 관련 규정을 보완ㆍ정비하려는 것임\n◇ 제ㆍ개정 내용\n○ 변호사 자격을 소지한 경감에 대해 본청ㆍ시도청 수사부서 전입가능 연차를 3년 연장",
   "body": {
     "format": "articles",
     "article_count": 65,
@@ -615,9 +615,210 @@
         "article_title": "징계처분자 인사교류",
         "chapter": "제1절 보직 및 인사교류 일반",
         "chapter_path": "제3장 보직 및 인사교류 > 제1절 보직 및 인사교류 일반",
-        "content": "제12조의2(징계처분자 인사교류) ① 중징계처분을 받은 총경 이하 경찰공무원은 다른 시ㆍ도경찰청으로 인사교류 할 수 있다.② 제1항에 따른 인사교류의 대상, 절차, 원소속 복귀 등 시행에 필요한 세부사항은 별도로 정한다.",
+        "content": "제12조의2(징계처분자 인사교류) ① 중징계처분을 받은 총경 이하 경찰공무원은 다른 시ㆍ도경찰청으로 인사교류 할 수 있다.② 제1항에도 불구하고 다음 각 호의 어느 하나에 해당하는 행위로 감봉 이상의 징계처분을 받은 총경 이하 경찰공무원은 다른 시ㆍ도경찰청으로 인사교류 한다.1. 「부정청탁 및 금품등 수수의 금지에 관한 법률」 제5조제1항 각 호에 해당하는 행위2. 「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」 제2조제4호에 따른 부패행위3. 「공직자의 이해충돌 방지법」 제12조부터 제14조까지를 위반하여 사적 이익을 도모하는 행위4. 그 밖에 제1호부터 제3호까지에 준하는 행위로서 직무관련자(「공직자의 이해충돌 방지법」 제2조제5호에 따른 직무관련자를 말한다.)와 부정한 결탁으로 공직 수행의 공정성을 현저히 저해한 행위③ 제1항 또는 제2항 따른 인사교류의 대상, 절차, 원소속 복귀 등 시행에 필요한 세부사항은 별도로 정한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조의2",
+            "source_clause": "제12조의2제2항",
+            "link_text": "「부정청탁 및 금품등 수수의 금지에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "부정청탁 및 금품등 수수의 금지에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "46410",
+            "target_url": "https://www.law.go.kr/법령/부정청탁 및 금품등 수수의 금지에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:경찰공무원인사운영규칙#JO0012_02",
+            "reference_id": "law:부정청탁및금품등수수의금지에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조의2",
+            "source_clause": "제12조의2제2항",
+            "link_text": "제5조제1항",
+            "line_text": "",
+            "target_law_name": "부정청탁 및 금품등 수수의 금지에 관한 법률",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "46410",
+            "target_url": "https://www.law.go.kr/법령/부정청탁 및 금품등 수수의 금지에 관한 법률/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:경찰공무원인사운영규칙#JO0012_02",
+            "reference_id": "law:부정청탁및금품등수수의금지에관한법률#JO0005",
+            "target_repo": "LAW",
+            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조의2",
+            "source_clause": "제12조의2제2항",
+            "link_text": "「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "46410",
+            "target_url": "https://www.law.go.kr/법령/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:경찰공무원인사운영규칙#JO0012_02",
+            "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조의2",
+            "source_clause": "제12조의2제2항",
+            "link_text": "제2조제4호",
+            "line_text": "",
+            "target_law_name": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "46410",
+            "target_url": "https://www.law.go.kr/법령/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:경찰공무원인사운영규칙#JO0012_02",
+            "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#JO0002",
+            "target_repo": "LAW",
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조의2",
+            "source_clause": "제12조의2제2항",
+            "link_text": "「공직자의 이해충돌 방지법」",
+            "line_text": "",
+            "target_law_name": "공직자의 이해충돌 방지법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "46410",
+            "target_url": "https://www.law.go.kr/법령/공직자의 이해충돌 방지법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:경찰공무원인사운영규칙#JO0012_02",
+            "reference_id": "law:공직자의이해충돌방지법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조의2",
+            "source_clause": "제12조의2제2항",
+            "link_text": "제12조부터 제14조",
+            "line_text": "",
+            "target_law_name": "공직자의 이해충돌 방지법",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "46410",
+            "target_url": "https://www.law.go.kr/법령/공직자의 이해충돌 방지법/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:경찰공무원인사운영규칙#JO0012_02",
+            "reference_id": "law:공직자의이해충돌방지법#JO0012",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조의2",
+            "source_clause": "제12조의2제2항",
+            "link_text": "제12조부터 제14조",
+            "line_text": "",
+            "target_law_name": "공직자의 이해충돌 방지법",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "46410",
+            "target_url": "https://www.law.go.kr/법령/공직자의 이해충돌 방지법/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:경찰공무원인사운영규칙#JO0012_02",
+            "reference_id": "law:공직자의이해충돌방지법#JO0013",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조의2",
+            "source_clause": "제12조의2제2항",
+            "link_text": "제12조부터 제14조",
+            "line_text": "",
+            "target_law_name": "공직자의 이해충돌 방지법",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "46410",
+            "target_url": "https://www.law.go.kr/법령/공직자의 이해충돌 방지법/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:경찰공무원인사운영규칙#JO0012_02",
+            "reference_id": "law:공직자의이해충돌방지법#JO0014",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조의2",
+            "source_clause": "제12조의2제2항",
+            "link_text": "「공직자의 이해충돌 방지법」",
+            "line_text": "",
+            "target_law_name": "공직자의 이해충돌 방지법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "46410",
+            "target_url": "https://www.law.go.kr/법령/공직자의 이해충돌 방지법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:경찰공무원인사운영규칙#JO0012_02",
+            "reference_id": "law:공직자의이해충돌방지법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조의2",
+            "source_clause": "제12조의2제2항",
+            "link_text": "제2조제5호",
+            "line_text": "",
+            "target_law_name": "공직자의 이해충돌 방지법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "46410",
+            "target_url": "https://www.law.go.kr/법령/공직자의 이해충돌 방지법/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:경찰공무원인사운영규칙#JO0012_02",
+            "reference_id": "law:공직자의이해충돌방지법#JO0002",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:경찰공무원인사운영규칙#JO0012_02"
       },
@@ -742,7 +943,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "46410",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275742&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285886&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:경찰공무원인사운영규칙#JO0017",
             "target_unit": "BYL0001",
@@ -759,7 +960,7 @@
         "article_title": "과장등의 보직",
         "chapter": "제2절 총경급 보직 및 인사교류",
         "chapter_path": "제3장 보직 및 인사교류 > 제2절 총경급 보직 및 인사교류",
-        "content": "제18조(과장등의 보직) 경찰청과 서울특별시경찰청의 과장등에는 총경 근무기간 8년 미만이면서 다음 각 호의 어느 하나에 해당하는 사람만 보직할 수 있다.1. 원소속이 서울권인 총경으로서 총경 근무기간 2년 이상인 사람2. 제17조제2항에 따라 인사교류된 사람② 복수직급 직위는 승진후보자명부 등재연도와 나이를 고려하여 다음 각 호에 따라 배치한다. 다만, 대상자가 부족하거나 경찰청장이 특별히 필요하다고 인정하는 경우에는 예외로 한다.1. 상황팀장: 경찰서장을 2회 이하로 역임한 사람 또는 총경 근무기간이 3년 이하이고 치안정책교육과정을 이수한 사람2. 계장 등: 총경 근무기간이 2년(경찰청과 서울특별시경찰청은 3년) 이하인 사람",
+        "content": "제18조(과장등의 보직) ① 경찰청과 서울특별시경찰청의 과장등에는 총경 근무기간 8년 미만이면서 다음 각 호의 어느 하나에 해당하는 사람만 보직할 수 있다.1. 원소속이 서울권인 총경으로서 총경 근무기간 2년 이상인 사람2. 제17조제2항에 따라 인사교류된 사람② 복수직급 직위는 승진후보자명부 등재연도와 나이를 고려하여 다음 각 호에 따라 배치한다. 다만, 대상자가 부족하거나 경찰청장이 특별히 필요하다고 인정하는 경우에는 예외로 한다.1. 상황팀장: 경찰서장을 2회 이하로 역임한 사람 또는 총경 근무기간이 3년 이하이고 치안정책교육과정을 이수한 사람2. 계장 등: 총경 근무기간이 2년(경찰청과 서울특별시경찰청은 3년) 이하인 사람",
         "enforcement_date": "",
         "relations": [
           {
@@ -767,7 +968,7 @@
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제18조",
-            "source_clause": "제18조",
+            "source_clause": "제18조제1항",
             "link_text": "제17조제2항",
             "line_text": "",
             "target_law_name": "경찰공무원 인사운영 규칙",
@@ -1009,7 +1210,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "46410",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275742&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285886&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:경찰공무원인사운영규칙#JO0020",
             "target_unit": "BYL0002",
@@ -1034,7 +1235,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "46410",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162379183",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991509",
             "resolve_method": "html",
             "source_provision_id": "admrul:경찰공무원인사운영규칙#JO0020",
             "target_unit": "BJ0001",
@@ -1229,7 +1430,7 @@
         "article_title": "경찰청 인사교류",
         "chapter": "제4절 경감 이하 보직 및 인사교류",
         "chapter_path": "제3장 보직 및 인사교류 > 제4절 경감 이하 보직 및 인사교류",
-        "content": "제26조(경찰청 인사교류) ① 소속기관에서 경찰청으로의 인사교류는 경감 또는 경위를 대상으로 한다. 다만, 기능별 특성을 고려하여 경사 이하의 인사교류가 불가피한 경우에는 경찰청 국ㆍ관의 요청으로 경사 이하로 할 수 있다.② 제1항에 따라 소속기관에서 경찰청으로 인사교류되는 사람 중 경감ㆍ경위는 4년 이하의 기간에 해당하여야 한다. 이 경우 기간 계산은 제21조제1항 후단을 준용한다. 다만, 필수현장보직 기간이 만료된 경감ㆍ경위는 본문에 따른 기간 계산을 달리 할 수 있다.③ 경찰청 소속 경감 이하 승진후보자(전년도 특별ㆍ근속승진자를 포함한다. 이하 같다)는 서울특별시경찰청으로 인사교류 한다. 다만, 시ㆍ도경찰청의 과ㆍ결원을 고려하여 희망지를 반영할 수 있다.④ 경찰청장은 인사운영상 부득이한 경우 경찰청 소속 경감 이하 승진후보자를 제3항에 따른 인사교류에서 제외할 수 있다.⑤ 제3항에 따른 인사교류를 제외한 경찰청에서 시ㆍ도경찰청으로의 인사교류는 제21조제2항을 준용한다.",
+        "content": "제26조(경찰청 인사교류) ① 소속기관에서 경찰청으로의 인사교류는 경감 또는 경위를 대상으로 한다. 다만, 기능별 특성을 고려하여 경사 이하의 인사교류가 불가피한 경우에는 경찰청 국ㆍ관의 요청으로 경사 이하로 할 수 있다.② 제1항에 따라 소속기관에서 경찰청으로 인사교류되는 사람 중 경감ㆍ경위는 다음 각 호의 기간에 해당하여야 한다. 이 경우 기간 계산은 제21조제1항 후단을 준용한다. 다만, 필수현장보직 기간이 만료된 경감ㆍ경위는 본문에 따른 기간 계산을 달리 할 수 있다.1. 변호사 자격을 소지한 경감: 7년 이하2. 제1호에 해당하지 않는 경감 및 경위: 4년 이하③ 경찰청 소속 경감 이하 승진후보자(전년도 특별ㆍ근속승진자를 포함한다. 이하 같다)는 서울특별시경찰청으로 인사교류 한다. 다만, 시ㆍ도경찰청의 과ㆍ결원을 고려하여 희망지를 반영할 수 있다.④ 경찰청장은 인사운영상 부득이한 경우 경찰청 소속 경감 이하 승진후보자를 제3항에 따른 인사교류에서 제외할 수 있다.⑤ 제3항에 따른 인사교류를 제외한 경찰청에서 시ㆍ도경찰청으로의 인사교류는 제21조제2항을 준용한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1574,7 +1775,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "46410",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275742&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285886&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:경찰공무원인사운영규칙#JO0035",
             "target_unit": "BYL0002",
@@ -1651,7 +1852,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "46410",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162379189",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991515",
             "resolve_method": "html",
             "source_provision_id": "admrul:경찰공무원인사운영규칙#JO0036",
             "target_unit": "BJ0002",
@@ -1780,7 +1981,7 @@
             "appendix_found": false,
             "target_mst": "",
             "source_admrul_seq": "46410",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275742&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285886&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:경찰공무원인사운영규칙#JO0038",
             "target_unit": "BYL0011",
@@ -2286,7 +2487,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "46410",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162379199",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991525",
             "resolve_method": "html",
             "source_provision_id": "admrul:경찰공무원인사운영규칙#JO0056",
             "target_unit": "BJ0003",
@@ -2351,10 +2552,10 @@
       "content": "부칙 <제514호,2016. 8. 1.>제1조(시행일) 이 규칙은 발령한 날부터 시행한다.제2조(다른 규칙의 개정) ① 「지역경찰의 조직 및 운영에 관한 규칙」 일부를 다음과 같이 개정한다.제38조를 삭제한다.② 「과학수사요원 인사운영규칙」 일부를 다음과 같이 개정한다.제4조, 제8조, 제10조, 제11조, 제12조를 삭제한다.",
       "provision_id": "admrul:경찰공무원인사운영규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275742",
+      "source_mst": "2100000285886",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260311"
+      "version_enforcement_date": "20260930"
     },
     {
       "promulgation_date": "20161227",
@@ -2362,10 +2563,10 @@
       "content": "부칙 <제519호,2016. 12. 27.>이 규칙은 발령한 날부터 시행한다.",
       "provision_id": "admrul:경찰공무원인사운영규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275742",
+      "source_mst": "2100000285886",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260311"
+      "version_enforcement_date": "20260930"
     },
     {
       "promulgation_date": "20170613",
@@ -2373,10 +2574,10 @@
       "content": "부칙 <제525호,2017. 6. 13.>이 규칙은 발령한 날부터 시행한다.",
       "provision_id": "admrul:경찰공무원인사운영규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275742",
+      "source_mst": "2100000285886",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260311"
+      "version_enforcement_date": "20260930"
     },
     {
       "promulgation_date": "20181123",
@@ -2384,10 +2585,10 @@
       "content": "부칙 <제543호,2018. 11. 23.>이 규칙은 발령한 날부터 시행한다.",
       "provision_id": "admrul:경찰공무원인사운영규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275742",
+      "source_mst": "2100000285886",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260311"
+      "version_enforcement_date": "20260930"
     },
     {
       "promulgation_date": "20190926",
@@ -2395,10 +2596,10 @@
       "content": "부칙 <제557호,2019. 9. 26.>이 규칙은 발령한 날부터 시행한다.",
       "provision_id": "admrul:경찰공무원인사운영규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275742",
+      "source_mst": "2100000285886",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260311"
+      "version_enforcement_date": "20260930"
     },
     {
       "promulgation_date": "20191114",
@@ -2406,10 +2607,10 @@
       "content": "부칙 <제559호,2019. 11. 14.>제1조(시행일) 이 규칙은 공포한 날부터 시행한다.제2조(부적격자 배제에 관한 적용례) 제50조 및 제50조의2의 개정규정은 이 규칙이 시행된 이후 전보의 대상이 된 경우부터 적용한다.",
       "provision_id": "admrul:경찰공무원인사운영규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275742",
+      "source_mst": "2100000285886",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260311"
+      "version_enforcement_date": "20260930"
     },
     {
       "promulgation_date": "20200910",
@@ -2417,10 +2618,10 @@
       "content": "부칙 <제567호,2020. 9. 10.>이 예규는 발령한 날부터 시행한다.",
       "provision_id": "admrul:경찰공무원인사운영규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275742",
+      "source_mst": "2100000285886",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260311"
+      "version_enforcement_date": "20260930"
     },
     {
       "promulgation_date": "20211123",
@@ -2428,10 +2629,10 @@
       "content": "부칙 <제1042호, 2021. 11. 23.>이 예규는 발령한 날부터 시행한다.",
       "provision_id": "admrul:경찰공무원인사운영규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275742",
+      "source_mst": "2100000285886",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260311"
+      "version_enforcement_date": "20260930"
     },
     {
       "promulgation_date": "20220225",
@@ -2439,10 +2640,10 @@
       "content": "부칙 (안보경찰 인사운영규칙)<제599호, 2022. 2. 25.>제1조(시행일) 이 규칙은 발령한 날부터 시행한다.제2조 생략제3조(다른 규칙의 개정) ① 및 ② 생략③ 경찰공무원 인사운영 규칙 일부를 다음과 같이 개정한다.제32조제1항제1호나목 중 \"정보, 보안\"을 \"정보, 안보\"로 한다.④부터 ⑩까지 생략",
       "provision_id": "admrul:경찰공무원인사운영규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275742",
+      "source_mst": "2100000285886",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260311"
+      "version_enforcement_date": "20260930"
     },
     {
       "promulgation_date": "20220503",
@@ -2450,10 +2651,10 @@
       "content": "부칙 <제600호, 2022. 5. 3.>이 규칙은 발령한 날부터 시행한다.",
       "provision_id": "admrul:경찰공무원인사운영규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275742",
+      "source_mst": "2100000285886",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260311"
+      "version_enforcement_date": "20260930"
     },
     {
       "promulgation_date": "20230818",
@@ -2461,10 +2662,10 @@
       "content": "부칙 <제615호, 2023. 8. 18.>제1조(시행일) 이 규칙은 발령한 날부터 시행한다.제2조(필수현장보직 기간에 관한 경과조치) 제32조제3항의 개정규정은 이 규칙 시행 당시 근무 중인 필수현장보직자에게도 적용한다.",
       "provision_id": "admrul:경찰공무원인사운영규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275742",
+      "source_mst": "2100000285886",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260311"
+      "version_enforcement_date": "20260930"
     },
     {
       "promulgation_date": "20240516",
@@ -2472,10 +2673,10 @@
       "content": "부칙 <제627호, 2024. 5. 16.>제1조(시행일) 이 규칙은 발령한 날부터 시행한다.",
       "provision_id": "admrul:경찰공무원인사운영규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275742",
+      "source_mst": "2100000285886",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260311"
+      "version_enforcement_date": "20260930"
     },
     {
       "promulgation_date": "20240711",
@@ -2483,10 +2684,10 @@
       "content": "부칙 <제632호, 2024. 7. 11.>이 예규는 발령한 날부터 시행한다.",
       "provision_id": "admrul:경찰공무원인사운영규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275742",
+      "source_mst": "2100000285886",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260311"
+      "version_enforcement_date": "20260930"
     },
     {
       "promulgation_date": "20241018",
@@ -2494,10 +2695,10 @@
       "content": "부칙 <제634호, 2024. 10. 18.>이 예규는 발령한 날부터 시행한다.",
       "provision_id": "admrul:경찰공무원인사운영규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275742",
+      "source_mst": "2100000285886",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260311"
+      "version_enforcement_date": "20260930"
     },
     {
       "promulgation_date": "20250721",
@@ -2505,10 +2706,10 @@
       "content": "부칙 <제641호, 2025. 7. 21.>이 예규는 발령한 날부터 시행한다.",
       "provision_id": "admrul:경찰공무원인사운영규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275742",
+      "source_mst": "2100000285886",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260311"
+      "version_enforcement_date": "20260930"
     },
     {
       "promulgation_date": "20251231",
@@ -2516,10 +2717,10 @@
       "content": "부칙 <제654호, 2025. 12. 31.>이 예규는 발령한 날부터 시행한다.",
       "provision_id": "admrul:경찰공무원인사운영규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275742",
+      "source_mst": "2100000285886",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260311"
+      "version_enforcement_date": "20260930"
     },
     {
       "promulgation_date": "20260311",
@@ -2527,10 +2728,21 @@
       "content": "부칙 <제655호, 2026. 3. 11.>이 규칙은 발령한 날부터 시행한다.",
       "provision_id": "admrul:경찰공무원인사운영규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275742",
+      "source_mst": "2100000285886",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260311"
+      "version_enforcement_date": "20260930"
+    },
+    {
+      "promulgation_date": "20260930",
+      "promulgation_no": "662",
+      "content": "부칙 <제662호, 2026. 9. 30.>이 규칙은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:경찰공무원인사운영규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285886",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260930"
     }
   ],
   "appendices": [
@@ -2542,18 +2754,18 @@
       "enforcement_date": "",
       "content": "[별표1]\n인사 권역(제17조관련)\n┏━━━━┳━━━━━━━━━━━┯━━━━━━━━━━━┯━━━━━━━━┯━━━━━━━━━━━━━━┯━━━┓\n┃인사    ┃중부권                │충청권                │전라권          │경상권                      │제주권┃\n┃권역    ┣━━┯━━┯━━┯━━┿━━┯━━┯━━┯━━┿━━┯━━┯━━┿━━┯━━┯━━┯━━┯━━┿━━━┫\n┃        ┃인천│경기│경기│강원│대전│세종│충북│충남│광주│전북│전남│부산│대구│울산│경북│경남│제주  ┃\n┃        ┃    │남부│북부│    │    │    │    │    │    │    │    │    │    │    │    │    │      ┃\n┣━━━━╋━━┿━━┿━━┿━━┿━━┿━━┿━━┿━━┿━━┿━━┿━━┿━━┿━━┿━━┿━━┿━━┿━━━┫\n┃지원가능┃인천│인천│인천│인천│대전│대전│대전│인천│광주│광주│광주│부산│부산│부산│부산│부산│전국  ┃\n┃시·도  ┃세종│세종│경기│경기│세종│세종│세종│대전│충북│세종│전북│대구│대구│대구│대구│대구│      ┃\n┃경찰청  ┃경기│경기│남부│남부│충북│충북│강원│세종│충남│충북│전남│울산│울산│울산│울산│울산│      ┃\n┃        ┃남부│남부│경기│경기│충남│충남│충북│충북│전북│충남│경북│경북│경북│경북│강원│전남│      ┃\n┃        ┃경기│경기│북부│북부│제주│전북│충남│충남│전남│전북│경남│경남│경남│경남│충북│경북│      ┃\n┃        ┃북부│북부│강원│강원│    │제주│전북│전북│경북│전남│제주│제주│제주│제주│경북│경남│      ┃\n┃        ┃강원│강원│제주│충북│    │    │경북│제주│경남│경북│    │    │    │    │경남│제주│      ┃\n┃        ┃충남│충북│    │경북│    │    │제주│    │제주│경남│    │    │    │    │제주│    │      ┃\n┃        ┃제주│충남│    │제주│    │    │    │    │    │제주│    │    │    │    │    │    │      ┃\n┃        ┃    │제주│    │    │    │    │    │    │    │    │    │    │    │    │    │    │      ┃\n┗━━━━┻━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━━┛",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275742&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162379051",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285886&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991497",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162379047",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991493",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162379051",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991497",
           "name": "",
           "file_store_url": ""
         }
@@ -2573,18 +2785,18 @@
       "enforcement_date": "",
       "content": "[별표2]\n원거리 기준(제20조관련)\n┏━┳━━┯━━┯━━┯━━┯━━┯━━┯━━┯━━┯━━┯━━┯━━┯━━┯━━┯━━┯━━┯━━┓\n┃순┃1   │2   │3   │4   │5   │6   │7   │8   │9   │10  │11  │12  │13  │14  │15  │16  ┃\n┃위┃    │    │    │    │    │    │    │    │    │    │    │    │    │    │    │    ┃\n┣━╋━━┿━━┿━━┿━━┿━━┿━━┿━━┿━━┿━━┿━━┿━━┿━━┿━━┿━━┿━━┿━━┫\n┃지┃제주│전남│경남│울산│부산│광주│경북│전북│대구│충남│충북│강원│대전│세종│인천│경기┃\n┃역┃    │    │    │    │    │    │    │    │    │    │    │    │    │    │    │    ┃\n┗━┻━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━┛",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275742&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162379057",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285886&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991503",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162379053",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991499",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162379057",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991503",
           "name": "",
           "file_store_url": ""
         }
@@ -2605,17 +2817,17 @@
       "content": "[별지 제1호서식]\n복귀내신서\n┏━━━━┯━━━━━━━━━━━━━━━━━┓\n┃현 소속 │                                  ┃\n┠────┼┬───┬────────────┨\n┃계  급  ││성  명│                        ┃\n┠────┼┴───┴────────────┨\n┃원소속  │                                  ┃\n┠────┼─────────────────┨\n┃사  유  │                                  ┃\n┠────┴─────────────────┨\n┃위와 같이 복귀를 (희망, 유보, 포기)합니다.  ┃\n┃                                            ┃\n┃20   .   .   .                              ┃\n┃                                            ┃\n┃           작 성 자        (인)             ┃\n┃                                            ┃\n┃                           경 찰 청 장  귀하┃\n┗━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162379183",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991509",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162379179",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991505",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162379183",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991509",
           "name": "",
           "file_store_url": ""
         }
@@ -2636,17 +2848,17 @@
       "content": "[별지 제2호서식]\n직무수행요건표(예시)\n(제36조제2항 관련)\n가. 직위관련 기본사항\n┌───────────────────────────┐\n│  ○ 소속부서: 00국 00과,           ○직위명 : 00담당 │\n│  ○ 보직가능계급: 경정, 경감 이하                    │\n│  ○ 주요직무내용                                     │\n│    -                          -                      │\n│    -                          -                      │\n└───────────────────────────┘\n나. 직무수행요건\n┌───────────────────────────────┐\n│                                                              │\n│<필수요건>                                                    │\n│○ 경력기준:                                                  │\n│○ 전공분야:                                                  │\n│○ 자격증 또는 교육훈련기준:                                  │\n│○ 외국어 기준:                                               │\n│○ 기타 요건:  00법의 유권해석 능력, 00제도에 대한 이해능력,  │\n│              00단체와의 협상교류능력, 기획능력, 리더십,      │\n│              00을 …하게 처리해본 경험이 있는 사람 등        │\n│<우대요건>                                                    │\n│                                                              │\n│                                                              │\n│                                                              │\n│                                                              │\n│                                                              │\n│                                                              │\n└───────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162379189",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991515",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162379185",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991511",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162379189",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991515",
           "name": "",
           "file_store_url": ""
         }
@@ -2667,17 +2879,17 @@
       "content": "\n[별지 제3호서식]\n\n경찰공무원 인사기록(출력서식)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃ 성  명 :                   한  자 :                      영  문 :                    ┃\n┃ 주민등록번호 :                                                                       ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n┌───────┐\n│사진(반명함판)│    소  속 :                                재직상태 :\n│              │    직  위 :         (임용일)                경  과 :         (임용일)\n│              │    직  급 :         (임용일)                계  급 :         (임용일)\n│              │    채용경로 :            호  봉 :           임  용 :\n│              │    연락처 : (유선)           (휴대전화)           (이메일)\n└───────┘\n\n\n가. 요  약\n\n\n┌──────┬────────────────────────────────────┐\n│신   상     │ 출생                      주소                      전화               │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│학   력     │ 학업기간            학력구분                                           │\n│            │ 전공학과            학위                                               │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│전문분야    │ 주특기분야                        부특기분야                           │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│주요 경력   │ 재직기간            직위            직급            근무처             │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│승진임용일  │ 일자                            계급                                   │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│평가결과    │ 평가등급                       성과급 등급             (최근 3년)      │\n│            │ * 인사담당자 제공용                                                    │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│국내훈련    │ 훈련기간           훈련명           훈련기관           훈련성적        │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│국외훈련    │ 훈련기간           훈련명           훈련국가           훈련기관        │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│포상ㆍ서    │ 포상일            포상훈격            포상명            시행기관       │\n│훈          │                                                                        │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│장려장      │ 수여일            장려장훈격          장려장명          시행기관       │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│징계ㆍ형    │ 처분일         징계ㆍ형벌 종류         처분기관         비고           │\n│벌          │                                                                        │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│외국어 능력 │ 외국어 종류                    취득 점수                               │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│자격증      │ 취득일                   자격증명                   취득기관           │\n└──────┴────────────────────────────────────┘\n나. 인적사항\n\n\n┌──────┬────────────────────────────────────┐\n│신   상     │ 주소                                                                   │\n│            │ 국적            복수국적 여부            대한민국 외 국적소재지        │\n│            │ 장애                               보훈                                │\n│            │ 결혼일                                                                 │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│학   력     │ 학업기간            학력구분                                           │\n│            │ 전공학과            학위                                               │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│가   족     │ 관계            성명            주민등록번호            연령           │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│병   역     │ 복무기간   역종   군별   병과   계급   군번   제대구분   미필자체격등위│\n└──────┴────────────────────────────────────┘\n\n\n다. 임용사항\n\n\n┌──────┬────────────────────────────────────┐\n│근무경력    │ 임용일        임용구분        직급        부서 및 직위        발령청   │\n└──────┴────────────────────────────────────┘\n\n\n라. 임용 전 경력ㆍ시험 및 임면사항\n\n\n┌──────┬────────────────────────────────────┐\n│임용 전     │ 기간                   근무처                   직위                   │\n│경  력      │                                                                        │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│임용시험    │ 일자         구분             직급        시행청        비고           │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│임  면      │ 일자         임면구분         직급         부서         발령청         │\n└──────┴────────────────────────────────────┘\n\n\n마. 포상ㆍ장려?징계사항\n\n\n┌──────┬────────────────────────────────────┐\n│포상ㆍ서    │ 포상일            포상훈격            포상명            시행기관       │\n│훈          │                                                                        │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│장려장      │ 수여일            장려장훈격          장려장명          시행기관       │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│징계ㆍ형    │ 처분일         징계ㆍ형벌 종류         처분기관         비고           │\n│벌          │                                                                        │\n└──────┴────────────────────────────────────┘\n\n\n바. 역량개발사항\n\n\n┌──────┬────────────────────────────────────┐\n│국내훈련    │ 훈련기간           훈련명           훈련기관           훈련성적        │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│국외훈련    │ 훈련기간           훈련명           훈련국가           훈련기관        │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│국외출장    │ 출장기간                   출장명                   방문국가           │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│외국어 능력 │ 외국어 종류                    능력 정도                               │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│자격증      │ 취득일                   자격증명                   취득기관           │\n└──────┴────────────────────────────────────┘\n\n┌──────┬────────────────────────────────────┐\n│기타        │ (전문특기분야) 주특기분야                   부특기분야                 │\n└──────┴────────────────────────────────────┘\n\n┌───────────────────────────────────────────┐\n│※ 출력물상 항목 외 입력사항                                                          │\n│  - 출신학교, 신체사항 및 혈액형, 병역, 여권, 비자 관련 정보 등은 자율 입력을         │\n│통해 전자인사관리시스템(e-사람 등)상 정보수집 가능                                    │\n└───────────────────────────────────────────┘\n\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162379199",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991525",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162379191",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991517",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162379199",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991525",
           "name": "",
           "file_store_url": ""
         }
@@ -2692,41 +2904,41 @@
   ],
   "attachments": [
     {
-      "name": "경찰공무원 인사운영 규칙(경찰청예규)(제655호)(20260311).hwp",
-      "url": "http://law.go.kr/flDownload.do?flSeq=162342817",
-      "filename": "경찰공무원 인사운영 규칙(경찰청예규)(제655호)(20260311).hwp",
+      "name": "1.경찰공무원 인사운영 규칙 개정전문(경찰청예규)(제662호)(20260930).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169991185",
+      "filename": "1.경찰공무원 인사운영 규칙 개정전문(경찰청예규)(제662호)(20260930).hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/경찰공무원 인사운영 규칙(경찰청예규)(제655호)(20260311).hwp",
+      "local_path": "첨부파일/1.경찰공무원 인사운영 규칙 개정전문(경찰청예규)(제662호)(20260930).hwpx",
       "file_store_url": ""
     },
     {
-      "name": "경찰공무원 인사운영 규칙(경찰청예규)(제655호)(20260311).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=162342821",
-      "filename": "경찰공무원 인사운영 규칙(경찰청예규)(제655호)(20260311).pdf",
+      "name": "1.경찰공무원 인사운영 규칙 개정전문(경찰청예규)(제662호)(20260930).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169991189",
+      "filename": "1.경찰공무원 인사운영 규칙 개정전문(경찰청예규)(제662호)(20260930).pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/경찰공무원 인사운영 규칙(경찰청예규)(제655호)(20260311).pdf",
+      "local_path": "첨부파일/1.경찰공무원 인사운영 규칙 개정전문(경찰청예규)(제662호)(20260930).pdf",
       "file_store_url": ""
     }
   ],
   "ordinance_delegations": [],
   "relation_mode": "no_crawl",
   "relation_stats": {
-    "relations_total": 75,
+    "relations_total": 85,
     "by_category": {
-      "법령": 20,
+      "법령": 30,
       "행정규칙": 55
     },
     "by_relation_type": {
-      "citation": 19,
+      "citation": 29,
       "internal_ref": 45,
       "appendix_ref": 11
     },
     "articles_total": 65,
-    "articles_with_relations": 31,
+    "articles_with_relations": 32,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 17,
+    "addenda_count": 18,
     "appendices_count": 5,
     "attachments_count": 2
   },
