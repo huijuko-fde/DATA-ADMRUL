@@ -1,42 +1,42 @@
 {
   "law_id": "77224",
-  "mst": "2100000278102",
+  "mst": "2100000285508",
   "law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:77224",
-  "promulgation_no": "2026-7",
-  "promulgation_date": "20260422",
-  "enforcement_date": "20260422",
-  "revision_date": "20260422",
+  "promulgation_no": "2026-19",
+  "promulgation_date": "20261001",
+  "enforcement_date": "20261001",
+  "revision_date": "20261001",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "화학물질안전원(사고예방심사2과)",
-    "담당자명": "박정민",
+    "담당자명": "최용혁",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "화학사고예방관리계획서 작성 등에 관한 규정",
-    "발령일자": "20260422",
+    "발령일자": "20261001",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
-    "소관부처명": "기후에너지환경부",
+    "소관부처명": "화학물질안전원",
     "전화번호": "043-830-4316",
     "제개정구분명": "일부개정",
     "소관부처코드": "1482000",
-    "생성일자": "20260624",
+    "생성일자": "20261001",
     "행정규칙ID": "77224",
-    "시행일자": "20260422",
+    "시행일자": "20261001",
     "담당부서기관코드": "1482356",
-    "발령번호": "2026-7",
-    "행정규칙일련번호": "2100000278102",
+    "발령번호": "2026-19",
+    "행정규칙일련번호": "2100000285508",
     "상위부처명": "기후에너지환경부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n- 「화학물질관리법」(이하 ‘법’) 등 관련 법령 개정사항(‘25.8.7.)을 화학사고예방관리계획서 작성ㆍ제출에 반영 필요\n\n◇ 주요내용\n가. (고시구성) (현행)제4장 제33조 → (개정)제4장 제37조\n나. (용어정의) 관련 규정 개정(‘25.8.7.)에 따라 재정의 및 재배열(제2조) 정비\n다. (적용범위) 고시 적용 범위 명확화(제3조) 신설\n라. (유사제도 통합서식 활용) 중복 규제 합리화를 위해 유사제도 인정범위 확대(제17조) 신설\n마 (상위법 일치화) 법 제23조제2항에 따른 화학사고예방관리계획서 작성 내용과 일치화(제21조, 제29조) 신설\n바 (응급조치계획) 2차오염 방지 대책의 작성 방법 구체화(제29조) 정비",
+  "revision_reason": "◇ 제ㆍ개정 이유\n- 사업장 내 화재ㆍ폭발에 대비하여 금수성 물질의 외부 반출 계획 및 방폭구역 관리 등을 내부비상대응계획에 추가토록 개정\n\n◇ 주요내용\n가. (사고대응 및 응급조치) 사업장 내 화재ㆍ폭발 사고 발생 시 소방용수 유입으로 인한 2차 사고 방지를 위한 작성 항목 마련\n- 기존 5가지 항목에서 7가지 경우로 확대하고 상세 내용 추가(제29조)\n① (금수성물질 관리) 금수성 물질의 외부 반출 계획 포함\n② (방폭구역 관리) 화재ㆍ폭발 구역* 내 비상상황 대비 응급조치\n*타법령과의 중복 규제 방지를 위해 「산업안전보건법」에 규정하고 있는 폭발위험장소를 따름\n③ (초기 소화대응) 화재ㆍ폭발 발생시 초기 소화 대응방안\n④ (화재 확산시 정보공유) 화재로 인한 가스 확산시 정보 공유방안\n나. 별지 서식번호 오기 현행화\n- (기존) 별지 제13호 서식 사고시나리오별 시설빈도 → (변경) 별지 제14호 서식 사고시나리오별 시설빈도",
   "body": {
     "format": "articles",
     "article_count": 37,
@@ -351,14 +351,14 @@
             "line_text": "",
             "target_law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
             "target_article_no": "별표4",
-            "target_article_title": "보호대상(제2조 및 제24조 관련)",
+            "target_article_title": "보호대상(제2조 및 제23조 관련)",
             "appendix_no": "4",
             "appendix_branch": "",
             "appendix_kind": "별표",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000278102&bylNo=0004&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285508&bylNo=0004&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0002",
             "target_unit": "BYL0004",
@@ -480,14 +480,14 @@
             "line_text": "",
             "target_law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
             "target_article_no": "별표1",
-            "target_article_title": "최대보유량 산정 방법(제4조 관련)",
+            "target_article_title": "최대보유량 산정 방법(제5조 관련)",
             "appendix_no": "1",
             "appendix_branch": "",
             "appendix_kind": "별표",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000278102&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285508&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0004",
             "target_unit": "BYL0001",
@@ -512,7 +512,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152269",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769159",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0004",
             "target_unit": "BJ0001",
@@ -586,7 +586,7 @@
         "article_title": "제출대상 등",
         "chapter": "제2장 화학사고예방관리계획서 작성ㆍ제출",
         "chapter_path": "제2장 화학사고예방관리계획서 작성ㆍ제출",
-        "content": "제6조(제출대상 등) ① 운영자는 제4조에 따른 작성수준에 따라 제5조의 내용을 포함하여 화학사고예방관리계획서를 작성ㆍ제출해야 한다. 다만, 2군 사업장은 제5조제6호를 제외하고 작성ㆍ제출할 수 있다.② 제1항에 따른 화학사고예방관리계획서는 사업장 단위로 작성ㆍ제출하는 것을 원칙으로 한다. 다만, 규칙 별표 4 비고 제1호에 따라 화학물질안전원장이 인정하는 경우 하나의 사업장에서 둘 이상의 화학사고 예방ㆍ대비ㆍ대응ㆍ복구 운영단위(이하 \"운영단위\"라 한다)로 구분하여 작성ㆍ제출할 수 있다.③ 운영자는 제2항에 따라 화학사고예방관리계획서를 두 개 이상의 운영단위로 구분하여 작성ㆍ제출하더라도 제18조부터 제20조까지 작성 항목과 별지 제1호서식 사업장의 작성수준 구분은 사업장 단위로 작성ㆍ제출해야 한다(다만, 별지 제7호 및 제8호서식은 제외한다.).④ 제3항에 따른 내용은 운영단위별 화학사고예방관리계획서에 모두 포함한다.",
+        "content": "제6조(제출대상 등) ① 운영자는 제4조에 따른 작성수준에 따라 제5조의 내용을 포함하여 화학사고예방관리계획서를 작성ㆍ제출해야 한다. 다만, 2군 사업장은 제5조제6호를 제외하고 작성ㆍ제출할 수 있다.(다만, 별지 제7호서식은 제외한다.)② 제1항에 따른 화학사고예방관리계획서는 사업장 단위로 작성ㆍ제출하는 것을 원칙으로 한다. 다만, 규칙 별표 4 비고 제1호에 따라 화학물질안전원장이 인정하는 경우 하나의 사업장에서 둘 이상의 화학사고 예방ㆍ대비ㆍ대응ㆍ복구 운영단위(이하 \"운영단위\"라 한다)로 구분하여 작성ㆍ제출할 수 있다.③ 운영자는 제2항에 따라 화학사고예방관리계획서를 두 개 이상의 운영단위로 구분하여 작성ㆍ제출하더라도 제17조부터 제19조까지 작성 항목과 별지 제1호서식 사업장의 작성수준 구분은 사업장 단위로 작성ㆍ제출해야 한다.④ 제3항에 따른 내용은 운영단위별 화학사고예방관리계획서에 모두 포함한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -650,6 +650,31 @@
             "target_git_path_guess": "화학사고예방관리계획서 작성 등에 관한 규정/화학사고예방관리계획서 작성 등에 관한 규정.json"
           },
           {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "별지 제7호서식",
+            "line_text": "",
+            "target_law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
+            "target_article_no": "별지7",
+            "target_article_title": "유해화학물질의 유해성 정보",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "77224",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769197",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0006",
+            "target_unit": "BJ0007",
+            "reference_id": "admrul:화학사고예방관리계획서작성등에관한규정#BJ0007",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "화학사고예방관리계획서 작성 등에 관한 규정/화학사고예방관리계획서 작성 등에 관한 규정.json"
+          },
+          {
             "relation_type": "citation",
             "delegation_type": null,
             "target_category": "법령",
@@ -700,7 +725,27 @@
             "target_category": "행정규칙",
             "source_article_no": "제6조",
             "source_clause": "제6조제3항",
-            "link_text": "제18조부터 제20조",
+            "link_text": "제17조부터 제19조",
+            "line_text": "",
+            "target_law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "77224",
+            "target_url": "https://www.law.go.kr/행정규칙/화학사고예방관리계획서 작성 등에 관한 규정/제17조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0006",
+            "reference_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0017",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "화학사고예방관리계획서 작성 등에 관한 규정/화학사고예방관리계획서 작성 등에 관한 규정.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제3항",
+            "link_text": "제17조부터 제19조",
             "line_text": "",
             "target_law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
             "target_article_no": "제18조",
@@ -720,7 +765,7 @@
             "target_category": "행정규칙",
             "source_article_no": "제6조",
             "source_clause": "제6조제3항",
-            "link_text": "제18조부터 제20조",
+            "link_text": "제17조부터 제19조",
             "line_text": "",
             "target_law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
             "target_article_no": "제18조",
@@ -740,7 +785,7 @@
             "target_category": "행정규칙",
             "source_article_no": "제6조",
             "source_clause": "제6조제3항",
-            "link_text": "제18조부터 제20조",
+            "link_text": "제17조부터 제19조",
             "line_text": "",
             "target_law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
             "target_article_no": "제18조",
@@ -760,7 +805,7 @@
             "target_category": "행정규칙",
             "source_article_no": "제6조",
             "source_clause": "제6조제3항",
-            "link_text": "제18조부터 제20조",
+            "link_text": "제17조부터 제19조",
             "line_text": "",
             "target_law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
             "target_article_no": "제19조",
@@ -771,26 +816,6 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0006",
             "reference_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0019",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "화학사고예방관리계획서 작성 등에 관한 규정/화학사고예방관리계획서 작성 등에 관한 규정.json"
-          },
-          {
-            "relation_type": "internal_ref",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제6조",
-            "source_clause": "제6조제3항",
-            "link_text": "제18조부터 제20조",
-            "line_text": "",
-            "target_law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
-            "target_article_no": "제20조",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/행정규칙/화학사고예방관리계획서 작성 등에 관한 규정/제20조",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0006",
-            "reference_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0020",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "화학사고예방관리계획서 작성 등에 관한 규정/화학사고예방관리계획서 작성 등에 관한 규정.json"
           },
@@ -811,36 +836,11 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152269",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769159",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0006",
             "target_unit": "BJ0001",
             "reference_id": "admrul:화학사고예방관리계획서작성등에관한규정#BJ0001",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "화학사고예방관리계획서 작성 등에 관한 규정/화학사고예방관리계획서 작성 등에 관한 규정.json"
-          },
-          {
-            "relation_type": "appendix_ref",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제6조",
-            "source_clause": "제6조제3항",
-            "link_text": "별지 제7호",
-            "line_text": "",
-            "target_law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
-            "target_article_no": "별지7",
-            "target_article_title": "유해화학물질의 유해성 정보",
-            "appendix_no": "7",
-            "appendix_branch": "",
-            "appendix_kind": "별지",
-            "appendix_found": true,
-            "target_mst": "",
-            "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152309",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0006",
-            "target_unit": "BJ0007",
-            "reference_id": "admrul:화학사고예방관리계획서작성등에관한규정#BJ0007",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "화학사고예방관리계획서 작성 등에 관한 규정/화학사고예방관리계획서 작성 등에 관한 규정.json"
           }
@@ -1741,7 +1741,7 @@
         "article_title": "변경 제출",
         "chapter": "제2장 화학사고예방관리계획서 작성ㆍ제출",
         "chapter_path": "제2장 화학사고예방관리계획서 작성ㆍ제출",
-        "content": "제11조(변경 제출) ① 운영자는 다음 각 호에 해당되는 경우, 화학물질안전원장에게 변경된 화학사고예방관리계획서를 변경완료일 30일 이전까지 제출해야 한다.1. 법 제23조제3항제1호에 해당하면서 새로운 총괄영향범위가 기존 총괄영향범위보다 확대되는 경우2. 법 제23조제3항제2호 및 규칙 제19조제7항에 해당하는 경우② 운영자는 제1항에도 불구하고, 법 제23조제5항 및 규칙 제19조의2제1항에 따라 적합 통보를 받은 화학사고예방관리계획서의 작성수준이 2군에서 1군으로 변경되는 경우에는 총괄영향범위가 확대되지 않더라도 변경된 화학사고예방관리계획서를 제출해야 한다.③ 법 제23조제3항제3호에 따른 주민소산 계획의 보완이 필요한 경우는 다음 각 호를 말하며, 이 경우 제1항에도 불구하고 운영자는 화학물질안전원장으로부터 화학사고예방관리계획서 제출을 통지받은 날로부터 60일 이내에 변경된 화학사고예방관리계획서를 제출해야 한다.1. 대피장소2. 주민 경보전달 방법 및 절차3. 관계기관과의 협의체계④ 규칙 제19조제7항제1호나목의 화학물질안전원장이 정하는 위험이 증가하는 경우란 다음 각 호와 같다.1. 함량ㆍ농도가 증가하는 경우2. 성상이 고체에서 액체 또는 기체로 변하는 경우3. 성상이 액체에서 기체로 변하는 경우⑤ 운영자는 제1항부터 제3항까지의 조건에 해당되지 않더라도 화학사고예방관리계획서를 제출할 수 있다.⑥ 제1항, 제2항, 제3항, 제5항에 따른 변경된 화학사고예방관리계획서를 제출하는 경우 다음 각 호의 서류를 화학물질안전원장에게 제출해야 한다.1. 규칙 별지 제32호서식의 화학사고예방관리계획서 변경검토신청서 1부2. 변경된 화학사고예방관리계획서 1부3. 규칙 별지 제31호의2서식의 공동비상대응계획 작성ㆍ제출에 관한 자료(공동으로 비상대응계획을 작성하는 경우에 한함)4. 별지 제2호서식에 따른 화학사고예방관리계획서 변경내역 관리대장⑦ 운영자는 변경된 화학사고예방관리계획서를 제출하는 경우 제5조 각 호의 내용 중 변경된 사항만 제출할 수 있다. 다만, 제2항에 따라 작성수준이 변경되는 경우에는 제5조 각 호를 모두 포함하여 제출해야 한다.",
+        "content": "제11조(변경 제출) ① 운영자는 다음 각 호에 해당되는 경우, 화학물질안전원장에게 변경된 화학사고예방관리계획서를 변경완료일 30일 이전까지 제출해야 한다.1. 법 제23조제3항제1호에 해당하면서 새로운 총괄영향범위가 기존 총괄영향범위보다 확대되는 경우2. 법 제23조제3항제2호 및 규칙 제19조제7항에 해당하는 경우② 운영자는 제1항에도 불구하고, 법 제23조제5항 및 규칙 제19조의2제1항에 따라 적합 통보를 받은 화학사고예방관리계획서의 작성수준이 2군에서 1군으로 변경되는 경우에는 총괄영향범위가 확대되지 않더라도 변경된 화학사고예방관리계획서를 제출해야 한다.③ 법 제23조제3항제3호에 따른 주민소산 계획의 보완이 필요한 경우는 다음 각 호를 말하며, 이 경우 제1항에도 불구하고 운영자는 화학물질안전원장으로부터 화학사고예방관리계획서 제출을 통지받은 날로부터 60일 이내에 변경된 화학사고예방관리계획서를 제출해야 한다.1. 대피장소2. 주민 경보전달 방법 및 절차3. 관계기관과의 협의체계④ 규칙 제19조제7항제1호나목의 화학물질안전원장이 정하는 위험이 증가하는 경우란 다음 각 호와 같다.1. 함량ㆍ농도가 증가하는 경우2. 성상이 고체에서 액체 또는 기체로 변하는 경우3. 성상이 액체에서 기체로 변하는 경우⑤ 운영자는 제1항부터 제3항까지의 조건에 해당되지 않더라도 화학사고예방관리계획서를 제출할 수 있다.⑥ 제1항, 제2항, 제3항에 따른 변경된 화학사고예방관리계획서를 제출하는 경우 다음 각 호의 서류를 화학물질안전원장에게 제출해야 한다.1. 규칙 별지 제32호서식의 화학사고예방관리계획서 변경검토신청서 1부2. 변경된 화학사고예방관리계획서 1부3. 규칙 별지 제31호의2서식의 공동비상대응계획 작성ㆍ제출에 관한 자료(공동으로 비상대응계획을 작성하는 경우에 한함)4. 별지 제2호서식에 따른 화학사고예방관리계획서 변경내역 관리대장⑦ 운영자는 변경된 화학사고예방관리계획서를 제출하는 경우 제5조 각 호의 내용 중 변경된 사항만 제출할 수 있다. 다만, 제2항에 따라 작성수준이 변경되는 경우에는 제5조 각 호를 모두 포함하여 제출해야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -2051,7 +2051,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152279",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769167",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0011",
             "target_unit": "BJ0002",
@@ -2378,7 +2378,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152279",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769167",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0012",
             "target_unit": "BJ0002",
@@ -2487,7 +2487,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152279",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769167",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0014",
             "target_unit": "BJ0002",
@@ -2784,14 +2784,14 @@
             "line_text": "",
             "target_law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
             "target_article_no": "별지6",
-            "target_article_title": "유해화학물질 목록 및 취급량",
+            "target_article_title": "유해화학물질 목록 및 명세",
             "appendix_no": "6",
             "appendix_branch": "",
             "appendix_kind": "별지",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152303",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769191",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0016",
             "target_unit": "BJ0006",
@@ -2816,7 +2816,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152309",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769197",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0016",
             "target_unit": "BJ0007",
@@ -2841,7 +2841,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152321",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769209",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0016",
             "target_unit": "BJ0009",
@@ -2866,7 +2866,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152333",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769221",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0016",
             "target_unit": "BJ0011",
@@ -3080,7 +3080,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152285",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769173",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0018",
             "target_unit": "BJ0003",
@@ -3165,7 +3165,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152291",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769179",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0018",
             "target_unit": "BJ0004",
@@ -3190,7 +3190,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152297",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769185",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0018",
             "target_unit": "BJ0005",
@@ -3305,14 +3305,14 @@
             "line_text": "",
             "target_law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
             "target_article_no": "별지6",
-            "target_article_title": "유해화학물질 목록 및 취급량",
+            "target_article_title": "유해화학물질 목록 및 명세",
             "appendix_no": "6",
             "appendix_branch": "",
             "appendix_kind": "별지",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152303",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769191",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0019",
             "target_unit": "BJ0006",
@@ -3337,7 +3337,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152309",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769197",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0019",
             "target_unit": "BJ0007",
@@ -3374,7 +3374,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152315",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769203",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0020",
             "target_unit": "BJ0008",
@@ -3411,7 +3411,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152321",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769209",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0021",
             "target_unit": "BJ0009",
@@ -3516,7 +3516,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152279",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769167",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0021",
             "target_unit": "BJ0002",
@@ -3553,7 +3553,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152327",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769215",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0022",
             "target_unit": "BJ0010",
@@ -3578,7 +3578,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152333",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769221",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0022",
             "target_unit": "BJ0011",
@@ -3653,14 +3653,14 @@
             "line_text": "",
             "target_law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
             "target_article_no": "별표2",
-            "target_article_title": "예비시나리오 규정 수량(제23조 관련)",
+            "target_article_title": "예비시나리오 규정 수량(제22조 관련)",
             "appendix_no": "2",
             "appendix_branch": "",
             "appendix_kind": "별표",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000278102&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285508&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0023",
             "target_unit": "BYL0002",
@@ -3718,14 +3718,14 @@
             "line_text": "",
             "target_law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
             "target_article_no": "별표3",
-            "target_article_title": "위험도 판단 기준(제25조제2항 및 제3항 관련)",
+            "target_article_title": "위험도 판단 기준(제24조제2항 관련)",
             "appendix_no": "3",
             "appendix_branch": "",
             "appendix_kind": "별표",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000278102&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285508&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0023",
             "target_unit": "BYL0003",
@@ -3762,7 +3762,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152341",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769229",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0024",
             "target_unit": "BJ0012",
@@ -3780,14 +3780,14 @@
             "line_text": "",
             "target_law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
             "target_article_no": "별표4",
-            "target_article_title": "보호대상(제2조 및 제24조 관련)",
+            "target_article_title": "보호대상(제2조 및 제23조 관련)",
             "appendix_no": "4",
             "appendix_branch": "",
             "appendix_kind": "별표",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000278102&bylNo=0004&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285508&bylNo=0004&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0024",
             "target_unit": "BYL0004",
@@ -3812,7 +3812,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152347",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769235",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0024",
             "target_unit": "BJ0013",
@@ -3869,7 +3869,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152355",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769243",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0025",
             "target_unit": "BJ0014",
@@ -3934,7 +3934,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152361",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769249",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0025",
             "target_unit": "BJ0015",
@@ -3952,14 +3952,14 @@
             "line_text": "",
             "target_law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
             "target_article_no": "별표3",
-            "target_article_title": "위험도 판단 기준(제25조제2항 및 제3항 관련)",
+            "target_article_title": "위험도 판단 기준(제24조제2항 관련)",
             "appendix_no": "3",
             "appendix_branch": "",
             "appendix_kind": "별표",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000278102&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285508&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0025",
             "target_unit": "BYL0003",
@@ -3977,14 +3977,14 @@
             "line_text": "",
             "target_law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
             "target_article_no": "별표3",
-            "target_article_title": "위험도 판단 기준(제25조제2항 및 제3항 관련)",
+            "target_article_title": "위험도 판단 기준(제24조제2항 관련)",
             "appendix_no": "3",
             "appendix_branch": "",
             "appendix_kind": "별표",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000278102&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285508&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0025",
             "target_unit": "BYL0003",
@@ -4009,7 +4009,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152355",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769243",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0025",
             "target_unit": "BJ0014",
@@ -4074,7 +4074,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152355",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769243",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0025",
             "target_unit": "BJ0014",
@@ -4251,7 +4251,7 @@
             "appendix_found": false,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000278102&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285508&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0026",
             "target_unit": "BYL0031",
@@ -4308,7 +4308,7 @@
         "article_title": "비상대응체계",
         "chapter": "제4절 사전관리방침",
         "chapter_path": "제3장 화학사고예방관리계획서의 내용 > 제4절 사전관리방침",
-        "content": "제27조(비상대응체계) ① 화학사고 발생에 대비한 비상연락체계 및 비상대응조직도는 사업장의 실정에 맞춰 기 수립된 내용을 활용할 수 있다.② 제1항에도 불구하고 비상연락체계를 새롭게 작성해야 하는 경우에는 다음 각 호의 내용을 반영하되 주ㆍ야간 및 공휴일의 사고신고체계를 구분하여 최초 사고 발견자로부터 비상대응 연락 담당자, 유관기관 및 인근 사업장 등으로 신속하게 전파될 수 있도록 전체 연락망으로 작성한다.1. 사업장 내ㆍ외부 사고신고 체계(사고 발생시 15분 이내 유관기관에 신고 사항 포함)2. 유관기관 목록 및 유관기관의 사고신고 체계(유관기관별 신고 담당자 지정)3. 인근 사업장과 공조체계를 구축한 경우 해당 사업장 목록 및 연락 체계4. 총괄영향범위 내 다른 시ㆍ군 경계가 포함되는 경우 해당 시ㆍ군의 사고신고 체계③ 제1항에도 불구하고 비상대응조직도를 새롭게 작성해야 하는 경우에는 화학사고 발생 시 다음 각 호의 내용을 포함하도록 작성한다.1. 비상대응조직별 편성인원 및 임무(대응ㆍ수습ㆍ복구 단계별 임무)2. 협력업체 비상대응조직도 및 임무(해당하는 경우에 한한다)④ 화학사고 발생 시 제3항에 따른 비상대응조직을 신속하고 원활하게 운영하고 사고 상황을 통제할 수 있는 장소에 비상통제실을 지정해야 한다. 다만, 사고 발생 시 사고영향이 사업장 전체에 미쳐 비상대응 통제가 어려울 것으로 예상되는 경우, 비상대응의 안전한 통제를 위하여 협의된 인근 장소를 활용할 수 있다.⑤ 비상통제실에는 화학사고예방관리계획서, 개인보호장구, 통신장비 등 운영에 필요한 물품을 상시 비치해야 하고, 부득이하게 상시 비치하지 못하는 경우에는 관련 물품을 신속하게 설치할 수 있는 방안을 마련해야 한다.",
+        "content": "제27조(비상대응체계) ① 화학사고 발생에 대비한 비상연락체계 및 비상대응조직도는 사업장의 실정에 맞춰 기 수립된 내용을 활용할 수 있다.② 제1항에도 불구하고 비상연락체계를 새롭게 작성해야 하는 경우에는 다음 각 호의 내용을 반영하되 주ㆍ야간 및 공휴일의 사고신고체계를 구분하여 최초 사고 발견자로부터 비상대응 연락 담당자, 유관기관 및 인근 사업장 등으로 신속하게 전파될 수 있도록 전체 연락망으로 작성한다.1. 사업장 내ㆍ외부 사고신고 체계(사고 발생시 15분 이내 유관기관에 신고 사항 포함)2. 유관기관 목록 및 유관기관의 사고신고 체계(유관기관별 신고 담당자 지정)3. 인근 사업장과 공조체계를 구축한 경우 해당 사업장 목록 및 연락 체계4. 총괄영향범위 내 다른 시ㆍ군 경계가 포함되는 경우 해당 시ㆍ군의 사고신고 체계③ 제1항에도 불구하고 비상대응조직도를 새롭게 작성해야 하는 경우에는 화학사고 발생 시 다음 각 호의 내용을 포함하도록 작성한다.1. 비상대응조직별 편성인원 및 임무(대응ㆍ수습ㆍ복구 단계별 임무)2. 협력업체 비상대응조직도 및 임무(해당하는 경우에 한한다)",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -4491,7 +4491,7 @@
         "article_title": "사고대응 및 응급조치계획",
         "chapter": "제5절 내부 비상대응계획",
         "chapter_path": "제3장 화학사고예방관리계획서의 내용 > 제5절 내부 비상대응계획",
-        "content": "제29조(사고대응 및 응급조치계획) ① 가동중지 권한 및 절차는 공정운전절차 중 화학사고에 대비하여 비상상황이 발생하는 경우의 비상 운전정지 권한 및 절차 등을 작성한다. 그 밖의 법 제23조제2항제4호에 따른 공정운전절차는 개략적으로 작성할 수 있다.② 화학사고 발생 시 투입되는 방재 인력 및 장비ㆍ물품 운용 계획은 다음 각 호의 내용을 포함하여 작성한다.1. 화학사고 초기 대응을 위한 자체 방재 인력 현황2. 방재장비ㆍ물품 및 개인보호장구 보유현황 및 배치도3. 방재장비ㆍ물품 등의 관리ㆍ유지 및 확충 계획4. 방재인력 및 장비ㆍ물품 운영에 필요한 추가적인 기타 사항③ 사업장 내부 경보전달체계는 화학사고 발생 시 상황전파와 사고신고가 신속하고 정확하게 전달될 수 있도록 다음 각 호의 내용을 포함하여 작성한다.1. 사내 경보시설의 종류 및 경보발령지점2. 경보전달체계 및 경보전달 담당자3. 경보시설 유지관리방법4. 기타 사업장 내부 경보전달체계에 필요한 사항④ 대표 공정별 공통 적용이 가능한 응급조치계획은 각 호의 취급시설 중 화학사고 유형(독성누출 또는 화재ㆍ폭발)을 고려하여 취급시설 유형별로 각각 작성하되 사업장의 상황에 맞게 유형을 추가하거나 제외하여 작성할 수 있다.1. 저장시설2. 보관시설3. 반응ㆍ교반시설4. 입ㆍ출하시설5. 배관시설6. 캐비닛형 가스공급시설7. 기타시설⑤ 제4항에 따른 취급시설 유형별 응급조치계획은 다음 각 호의 내용을 고려하여 작성해야 한다.1. 해당 시설의 자동ㆍ수동 차단시스템2. 단계별 내ㆍ외부 확산차단 또는 방지대책3. 2차 오염 방지대책(소방용수 수계 유입 방지 대책, 우수로 차단, 폐기물 처리 등을 포함)4. 사내ㆍ외 비상대피, 응급의료 및 환자수송 계획5. 기타 응급조치에 필요한 사항",
+        "content": "제29조(사고대응 및 응급조치계획) ① 가동중지 권한 및 절차는 공정운전절차 중 화학사고에 대비하여 비상상황이 발생하는 경우의 비상 운전정지 권한 및 절차 등을 작성한다. 그 밖의 법 제23조제2항제4호에 따른 공정운전절차는 개략적으로 작성할 수 있다.② 화학사고 발생 시 투입되는 방재 인력 및 장비ㆍ물품 운용 계획은 다음 각 호의 내용을 포함하여 작성한다.1. 화학사고 초기 대응을 위한 자체 방재 인력 현황2. 방재장비ㆍ물품 및 개인보호장구 보유현황 및 배치도3. 방재장비ㆍ물품 등의 관리ㆍ유지 및 확충 계획4. 방재인력 및 장비ㆍ물품 운영에 필요한 추가적인 기타 사항③ 사업장 내부 경보전달체계는 화학사고 발생 시 상황전파와 사고신고가 신속하고 정확하게 전달될 수 있도록 다음 각 호의 내용을 포함하여 작성한다.1. 사내 경보시설의 종류 및 경보발령지점2. 경보전달체계 및 경보전달 담당자3. 경보시설 유지관리방법4. 기타 사업장 내부 경보전달체계에 필요한 사항④ 대표 공정별 공통 적용이 가능한 응급조치계획은 각 호의 취급시설 중 화학사고 유형(독성누출 또는 화재ㆍ폭발)을 고려하여 취급시설 유형별로 각각 작성하되 사업장의 상황에 맞게 유형을 추가하거나 제외하여 작성할 수 있다.1. 저장시설2. 보관시설3. 반응ㆍ교반시설4. 입ㆍ출하시설5. 배관시설6. 캐비닛형 가스공급시설7. 기타시설⑤ 제4항에 따른 취급시설 유형별 응급조치계획은 다음 각 호의 내용을 고려하여 작성해야 한다.1. 해당 시설의 자동ㆍ수동 차단시스템2. 단계별 내ㆍ외부 확산차단 또는 방지대책 (금수성 물질의 외부 반출 계획을 포함)3. 2차 오염 방지대책(소방용수 수계 유입 방지 대책, 우수로 차단, 폐기물 처리 등을 포함)4. 사내ㆍ외 비상대피, 응급의료 및 환자수송 계획5. 화재ㆍ폭발 위험 구역(산업안전보건법에서 규정하고 있는 폭발위험장소)의 비상 상황 대비 응급조치6. 화재 초기 소화 대응방안, 화재 확산 시 유관기관 정보제공 방안7. 기타 응급조치에 필요한 사항",
         "enforcement_date": "",
         "relations": [
           {
@@ -4709,7 +4709,7 @@
         "article_title": "지역사회 고지계획",
         "chapter": "제6절 외부 비상대응계획",
         "chapter_path": "제3장 화학사고예방관리계획서의 내용 > 제6절 외부 비상대응계획",
-        "content": "제34조(지역사회 고지계획) ① 규칙 제19조의4의 적용을 받는 사업장은 다음 각 호에 따라 지역사회 고지계획을 수립한다.1. 고지대상: 제23조제7항에 따른 총괄영향범위 내 주민 목록을 작성한다.(대표전달이 가능한 경우 각 공공수용체 목록 작성)2. 고지방법: 규칙 제19조의4제1항에 따른 화학물질종합정보시스템 등록 방법은 필수로 하고, 추가적으로 규칙 제19조의4제2항에 따른 고지방법 중 1가지 이상의 방법을 선택하여 작성한다. 다만, 제23조제7항에 따른 총괄영향범위가 사업장 밖을 벗어나지 않는 경우 화학물질종합정보시스템에만 등록하여 고지할 수 있다.3. 고지정보: 화학사고예방관리계획서 작성 내용 중 다음 각 목의 내용을 주민들이 알기 쉽게 정리하여 작성한다. 다만, 사고시나리오 총괄영향범위가 사업장 밖을 벗어나지 않는 경우 가목부터 라목까지 작성하여 고지할 수 있다.가. 사업장 일반 정보: 사업장명, 주소, 대표전화나. 유해화학물질 목록(다만, 제19조제2항의 시험ㆍ검사ㆍ연구용 시약만 제외)다. 유해성 정보(독성 누출 2종, 화재ㆍ폭발 2종)라. 사고시나리오 총괄영향범위: 화재ㆍ폭발 사고 및 독성 누출사고의 총괄영향범위를 합친 행정구역명(법정동, 읍면동 단위) 및 이를 표시한 지도마. 비상연락체계: 사업장 비상전화, 지역 비상대응기관 연락처, 응급의료기관 연락처 등바. 사고 발생 시 대피경보 방법사. 사고 발생 시 주민대피 장소 및 방법② 지역사회 고지 시기, 방법 등 필요한 세부사항은 「화학사고예방관리계획서 이행 등에 관한 규정」 제3장을 참조한다.",
+        "content": "제34조(지역사회 고지계획) ① 규칙 제19조의4의 적용을 받는 사업장은 다음 각 호에 따라 지역사회 고지계획을 수립한다.1. 고지대상: 제23조제7항에 따른 총괄영향범위 내 주민 목록을 작성한다.(대표전달이 가능한 경우 각 공공수용체 목록 작성)2. 고지방법: 규칙 제19조의4제1항에 따른 화학물질종합정보시스템 등록 방법은 필수로 하고, 추가적으로 규칙 제19조의4제2항에 따른 고지방법 중 1가지 이상의 방법을 선택하여 작성한다. 다만, 제23조제7항에 따른 총괄영향범위가 사업장 밖을 벗어나지 않는 경우 화학물질종합정보시스템에만 등록하여 고지할 수 있다.3. 고지정보: 화학사고예방관리계획서 작성 내용 중 다음 각 목의 내용을 주민들이 알기 쉽게 정리하여 작성한다. 다만, 사고시나리오 총괄영향범위가 사업장 밖을 벗어나지 않는 경우 가목부터 다목까지 작성하여 고지할 수 있다.가. 사업장 일반 정보: 사업장명, 주소, 대표전화나. 유해화학물질 목록(다만, 제19조제2항의 시험ㆍ검사ㆍ연구용 시약만 제외)다. 유해성 정보(독성 누출 2종, 화재ㆍ폭발 2종)라. 사고시나리오 총괄영향범위: 화재ㆍ폭발 사고 및 독성 누출사고의 총괄영향범위를 합친 행정구역명(법정동, 읍면동 단위) 및 이를 표시한 지도마. 비상연락체계: 사업장 비상전화, 지역 비상대응기관 연락처, 응급의료기관 연락처 등바. 사고 발생 시 대피경보 방법사. 사고 발생 시 주민대피 장소 및 방법② 지역사회 고지 시기, 방법 등 필요한 세부사항은 「화학사고예방관리계획서 이행 등에 관한 규정」 제3장을 참조한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -4921,7 +4921,7 @@
         "article_title": "비상대응분야 요약",
         "chapter": "제6절 외부 비상대응계획",
         "chapter_path": "제3장 화학사고예방관리계획서의 내용 > 제6절 외부 비상대응계획",
-        "content": "제35조(비상대응분야 요약) 제6조 및 제7조에 따라 화학사고예방관리계획서를 제출할 경우에는 제3장의 작성내용을 고려하여 별지 제16호서식의 비상대응분야 요약서를 작성한다. 이때 2군 사업장은 제6절의 내용을 생략할 수 있다.",
+        "content": "제35조(비상대응분야 요약) 제4조에 따라 화학사고예방관리계획서를 제출할 경우에는 제3장의 작성내용을 고려하여 별지 제16호서식의 비상대응분야 요약서를 작성한다. 이때 2군 사업장은 제6절의 내용을 생략할 수 있다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -4930,37 +4930,17 @@
             "target_category": "행정규칙",
             "source_article_no": "제35조",
             "source_clause": "제35조",
-            "link_text": "제6조 및 제7조",
+            "link_text": "제4조",
             "line_text": "",
             "target_law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
-            "target_article_no": "제6조",
+            "target_article_no": "제4조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/행정규칙/화학사고예방관리계획서 작성 등에 관한 규정/제6조",
+            "target_url": "https://www.law.go.kr/행정규칙/화학사고예방관리계획서 작성 등에 관한 규정/제4조",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0035",
-            "reference_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0006",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "화학사고예방관리계획서 작성 등에 관한 규정/화학사고예방관리계획서 작성 등에 관한 규정.json"
-          },
-          {
-            "relation_type": "internal_ref",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제35조",
-            "source_clause": "제35조",
-            "link_text": "제6조 및 제7조",
-            "line_text": "",
-            "target_law_name": "화학사고예방관리계획서 작성 등에 관한 규정",
-            "target_article_no": "제7조",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/행정규칙/화학사고예방관리계획서 작성 등에 관한 규정/제7조",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0035",
-            "reference_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0007",
+            "reference_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0004",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "화학사고예방관리계획서 작성 등에 관한 규정/화학사고예방관리계획서 작성 등에 관한 규정.json"
           },
@@ -4981,7 +4961,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "77224",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152377",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769265",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#JO0035",
             "target_unit": "BJ0016",
@@ -5086,10 +5066,10 @@
       "content": "부칙 <제2021-7호, 2021. 4. 27.>제1조(시행일) 이 고시는 공포한 날부터 시행한다.제2조(다른 고시의 폐지) 장외영향평가서 작성 등에 관한 규정(환경부고시 제2020-205호) 및 위해관리계획서 작성 등에 관한 규정(환경부고시 제2020-204호)은 폐지한다.제3조(유독물질 지정에 따른 화학사고예방관리계획서 제출에 관한 경과조치)  「화학물질의 등록 및 평가 등에 관한 법률」 제2조제6호에 따라 2019년 3월 31일 이후 지정된 유독물질을 취급하는 자는 해당 고시 시행일부터 2년 이내에 장외영향평가서를 작성ㆍ제출해야 하나 이 규칙 시행일 이후에 제출해야 하는 경우에는 개정규정에 따라 화학사고예방관리계획서를 제출해야 한다. 다만, 규칙 제19조제2항 각 호에 해당하는 경우에는 적용하지 않는다.",
       "provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000278102",
+      "source_mst": "2100000285508",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260422"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20221026",
@@ -5097,10 +5077,10 @@
       "content": "부칙 <제2022-9호, 2022. 10. 26.>제1조(시행일) 이 고시는 공포한 날부터 시행한다.제2조(다른 고시의 폐지) 장외영향평가서 작성 등에 관한 규정(환경부고시 제2020-205호) 및 위해관리계획서 작성 등에 관한 규정(환경부고시 제2020-204호)은 폐지한다.제3조(유독물질 지정에 따른 화학사고예방관리계획서 제출에 관한 경과조치) 「화학물질의 등록 및 평가 등에 관한 법률」 제2조제6호에 따라 2019년 3월 31일 이후 지정된 유독물질을 취급하는 자는 해당 고시 시행일부터 2년 이내에 장외영향평가서를 작성ㆍ제출해야 하나 이 규칙 시행일 이후에 제출해야 하는 경우에는 개정규정에 따라 화학사고예방관리계획서를 제출해야 한다. 다만, 규칙 제19조제2항 각 호에 해당하는 경우에는 적용하지 않는다.",
       "provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000278102",
+      "source_mst": "2100000285508",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260422"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20240430",
@@ -5108,10 +5088,10 @@
       "content": "부칙 <제2024-16호, 2024. 4. 30.>제1조(시행일) 이 고시는 2024년 4월 30일부터 시행한다.",
       "provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000278102",
+      "source_mst": "2100000285508",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260422"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20250806",
@@ -5119,10 +5099,10 @@
       "content": "부칙 <제2025-10호, 2025. 8. 6.>제1조(시행일) 이 고시는 2026년 1월 1일부터 시행한다.제2조(경과조치) 이 고시 시행 전 캐비닛형 가스공급설비를 설치 운영하는 자는 안전원장에게 제18조제6항에 따른 서류를 2026년 12월 31일까지 제출해야 한다.",
       "provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000278102",
+      "source_mst": "2100000285508",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260422"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20260422",
@@ -5130,10 +5110,21 @@
       "content": "부칙 <제2026-7호, 2026. 4. 22.>제1조(시행일) 이 고시는 공포한 날부터 시행한다.제2조(경과조치) 제22조제5항과 관련하여 2025년 8월 6일 이전 캐비닛형 가스공급설비를 설치ㆍ운영하는 자는 관련 서류를 2026년 12월 31일까지 제출해야 한다.",
       "provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000278102",
+      "source_mst": "2100000285508",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260422"
+      "version_enforcement_date": "20261001"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "2026-19",
+      "content": "부칙 <제2026-19호, 2026. 10. 1.>제1조(시행일) 이 고시는 공포한 날부터 시행한다.",
+      "provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285508",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261001"
     }
   ],
   "appendices": [
@@ -5141,124 +5132,124 @@
       "no": "0001",
       "branch": "00",
       "kind": "별표",
-      "title": "최대보유량 산정 방법(제4조 관련)",
+      "title": "최대보유량 산정 방법(제5조 관련)",
       "enforcement_date": "",
-      "content": "[별표 1]\n최대보유량 산정 방법(제4조 관련)\n1. 유해화학물질별 최대보유량 산정은 사업장 내에서 해당 유해화학물질을 취급하는 모든 제조ㆍ사용시설 및 저장ㆍ보관시설에서 해당 물질이 어느 순간 최대로 체류할 수 있는 양의 합으로 산정한다. 또한, 취급시설별 최대보유량(탱크로리 등 운송ㆍ운반차량, 사외배관, 규칙 제39조제1항 및 제2항에 따라 취급중단을 신고한 시설은 제외)은 취급시설의 설계용량과 유해화학물질의 상온에서의 비중 값 등을 고려하여 산정하는 것을 원칙으로 한다.\n2. 기상물질의 경우, 제1호에도 불구하고 운전조건(압력, 온도)을 고려하여 최대보유량을 산정한다. 다만, 액화가스는 제1호에 따른 시설의 설계용량과 비중을 고려하여 산정한다.\n3. 혼합물질의 경우, 혼합된 유해화학물질의 최대보유량은 취급시설의 설계용량과 단일 유해화학물질의 비중을 고려하여 각각 산정한다. 이 때, 혼합물질의 비중에 대한 시험값이나 계산값 등 증빙이 가능한 경우 혼합물의 비중을 고려할 수 있다.\n4. 두 개 이상의 화학물질이 투입되는 제조ㆍ사용시설에서 유해화학물질의 최대보유량은 투입순서와 관계없이 취급시설의 설계용량과 유해화학물질의 비중을 고려하여 각각 산정한다. 다만, 단순 혼합의 경우에는 투입 완료 후 최종함량을 기준으로 산정하고, 투입 후 반응이 일어나는 경우에는 반응이 일어나기 전 최종함량을 기준으로 산정한다.\n5. 탑조류 또는 냉각기 등과 같이 서로 다른 물질의 성상이 두 개 이상으로 나누어지는 시설의 경우, 각 물질의 성상이 차지하는 부피를 고려하여 최대보유량을 산정할 수 있다. 다만, 이 경우 사업장에서 근거를 들어 증빙해야 하며, 증빙이 불가능한 경우에는 물질별로 설계용량과 비중을 고려하여 산정한다.\n6. 보관시설 내 유해화학물질의 최대보유량은 보관구획도를 기준으로 산정한다.",
+      "content": "[별표 1]\n최대보유량 산정 방법(제5조 관련)\n1. 유해화학물질별 최대보유량 산정은 사업장 내에서 해당 유해화학물질을 취급하는 모든 제조ㆍ사용시설 및 저장ㆍ보관시설에서 해당 물질이 어느 순간 최대로 체류할 수 있는 양의 합으로 산정한다. 또한, 취급시설별 최대보유량(탱크로리 등 운송ㆍ운반차량, 사외배관, 규칙 제39조제1항 및 제2항에 따라 취급중단을 신고한 시설은 제외)은 취급시설의 설계용량과 유해화학물질의 상온에서의 비중 값 등을 고려하여 산정하는 것을 원칙으로 한다.\n2. 기상물질의 경우, 제1호에도 불구하고 운전조건(압력, 온도)을 고려하여 최대보유량을 산정한다. 다만, 액화가스는 제1호에 따른 시설의 설계용량과 비중을 고려하여 산정한다.\n3. 혼합물질의 경우, 혼합된 유해화학물질의 최대보유량은 취급시설의 설계용량과 단일 유해화학물질의 비중을 고려하여 각각 산정한다. 이 때, 혼합물질의 비중에 대한 시험값이나 계산값 등 증빙이 가능한 경우 혼합물의 비중을 고려할 수 있다.\n4. 두 개 이상의 화학물질이 투입되는 제조ㆍ사용시설에서 유해화학물질의 최대보유량은 투입순서와 관계없이 취급시설의 설계용량과 유해화학물질의 비중을 고려하여 각각 산정한다. 다만, 단순 혼합의 경우에는 투입 완료 후 최종함량을 기준으로 산정하고, 투입 후 반응이 일어나는 경우에는 반응이 일어나기 전 최종함량을 기준으로 산정한다.\n5. 탑조류 또는 냉각기 등과 같이 서로 다른 물질의 성상이 두 개 이상으로 나누어지는 시설의 경우, 각 물질의 성상이 차지하는 부피를 고려하여 최대보유량을 산정할 수 있다. 다만, 이 경우 사업장에서 근거를 들어 증빙해야 하며, 증빙이 불가능한 경우에는 물질별로 설계용량과 비중을 고려하여 산정한다.\n6. 보관시설 내 유해화학물질의 최대보유량은 보관구획도를 기준으로 산정한다.",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000278102&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152383",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285508&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769271",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152379",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769267",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152383",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769271",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#BYL0001",
-      "filename": "별표1_최대보유량 산정 방법(제4조 관련).pdf",
+      "filename": "별표1_최대보유량 산정 방법(제5조 관련).pdf",
       "file_dir": "별표",
-      "local_path": "별표/별표1_최대보유량 산정 방법(제4조 관련).pdf",
+      "local_path": "별표/별표1_최대보유량 산정 방법(제5조 관련).pdf",
       "file_store_url": ""
     },
     {
       "no": "0002",
       "branch": "00",
       "kind": "별표",
-      "title": "예비시나리오 규정 수량(제23조 관련)",
+      "title": "예비시나리오 규정 수량(제22조 관련)",
       "enforcement_date": "",
-      "content": "[별표 2]\n예비시나리오 규정 수량(제23조 관련)\n┌─────────────────┐\n│예비시나리오 규정 수량            │\n├──┬────────┬─────┤\n│성상│유해성 분류     │규정 수량 │\n├──┼────────┼─────┤\n│고체│유해성 구분 없음│2,000kg   │\n├──┼────────┼─────┤\n│액체│유해성 구분 없음│400kg     │\n├──┼────────┼─────┤\n│기체│독성구분 1      │5kg       │\n│    ├────────┼─────┤\n│    │독성구분 2      │5kg       │\n│    ├────────┼─────┤\n│    │독성구분 3      │100kg     │\n└──┴────────┴─────┘\n비고 1. 예비시나리오 규정수량 적용은 상온ㆍ상압의 유해화학물질 성상이 아닌 취급시설의 운전조건에 따른 물질 성상을 기준을 적용한다.\n2. 유해성 분류의 독성구분은 「화학물질의 분류 및 표시 등에 관한 규정」 별표 4의 유해성 분류 중 급성독성 구분을 따른다.\n3. 급성독성 구분이 없거나, 급성독성 구분 1∼3 이외의 기체는 독성구분 3의 규정수량을 따른다.\n4. 액화가스의 경우, 별표 1에 따른 최대보유량 산정은 액체로 적용하지만, 예비시나리오 규정수량은 기체의 규정수량을 적용한다.",
+      "content": "[별표 2]\n예비시나리오 규정 수량(제22조 관련)\n┌─────────────────┐\n│예비시나리오 규정 수량            │\n├──┬────────┬─────┤\n│성상│유해성 분류     │규정 수량 │\n├──┼────────┼─────┤\n│고체│유해성 구분 없음│2,000kg   │\n├──┼────────┼─────┤\n│액체│유해성 구분 없음│400kg     │\n├──┼────────┼─────┤\n│기체│독성구분 1      │5kg       │\n│    ├────────┼─────┤\n│    │독성구분 2      │5kg       │\n│    ├────────┼─────┤\n│    │독성구분 3      │100kg     │\n└──┴────────┴─────┘\n비고 1. 예비시나리오 규정수량 적용은 상온ㆍ상압의 유해화학물질 성상이 아닌 취급시설의 운전조건에 따른 물질 성상을 기준을 적용한다.\n2. 유해성 분류의 독성구분은 「화학물질의 분류 및 표시 등에 관한 규정」 별표 4의 유해성 분류 중 급성독성 구분을 따른다.\n3. 급성독성 구분이 없거나, 급성독성 구분 1∼3 이외의 기체는 독성구분 3의 규정수량을 따른다.\n4. 액화가스의 경우, 별표 1에 따른 최대보유량 산정은 액체로 적용하지만, 예비시나리오 규정수량은 기체의 규정수량을 적용한다.",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000278102&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152389",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285508&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769277",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152385",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769273",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152389",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769277",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#BYL0002",
-      "filename": "별표2_예비시나리오 규정 수량(제23조 관련).pdf",
+      "filename": "별표2_예비시나리오 규정 수량(제22조 관련).pdf",
       "file_dir": "별표",
-      "local_path": "별표/별표2_예비시나리오 규정 수량(제23조 관련).pdf",
+      "local_path": "별표/별표2_예비시나리오 규정 수량(제22조 관련).pdf",
       "file_store_url": ""
     },
     {
       "no": "0003",
       "branch": "00",
       "kind": "별표",
-      "title": "위험도 판단 기준(제25조제2항 및 제3항 관련)",
+      "title": "위험도 판단 기준(제24조제2항 관련)",
       "enforcement_date": "",
-      "content": "[별표 3]\n위험도 판단 기준(제25조제2항 및 제3항 관련)\n1. 아래의 구간별 점수표를 이용하여 각각의 구간점수 도출 요소들의 합을 점수화한다.\n┏━━┯━━━━━━┯━━━━━━━┯━━━━━━┯━━━━━━━┓\n┃구간│사고시나리오│사고시나리오  │사고시나리오│영향범위 내   ┃\n┃점수│(장외)      │시설빈도(/연) │거리의 합(m)│주민수 합 (명)┃\n┃(점)│총 개수(개) │              │            │              ┃\n┠──┼──────┼───────┼──────┼───────┨\n┃0   │4미만       │0.1미만       │10미만      │10미만        ┃\n┠──┼──────┼───────┼──────┼───────┨\n┃1   │16미만      │1미만         │100미만     │100미만       ┃\n┠──┼──────┼───────┼──────┼───────┨\n┃2   │64미만      │10미만        │1000미만    │1000미만      ┃\n┠──┼──────┼───────┼──────┼───────┨\n┃3   │64이상      │10이상        │1000이상    │1000이상      ┃\n┗━━┷━━━━━━┷━━━━━━━┷━━━━━━┷━━━━━━━┛\n2. 위험도는 아래의 위험도 판정표에서 확인한다.\n┏━━━━━━━━━━━━━━━━━━━┓\n┃위험도 판정표                         ┃\n┣━━━━━━━━━━━━━━━━━━━┫\n┃        사 고 빈 도 점 수             ┃\n┃      ┏━┯━┯━┯━┯━┯━┯━┯━┫\n┃사 고 ┃  │0 │1 │2 │3 │4 │5 │6 ┃\n┃영 향 ┠─┼─┴─┴─┶━╅─┴─┴─┨\n┃점 수 ┃6 │              ┃    가    ┃\n┃      ┠─┾━┓          ┗━┓      ┃\n┃      ┃5 │  ┃              ┃      ┃\n┃      ┠─┤  ┗━┓          ┗━┓  ┃\n┃      ┃4 │      ┃    나        ┃  ┃\n┃      ┠─┤      ┗━┓          ┗━┫\n┃      ┃3 │          ┃              ┃\n┃      ┠─┤          ┗━┓          ┃\n┃      ┃2 │    다        ┃          ┃\n┃      ┠─┤              ┗━┓      ┃\n┃      ┃1 │                  ┃      ┃\n┃      ┠─┤                  ┗━┓  ┃\n┃      ┃0 │                      ┃  ┃\n┗━━━┻━┷━━━━━━━━━━━┻━┛",
+      "content": "[별표 3]\n위험도 판단 기준(제24조제2항 관련)\n1. 아래의 구간별 점수표를 이용하여 각각의 구간점수 도출 요소들의 합을 점수화한다.\n┏━━┯━━━━━━┯━━━━━━━┯━━━━━━┯━━━━━━━┓\n┃구간│사고시나리오│사고시나리오  │사고시나리오│영향범위 내   ┃\n┃점수│(장외)      │시설빈도(/연) │거리의 합(m)│주민수 합 (명)┃\n┃(점)│총 개수(개) │              │            │              ┃\n┠──┼──────┼───────┼──────┼───────┨\n┃0   │4미만       │0.1미만       │10미만      │10미만        ┃\n┠──┼──────┼───────┼──────┼───────┨\n┃1   │16미만      │1미만         │100미만     │100미만       ┃\n┠──┼──────┼───────┼──────┼───────┨\n┃2   │64미만      │10미만        │1000미만    │1000미만      ┃\n┠──┼──────┼───────┼──────┼───────┨\n┃3   │64이상      │10이상        │1000이상    │1000이상      ┃\n┗━━┷━━━━━━┷━━━━━━━┷━━━━━━┷━━━━━━━┛\n2. 위험도는 아래의 위험도 판정표에서 확인한다.\n┏━━━━━━━━━━━━━━━━━━━┓\n┃위험도 판정표                         ┃\n┣━━━━━━━━━━━━━━━━━━━┫\n┃        사 고 빈 도 점 수             ┃\n┃      ┏━┯━┯━┯━┯━┯━┯━┯━┫\n┃사 고 ┃  │0 │1 │2 │3 │4 │5 │6 ┃\n┃영 향 ┠─┼─┴─┴─┶━╅─┴─┴─┨\n┃점 수 ┃6 │              ┃    가    ┃\n┃      ┠─┾━┓          ┗━┓      ┃\n┃      ┃5 │  ┃              ┃      ┃\n┃      ┠─┤  ┗━┓          ┗━┓  ┃\n┃      ┃4 │      ┃    나        ┃  ┃\n┃      ┠─┤      ┗━┓          ┗━┫\n┃      ┃3 │          ┃              ┃\n┃      ┠─┤          ┗━┓          ┃\n┃      ┃2 │    다        ┃          ┃\n┃      ┠─┤              ┗━┓      ┃\n┃      ┃1 │                  ┃      ┃\n┃      ┠─┤                  ┗━┓  ┃\n┃      ┃0 │                      ┃  ┃\n┗━━━┻━┷━━━━━━━━━━━┻━┛",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000278102&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152395",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285508&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769283",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152391",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769279",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152395",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769283",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#BYL0003",
-      "filename": "별표3_위험도 판단 기준(제25조제2항 및 제3항 관련).pdf",
+      "filename": "별표3_위험도 판단 기준(제24조제2항 관련).pdf",
       "file_dir": "별표",
-      "local_path": "별표/별표3_위험도 판단 기준(제25조제2항 및 제3항 관련).pdf",
+      "local_path": "별표/별표3_위험도 판단 기준(제24조제2항 관련).pdf",
       "file_store_url": ""
     },
     {
       "no": "0004",
       "branch": "00",
       "kind": "별표",
-      "title": "보호대상(제2조 및 제24조 관련)",
+      "title": "보호대상(제2조 및 제23조 관련)",
       "enforcement_date": "",
-      "content": "[별표 4]\n보호대상(제2조 및 제24조 관련)\n1. 갑종 보호대상(공공수용체)\n┏━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃구 분   │보호대상의 종류                                                                       ┃\n┠────┼───────────────────────────────────────────┨\n┃문화·  │영화상영관, 공연장, 예식장·장례식장, 전시장(박물관, 미술관, 과학관, 문화관, 체험     ┃\n┃집회시설│관, 기념관, 산업전시장, 박람회장, 그 밖에 이와 비슷한 것), 관람장, 동·식물원, 운동   ┃\n┃        │장, 그 밖에 이와 유사한 시설로서 300명 이상 수용할 수 있거나 바닥면적의 합계가 1      ┃\n┃        │천 제곱미터 이상인 것                                                                 ┃\n┠────┼───────────────────────────────────────────┨\n┃종교시설│교회, 그 밖에 이와 유사한 종교시설로서 300명 이상 수용할 수 있는 건축물               ┃\n┠────┼───────────────────────────────────────────┨\n┃판매시설│도매시장(「농수산물 유통 및 가격안정에 관한 법률」에 따른 농수산물도매시장, 농수산    ┃\n┃        │물공판장), 소매시장(「유통산업발전법」 제2조제3호에 따른 대규모 점포), 백화점, 쇼핑   ┃\n┃        │몰, 그 밖에 이와 유사한 공간으로 300명 이상 수용할 수 있거나 사실상 독립된 부분의     ┃\n┃        │연면적이 1천 제곱미터 이상인 것                                                       ┃\n┠────┼───────────────────────────────────────────┨\n┃운수시설│여객자동차터미널, 철도역사, 공항터미널, 항만터미널, 그 밖에 이와 유사한 공간으로 일일 ┃\n┃        │300명 이상이 이용하는 시설                                                            ┃\n┠────┼───────────────────────────────────────────┨\n┃의료시설│병원(종합병원, 병원, 치과병원, 한방병원, 정신병원 및 요양병원과 의원을 포함한다.)     ┃\n┠────┼───────────────────────────────────────────┨\n┃교육·  │학교(유치원, 초등학교, 중학교, 고등학교, 전문대학, 대학, 대학교, 그 밖에 이에 준하는  ┃\n┃연구시설│각종 학교), 교육원(연수원, 그 밖에 이와 유사한 시설), 도서관, 연구소, 그 밖에 이      ┃\n┃        │와 유사한 시설                                                                        ┃\n┠────┼───────────────────────────────────────────┨\n┃노유자  │어린이집, 아동복지시설, 노인복지시설, 장애인복지시설, 그 밖에 이와 비슷한 것으로      ┃\n┃시설    │서 20명 이상 수용할 수 있는 건축물                                                    ┃\n┠────┼───────────────────────────────────────────┨\n┃숙박시설│관광호텔, 여관, 휴양시설, 공중목욕탕, 고시원, 기숙사, 그 밖에 이와 비슷한 시설로      ┃\n┃        │서 300명 이상 수용할 수 있는 시설                                                     ┃\n┠────┼───────────────────────────────────────────┨\n┃관광휴게│야외음악당, 야외극장, 어린이회관, 공원·유원지 또는 관광지에 부수되는 시설로서 바닥   ┃\n┃시설    │면적의 합계가 1천 제곱미터 이상인 것                                                  ┃\n┠────┼───────────────────────────────────────────┨\n┃수련시설│「청소년활동진흥법」에 따른 청소년수련관, 청소년문화의집, 청소년특화시설, 청소년수    ┃\n┃        │련원, 청소년야영장 및 유스호스텔                                                      ┃\n┠────┼───────────────────────────────────────────┨\n┃주택 등 │사람을 수용하는 건축물로서 300명 이상 수용할 수 있거나 바닥면적의 합계가 1천 제곱     ┃\n┃        │미터 이상인 것                                                                        ┃\n┗━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n2. 을종 보호대상(공공수용체)\n┏━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃구 분                 │보호대상의 종류                                                           ┃\n┠───┬───────┼─────────────────────────────────────┨\n┃건축물│주택·업무시설│단독주택, 공동주택(300명 이상 수용할 수 있는 시설은 제외한다.) 공공업무시 ┃\n┃      │              │설, 일반업무시설, 교정시설, 갱생보호시설                                  ┃\n┃      ├───────┼─────────────────────────────────────┨\n┃      │근린생활시설  │제1종 근린생활시설, 제2종 근린생활시설                                    ┃\n┃      ├───────┼─────────────────────────────────────┨\n┃      │위험물 저장 및│주유소 및 석유판매소, 액화석유가스 충전소·판매소·저장소, 고압가스       ┃\n┃      │처리시설      │충전소·판매소·저장소, 그 밖에 이와 비슷한 시설                          ┃\n┃      ├───────┼─────────────────────────────────────┨\n┃      │기타          │사람을 수용하는 건축물로서 독립된 부분의 연면적이 1백 제곱미터 이         ┃\n┃      │              │상 1천 제곱미터 미만인 것                                                 ┃\n┗━━━┷━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n3. 환경수용체\n┏━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃구 분             │보호대상의 종류                                                       ┃\n┠─────────┼───────────────────────────────────┨\n┃생태·경관보호지역│「자연환경보전법」 제2조제12호에 따른 생태·경관보호지역              ┃\n┠─────────┼───────────────────────────────────┨\n┃하천              │「하천법」 제2조제1호에 따른 국가하천 및 지방하천                     ┃\n┠─────────┼───────────────────────────────────┨\n┃농지 및 산지      │「농지법」 제2조제1호에 따른 농지 및 「산지관리법」 제2조제1호에 따른 ┃\n┃                  │산지                                                                  ┃\n┗━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "content": "[별표 4]\n보호대상(제2조 및 제23조 관련)\n1. 갑종 보호대상(공공수용체)\n┌────┬─────────────────────────────────────────┐\n│구 분   │보호대상의 종류                                                                   │\n├────┼─────────────────────────────────────────┤\n│문화·  │영화상영관, 공연장, 예식장·장례식장, 전시장(박물관, 미술관, 과학관, 문화관, 체   │\n│집회시설│험관, 기념관, 산업전시장, 박람회장, 그 밖에 이와 비슷한 것), 관람장, 동·식물원,  │\n│        │운동장, 그 밖에 이와 유사한 시설로서 300명 이상 수용할 수 있거나 바닥면적의       │\n│        │합계가 1천 제곱미터 이상인 것                                                     │\n├────┼─────────────────────────────────────────┤\n│종교시설│교회, 그 밖에 이와 유사한 종교시설로서 300명 이상 수용할 수 있는 건축물           │\n├────┼─────────────────────────────────────────┤\n│판매시설│도매시장(「농수산물 유통 및 가격안정에 관한 법률」에 따른 농수산물도매시장,       │\n│        │농수산물공판장), 소매시장(「유통산업발전법」 제2조제3호에 따른 대규모 점포),      │\n│        │백화점, 쇼핑몰, 그 밖에 이와 유사한 공간으로 300명 이상 수용할 수 있거나 사실     │\n│        │상 독립된 부분의 연면적이 1천 제곱미터 이상인 것                                  │\n├────┼─────────────────────────────────────────┤\n│운수시설│여객자동차터미널, 철도역사, 공항터미널, 항만터미널, 그 밖에 이와 유사한 공간으로  │\n│        │일일 300명 이상이 이용하는 시설                                                   │\n├────┼─────────────────────────────────────────┤\n│의료시설│병원(종합병원, 병원, 치과병원, 한방병원, 정신병원 및 요양병원과 의원을 포함한다.) │\n├────┼─────────────────────────────────────────┤\n│교육·  │학교(유치원, 초등학교, 중학교, 고등학교, 전문대학, 대학, 대학교, 그 밖에 이에 준하│\n│연구시설│는 각종 학교), 교육원(연수원, 그 밖에 이와 유사한 시설), 도서관, 연구소, 그 밖    │\n│        │에 이와 유사한 시설                                                               │\n├────┼─────────────────────────────────────────┤\n│노유자  │어린이집, 아동복지시설, 노인복지시설, 장애인복지시설, 그 밖에 이와 비슷한 것      │\n│시설    │으로서 20명 이상 수용할 수 있는 건축물                                            │\n├────┼─────────────────────────────────────────┤\n│숙박시설│관광호텔, 여관, 휴양시설, 공중목욕탕, 고시원, 기숙사, 그 밖에 이와 비슷한 시설    │\n│        │로서 300명 이상 수용할 수 있는 시설                                               │\n├────┼─────────────────────────────────────────┤\n│관광휴게│야외음악당, 야외극장, 어린이회관, 공원·유원지 또는 관광지에 부수되는 시설로서    │\n│시설    │바닥면적의 합계가 1천 제곱미터 이상인 것                                          │\n├────┼─────────────────────────────────────────┤\n│수련시설│「청소년활동진흥법」에 따른 청소년수련관, 청소년문화의집, 청소년특화시설, 청소    │\n│        │년수련원, 청소년야영장 및 유스호스텔                                              │\n├────┼─────────────────────────────────────────┤\n│주택 등 │사람을 수용하는 건축물로서 300명 이상 수용할 수 있거나 바닥면적의 합계가 1        │\n│        │천 제곱미터 이상인 것                                                             │\n└────┴─────────────────────────────────────────┘\n2. 을종 보호대상(공공수용체)\n┌───────────┬───────────────────────────────────┐\n│구 분                 │보호대상의 종류                                                       │\n├───┬───────┼───────────────────────────────────┤\n│건축물│주택·업무시설│단독주택, 공동주택(300명 이상 수용할 수 있는 시설은 제외한다.) 공공업 │\n│      │              │무시설, 일반업무시설, 교정시설, 갱생보호시설                          │\n│      ├───────┼───────────────────────────────────┤\n│      │근린생활시설  │제1종 근린생활시설, 제2종 근린생활시설                                │\n│      ├───────┼───────────────────────────────────┤\n│      │위험물 저장 및│주유소 및 석유판매소, 액화석유가스 충전소·판매소·저장소, 고압가     │\n│      │처리시설      │스 충전소·판매소·저장소, 그 밖에 이와 비슷한 시설                   │\n│      ├───────┼───────────────────────────────────┤\n│      │기타          │사람을 수용하는 건축물로서 독립된 부분의 연면적이 1백 제곱미          │\n│      │              │터 이상 1천 제곱미터 미만인 것                                        │\n└───┴───────┴───────────────────────────────────┘\n3. 환경수용체\n┌─────────┬─────────────────────────────────┐\n│구 분             │보호대상의 종류                                                   │\n├─────────┼─────────────────────────────────┤\n│생태·경관보호지역│「자연환경보전법」 제2조제12호에 따른 생태·경관보호지역          │\n├─────────┼─────────────────────────────────┤\n│하천              │「하천법」 제2조제1호에 따른 국가하천 및 지방하천                 │\n├─────────┼─────────────────────────────────┤\n│농지 및 산지      │「농지법」 제2조제1호에 따른 농지 및 「산지관리법」 제2조제1호에  │\n│                  │따른 산지                                                         │\n└─────────┴─────────────────────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000278102&bylNo=0004&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152403",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285508&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769291",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152397",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769285",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152403",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769291",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#BYL0004",
-      "filename": "별표4_보호대상(제2조 및 제24조 관련).pdf",
+      "filename": "별표4_보호대상(제2조 및 제23조 관련).pdf",
       "file_dir": "별표",
-      "local_path": "별표/별표4_보호대상(제2조 및 제24조 관련).pdf",
+      "local_path": "별표/별표4_보호대상(제2조 및 제23조 관련).pdf",
       "file_store_url": ""
     },
     {
@@ -5267,20 +5258,20 @@
       "kind": "별지",
       "title": "사업장의 작성수준 구분",
       "enforcement_date": "",
-      "content": "■ 화학사고예방관리계획서 작성 등에 관한 규정 [별지 제1호서식]\n사업장의 작성수준 구분\n1. 단위공장별 최대보유량 산출\n┏━━━━┯━━━━━━┯━━━━┯━━━━┯━━━━┯━━━━┯━━━━━━┯━━━━━━┓\n┃단위공장│유해화학물질│CAS No. │함량(%) │구분기호│취급시설│설계용량(m3)│취급량(ton) ┃\n┠────┼──────┼────┼────┼────┼────┼──────┼──────┨\n┃        │            │        │        │        │        │            │            ┃\n┠────┼──────┼────┼────┼────┼────┼──────┼──────┨\n┃        │            │        │        │        │        │            │            ┃\n┠────┼──────┼────┼────┼────┼────┼──────┼──────┨\n┃        │            │        │        │        │        │            │            ┃\n┠────┼──────┼────┼────┼────┼────┼──────┼──────┨\n┃        │            │        │        │        │        │            │            ┃\n┠────┼──────┼────┼────┼────┼────┼──────┼──────┨\n┃        │            │        │        │        │        │            │            ┃\n┗━━━━┷━━━━━━┷━━━━┷━━━━┷━━━━┷━━━━┷━━━━━━┷━━━━━━┛\n※ 다수의 단위공장으로 이루어진 경우, 단위공장별로 작성한다.\n\n2. 유해화학물질별 사업장 내의 최대보유량 산출\n┏━━━━━━━━━━━━━┯━━━━━┯━━━━┯━━━━━━━━━━━━━┓\n┃유해화학물질              │사업장 내 │작성수준│구분 근거                 ┃\n┠───┬────┬────┤최대보유량│        ├──────┬──────┨\n┃물질명│CAS No. │물질구분│(ton)     │        │하위규정수량│상위규정수량┃\n┃      │        │        │          │        │(ton)       │(ton)       ┃\n┠───┼────┼────┼─────┼────┼──────┼──────┨\n┃      │        │        │          │        │            │            ┃\n┠───┼────┼────┼─────┼────┼──────┼──────┨\n┃      │        │        │          │        │            │            ┃\n┠───┼────┼────┼─────┼────┼──────┼──────┨\n┃      │        │        │          │        │            │            ┃\n┠───┼────┼────┼─────┼────┼──────┼──────┨\n┃      │        │        │          │        │            │            ┃\n┠───┼────┼────┼─────┼────┼──────┼──────┨\n┃      │        │        │          │        │            │            ┃\n┗━━━┷━━━━┷━━━━┷━━━━━┷━━━━┷━━━━━━┷━━━━━━┛\n3. 작성수준 도출\n┏━━━━┳┓\n┃작성수준┃┃\n┗━━━━┻┛\n주) 작성수준 구분에는 유해화학물질 별 사업장 내 최대보유량에 따른 1군 또는 2군의 작성수준을 작성한다. 유해화학물질의 사업장 내 최대보유량이 어느 하나라도 1군에 해당할 경우, 화학사고예방관리계획서의 작성수준은 1군으로 작성해야 한다.",
+      "content": "■ 화학사고예방관리계획서 작성 등에 관한 규정 [별지 제1호서식]\n사업장의 작성수준 구분\n1. 단위공장별 최대보유량 산출\n┌────┬──────┬────┬────┬────┬────┬──────┬──────┐\n│단위공장│유해화학물질│CAS No. │함량(%) │구분기호│취급시설│설계용량(m3)│취급량(ton) │\n├────┼──────┼────┼────┼────┼────┼──────┼──────┤\n│        │            │        │        │        │        │            │            │\n├────┼──────┼────┼────┼────┼────┼──────┼──────┤\n│        │            │        │        │        │        │            │            │\n├────┼──────┼────┼────┼────┼────┼──────┼──────┤\n│        │            │        │        │        │        │            │            │\n├────┼──────┼────┼────┼────┼────┼──────┼──────┤\n│        │            │        │        │        │        │            │            │\n├────┼──────┼────┼────┼────┼────┼──────┼──────┤\n│        │            │        │        │        │        │            │            │\n└────┴──────┴────┴────┴────┴────┴──────┴──────┘\n※ 다수의 단위공장으로 이루어진 경우, 단위공장별로 작성한다.\n\n2. 유해화학물질별 사업장 내의 최대보유량 산출\n┌─────────────┬─────┬────┬─────────────┐\n│유해화학물질              │사업장 내 │작성수준│구분 근거                 │\n├───┬────┬────┤최대보유량│        ├──────┬──────┤\n│물질명│CAS No. │물질구분│(ton)     │        │하위규정수량│상위규정수량│\n│      │        │        │          │        │(ton)       │(ton)       │\n├───┼────┼────┼─────┼────┼──────┼──────┤\n│      │        │        │          │        │            │            │\n├───┼────┼────┼─────┼────┼──────┼──────┤\n│      │        │        │          │        │            │            │\n├───┼────┼────┼─────┼────┼──────┼──────┤\n│      │        │        │          │        │            │            │\n├───┼────┼────┼─────┼────┼──────┼──────┤\n│      │        │        │          │        │            │            │\n├───┼────┼────┼─────┼────┼──────┼──────┤\n│      │        │        │          │        │            │            │\n└───┴────┴────┴─────┴────┴──────┴──────┘\n3. 작성수준 도출\n┏━━━━┳┓\n┃작성수준┃┃\n┗━━━━┻┛\n주) 작성수준 구분에는 유해화학물질 별 사업장 내 최대보유량에 따른 1군 또는 2군의 작성수준을 작성한다. 유해화학물질의 사업장 내 최대보유량이 어느 하나라도 1군에 해당할 경우, 화학사고예방관리계획서의 작성수준은 1군으로 작성해야 한다.",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152269",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769159",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152265",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769155",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152269",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769159",
           "name": "",
           "file_store_url": ""
         }
@@ -5301,17 +5292,17 @@
       "content": "■ 화학사고예방관리계획서 작성 등에 관한 규정 [별지 제2호서식]\n화학사고예방관리계획서 변경내역 관리대장\n\n1. 사업장명:                            2. 단위공장명(또는 단위공정명):\n\n3. 화학사고예방관리계획서 접수번호:     4. 화학사고예방관리계획서 결과번호:\n\n5. 화학사고예방관리계획서 변경내역\n\n┏━━┯━━━━┯━━━━━━┯━━━━━━━┯━━━━━━━━━━━━━━━┯━━━━━━┯━━━━━┓\n┃번호│① 일자 │② 변경항목 │③ 변경의 종류│④ 변경 내용(변경전 → 변경후)│⑤ 후속조치 │⑥ 담당자 ┃\n┠──┼────┼──────┼───────┼───────────────┼──────┼─────┨\n┃    │        │            │              │                              │            │          ┃\n┠──┼────┼──────┼───────┼───────────────┼──────┼─────┨\n┃    │        │            │              │                              │            │          ┃\n┠──┼────┼──────┼───────┼───────────────┼──────┼─────┨\n┃    │        │            │              │                              │            │          ┃\n┠──┼────┼──────┼───────┼───────────────┼──────┼─────┨\n┃    │        │            │              │                              │            │          ┃\n┠──┼────┼──────┼───────┼───────────────┼──────┼─────┨\n┃    │        │            │              │                              │            │          ┃\n┠──┼────┼──────┼───────┼───────────────┼──────┼─────┨\n┃    │        │            │              │                              │            │          ┃\n┠──┼────┼──────┼───────┼───────────────┼──────┼─────┨\n┃    │        │            │              │                              │            │          ┃\n┗━━┷━━━━┷━━━━━━┷━━━━━━━┷━━━━━━━━━━━━━━━┷━━━━━━┷━━━━━┛\n(뒤쪽)\n주) ① 일자는 화학사고예방관리계획서와 관련된 변경이 발생한 일자를 기재한다.\n② 변경항목은 규칙 별표 4의 화학사고예방관리계획서의 작성항목 중 소분류를 기재한다.\n③ 변경의 종류는 화학사고예방관리계획서와 관련하여 ㈎ 취급시설 변경(용량, 위치, 재질 등으로 구분), ㈏ 취급물질 변경(품목추가, 물질변경, 농도변경 등으로 구분), ㈐ 안전장치 및 방재장비ㆍ물품 변경(추가, 교체, 개선 등으로 구분), ㈑ 공정운전절차 변경, ㈒ 운전 책임자 및 작업자 변경, ㈓ 지역사회 고지 계획 변경, ㈔ 정보 현행화, ㈕ 기타 중 1가지 이상의 종류를 기재한다. 2가지 이상의 변경이 발생한 경우 변경의 종류를 모두 기재하고, ‘㈕ 기타’라고 기재할 경우에는 구체적인 변경사항을 기재한다.\n④ 변경내용에는 변경의 종류별로 변경 전의 사항과 변경 후의 사항을 기재한다.\n⑤ 후속조치는 화학사고예방관리계획서와 관련하여 ㈎ 변경제출, ㈏ 변경관리, 영업허가와 관련하여 ㈐ 변경신고, ㈑ 변경허가, ㈒ 기재사항 변경을 구분하여 변경일자와 같이 기재하고, 후속조치가 없는 경우 해당없음을 기재한다.\n⑥ 담당자는 해당 변경사항을 조치한 화학사고예방관리계획서 이행 담당자 및 담당부서를 기재한다.\n┏━━┯━━━━━┯━━━━━━━━━━━┯━━━━━━━┯━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━┯━━━┓\n┃번호│일자      │변경항목              │변경의 종류   │변경 내용 (변경전 → 변경후)            │후속조치            │담당자┃\n┠──┼─────┼───────────┼───────┼────────────────────┼──────────┼───┨\n┃    │’20.1.2  │장치 설비 목록 및     │시설규모 변경 │TK-000 20톤 → 15톤                     │해당없음            │홍길동┃\n┃    │          │명세                  │              │                                        │                    │      ┃\n┠──┼─────┼───────────┼───────┼────────────────────┼──────────┼───┨\n┃    │’20.2.5  │설비배치도            │시설위치 변경 │R-000 위치 변경에 따른 총괄영향범위 확대│변경제출(’20.3.7.) │홍길동┃\n┃    │          │                      │              │도면 0000번 참조                        │변경허가(’20.4.20) │      ┃\n┠──┼─────┼───────────┼───────┼────────────────────┼──────────┼───┨\n┃    │’20.4.5  │고정식 유해감지시설   │정보 현행화   │GD-001~006 → GD-001~010                │해당없음            │임꺽정┃\n┃    │          │명세 및 배치도        │              │                                        │                    │      ┃\n┠──┼─────┼───────────┼───────┼────────────────────┼──────────┼───┨\n┃    │’20.5.10 │유해화학물질 목록 및  │취급물질 변경 │황산30% → 황산 15%                     │시범생산            │임꺽정┃\n┃    │’20.7.1  │유해성정보            │              │황산30% → 황산 15%(복귀)               │신고일자: ‘20.5.9  │      ┃\n┃    │          │장치 설비 목록 및     │              │                                        │지속기간: 5.10∼6.30│      ┃\n┃    │          │명세                  │              │                                        │                    │      ┃\n┠──┼─────┼───────────┼───────┼────────────────────┼──────────┼───┨\n┃    │’20.12.15│안전관리 방향성에     │기타          │중장기 환경안전관리 로드맵 변경에 따른  │해당없음            │임꺽정┃\n┃    │          │따른 세부 운영        │              │세부운영계획 재수립                     │                    │      ┃\n┗━━┷━━━━━┷━━━━━━━━━━━┷━━━━━━━┷━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━┷━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152279",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769167",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152271",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769161",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152279",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769167",
           "name": "",
           "file_store_url": ""
         }
@@ -5332,17 +5323,17 @@
       "content": "■ 화학사고예방관리계획서 작성 등에 관한 규정 [별지 제3호서식]\n사업장 일반정보\n┏━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃구분                  │작성내용                                            ┃\n┠───────────┼──────────────────────────┨\n┃사업장명              │                                                    ┃\n┠───────────┼──────────────────────────┨\n┃단위공장명            │                                                    ┃\n┠───────────┼──────────────────────────┨\n┃사업자 등록번호       │                                                    ┃\n┠───────────┼──────────────────────────┨\n┃대표자                │                                                    ┃\n┠───────────┼──────────────────────────┨\n┃우편번호/주소         │                                                    ┃\n┠───────────┼──────────────────────────┨\n┃산업단지              │                                                    ┃\n┠───────────┼──────────────────────────┨\n┃대표전화              │                                                    ┃\n┠───────────┼──────────────────────────┨\n┃제출구분              │ □ 신규제출 ( □ 최초    □ 부적합 )               ┃\n┃                      │ □ 변경제출 ( □ 최초    □ 부적합 )               ┃\n┃                      │ □ 재제출  ( □ 최초    □ 부적합 )                ┃\n┃                      │ □ 이행점검 불이행 ( □ 최초    □ 부적합 )        ┃\n┠───────────┼──────────────────────────┨\n┃작성수준              │□ 1군         □ 2군                               ┃\n┠───────────┼──────────────────────────┨\n┃공동비상대응계획      │□ 공동제출       □ 단독제출                       ┃\n┃수립 여부             │                                                    ┃\n┠───────────┼──────────────────────────┨\n┃유사제도 심사결과 활용│ □ 해당( □ 공정안전보고서     □ 안전성향상계획 ) ┃\n┃                      │ □ 미해당                                          ┃\n┠───────────┼──────────────────────────┨\n┃총괄영향범위내        │ □ 있음                    □ 없음                 ┃\n┃주민여부              │                                                    ┃\n┠───────────┼──────────────────────────┨\n┃최근 3년간 화학사고   │ □ 있음                    □ 없음                 ┃\n┃발생 여부             │                                                    ┃\n┠───────────┼──────────────────────────┨\n┃화학사고예방관리계획서│                                                    ┃\n┃작성자                │                                                    ┃\n┠───────────┼┬────────┬────────────────┨\n┃담당자 연락처         ││담당자 메일주소 │                                ┃\n┗━━━━━━━━━━━┷┷━━━━━━━━┷━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152285",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769173",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152281",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769169",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152285",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769173",
           "name": "",
           "file_store_url": ""
         }
@@ -5363,17 +5354,17 @@
       "content": "■ 화학사고예방관리계획서 작성 등에 관한 규정 [별지 제4호서식]\n총괄 취급시설 개요\n┏━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃구분                    │세부내용                                                      ┃\n┠────────────┼───────────────────────────────┨\n┃단위공장 구성           │                                                              ┃\n┠────────────┼───────────────────────────────┨\n┃공정개요                │                                                              ┃\n┠────────────┼──────────────┬────────────────┨\n┃장치?설비 종류 및 수량 │ □ 저장탱크  (    )기      │ □ 저장·보관시설  (    )기    ┃\n┃                        ├──────────────┼────────────────┨\n┃                        │ □ 혼합시설  (    )기      │ □ 고압시설  (    )기          ┃\n┃                        ├──────────────┼────────────────┨\n┃                        │ □ 반응시설  (    )기      │ □ 탑조류(증류탑 등)  (    )기 ┃\n┃                        ├──────────────┼────────────────┨\n┃                        │ □ 열교환기  (    )기      │ □ 사외배관  (    )기          ┃\n┃                        ├──────────────┼────────────────┨\n┃                        │ □ 기타  (    )기          │                                ┃\n┠────────────┼──────────────┼────────────────┨\n┃입?출하 및 운반시설    │ □ 입?출하 시설  (    )기 │ □ 보유 탱크로리  (    )기     ┃\n┠────────────┼─────┬────────┴┬───────────────┨\n┃유해화학물질 및 취급량  │화학물질명│화학물질식별번호  │최대 보유량(ton)              ┃\n┃                        │          │(CAS 번호)        │                              ┃\n┃                        ├─────┼─────────┼───────────────┨\n┃                        │          │                  │                              ┃\n┃                        ├─────┼─────────┼───────────────┨\n┃                        │          │                  │                              ┃\n┃                        ├─────┼─────────┼───────────────┨\n┃                        │          │                  │                              ┃\n┃                        ├─────┼─────────┼───────────────┨\n┃                        │          │                  │                              ┃\n┃                        ├─────┼─────────┼───────────────┨\n┃                        │          │                  │                              ┃\n┃                        ├─────┼─────────┼───────────────┨\n┃                        │          │                  │                              ┃\n┃                        ├─────┼─────────┼───────────────┨\n┃                        │          │                  │                              ┃\n┃                        ├─────┼─────────┼───────────────┨\n┃                        │          │                  │                              ┃\n┗━━━━━━━━━━━━┷━━━━━┷━━━━━━━━━┷━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152291",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769179",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152287",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769175",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152291",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769179",
           "name": "",
           "file_store_url": ""
         }
@@ -5394,17 +5385,17 @@
       "content": "■ 화학사고예방관리계획서 작성 등에 관한 규정 [별지 제5호서식]\n세부 취급시설 개요\n┏━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃구분                    │세부내용                                                      ┃\n┠────────────┼───────────────────────────────┨\n┃단위공장 구성           │                                                              ┃\n┠────────────┼───────────────────────────────┨\n┃공정개요                │                                                              ┃\n┠────────────┼──────────────┬────────────────┨\n┃장치?설비 종류 및 수량 │ □ 저장탱크  (    )기      │ □ 저장·보관시설  (    )기    ┃\n┃                        ├──────────────┼────────────────┨\n┃                        │ □ 혼합시설  (    )기      │ □ 고압시설  (    )기          ┃\n┃                        ├──────────────┼────────────────┨\n┃                        │ □ 반응시설  (    )기      │ □ 탑조류(증류탑 등)  (    )기 ┃\n┃                        ├──────────────┼────────────────┨\n┃                        │ □ 열교환기  (    )기      │ □ 사외배관  (    )기          ┃\n┃                        ├──────────────┼────────────────┨\n┃                        │ □ 기타  (    )기          │                                ┃\n┠────────────┼──────────────┼────────────────┨\n┃입?출하 및 운반시설    │ □ 입?출하 시설  (    )기 │ □ 보유 탱크로리  (    )기     ┃\n┠────────────┼─────┬────────┴┬───────────────┨\n┃유해화학물질 및 취급량  │화학물질명│화학물질식별번호  │최대 보유량(ton)              ┃\n┃                        │          │(CAS 번호)        │                              ┃\n┃                        ├─────┼─────────┼───────────────┨\n┃                        │          │                  │                              ┃\n┃                        ├─────┼─────────┼───────────────┨\n┃                        │          │                  │                              ┃\n┃                        ├─────┼─────────┼───────────────┨\n┃                        │          │                  │                              ┃\n┃                        ├─────┼─────────┼───────────────┨\n┃                        │          │                  │                              ┃\n┃                        ├─────┼─────────┼───────────────┨\n┃                        │          │                  │                              ┃\n┃                        ├─────┼─────────┼───────────────┨\n┃                        │          │                  │                              ┃\n┃                        ├─────┼─────────┼───────────────┨\n┃                        │          │                  │                              ┃\n┃                        ├─────┼─────────┼───────────────┨\n┃                        │          │                  │                              ┃\n┗━━━━━━━━━━━━┷━━━━━┷━━━━━━━━━┷━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152297",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769185",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152293",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769181",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152297",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769185",
           "name": "",
           "file_store_url": ""
         }
@@ -5420,31 +5411,31 @@
       "no": "0006",
       "branch": "00",
       "kind": "별지",
-      "title": "유해화학물질 목록 및 취급량",
+      "title": "유해화학물질 목록 및 명세",
       "enforcement_date": "",
       "content": "■ 화학사고예방관리계획서 작성 등에 관한 규정 [별지 제6호서식]\n유해화학물질 목록 및 명세\n┏━━┯━━━━┯━━┯━━━━┯━━┯━━┯━━┯━━┯━━━━━━┯━━━━━┯━━━━━━┯━━━━━┯━━━━┯━━━━━━━━━━━━━━━━━━━┓\n┃연번│유해화학│물질│화학물질│고유│물질│함량│비중│폭발한계(%) │독성구분  │위험노출수준│허용농도값│증기압  │부식성                                ┃\n┃    │물질명  │구분│식별번호│번호│상태│(%) │    ├──┬───┼──┬──┤            │          │(20 ℃, │(유, 무)                              ┃\n┃    │        │    │        │    │    │    │    │하한│상한  │항목│구분│            │          │mmHg)   │                                      ┃\n┣━━┿━━━━┿━━┿━━━━┿━━┿━━┿━━┿━━┿━━┿━━━┿━━┿━━┿━━━━━━┿━━━━━┿━━━━┿━━━━━━━━━━━━━━━━━━━┫\n┃    │        │    │        │    │    │    │    │    │      │    │    │            │          │        │                                      ┃\n┠──┼────┼──┼────┼──┼──┼──┼──┼──┼───┼──┼──┼──────┼─────┼────┼───────────────────┨\n┃    │        │    │        │    │    │    │    │    │      │    │    │            │          │        │                                      ┃\n┠──┼────┼──┼────┼──┼──┼──┼──┼──┼───┼──┼──┼──────┼─────┼────┼───────────────────┨\n┃    │        │    │        │    │    │    │    │    │      │    │    │            │          │        │                                      ┃\n┠──┼────┼──┼────┼──┼──┼──┼──┼──┼───┼──┼──┼──────┼─────┼────┼───────────────────┨\n┃    │        │    │        │    │    │    │    │    │      │    │    │            │          │        │                                      ┃\n┗━━┷━━━━┷━━┷━━━━┷━━┷━━┷━━┷━━┷━━┷━━━┷━━┷━━┷━━━━━━┷━━━━━┷━━━━┷━━━━━━━━━━━━━━━━━━━┛\n\n주)  ① 유해화학물질명은 가능한 한글로 작성하고 「화학물질의 분류 및 표시 등에 관한 규정」에 따른 고유의 화학물질 명칭으로 작성한다.\n② 물질구분은 「인체급성유해성물질, 인체만성유해성물질 및 생태유해성물질의 지정고시」, 「사고대비물질의 지정」에 따른 분류를 급성, 만성, 생태, 사\n고대비 등으로 작성한다.\n③ 화학물질식별번호(CAS 번호)는 유해화학물질 함량기준 이상인 화학물질의 CAS 번호를 입력하며, 고유번호에는 「화학물질의 분류 및 표시 등에 관한 규정」에\n따른 고유번호를 입력한다.\n④ 물질상태의 상태는 취급물질의 상온, 상압에서의 상태를 기체, 액체 및 고체로 구분하여 작성한다.\n⑤ 비중은 취급물질의 상온에서의 비중을 작성하며, 근거자료를 제출해야 한다.\n⑥ 농도는 취급물질의 입·출하, 저장·보관, 사용 및 제조 등의 공정에서 함량기준 이상으로 존재하는 물질의 농도범위와 단위를 표시한다.\n⑦ 폭발한계는 공기중에서 연소 및 폭발이 발생할 수 있는 농도(%)를 작성하되, 하한값과 상한값을 구분하여 작성한다.\n⑧ 독성구분은 「화학물질의 분류 및 표시 등에 관한 규정」 별표 4의 유해성 분류를 기준으로 항목과 구분을 모두 작성한다.\n⑨ 위험노출수준에는 ERPG값을 우선으로 작성하고 ERPG 값이 없는 경우 AEGL, PAC, IDHL 순서로 사업장에서 확인가능한 값을 작성한다.\n⑩ 허용농도값에는 TWA값을 작성한다.\n⑪ 증기압은 20℃에서의 증기압을 기재하거나 증기압과 해당온도를 함께 작성한다.\n⑫ 부식성은 금속부식성 여부를 작성한다.\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152303",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769191",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152299",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769187",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152303",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769191",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:화학사고예방관리계획서작성등에관한규정#BJ0006",
-      "filename": "별지6_유해화학물질 목록 및 취급량.pdf",
+      "filename": "별지6_유해화학물질 목록 및 명세.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지6_유해화학물질 목록 및 취급량.pdf",
+      "local_path": "별지/별지6_유해화학물질 목록 및 명세.pdf",
       "file_store_url": ""
     },
     {
@@ -5456,17 +5447,17 @@
       "content": "■ 화학사고예방관리계획서 작성 등에 관한 규정 [별지 제7호서식]\n유해화학물질의 유해성 정보\n┏━━━━━━━━━━━━━━━┓\n┃취급물질의 일반정보           ┃\n┠───────────────┨\n┃가. 물질명                    ┃\n┠───────────────┨\n┃나. 화학물질식별번호(CAS 번호)┃\n┠───────────────┨\n┃다. 유해화학물질 고유번호     ┃\n┠───────────────┨\n┃라. 농도(또는 함량 %)         ┃\n┠───────────────┨\n┃마. 최대보유량                ┃\n┠───────────────┨\n┃2. 인체유해성                 ┃\n┠───────────────┨\n┃                              ┃\n┠───────────────┨\n┃ 3. 물리적 위험성             ┃\n┠───────────────┨\n┃                              ┃\n┠───────────────┨\n┃ 4. 환경유해성                ┃\n┠───────────────┨\n┃                              ┃\n┠───────────────┨\n┃ 5. 출처                      ┃\n┠───────────────┨\n┃                              ┃\n┠───────────────┨\n┃ 6. 선정 사유                 ┃\n┠───────────────┨\n┃                              ┃\n┗━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152309",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769197",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152305",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769193",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152309",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769197",
           "name": "",
           "file_store_url": ""
         }
@@ -5487,17 +5478,17 @@
       "content": "■ 화학사고예방관리계획서 작성 등에 관한 규정 [별지 제8호서식]\n사업장 주변 환경 정보\n1. 사업장 입지현황\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃사업장 경계선 500m 범위 내의 입지 현황                                                    ┃\n┠─────────────────────────────────────────────┨\n┃                                                                                          ┃\n┃                                                                                          ┃\n┃                                                                                          ┃\n┃                                                                                          ┃\n┃                                                                                          ┃\n┃                                                                                          ┃\n┠─────────────┬───────────────────────────────┨\n┃갑종 보호대상             │□ 문화·집회시설     □ 종교시설           □ 판매시설       ┃\n┃(적용되는 모든 것에 표시) │                                                              ┃\n┃                          │□ 운수시설           □ 의료시설           □ 교육·연구시설 ┃\n┃                          │                                                              ┃\n┃                          │□ 노유자시설         □ 숙박시설           □ 관광휴게시설   ┃\n┃                          │                                                              ┃\n┃                          │□ 수련시설           □ 주택                                 ┃\n┠─────────────┼───────────────────────────────┨\n┃을종 보호대상             │□ 주택·업무시설           □ 근린 생활시설                  ┃\n┃(적용되는 모든 것에 표시) │                                                              ┃\n┃                          │□ 위험물 저장 및 처리시설  □ 기타 건축물                    ┃\n┃                          │                                                              ┃\n┃                          │□ 공업시설                                                   ┃\n┠─────────────┼───────────────────────────────┨\n┃환경수용체                │□ 생태·경관보호지역         □ 하천                         ┃\n┃(적용되는 모든 것에 표시) │                                                              ┃\n┃                          │□ 자연공원           □ 산림지 및 유적지   □ 습지보호지역   ┃\n┃                          │                                                              ┃\n┃                          │□ 상수원 및 취수원   □ 농경지             □ 기타 환경수용체┃\n┗━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n2. 취급시설 입지 내 보호대상 목록 및 명세\n┏━━━━┯━━━━━━━┯━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃일련번호│보호대상 종류 │보호대상 명칭 │거리(m)                                                   ┃\n┠────┼───────┼───────┼─────────────────────────────┨\n┃        │              │              │                                                          ┃\n┠────┼───────┼───────┼─────────────────────────────┨\n┃        │              │              │                                                          ┃\n┠────┼───────┼───────┼─────────────────────────────┨\n┃        │              │              │                                                          ┃\n┗━━━━┷━━━━━━━┷━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n주) ① 사업장 입지 현황의 보호대상 위치는 취급시설 입지 내 보호대상 목록 및 명세의 일련번호로 지도\n위에 표기한다.\n② 보호대상 종류는 별표 4의 갑종, 을종 보호대상 및 환경수용체의 세부 구분 중 선택하여 작성한다.\n③ 거리는 사업장 경계선에서 보호대상까지의 거리를 작성한다.\n\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152315",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769203",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152311",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769199",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152315",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769203",
           "name": "",
           "file_store_url": ""
         }
@@ -5518,17 +5509,17 @@
       "content": "■ 화학사고예방관리계획서 작성 등에 관한 규정 [별지 제9호서식]\n장치ㆍ설비 목록 및 명세\n(       공장)\n┏━━┯━━┯━━━━┯━━━━┯━━━━┯━━━━┯━━━━┯━━━━━━┯━━━━━┯━━━━━┯━━━━━━┯━━━━━━┯━━━━━━━━━━━━━━━┓\n┃연번│구분│장치?  │취급물질│CAS No. │물질상태│함량(%) │연결구 크기 │압력(MPa) │온도(℃)  │설계용량(m3)│취급량(ton) │비 고                         ┃\n┃    │기호│설비명  │        │        │        │        │(mm)        ├──┬──┼──┬──┤            │            │                              ┃\n┃    │    │        │        │        │        │        │            │설계│운전│설계│운전│            │            │                              ┃\n┠──┼──┼────┼────┼────┼────┼────┼──────┼──┼──┼──┼──┼──────┼──────┼───────────────┨\n┃    │    │        │        │        │        │        │            │    │    │    │    │            │            │                              ┃\n┠──┼──┼────┼────┼────┼────┼────┼──────┼──┼──┼──┼──┼──────┼──────┼───────────────┨\n┃    │    │        │        │        │        │        │            │    │    │    │    │            │            │                              ┃\n┠──┼──┼────┼────┼────┼────┼────┼──────┼──┼──┼──┼──┼──────┼──────┼───────────────┨\n┃    │    │        │        │        │        │        │            │    │    │    │    │            │            │                              ┃\n┠──┼──┼────┼────┼────┼────┼────┼──────┼──┼──┼──┼──┼──────┼──────┼───────────────┨\n┃    │    │        │        │        │        │        │            │    │    │    │    │            │            │                              ┃\n┠──┼──┼────┼────┼────┼────┼────┼──────┼──┼──┼──┼──┼──────┼──────┼───────────────┨\n┃    │    │        │        │        │        │        │            │    │    │    │    │            │            │                              ┃\n┠──┼──┼────┼────┼────┼────┼────┼──────┼──┼──┼──┼──┼──────┼──────┼───────────────┨\n┃    │    │        │        │        │        │        │            │    │    │    │    │            │            │                              ┃\n┠──┼──┼────┼────┼────┼────┼────┼──────┼──┼──┼──┼──┼──────┼──────┼───────────────┨\n┃    │    │        │        │        │        │        │            │    │    │    │    │            │            │                              ┃\n┠──┼──┼────┼────┼────┼────┼────┼──────┼──┼──┼──┼──┼──────┼──────┼───────────────┨\n┃    │    │        │        │        │        │        │            │    │    │    │    │            │            │                              ┃\n┗━━┷━━┷━━━━┷━━━━┷━━━━┷━━━━┷━━━━┷━━━━━━┷━━┷━━┷━━┷━━┷━━━━━━┷━━━━━━┷━━━━━━━━━━━━━━━┛\n주) ① 구분기호란에는 공정흐름도(Process Flow Diagram, PFD) 또는 공정 배관?계장도(Piping & Instrument Diagram, P&ID)에 표기된 장치 및 설비의 고유번호(Item\nnumber)를 작성한다.\n② 장치? 설비명란에는 압력용기, 증류탑, 반응기, 열교환기, 저장탱크 등 고정 장치 및 설비를 기재한다. 다만, 가열로, 응축기 등의 열교환기류는 동체(Shell)와\n관(Tube)으로 구분하여 각각 작성한다.\n③ 취급물질란는 장치 및 설비에서 취급하는 화학물질명을 작성한다.\n④ 연결구 크기에는 장치 및 설비에 연결된 배관 중 화학물질이 누출될 수 있는 가장 큰 연결구 크기를 작성한다.\n⑤ 압력, 온도에는 장치 및 설비의 설계 및 운전에 필요한 압력과 온도를 작성한다.\n⑥ 설계용량에는 장치 및 설비의 설계 총용량을 작성한다. 운전용량은 운전조건을 반영하여 작성한다.\n⑦ 비고에는 PFD 도면번호 등 그 밖의 사항을 작성한다.\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152321",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769209",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152317",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769205",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152321",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769209",
           "name": "",
           "file_store_url": ""
         }
@@ -5549,17 +5540,17 @@
       "content": "■ 화학사고예방관리계획서 작성 등에 관한 규정 [별지 제10호서식]\n확산방지설비 현황\n┏━━┯━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━┯━━━━━━┓\n┃연번│취급시설                                  │확산방지설비                          │비고        ┃\n┃    ├────┬────┬──────┬────┼────┬────┬────┬────┤            ┃\n┃    │설비형태│구분기호│장치·설비명│설계용량│설비종류│필요용량│유효용량│검토결과│            ┃\n┠──┼────┼────┼──────┼────┼────┼────┼────┼────┼──────┨\n┃    │        │        │            │        │        │        │        │        │            ┃\n┠──┼────┼────┼──────┼────┼────┼────┼────┼────┼──────┨\n┃    │        │        │            │        │        │        │        │        │            ┃\n┠──┼────┼────┼──────┼────┼────┼────┼────┼────┼──────┨\n┃    │        │        │            │        │        │        │        │        │            ┃\n┠──┼────┼────┼──────┼────┼────┼────┼────┼────┼──────┨\n┃    │        │        │            │        │        │        │        │        │            ┃\n┠──┴────┴────┴──────┴────┴────┴────┴────┴────┴──────┨\n┃(별첨) 확산방지설비 배치도                                                                            ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n\n주) ① 취급시설의 설비 형태는 제조, 사용, 저장, 보관, 입·출하로 구분하여 작성한다.\n② 확산방지설비의 설비 종류는 방류벽, 방지턱, 트렌치 등으로 구분하여 작성한다.\n③ 확산방지설비의 필요용량 및 유효용량은 법 제24조에 따른 기준을 적용하여 계산한 용량을 작성한다.\n④ 확산방지설비의 검토결과는 확산방지설비의 용량이 충분한지 작성한다.\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152327",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769215",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152323",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769211",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152327",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769215",
           "name": "",
           "file_store_url": ""
         }
@@ -5580,17 +5571,17 @@
       "content": "■ 화학사고예방관리계획서 작성 등에 관한 규정 [별지 제11호서식]\n고정식 유해감지시설 명세\n(     공정)\n┏━━┯━━━━━┯━━━━┯━━━━┯━━━━┯━━━━┯━━━┯━━━━┯━━━━┯━━━┯━━━━┯━━━━━━━━━━━━━━━━━┓\n┃연번│구분 기호 │감지대상│설치위치│작동시간│측정방식│경보  │경보기  │연동여부│정밀도│유지관리│비고                              ┃\n┃    │          │        │        │        │        │설정값│설치장소│        │      │        │                                  ┃\n┠──┼─────┼────┼────┼────┼────┼───┼────┼────┼───┼────┼─────────────────┨\n┃    │          │        │        │        │        │      │        │        │      │        │                                  ┃\n┠──┼─────┼────┼────┼────┼────┼───┼────┼────┼───┼────┼─────────────────┨\n┃    │          │        │        │        │        │      │        │        │      │        │                                  ┃\n┠──┼─────┼────┼────┼────┼────┼───┼────┼────┼───┼────┼─────────────────┨\n┃    │          │        │        │        │        │      │        │        │      │        │                                  ┃\n┠──┼─────┼────┼────┼────┼────┼───┼────┼────┼───┼────┼─────────────────┨\n┃    │          │        │        │        │        │      │        │        │      │        │                                  ┃\n┗━━┷━━━━━┷━━━━┷━━━━┷━━━━┷━━━━┷━━━┷━━━━┷━━━━┷━━━┷━━━━┷━━━━━━━━━━━━━━━━━┛\n주) ① 구분기호는 고정식 유해감지시설의 고유 식별번호를 작성한다.\n② 감지대상은 감지하려는 화학물질명을 작성한다.\n③ 설치위치는 감지시설의 설치 장소 및 위치(설치높이) 등을 작성한다.\n④ 작동시간은 감지시설이 감지 후 작동하는데 걸리는 시간을 작성한다.\n⑤ 측정방식은 접촉연소식 또는 전기화학식 등 감지방식에 대하여 작성한다.\n⑥ 경보설정값란은 감지시설의 설정값을 기재한다. 2단계로 구분하여 작성할 경우는 H(1차), HH(2차) 등으로 구분하여 작성한다.\n⑦ 경보기설치장소는 경보기가 설치된 장소를 작성한다. 다만, 감지기와 경보기가 일체형인 경우는 감지시설의 설치위치와 동일하게 작성한다.\n⑧ 연동여부는 감지시설과 연동되어 작동하는 긴급차단설비 등의 유무에 대하여 표기한다.\n⑨ 정밀도는 감지시설의 정밀도를 작성한다.\n⑩ 유지관리는 감지시설의 점검주기 등을 작성한다.\n⑪ 비고는 방폭형 여부 등 그 밖의 사항을 작성한다.\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152333",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769221",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152329",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769217",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152333",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769221",
           "name": "",
           "file_store_url": ""
         }
@@ -5611,17 +5602,17 @@
       "content": "■ 화학사고예방관리계획서 작성 등에 관한 규정 [별지 제12호서식]\n사고시나리오 사업장 주변지역 영향 평가\n1. 영향범위평가\n\n(        ) 사고시나리오\n┏━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃영향범위              │취급시설을 중심으로 반경 (          )m, 장외 (      )m        ┃\n┠───────────┼───────────────────────────────┨\n┃영향범위 내 주민의 수 │사업장 위치   □ 산업단지 내    □ 산업단지 외                ┃\n┃                      ├───────────────────────────────┨\n┃                      │산업단지 내   거주민(   )명, 근로자(   )명                    ┃\n┃                      ├───────────────────────────────┨\n┃                      │산업단지 외   거주민(   )명, 근로자(   )명                    ┃\n┠───────────┼───────────────────────────────┨\n┃갑종 보호대상         │□ 문화·집회시설     □ 종교시설           □ 판매시설       ┃\n┃(적용되는 모든 것에   │                                                              ┃\n┃표시)                 │□ 운수시설           □ 의료시설           □ 교육·연구시설 ┃\n┃                      │                                                              ┃\n┃                      │□ 노유자시설         □ 숙박시설           □ 관광휴게시설   ┃\n┃                      │                                                              ┃\n┃                      │□ 수련시설           □ 주택                                 ┃\n┠───────────┼───────────────────────────────┨\n┃을종 보호대상         │□ 주택·업무시설           □ 근린 생활시설                  ┃\n┃(적용되는 모든 것에   │                                                              ┃\n┃표시)                 │□ 위험물 저장 및 처리시설  □ 기타 건축물                    ┃\n┃                      │                                                              ┃\n┃                      │□ 공업시설                                                   ┃\n┠───────────┼───────────────────────────────┨\n┃환경수용체            │□ 생태·경관보호지역         □ 하천                         ┃\n┃(적용되는 모든 것에   │                                                              ┃\n┃표시)                 │□ 자연공원           □ 산림지 및 유적지   □ 습지보호지역   ┃\n┃                      │                                                              ┃\n┃                      │□ 상수원 및 취수원   □ 농경지             □ 기타 환경수용체┃\n┠───────────┴───────────────────────────────┨\n┃주요 보호대상 위치                                                                    ┃\n┠───────────────────────────────────────────┨\n┃                                                                                      ┃\n┃                                                                                      ┃\n┃                                                                                      ┃\n┃                                                                                      ┃\n┃                                                                                      ┃\n┃                                                                                      ┃\n┃                                                                                      ┃\n┃                                                                                      ┃\n┃                                                                                      ┃\n┃사고원점의 좌표 :                                                                     ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n2. 취급시설 입지 내 보호대상 목록 및 명세\n┏━━━━┯━━━━━━━┯━━━━━━━┯━━━━━━┓\n┃일련번호│보호대상 종류 │보호대상 명칭 │장외거리(m) ┃\n┠────┼───────┼───────┼──────┨\n┃        │              │              │            ┃\n┠────┼───────┼───────┼──────┨\n┃        │              │              │            ┃\n┠────┼───────┼───────┼──────┨\n┃        │              │              │            ┃\n┗━━━━┷━━━━━━━┷━━━━━━━┷━━━━━━┛\n주) ① 사업장 위치는 해당 사업장이 산업단지에 위치했는지 확인할 수 있도록 표시한다.\n② 영향범위 내 주민 수는 산업단지 내와 산업단지 외의 거주민과 근로자를 구분하여 작성한다.\n③ 주요 보호대상 위치는 취급시설 입지 내 보호대상 목록 및 명세의 일련번호로 지도 위에 표기한다.\n④ 보호대상 종류는 별표 4의 갑종, 을종 보호대상 및 환경수용체의 세부 구분 중 선택하여 작성한다.\n⑤ 장외거리는 사업장 경계에서 보호대상까지의 거리를 작성한다.",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152341",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769229",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152335",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769223",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152341",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769229",
           "name": "",
           "file_store_url": ""
         }
@@ -5642,17 +5633,17 @@
       "content": "■ 화학사고예방관리계획서 작성 등에 관한 규정 [별지 제13호서식]\n총괄영향범위 사업장 주변지역 영향 평가\n1. 영향범위 평가\n┌─────────────┬────────────────────────────────┐\n│갑종 보호대상             │□ 문화·집회시설   □ 종교시설               □ 판매시설       │\n│(적용되는 모든 것에 표시) │                                                                │\n│                          │□ 운수시설         □ 의료시설               □ 교육·연구시설 │\n│                          │                                                                │\n│                          │□ 노유자시설       □ 숙박시설               □ 관광휴게시설   │\n│                          │                                                                │\n│                          │□ 수련시설         □ 주택                                     │\n├─────────────┼────────────────────────────────┤\n│을종 보호대상             │□ 주택·업무시설           □ 근린 생활시설                    │\n│(적용되는 모든 것에 표시) │                                                                │\n│                          │□ 위험물 저장 및 처리시설  □ 기타 건축물                      │\n│                          │                                                                │\n│                          │□ 공업시설                                                     │\n├─────────────┼────────────────────────────────┤\n│환경수용체                │□ 생태·경관보호지역   □ 하천                                 │\n│(적용되는 모든 것에 표시) │                                                                │\n│                          │□ 자연공원           □ 산림지 및 유적지   □ 습지보호지역     │\n│                          │                                                                │\n│                          │□ 상수원 및 취수원   □ 농경지             □ 기타 환경수용체  │\n├─────────────┴────────────────────────────────┤\n│주요 보호대상 위치                                                                          │\n├──────────────────────────────────────────────┤\n│                                                                                            │\n└──────────────────────────────────────────────┘\n2. 취급시설 입지 내 보호대상 목록 및 명세\n┏━━━━┯━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃일련번호│보호대상 명칭 │보호대상 종류                                                             ┃\n┠────┼───────┼─────────────────────────────────────┨\n┃        │              │                                                                          ┃\n┠────┼───────┼─────────────────────────────────────┨\n┃        │              │                                                                          ┃\n┠────┼───────┼─────────────────────────────────────┨\n┃        │              │                                                                          ┃\n┗━━━━┷━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n주) ① 입지현황의 보호대상은 일련번호로 표기한다.\n② 취급시설 입지 내 보호대상 목록 및 명세에 입지현황에 표기된 일련번호의 보호대상과 관련\n한 정보를 작성한다.\n③ 일련번호는 입지현황에 표기된 보호대상의 번호를 작성한다.\n④ 보호대상 종류는 「유해화학물질 취급시설 외벽으로부터 보호대상까지의 안전거리 고시」 별표 2\n및 별표3의 갑종 및 을종 보호대상에 대하여 작성한다.\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152347",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769235",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152343",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769231",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152347",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769235",
           "name": "",
           "file_store_url": ""
         }
@@ -5670,20 +5661,20 @@
       "kind": "별지",
       "title": "사고시나리오별 시설빈도",
       "enforcement_date": "",
-      "content": "■ 화학사고예방관리계획서 작성 등에 관한 규정 [별지 제13호서식]\n사고시나리오별 시설빈도\n1. 취급시설 사고시나리오별 시설 빈도\n\n1) (        ) 사고시나리오\n┏━━┯━━━━━━━━━━━━━━┯━━━━┯━━┯━━━━┓\n┃연번│개시사건                    │빈도    │개수│사고빈도┃\n┠──┼──────────────┼────┼──┼────┨\n┃1   │고압용기파열                │1×10-6 │    │        ┃\n┠──┼──────────────┼────┼──┼────┨\n┃2   │배관파열                    │1×10-5 │    │        ┃\n┠──┼──────────────┼────┼──┼────┨\n┃3   │배관누출                    │1×10-3 │    │        ┃\n┠──┼──────────────┼────┼──┼────┨\n┃4   │상압 탱크 파열 및 누출      │1×10-3 │    │        ┃\n┠──┼──────────────┼────┼──┼────┨\n┃5   │플랜지 등의 가스켓 파손     │1×10-3 │    │        ┃\n┠──┼──────────────┼────┼──┼────┨\n┃6   │펌프/컴프레서 누출          │1×10-3 │    │        ┃\n┠──┼──────────────┼────┼──┼────┨\n┃7   │안전밸브 오작동 및 조기개방 │1×10-2 │    │        ┃\n┠──┼──────────────┼────┼──┼────┨\n┃8   │냉각수 손실                 │1×10-1 │    │        ┃\n┠──┼──────────────┼────┼──┼────┨\n┃9   │입/출하 시설 누출 사고      │1×10-2 │    │        ┃\n┠──┼──────────────┼────┼──┼────┨\n┃10  │외부화재                    │1×10-2 │    │        ┃\n┠──┼──────────────┼────┼──┼────┨\n┃합  │                            │        │    │        ┃\n┗━━┷━━━━━━━━━━━━━━┷━━━━┷━━┷━━━━┛\n2. 안전성확보설비 여부\n┌┐\n││\n││\n││\n││\n││\n└┘\n3. 보호대상 명세\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃보호대상 포함 여부                                                                            ┃\n┠───────────────────────────────────────────────┨\n┃  □ 갑종 보호대상       □ 을종 보호대상       □ 환경수용체       □ 근로자       □ 거주민 ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n┏━━━━━━━┯━━━━━━━┯━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃보호대상 종류 │보호대상 명칭 │장외거리(m) │주민수(개수)                                                                                            ┃\n┠───────┼───────┼──────┼────────────────────────────────────────────────────┨\n┃              │              │            │                                                                                                        ┃\n┠───────┼───────┼──────┼────────────────────────────────────────────────────┨\n┃              │              │            │                                                                                                        ┃\n┠───────┼───────┼──────┼────────────────────────────────────────────────────┨\n┃              │              │            │                                                                                                        ┃\n┗━━━━━━━┷━━━━━━━┷━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n주)  ① 사고시나리오별 시설빈도는 유해화학물질 취급시설에서 발생할 수 있는 각 사고 개시사건의 빈도와 개수의 곱으로 산정하여, 이를 합산한 값을 작성\n한다. 사고시나리오 구획 내의 개시사건과 개수 등을 확인할 수 있는 도면을 첨부하여 증빙한다.\n② 안전성확보설비 여부는 「화학물질관리법」 제24조 및 같은 법 시행규칙 별표 5에서 정하는 취급시설 설치·관리 기준 외 기준을 적용하여 취급시설의\n안전성을 확보한 경우에 한정하여 내용을 작성하고, 증빙자료를 별도로 제출한다.\n③ 보호대상 종류는 별표 4의 갑종, 을종 보호대상 및 환경수용체의 세부 구분 중 선택하여 작성한다.\n④ 장외거리는 사업장 경계에서 보호대상까지의 거리를 작성한다.\n⑤ 주민 수는 별지 제12호서식의 영향범위 내 주민 수에서 산업단지 내 근로자 수를 제외하고 작성한다.\n",
+      "content": "■ 화학사고예방관리계획서 작성 등에 관한 규정 [별지 제14호서식]\n사고시나리오별 시설빈도\n1. 취급시설 사고시나리오별 시설 빈도\n\n1) (        ) 사고시나리오\n┌──┬──────────────┬────┬──┬────┐\n│연번│개시사건                    │빈도    │개수│사고빈도│\n├──┼──────────────┼────┼──┼────┤\n│1   │고압용기파열                │1×10-6 │    │        │\n├──┼──────────────┼────┼──┼────┤\n│2   │배관파열                    │1×10-5 │    │        │\n├──┼──────────────┼────┼──┼────┤\n│3   │배관누출                    │1×10-3 │    │        │\n├──┼──────────────┼────┼──┼────┤\n│4   │상압 탱크 파열 및 누출      │1×10-3 │    │        │\n├──┼──────────────┼────┼──┼────┤\n│5   │플랜지 등의 가스켓 파손     │1×10-3 │    │        │\n├──┼──────────────┼────┼──┼────┤\n│6   │펌프/컴프레서 누출          │1×10-3 │    │        │\n├──┼──────────────┼────┼──┼────┤\n│7   │안전밸브 오작동 및 조기개방 │1×10-2 │    │        │\n├──┼──────────────┼────┼──┼────┤\n│8   │냉각수 손실                 │1×10-1 │    │        │\n├──┼──────────────┼────┼──┼────┤\n│9   │입/출하 시설 누출 사고      │1×10-2 │    │        │\n├──┼──────────────┼────┼──┼────┤\n│10  │외부화재                    │1×10-2 │    │        │\n├──┼──────────────┼────┼──┼────┤\n│합  │                            │        │    │        │\n└──┴──────────────┴────┴──┴────┘\n2. 안전성확보설비 여부\n┌┐\n││\n││\n││\n││\n││\n└┘\n3. 보호대상 명세\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃보호대상 포함 여부                                                                            ┃\n┠───────────────────────────────────────────────┨\n┃  □ 갑종 보호대상       □ 을종 보호대상       □ 환경수용체       □ 근로자       □ 거주민 ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n┏━━━━━━━┯━━━━━━━┯━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃보호대상 종류 │보호대상 명칭 │장외거리(m) │주민수(개수)                                                                                              ┃\n┠───────┼───────┼──────┼─────────────────────────────────────────────────────┨\n┃              │              │            │                                                                                                          ┃\n┠───────┼───────┼──────┼─────────────────────────────────────────────────────┨\n┃              │              │            │                                                                                                          ┃\n┠───────┼───────┼──────┼─────────────────────────────────────────────────────┨\n┃              │              │            │                                                                                                          ┃\n┗━━━━━━━┷━━━━━━━┷━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n주)  ① 사고시나리오별 시설빈도는 유해화학물질 취급시설에서 발생할 수 있는 각 사고 개시사건의 빈도와 개수의 곱으로 산정하여, 이를 합산한 값을 작성\n한다. 사고시나리오 구획 내의 개시사건과 개수 등을 확인할 수 있는 도면을 첨부하여 증빙한다.\n② 안전성확보설비 여부는 「화학물질관리법」 제24조 및 같은 법 시행규칙 별표 5에서 정하는 취급시설 설치·관리 기준 외 기준을 적용하여 취급시설의 안\n전성을 확보한 경우에 한정하여 내용을 작성하고, 증빙자료를 별도로 제출한다.\n③ 보호대상 종류는 별표 4의 갑종, 을종 보호대상 및 환경수용체의 세부 구분 중 선택하여 작성한다.\n④ 장외거리는 사업장 경계에서 보호대상까지의 거리를 작성한다.\n⑤ 주민 수는 별지 제12호서식의 영향범위 내 주민 수에서 산업단지 내 근로자 수를 제외하고 작성한다.\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152355",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769243",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152349",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769237",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152355",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769243",
           "name": "",
           "file_store_url": ""
         }
@@ -5704,17 +5695,17 @@
       "content": "■ 화학사고예방관리계획서 작성 등에 관한 규정 [별지 제15호서식]\n위험도 분석\n1. 사업장 내 위험도 판단 요소 선정\n┏━━┯━━━━━━━━┯━━━━━━━┯━━━━━━━┯━━━┓\n┃연번│사고시나리오 명 │사고시나리오  │사고시나리오  │주민수┃\n┃    │                │시설 빈도     │거리(장외)    │      ┃\n┠──┼────────┼───────┼───────┼───┨\n┃    │                │              │              │      ┃\n┠──┼────────┼───────┼───────┼───┨\n┃    │                │              │              │      ┃\n┠──┼────────┼───────┼───────┼───┨\n┃    │                │              │              │      ┃\n┗━━┷━━━━━━━━┷━━━━━━━┷━━━━━━━┷━━━┛\n2. 위험도 판단 요소 점수\n┏━━━━━┯━━━━━━━━━━┯━━━━━━━━━┯━━━━━━━━━━┯━━━━━┓\n┃          │사고시나리오 총 개수│사고시나리오 시설 │사고시나리오 거리의 │주민수 합 ┃\n┃          │(A)                 │빈도의 합 (B)     │합(C)               │(D)       ┃\n┠─────┼──────────┼─────────┼──────────┼─────┨\n┃계        │                    │                  │                    │          ┃\n┠─────┼──────────┼─────────┼──────────┼─────┨\n┃구간 점수 │                    │                  │                    │          ┃\n┗━━━━━┷━━━━━━━━━━┷━━━━━━━━━┷━━━━━━━━━━┷━━━━━┛\n3. 위험도 분석\n┏━━━━━━━━━┯━━━━━━━━━┓\n┃사고빈도점수(A+B) │사고영향점수(C+D) ┃\n┠─────────┼─────────┨\n┃                  │                  ┃\n┗━━━━━━━━━┷━━━━━━━━━┛\n주) ① 사고시나리오 시설빈도는 별지 제14호서식에 따른 개별 사고시나리오별 시설빈도의 합산된 값을 작성한다.\n② 사고시나리오 거리(장외)는 별지 제12호서식에 따른 개별 사고시나리오별 영향범위 중 장외거리를 작성한다.\n③ 주민 수는 별지 제12호서식의 영향범위 내 주민 수에서 산업단지 내 근로자 수를 제외하고 작성한다.\n④ 사고시나리오 총 개수는 1. 사업장 내 위험도 판단 요소 선정에 작성된 사고시나리오 개수를 작성한다.\n⑤ 사고시나리오 시설빈도의 합은 1. 사업장 내 위험도 판단 요소 선정에 작성된 사고시나리오별 시설빈도를 합산하여 작성한다.\n⑥ 사고시나리오 거리의 합은 1. 사업장 내 위험도 판단 요소 선정에 작성된 사고시나리오 장외거리를 합산하여 작성한다.\n⑦ 주민 수 합은 1. 사업장 내 위험도 판단 요소 선정에 작성된 주민 수를 합산하여 작성하며, 중복되는 주민 수도 포함한다.\n⑧ 구간점수는 별표 3 위험도 판단 기준에 따른 각각의 구간별 점수를 작성한다.\n⑨ 사고빈도 점수는 사고시나리오 개수 구간점수와 사고시나리오 시설빈도 구간점수를 합산하여 작성한다.\n⑩ 사고영향 점수는 사고시나리오 거리 구간점수와 주민 수의 구간점수를 합산하여 작성한다.",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152361",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769249",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152357",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769245",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152361",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769249",
           "name": "",
           "file_store_url": ""
         }
@@ -5735,17 +5726,17 @@
       "content": "■ 화학사고예방관리계획서 작성 등에 관한 규정 [별지 제16호서식]\n화학사고예방관리계획서 비상대응분야 요약서\n1. 사업장 일반정보\n┏━━━━━━━━┯━━━━┓\n┃구  분          │작성내용┃\n┣━━━━━━━━┿━━━━┫\n┃사업장명        │        ┃\n┠────────┼────┨\n┃대표자          │        ┃\n┠────────┼────┨\n┃우편번호/주소   │        ┃\n┠────────┼────┨\n┃사업자 등록번호 │        ┃\n┠────────┼────┨\n┃담당자 및 연락처│        ┃\n┠────────┼────┨\n┃ 작성일         │        ┃\n┗━━━━━━━━┷━━━━┛\n2. 사고시나리오 선정 유해화학물질 목록\n┏━━┯━━━━━━━┯━━━━━━━━┯━━━━━━┯━━━━━━━━┯━━━━━━━━━━━━━━━━━━━┓\n┃연번│유해화학물질명│화학물질식별번호│최대함량(%) │최대보유량(ton) │사고유형                              ┃\n┃    │              │(CAS 번호)      │            │                │                                      ┃\n┠──┼───────┼────────┼──────┼────────┼───────────────────┨\n┃    │              │                │            │                │                                      ┃\n┠──┼───────┼────────┼──────┼────────┼───────────────────┨\n┃    │              │                │            │                │                                      ┃\n┠──┼───────┼────────┼──────┼────────┼───────────────────┨\n┃    │              │                │            │                │                                      ┃\n┠──┼───────┼────────┼──────┼────────┼───────────────────┨\n┃    │              │                │            │                │                                      ┃\n┠──┼───────┼────────┼──────┼────────┼───────────────────┨\n┃    │              │                │            │                │                                      ┃\n┠──┴───────┴────────┴──────┴────────┴───────────────────┨\n┃(별첨) 사업장 취급 유해화학물질 전체목록 별지 6호 서식                                                        ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n\n주)① 2. 사고시나리오 선정 유해화학물질 목록은 사고시나리오로 선정된 유해화학물질에 한정하여 작성하되, 사업장\n전체 취급 유해화학물질을 확인할 수 있는 별지 제6호서식(유해화학물질 목록 및 명세)을 별도 첨부한다.\n② 유해화학물질명은 「화학물질의 분류 및 표시 등에 관한 규정」에 따른 고유의 화학물질 명칭으로\n작성하고, 가능한 한글로 작성한다.\n③ 화학물질식별번호(CAS 번호)는 제조·공급사로부터 제공받은 물질안전보건자료(MSDS)에 기재된 CAS 번호\n를 작성한다.\n④ 최대함량에는 사업장 내에서 취급하는 최대 함량을 작성한다.\n⑤ 최대보유량은 별표 1에 따른 물질별 최대보유량을 작성한다(최대보유량이 적은 경우에는 kg 단위로\n작성할 수 있다.).\n⑥ 사고유형에는 독성, 화재·폭발 등 위험요인에 따른 피해영향모델 구분을 작성한다.\n\n3. 주변 환경정보\n┏━━┯━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃연번│종류│명칭                                                ┃\n┠──┼──┼──────────────────────────┨\n┃    │    │                                                    ┃\n┠──┼──┼──────────────────────────┨\n┃    │    │                                                    ┃\n┠──┼──┼──────────────────────────┨\n┃    │    │                                                    ┃\n┠──┼──┼──────────────────────────┨\n┃    │    │                                                    ┃\n┠──┼──┼──────────────────────────┨\n┃    │    │                                                    ┃\n┠──┴──┴──────────────────────────┨\n┃사업장 경계선 기준 반경 500m 내 환경 정보 위치도                ┃\n┠────────────────────────────────┨\n┃                                                                ┃\n┃                                                                ┃\n┃                                                                ┃\n┃                                                                ┃\n┃                                                                ┃\n┃                                                                ┃\n┃                                                                ┃\n┃                                                                ┃\n┃                                                                ┃\n┃                                                                ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n\n주)① 연번은 위치도상에 표시된 번호와 일치되도록 작성한다.\n② 종류에는 농경지, 산림, 하천, 저수지 등으로 분류하여 작성한다.\n\n4. 총괄영향범위 및 영향범위 내 수용체 목록 및 명세 (독성, 화재ㆍ폭발)\n┏━━┯━━━━━━━┯━━━━━━━━━━━━━━┯━━━━━━━━━━━┯━━━━━━━━┓\n┃연번│보호대상 종류 │보호대상 명칭               │실제거리(m)           │비고            ┃\n┠──┼───────┼──────────────┼───────────┼────────┨\n┃    │              │                            │                      │                ┃\n┠──┼───────┼──────────────┼───────────┼────────┨\n┃    │              │                            │                      │                ┃\n┠──┼───────┼──────────────┼───────────┼────────┨\n┃    │              │                            │                      │                ┃\n┠──┼───────┼──────────────┼───────────┼────────┨\n┃    │              │                            │                      │                ┃\n┠──┴───────┴──┬───────────┴───────────┴────────┨\n┃갑종 보호대상             │□ 문화·집회시설   □ 종교시설               □ 판매시설       ┃\n┃(적용되는 모든 것에 표시) │                                                                ┃\n┃                          │□ 운수시설         □ 의료시설               □ 교육·연구시설 ┃\n┃                          │                                                                ┃\n┃                          │□ 노유자시설       □ 숙박시설               □ 관광휴게시설   ┃\n┃                          │                                                                ┃\n┃                          │□ 수련시설         □ 주택                                     ┃\n┠─────────────┼────────────────────────────────┨\n┃을종 보호대상             │□ 주택·업무시설           □ 근린 생활시설                    ┃\n┃(적용되는 모든 것에 표시) │                                                                ┃\n┃                          │□ 위험물 저장 및 처리시설  □ 기타 건축물                      ┃\n┃                          │                                                                ┃\n┃                          │□ 공업시설                                                     ┃\n┠─────────────┼────────────────────────────────┨\n┃환경수용체                │□ 생태·경관보호지역     □ 하천                               ┃\n┃(적용되는 모든 것에 표시) │                                                                ┃\n┃                          │□ 자연공원           □ 산림지 및 유적지   □ 습지보호지역     ┃\n┃                          │                                                                ┃\n┃                          │□ 상수원 및 취수원   □ 농경지             □ 기타 환경수용체  ┃\n┠─────────────┴────────────────────────────────┨\n┃총괄영향범위 내 보호대상의 위치도                                                           ┃\n┠──────────────────────────────────────────────┨\n┃                                                                                            ┃\n┃                                                                                            ┃\n┃                                                                                            ┃\n┃                                                                                            ┃\n┃                                                                                            ┃\n┃                                                                                            ┃\n┃                                                                                            ┃\n┃                                                                                            ┃\n┃                                                                                            ┃\n┃                                                                                            ┃\n┃                                                                                            ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n\n주) ① 보호대상 종류는 별표 4의 갑종, 을종 보호대상 및 환경수용체에 대하여 작성한다.\n② 비고는 갑종, 을종, 환경수용체로 분류하여 작성한다.\n\n5. 유관기관목록 및 유관기관과의 비상연락 체계\n┏━━━━┯━━━━┳━━━━┯━━━━┓\n┃관계기관│전화번호┃관계기관│전화번호┃\n┠────┼────╂────┼────┨\n┃        │        ┃        │        ┃\n┠────┼────╂────┼────┨\n┃        │        ┃        │        ┃\n┠────┼────╂────┼────┨\n┃        │        ┃        │        ┃\n┠────┼────╂────┼────┨\n┃        │        ┃        │        ┃\n┠────┼────╂────┼────┨\n┃        │        ┃        │        ┃\n┣━━━━┷━━━━┻━━━━┷━━━━┫\n┃비상연락 체계                         ┃\n┠───────────────────┨\n┃                                      ┃\n┗━━━━━━━━━━━━━━━━━━━┛\n6. 지역사회와 공조\n6-1. 사전 정보 공유 계획\n┏━━━━━━━━━━┯━━━━━┯━━━━━┯━━━━━┓\n┃대상 기관(협의체)명 │제공 정보 │제공 방법 │제공 시기 ┃\n┠──────────┼─────┼─────┼─────┨\n┃                    │          │          │          ┃\n┠──────────┼─────┼─────┼─────┨\n┃                    │          │          │          ┃\n┠──────────┼─────┼─────┼─────┨\n┃                    │          │          │          ┃\n┗━━━━━━━━━━┷━━━━━┷━━━━━┷━━━━━┛\n6-2. 지역사회와 소통 및 공조계획\n┏━━┯━━━━━┯━━┯━━┯━━━━━━━━━━━━━━━┓\n┃종류│참석 대상 │일정│장소│소통방법                      ┃\n┠──┼─────┼──┼──┼───────────────┨\n┃    │          │    │    │                              ┃\n┠──┼─────┼──┼──┼───────────────┨\n┃    │          │    │    │                              ┃\n┠──┼─────┼──┼──┼───────────────┨\n┃    │          │    │    │                              ┃\n┗━━┷━━━━━┷━━┷━━┷━━━━━━━━━━━━━━━┛\n\n\n주)종류에는 회의, 캠페인, 간담회 등으로 분류하여 작성한다.\n\n7. 사고발생 시 대피경보 및 전달체계\n7-1. 사업장 외부 대피경보 방법\n┏━━┯━━━━━┯━━━━━━━┯━━━┯━━━━━━━━━━━━━━━━━━━━━┓\n┃구분│대상 명칭 │대피경보 방법 │연락처│담당자                                    ┃\n┠──┼─────┼───────┼───┼─────────────────────┨\n┃    │          │              │      │                                          ┃\n┠──┼─────┼───────┼───┼─────────────────────┨\n┃    │          │              │      │                                          ┃\n┠──┼─────┼───────┼───┼─────────────────────┨\n┃    │          │              │      │                                          ┃\n┗━━┷━━━━━┷━━━━━━━┷━━━┷━━━━━━━━━━━━━━━━━━━━━┛\n\n\n주)구분에는 대피경보 대상을 인근 사업장, 영향범위 내 주민 등으로 분류하여 작성한다.\n\n7-2. 지자체ㆍ협의체를 통한 경보전달 방법\n┏━━━━━━━━┯━━━━┯━━┯━━━━━━━┯━━━┓\n┃지자체ㆍ협의체명│담당부서│대상│대피경보 방법 │연락처┃\n┠────────┼────┼──┼───────┼───┨\n┃                │        │    │              │      ┃\n┠────────┼────┼──┼───────┼───┨\n┃                │        │    │              │      ┃\n┠────────┼────┼──┼───────┼───┨\n┃                │        │    │              │      ┃\n┗━━━━━━━━┷━━━━┷━━┷━━━━━━━┷━━━┛\n8. 응급 의료계획\n┏━━┯━━━┯━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃구분│병원명│주소│전화번호                                                          ┃\n┠──┼───┼──┼─────────────────────────────────┨\n┃    │      │    │                                                                  ┃\n┠──┼───┼──┼─────────────────────────────────┨\n┃    │      │    │                                                                  ┃\n┠──┼───┼──┼─────────────────────────────────┨\n┃    │      │    │                                                                  ┃\n┗━━┷━━━┷━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n\n주)구분에는 의료기관을 1차 의료기관, 2차 의료기관, 전문병원 등으로 분류하여 작성한다.\n\n9. 주민 대피장소\n┏━━━━┯━━━━━┯━━━━━━━━┯━━━━━━━━━━━┓\n┃대피장소│수용 인원 │사업장으로부터  │연락처                ┃\n┃        │          │거리(m)         │                      ┃\n┠────┼─────┼────────┼───────────┨\n┃        │          │                │                      ┃\n┠────┼─────┼────────┼───────────┨\n┃        │          │                │                      ┃\n┠────┼─────┼────────┼───────────┨\n┃        │          │                │                      ┃\n┗━━━━┷━━━━━┷━━━━━━━━┷━━━━━━━━━━━┛\n\n\n주)대피장소에는 대피장소 내 구체적인 위치를 지정하여 작성한다.\n\n10. 지역사회 고지 계획\n┏━━━━━┯━━━━━━━┯━━━━━━━┓\n┃고지 방법 │고지 대상 목록│고지 예정 시기┃\n┠─────┼───────┼───────┨\n┃          │              │              ┃\n┠─────┼───────┼───────┨\n┃          │              │              ┃\n┠─────┼───────┼───────┨\n┃          │              │              ┃\n┠─────┼───────┼───────┨\n┃          │              │              ┃\n┗━━━━━┷━━━━━━━┷━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152377",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769265",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152363",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769251",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164152377",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169769265",
           "name": "",
           "file_store_url": ""
         }
@@ -5760,35 +5751,43 @@
   ],
   "attachments": [
     {
-      "name": "「화학사고예방관리계획서 작성 등에 관한 규정」 일부 개정_전문, 별표, 별지 서식.zip",
-      "url": "http://law.go.kr/flDownload.do?flSeq=164089033",
-      "filename": "「화학사고예방관리계획서 작성 등에 관한 규정」 일부 개정_전문, 별표, 별지 서식.zip",
+      "name": "「화학사고예방관리계획서 작성 등에 관한 규정」 일부 개정_별표¸별지 서식 포함.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169769135",
+      "filename": "「화학사고예방관리계획서 작성 등에 관한 규정」 일부 개정_별표¸별지 서식 포함.hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/「화학사고예방관리계획서 작성 등에 관한 규정」 일부 개정_전문, 별표, 별지 서식.zip",
+      "local_path": "첨부파일/「화학사고예방관리계획서 작성 등에 관한 규정」 일부 개정_별표¸별지 서식 포함.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "「화학사고예방관리계획서 작성 등에 관한 규정」 일부 개정_별표¸별지 서식 포함.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169769139",
+      "filename": "「화학사고예방관리계획서 작성 등에 관한 규정」 일부 개정_별표¸별지 서식 포함.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/「화학사고예방관리계획서 작성 등에 관한 규정」 일부 개정_별표¸별지 서식 포함.pdf",
       "file_store_url": ""
     }
   ],
   "ordinance_delegations": [],
   "relation_mode": "no_crawl",
   "relation_stats": {
-    "relations_total": 217,
+    "relations_total": 216,
     "by_category": {
       "법령": 127,
-      "행정규칙": 90
+      "행정규칙": 89
     },
     "by_relation_type": {
       "citation": 126,
       "appendix_ref": 51,
-      "internal_ref": 40
+      "internal_ref": 39
     },
     "articles_total": 37,
     "articles_with_relations": 34,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 6,
     "appendices_count": 20,
-    "attachments_count": 1
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/화학사고예방관리계획서 작성 등에 관한 규정"
