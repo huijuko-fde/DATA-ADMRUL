@@ -1,25 +1,25 @@
 {
   "law_id": "20198",
-  "mst": "2100000275332",
+  "mst": "2100000285402",
   "law_name": "과징금 징수업무협의회 운영규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:20198",
-  "promulgation_no": "382",
-  "promulgation_date": "20260301",
-  "enforcement_date": "20260324",
-  "revision_date": "20260301",
+  "promulgation_no": "400",
+  "promulgation_date": "20261001",
+  "enforcement_date": "20261001",
+  "revision_date": "20261001",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "공정거래위원회(운영지원과)",
-    "담당자명": "한호영",
+    "담당자명": "이주현",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "과징금 징수업무협의회 운영규정",
-    "발령일자": "20260301",
+    "발령일자": "20261001",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "044-200-4202",
     "제개정구분명": "일부개정",
     "소관부처코드": "1130000",
-    "생성일자": "20260324",
+    "생성일자": "20261001",
     "행정규칙ID": "20198",
-    "시행일자": "20260324",
+    "시행일자": "20261001",
     "담당부서기관코드": "1130221",
-    "발령번호": "382",
-    "행정규칙일련번호": "2100000275332",
+    "발령번호": "400",
+    "행정규칙일련번호": "2100000285402",
     "상위부처명": "공정거래위원회"
   },
-  "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유 및 주요내용\n○ ’26년 조직개편에 따른 변동사항을 반영하여 규정 정비",
+  "amendment_text": "⊙공정거래위원회훈령 제400호\n과징금 징수업무협의회 운영규정 일부를 다음과 같이 개정한다.\n2026년 10월 1일\n공정거래위원회위원장\n과징금 징수업무협의회 운영규정 일부개정훈령\n과징금 징수업무협의회 운영규정 일부를 다음과 같이 개정한다.\n제2조 중 \"사건담당국장\"을 \"사건담당국장(가맹유통심의관, 중점조사기획단장 포함)\"으로 한다.\n부칙\n이 규정은 2026년 10월 1일부터 시행한다.",
+  "revision_reason": "1. 과징금 징수업무협의회 운영규정 개정(제2조)\n◇ 제ㆍ개정 이유 및 주요내용\n○ ’26년 조직개편에 따른 변동사항을 반영하여 규정 정비",
   "body": {
     "format": "articles",
     "article_count": 4,
@@ -57,7 +57,7 @@
         "article_title": "구성",
         "chapter": "",
         "chapter_path": "",
-        "content": "제2조(구성) 협의회는 조사관리관을 의장으로 하고, 심판관리관, 사건담당국장(가맹유통심의관 포함), 업무지원팀장을 위원으로 구성하며 용도담당 서기관(또는 사무관)을 간사로 한다.",
+        "content": "제2조(구성) 협의회는 조사관리관을 의장으로 하고, 심판관리관, 사건담당국장(가맹유통심의관, 중점조사기획단장 포함), 업무지원팀장을 위원으로 구성하며 용도담당 서기관(또는 사무관)을 간사로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -94,10 +94,10 @@
       "content": "부칙 <제114호,2008. 5. 19.>이 규정은 발령하는 날부터 시행한다",
       "provision_id": "admrul:과징금징수업무협의회운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275332",
+      "source_mst": "2100000285402",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20230414",
@@ -105,10 +105,10 @@
       "content": "부칙 <제342호, 2023. 4. 14.>이 규정은 2023년 4월 14일부터 시행한다.",
       "provision_id": "admrul:과징금징수업무협의회운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275332",
+      "source_mst": "2100000285402",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20250312",
@@ -116,10 +116,10 @@
       "content": "부칙 <제373호, 2025. 3. 12.>이 규정은 2025년 3월 12일부터 시행한다.",
       "provision_id": "admrul:과징금징수업무협의회운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275332",
+      "source_mst": "2100000285402",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20260301",
@@ -127,17 +127,28 @@
       "content": "부칙 <제382호, 2026. 3. 1.>이 규정은 2026년 3월 24일부터 시행한다.",
       "provision_id": "admrul:과징금징수업무협의회운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275332",
+      "source_mst": "2100000285402",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261001"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "400",
+      "content": "부칙 <제400호, 2026. 10. 1.>이 규정은 2026년 10월 1일부터 시행한다.",
+      "provision_id": "admrul:과징금징수업무협의회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285402",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261001"
     }
   ],
   "appendices": [],
   "attachments": [
     {
       "name": "3-1. (징수업무협의회운영규정) 개정훈령 전문.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=162351575",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169653581",
       "filename": "3-1. (징수업무협의회운영규정) 개정훈령 전문.hwpx",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/3-1. (징수업무협의회운영규정) 개정훈령 전문.hwpx",
@@ -145,7 +156,7 @@
     },
     {
       "name": "3-1. (징수업무협의회운영규정) 개정훈령 전문.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=162351779",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169653585",
       "filename": "3-1. (징수업무협의회운영규정) 개정훈령 전문.pdf",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/3-1. (징수업무협의회운영규정) 개정훈령 전문.pdf",
@@ -163,7 +174,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 0,
     "attachments_count": 2
   },
