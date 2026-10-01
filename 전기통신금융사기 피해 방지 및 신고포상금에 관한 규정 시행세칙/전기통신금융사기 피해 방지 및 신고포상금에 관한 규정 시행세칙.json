@@ -1,6 +1,6 @@
 {
   "law_id": "2086545",
-  "mst": "2200000108885",
+  "mst": "2200000108921",
   "law_name": "전기통신금융사기 피해 방지 및 신고포상금에 관한 규정 시행세칙",
   "law_abbr": "",
   "law_type": "세칙",
@@ -8,18 +8,18 @@
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2086545",
   "promulgation_no": "9999",
-  "promulgation_date": "20260729",
-  "enforcement_date": "20260804",
-  "revision_date": "20260729",
+  "promulgation_date": "20260930",
+  "enforcement_date": "20261001",
+  "revision_date": "20260930",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
-    "담당부서기관명": "금융감독원(불법금융대응단)",
+    "담당부서기관명": "금융감독원(금융사기대응단)",
     "담당자명": "",
     "행정규칙종류코드": "B0027",
     "행정규칙명": "전기통신금융사기 피해 방지 및 신고포상금에 관한 규정 시행세칙",
-    "발령일자": "20260729",
+    "발령일자": "20260930",
     "행정규칙종류": "세칙",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,12 +27,12 @@
     "전화번호": "02-3145-8521",
     "제개정구분명": "일부개정",
     "소관부처코드": "B550021",
-    "생성일자": "20260803",
+    "생성일자": "20261002",
     "행정규칙ID": "2086545",
-    "시행일자": "20260804",
+    "시행일자": "20261001",
     "담당부서기관코드": "",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000108885",
+    "행정규칙일련번호": "2200000108921",
     "상위부처명": "금융감독원"
   },
   "amendment_text": "",
@@ -46,7 +46,7 @@
         "article_title": "목적",
         "chapter": "",
         "chapter_path": "",
-        "content": "제1조(목적) 이 세칙은 「전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법」(이하 \"법\"이라 한다), 동법 시행령(이하 \"시행령\"이라 한다), 「전기통신금융사기 피해방지에 관한 규정」(이하 \"피해방지 규정\"이라 한다) 및 「전기통신금융사기 신고포상금에 관한 규정」(이하 \"포상금 규정\"이라 한다)에서 금융감독원장(이하 \"감독원장\"이라 한다) 소관 업무로 정하는 사항의 시행에 필요한 사항을 정함을 목적으로 한다.",
+        "content": "제1조(목적) 이 세칙은 「전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법」(이하 \"법\"이라 한다), 동법 시행령(이하 \"시행령\"이라 한다), 「전기통신금융사기 피해방지에 관한 규정」(이하 \"피해방지 규정\"이라 한다) 및 「전기통신금융사기 신고포상금에 관한 규정」(이하 \"포상금 규정\"이라 한다)에서 금융감독원장(이하 \"감독원장\"이라 한다) 소관 업무로 정하는 사항의 시행에 필요한 사항을 정함을 목적으로 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -57,17 +57,17 @@
             "source_clause": "제1조",
             "link_text": "동법 시행령",
             "line_text": "",
-            "target_law_name": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법 시행령",
+            "target_law_name": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법 시행령",
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2086545",
-            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법 시행령",
+            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법 시행령",
             "resolve_method": "html",
             "source_provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#JO0001",
-            "reference_id": "law:전기통신금융사기피해방지및피해금환급에관한특별법시행령#DOC",
+            "reference_id": "law:전기통신금융사기피해방지및피해자산환급에관한특별법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/시행령/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법 시행령.json"
+            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/시행령/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -88,6 +88,26 @@
             "reference_id": "admrul:전기통신금융사기피해방지에관한규정#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "전기통신금융사기 피해방지에 관한 규정/전기통신금융사기 피해방지에 관한 규정.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「전기통신금융사기 신고포상금에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "전기통신금융사기 신고포상금에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2086545",
+            "target_url": "https://www.law.go.kr/행정규칙/전기통신금융사기 신고포상금에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#JO0001",
+            "reference_id": "admrul:전기통신금융사기신고포상금에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "전기통신금융사기 신고포상금에 관한 규정/전기통신금융사기 신고포상금에 관한 규정.json"
           }
         ],
         "images": [],
@@ -120,17 +140,17 @@
             "source_clause": "제3조제1항",
             "link_text": "법",
             "line_text": "",
-            "target_law_name": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법",
+            "target_law_name": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법",
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2086545",
-            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법",
+            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법",
             "resolve_method": "html",
             "source_provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#JO0003",
-            "reference_id": "law:전기통신금융사기피해방지및피해금환급에관한특별법#DOC",
+            "reference_id": "law:전기통신금융사기피해방지및피해자산환급에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법.json"
+            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -140,17 +160,17 @@
             "source_clause": "제3조제1항",
             "link_text": "제5조 및 제6조",
             "line_text": "",
-            "target_law_name": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법",
+            "target_law_name": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법",
             "target_article_no": "제5조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2086545",
-            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/제5조",
+            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/제5조",
             "resolve_method": "html",
             "source_provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#JO0003",
-            "reference_id": "law:전기통신금융사기피해방지및피해금환급에관한특별법#JO0005",
+            "reference_id": "law:전기통신금융사기피해방지및피해자산환급에관한특별법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법.json"
+            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -160,17 +180,17 @@
             "source_clause": "제3조제1항",
             "link_text": "제5조 및 제6조",
             "line_text": "",
-            "target_law_name": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법",
+            "target_law_name": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법",
             "target_article_no": "제6조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2086545",
-            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/제6조",
+            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/제6조",
             "resolve_method": "html",
             "source_provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#JO0003",
-            "reference_id": "law:전기통신금융사기피해방지및피해금환급에관한특별법#JO0006",
+            "reference_id": "law:전기통신금융사기피해방지및피해자산환급에관한특별법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법.json"
+            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -180,17 +200,17 @@
             "source_clause": "제3조제1항",
             "link_text": "법",
             "line_text": "",
-            "target_law_name": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법",
+            "target_law_name": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법",
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2086545",
-            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법",
+            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법",
             "resolve_method": "html",
             "source_provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#JO0003",
-            "reference_id": "law:전기통신금융사기피해방지및피해금환급에관한특별법#DOC",
+            "reference_id": "law:전기통신금융사기피해방지및피해자산환급에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법.json"
+            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -200,17 +220,17 @@
             "source_clause": "제3조제1항",
             "link_text": "제5조 및 제6조",
             "line_text": "",
-            "target_law_name": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법",
+            "target_law_name": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법",
             "target_article_no": "제5조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2086545",
-            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/제5조",
+            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/제5조",
             "resolve_method": "html",
             "source_provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#JO0003",
-            "reference_id": "law:전기통신금융사기피해방지및피해금환급에관한특별법#JO0005",
+            "reference_id": "law:전기통신금융사기피해방지및피해자산환급에관한특별법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법.json"
+            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -220,17 +240,17 @@
             "source_clause": "제3조제1항",
             "link_text": "제5조 및 제6조",
             "line_text": "",
-            "target_law_name": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법",
+            "target_law_name": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법",
             "target_article_no": "제6조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2086545",
-            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/제6조",
+            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/제6조",
             "resolve_method": "html",
             "source_provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#JO0003",
-            "reference_id": "law:전기통신금융사기피해방지및피해금환급에관한특별법#JO0006",
+            "reference_id": "law:전기통신금융사기피해방지및피해자산환급에관한특별법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법.json"
+            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법.json"
           }
         ],
         "images": [],
@@ -292,17 +312,17 @@
             "source_clause": "제4조",
             "link_text": "법",
             "line_text": "",
-            "target_law_name": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법",
+            "target_law_name": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법",
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2086545",
-            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법",
+            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법",
             "resolve_method": "html",
             "source_provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#JO0004",
-            "reference_id": "law:전기통신금융사기피해방지및피해금환급에관한특별법#DOC",
+            "reference_id": "law:전기통신금융사기피해방지및피해자산환급에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법.json"
+            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -312,17 +332,17 @@
             "source_clause": "제4조",
             "link_text": "제2조의2제2항",
             "line_text": "",
-            "target_law_name": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법",
+            "target_law_name": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법",
             "target_article_no": "제2조의2",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2086545",
-            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/제2조의2",
+            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/제2조의2",
             "resolve_method": "html",
             "source_provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#JO0004",
-            "reference_id": "law:전기통신금융사기피해방지및피해금환급에관한특별법#JO0002_02",
+            "reference_id": "law:전기통신금융사기피해방지및피해자산환급에관한특별법#JO0002_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법.json"
+            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법.json"
           }
         ],
         "images": [],
@@ -344,17 +364,17 @@
             "source_clause": "제5조제1항",
             "link_text": "법",
             "line_text": "",
-            "target_law_name": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법",
+            "target_law_name": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법",
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2086545",
-            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법",
+            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법",
             "resolve_method": "html",
             "source_provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#JO0005",
-            "reference_id": "law:전기통신금융사기피해방지및피해금환급에관한특별법#DOC",
+            "reference_id": "law:전기통신금융사기피해방지및피해자산환급에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법.json"
+            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -364,17 +384,17 @@
             "source_clause": "제5조제1항",
             "link_text": "제2조의2제2항",
             "line_text": "",
-            "target_law_name": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법",
+            "target_law_name": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법",
             "target_article_no": "제2조의2",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2086545",
-            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/제2조의2",
+            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/제2조의2",
             "resolve_method": "html",
             "source_provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#JO0005",
-            "reference_id": "law:전기통신금융사기피해방지및피해금환급에관한특별법#JO0002_02",
+            "reference_id": "law:전기통신금융사기피해방지및피해자산환급에관한특별법#JO0002_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법.json"
+            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법.json"
           }
         ],
         "images": [],
@@ -606,7 +626,7 @@
         "article_title": "통지 등",
         "chapter": "",
         "chapter_path": "",
-        "content": "제13조(통지 등) 금융회사가 다음 각 호에 따라 금융감독원에 통지 또는 요청을 하는 경우에는 정보통신망(「정보통신망이용촉진및정보보호등에관한법률」의 규정에 의한 정보통신망을 말한다)을 이용한 전자문서의 방법에 의할 수 있다.1. 금융회사가 법 제4조제2항에 따라 지급정지사실을 금융감독원에 통지하는 경우2. 금융회사가 법 제5조제1항에 따라 금융감독원에 채권소멸절차 개시 공고를 요청하는 경우3. 금융회사가 법 제8조제1항에 따른 지급정지 및 채권소멸절차 종료를 금융감독원에 통지하는 경우4. 금융회사가 시행령 제9조제2항에 따라 피해환급금 지급 사실을 금융감독원에 통지하는 경우",
+        "content": "제13조(통지 등) 금융회사등이 다음 각 호에 따라 금융감독원에 통지 또는 요청을 하는 경우에는 정보통신망(「정보통신망이용촉진및정보보호등에관한법률」의 규정에 의한 정보통신망을 말한다)을 이용한 전자문서의 방법에 의할 수 있다.1. 금융회사등이 법 제4조제2항에 따라 지급정지사실을 금융감독원에 통지하는 경우2. 금융회사등이 법 제5조제1항에 따라 금융감독원에 채권소멸절차 개시 공고를 요청하는 경우3. 금융회사등이 법 제8조제1항에 따른 지급정지 및 채권소멸절차 종료를 금융감독원에 통지하는 경우4. 금융회사등이 시행령 제9조제2항에 따라 피해환급자산 지급 사실을 금융감독원에 통지하는 경우",
         "enforcement_date": "",
         "relations": [
           {
@@ -637,17 +657,17 @@
             "source_clause": "제13조",
             "link_text": "제4조제2항",
             "line_text": "",
-            "target_law_name": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법",
+            "target_law_name": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법",
             "target_article_no": "제4조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2086545",
-            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/제4조",
+            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/제4조",
             "resolve_method": "html",
             "source_provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#JO0013",
-            "reference_id": "law:전기통신금융사기피해방지및피해금환급에관한특별법#JO0004",
+            "reference_id": "law:전기통신금융사기피해방지및피해자산환급에관한특별법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법.json"
+            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -657,17 +677,17 @@
             "source_clause": "제13조",
             "link_text": "제5조제1항",
             "line_text": "",
-            "target_law_name": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법",
+            "target_law_name": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법",
             "target_article_no": "제5조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2086545",
-            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/제5조",
+            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/제5조",
             "resolve_method": "html",
             "source_provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#JO0013",
-            "reference_id": "law:전기통신금융사기피해방지및피해금환급에관한특별법#JO0005",
+            "reference_id": "law:전기통신금융사기피해방지및피해자산환급에관한특별법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법.json"
+            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -677,17 +697,17 @@
             "source_clause": "제13조",
             "link_text": "제8조제1항",
             "line_text": "",
-            "target_law_name": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법",
+            "target_law_name": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법",
             "target_article_no": "제8조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2086545",
-            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/제8조",
+            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/제8조",
             "resolve_method": "html",
             "source_provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#JO0013",
-            "reference_id": "law:전기통신금융사기피해방지및피해금환급에관한특별법#JO0008",
+            "reference_id": "law:전기통신금융사기피해방지및피해자산환급에관한특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법.json"
+            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/법률/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -697,17 +717,17 @@
             "source_clause": "제13조",
             "link_text": "시행령",
             "line_text": "",
-            "target_law_name": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법 시행령",
+            "target_law_name": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법 시행령",
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2086545",
-            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법 시행령",
+            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법 시행령",
             "resolve_method": "html",
             "source_provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#JO0013",
-            "reference_id": "law:전기통신금융사기피해방지및피해금환급에관한특별법시행령#DOC",
+            "reference_id": "law:전기통신금융사기피해방지및피해자산환급에관한특별법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/시행령/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법 시행령.json"
+            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/시행령/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -717,17 +737,17 @@
             "source_clause": "제13조",
             "link_text": "제9조제2항",
             "line_text": "",
-            "target_law_name": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법 시행령",
+            "target_law_name": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법 시행령",
             "target_article_no": "제9조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2086545",
-            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법 시행령/제9조",
+            "target_url": "https://www.law.go.kr/법령/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법 시행령/제9조",
             "resolve_method": "html",
             "source_provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#JO0013",
-            "reference_id": "law:전기통신금융사기피해방지및피해금환급에관한특별법시행령#JO0009",
+            "reference_id": "law:전기통신금융사기피해방지및피해자산환급에관한특별법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법/시행령/전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법 시행령.json"
+            "target_git_path_guess": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법/시행령/전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법 시행령.json"
           }
         ],
         "images": [],
@@ -850,7 +870,7 @@
         "article_title": "중앙회 소속 조합ㆍ금고 및 체신관서에 대한 적용",
         "chapter": "",
         "chapter_path": "",
-        "content": "제15조(중앙회 소속 조합ㆍ금고 및 체신관서에 대한 적용) 제3조, 제5조 및 제14조를 적용함에 있어 농업협동조합, 수산업협동조합, 신용협동조합, 산림조합, 축산업협동조합, 새마을금고 및 체신관서의 경우 소속 중앙회 또는 우정사업본부를 금융회사로 본다.",
+        "content": "제15조(중앙회 소속 조합ㆍ금고 및 체신관서에 대한 적용) 제3조, 제5조 및 제14조를 적용함에 있어 농업협동조합, 수산업협동조합, 신용협동조합, 산림조합, 축산업협동조합, 새마을금고 및 체신관서의 경우 소속 중앙회 또는 우정사업본부를 금융회사등으로 본다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -926,10 +946,10 @@
       "content": "부칙 <제9999호,2015. 1. 26.>이 세칙은 2015년 1월 26일부터 시행한다.",
       "provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108885",
+      "source_mst": "2200000108921",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260804"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20160701",
@@ -937,10 +957,10 @@
       "content": "부칙 <제9999호,2016. 6. 30.>이 세칙은 2016년 7월 1일부터 시행한다.",
       "provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108885",
+      "source_mst": "2200000108921",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260804"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20191220",
@@ -948,10 +968,10 @@
       "content": "부칙 <제9999호,2019. 12. 20.>이 세칙은 2020년 1월 1일부터 시행한다.",
       "provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108885",
+      "source_mst": "2200000108921",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260804"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20260729",
@@ -959,10 +979,21 @@
       "content": "부칙 <제9999호, 2026. 7. 29.>이 세칙은 2026년 8월 4일부터 시행한다.",
       "provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108885",
+      "source_mst": "2200000108921",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260804"
+      "version_enforcement_date": "20261001"
+    },
+    {
+      "promulgation_date": "20260930",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2026. 9. 30.>이 세칙은 2026년 10월 1일부터 시행한다.",
+      "provision_id": "admrul:전기통신금융사기피해방지및신고포상금에관한규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108921",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261001"
     }
   ],
   "appendices": [
@@ -975,17 +1006,17 @@
       "content": "[별지] 피해방지업무현황보고서\n※ 자세한 내용은 상단 메뉴 \"\" 버튼을 이용하십시오.\n\"\" 버튼 클릭 후 하단 파일명 참조\n별첨_별책서식_피해방지업무현황보고서(최종)_복호화.xlsx",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167737579",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169972685",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167737455",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169972681",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167737579",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169972685",
           "name": "",
           "file_store_url": ""
         }
@@ -1001,39 +1032,39 @@
   "attachments": [
     {
       "name": "전기통신금융사기 피해 방지 및 신고포상금에 관한 규정 시행세칙_개정전문.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=167735623",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169972383",
       "filename": "전기통신금융사기 피해 방지 및 신고포상금에 관한 규정 시행세칙_개정전문.pdf",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/전기통신금융사기 피해 방지 및 신고포상금에 관한 규정 시행세칙_개정전문.pdf",
       "file_store_url": ""
     },
     {
-      "name": "전기통신금융사기 피해 방지 및 신고포상금에 관한 규정 시행세칙_개정전문.hwp",
-      "url": "http://law.go.kr/flDownload.do?flSeq=167735619",
-      "filename": "전기통신금융사기 피해 방지 및 신고포상금에 관한 규정 시행세칙_개정전문.hwp",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/전기통신금융사기 피해 방지 및 신고포상금에 관한 규정 시행세칙_개정전문.hwp",
-      "file_store_url": ""
-    },
-    {
       "name": "별첨_별책서식_피해방지업무현황보고서(최종)_복호화.xlsx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=167735627",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169972389",
       "filename": "별첨_별책서식_피해방지업무현황보고서(최종)_복호화.xlsx",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/별첨_별책서식_피해방지업무현황보고서(최종)_복호화.xlsx",
+      "file_store_url": ""
+    },
+    {
+      "name": "전기통신금융사기 피해 방지 및 신고포상금에 관한 규정 시행세칙_개정전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169972379",
+      "filename": "전기통신금융사기 피해 방지 및 신고포상금에 관한 규정 시행세칙_개정전문.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/전기통신금융사기 피해 방지 및 신고포상금에 관한 규정 시행세칙_개정전문.hwpx",
       "file_store_url": ""
     }
   ],
   "ordinance_delegations": [],
   "relation_mode": "no_crawl",
   "relation_stats": {
-    "relations_total": 35,
+    "relations_total": 36,
     "by_category": {
       "법령": 18,
-      "행정규칙": 17
+      "행정규칙": 18
     },
     "by_relation_type": {
-      "citation": 19,
+      "citation": 20,
       "internal_ref": 16
     },
     "articles_total": 15,
@@ -1041,7 +1072,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 1,
     "attachments_count": 3
   },
