@@ -1,25 +1,25 @@
 {
   "law_id": "29524",
-  "mst": "2100000274314",
+  "mst": "2100000285474",
   "law_name": "행정안전부 위임전결규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:29524",
-  "promulgation_no": "424",
-  "promulgation_date": "20260204",
-  "enforcement_date": "20260204",
-  "revision_date": "20260204",
+  "promulgation_no": "459",
+  "promulgation_date": "20261001",
+  "enforcement_date": "20261001",
+  "revision_date": "20261001",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "행정안전부(혁신행정담당관)",
-    "담당자명": "라현서",
+    "담당자명": "허재은",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "행정안전부 위임전결규정",
-    "발령일자": "20260204",
+    "발령일자": "20261001",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "044-205-1439",
     "제개정구분명": "일부개정",
     "소관부처코드": "1741000",
-    "생성일자": "20260205",
+    "생성일자": "20261001",
     "행정규칙ID": "29524",
-    "시행일자": "20260204",
+    "시행일자": "20261001",
     "담당부서기관코드": "1741934",
-    "발령번호": "424",
-    "행정규칙일련번호": "2100000274314",
+    "발령번호": "459",
+    "행정규칙일련번호": "2100000285474",
     "상위부처명": "행정안전부"
   },
-  "amendment_text": "⊙행정안전부훈령 제424호\n행정안전부 위임전결규정 일부를 다음과 같이 공포한다.\n2026년 2월 4일\n행정안전부장관\n행정안전부 위임전결규정 일부개정훈령\n\n행정안전부 위임전결규정 일부를 다음과 같이 개정한다.\n제3조제1호 중 \"이란 차관보,\"를 \"이란\"으로, \"관, 재난안전정보센터의 장을\"을 \"관을\"로 한다.\n별표 2를 별지와 같이 한다.\n부칙\n이 훈령은 발령한 날부터 시행한다.",
-  "revision_reason": "◇ 제ㆍ개정 이유\n「행정안전부와 그 소속기관 직제 시행규칙」등 관련 법률이 개정됨에 따라 조직개편 및 기능조정 사항을 반영하려는 것임.\n◇ 주요내용\n대내외 환경변화 및 실ㆍ국 요청에 따른 전결권 조정(제3조 및 별표 2)",
+  "amendment_text": "⊙행정안전부훈령 제459호\n행정안전부 위임전결규정 일부를 다음과 같이 개정한다.\n2026년 10월 1일\n행정안전부장관\n행정안전부 위임전결규정 일부개정훈령\n\n행정안전부 위임전결규정 일부를 다음과 같이 개정한다.\n별표 1을 별지와 같이 한다.\n[별지 생략]\n별표 2를 별지와 같이 한다.\n[별지 생략]\n부칙\n제1조(시행일) 이 훈령은 2026년 10월 1일부터 시행한다.\n제2조(인사 관련 위임사항에 관한 적용례) ① 별표 1 소속기관 임용권의 범위 중 국가정보자원관리원의 5급 이하 공무원의 승진임용권 위임 제외에 관한 사항은 2028년 1월 31일을 기준으로 승진후보자명부를 작성하는 경우부터 적용한다.\n② 별표 1 소속기관 임용권의 범위 중 국가정보자원관리원의 5급 이하 공무원의 근무성적평정 점수 부여 제외에 관한 사항은 2027년 12월 31일 정기평정일부터 적용한다.",
+  "revision_reason": "◇ 제ㆍ개정 이유\n「행정안전부와 그 소속기관 직제 시행규칙」이 개정됨에 따라 소속 공무원 인사 관련 위임사항을 조정하는 한편, 행정 환경 변화 등에 맞춰 일부 부서의 전결사항을 정비하는 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완 하려는 것임.\n◇ 주요내용\n가. 국가정보자원관리원 소속 공무원에 대한 임용권 위임사항 조정(별표 1)\n나. 기획조정실 법무담당관, 인공지능정부실 디지털인프라혁신과, 안전예방정책실 안전사업조정과의 일부 전결사항 정비(별표 2)",
   "body": {
     "format": "articles",
     "article_count": 13,
@@ -140,7 +140,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "29524",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274314&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285474&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:행정안전부위임전결규정#JO0004",
             "target_unit": "BYL0001",
@@ -188,7 +188,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "29524",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274314&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285474&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:행정안전부위임전결규정#JO0006",
             "target_unit": "BYL0002",
@@ -213,7 +213,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "29524",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274314&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285474&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:행정안전부위임전결규정#JO0006",
             "target_unit": "BYL0002",
@@ -238,7 +238,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "29524",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274314&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285474&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:행정안전부위임전결규정#JO0006",
             "target_unit": "BYL0002",
@@ -263,7 +263,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "29524",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274314&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285474&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:행정안전부위임전결규정#JO0006",
             "target_unit": "BYL0002",
@@ -444,10 +444,10 @@
       "content": "부칙 <제92호,2008. 6. 4.>① (시행일) 이 규정은 발령한 날부터 시행한다.② (폐지훈령) 행정자치부위임및전결규정(행정자치부훈령 제194호)는 이를 폐지한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20081231",
@@ -455,10 +455,10 @@
       "content": "부칙 <제138호,2008. 12. 31.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20090612",
@@ -466,10 +466,10 @@
       "content": "부칙 <제149호,2009. 6. 12.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20091211",
@@ -477,10 +477,10 @@
       "content": "부칙 <제165호,2009. 12. 11.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20110303",
@@ -488,10 +488,10 @@
       "content": "부칙 <제190호,2011. 3. 3.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20120726",
@@ -499,10 +499,10 @@
       "content": "부칙 <제217호,2012. 7. 26.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20130325",
@@ -510,10 +510,10 @@
       "content": "부칙 <제1호,2013. 3. 25.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20130417",
@@ -521,10 +521,10 @@
       "content": "부칙 <제4호,2013. 4. 17.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20131029",
@@ -532,10 +532,10 @@
       "content": "부칙 <제22호,2013. 10. 29.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20140304",
@@ -543,10 +543,10 @@
       "content": "부칙 <제33호,2014. 3. 4.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20140523",
@@ -554,10 +554,10 @@
       "content": "부칙 <제41호,2014. 5. 23.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20150327",
@@ -565,10 +565,10 @@
       "content": "부칙 <제20호,2015. 3. 27.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20150818",
@@ -576,10 +576,10 @@
       "content": "부칙 <제33호,2015. 8. 18.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20151223",
@@ -587,10 +587,10 @@
       "content": "부칙 <제55호,2015. 12. 23.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20160711",
@@ -598,10 +598,10 @@
       "content": "부칙 <제77호,2016. 7. 11.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20170406",
@@ -609,10 +609,10 @@
       "content": "부칙 <제105호,2017. 4. 6.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20170726",
@@ -620,10 +620,10 @@
       "content": "부칙 (정부조직개편에 따른 개인정보보호위원회 소속공무원 임용권 위임에 관한 규정 등의 정비에 관한 훈령 제정)<제1호,2017. 7. 26.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20171010",
@@ -631,10 +631,10 @@
       "content": "부칙 <제8호,2017. 10. 10.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20181113",
@@ -642,10 +642,10 @@
       "content": "부칙 <제61호,2018. 11. 13.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20191114",
@@ -653,10 +653,10 @@
       "content": "부칙 <제114호,2019. 11. 14.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20200929",
@@ -664,10 +664,10 @@
       "content": "부칙 <제161호,2020. 9. 29.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20220207",
@@ -675,10 +675,10 @@
       "content": "부칙 <제229호, 2022. 2. 7.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20230501",
@@ -686,10 +686,10 @@
       "content": "부칙 <제285호, 2023. 5. 1.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20231012",
@@ -697,10 +697,10 @@
       "content": "부칙 <제311호, 2023. 10. 12.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20231228",
@@ -708,10 +708,10 @@
       "content": "부칙 <제326호, 2023. 12. 28.>이 훈령은 2023년 12월 29일부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20240326",
@@ -719,10 +719,10 @@
       "content": "부칙 <제348호, 2024. 3. 26.>이 훈령은 2024년 3월 26일부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20240627",
@@ -730,10 +730,10 @@
       "content": "부칙 <제354호, 2024. 6. 27.>이 훈령은 2024년 7월 1일부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20240925",
@@ -741,10 +741,10 @@
       "content": "부칙 <제361호, 2024. 9. 25.>이 훈령은 2024년 9월 26일부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20241227",
@@ -752,10 +752,10 @@
       "content": "부칙 <제373호, 2024. 12. 27.>제1조(시행일) 이 훈령은 2024년 12월 31일부터 시행한다.제2조(다른 훈령의 개정) 자율기구 지능정부기반과 설치 및 운영에 관한 규정 일부를 다음과 같이 개정한다.제2조제2항 중 \"공공데이터국\"을 \"공공지능데이터국\"으로 한다.제3조제4호 중 \"제9조제21항제1호부터 제5호까지\"를 \"제9조제15항제16호ㆍ제17호 및 제16항제13호ㆍ제14호\"로 한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20250224",
@@ -763,10 +763,10 @@
       "content": "부칙 <제382호, 2025. 2. 24.>이 훈령은 2025년 2월 25일부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20250529",
@@ -774,10 +774,10 @@
       "content": "부칙 <제396호, 2025. 5. 29.>이 훈령은 2025년 6월 2일부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20250821",
@@ -785,10 +785,10 @@
       "content": "부칙 <제407호, 2025. 8. 21.>이 훈령은 2025년 8월 26일부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20251230",
@@ -796,10 +796,10 @@
       "content": "부칙 <제418호, 2025. 12. 30.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20260204",
@@ -807,10 +807,21 @@
       "content": "부칙 <제424호, 2026. 2. 4.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274314",
+      "source_mst": "2100000285474",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260204"
+      "version_enforcement_date": "20261001"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "459",
+      "content": "부칙 <제459호, 2026. 10. 1.>제1조(시행일) 이 훈령은 2026년 10월 1일부터 시행한다.제2조(인사 관련 위임사항에 관한 적용례) ① 별표 1 소속기관 임용권의 범위 중 국가정보자원관리원의 5급 이하 공무원의 승진임용권 위임 제외에 관한 사항은 2028년 1월 31일을 기준으로 승진후보자명부를 작성하는 경우부터 적용한다.② 별표 1 소속기관 임용권의 범위 중 국가정보자원관리원의 5급 이하 공무원의 근무성적평정 점수 부여 제외에 관한 사항은 2027년 12월 31일 정기평정일부터 적용한다.",
+      "provision_id": "admrul:행정안전부위임전결규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285474",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261001"
     }
   ],
   "appendices": [
@@ -820,20 +831,20 @@
       "kind": "별표",
       "title": "행정안전부와 그 소속기관 공무원 인사 관련 위임사항",
       "enforcement_date": "",
-      "content": "[별표 1] 행정안전부와 그 소속기관 공무원 인사 관련 위임사항\n1. 행정안전부\n┌────────────────┬────────────────────────┐\n│구     분                       │전 보 권                                        │\n├────────────────┼────────────────────────┤\n│차관보, 각 실ㆍ국장, 대변인ㆍ관 │ㆍ 각 과의 장(이에 준하는 담당관 포함, 이하     │\n│(실ㆍ국장에 속하지 않는 관을    │과장급이라 한다)을 제외한 4급 이하 및           │\n│말한다)                         │관리운영직군의 부서내 전보권                    │\n│                                │ㆍ 공무원임용령 제57조의4제1항에 따른 업무대행  │\n│                                │공무원 지정                                     │\n└────────────────┴────────────────────────┘\n2. 소속기관\n┌────────────┬───────────────────────────┐\n│구     분               │임용권의 범위                                         │\n├────────────┼───────────────────────────┤\n│ 지방자치인재개발원     │ㆍ 과장급을 제외한 4급 및 5급 공무원의 기관내         │\n├────────────┤전보권                                                │\n│ 국가기록원             │ㆍ 6급이하 및 전문경력관(나군이하) 임용권             │\n├────────────┤   (단, 승진 및 근평점수부여 제외, 채용은 사전협의)   │\n│ 정부청사관리본부       │ㆍ 관리운영직군 임용권                                │\n├────────────┤   (운전, 위생, 방호 등 직종전환에 따른 신설직렬 포함)│\n│ 이북5도                │ㆍ 전문임기제 임용권(단, 사전협의)                    │\n├────────────┤ㆍ 공무원임용령 제57조의4제1항에 따른 업무대행        │\n│ 국가재난안전교육원     │공무원 지정                                           │\n├────────────┤                                                      │\n│ 대통령기록관           │                                                      │\n├────────────┼───────────────────────────┤\n│ 주민등록번호변경위원회 │ㆍ 공무원임용령 제57조의4제1항에 따른 업무대행        │\n│                        │공무원 지정                                           │\n└────────────┴───────────────────────────┘\n※ 국립과학수사연구원 및 국가정보자원관리원, 국립재난안전연구원은 책임운영기관의 설치ㆍ운영에 관한 법률 등에 따름",
+      "content": "[별표 1] 행정안전부와 그 소속기관 공무원 인사 관련 위임사항\n1. 행정안전부\n┌────────────────┬────────────────────────┐\n│구     분                       │전 보 권                                        │\n├────────────────┼────────────────────────┤\n│차관보, 각 실ㆍ국장, 대변인ㆍ관 │ㆍ 각 과의 장(이에 준하는 담당관 포함, 이하     │\n│(실ㆍ국장에 속하지 않는 관을    │과장급이라 한다)을 제외한 4급 이하 및           │\n│말한다)                         │관리운영직군의 부서내 전보권                    │\n│                                │ㆍ 공무원임용령 제57조의4제1항에 따른 업무대행  │\n│                                │공무원 지정                                     │\n└────────────────┴────────────────────────┘\n2. 소속기관\n┌────────────┬───────────────────────────┐\n│구     분               │임용권의 범위                                         │\n├────────────┼───────────────────────────┤\n│ 지방자치인재개발원     │ㆍ 과장급을 제외한 4급 및 5급 공무원의 기관 내        │\n├────────────┤전보권                                                │\n│ 국가기록원             │ㆍ 6급이하 및 전문경력관(나군이하) 임용권             │\n├────────────┤   (단, 승진 및 근무성적평정 점수 부여 제외,          │\n│ 정부청사관리본부       │채용은 사전협의)                                      │\n├────────────┤ㆍ 관리운영직군 임용권                                │\n│ 국가정보자원관리원     │   (운전, 위생, 방호 등 직종전환에 따른 신설직렬 포함)│\n├────────────┤ㆍ 전문임기제 임용권(단, 사전협의)                    │\n│ 국가재난안전교육원     │ㆍ 공무원임용령 제57조의4제1항에 따른 업무대행        │\n├────────────┤공무원 지정                                           │\n│ 대통령기록관           │                                                      │\n├────────────┤                                                      │\n│ 이북5도                │                                                      │\n├────────────┼───────────────────────────┤\n│ 주민등록번호변경위원회 │ㆍ 공무원임용령 제57조의4제1항에 따른 업무대행        │\n│                        │공무원 지정                                           │\n└────────────┴───────────────────────────┘\n※ 국립과학수사연구원 및 국립재난안전연구원은 책임운영기관의 설치ㆍ운영에 관한 법률 등에 따름",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274314&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161476461",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285474&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169746685",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161476217",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169746681",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161476461",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169746685",
           "name": "",
           "file_store_url": ""
         }
@@ -851,20 +862,20 @@
       "kind": "별표",
       "title": "전결 사항",
       "enforcement_date": "",
-      "content": "[별표 2] 전결 사항의 자세한 내용은 상단 메뉴 \"\"버튼을 이용하십시오.",
+      "content": "[별표 2] 전결 사항\n※ 자세한 내용은 상단 메뉴 \"\" 버튼을 이용하십시오.\n\"\" 버튼 클릭 후 하단 파일명 참조\n[별표 2] 전결사항.xlsx",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274314&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161476467",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285474&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169746691",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161476463",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169746687",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161476467",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169746691",
           "name": "",
           "file_store_url": ""
         }
@@ -880,7 +891,7 @@
   "attachments": [
     {
       "name": "[별표 2] 전결사항.xlsx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=161465227",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169714535",
       "filename": "[별표 2] 전결사항.xlsx",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/[별표 2] 전결사항.xlsx",
@@ -888,7 +899,7 @@
     },
     {
       "name": "행정안전부 위임전결규정 개정본문.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=161476299",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169745951",
       "filename": "행정안전부 위임전결규정 개정본문.hwpx",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/행정안전부 위임전결규정 개정본문.hwpx",
@@ -896,7 +907,7 @@
     },
     {
       "name": "행정안전부 위임전결규정 개정본문.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=161476303",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169745955",
       "filename": "행정안전부 위임전결규정 개정본문.pdf",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/행정안전부 위임전결규정 개정본문.pdf",
@@ -921,7 +932,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 34,
+    "addenda_count": 35,
     "appendices_count": 2,
     "attachments_count": 3
   },
