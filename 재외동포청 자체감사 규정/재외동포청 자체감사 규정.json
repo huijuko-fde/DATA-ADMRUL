@@ -1,42 +1,42 @@
 {
   "law_id": "90433",
-  "mst": "2100000247376",
+  "mst": "2100000285868",
   "law_name": "재외동포청 자체감사 규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:90433",
-  "promulgation_no": "33",
-  "promulgation_date": "20240913",
-  "enforcement_date": "20240913",
-  "revision_date": "20240913",
-  "revision_type": "제정",
+  "promulgation_no": "55",
+  "promulgation_date": "20261001",
+  "enforcement_date": "20261001",
+  "revision_date": "20261001",
+  "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "재외동포청(혁신행정담당관)",
-    "담당자명": "이상민",
+    "담당자명": "김달호",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "재외동포청 자체감사 규정",
-    "발령일자": "20240913",
+    "발령일자": "20261001",
     "행정규칙종류": "훈령",
-    "제개정구분코드": "200401",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "재외동포청",
     "전화번호": "032-585-3151",
-    "제개정구분명": "제정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "1832000",
-    "생성일자": "20251219",
+    "생성일자": "20261002",
     "행정규칙ID": "90433",
-    "시행일자": "20240913",
+    "시행일자": "20261001",
     "담당부서기관코드": "1832014",
-    "발령번호": "33",
-    "행정규칙일련번호": "2100000247376",
+    "발령번호": "55",
+    "행정규칙일련번호": "2100000285868",
     "상위부처명": "재외동포청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제정이유\n재외동포청 자체감사의 종류ㆍ절차ㆍ방법 등을 관련 법령 등에 근거하여 세부적으로 규정하기 위하여 자체 훈령을 마련하려는 것임\n◇ 주요내용\n가. 「재외동포청 직제」에 따른 재외동포청과 「재외동포기본법」에 따른 재외동포협력센터를 자체감사 대상기관으로 함(안 제4조)\n나. 자체감사의 종류를 종합감사, 특정감사, 복무감사, 일상감사로 구분하여 규정함(안 제5조)\n다. 감사결과의 처리기준을 변상명령, 징계 또는 문책요구, 시정요구, 주의요구, 개선요구, 권고, 통보, 고발로 구분하여 규정함(안 제21조)",
+  "revision_reason": "1. 자체감사 대상기관 중 재외동포협력센터 삭제 (안 제11조)\n◇ 제ㆍ개정 이유\n○ 「재외동포기본법」 제11조가 삭제됨에 따라 ‘재외동포협력센터’ 관련 내용 삭제\n◇ 제ㆍ개정 내용\n○ 훈령의 제4조 제2호(「재외동포기본법」에 따른 재외동포협력센터)를 삭제 (안 제11조)",
   "body": {
     "format": "articles",
     "article_count": 32,
@@ -118,7 +118,7 @@
         "article_title": "정의",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제2조(정의) 이 규정에서 사용하는 용어의 뜻은 다음과 같다.1.\"자체감사\"란 감사담당관이 재외동포청(소관 공공기관을 포함한다)에 속한 자의 모든 업무와 활동 등을 조사ㆍ점검ㆍ확인ㆍ분석ㆍ검증하고 그 결과를 처리하는 것을 말한다.2.\"자체감사기구\"란 재외동포청에 설치되어 자체감사를 수행하는 혁신행정담당관실을 말한다.3.\"감사담당관\"이란 자체감사기구의 업무를 총괄하고 감사담당자를 지휘ㆍ감독하는 사람으로 혁신행정담당관을 말한다.4.\"감사담당자\"란 자체감사기구에 소속되어 감사업무를 수행하는 사람을 말한다.5.\"감사대상기관의 장\"이란 제4조에 따른 자체감사 대상기관(재외동포청 본청의 경우에는 자체감사 대상부서를 말한다.)의 장을 말한다.",
+        "content": "제2조(정의) 이 규정에서 사용하는 용어의 뜻은 다음과 같다.1. \"자체감사\"란 감사담당관이 재외동포청(소관 공공기관을 포함한다)에 속한 자의 모든 업무와 활동 등을 조사ㆍ점검ㆍ확인ㆍ분석ㆍ검증하고 그 결과를 처리하는 것을 말한다.2. \"자체감사기구\"란 재외동포청에 설치되어 자체감사를 수행하는 혁신행정담당관실을 말한다.3. \"감사담당관\"이란 자체감사기구의 업무를 총괄하고 감사담당자를 지휘ㆍ감독하는 사람으로 혁신행정담당관을 말한다.4. \"감사담당자\"란 자체감사기구에 소속되어 감사업무를 수행하는 사람을 말한다.5. \"감사대상기관의 장\"이란 제4조에 따른 자체감사 대상기관(재외동포청 본청의 경우에는 자체감사 대상부서를 말한다.)의 장을 말한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -222,7 +222,7 @@
         "article_title": "자체감사 대상기관",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제4조(자체감사 대상기관)  이 규정에 의한 자체감사 대상기관(이하 \"감사대상기관\"이라 한다)은 다음 각 호와 같다.1. 「재외동포청 직제」에 따른 재외동포청2. 「재외동포기본법」에 따른 재외동포협력센터",
+        "content": "제4조(자체감사 대상기관)  이 규정에 의한 자체감사 대상기관(이하 \"감사대상기관\"이라 한다)은 다음 각 호와 같다.1. 「재외동포청 직제」에 따른 재외동포청2. 삭제",
         "enforcement_date": "",
         "relations": [
           {
@@ -244,26 +244,6 @@
             "reference_id": "law:재외동포청직제#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "재외동포청 직제/법률/재외동포청 직제.json"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제4조",
-            "source_clause": "제4조",
-            "link_text": "「재외동포기본법」",
-            "line_text": "",
-            "target_law_name": "재외동포기본법",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "90433",
-            "target_url": "https://www.law.go.kr/법령/재외동포기본법",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:재외동포청자체감사규정#JO0004",
-            "reference_id": "law:재외동포기본법#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "재외동포기본법/법률/재외동포기본법.json"
           }
         ],
         "images": [],
@@ -350,7 +330,7 @@
         "article_title": "감사 직무에서의 배제",
         "chapter": "제2장 자체감사기구의 구성과 운영",
         "chapter_path": "제2장 자체감사기구의 구성과 운영",
-        "content": "제10조(감사 직무에서의 배제) 청장은 감사담당자가 감사 직무 수행에 있어 다음 각 호의 어느 하나에 해당하는 행위를 한 경우 지체없이 감사 직무에서 배제하여야 한다.1.감사 중에 발견한 위법ㆍ부당한 사실을 축소ㆍ은폐하거나 현저히 온정적 처리를 한 경우2. 감사담당자가 감사대상자와 「공직자의 이해충돌 방지법」 제5조제1항에 따른 이해관계 직무 회피 범위에 해당되는 경우 등 감사에 영향을 미칠 수 있는 사유가 있음에도 이를 보고하지 아니한 경우3. 그 밖에 감사 직무의 공정성을 해칠 수 있는 행위를 한 경우",
+        "content": "제10조(감사 직무에서의 배제) 청장은 감사담당자가 감사 직무 수행에 있어 다음 각 호의 어느 하나에 해당하는 행위를 한 경우 지체없이 감사 직무에서 배제하여야 한다.1. 감사 중에 발견한 위법ㆍ부당한 사실을 축소ㆍ은폐하거나 현저히 온정적 처리를 한 경우2. 감사담당자가 감사대상자와 「공직자의 이해충돌 방지법」 제5조제1항에 따른 이해관계 직무 회피 범위에 해당되는 경우 등 감사에 영향을 미칠 수 있는 사유가 있음에도 이를 보고하지 아니한 경우3. 그 밖에 감사 직무의 공정성을 해칠 수 있는 행위를 한 경우",
         "enforcement_date": "",
         "relations": [
           {
@@ -612,7 +592,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "90433",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344871",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032327",
             "resolve_method": "html",
             "source_provision_id": "admrul:재외동포청자체감사규정#JO0017",
             "target_unit": "BJ0001",
@@ -637,7 +617,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "90433",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344877",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032333",
             "resolve_method": "html",
             "source_provision_id": "admrul:재외동포청자체감사규정#JO0017",
             "target_unit": "BJ0002",
@@ -662,7 +642,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "90433",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344883",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032339",
             "resolve_method": "html",
             "source_provision_id": "admrul:재외동포청자체감사규정#JO0017",
             "target_unit": "BJ0003",
@@ -687,7 +667,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "90433",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344889",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032345",
             "resolve_method": "html",
             "source_provision_id": "admrul:재외동포청자체감사규정#JO0017",
             "target_unit": "BJ0004",
@@ -930,7 +910,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "90433",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344895",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032351",
             "resolve_method": "html",
             "source_provision_id": "admrul:재외동포청자체감사규정#JO0022",
             "target_unit": "BJ0005",
@@ -1187,7 +1167,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "90433",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344901",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032357",
             "resolve_method": "html",
             "source_provision_id": "admrul:재외동포청자체감사규정#JO0030",
             "target_unit": "BJ0006",
@@ -1224,7 +1204,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "90433",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344907",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032363",
             "resolve_method": "html",
             "source_provision_id": "admrul:재외동포청자체감사규정#JO0031",
             "target_unit": "BJ0007",
@@ -1249,7 +1229,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "90433",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344913",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032369",
             "resolve_method": "html",
             "source_provision_id": "admrul:재외동포청자체감사규정#JO0031",
             "target_unit": "BJ0008",
@@ -1386,7 +1366,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "90433",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344919",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032375",
             "resolve_method": "html",
             "source_provision_id": "admrul:재외동포청자체감사규정#JO0032",
             "target_unit": "BJ0009",
@@ -1447,10 +1427,21 @@
       "content": "부칙 <제33호, 2024. 9. 13.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:재외동포청자체감사규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000247376",
+      "source_mst": "2100000285868",
       "source_version_uid": "",
-      "source_revision_type": "제정",
-      "version_enforcement_date": "20240913"
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261001"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "55",
+      "content": "부칙 <제55호, 2026. 10. 1.>이 훈령은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:재외동포청자체감사규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285868",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261001"
     }
   ],
   "appendices": [
@@ -1463,17 +1454,17 @@
       "content": "\n■ 재외동포청 자체감사 규정 [별지 제1호서식]\n\n\n확     인     서\n\n\n1. 제 목 :\n2. 내 용 :\n\n\n\n\n\n※ 필요시 관련자의 소명이나 의견 포함 가능\n\n3. 관련자\n┌───┬───┬───┬───┬────┬────┬────┬───┐\n│소 속 │직 위 │직 급 │성 명 │담당업무│담당기간│현근무처│비 고 │\n├───┼───┼───┼───┼────┼────┼────┼───┤\n│      │      │      │      │        │        │        │      │\n└───┴───┴───┴───┴────┴────┴────┴───┘\n위 사실을 확인함\n\n첨부 : 관련증빙자료 1부.\n\n\n년  월  일\n\n작성자/확인자  소속 :          직급 :        성명 :         (서명 또는 인)\n확인자/입회자  소속 :          직급 :        성명 :         (서명 또는 인)\n\n재외동포청 감사담당관 귀하\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344871",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032327",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344867",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032323",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344871",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032327",
           "name": "",
           "file_store_url": ""
         }
@@ -1494,17 +1485,17 @@
       "content": "\n■ 재외동포청 자체감사 규정 [별지 제2호서식]\n\n\n\n문     답     서\n\n주  소 :\n소  속 :                    (전 소속/ 직위 :                   )\n직위 및 직명 :\n성  명 :              (한자)             (생년월일) :\n\n위 사람은                건에 대하여        년   월    일\n에서 재외동포청 혁신행정담당관실     와 다음과 같이 자유로\n이 임의 문답하다.\n\n문 : 위의 사건과 관련한 직위에 재직한 기간은?\n답 :\n문 : 귀하의 담당 직무는?\n답 :\n\n(후면)\n문 : 더 하실 말씀이나 증거는 없습니까?\n답 :\n(제출한 증거는 원본과 다름이 없음을 확인하고 본 문답서에 첨부한다.)\n\n위와 같이 문답한 후 진술인에게 열람(낭독)하게 한 바, 진술한 내용과 상\n위 없으며, 오기나 증감할 사항이 전혀 없음을 확인하므로 간인한 후 서명(날\n인, 무인)하게 하다.\n년   월   일\n진술인  직ㆍ성명                 서명 또는 인\n감사인  직ㆍ성명                 서명 또는 인\n입회인  직ㆍ성명                 서명 또는 인\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344877",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032333",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344873",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032329",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344877",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032333",
           "name": "",
           "file_store_url": ""
         }
@@ -1525,17 +1516,17 @@
       "content": "\n■ 재외동포청 자체감사 규정 [별지 제3호서식]\n\n\n\n질 문 서\n┏━━━━┯┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃발부번호││                                                          ┃\n┠────┴┴─────────────────────────────┨\n┃ 제 목 :                                                              ┃\n┠───────────────────────────────────┨\n┃                                                                      ┃\n┃질문(답변)사항                                                        ┃\n┃                                                                      ┃\n┃                                   20   년    월    일                ┃\n┃  재외동포청 ㅇㅇㅇ부서장                         귀하                ┃\n┃  재외동포청 감사담당관           서명 또는 인                        ┃\n┃                                                                      ┃\n┃다음 사항에 대하여는 20  .  .  .까지 답변하여 주시고 본 내용을 대외에 ┃\n┃누설하는 일이 없도록 관리하여 주시기 바랍니다.                        ┃\n┃ (질문사항에 대하여 다음과 같이 답변합니다.)                          ┃\n┃                                                                      ┃\n┠───────────────────────────────────┨\n┃                                                                      ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n※ 이 질문서 원안은 답변서와 함께 재외동포청 혁신행정담당관실로 반송하여\n주시기 바랍니다.\n\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344883",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032339",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344879",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032335",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344883",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032339",
           "name": "",
           "file_store_url": ""
         }
@@ -1556,17 +1547,17 @@
       "content": "\n■ 재외동포청 자체감사 규정 [별지 제4호서식]\n\n\n답 변 서\n\n\n┏━━━━┯━┓\n┃발부번호│  ┃\n┠────┴─┺━━━━━━━━┓\n┃ 제    목 :                   ┃\n┠───────────────┨\n┃답변사항                      ┃\n┃                              ┃\n┃20    년    월    일          ┃\n┃                              ┃\n┃재외동포청 감사담당관 귀하    ┃\n┃                              ┃\n┃                              ┃\n┃                              ┃\n┃기 관 명 :                    ┃\n┃직?성명 :                    ┃\n┃다음과 같이 답변합니다.       ┃\n┃                              ┃\n┃                              ┃\n┠───────────────┨\n┃                              ┃\n┠───────────────┨\n┃                              ┃\n┠───────────────┨\n┃                              ┃\n┠───────────────┨\n┃                              ┃\n┠───────────────┨\n┃                              ┃\n┠───────────────┨\n┃                              ┃\n┗━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344889",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032345",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344885",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032341",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344889",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032345",
           "name": "",
           "file_store_url": ""
         }
@@ -1587,17 +1578,17 @@
       "content": "\n■ 재외동포청 일상감사 실시지침 [별지 제5호서식]\n\n\n\n재심의 신청서\n\n\n┏━━━━━┯━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━┓\n┃ 1. 신청인│주      소      │                                              ┃\n┃          │(기관의 소재지) │                                              ┃\n┃          ├────────┼┬────┬─────────────────┨\n┃          │소속기관명      ││직 명   │                                  ┃\n┃          ├────────┼┼────┼─────────────────┨\n┃          │성      명      ││전화번호│                                  ┃\n┠─────┴────────┼┴────┴─────────────────┨\n┃ 2. 감사결과를 통보한 기관명│                                              ┃\n┠──────────────┼───────────────────────┨\n┃ 3. 재심의신청의 대상이 되는│                                              ┃\n┃감사결과의 내용             │                                              ┃\n┠──────────────┼───────────────────────┨\n┃ 4. 재심의신청의 취지 및    │                                              ┃\n┃그 이유                     │                                              ┃\n┠──────────────┼───────────────────────┨\n┃ 5. 감사결과를 통보받은 날짜│                                              ┃\n┠──────────────┼───────────────────────┨\n┃ 6. 대리인의 성명 및 주소   │                                              ┃\n┠──────────────┴───────────────────────┨\n┃  「재외동포청 자체감사 규정」 제22조에 따라 관계 서류를 첨부하여 위와 같이 ┃\n┃재심의를 신청합니다.                                                        ┃\n┃                                 20       .        .       .                ┃\n┃                                      신청인                   (인)         ┃\n┃        첨부서류: 표지 포함         장.                                     ┃\n┃재외동포청장 귀중                                                           ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344895",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032351",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344891",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032347",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344895",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032351",
           "name": "",
           "file_store_url": ""
         }
@@ -1618,17 +1609,17 @@
       "content": "\n■ 재외동포청 자체감사 규정 [별지 제6호서식]\n\n┌─────────┐\n│면책심사신청 안내 │\n┌┤                  ├────────────────────────────────────┐\n││                  │                                                                        │\n│└─────────┘                                                                        │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│재외동포청 주관 ○○○감사를 받은 공무원 등이 감사 중 지적된 사항에 대하여 면책심             │\n│사를 신청하고자 할 때에는 다음 요령에 의거 신청하시기 바랍니다.                               │\n│1. 신청권자                                                                                   │\n│○ 감사를 받은 자 본인                                                                        │\n│   ※ 감사를 받은 기관의 감사부서 책임자 의견 첨부                                            │\n│○ 감사를 받은 기관의 장                                                                      │\n│                                                                                              │\n│2. 신청기간 : 자체감사 종료 후 제출                                                           │\n│                                                                                              │\n│3. 적극행정 면책요건                                                                          │\n│   ○ 업무처리가 불합리한 규제의 개선, 공익사업의 추진 등 공공의 이익을 위한 것일 것          │\n│   ○ 대상 업무를 적극적으로 처리한 결과일 것                                                 │\n│   ○ 고의 또는 중대한 과실이 없을 것                                                         │\n│    - 감사를 받는 공무원 등과 대상 업무 사이에 사적인 이해관계가 없을 것                      │\n│    - 중대한 절차상의 하자가 없었을 것                                                        │\n│                                                                                              │\n│   ※「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」제46조에 따른 국민권익위원회의   │\n│   시정권고 또는 의견표명 대로 업무를 처리한 경우에는 각 호의 면책요건을 충족한 것으로 본다.  │\n└───────────────────────────────────────────────┘\n\n\n\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344901",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032357",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344897",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032353",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344901",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032357",
           "name": "",
           "file_store_url": ""
         }
@@ -1649,17 +1640,17 @@
       "content": "\n■ 재외동포청 자체감사 규정 [별지 제7호서식]\n\n\n적극행정면책 신청서\n\n\n─────────────────┬──────────────────────────────\n적극행정면책 신청 요지          │\n─────────────────┴──────────────────────────────\n\n━━━━━━━━━━━━━━━━━┯━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━\n구체적 판단기준 내용            │해당 여부 │소명자료\n─────────────────┼─────┼────────────────────────\n1. 업무처리가 공공의 이익을     │          │\n위한 것인지 여부               │          │\n─────────────────┼─────┼────────────────────────\n2. 업무를 적극적으로 처리한     │          │\n결과 인지 여부                 │          │\n─────────────────┼─────┼────────────────────────\n3. 고의나 중대한 과실이 있는지  │          │\n여부                            │          │\n─────────────────┼─────┼────────────────────────\n가. 사적인 이해관계가 없을 것 │          │\n─────────────────┼─────┼────────────────────────\n나. 대상 업무를 처리하면서 중대│          │\n한 절차상의 하자가 없었을 것    │          │\n─────────────────┼─────┼────────────────────────\n4. 기    타                     │          │\n※「부패방지 및 권익위 설치와   │          │\n운영에 관한법률」제46조에 따    │          │\n른 시정권고 또는 의견대로 업    │          │\n무를 처리한 경우                │          │\n─────────────────┴─────┴────────────────────────\n「재외동포청 자체감사 규정」 제31조에 따라 적극행정면책을 받기 위하여 위와 같이 신청합니다.\n년           월           일\n신청인  기관(부서)명                    직명              성명           (서명 또는 인)\n\n재외동포청 감사담당관  귀중\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n210mm×297mm[백상지 80g/㎡(재활용품)]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344907",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032363",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344903",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032359",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344907",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032363",
           "name": "",
           "file_store_url": ""
         }
@@ -1680,17 +1671,17 @@
       "content": "\n■ 재외동포청 자체감사 규정 [별지 제8호서식]\n\n면책심사 신청 및 처분대장\n───┬───┬───┬────────────┬────────\n일련│접  수│처  분│심사 대상자             │심사·처리결과\n번호│연월일│연월일├────┬────┬──┤\n│      │      │소속기관│직위(급)│성명│\n━━━┿━━━┿━━━┿━━━━┿━━━━┿━━┿━━━━━━━━\n│      │      │        │        │    │\n───┼───┼───┼────┼────┼──┼────────\n│      │      │        │        │    │\n───┼───┼───┼────┼────┼──┼────────\n│      │      │        │        │    │\n───┼───┼───┼────┼────┼──┼────────\n│      │      │        │        │    │\n───┼───┼───┼────┼────┼──┼────────\n│      │      │        │        │    │\n───┼───┼───┼────┼────┼──┼────────\n│      │      │        │        │    │\n───┼───┼───┼────┼────┼──┼────────\n│      │      │        │        │    │\n───┼───┼───┼────┼────┼──┼────────\n│      │      │        │        │    │\n───┼───┼───┼────┼────┼──┼────────\n│      │      │        │        │    │\n───┼───┼───┼────┼────┼──┼────────\n│      │      │        │        │    │\n───┼───┼───┼────┼────┼──┼────────\n│      │      │        │        │    │\n───┼───┼───┼────┼────┼──┼────────\n│      │      │        │        │    │\n───┼───┼───┼────┼────┼──┼────────\n│      │      │        │        │    │\n───┼───┼───┼────┼────┼──┼────────\n│      │      │        │        │    │\n───┼───┼───┼────┼────┼──┼────────\n│      │      │        │        │    │\n───┴───┴───┴────┴────┴──┴────────\n\n\n\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344913",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032369",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344909",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032365",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344913",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032369",
           "name": "",
           "file_store_url": ""
         }
@@ -1711,17 +1702,17 @@
       "content": "\n■ 재외동포청 자체감사 규정 [별지 제9호서식]\n\n면책심사조서\n━━━━━━━━━━━━━━━━━━━━━━━━┯┯━━━━━━┯━\n감사기관명                                    ││감사 연월일 │\n────────────────────────┼┴──────┴─\n건명                                          │\n────────────────────────┼─────────\n신청인                                        │\n────────────────────────┼─────────\n심사대상자                                    │\n────────────────────────┼─────────\n징계양정(안)                                  │\n────────────────────────┼─────────\n비위내용                                      │\n────────────────────────┴─────────\n\n────┬───────────────────┬─────────\n신청  │업무처리가 불합리한 규제의 개선,      │\n사유  │공익사업의 추진 등 공공의 이익을      │\n│위한 것                               │\n├───────────────────┼─────────\n│감사를 받는 공무원 등이 대상 업무     │\n│를 적극적으로 처리한 결과 일 것       │\n├───────────────────┼─────────\n│감사를 받는 공무원 등의 행위에 고의   │\n│나 중대한 과실이 없을 것              │\n├───────────────────┼─────────\n│※「부패방지 및 권익위 설치와 운영에  │\n│관한법률」제46조에 따른 시정권고      │\n│또는 의견대로 업무를 처리한 경우      │\n────┴───────────────────┴─────────\n\n────┬───────────────────┬─────────\n감사  │업무처리가 불합리한 규제의 개선,      │\n부서  │공익사업의 추진 등 공공의 이익을      │\n책임자│위한 것                               │\n검토  ├───────────────────┼─────────\n의견  │감사를 받는 공무원 등이 대상 업무     │\n│를 적극적으로 처리한 결과 일 것       │\n├───────────────────┼─────────\n│「부패방지 및 권익위 설치와운영에     │\n│관한법률」제46조에 따른 시정권고      │\n│또는 의견대로 업무를 처리한 경우      │\n├───────────────────┼─────────\n│감사를 받는 공무원 등의 행위에 고의   │\n│나 중대한 과실이 없을 것              │\n├───────────────────┼─────────\n│종 합 의 견                           │\n━━━━┷━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━\n\n\n\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344919",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032375",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344915",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032371",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144344919",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170032375",
           "name": "",
           "file_store_url": ""
         }
@@ -1736,48 +1727,32 @@
   ],
   "attachments": [
     {
-      "name": "2.조문별 제개정 이유서(재외동포청 자체감사 규정안).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=144343059",
-      "filename": "2.조문별 제개정 이유서(재외동포청 자체감사 규정안).hwpx",
+      "name": "「재외동포청 자체감사 규정」 일부개정 전문(훈령 제55호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170031361",
+      "filename": "「재외동포청 자체감사 규정」 일부개정 전문(훈령 제55호).hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/2.조문별 제개정 이유서(재외동포청 자체감사 규정안).hwpx",
+      "local_path": "첨부파일/「재외동포청 자체감사 규정」 일부개정 전문(훈령 제55호).hwpx",
       "file_store_url": ""
     },
     {
-      "name": "2.조문별 제개정 이유서(재외동포청 자체감사 규정안).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=144343063",
-      "filename": "2.조문별 제개정 이유서(재외동포청 자체감사 규정안).pdf",
+      "name": "「재외동포청 자체감사 규정」 일부개정 전문(훈령 제55호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170031365",
+      "filename": "「재외동포청 자체감사 규정」 일부개정 전문(훈령 제55호).pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/2.조문별 제개정 이유서(재외동포청 자체감사 규정안).pdf",
-      "file_store_url": ""
-    },
-    {
-      "name": "1.재외동포청 자체감사 규정안.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=159354661",
-      "filename": "1.재외동포청 자체감사 규정안.hwpx",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/1.재외동포청 자체감사 규정안.hwpx",
-      "file_store_url": ""
-    },
-    {
-      "name": "1.재외동포청 자체감사 규정안.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=159354665",
-      "filename": "1.재외동포청 자체감사 규정안.pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/1.재외동포청 자체감사 규정안.pdf",
+      "local_path": "첨부파일/「재외동포청 자체감사 규정」 일부개정 전문(훈령 제55호).pdf",
       "file_store_url": ""
     }
   ],
   "ordinance_delegations": [],
   "relation_mode": "no_crawl",
   "relation_stats": {
-    "relations_total": 49,
+    "relations_total": 48,
     "by_category": {
-      "법령": 23,
+      "법령": 22,
       "행정규칙": 26
     },
     "by_relation_type": {
-      "citation": 30,
+      "citation": 29,
       "internal_ref": 10,
       "appendix_ref": 9
     },
@@ -1786,9 +1761,9 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 9,
-    "attachments_count": 4
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/재외동포청 자체감사 규정"
