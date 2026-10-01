@@ -1,12 +1,12 @@
 {
-  "law_id": "71598",
+  "law_id": "2119191",
   "mst": "2100000285938",
   "law_name": "소방청 사고대책본부 구성 및 운영에 관한 규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
-  "adm_uid": "admrul:71598",
+  "adm_uid": "admrul:2119191",
   "promulgation_no": "480",
   "promulgation_date": "20261001",
   "enforcement_date": "20261001",
@@ -27,8 +27,8 @@
     "전화번호": "044-205-7568",
     "제개정구분명": "제정",
     "소관부처코드": "1661000",
-    "생성일자": "20261006",
-    "행정규칙ID": "71598",
+    "생성일자": "20261022",
+    "행정규칙ID": "2119191",
     "시행일자": "20261001",
     "담당부서기관코드": "1661066",
     "발령번호": "480",
@@ -61,7 +61,7 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "71598",
+            "source_admrul_seq": "2119191",
             "target_url": "https://www.law.go.kr/법령/소방기본법",
             "resolve_method": "html",
             "source_provision_id": "admrul:소방청사고대책본부구성및운영에관한규정#JO0001",
@@ -81,7 +81,7 @@
             "target_article_no": "제16조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "71598",
+            "source_admrul_seq": "2119191",
             "target_url": "https://www.law.go.kr/법령/소방기본법/제16조",
             "resolve_method": "html",
             "source_provision_id": "admrul:소방청사고대책본부구성및운영에관한규정#JO0001",
@@ -101,7 +101,7 @@
             "target_article_no": "제16조의2",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "71598",
+            "source_admrul_seq": "2119191",
             "target_url": "https://www.law.go.kr/법령/소방기본법/제16조의2",
             "resolve_method": "html",
             "source_provision_id": "admrul:소방청사고대책본부구성및운영에관한규정#JO0001",
@@ -121,7 +121,7 @@
             "target_article_no": "제16조의3",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "71598",
+            "source_admrul_seq": "2119191",
             "target_url": "https://www.law.go.kr/법령/소방기본법/제16조의3",
             "resolve_method": "html",
             "source_provision_id": "admrul:소방청사고대책본부구성및운영에관한규정#JO0001",
@@ -153,7 +153,7 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "71598",
+            "source_admrul_seq": "2119191",
             "target_url": "https://www.law.go.kr/법령/소방청과 그 소속기관 직제 시행규칙",
             "resolve_method": "html",
             "source_provision_id": "admrul:소방청사고대책본부구성및운영에관한규정#JO0002",
@@ -173,7 +173,7 @@
             "target_article_no": "제3조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "71598",
+            "source_admrul_seq": "2119191",
             "target_url": "https://www.law.go.kr/법령/소방청과 그 소속기관 직제 시행규칙/제3조",
             "resolve_method": "html",
             "source_provision_id": "admrul:소방청사고대책본부구성및운영에관한규정#JO0002",
@@ -193,7 +193,7 @@
             "target_article_no": "제4조의2",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "71598",
+            "source_admrul_seq": "2119191",
             "target_url": "https://www.law.go.kr/법령/소방청과 그 소속기관 직제 시행규칙/제4조의2",
             "resolve_method": "html",
             "source_provision_id": "admrul:소방청사고대책본부구성및운영에관한규정#JO0002",
@@ -335,7 +335,7 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "71598",
+            "source_admrul_seq": "2119191",
             "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:소방청사고대책본부구성및운영에관한규정#JO0012",
@@ -372,17 +372,17 @@
       "content": "■ 소방청 사고대책본부 구성 및 운영에 관한 규정 [별표 1]\n소방청 사고대책본부 조직체계 및 세부임무\n1. 사고대책본부 조직도\n┌────────────┐\n│소방청 사고대책본부     │\n├────────────┤\n│본부장(소방청장)        │\n├────────────┤\n│부본부장(차장)          │\n└─────┬──────┘\n│\n┌──────┬──────┼───────┬──────┐\n│            │            │              │            │\n┌┴────┐┌┴────┐┌┴────┐┌─┴────┐┌┴────┐\n│총괄대응반││상황관리반││가족관리반││피해자지원반││언론대응반│\n│          ││          ││          ││            ││          │\n│          ││          ││          ││            ││          │\n│          ││          ││          ││            ││          │\n│          ││          ││          ││            ││          │\n│          ││          ││          ││            ││          │\n└─────┘└─────┘└─────┘└──────┘└─────┘\n2. 사고대책본부 실무반 세부임무\n┌──────┬─────────────────────────────┬───────┐\n│구  분      │세 부 임 무                                               │비고          │\n┝━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━┥\n│총괄대응반  │ ㅇ 사고대책본부 구성 및 총괄보고서 작성                  │대응정책과장  │\n│            │ ㅇ 사고대응 분석ㆍ판단 및 조정ㆍ통제                     │소방항공과장  │\n│            │ ㅇ 사고현장 인력ㆍ장비 등 추가 지원 방안 강구ㆍ조치      │              │\n│            │ ㅇ 사고피해현황 파악 및 사고대응 추진상황 보고ㆍ전파     │              │\n├──────┼─────────────────────────────┼───────┤\n│상황관리반  │ ㅇ 상황보고서 작성 및 사고대책 진행상황 파악 및 기록     │대응정책과장  │\n│            │ ㅇ 사고현장 및 관계기관 상황정보 수집ㆍ분석              │화재대응조사  │\n│            │ ㅇ 사고대책회의 결과 기록ㆍ유지 및 유관기관 협조 요청    │과장          │\n│            │                                                          │구조과장      │\n├──────┼─────────────────────────────┼───────┤\n│가족관리반  │ ㅇ 사고가족 불편 및 요구사항 관리 및 처리                │보건안전담당관│\n│            │ ㅇ 사고가족 간 갈등 조절 및 타협ㆍ화해 등 관계회복 지원  │              │\n│            │ ㅇ 사고가족 숙소, 식사, 부대시설 안내 지원 등            │              │\n├──────┼─────────────────────────────┼───────┤\n│피해자지원반│ ㅇ 부상자 치료 및 공무상 재해 인정 지원                  │운영지원과장  │\n│            │ ㅇ 장례위원회 구성 및 장례계획 수립                      │보건안전담당관│\n│            │ ㅇ 장례절차 가족 협의 및 장례식장 및 관련시설 예약       │              │\n│            │ ㅇ 입관, 운구 등 전문인력 지원                           │              │\n├──────┼─────────────────────────────┼───────┤\n│언론대응반  │ ㅇ 언론대응 및 브리핑 등 공보업무 총괄                   │대변인        │\n│            │ ㅇ 기자실, 브리핑룸 등 취재지원센터 운영                 │              │\n│            │ ㅇ 보도자료 수집 및 언론동향 분석                        │              │\n│            │ ㅇ 정례브리핑 실시 및 보도자료 배포                      │              │\n└──────┴─────────────────────────────┴───────┘\n1) 항공기사고의 경우 소방항공과장은 총괄대응반, 대응정책과장은 상황관리반을 담당한다.\n2) 그 외 사고의 경우 대응정책과장은 총괄대응반, 주관부서장은 상황관리반을 담당한다. 단, 총괄대응반과 상황관리반 담당부서가 중복될 경우, 대책본부의 장이 지정하여 운영한다.\n3) 대책본부의 장은 사고 상황에 따라 실무반 구성 및 편성을 탄력적으로 운영할 수 있다.\n4) 대책본부의 장은 각 팀별 3명~4명으로 구성하여야 하며, 가족관리반은 피해자 및 사고가족과 평소 친분이 있는 직원들로 구성하여 운영할 수 있다.",
       "is_file_only": false,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285938&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170121657",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170826837",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170121651",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170826833",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170121657",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170826837",
           "name": "",
           "file_store_url": ""
         }
@@ -403,17 +403,17 @@
       "content": "■ 소방청 사고대책본부 구성 및 운영에 관한 규정 [별지 제1호서식]\n소방청 사고대책본부 상황보고서\n※ 사고 유형 등에 따라 보고서 양식 변경 활용 가능\n┌─────────────┐\n│소방청 사고대책본부       │\n├─────────────┤  │\n│2000. 00. 10.(0) 00:00기준│\n└─────────────┘\n┌───────────────────────┐\n│○○○○ ○○○○○ ○○ 대처상황 및 조치계획 │\n└───────────────────────┘\n※ 사고지역, 소방공무원ㆍ소방차량ㆍ소방헬기 + 사고유형 대처상황 및 조치계획\n□ 발생개요\n○ 일    시 : 20  .  .   .(  ) 00:00 ~ 구조 중\n○ 장    소 :\n○ 사고경위\n┌┐\n││\n└┘\n○ 피해상황 :\n□ 동원자원\n○ 인원/장비 :\n□ 주요 조치사항  ※ 시간대별 조치사항은 참고1 양식 활용\n○ 구조 진행사항 및 지휘부 지시사항 등\n○ 피해자 가족 편의 및 심리지원 사항 등\n○ 관련기관 대책회의 결과 및 협력방안 등 작성\n□ 기타사항\n○ 사고 관련 가족ㆍ유관기관(장) 동향 등 정보사항\n○ 언론보도 사항(오보ㆍ부정 보도내용 및 관련 대응사항 등)\n□ 향후계획\n○ 발생사고와 관련한 구조대책 및 가족지원 등 향후 진행사항\n┌───┐┌───────────────────┐\n│참고 1││○○○○ 건축물, ○○○○ 도로현황 등 │\n└───┘└───────────────────┘\n┌───┐┌────────────────────────┐\n│참고 2││소방력 동원 현황, 인명피해 및 병원 이송 현황 등 │\n└───┘└────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170121643",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170826843",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170121637",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170826839",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170121643",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170826843",
           "name": "",
           "file_store_url": ""
         }
@@ -434,17 +434,17 @@
       "content": "■ 소방청 사고대책본부 구성 및 운영에 관한 규정 [별지 제2호서식]\n사고대책본부 운영일지\n┌───┬───┬───────┬───┐\n│일 자 │시 간 │주요 조치사항 │비 고 │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n├───┼───┼───────┼───┤\n│      │      │              │      │\n└───┴───┴───────┴───┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170121649",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170826849",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170121645",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170826845",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170121649",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170826849",
           "name": "",
           "file_store_url": ""
         }
