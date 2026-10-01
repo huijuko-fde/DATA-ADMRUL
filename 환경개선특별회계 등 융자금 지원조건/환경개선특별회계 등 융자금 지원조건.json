@@ -1,16 +1,16 @@
 {
   "law_id": "26183",
-  "mst": "2100000281670",
+  "mst": "2100000285696",
   "law_name": "환경개선특별회계 등 융자금 지원조건",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:26183",
-  "promulgation_no": "2026-172",
-  "promulgation_date": "20260701",
-  "enforcement_date": "20260701",
-  "revision_date": "20260701",
+  "promulgation_no": "2026-247",
+  "promulgation_date": "20261001",
+  "enforcement_date": "20261001",
+  "revision_date": "20261001",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "김경호",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "환경개선특별회계 등 융자금 지원조건",
-    "발령일자": "20260701",
+    "발령일자": "20261001",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "044-201-6344",
     "제개정구분명": "일부개정",
     "소관부처코드": "1482000",
-    "생성일자": "20260702",
+    "생성일자": "20261001",
     "행정규칙ID": "26183",
-    "시행일자": "20260701",
+    "시행일자": "20261001",
     "담당부서기관코드": "1482213",
-    "발령번호": "2026-172",
-    "행정규칙일련번호": "2100000281670",
+    "발령번호": "2026-247",
+    "행정규칙일련번호": "2100000285696",
     "상위부처명": "기후에너지환경부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n○ 「환경정책기본법」 제47조제2항에 따라 환경개선특별회계, 기후대응기금(기후에너지환경부소관) 융자 금리는 공공자금관리기금에 연동되어 결정*\n* `02년 금리적용기준 협의 통해, 공공자금관리기금 융자계정금리에 연동하여 운용키로 합의(`01.12.20, 기획재정부)\n[그림]\n\n○ 「2026 3/4분기 공공자금관리기금 융자사업 변동금리(재정경제부)」개정 공고(6.26)에 따라 환경개선특별회계 등 융자 금리도 변경 고시\n○ 별표 제1호의 융자업무위탁기관의 취급수수료 지급기준 삭제\n◇ 주요내용\n○ 재정경제부 금리 공고(‘26.6.26)와 연동하여 \"[별표] 환경개선특별회계 및 기후대응기금 기후에너지환경부소관 융자사업별 금리 및 대출기간\"의 ’26.2/4분기 융자 대출금리 변경 적용\n[그림]\n\n\n* 재활용산업 육성, 환경산업 육성, 미래환경산업 육성, 친환경설비투자 융자 등 4개 사업에 대해서는 ’23년 3/4분기부터 1%p 인하 적용(기재부 협의, 적극행정위원회 심의 등 근거)",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 「환경정책기본법」 제47조제2항에 따라 환경개선특별회계, 기후대응기금(기후에너지환경부소관) 융자 금리는 공공자금관리기금에 연동되어 결정*\n* `02년 금리적용기준 협의 통해, 공공자금관리기금 융자계정금리에 연동하여 운용키로 합의(`01.12.20, 기획재정부)\n[그림]\n\n○ 「2026 4/4분기 공공자금관리기금 융자사업 변동금리(재정경제부)」개정 공고(9.30)에 따라 환경개선특별회계 등 융자 금리도 변경 고시\n◇ 주요내용\n○ 재정경제부 금리 공고(‘26.9.30)와 연동하여 \"[별표] 환경개선특별회계 및 기후대응기금 기후에너지환경부소관 융자사업별 금리 및 대출기간\"의 ’26.4/4분기 융자 대출금리 변경 적용\n[그림]\n\n* 재활용산업 육성, 환경산업 육성, 미래환경산업 육성, 친환경설비투자 융자 등 4개 사업에 대해서는 ’23년 3/4분기부터 1%p 인하 적용(기재부 협의, 적극행정위원회 심의 등 근거)",
   "body": {
     "format": "articles",
     "article_count": 9,
@@ -471,10 +471,10 @@
       "content": "부칙 <제2001-13호,2001. 2. 5.>이 고시는 고시한 날부터 시행한다. 다만 천연가스자동차보급의 융자(대출)금리는 추후 별도 고시한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20010313",
@@ -482,10 +482,10 @@
       "content": "부칙 <제2001-37호,2001. 3. 13.>이 고시는 고시한 날부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20011203",
@@ -493,10 +493,10 @@
       "content": "부칙 <제2001-178호,2001. 12. 3.>이 고시는 고시한 날부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20011229",
@@ -504,10 +504,10 @@
       "content": "부칙 <제2001-209호,2001. 12. 29.>이 고시는 2002년 1월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20030326",
@@ -515,10 +515,10 @@
       "content": "부칙 <제2003-67호,2003. 3. 26.>이 고시는 고시한 날부터 시행하되, 2003년 4월 1일부터 적용한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20030630",
@@ -526,10 +526,10 @@
       "content": "부칙 <제2003-107호,2003. 6. 30.>이 고시는 고시한 날부터 시행하되, 2003년 7월 1일부터 적용한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20070928",
@@ -537,10 +537,10 @@
       "content": "부칙 <제2007-149호,2007. 9. 28.>이 고시는 2007년 10월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20110930",
@@ -548,10 +548,10 @@
       "content": "부칙 <제2011-142호,2011. 9. 30.>이 고시는 2011년 10월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20130410",
@@ -559,10 +559,10 @@
       "content": "부칙 <제2013-35호,2013. 4. 10.>이 고시는 발령한 날로부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20131231",
@@ -570,10 +570,10 @@
       "content": "부칙 <제2013-196호,2013. 12. 31.>이 고시는 2014년 1월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20140401",
@@ -581,10 +581,10 @@
       "content": "부칙 <제2014-57호,2014. 4. 1.>이 고시는 2014년 4월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20140701",
@@ -592,10 +592,10 @@
       "content": "부칙 <제2014-108호,2014. 7. 1.>이 고시는 2014년 7월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20140930",
@@ -603,10 +603,10 @@
       "content": "부칙 <제2014-184호,2014. 9. 30.>이 고시는 2014년 10월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20141231",
@@ -614,10 +614,10 @@
       "content": "부칙 <제2014-263호,2014. 12. 31.>이 고시는 2015년 1월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20150401",
@@ -625,10 +625,10 @@
       "content": "부칙 <제2015-43호,2015. 4. 1.>이 고시는 2015년 4월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20150630",
@@ -636,10 +636,10 @@
       "content": "부칙 <제2015-99호,2015. 6. 30.>이 고시는 2015년 7월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20151230",
@@ -647,10 +647,10 @@
       "content": "부칙 <제2015-264호,2015. 12. 30.>이 고시는 2016년 1월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20160122",
@@ -658,10 +658,10 @@
       "content": "부칙 <제2016-24호,2016. 1. 22.>이 고시는 2016년 1월 22일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20160331",
@@ -669,10 +669,10 @@
       "content": "부칙 <제2016-72호,2016. 3. 31.>이 고시는 2016년 4월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20160630",
@@ -680,10 +680,10 @@
       "content": "부칙 <제2016-132호,2016. 6. 30.>이 고시는 2016년 7월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20171229",
@@ -691,10 +691,10 @@
       "content": "부칙 <제2017-269호,2017. 12. 29.>이 고시는 2018년 1월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20180330",
@@ -702,10 +702,10 @@
       "content": "부칙 <제2018-53호,2018. 3. 30.>이 고시는 2018년 4월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20180630",
@@ -713,10 +713,10 @@
       "content": "부칙 <제2018-106호,2018. 6. 30.>이 고시는 2018년 7월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20181001",
@@ -724,10 +724,10 @@
       "content": "부칙 <제2018-157호,2018. 9. 27.>이 고시는 2018년 10월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20190328",
@@ -735,10 +735,10 @@
       "content": "부칙 <제2019-64호,2019. 3. 28.>이 고시는 2019년 4월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20190628",
@@ -746,10 +746,10 @@
       "content": "부칙 <제2019-123호,2019. 6. 28.>이 고시는 2019년 7월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20190930",
@@ -757,10 +757,10 @@
       "content": "부칙 <제2019-180호,2019. 9. 30.>이 고시는 2019년 10월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20191231",
@@ -768,10 +768,10 @@
       "content": "부칙 <제2019-270호,2019. 12. 31.>이 고시는 2020년 1월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20200331",
@@ -779,10 +779,10 @@
       "content": "부칙 <제2020-73호,2020. 3. 31.>이 고시는 2020년 4월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20200630",
@@ -790,10 +790,10 @@
       "content": "부칙 <제2020-154호,2020. 6. 30.>이 고시는 2020년 7월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20200929",
@@ -801,10 +801,10 @@
       "content": "부칙 <제2020-207호,2020. 9. 29.>이 고시는 2020년 10월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20201231",
@@ -812,10 +812,10 @@
       "content": "부칙 <제2020-305호,2020. 12. 31.>이 고시는 2021년 1월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20210331",
@@ -823,10 +823,10 @@
       "content": "부칙 <제2021-70호, 2021. 3. 31.>이 고시는 2021년 4월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20210630",
@@ -834,10 +834,10 @@
       "content": "부칙 <제2021-130호, 2021. 6. 30.>이 고시는 2021년 7월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20210930",
@@ -845,10 +845,10 @@
       "content": "부칙 <제2021-198호, 2021. 9. 30.>이 고시는 2021년 10월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20211231",
@@ -856,10 +856,10 @@
       "content": "부칙 <제2022-4호, 2021. 12. 31.>이 고시는 2022년 1월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20220112",
@@ -867,10 +867,10 @@
       "content": "부칙 <제2022-22호, 2022. 1. 12.>이 고시는 2022년 1월 12일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20220401",
@@ -878,10 +878,10 @@
       "content": "부칙 <제2022-71호, 2022. 4. 1.>이 고시는 2022년 4월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20220701",
@@ -889,10 +889,10 @@
       "content": "부칙 <제2022-131호, 2022. 7. 1.>이 고시는 2022년 7월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20221001",
@@ -900,10 +900,10 @@
       "content": "부칙 <제2022-189호, 2022. 10. 1.>이 고시는 2022년 10월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20230101",
@@ -911,10 +911,10 @@
       "content": "부칙 <제2022-288호, 2023. 1. 1.>이 고시는 2023년 1월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20230330",
@@ -922,10 +922,10 @@
       "content": "부칙 <제2023-67호, 2023. 3. 30.>이 고시는 2023년 4월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20230701",
@@ -933,10 +933,10 @@
       "content": "부칙 <제2023-160호, 2023. 7. 1.>이 고시는 2023년 7월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20231004",
@@ -944,10 +944,10 @@
       "content": "부칙 <제2023-236호, 2023. 10. 4.>이 고시는 2023년 10월 4일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20240101",
@@ -955,10 +955,10 @@
       "content": "부칙 <제2024-6호, 2024. 1. 1.>이 고시는 2024년 1월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20240401",
@@ -966,10 +966,10 @@
       "content": "부칙 <제2024-73호, 2024. 4. 1.>이 고시는 2024년 4월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20241001",
@@ -977,10 +977,10 @@
       "content": "부칙 <제2024-192호, 2024. 10. 1.>이 고시는 2024년 10월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20250101",
@@ -988,10 +988,10 @@
       "content": "부칙 <제2025-1호, 2025. 1. 1.>이 고시는 2025년 1월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20250401",
@@ -999,10 +999,10 @@
       "content": "부칙 <제2025-59호, 2025. 4. 1.>이 고시는 2025년 4월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20250701",
@@ -1010,10 +1010,10 @@
       "content": "부칙 <제2025-120호, 2025. 7. 1.>이 고시는 2025년 7월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20251001",
@@ -1021,10 +1021,10 @@
       "content": "부칙 <제2025-2호, 2025. 10. 1.>이 고시는 2025년 10월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20260101",
@@ -1032,10 +1032,10 @@
       "content": "부칙 <제2025-97호, 2026. 1. 1.>이 고시는 2026년 1월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20260401",
@@ -1043,10 +1043,10 @@
       "content": "부칙 <제2026-82호, 2026. 4. 1.>이 고시는 2026년 4월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20260701",
@@ -1054,10 +1054,21 @@
       "content": "부칙 <제2026-172호, 2026. 7. 1.>이 고시는 2026년 7월 1일부터 시행한다.",
       "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281670",
+      "source_mst": "2100000285696",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261001"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "2026-247",
+      "content": "부칙 <제2026-247호, 2026. 10. 1.>이 고시는 2026년 10월 1일부터 시행한다.",
+      "provision_id": "admrul:환경개선특별회계등융자금지원조건#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285696",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261001"
     }
   ],
   "appendices": [
@@ -1067,20 +1078,20 @@
       "kind": "별표",
       "title": "환경개선특별회계 및 기후대응기금 기후에너지환경부소관 융자사업별 금리 및 대출기간(제5조제2항 관련)",
       "enforcement_date": "",
-      "content": "[별표]\n환경개선특별회계 및 기후대응기금 기후에너지환경부소관 융자사업별 금리 및 대출기간(제5조제2항 관련)\n┌───────────────┬──┬─────────────┬──────────┐\n│사  업  명                    │지원│융자(대출) 금리           │비  고              │\n│                              │대상├──────┬──────┤                    │\n│                              │    │'26. 2/4분기│'26. 3/4분기│                    │\n├─┬─────────────┼──┼──────┼──────┼──────────┤\n│환│1. 천연가스자동차보급     │민간│2.28        │2.90        │- 5년거치, 10년상환 │\n│경│                          │    │(3.28)      │(3.80)      │                    │\n│개├────────┬────┼──┼──────┼──────┼──────────┤\n│선│2. 청정대기     │시설자금│〃  │〃          │〃          │- 3년거치, 7년상환  │\n│특│전환시설 지원   │        │    │            │            │                    │\n│별├────────┼────┼──┼──────┼──────┼──────────┤\n│회│3. 재활용산업   │시설자금│〃  │1.28        │1.90        │- 3년거치, 7년상환  │\n│계│   육성         ├────┤    │(2.28)      │(2.80)      ├──────────┤\n│  │                │운전자금│    │            │            │- 2년거치, 3년상환  │\n│  ├────────┼────┼──┼──────┼──────┼──────────┤\n│  │4. 환경산업 육성│시설자금│〃  │〃          │〃          │- 3년거치, 7년상환- │\n│  │                ├────┼──┼──────┼──────┼──────────┤\n│  │                │운전자금│〃  │〃          │〃          │- 2년거치, 3년상환- │\n│  ├────────┼────┼──┼──────┼──────┼──────────┤\n│  │5. 미래환경     │시설자금│〃  │〃          │〃          │- 3년거치, 7년상환  │\n│  │산업육성        ├────┼──┼──────┼──────┼──────────┤\n│  │                │운전자금│〃  │〃          │〃          │- 2년거치, 3년상환  │\n├─┼────────┼────┼──┼──────┼──────┼──────────┤\n│기│친환경설비      │시설자금│〃  │〃          │〃          │- 3년거치, 7년상환  │\n│후│투자            │        │    │            │            │                    │\n│대│                │        │    │            │            │                    │\n│응│                │        │    │            │            │                    │\n│기│                │        │    │            │            │                    │\n│금│                │        │    │            │            │                    │\n└─┴────────┴────┴──┴──────┴──────┴──────────┘\n※ 1. 취급수수료 지급기준 : 금융기관 0.9%\n2. 친환경설비투자 사업 및 미래환경산업육성융자의 온실가스배출저감설비 사업의 경우 온실가스 감축 예상량 등 사업 예상 성과에 따라 추가로 대출금리를 최대 1.0%p 인하 할 수 있다.(감축 기준 등 구체적인 사항은 융자업무위탁기관에서 공고하는 융자요강에 따름)\n3. 산정한 대출금리(취급수수료 포함)가 1.0% 미만일 경우 최저대출금리인 1.0%를 적용한다.\n4. 명시되지 않은 융자사업(’98이후)의 경우 지원대상에 따라 상기조건을 준용한다.",
+      "content": "[별표]\n환경개선특별회계 및 기후대응기금 기후에너지환경부소관 융자사업별 금리 및 대출기간(제5조제2항 관련)\n┌───────────────┬──┬─────────────┬──────────┐\n│사  업  명                    │지원│융자(대출) 금리           │비  고              │\n│                              │대상├──────┬──────┤                    │\n│                              │    │'26. 3/4분기│'26. 4/4분기│                    │\n├─┬─────────────┼──┼──────┼──────┼──────────┤\n│환│1. 천연가스자동차보급     │민간│2.90        │3.04        │- 5년거치, 10년상환 │\n│경│                          │    │(3.80)      │(3.94)      │                    │\n│개├────────┬────┼──┼──────┼──────┼──────────┤\n│선│2. 청정대기     │시설자금│〃  │〃          │〃          │- 3년거치, 7년상환  │\n│특│전환시설 지원   │        │    │            │            │                    │\n│별├────────┼────┼──┼──────┼──────┼──────────┤\n│회│3. 재활용산업   │시설자금│〃  │1.90        │2.04        │- 3년거치, 7년상환  │\n│계│   육성         ├────┤    │(2.80)      │(2.94)      ├──────────┤\n│  │                │운전자금│    │            │            │- 2년거치, 3년상환  │\n│  ├────────┼────┼──┼──────┼──────┼──────────┤\n│  │4. 환경산업 육성│시설자금│〃  │〃          │〃          │- 3년거치, 7년상환- │\n│  │                ├────┼──┼──────┼──────┼──────────┤\n│  │                │운전자금│〃  │〃          │〃          │- 2년거치, 3년상환- │\n│  ├────────┼────┼──┼──────┼──────┼──────────┤\n│  │5. 미래환경     │시설자금│〃  │〃          │〃          │- 3년거치, 7년상환  │\n│  │산업육성        ├────┼──┼──────┼──────┼──────────┤\n│  │                │운전자금│〃  │〃          │〃          │- 2년거치, 3년상환  │\n├─┼────────┼────┼──┼──────┼──────┼──────────┤\n│기│친환경설비      │시설자금│〃  │〃          │〃          │- 3년거치, 7년상환  │\n│후│투자            │        │    │            │            │                    │\n│대│                │        │    │            │            │                    │\n│응│                │        │    │            │            │                    │\n│기│                │        │    │            │            │                    │\n│금│                │        │    │            │            │                    │\n└─┴────────┴────┴──┴──────┴──────┴──────────┘\n※ 1. 취급수수료 지급기준 : 금융기관 0.9%\n2. 친환경설비투자 사업 및 미래환경산업육성융자의 온실가스배출저감설비 사업의 경우 온실가스 감축 예상량 등 사업 예상 성과에 따라 추가로 대출금리를 최대 1.0%p 인하 할 수 있다.(감축 기준 등 구체적인 사항은 융자업무위탁기관에서 공고하는 융자요강에 따름)\n3. 산정한 대출금리(취급수수료 포함)가 1.0% 미만일 경우 최저대출금리인 1.0%를 적용한다.\n4. 명시되지 않은 융자사업(’98이후)의 경우 지원대상에 따라 상기조건을 준용한다.",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166589791",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169855877",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166589787",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169855871",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166589791",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169855877",
           "name": "",
           "file_store_url": ""
         }
@@ -1095,11 +1106,19 @@
   ],
   "attachments": [
     {
-      "name": "[붙임]환경개선특별회계 등 융자금 지원조건 고시 개정전문(기후에너지환경부고시 제2026-172호)..hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=166554995",
-      "filename": "[붙임]환경개선특별회계 등 융자금 지원조건 고시 개정전문(기후에너지환경부고시 제2026-172호)..hwpx",
+      "name": "[붙임]환경개선특별회계 등 융자금 지원조건 고시 개정전문(기후에너지환경부고시 제2026-247호)..hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169854835",
+      "filename": "[붙임]환경개선특별회계 등 융자금 지원조건 고시 개정전문(기후에너지환경부고시 제2026-247호)..hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/[붙임]환경개선특별회계 등 융자금 지원조건 고시 개정전문(기후에너지환경부고시 제2026-172호)..hwpx",
+      "local_path": "첨부파일/[붙임]환경개선특별회계 등 융자금 지원조건 고시 개정전문(기후에너지환경부고시 제2026-247호)..hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "[붙임]환경개선특별회계 등 융자금 지원조건 고시 개정전문(기후에너지환경부고시 제2026-247호)..pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169854839",
+      "filename": "[붙임]환경개선특별회계 등 융자금 지원조건 고시 개정전문(기후에너지환경부고시 제2026-247호)..pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/[붙임]환경개선특별회계 등 융자금 지원조건 고시 개정전문(기후에너지환경부고시 제2026-247호)..pdf",
       "file_store_url": ""
     }
   ],
@@ -1118,9 +1137,9 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 54,
+    "addenda_count": 55,
     "appendices_count": 1,
-    "attachments_count": 1
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/환경개선특별회계 등 융자금 지원조건"
