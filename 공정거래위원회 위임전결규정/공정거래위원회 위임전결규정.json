@@ -1,25 +1,25 @@
 {
   "law_id": "20177",
-  "mst": "2100000275328",
+  "mst": "2100000285382",
   "law_name": "공정거래위원회 위임전결규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:20177",
-  "promulgation_no": "381",
-  "promulgation_date": "20260301",
-  "enforcement_date": "20260301",
-  "revision_date": "20260301",
+  "promulgation_no": "399",
+  "promulgation_date": "20261001",
+  "enforcement_date": "20261001",
+  "revision_date": "20261001",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "공정거래위원회(운영지원과)",
-    "담당자명": "한호영",
+    "담당자명": "이주현",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "공정거래위원회 위임전결규정",
-    "발령일자": "20260301",
+    "발령일자": "20261001",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "044-200-4185",
     "제개정구분명": "일부개정",
     "소관부처코드": "1130000",
-    "생성일자": "20260303",
+    "생성일자": "20261001",
     "행정규칙ID": "20177",
-    "시행일자": "20260301",
+    "시행일자": "20261001",
     "담당부서기관코드": "1130221",
-    "발령번호": "381",
-    "행정규칙일련번호": "2100000275328",
+    "발령번호": "399",
+    "행정규칙일련번호": "2100000285382",
     "상위부처명": "공정거래위원회"
   },
-  "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유 및 주요내용\n○ ’26년 조직개편에 따른 변동사항을 반영하여 규정 정비",
+  "amendment_text": "⊙공정거래위원회훈령 제399호\n공정거래위원회 위임전결규정 일부를 다음과 같이 개정한다.\n2026년 10월 1일\n공정거래위원회위원장\n공정거래위원회 위임전결규정 일부개정훈령\n공정거래위원회 위임전결규정 일부를 다음과 같이 개정한다.\n제3조제1호 중 \"가맹유통심의관 및\"을 \"가맹유통심의관, 중점조사기획단장 및\"으로 한다.\n별표를 별지와 같이 한다.\n[별지 생략]\n부칙\n이 규정은 2026년 10월 1일부터 시행한다.",
+  "revision_reason": "1. 공정거래위원회 위임전결규정 개정(제3조제1호, 별표 등)\n◇ 제ㆍ개정 이유 및 주요내용\n○ ’26년 조직개편에 따른 변동사항을 반영하여 규정 정비",
   "body": {
     "format": "articles",
     "article_count": 11,
@@ -149,7 +149,7 @@
         "article_title": "용어의 정의",
         "chapter": "",
         "chapter_path": "",
-        "content": "제3조(용어의 정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다.1. \"국장 등\"이라 함은 각 국장, 대변인, 심판관리관, 기획조정관, 기업협력정책관, 가맹유통심의관 및 서울지방공정거래사무소(이하 \"서울사무소\"라 한다) 소장, 경인지방공정거래사무소(이하 \"경인사무소\"라 한다) 소장을 말한다.2. \"과장 등\"이라 함은 각 과의 장(또는 담당관), 팀장, 서울사무소 및 경인사무소 각 과장 등을 말한다.3. \"과원\"이라 함은 각 \"과장 등\"을 제외한 소속원을 말한다.",
+        "content": "제3조(용어의 정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다.1. \"국장 등\"이라 함은 각 국장, 대변인, 심판관리관, 기획조정관, 기업협력정책관, 가맹유통심의관, 중점조사기획단장 및 서울지방공정거래사무소(이하 \"서울사무소\"라 한다) 소장, 경인지방공정거래사무소(이하 \"경인사무소\"라 한다) 소장을 말한다.2. \"과장 등\"이라 함은 각 과의 장(또는 담당관), 팀장, 서울사무소 및 경인사무소 각 과장 등을 말한다.3. \"과원\"이라 함은 각 \"과장 등\"을 제외한 소속원을 말한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -252,10 +252,10 @@
       "content": "부칙 <제361호, 2024. 2. 27.>① 이 규정은 2024년 2월 27일부터 시행한다.② 이 규정이 발령됨과 동시에 종전 공정거래위원회위임전결규정(공정거래위원회훈령 제341호)을 폐지한다.",
       "provision_id": "admrul:공정거래위원회위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275328",
+      "source_mst": "2100000285382",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260301"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20260129",
@@ -263,10 +263,10 @@
       "content": "부칙 <제379호, 2026. 1. 29.>① 이 규정은 2026년 1월 29일부터 시행한다.② 이 규정이 발령됨과 동시에 종전 공정거래위원회위임전결규정(공정거래위원회훈령 제361호)을 폐지한다.",
       "provision_id": "admrul:공정거래위원회위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275328",
+      "source_mst": "2100000285382",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260301"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20260301",
@@ -274,10 +274,21 @@
       "content": "부칙 <제381호, 2026. 3. 1.>이 규정은 발령한 날부터 시행한다. 다만, 제3조제1호의 개정규정 중 가맹유통심의관 관련 부분, [별표] 중 경제분석담당관, 디지털포렌식담당관, 가맹유통심의관 관련 부분은 2026년 3월 24일부터 시행한다.",
       "provision_id": "admrul:공정거래위원회위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275328",
+      "source_mst": "2100000285382",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260301"
+      "version_enforcement_date": "20261001"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "399",
+      "content": "부칙 <제399호, 2026. 10. 1.>이 규정은 2026년 10월 1일부터 시행한다.",
+      "provision_id": "admrul:공정거래위원회위임전결규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285382",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261001"
     }
   ],
   "appendices": [
@@ -287,20 +298,20 @@
       "kind": "별표",
       "title": "공정거래위원회 위임전결사항표",
       "enforcement_date": "",
-      "content": "[별표] 공정거래위원회 위임전결사항표의 자세한 내용은 상단 메뉴 \"\" 버튼을 이용하십시오.",
+      "content": "[별표] 공정거래위원회 위임전결사항표의 자세한 내용은 상단 메뉴 \"\" 버튼을 이용하십시오.\n※ 자세한 내용은 상단 메뉴 \"\" 버튼을 이용하십시오.\n\"\" 버튼 클릭 후 하단 파일명 참조\n2-2. (위임전결규정) (별표) 공정거래위원회 위임전결사항(훈령 제000호).xlsx",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162033019",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169653421",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162032895",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169653417",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162033019",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169653421",
           "name": "",
           "file_store_url": ""
         }
@@ -315,27 +326,27 @@
   ],
   "attachments": [
     {
-      "name": "2-2. (위임전결규정) (별표) 공정거래위원회 위임전결사항(훈령 제381호).xlsx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=162024461",
-      "filename": "2-2. (위임전결규정) (별표) 공정거래위원회 위임전결사항(훈령 제381호).xlsx",
+      "name": "2-1. (위임전결규정) 개정훈령 전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169652789",
+      "filename": "2-1. (위임전결규정) 개정훈령 전문.pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/2-2. (위임전결규정) (별표) 공정거래위원회 위임전결사항(훈령 제381호).xlsx",
+      "local_path": "첨부파일/2-1. (위임전결규정) 개정훈령 전문.pdf",
       "file_store_url": ""
     },
     {
       "name": "2-1. (위임전결규정) 개정훈령 전문.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=162033231",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169652785",
       "filename": "2-1. (위임전결규정) 개정훈령 전문.hwpx",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/2-1. (위임전결규정) 개정훈령 전문.hwpx",
       "file_store_url": ""
     },
     {
-      "name": "2-1. (위임전결규정) 개정훈령 전문.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=162033235",
-      "filename": "2-1. (위임전결규정) 개정훈령 전문.pdf",
+      "name": "2-2. (위임전결규정) (별표) 공정거래위원회 위임전결사항(훈령 제000호).xlsx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169598929",
+      "filename": "2-2. (위임전결규정) (별표) 공정거래위원회 위임전결사항(훈령 제000호).xlsx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/2-1. (위임전결규정) 개정훈령 전문.pdf",
+      "local_path": "첨부파일/2-2. (위임전결규정) (별표) 공정거래위원회 위임전결사항(훈령 제000호).xlsx",
       "file_store_url": ""
     }
   ],
@@ -354,7 +365,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 1,
     "attachments_count": 3
   },
