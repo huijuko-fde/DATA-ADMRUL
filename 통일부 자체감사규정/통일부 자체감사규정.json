@@ -1,25 +1,25 @@
 {
   "law_id": "28232",
-  "mst": "2100000278604",
+  "mst": "2100000285494",
   "law_name": "통일부 자체감사규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:28232",
-  "promulgation_no": "746",
-  "promulgation_date": "20260428",
-  "enforcement_date": "20260428",
-  "revision_date": "20260428",
+  "promulgation_no": "754",
+  "promulgation_date": "20260929",
+  "enforcement_date": "20260929",
+  "revision_date": "20260929",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "통일부(감사담당관)",
-    "담당자명": "조재현",
+    "담당자명": "고영식",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "통일부 자체감사규정",
-    "발령일자": "20260428",
+    "발령일자": "20260929",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "02-2100-5901",
     "제개정구분명": "일부개정",
     "소관부처코드": "1250000",
-    "생성일자": "20260506",
+    "생성일자": "20260930",
     "행정규칙ID": "28232",
-    "시행일자": "20260428",
+    "시행일자": "20260929",
     "담당부서기관코드": "1250368",
-    "발령번호": "746",
-    "행정규칙일련번호": "2100000278604",
+    "발령번호": "754",
+    "행정규칙일련번호": "2100000285494",
     "상위부처명": "통일부"
   },
-  "amendment_text": "⊙통일부훈령 제746호\n통일부 자체감사규정 일부를 다음과 같이 개정한다.\n2026년 4월 28일\n통일부장관\n통일부 자체감사규정 일부개정훈령\n통일부 자체감사규정 일부를 다음과 같이 개정한다.\n제25조의2 및 제38조를 각각 다음과 같이 한다.\n제25조의2(사전컨설팅감사) 본부 각 부서 및 소속기관각 부서의 장은 업무의 수행에 앞서 사전컨설팅 감사를 신청할 수 있으며, 사전컨설팅 신청 및 요건, 절차, 그에 따른 효력 등 자세한 사항은 「통일부 적극행정 면책제도 운영규정」에 따른다.\n제38조(적극행정의 면책) 자체감사 대상기관 소속 공무원 등이 불합리한 규제의 개선 등 공공의 이익을 위하여 업무를 적극적으로 처리한 결과에 대하여 그의 행위에 고의나 중대한 과실이 없는 경우에는 징계요구 또는 문책요구 등 책임을 묻지 아니하며, 적극행정 면책 신청 및 요건, 절차 등 자세한 사항은 「통일부 적극행정 면책제도 운영규정」에 따른다.\n부칙\n이 훈령은 발령한 날부터 시행한다.",
-  "revision_reason": "◇ 개정이유\n「통일부 적극행정 면책제도 운영규정」제정에 따라「통일부 자체감사규정」의 적극행정 면책 요건 및 사전컨설팅감사 관련 조항들을 정비하기 위함.\n◇ 주요내용\n제25조의2(사전컨설팅감사) 및 제38조(적극행정의 면책) 규정 일부를 삭제 및 개정하고 해당 부분은「통일부 적극행정 면책제도 운영규정」에 따르도록 개정하고자 함.",
+  "amendment_text": "⊙통일부훈령 제754호\n통일부 자체감사규정 일부를 다음과 같이 개정한다.\n2026년 9월 29일\n통일부장관\n통일부 자체감사규정 일부개정훈령\n통일부 자체감사규정 일부를 다음과 같이 개정한다.\n제25조제1항제1호를 다음과 같이 하고, 같은 항 제2호를 삭제하며, 같은 항 제3호를 제2호로 하고, 같은 항 제4호를 삭제하며, 같은 조 제2항을 제3항으로 하고, 같은 조에 제2항을 다음과 같이 신설한다.\n1. 물품제조ㆍ구매ㆍ공사ㆍ용역 등으로서 추정가격이 2,000만원 초과하는 사업. 다만, 여성기업ㆍ장애인기업 등과 체결하는 계약은 제2항에 따른다.\n② 감사담당관은 제1항제1호 단서에 따른 여성기업ㆍ장애인기업 등과의 계약 또는 다음 각 호의 사항에 대하여 사업부서의 장이 일상감사가 필요하다고 인정하여 의뢰한 경우 일상감사를 실시할 수 있다.\n1. 법령에 따른 처리기준 등에 의하여 통상적으로 처리되는 업무 중 업무 자체가 중요하여 신중하고 다각적인 검토가 필요하거나 사후감사로는 원상회복이 곤란한 사항\n2. 그 밖에 비리 발생이 우려되는 업무로서 부서 또는 소속기관의 장이 감사를 요청한 사항\n부칙\n제1조(시행일) 이 훈령은 발령한 날부터 시행한다.",
+  "revision_reason": "◇ 개정이유\n현재 자체감사규정 상에 명시된 일상감사 대상을 국가계약법상 수의계약 범위에 맞게 개정하여 2천만원 초과 예산이 소요되는 사업 중에서 여성기업, 장애인기업 등은 사업부서 판단으로 일상감사 의뢰할 수 있도록 하려는 것임.\n◇ 주요내용\n가. 일상감사 대상 기준 변경(제25조제1항제1호) : 현행 ‘건당 2,000만원 이상 예산이 소요되는 사업’을 ‘추정가격이 2,000만원 초과하는 사업’으로 변경하여 국가계약법상 수의계약 기준과 일치시킴.\n나. 여성기업ㆍ장애인기업 계약에 대한 특례 신설(제25조제1항제1호 단서) : 제1항제1호에 해당하는 사업 중 여성기업ㆍ장애인기업 등과 체결하는 계약은 의무적 일상감사 대상에서 제외하고, 신설되는 제2항에 따른 사업부서 의뢰 방식으로 전환함.\n다. 임의적 일상감사 조항 신설(제25조제2항 신설) : 감사담당관이 사업부서의 장의 의뢰가 있는 경우 다음 사항에 대하여 일상감사를 실시할 수 있는 임의적 규정을 신설함.\nㆍ 여성기업ㆍ장애인기업 등과의 계약\nㆍ 법령상 통상적으로 처리되는 업무 중 중요하여 다각적으로 검토가 필요하거나 사후감사로 원상회복이 곤란한 사항\nㆍ 비리 발생이 우려되는 업무로서 부서 또는 소속기관의 장이 감사를 요청한 사항\n라. 현행 조문 정비 : 현행 제25조제1항제2호(중요 통상업무) 및 제4호(비리 우려 업무)를 삭제하고, 현행 제3호는 제2호로 이동하며, 현행 제2항은 제3항으로 변경함.",
   "body": {
     "format": "articles",
     "article_count": 49,
@@ -542,7 +542,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "28232",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164012987",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821603",
             "resolve_method": "html",
             "source_provision_id": "admrul:통일부자체감사규정#JO0021",
             "target_unit": "BJ0001",
@@ -567,7 +567,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "28232",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164012995",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821611",
             "resolve_method": "html",
             "source_provision_id": "admrul:통일부자체감사규정#JO0021",
             "target_unit": "BJ0002",
@@ -592,7 +592,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "28232",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013001",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821617",
             "resolve_method": "html",
             "source_provision_id": "admrul:통일부자체감사규정#JO0021",
             "target_unit": "BJ0003",
@@ -629,7 +629,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "28232",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013007",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821663",
             "resolve_method": "html",
             "source_provision_id": "admrul:통일부자체감사규정#JO0022",
             "target_unit": "BJ0004",
@@ -668,7 +668,7 @@
         "article_title": "일상감사 대상",
         "chapter": "제4장 일상감사 및 사전컨설팅 감사",
         "chapter_path": "제4장 일상감사 및 사전컨설팅 감사",
-        "content": "제25조(일상감사 대상) ① 일상감사는 다음 각 호의 사항에 대하여 실시한다. 다만, 조달청 의뢰 계약사항과 통일부 정책연구용역심의위원회의 의결을 거친 정책연구용역은 제외한다.1. 물품제조ㆍ구매ㆍ공사ㆍ용역 등 건당 2,000만원 이상 예산이 소요되는 사업2. 법령에 따른 처리기준 등에 의하여 통상적으로 처리되는 업무 중 업무자체가 중요하여 신중하고 다각적인 검토가 필요한 사항이나 사후감사로는 원상회복이 불가능한 사항3. 장관이 사전감사를 지시한 사항4. 그 밖에 비리발생이 우려되는 업무로서 부서 및 소속기관의 장이 감사를 요청한 사항② 일상감사는 다음 각 호의 사항에 중점을 두어 실시한다.1. 해당 사업의 필요성 및 시기의 적정성2. 예산확보 및 예산액의 적정성3. 계약방법 및 절차의 적법여부4. 계약체결 요건의 구비여부5. 예산낭비요인 및 집행의 타당성6. 추진 과정에서의 예상문제점 및 애로사항 등",
+        "content": "제25조(일상감사 대상) ① 일상감사는 다음 각 호의 사항에 대하여 실시한다. 다만, 조달청 의뢰 계약사항과 통일부 정책연구용역심의위원회의 의결을 거친 정책연구용역은 제외한다.1. 물품제조ㆍ구매ㆍ공사ㆍ용역 등으로서 추정가격이 2,000만원 초과하는 사업. 다만, 여성기업ㆍ장애인기업 등과 체결하는 계약은 제2항에 따른다.2. 장관이 사전감사를 지시한 사항② 감사담당관은 제1항제1호 단서에 따른 여성기업ㆍ장애인기업 등과의 계약 또는 다음 각 호의 사항에 대하여 사업부서의 장이 일상감사가 필요하다고 인정하여 의뢰한 경우 일상감사를 실시할 수 있다.1. 법령에 따른 처리기준 등에 의하여 통상적으로 처리되는 업무 중 업무 자체가 중요하여 신중하고 다각적인 검토가 필요하거나 사후감사로는 원상회복이 곤란한 사항2. 그 밖에 비리 발생이 우려되는 업무로서 부서 또는 소속기관의 장이 감사를 요청한 사항③ 일상감사는 다음 각 호의 사항에 중점을 두어 실시한다.1. 해당 사업의 필요성 및 시기의 적정성2. 예산확보 및 예산액의 적정성3. 계약방법 및 절차의 적법여부4. 계약체결 요건의 구비여부5. 예산낭비요인 및 집행의 타당성6. 추진 과정에서의 예상문제점 및 애로사항 등",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -751,7 +751,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "28232",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013013",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821669",
             "resolve_method": "html",
             "source_provision_id": "admrul:통일부자체감사규정#JO0026",
             "target_unit": "BJ0005",
@@ -796,7 +796,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "28232",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013019",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821675",
             "resolve_method": "html",
             "source_provision_id": "admrul:통일부자체감사규정#JO0026",
             "target_unit": "BJ0006",
@@ -844,7 +844,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "28232",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013025",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821681",
             "resolve_method": "html",
             "source_provision_id": "admrul:통일부자체감사규정#JO0028",
             "target_unit": "BJ0007",
@@ -1006,7 +1006,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "28232",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013031",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821687",
             "resolve_method": "html",
             "source_provision_id": "admrul:통일부자체감사규정#JO0032",
             "target_unit": "BJ0008",
@@ -1103,7 +1103,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "28232",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013037",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821693",
             "resolve_method": "html",
             "source_provision_id": "admrul:통일부자체감사규정#JO0033",
             "target_unit": "BJ0009",
@@ -1349,10 +1349,10 @@
       "content": "부칙 <제450호,2011. 3. 31.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:통일부자체감사규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000278604",
+      "source_mst": "2100000285494",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260428"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20120522",
@@ -1360,10 +1360,10 @@
       "content": "부칙 (개인정보보호법에 따른 고유식별정보 수집ㆍ이용을 위한 남북교류협력시스템 운영관리 규정 등 일부개정)<제462호,2012. 5. 22.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:통일부자체감사규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000278604",
+      "source_mst": "2100000285494",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260428"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20160629",
@@ -1371,10 +1371,10 @@
       "content": "부칙 <제529호,2016. 6. 29.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:통일부자체감사규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000278604",
+      "source_mst": "2100000285494",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260428"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20190724",
@@ -1382,10 +1382,10 @@
       "content": "부칙 <제583호,2019. 7. 24.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:통일부자체감사규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000278604",
+      "source_mst": "2100000285494",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260428"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20201104",
@@ -1393,10 +1393,10 @@
       "content": "부칙 <제608호,2020. 11. 4.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:통일부자체감사규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000278604",
+      "source_mst": "2100000285494",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260428"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20240729",
@@ -1404,10 +1404,10 @@
       "content": "부칙 <제696호, 2024. 7. 29.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:통일부자체감사규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000278604",
+      "source_mst": "2100000285494",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260428"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20260428",
@@ -1415,10 +1415,21 @@
       "content": "부칙 <제746호, 2026. 4. 28.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:통일부자체감사규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000278604",
+      "source_mst": "2100000285494",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260428"
+      "version_enforcement_date": "20260929"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "754",
+      "content": "부칙 <제754호, 2026. 9. 29.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:통일부자체감사규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285494",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260929"
     }
   ],
   "appendices": [
@@ -1431,17 +1442,17 @@
       "content": "\n■ 통일부 자체감사규정 [별지 제1호서식]\n\n확    인    서\n────┬──────────────────────────────────────\n제  목│\n────┴──────────────────────────────────────\n\n────┬──────────────────────────────────────\n내  용│\n────┴──────────────────────────────────────\n\n────┬────┬───────┬────┬────┬────┬──────────\n관련자│소    속│직위(급)ㆍ성명│관리기간│담당업무│현근무처│비  고\n├────┼───────┼────┼────┼────┼──────────\n│        │              │        │        │        │\n├────┼───────┼────┼────┼────┼──────────\n│        │              │        │        │        │\n├────┼───────┼────┼────┼────┼──────────\n│        │              │        │        │        │\n────┴────┴───────┴────┴────┴────┴──────────\n\n위 사실을 확인함.\n\n\n년         월       일\n\n확인자   소속 :        직위(직급) :         성명 :          (서명 또는 인)\n입회자   소속 :        직위(직급) :         성명 :          (서명 또는 인)\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n210mm×297mm[일반용지 60g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164012987",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821603",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164012983",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821599",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164012987",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821603",
           "name": "",
           "file_store_url": ""
         }
@@ -1462,17 +1473,17 @@
       "content": "\n■ 통일부 자체감사규정 [별지 제2호서식]   (앞 쪽)\n\n질    문    서\n──────────────────────────────────────────\n발부번호\n\n──────────────────────────────────────────\n\n─────┬────────────────────────────────────\n제  목  │\n─────┴────────────────────────────────────\n\n─────┬────────────────────────────────────\n질문사항│\n│\n─────┴────────────────────────────────────\n위 질문사항에 대하여     년     월     일까지 답변하시기 바랍니다.\n\n년         월         일\n통일부 감사담당관                           (서명 또는 인)\n귀  하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n──────────────────────────────────────────\n※ 이 질문서 원안은 감사담당관실로 반송하여야 합니다.\n──────────────────────────────────────────\n210mm×297mm[일반용지 60g/㎡]\n\n\n■ 통일부 자체감사규정 [별지 제2호서식]   (뒤 쪽)\n\n답    변    서\n─────────────────────────────────────────────\n발부번호\n\n─────────────────────────────────────────────\n\n─────┬───────────────────────────────────────\n제  목  │\n─────┴───────────────────────────────────────\n\n─────┬───────────────────────────────────────\n답변사항│\n│\n─────┴───────────────────────────────────────\n위와 같이 답변합니다.\n\n년         월         일\n기관명 :              직위(직급) :          성명 :            (서명 또는 인)\n통일부 감사담당관    귀  하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n210mm×297mm[일반용지 60g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164012995",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821611",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164012989",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821605",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164012995",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821611",
           "name": "",
           "file_store_url": ""
         }
@@ -1493,17 +1504,17 @@
       "content": "\n■ 통일부 자체감사규정 [별지 제3호서식]\n\n문    답    서\n\n\n──────┬─────┬─────────────────────────────────────────\n진술인    │성    명  │\n├─────┼─────────┬───────────────────────────────\n│주    소  │                  │(전화 :                )\n├─────┼─────────┼───────────────────────────────\n│소    속  │                  │(전화 :                )\n├─────┼─────────┴───────────────────────────────\n│직위(직급)│\n├─────┼─────────────────────────────────────────\n│생년월일  │\n──────┴─────┴─────────────────────────────────────────\n\n──────┬───────────────────────────────────────────────\n진술대상  │\n──────┴───────────────────────────────────────────────\n\n──────┬───────────────────────────────────────────────\n진술      │\n일시ㆍ장소│\n──────┴───────────────────────────────────────────────\n\n──────────────────────────────────────────────────────\n※ 문답에 앞서 감사관은 진술인에게 진술이 불리하다고 생각되는 사항은 묵비권을 행사할 수 있음을 고지하고,\n객관적 근거와 조리에 맞도록 답변할 것을 요구하여야 합니다.\n──────────────────────────────────────────────────────\n\n──────┬───────────────────────────────────────────────\n문답내용  │ 문 : 진술대상과 관련하여 직위에 재직한 기간은?\n│ 답 :\n│\n│ 문 : 귀하의 담당직무는?\n│ 답 :\n│\n│ 문 : 더하실 말씀이나 증거는 없습니까?\n│ 답 :\n──────┴───────────────────────────────────────────────\n위와 같이 문답한 후 진술인이 열람하였는바, 진술내용과 상위 없고 오기나 증감한 사항이 전혀 없음을 진술인\n이 확인하였으므로, 간인한 후 서명(날인, 무인) 함.\n\n\n년         월         일\n\n진술자   소속 :        직위(직급) :         성명 :          (서명 또는 인)\n감사관   소속 :        직위(직급) :         성명 :          (서명 또는 인)\n입회자   소속 :        직위(직급) :         성명 :          (서명 또는 인)\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n210mm×297mm[일반용지 60g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013001",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821617",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164012997",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821613",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013001",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821617",
           "name": "",
           "file_store_url": ""
         }
@@ -1524,17 +1535,17 @@
       "content": "\n■ 통일부 자체감사규정 [별지 제4호서식]\n\n현지시정 요구서\n──────────────────────────┬───────────────────────────\n시정할 사항                                       │시정한 사항\n──────────────────────────┼───────────────────────────\n│\n──────────────────────────┴───────────────────────────\n\n\n\n──────────────────────────┬───────────────────────────\n위와 같이 시정을 요구함                           │위와 같이 시정하였음\n년         월         일                          │년         월         일\n통일부                                            │수감기관\n감사반장                          (서명 또는 인) │책임자   직위(직급)      성명        (서명 또는 인)\n──────────────────────────┴───────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n210mm×297mm[일반용지 60g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013007",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821663",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013003",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821659",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013007",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821663",
           "name": "",
           "file_store_url": ""
         }
@@ -1555,17 +1566,17 @@
       "content": "\n■ 통일부 자체감사규정 [별지 제5호서식]\n\n일상감사 의뢰서\n──────┬───────────────┬──────┬─\n발부번호 │                              │ 최종결재자 │\n│                              │            │\n──────┼───────────────┼──────┼─\n건    명 │                              │ 의 뢰 자   │\n│                              ├──────┼─\n│                              │ 의뢰일시   │\n──────┴───────────────┴──────┴─\n\n─────┬─────────────────────────\n업무내용│ ※ 업무전체에 대한 흐름을 기술\n─────┴─────────────────────────\n\n─────┬─────────────────────────\n의뢰사항│ ※ 감사시 중점적으로 검토해야 할 부분을 기술\n│\n─────┴─────────────────────────\n\n─────┬─────────────────────────\n관계규정│ ※ 관련법령 조항 및 판단기준(사유)을 명시\n─────┴─────────────────────────\n\n─────┬─────────────────────────\n관련서류│ ※ 해당 사업 추진 시 참고될 만한 자료 첨부\n│\n│\n─────┴─────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n210mm×297mm[일반용지 60g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013013",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821669",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013009",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821665",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013013",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821669",
           "name": "",
           "file_store_url": ""
         }
@@ -1586,17 +1597,17 @@
       "content": "\n■ 통일부 자체감사규정 [별지 제6호서식]\n\n일상감사 의견서\n─────────┬────────────┬─────┬─\n업무주관부서명 │                        │ 검토일시 │\n│                        │          │\n─────────┼────────────┼─────┼─\n건    명       │                        │ 검 토 자 │\n│                        ├─────┼─\n│                        │ 확 인 자 │\n─────────┴────────────┴─────┴─\n\n───┬──────────────────────────\n의견│\n───┴──────────────────────────\n\n───┬──────────────────────────\n사유│\n───┴──────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n210mm×297mm[일반용지 60g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013019",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821675",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013015",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821671",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013019",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821675",
           "name": "",
           "file_store_url": ""
         }
@@ -1617,17 +1628,17 @@
       "content": "\n■ 통일부 자체감사규정 [별지 제7호서식]\n\n일상감사 감사의견에 대한 조치결과 통보\n─────────┬────────────┬─────┬────────\n업무주관부서명 │                        │ 통보일시 │\n│                        │          │\n─────────┼────────────┼─────┼──────┬─\n건    명       │                        │ 작 성 자 │ 직위(직급) │\n│                        │          ├──────┼─\n│                        │          │ 성  명     │\n─────────┴────────────┴─────┴──────┴─\n\n────┬────────────────────────────────\n조치  │ ※ 불채택 시에는 그 사유를 기술\n내용  │\n────┴────────────────────────────────\n\n────┬────────────────────────────────\n관계  │\n자료등│\n────┴────────────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n210mm×297mm[일반용지 60g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013025",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821681",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013021",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821677",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013025",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821681",
           "name": "",
           "file_store_url": ""
         }
@@ -1648,17 +1659,17 @@
       "content": "\n■ 통일부 자체감사규정 [별지 제8호서식]\n\n이 의 신 청 서\n\n\n───────┬─────┬────────────────────────────────\n신청인      │성    명  │\n├─────┼────────┬───────────────────────\n│주    소  │                │(전화 :                )\n├─────┼────────┼───────────────────────\n│소    속  │                │(전화 :                )\n├─────┼────────┴───────────────────────\n│직위(직급)│\n───────┴─────┴────────────────────────────────\n\n───────┬──────────────────────────────────────\n이의신청    │ ※ 이의신청 대상이 되는 처분요구의 내용을 기술\n대상 처분   │\n───────┴──────────────────────────────────────\n\n───────┬──────────────────────────────────────\n처분도달일  │ ※ 이의신청 대상이 되는 처분요구를 받은 날 또는 처분요구가 도달한 날\n(처분요구일)│\n───────┴──────────────────────────────────────\n\n───────┬──────────────────────────────────────\n신청이유와  │\n내용        │\n───────┴──────────────────────────────────────\n\n\n\n?통일부 자체감사규정? 제32조에 따라 증거자료를 첨부하여 위와 같이 이의를 신청합니다.\n\n\n년         월         일\n신청인 :            (서명 또는 인)\n통일부 감사담당관    귀  하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n\n─────┬────────────────────────────────────────\n첨부서류│\n─────┴────────────────────────────────────────\n210mm×297mm[일반용지 60g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013031",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821687",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013027",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821683",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013031",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821687",
           "name": "",
           "file_store_url": ""
         }
@@ -1679,17 +1690,17 @@
       "content": "\n■ 통일부 자체감사규정 [별지 제9호서식]\n\n이의신청 판정서\n───────────────────────\n\n────┬──────────────────\n기관명│\n────┴──────────────────\n\n────┬──────────────────\n주문  │\n│\n────┴──────────────────\n\n────┬────────┬─────────\n이유  │원처분의 요지   │\n├────────┼─────────\n│이의신청의 요지 │\n├────────┼─────────\n│이의신청 판정   │\n────┴────────┴─────────\n\n\n년         월        일\n\n┏━━┓\n통일부장관┃직인┃\n┗━━┛\n\n━━━━━━━━━━━━━━━━━━━━━━━",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013037",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821693",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013033",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821689",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013037",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821693",
           "name": "",
           "file_store_url": ""
         }
@@ -1710,17 +1721,17 @@
       "content": "\n■ 통일부 자체감사규정 [별지 제10호서식]\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n적극행정면책 신청서\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━\n적극행정면책 신청 요지            │\n━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━┯━━━━━┯━━━━━━━━━━━━━━━━━━━\n구체적 판단기준 내용              │해당 여부 │첨부서류\n━━━━━━━━━━━━━━━━━━┿━━━━━┿━━━━━━━━━━━━━━━━━━━\n1. 업무처리의 공공의 이익 여부    │          │\n──────────────────┼─────┼───────────────────\n2. 업무의 적극적 처리 여부        │          │\n──────────────────┼─────┼───────────────────\n3. 고의나 중대한 과실 존재 여부   │          │\n─┬────────────────┼─────┼───────────────────\n│가. 자체감사를 받는 사람과 대상 │          │\n│업무 사이에 사적인 이해관계가   │          │\n│없을 것                         │          │\n─┼────────────────┼─────┼───────────────────\n│나. 대상 업무를 처리하면서 중대 │          │\n│한 절차상의 하자가 없었을 것    │          │\n─┴────────────────┼─────┴───────────────────\n4. 기    타                       │\n━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━\n「공공감사에 관한 법률」 제23조의2, 같은 법 시행령 제13조의3 및 제13조의4, 「통일\n부 자체감사 규정」 제38조에 따라 적극행정면책을 받기 위하여 위와 같이 신청합니다.\n\n년        월        일\n신청인  기관(부서)명   직명       성명\n\n통일부 감사담당관 귀  하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210mm×297mm[일반용지 60g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013043",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821699",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013039",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821695",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013043",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821699",
           "name": "",
           "file_store_url": ""
         }
@@ -1741,17 +1752,17 @@
       "content": "\n■ 통일부 자체감사규정 [별지 제11호서식]\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n적극행정면책 검토서\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━┯┯━━━━┯━┯━━━━┯━━━━━━━━━━━━━━━━━━━\n일련          ││소관기관│  │관계기관│\n번호          ││        │  │        │\n━━━━━━━━┷┷━━━━┷━┷━━━━┷━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━┯━━━━━━━┯━━━━┯━━━━━━━━━━━━━━━━━━━\n제    목      │              │감사자  │\n────────┼───────┴────┴───────────────────\n지적요지      │\n────────┘\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━\n면책신청사유(면책요건)      │검토의견\n────────┬──────┼─────────────────────────\n업무처리의    │            │\n공공의 이익   │            │\n여부          │            │\n────────┼──────┼─────────────────────────\n업무의 적극적 │            │\n처리 여부     │            │\n────────┼──────┼─────────────────────────\n고의· 중대   │            │\n과실 존재     │            │\n여부          │            │\n────────┼──────┼─────────────────────────\n종합의견      │            │\n━━━━━━━━┷━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━\n\n년         월        일\n\n통일부  감사담당관                       (서명 또는 인)\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210mm×297mm[일반용지 60g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013049",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821705",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013045",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821701",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013049",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821705",
           "name": "",
           "file_store_url": ""
         }
@@ -1772,17 +1783,17 @@
       "content": "\n■ 통일부 자체감사규정 [별지 제12호서식]\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n사전컨설팅감사 신청서\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n제    목        │\n━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n사전 컨설팅감사 │\n신청 개요       │\n━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n주요 내용       │ 1. 사전 컨설팅감사 신청 내용\n│\n│\n│\n│ 2. 관련 법령 및 사업 개요(추진일정 등)\n│  1) 관련법령\n│  2) 사업개요 또는 추진경과\n│\n│\n│ 3. 사전 컨설팅감사 신청 사유\n│  1) 신청 배경(사업추진 필요성 및 타당성 등)\n│  2) 주요 쟁점\n│  3) 신청부서(기관)에서 확인 및 검토한 사항\n─────────┼────────────────────────────────────\n첨부서류        │\n━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n「통일부 자체감사 규정」제25조의2 제1항에 따라 위와 같이 사전컨설팅감사를 신청합니다.\n\n년        월        일\n신청인  기관(부서)명      직명                성명\n\n통일부 감사담당관 귀  하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210mm×297mm[일반용지 60g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013055",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821711",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013051",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821707",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013055",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821711",
           "name": "",
           "file_store_url": ""
         }
@@ -1803,17 +1814,17 @@
       "content": "\n■ 통일부 자체감사규정 [별지 제13호서식]\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n사전컨설팅감사 신청서(이해관계인)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n──────────────────────────────────────────────\n접수번호                  접수일자      처리기간\n30일\n──────────────────────────────────────────────\n\n━━━━━━━━━━━━┯━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━\n신청인                │성명(대표자)│생년월일(법인등록번호)\n│            │\n├──────┴──────────────────────────\n│주소\n├──────┬──────────────────────────\n│전화번호    │전자우편주소\n━━━━━━━━━━━━┷━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n인허가 건명           │\n────────────┼─────────────────────────────────\n사업 개요             │\n────────────┼─────────────────────────────────\n사전 컨설팅감사       │\n신청 사유             │\n────────────┼─────────────────────────────────\n기타                  │\n(인허가 부서 의견 등) │\n────────────┼─────────────────────────────────\n첨부서류              │ ○ 사전 컨설팅감사 관련 증빙 서류\n━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n「통일부 자체감사 규정」제25조의2 제2항에 따라 위와 같이 사전컨설팅감사를 신청합니다.\n\n년        월        일\n신청인                  (서명 또는 인)\n\n통일부 장관 귀  하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210mm×297mm[일반용지 60g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013061",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821717",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013057",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821713",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013061",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821717",
           "name": "",
           "file_store_url": ""
         }
@@ -1834,17 +1845,17 @@
       "content": "\n■ 통일부 자체감사규정 [별지 제14호서식]\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n사전컨설팅감사 의견서\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n제    목        │\n━━━━━━━━━┿┯━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n신청기관        ││신청일자│\n(신청인)        ││        │\n━━━━━━━━━┿┷━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n주요 내용       │\n━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n사전 컨설팅감사 │\n의견            │\n─────────┼──────────────────────────────────────\n기타            │\n━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n「통일부 자체감사 규정」제25조의2 제3항에 따라 위와 같이 사전컨설팅감사 신청에 대한 의견을\n통보합니다.\n\n년        월        일\n\n통일부 감사담당관\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210mm×297mm[일반용지 60g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013067",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821723",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013063",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821719",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164013067",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821723",
           "name": "",
           "file_store_url": ""
         }
@@ -1860,7 +1871,7 @@
   "attachments": [
     {
       "name": "개정전문(통일부 자체감사규정).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=164012839",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169820175",
       "filename": "개정전문(통일부 자체감사규정).hwpx",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/개정전문(통일부 자체감사규정).hwpx",
@@ -1868,7 +1879,7 @@
     },
     {
       "name": "개정전문(통일부 자체감사규정).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=164012843",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169821619",
       "filename": "개정전문(통일부 자체감사규정).pdf",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/개정전문(통일부 자체감사규정).pdf",
@@ -1893,7 +1904,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 7,
+    "addenda_count": 8,
     "appendices_count": 14,
     "attachments_count": 2
   },
