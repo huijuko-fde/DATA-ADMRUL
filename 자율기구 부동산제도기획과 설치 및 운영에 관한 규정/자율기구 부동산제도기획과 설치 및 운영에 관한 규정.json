@@ -368,5 +368,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "자율기구 부동산제도기획과 설치 및 운영에 관한 규정/자율기구 부동산제도기획과 설치 및 운영에 관한 규정.json"
+  "git_path": "자율기구 부동산제도기획과 설치 및 운영에 관한 규정/자율기구 부동산제도기획과 설치 및 운영에 관한 규정.json",
+  "repealed": true,
+  "repealed_at": "20261002"
 }
