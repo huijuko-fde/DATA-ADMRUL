@@ -116,5 +116,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "통계작성의 변경승인(협의) 고시(부천시경제지표조사)/통계작성의 변경승인(협의) 고시(부천시경제지표조사).json"
+  "git_path": "통계작성의 변경승인(협의) 고시(부천시경제지표조사)/통계작성의 변경승인(협의) 고시(부천시경제지표조사).json",
+  "repealed": true,
+  "repealed_at": "20261002"
 }
