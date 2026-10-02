@@ -1,0 +1,184 @@
+{
+  "law_id": "2037258",
+  "mst": "2100000285916",
+  "law_name": "검사 평가자료 수집ㆍ관리 등에 관한 지침",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2037258",
+  "promulgation_no": "58",
+  "promulgation_date": "20261002",
+  "enforcement_date": "20261002",
+  "revision_date": "20261002",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "공소청",
+    "담당자명": "채승준",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "검사 평가자료 수집ㆍ관리 등에 관한 지침",
+    "발령일자": "20261002",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "공소청",
+    "전화번호": "",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1282000",
+    "생성일자": "20261002",
+    "행정규칙ID": "2037258",
+    "시행일자": "20261002",
+    "담당부서기관코드": "1282025",
+    "발령번호": "58",
+    "행정규칙일련번호": "2100000285916",
+    "상위부처명": "공소청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 이유\n○ 오는 10. 2. 검찰청을 대체하는 공소청을 출범시키는 것을 골자로 한 「공소청법」(법률 제21490호, 2026. 3. 24. 공포, 2026. 10. 2. 시행)이 시행됨에 따라, 관련 내용을 반영하여 관련 용어(‘대검찰청’)를 수정하는 내용으로 개정함\n◇ 주요내용(제2조, 제3조, 제4조)\n○ 각 조문 내 ‘대검찰청’을 ‘공소청’으로 개정",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제1조(목적) 이 지침은 검사의 복무관리 및 평가에 관한 자료를 수집ㆍ관리하는 데 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:검사평가자료수집관리등에관한지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "평가자료",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조(평가자료) 이 지침에서 규정하는 ‘평가자료’는 공소청(이 경우 공소청 본청을 의미한다, 이하 같다) 각 부서의 각종 포상ㆍ격려 내역, 분야별 우수업무사례, 미담ㆍ선행사례, 감찰조사 및 징계처분 결과, 감찰세평, 사건평정, 사무감사 결과 및 각급 청의 장이 제시하는 의견 등 검사의 실적ㆍ성과ㆍ역량ㆍ품행 등을 평가하기 위해 필요한 자료 일체를 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:검사평가자료수집관리등에관한지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "평가자료의 수 집",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제3조(평가자료의 수 집) ① 공소청 각 부서의 장은 수집ㆍ보관하고 있는 검사에 대한 평가자료를 매 분기(3월, 6월, 9월, 12월) 1회 또는 수시로 공소청 기획조정부장에게 송부한다.② 각급 청의 장은 직무수행능력이 현저히 부족한 소속 검사가 있는 경우에는 수시로 공소청 기획조정부장에게 의견을 제시한다.③ 공소청 기획조정부장은 필요한 경우 공소청 각 부서 및 각급 청의 장에게 검사에 대한 평가자료를 송부해 줄 것을 요청할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:검사평가자료수집관리등에관한지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "평가자료 통합관리, 보고 등",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제4조(평가자료 통합관리, 보고 등) ① 공소청 기획조정부장은 평가자료를 통합하여 관리한다.② 공소청 기획조정부장은 평가자료를 종합하여 분석ㆍ정리한 내용을 매 분기(1월, 4월, 7월, 10월) 1회 또는 필요한 경우에 수시로 검찰총장에게 보고한다.③ 공소청 기획조정부장은 법무부의 요청이 있는 경우 등 필요한 때에는 평가자료를 법무부에 송부한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:검사평가자료수집관리등에관한지침#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제5조(재검토기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 훈령에 대하여 2027년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2037258",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:검사평가자료수집관리등에관한지침#JO0005",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:검사평가자료수집관리등에관한지침#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20261002",
+      "promulgation_no": "58",
+      "content": "부칙 <제58호, 2026. 10. 2.>제1조(시행일) 이 예규는 2026. 10. 2.부터 시행한다.",
+      "provision_id": "admrul:검사평가자료수집관리등에관한지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285916",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "1. (공소청예규 제58호) 검사 평가자료 수집 관리 등에 관한 지침.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169970089",
+      "filename": "1. (공소청예규 제58호) 검사 평가자료 수집 관리 등에 관한 지침.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/1. (공소청예규 제58호) 검사 평가자료 수집 관리 등에 관한 지침.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "1. (공소청예규 제58호) 검사 평가자료 수집 관리 등에 관한 지침.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169970093",
+      "filename": "1. (공소청예규 제58호) 검사 평가자료 수집 관리 등에 관한 지침.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/1. (공소청예규 제58호) 검사 평가자료 수집 관리 등에 관한 지침.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 1
+    },
+    "articles_total": 5,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/검사 평가자료 수집ㆍ관리 등에 관한 지침"
+  },
+  "provision_id": "admrul:검사평가자료수집관리등에관한지침#DOC",
+  "addendum_provision_id": "admrul:검사평가자료수집관리등에관한지침#ADDENDUM",
+  "amendment_provision_id": "admrul:검사평가자료수집관리등에관한지침#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "검사 평가자료 수집ㆍ관리 등에 관한 지침/검사 평가자료 수집ㆍ관리 등에 관한 지침.json"
+}
