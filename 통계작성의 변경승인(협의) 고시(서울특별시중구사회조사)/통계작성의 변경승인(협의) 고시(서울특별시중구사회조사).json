@@ -124,5 +124,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "통계작성의 변경승인(협의) 고시(서울특별시중구사회조사)/통계작성의 변경승인(협의) 고시(서울특별시중구사회조사).json"
+  "git_path": "통계작성의 변경승인(협의) 고시(서울특별시중구사회조사)/통계작성의 변경승인(협의) 고시(서울특별시중구사회조사).json",
+  "repealed": true,
+  "repealed_at": "20261002"
 }
