@@ -1,25 +1,25 @@
 {
   "law_id": "27124",
-  "mst": "2100000276964",
+  "mst": "2100000286142",
   "law_name": "체납정리 사무처리에 관한 훈령",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:27124",
-  "promulgation_no": "2459",
-  "promulgation_date": "20260406",
-  "enforcement_date": "20260406",
-  "revision_date": "20260406",
+  "promulgation_no": "2505",
+  "promulgation_date": "20261002",
+  "enforcement_date": "20261002",
+  "revision_date": "20261002",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "관세청(세원심사과)",
-    "담당자명": "김성구",
+    "담당자명": "김경후",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "체납정리 사무처리에 관한 훈령",
-    "발령일자": "20260406",
+    "발령일자": "20261002",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "042-481-7872",
     "제개정구분명": "일부개정",
     "소관부처코드": "1220000",
-    "생성일자": "20260406",
+    "생성일자": "20261006",
     "행정규칙ID": "27124",
-    "시행일자": "20260406",
+    "시행일자": "20261002",
     "담당부서기관코드": "1221390",
-    "발령번호": "2459",
-    "행정규칙일련번호": "2100000276964",
+    "발령번호": "2505",
+    "행정규칙일련번호": "2100000286142",
     "상위부처명": "관세청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정 사유\n□ 체납징수유공 포상 관련, 관세청 관세포상심사위원회 세부 규정\n□ 담보가 있는 체납의 관리 구체화\n□ 서울 및 부산세관 간, 체납자 관리세관 변경사항 신설\n□ 체납 상시 정리체제 전환에 따른 정기 재산조사 시기 조정\n□ 관세분야 행정규칙 통ㆍ폐합 가이드라인에 따라 훈령 명칭 수정\n□ 「정부조직법」개정에 따라 정부조직 명칭 변경 반영 등\n◇ 주요 개정 내용\n□ 관세청 관세포상심사위원회 구성과 운영 등(제43조의2 신설)\nㅇ ‘체납징수유공 포상금’ 결정을 위하여 위원회 구성(위원장심사국장, 위원심사국 각 부서장, 간사체납 담당 사무관)ㆍ운영, 준용 행정규칙 등을 규정\n□ 담보제공업체에 체납이 발생한 경우 업무 절차(제14조의2 신설)\nㅇ 체납자의 성실도, 체납세액 조기정리에 유익한지 등을 종합적으로 검토하여 담보의 관세충당 시기 판단 가능\n□ 효율적인 체납정리를 위해 체납관리세관 조정(제4조)\nㅇ 체납법인의 본점, 체납자 주소지가 변경된 경우 등, 체납정리업무를 효율적으로 수행하기 위해 체납관리세관 조정 가능\n□ 정기 재산조사 시기 조정(제9조)\nㅇ 반기별 시행했던 ‘체납 일제정리’에 맞춰서 연 2회(5ㆍ11월) 재산조사를 하였으나, ’23.6월부터 상시 정리체제로 전환ㆍ운영 중\nㅇ 효율적 체납정리를 위해 일선 직원들의 의견을 반영\n□ 관세분야 행정규칙 통ㆍ폐합 가이드라인에 따라 변경사항 반영\nㅇ「밀수 및 탈세신고 처리에 관한 훈령」(제40조), 「밀수 등 신고자 포상에 관한 훈령」(제41조)→「밀수 등 신고처리 및 포상금 지급에 관한 훈령」\n□ 정부조직 명칭 변경 반영(제10조, 특허청→지식재산처)",
+  "revision_reason": "◇ 개정사유 및 주요내용\nㅇ 2025. 10. 1. 「정부조직법」 개정으로 검찰청 폐지 및 공소청과 중대범죄수사청 신설에 따라 기관명 등 관련 조문 정비\n* 2026. 10. 2. 시행",
   "body": {
     "format": "articles",
     "article_count": 58,
@@ -169,7 +169,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090639",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123911",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0003",
             "target_unit": "BJ0001",
@@ -214,7 +214,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090659",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123931",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0003",
             "target_unit": "BJ0002_02",
@@ -291,7 +291,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090665",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123937",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0004",
             "target_unit": "BJ0003",
@@ -316,7 +316,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090645",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123917",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0004",
             "target_unit": "BJ0001_02",
@@ -465,7 +465,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090653",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123925",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0006",
             "target_unit": "BJ0002",
@@ -522,7 +522,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090709",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123981",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0007",
             "target_unit": "BJ0010",
@@ -731,7 +731,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090671",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123943",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0009",
             "target_unit": "BJ0004",
@@ -1470,7 +1470,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090759",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124031",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0012",
             "target_unit": "BJ0018",
@@ -1495,7 +1495,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090767",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124039",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0012",
             "target_unit": "BJ0018_02",
@@ -2980,7 +2980,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090773",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124045",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0016",
             "target_unit": "BJ0019",
@@ -3320,7 +3320,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090751",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124023",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0019",
             "target_unit": "BJ0017",
@@ -3654,7 +3654,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090715",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123987",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0024",
             "target_unit": "BJ0011",
@@ -3806,7 +3806,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090679",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123951",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0028",
             "target_unit": "BJ0005",
@@ -4203,7 +4203,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090685",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123957",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0031",
             "target_unit": "BJ0006",
@@ -4228,7 +4228,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090691",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123963",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0031",
             "target_unit": "BJ0007",
@@ -4512,7 +4512,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090721",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123993",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0034",
             "target_unit": "BJ0012",
@@ -4561,7 +4561,7 @@
         "article_title": "고액ㆍ상습체납자 감치신청",
         "chapter": "제4절 고액ㆍ상습체납자 감치제도",
         "chapter_path": "제5장 체납자 행정제재 > 제4절 고액ㆍ상습체납자 감치제도",
-        "content": "제35조(고액ㆍ상습체납자 감치신청) ① 체납관리세관장은 법 제116조의4제1항제1호에 해당하는 체납자 중 체납정리과정에서 같은 항 제2호에 해당하는 사실을 확인한 경우 다음 각 호의 사항을 기재하여 관세청장에게 해당 체납자의 감치신청 의견을 제출한다. 다만, 동일한 체납 사실로 감치이력이 있는 체납자는 제외한다.1. 체납된 관세의 납부능력이 있음을 나타내는 사정 여부2. 체납자의 성명과 주소3. 체납된 관세(세관장이 부과징수 하는 내국세등을 포함한다), 부과한 세관, 부과일자, 부과사유, 관세의 금액, 납부기한 및 체납된 관세의 합계액(관세 부과에 대하여 이의가 제기된 때에는 이의신청, 심사청구, 심판청구 또는 이와 관련된 재판에서 정한 관세의 금액, 다만 재판의 경우 재판을 한 법원, 사건번호, 재판일자, 재판의 확정여부 및 확정일자 포함한다)② 관세청장은 다음 각 호의 내용이 포함된 별지 제13호서식의 사전안내문을 제1항에 해당하는 체납자에게 송부해야 한다.1. 체납자의 성명과 주소2. 감치(監置) 요건, 감치 신청의 원인이 되는 사실, 감치 기간 및 적용 법령3. 법 제116조의4제6항에 따라 체납된 관세를 납부하는 경우에는 감치 집행이 종료될 수 있다는 사실4. 체납자가 소명자료를 제출하거나 의견을 진술할 수 있다는 사실과 소명자료 제출 및 의견진술 신청기간. 이 경우 그 기간은 영 제141조의10제1항제4호를 따른다.③ 관세청장은 제2항제4호에 따른 기간 내에, 체납자가 소명자료를 미제출하는 경우에는 의견 없음으로 간주하고 체납자가 위원회에서 의견진술을 요청한 경우에는 위원회 개최 3일 전까지 체납자에게 회의 일시 및 장소를 통지하고 이를 기록유지 한다.④ 관세청장은 제1항부터 제3항까지의 절차에 따라 선정한 체납자의 감치신청 여부를 위원회에 상정하여 최종 의결한다.⑤ 관세청장은 제4항에 따라 위원회에서 체납자의 감치신청을 결정한 경우 제1항 각 호의 사항과 위원회 결정사항을 기재하여 체납자의 주소 또는 거소를 관할하는 지방검찰청 또는 지청의 검사에게 서면으로 감치를 신청한다.⑥ 위원회 구성 및 운영은 제26조, 제27조 및 제29조를 준용한다.",
+        "content": "제35조(고액ㆍ상습체납자 감치신청) ① 체납관리세관장은 법 제116조의4제1항제1호에 해당하는 체납자 중 체납정리과정에서 같은 항 제2호에 해당하는 사실을 확인한 경우 다음 각 호의 사항을 기재하여 관세청장에게 해당 체납자의 감치신청 의견을 제출한다. 다만, 동일한 체납 사실로 감치이력이 있는 체납자는 제외한다.1. 체납된 관세의 납부능력이 있음을 나타내는 사정 여부2. 체납자의 성명과 주소3. 체납된 관세(세관장이 부과징수 하는 내국세등을 포함한다), 부과한 세관, 부과일자, 부과사유, 관세의 금액, 납부기한 및 체납된 관세의 합계액(관세 부과에 대하여 이의가 제기된 때에는 이의신청, 심사청구, 심판청구 또는 이와 관련된 재판에서 정한 관세의 금액, 다만 재판의 경우 재판을 한 법원, 사건번호, 재판일자, 재판의 확정여부 및 확정일자 포함한다)② 관세청장은 다음 각 호의 내용이 포함된 별지 제13호서식의 사전안내문을 제1항에 해당하는 체납자에게 송부해야 한다.1. 체납자의 성명과 주소2. 감치(監置) 요건, 감치 신청의 원인이 되는 사실, 감치 기간 및 적용 법령3. 법 제116조의4제6항에 따라 체납된 관세를 납부하는 경우에는 감치 집행이 종료될 수 있다는 사실4. 체납자가 소명자료를 제출하거나 의견을 진술할 수 있다는 사실과 소명자료 제출 및 의견진술 신청기간. 이 경우 그 기간은 영 제141조의10제1항제4호를 따른다.③ 관세청장은 제2항제4호에 따른 기간 내에, 체납자가 소명자료를 미제출하는 경우에는 의견 없음으로 간주하고 체납자가 위원회에서 의견진술을 요청한 경우에는 위원회 개최 3일 전까지 체납자에게 회의 일시 및 장소를 통지하고 이를 기록유지 한다.④ 관세청장은 제1항부터 제3항까지의 절차에 따라 선정한 체납자의 감치신청 여부를 위원회에 상정하여 최종 의결한다.⑤ 관세청장은 제4항에 따라 위원회에서 체납자의 감치신청을 결정한 경우 제1항 각 호의 사항과 위원회 결정사항을 기재하여 체납자의 주소 또는 거소를 관할하는 지방공소청 또는 지청의 검사에게 서면으로 감치를 신청한다.⑥ 위원회 구성 및 운영은 제26조, 제27조 및 제29조를 준용한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -4601,7 +4601,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090727",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123999",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0035",
             "target_unit": "BJ0013",
@@ -4970,7 +4970,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090779",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124051",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0037",
             "target_unit": "BJ0020",
@@ -4995,7 +4995,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090785",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124057",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0037",
             "target_unit": "BJ0021",
@@ -5032,7 +5032,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090697",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123969",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0038",
             "target_unit": "BJ0008",
@@ -5127,8 +5127,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163078765",
-            "seq": "163078765",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170122755",
+            "seq": "170122755",
             "filename": "제40조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제40조_1.gif",
@@ -5314,7 +5314,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090703",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123975",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0042",
             "target_unit": "BJ0009",
@@ -5502,7 +5502,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000276964&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286142&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0043_02",
             "target_unit": "BYL0001",
@@ -6134,7 +6134,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090733",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124005",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0047",
             "target_unit": "BJ0014",
@@ -6311,7 +6311,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090739",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124011",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0048",
             "target_unit": "BJ0015",
@@ -6336,7 +6336,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090745",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124017",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0048",
             "target_unit": "BJ0016",
@@ -6384,7 +6384,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "27124",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000276964&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286142&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:체납정리사무처리에관한훈령#JO0050",
             "target_unit": "BYL0002",
@@ -6437,10 +6437,10 @@
       "content": "부칙 <제2-2-17호,2006. 2. 6.>이 요령은 2006. 2. 6.부터 시행한다.이 요령 시행당시 권역내세관에서 체납처분중에 있는 것은 2006. 2. 6.이후 당해 권역내세관의 본부세관장에게 체납인계 요령에 따라 인계하여 관리한다.",
       "provision_id": "admrul:체납정리사무처리에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276964",
+      "source_mst": "2100000286142",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260406"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20071002",
@@ -6448,10 +6448,10 @@
       "content": "부칙 <제1131호,2007. 10. 2.>제1조(시행일 ) 이 세칙은 2007년 10월 2일부터 시행한다.",
       "provision_id": "admrul:체납정리사무처리에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276964",
+      "source_mst": "2100000286142",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260406"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20081231",
@@ -6459,10 +6459,10 @@
       "content": "부칙 <제1206호,2008. 12. 31.>제1조(시행일 ) 이 세칙은 2009년 01월 01일부터 시행한다.",
       "provision_id": "admrul:체납정리사무처리에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276964",
+      "source_mst": "2100000286142",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260406"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20100831",
@@ -6470,10 +6470,10 @@
       "content": "부칙 <제1408호,2010. 8. 31.>제1조(시행일) 이 고시는 2010년 9월 1일부터 적용한다.제2조(독촉과 최고에 관한 적용례) 제5조 및 제6조의 개정규정은 이 세칙 시행후 최초로 납부기한이 지난 분부터 적용한다.제3조(다른 시행세칙의 개정) 징수사무처리에 관한 시행세칙 일부를 다음과 같이 개정한다.제16조제1항중 \"7일내에\"를 \"10일 내에\"로 하고, 같은 조 제2항중 \"10일 이내로\"를 \"20일 내로\"로 한다.",
       "provision_id": "admrul:체납정리사무처리에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276964",
+      "source_mst": "2100000286142",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260406"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20130412",
@@ -6481,10 +6481,10 @@
       "content": "부칙 <제1522호,2013. 4. 12.>제1조(시행일) 이 훈령은 2013년 4월 15일부터 시행한다.",
       "provision_id": "admrul:체납정리사무처리에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276964",
+      "source_mst": "2100000286142",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260406"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20140502",
@@ -6492,10 +6492,10 @@
       "content": "부칙 <제1612호,2014. 5. 2.>제1조(시행일) 이 훈령은 2014년 5월 7일부터 시행한다.",
       "provision_id": "admrul:체납정리사무처리에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276964",
+      "source_mst": "2100000286142",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260406"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20151229",
@@ -6503,10 +6503,10 @@
       "content": "부칙 <제1790호,2015. 12. 29.>이 훈령은 2016년 1월 1일부터 시행한다.",
       "provision_id": "admrul:체납정리사무처리에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276964",
+      "source_mst": "2100000286142",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260406"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20170209",
@@ -6514,10 +6514,10 @@
       "content": "부칙 <제1855호,2017. 2. 9.>제1조(시행일) 이 훈령은 2017년 2월 13일부터 시행한다.제2조(체납내역 통보 및 체납자 관리에 관한 적용례) 제3조제2항 내지 제5항, 제4조제4항의 개정규정은 이 훈령 시행 이후 체납내역을 통보하는 분부터 적용한다.제3조(세관장에게 위탁된 체납처분에 관한 적용례) 제12조4항의 개정규정은 이 훈령 개정 이후 「국세징수법」제30조의2에 따라 세관장에게 체납처분이 위탁된 분부터 적용한다.제4조(압류재산 매각에 관한 적용례) 제16조제1항의 개정규정은 이 훈령 개정 이후 압류하는 분부터 적용한다.제5조(체납내역 통보에 관한 경과조치) 이 훈령 시행 당시 압류된 체납자에 대해서는 제3조제2항 내지 제4항의 개정규정에도 불구하고 종전의 규정에 따른다.",
       "provision_id": "admrul:체납정리사무처리에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276964",
+      "source_mst": "2100000286142",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260406"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20170613",
@@ -6525,10 +6525,10 @@
       "content": "부칙 <제1869호,2017. 6. 13.>제1조(시행일) 이 훈령은 2017년 6월 15일부터 시행한다. 다만, 제4조제2항의 개정규정, 별지 제1호 서식, 별지 제1호의2 서식, 별지 제2호 서식의 개정규정은 전산시스템이 보완된 후 별도 통보하는 날부터 시행한다.제2조(체납자료 제공에 관한 적용례) 제32조의2의 개정규정은 이 훈령 시행 후 체납자료제공 예고통지대상자를 선정하는 분부터 적용한다.제3조(서식에 관한 적용례) 별지 제1호 서식, 별지 제1호의2 서식, 별지 제2호 서식의 개정규정은 제1조 단서에 따른 시행일 이후 통지하는 분부터 적용한다.",
       "provision_id": "admrul:체납정리사무처리에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276964",
+      "source_mst": "2100000286142",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260406"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20191231",
@@ -6536,10 +6536,10 @@
       "content": "부칙 <제1991호,2019. 12. 31.>제1조(시행일) 이 훈령은 2020년 1월 1일부터 시행한다.제2조(가산금에 대한 경과조치) 이 훈령 시행 전에 관세법 제38조제1항에 따른 납세신고를 하거나 제39조제1항에 따라 부과고지하는 사유가 발생한 분에 대한 가산금에 대하여는 제2조제2호, 제3조제4항, 제23조제1항, 별지 제1호, 제1호의2, 제2호, 제3호, 제5호, 제10호, 제11호, 제14호의3, 제15호, 제16호서식의 개정규정에도 불구하고 종전의 규정에 따른다.",
       "provision_id": "admrul:체납정리사무처리에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276964",
+      "source_mst": "2100000286142",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260406"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20201231",
@@ -6547,10 +6547,10 @@
       "content": "부칙 <제2034호,2020. 12. 31.>제1조(시행일) 이 훈령은 2021년 1월 1일부터 시행한다.",
       "provision_id": "admrul:체납정리사무처리에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276964",
+      "source_mst": "2100000286142",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260406"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20210330",
@@ -6558,10 +6558,10 @@
       "content": "부칙 <제2057호, 2021. 3. 30.>이 훈령은 2021년 3월 30일부터 시행한다.",
       "provision_id": "admrul:체납정리사무처리에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276964",
+      "source_mst": "2100000286142",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260406"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20220801",
@@ -6569,10 +6569,10 @@
       "content": "부칙 <제2211호, 2022. 8. 1.>이 훈령은 2022년 8월 1일부터 시행한다.",
       "provision_id": "admrul:체납정리사무처리에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276964",
+      "source_mst": "2100000286142",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260406"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20230412",
@@ -6580,10 +6580,10 @@
       "content": "부칙 <제2255호, 2023. 4. 12.>이 훈령은 2022년 4월 18일부터 시행한다.",
       "provision_id": "admrul:체납정리사무처리에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276964",
+      "source_mst": "2100000286142",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260406"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20230605",
@@ -6591,10 +6591,10 @@
       "content": "부칙 <제2272호, 2023. 6. 5.>이 훈령은 2023년 6월 5일부터 시행한다.",
       "provision_id": "admrul:체납정리사무처리에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276964",
+      "source_mst": "2100000286142",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260406"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20240723",
@@ -6602,10 +6602,10 @@
       "content": "부칙 <제2333호, 2024. 7. 23.>이 훈령은 2024년 7월 23일부터 시행한다.",
       "provision_id": "admrul:체납정리사무처리에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276964",
+      "source_mst": "2100000286142",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260406"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20260406",
@@ -6613,10 +6613,21 @@
       "content": "부칙 <제2459호, 2026. 4. 6.>이 훈령은 2026년 4월 6일부터 시행한다.",
       "provision_id": "admrul:체납정리사무처리에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276964",
+      "source_mst": "2100000286142",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260406"
+      "version_enforcement_date": "20261002"
+    },
+    {
+      "promulgation_date": "20261002",
+      "promulgation_no": "2505",
+      "content": "부칙 <제2505호, 2026. 10. 2.>이 훈령은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "admrul:체납정리사무처리에관한훈령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000286142",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -6628,18 +6639,18 @@
       "enforcement_date": "",
       "content": "■ 체납정리 사무처리에 관한 훈령 [별표1]\n「체납징수유공 포상금」집행기준\n< 체납징수 유공포상 기준 >\n━━━━━┯━━━━━━━━━━━━━\n포상금액│실제 국고수입액\n━━━━━┿━━━━━━━━━━━━━\n20만원 │ 2천만원 ~ 3천만원 미만\n─────┼─────────────\n25만원 │ 3천만원 ~ 5천만원  \"\n─────┼─────────────\n35만원 │ 5천만원 ~   1억원  \"\n─────┼─────────────\n50만원 │   1억원 ~   5억원  \"\n─────┼─────────────\n75만원 │   5억원 ~  10억원  \"\n─────┼─────────────\n100만원 │  10억원 이상\n━━━━━┷━━━━━━━━━━━━━\n< 특별포상 평가점수 산출 기준 >\n━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━\n구분/가중치 │항목(해당 항목별 각각 가중)\n━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━\n기준점수    │체납자(법인) 기준 국고수입액 1천만원당\n│1점\n│단, ‘과태료’ 등 세외수입 징수액에 대하여\n│1천만원당 1.5점\n───────┼───────────────────────\n10%         │압류\n├───────────────────────\n│재산조사\n├───────────────────────\n│제2차 납세의무자 지정\n───────┼───────────────────────\n30%         │1년 이상 경과한 체납 징수\n├───────────────────────\n│신용정보 제공\n├───────────────────────\n│압류재산 매각\n├───────────────────────\n│출국금지\n├───────────────────────\n│명단공개\n───────┼───────────────────────\n50%         │보전압류\n├───────────────────────\n│가택수색 등 현장추적\n├───────────────────────\n│감치\n├───────────────────────\n│사해행위 취소소송\n───────┴───────────────────────\n? 국고수입액에 따라 기준점수 산정→가중치 적용→소수\n점 첫째 자리에서 반올림하여 평가점수 산출\n───────────────────────────────",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000276964&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090621",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286142&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123853",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090617",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123849",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090621",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123853",
           "name": "",
           "file_store_url": ""
         }
@@ -6659,18 +6670,18 @@
       "enforcement_date": "",
       "content": "■ 체납정리 사무처리에 관한 훈령 [별표2]\n관세 체납액 위탁징수업무 수행 시 준수사항\n한국자산관리공사는 「국세징수법」 제11조에 따라 체납액 징수업무를 위탁받아 처리하면서 아래의 사항을 준수하여야 한다.\n1. 위탁징수업무의 착수\n한국자산관리공사는 체납관리세관장으로부터 체납액 징수업무를 위탁받은 때에는 지체 없이 위탁징수업무에 착수하여야 하며, 위탁받은 업무를 제3자에게 다시 위탁할 수 없다.\n2. 불법ㆍ과잉추심 금지\n① 한국자산관리공사는 체납액 위탁징수업무를 수행함에 있어 헌법과 법률이 보장하는 납세자의 권리를 존중하여야 하며 합법적이고 공정한 수단을 사용하여야 한다.\n② 한국자산관리공사는 국세기본법, 국세징수법 등 조세 법령과 채권의 공정한 추심에 관한 법률, 신용정보의 이용 및 보호에 관한 법률 등 채권 추심 관계 법령에서 정하는 사항을 준수하여야 한다.\n③ 한국자산관리공사는 체납자 등에게 부당한 방법으로 자료의 제공이나 답변을 강요하여서는 아니 되며, 종사직원으로 하여금 체납자 등에게 소속과 성명을 명확히 밝히도록 하여야 한다.\n④ 한국자산관리공사는 우편, 전화, 방문, 재산조사, 주소ㆍ거소 확인 등 체납액 위탁징수업무의 활동내역을 기록ㆍ관리하여야 한다.\n⑤ 한국자산관리공사는 무리한 추심활동으로 인해 민원이 발생하지 아니하도록 노력하여야 하며 민원 발생 내용과 조치 현황을 기록ㆍ관리하여야 한다.\n3. 개인정보의 보호\n① 한국자산관리공사는 체납액 징수업무와 관련하여 취득한 납세자와 관계인 등에 관한 개인정보(과세정보, 신용정보를 포함하며 이하 같다)를 타인에게 제공, 누설하거나 목적 외의 용도로 사용해서는 아니 된다.\n② 한국자산관리공사는 개인정보가 분실ㆍ도난ㆍ유출ㆍ변조 또는 훼손되지 아니하도록 기술적ㆍ물리적ㆍ관리적 조치를 취하여야 한다.\n4. 조세채권의 확보\n한국자산관리공사는 체납자의 소득 또는 재산을 발견한 경우 즉시 그 사실을 세관장에게 통보하여 압류 등 조세채권 확보에 필요한 조치를 취하도록 하여야 한다.\n5. 체납액의 납부\n한국자산관리공사는 체납자나 관계인 또는 제3자로부터 체납액을 직접 현금 등의 형태로 수령하여서는 아니 된다.\n6. 관리감독 사항에 대한 성실한 이행\n① 한국자산관리공사는 관세청장과 체납관리세관장이 위탁징수업무에 관한 사항을 보고하게 하거나 필요한 조치를 요구하는 경우 또는 현황점검을 실시하거나 필요한 자료의 제출을 요구하는 경우에는 이에 성실하게 따라야 한다.\n② 한국자산관리공사는 관세청장과 체납관리세관장이 위탁징수업무의 수행에 있어 위법하거나 부당한 사유가 있다고 판단하거나 동 준수사항을 불이행 또는 해태하였다고 판단하여 임직원에 대한 징계나 관련업무의 배제를 요구하는 경우 이에 성실하게 따라야 한다.\n③ 한국자산관리공사는 매월 납부 촉구 활동 내역, 소득ㆍ재산 조사 내역, 체납자 주소ㆍ거소 확인 내역, 체납액 징수 실적, 민원 발생과 조치결과, 관세청과 체납관리세관장이 요구한 사항에 대한 조치 여부 등 위탁징수업무 진행 현황을 관세청장과 체납관리세관장에게 서면으로 보고하여야 한다.\n④ 한국자산관리공사는 체납자에 대한 납부촉구 방법 등 위탁징수업무 수행에 관한 실무처리요령을 작성하고 관세청장에게 제출하여 승인을 받아야 한다.\n7. 손해배상\n한국자산관리공사는 체납액 징수업무를 수행함에 있어 체납자나 관계인, 관세청과 그 소속기관 또는 제3자에 손해를 끼친 경우 그 손해를 배상하여야 한다.\n8. 기타\n\n체납액 징수업무의 수행과 관련하여 법령 등에서 규정하지 아니한 사항에 대해 해석이 필요한 경우에는 관세청장의 해석에 따르기로 한다.",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000276964&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090631",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286142&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123903",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090623",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123855",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090631",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123903",
           "name": "",
           "file_store_url": ""
         }
@@ -6691,17 +6702,17 @@
       "content": "■ 체납정리 사무처리에 관한 훈령 [별지 제1호서식]\n\n독촉장\n─────────\n\n┌───────────────────────┐\n│관리번호 :                                    │\n├───┬───┬───────┬─┬────┬┤\n│상 호 │      │사업자등록번호│  │과세연도││\n│(성명)│      │(생년월일)    │  │        ││\n├───┴──┬┴───────┴─┴────┴┤\n│사업장(주소)│                                │\n├──────┴────────────────┤\n│「독촉장 겸 영수증(납세자용)」에 적힌 세금 및 납부일자별 납부할 금액이 │\n│체납되었으니 독촉납부기한까지 이 독촉장 또는 이미 발부받은 납세고지서│\n│에 의하여 체납액을 한국은행 국고(수납)대리점인 은행 또는 우체국에 │\n│납부하시기 바랍니다.                          │\n│년   월   일                                  │\n│                                      세관장 ??│\n├─────────┬─────────────┤\n│독촉납부기한      │년     월     일까지      │\n├─────────┴─────────────┤\n│※ 납세자의 대부분은 세금을 납부기한 내에 납부하고 있습니다.│\n│                                              │\n│1.독촉납부기한까지 체납액을 완납하지 아니하는 때에는 「국세징수법」 │\n│제31조제1항에 따라 귀하의 재산을 압류하게 됩니다. 아울러 「관세│\n│법」 제44조에 따라 귀하의 체납사실을 신용정보회사 등에 제공할 수 │\n│있으며 「출입국관리법」제4조, 같은 법 제29조 및 「관세법」제116조│\n│의5에 따라 5천만원 이상 일정요건 체납자는 출국금지(정지)가 될 수 │\n│있음을 알려드립니다.                          │\n│2.최초 납부기한 경과시에는 최초 납부기한 경과시 3%, 체납세액이 150만원 이상│\n│인 경우에는 1일마다 0.022%의 납부지연가산세를 가산하여 납부하여야 합│\n│니다.                                         │\n│3.이미 체납액을 납부하신 경우에는 이 독촉장을 폐기하시기 바랍니다.│\n│4.이 독촉 및 체납액에 대하여 의문이 있으시면 관세청 홈페이지│\n│(Unipass.customs.go.kr)에서 확인하거나, ☎     에게 문의하시기 바랍니│\n│다.                                           │\n└───────────────────────┘\n(1쪽)\n(2쪽)\n\n\n독촉장 겸 영수증서(납세자용)                              납부일자별 납부할 금액\n───────────────────────            ┌─────┬──────┬─────┬──────┐\n│납부일자별│납부할 금액 │납부일자별│납부할 금액 │\n┌────┬─────┬─────┬─────────────────┐├─────┼──────┼─────┼──────┤\n│회계구분│          │담당자    │                                  ││          │            │          │            │\n├────┼─────┼─────┼──────┬─────┬────┤├─────┼──────┼─────┼──────┤\n│회계년도│          │담당부서  │            │발행일자  │        ││          │            │          │            │\n┢━━━━┷━┯━━━┷━━┯━━┷━━━━━━┷┯━━━━┷━━━━┪├─────┼──────┼─────┼──────┤\n┃수입징수관  │            │납부서              │                  ┃│          │            │          │            │\n┃계좌 번호   │            │번 호               │                  ┃├─────┼──────┼─────┼──────┤\n┠──────┴──────┴────────┬─┴─┬───────┨│          │            │          │            │\n┃※수납기관에서는 굵은 선 안의 내용을        │납부  │              ┃├─────┼──────┼─────┼──────┤\n┃즉시 전산입력하여 수입징수관서에 EDI        │금액  │              ┃│          │            │          │            │\n┃방식으로 통지될 수 있도록 하시기  바랍니다. │      │              ┃├─────┼──────┼─────┼──────┤\n┡━━━━━━━┯━━━━━━━━┯━━━━━┷━━━┷━┯━━━━━┩│          │            │          │            │\n│수입신고번호  │                │수입징수관서          │          │├─────┼──────┼─────┼──────┤\n├──────┬┴────┬───┴─────┬─────┼─────┤│          │            │          │            │\n│납 부 자    │(대표자)성명│                  │상     호 │          │├─────┼──────┼─────┼──────┤\n│            ├─────┼─────────┴─────┴─────┤│          │            │          │            │\n│            │주  소    │                                          │├─────┼──────┼─────┼──────┤\n├──────┼──┬──┴───┬────────┬───────┬┤│          │            │          │            │\n│관        세│    │교통에너지환경세│                │개별소비세    ││├─────┼──────┼─────┼──────┤\n├──────┼──┼──────┼────────┼───────┼┤│          │            │          │            │\n│주        세│    │교   육   세│                │부가가치세    ││├─────┼──────┼─────┼──────┤\n├──────┼──┼──────┼────────┼───────┼┤│          │            │          │            │\n│농어촌특별세│    │가   산   세│                │과다환급가산금││├─────┼──────┼─────┼──────┤\n└──────┴──┴──────┴────────┴───────┴┘│          │            │          │            │\n├─────┼──────┼─────┼──────┤\n┌──────────────────────────────────┐│          │            │          │            │\n│납부할 금액(1일마다 변동)                                           │├─────┼──────┼─────┼──────┤\n┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━┥│          │            │          │            │\n│  .  .  .금액   │                                                  │├─────┼──────┼─────┼──────┤\n├────────┼─────────────────────────┤│          │            │          │            │\n│  .  .  .금액   │                                                  │└─────┴──────┴─────┴──────┘\n├────────┴──┬──────────────────────┤\n│  년    월    일      │ 위 금액을 정히 영수              ┌───┐│\n│                      │합니다.                           │영수인││\n│수입징수관   (직인)   │                                  ├───┤│\n│                      │영수일   년   월   일             │      ││\n│                      │                                  └───┘│\n└───────────┴──────────────────────┘\n\n--------------------------------------------------------------\n\n\n납부서(수납기관용)                                납부일자별 납부할 금액\n─────────────────                ┌─────┬──────┬─────┬──────┐\n│납부일자별│납부할 금액 │납부일자별│납부할 금액 │\n┌────┬─────┬────┬──────────────┐├─────┼──────┼─────┼──────┤\n│회계구분│          │담당자  │                            ││          │            │          │            │\n├────┼─────┼────┼──┬─────┬─────┤├─────┼──────┼─────┼──────┤\n│회계년도│          │담당부서│    │발행일자  │          ││          │            │          │            │\n┢━━━━┷━┯━━━┷━━━┯┷━━┷┯━━━━┷━━━━━┪├─────┼──────┼─────┼──────┤\n┃수입징수관  │              │납부서  │                    ┃│          │            │          │            │\n┃계좌 번호   │              │번 호   │                    ┃├─────┼──────┼─────┼──────┤\n┠──────┴───────┴──┬─┴─┬────────┨│          │            │          │            │\n┃※ 수납기관에서는 굵은 선 안의    │납부  │                ┃├─────┼──────┼─────┼──────┤\n┃내용을 즉시 전산입력하여 수입     │금액  │                ┃│          │            │          │            │\n┃징수관서에 EDI방식으로 통지될     │      │                ┃├─────┼──────┼─────┼──────┤\n┃수 있도록 하시기 바랍니다.        │      │                ┃│          │            │          │            │\n┡━━━━━━━━┯━━━━━━━━┿━━━┷━━┯━━━━━┩├─────┼──────┼─────┼──────┤\n│수입신고번호    │                │수입징수관서│          ││          │            │          │            │\n├───────┬┴────┬───┼──────┼─────┤├─────┼──────┼─────┼──────┤\n│납 부 자      │(대표자)성명│      │상        호│          ││          │            │          │            │\n│              ├─────┼───┴──────┴─────┤├─────┼──────┼─────┼──────┤\n│              │주  소    │                                ││          │            │          │            │\n├──────┬┴──┬──┴───┬──┬───────┬─┤├─────┼──────┼─────┼──────┤\n│관        세│      │교통에너지환경세│    │개별소비세    │  ││          │            │          │            │\n├──────┼───┼──────┼──┼───────┼─┤├─────┼──────┼─────┼──────┤\n│주        세│      │교   육   세│    │부가가치세    │  ││          │            │          │            │\n├──────┼───┼──────┼──┼───────┼─┤├─────┼──────┼─────┼──────┤\n│농어촌특별세│      │가   산   세│    │과다환급가산금│  ││          │            │          │            │\n└──────┴───┴──────┴──┴───────┴─┘├─────┼──────┼─────┼──────┤\n│          │            │          │            │\n┌──────────────────────────────┐├─────┼──────┼─────┼──────┤\n│납부할 금액(1일마다 변동)                                   ││          │            │          │            │\n┝━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━┥├─────┼──────┼─────┼──────┤\n│  .  .  .금액     │                                        ││          │            │          │            │\n├─────────┼────────────────────┤└─────┴──────┴─────┴──────┘\n│  .  .  .금액     │                                        │\n├─────────┴──┬─────────────────┤\n│  한국은행 귀하         │ 위 금액을 정히 영수    ┌───┐│\n│위 금액을 수납 납부합니 │합니다.                 │영수인││\n│다                      │ 영수일   년   월   일  ├───┤│\n│.                       │                        │      ││\n│년    월     일         │                        └───┘│\n├────────────┴─────────────────┤\n│※ 이 납부서(수납기관용) 사본은 세관요구시 세관용 영수필    │\n│통지서로 이용할 수 있습니다.                                │\n└──────────────────────────────┘\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090639",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123911",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090633",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123905",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090639",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123911",
           "name": "",
           "file_store_url": ""
         }
@@ -6722,17 +6733,17 @@
       "content": "■ 체납정리 사무처리에 관한 훈령 [별지 제1호의2서식]\n\n\n(   ) 납세의무자 납부고지서                                      가산세 산출근거\n\n\n┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑ ┏━━━━━━━━━━━━━━━━━━━━━━━━━┓\n│관리번호 :                                                  │ ┃                                                  ┃\n├────────┬───────┬─────────────┤ ┃┌───────────────────────┐┃\n│제2차납세의무자 │상호(성명)    │                          │ ┃│주된 납세자의 고지에 대한 가산세별 세부내역은 │┃\n│(양도담보권자)  ├───────┼─────────────┤ ┃│아래와 같습니다.                              │┃\n│                │사업자등록번호│                          │ ┃├──────┬────┬──┬────────┤┃\n│                │(주민등록번호)│                          │ ┃│가산세 구분 │대상금액│세율│세액            │┃\n│                ├───────┼─────────────┤ ┃├──────┼────┼──┼────────┤┃\n│                │사업장(주소)  │                          │ ┃│①          │        │    │                │┃\n├────────┼───────┼─────────────┤ ┃│            │        │    │                │┃\n│주된            │상호(성명)    │                          │ ┃├──────┼────┼──┼────────┤┃\n│납세의무자      ├───────┼─────────────┤ ┃│②          │        │    │                │┃\n│                │사업자등록번호│                          │ ┃├──────┼────┼──┼────────┤┃\n│                │(주민등록번호)│                          │ ┃│③          │        │    │                │┃\n│                ├───────┼─────────────┤ ┃├──────┼────┼──┼────────┤┃\n│                │사업장(주소)  │                          │ ┃│④          │        │    │                │┃\n│                ├───────┼─────────────┤ ┃├──────┼────┼──┼────────┤┃\n│                │수입신고번호  │                          │ ┃│⑤          │        │    │                │┃\n├──────┬─┴┬─────┬┴┬────────┬───┤ ┃├──────┼────┼──┼────────┤┃\n│관      세  │    │개별소비세│  │교통에너지환경세│      │ ┃│⑥          │        │    │                │┃\n├──────┼──┼─────┼─┼────────┼───┤ ┃├──────┼────┼──┼────────┤┃\n│부가가치세  │    │주      세│  │농어촌특별세    │      │ ┃│⑦          │        │    │                │┃\n├──────┼──┼─────┼─┼────────┼───┤ ┃├──────┼────┼──┼────────┤┃\n│가  산  세  │    │교  육  세│  │과다환급가산금  │      │ ┃│⑧          │        │    │                │┃\n┟──────┴──┴─────┴─┴────────┴───┧ ┃├──────┼────┼──┼────────┤┃\n┃1.귀하는 관세법 제19조, 국세기본법 제38조부터 제41조까지의 규┃ ┃│⑨          │        │    │                │┃\n┃정에 따라 주된 납세자의 제2차 납세의무자이므로 위 세금 중   ┃ ┃├──────┼────┼──┼────────┤┃\n┃(    )를 적용한 (   )원의 납부의무가 있음을 통지합니다.     ┃ ┃│⑩          │        │    │                │┃\n┃2.매1일 경과시 마다 0.022% 납부지연가산세를 추가하오니 아래 ┃ ┃├──────┼────┼──┼────────┤┃\n┃납부일자별 납부할 금액을 확인하시어 한국은행 국고(수납)     ┃ ┃│⑪          │        │    │                │┃\n┃대리점인 은행 또는 우체국에 납부하시기 바랍니다.            ┃ ┃├──────┼────┼──┼────────┤┃\n┃                                                            ┃ ┃│⑫          │        │    │                │┃\n┃년   월   일                                                ┃ ┃├──────┼────┼──┼────────┤┃\n┃세관장 ??                                                 ┃ ┃│계          │        │    │                │┃\n┠──────────────────────────────┨ ┃└──────┴────┴──┴────────┘┃\n┃이 납부통지 및 체납액에 대하여 의문이 있으시면 관세청 홈페  ┃ ┃                                                  ┃\n┃이지(Unipass.customs.go.kr)에서 확인하거나, ☎       에게 문┃ ┃                                                  ┃\n┃의하시기 바랍니다.                                          ┃ ┗━━━━━━━━━━━━━━━━━━━━━━━━━┛\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n---------------------------------------------------------------\n\n\n(   ) 납세의무자 납부고지서 겸 영수증 (납세자용)            납부서 (수납기관용)\n\n\n┍━━━━━━━┯━━┯━━━━━┯━━━━━━━━━━━┑┍━━━━━━━┯━━┯━━━━┯━━━━━━━━━━━━━┑\n│회계년도      │    │회계구분  │                      ││회계년도      │    │회계구분│                          │\n├───────┼──┼─────┼───┬───┬───┤├───────┼──┼────┼─┬──────┬────┤\n│수입징수관서  │    │부서      │      │담당자│      ││수입징수관서  │    │부서    │  │담당자      │        │\n├───────┼──┼─────┼───┴───┴───┤├───────┼──┼────┼─┴──────┴────┤\n│수입징수관    │    │납부서    │                      ││수입징수관    │    │납부서  │                          │\n│계좌 번호     │    │번 호     │                      ││계좌 번호     │    │번 호   │                          │\n├───────┼──┴─────┼───┬───────┤├───────┼──┴────┼────┬────────┤\n│(대표자)성명  │                │상 호 │              ││(대표자)성명  │              │상 호   │                │\n├──────┬┴──┬─────┼┬──┴────┬──┤├──────┬┴─┬─────┼┬───┴───┬────┤\n│관      세  │      │개별소비세││교통에너지환경세│    ││관      세  │    │개별소비세││교통에너지환경세│        │\n├──────┼───┼─────┼┼───────┼──┤├──────┼──┼─────┼┼───────┼────┤\n│부가가치세  │      │주      세││농어촌특별세  │    ││부가가치세  │    │주      세││농어촌특별세  │        │\n├──────┼───┼─────┼┼───────┼──┤├──────┼──┼─────┼┼───────┼────┤\n│가  산  세  │      │교  육  세││과다환급가산금│    ││가  산  세  │    │교  육  세││과다환급가산금│        │\n┕━━━━━━┷━━━┷━━━━━┷┷━━━━━━━┷━━┙┕━━━━━━┷━━┷━━━━━┷┷━━━━━━━┷━━━━┙\n\n┍━━━━━━━━┯━━━━━━━━━━━━━━━━━━━┑┍━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━┑\n│납부기한        │년     월    일                       ││납부기한        │년     월    일                         │\n┝━━━━━━━━┿━━┯━━━━━━━━━┯━━━━━━┥┝━━━━━━━━┿━━┯━━━━━━━┯━━━━━━━━━┥\n│  .  .  .금액   │    │  .  .  .금액     │            ││  .  .  .금액   │    │  .  .  .금액 │                  │\n├────────┼──┼─────────┼──────┤├────────┼──┼───────┼─────────┤\n│  .  .  .금액   │    │  .  .  .금액     │            ││  .  .  .금액   │    │  .  .  .금액 │                  │\n├────────┼──┼─────────┼──────┤├────────┼──┼───────┼─────────┤\n│  .  .  .금액   │    │  .  .  .금액     │            ││  .  .  .금액   │    │  .  .  .금액 │                  │\n├────────┼──┼─────────┼──────┤├────────┼──┼───────┼─────────┤\n│  .  .  .금액   │    │  .  .  .금액     │            ││  .  .  .금액   │    │  .  .  .금액 │                  │\n├────────┼──┼─────────┼──────┤├────────┼──┼───────┼─────────┤\n│  .  .  .금액   │    │  .  .  .금액     │            ││  .  .  .금액   │    │  .  .  .금액 │                  │\n├────────┼──┼─────────┼──────┤├────────┼──┼───────┼─────────┤\n│  .  .  .금액   │    │  .  .  .금액     │            ││  .  .  .금액   │    │  .  .  .금액 │                  │\n├────────┼──┼─────────┼──────┤├────────┼──┼───────┼─────────┤\n│  .  .  .금액   │    │  .  .  .금액     │            ││  .  .  .금액   │    │  .  .  .금액 │                  │\n├────────┼──┼─────────┼──────┤├────────┼──┼───────┼─────────┤\n│  .  .  .금액   │    │  .  .  .금액     │            ││  .  .  .금액   │    │  .  .  .금액 │                  │\n├────────┼──┼─────────┼──────┤├────────┼──┼───────┼─────────┤\n│  .  .  .금액   │    │  .  .  .금액     │            ││  .  .  .금액   │    │  .  .  .금액 │                  │\n├────────┼──┼─────────┼──────┤├────────┼──┼───────┼─────────┤\n│  .  .  .금액   │    │  .  .  .금액     │            ││  .  .  .금액   │    │  .  .  .금액 │                  │\n├────────┼──┼─────────┼──────┤├────────┼──┼───────┼─────────┤\n│  .  .  .금액   │    │  .  .  .금액     │            ││  .  .  .금액   │    │  .  .  .금액 │                  │\n├────────┼──┼─────────┼──────┤├────────┼──┼───────┼─────────┤\n│  .  .  .금액   │    │  .  .  .금액     │            ││  .  .  .금액   │    │  .  .  .금액 │                  │\n├────────┼──┼─────────┼──────┤├────────┼──┼───────┼─────────┤\n│  .  .  .금액   │    │  .  .  .금액     │            ││  .  .  .금액   │    │  .  .  .금액 │                  │\n├────────┼──┼─────────┼──────┤├────────┼──┼───────┼─────────┤\n│  .  .  .금액   │    │  .  .  .금액     │            ││  .  .  .금액   │    │  .  .  .금액 │                  │\n├────────┼──┼─────────┼──────┤├────────┼──┼───────┼─────────┤\n│  .  .  .금액   │    │  .  .  .금액     │            ││  .  .  .금액   │    │  .  .  .금액 │                  │\n├────────┴──┴─────────┴──────┤├────────┴──┴───────┴─────────┤\n│ ※ 위 납부일자별 금액을 확인하시어 납부하시기 바랍니다.││※ 위 납부일자별 금액을 확인하시어 납부하시기 바랍니다.   │\n├──────────┬─────────────────┤├─────────────┬───────────────┤\n│  년    월    일    │ 위 금액을 정히 영수    ┌───┐││  한국은행 귀하           │ 위 금액을 정히     ┌───┐│\n│                    │합니다.                 │영수인│││위 금액을 수납 납부합니다 │영수합니다.         │영수인││\n│수입징수관   (직인) │                        ├───┤││.                         │                    ├───┤│\n│                    │ 영수일  년   월   일   │      │││년    월     일           │ 영수일 년 월   일  │      ││\n│                    │                        └───┘││                          │                    └───┘│\n└──────────┴─────────────────┘├─────────────┴───────────────┤\n│※ 이 납부서(수납기관용) 사본은 세관요구시 세관용 영수필  │\n│통지서로 이용할 수 있습니다.                              │\n└─────────────────────────────┘\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090645",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123917",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090641",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123913",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090645",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123917",
           "name": "",
           "file_store_url": ""
         }
@@ -6753,17 +6764,17 @@
       "content": "■ 체납정리 사무처리에 관한 훈령 [별지 제2호서식]\n(1쪽)\n\n(제2차 납세의무자) 독촉장\n┌───────────────────────────────────┐\n│관리번호 :                                                            │\n├───────┬───────┬───────────────────┤\n│제2차         │상호(성명)    │                                      │\n│납세의무자    ├───────┼───────────────────┤\n│(양도담보권자)│사업자등록번호│                                      │\n│              │(주민등록번호)│                                      │\n│              ├───────┼───────────────────┤\n│              │사업장(주소)  │                                      │\n├───────┼───────┼───────────────────┤\n│납세의무자    │상호(성명)    │                                      │\n│              ├───────┼───────────────────┤\n│              │사업자등록번호│                                      │\n│              │(주민등록번호)│                                      │\n│              ├───────┼───────────────────┤\n│              │사업장(주소)  │                                      │\n├───────┴───────┴───────────────────┤\n│귀하는 상기 납세의무자의       로서 「독촉장 겸 영수증(납세자용)」    │\n│및 납부일자별 납부한 금액에 적힌 금액을 독촉납부기한까지 이 독촉장에  │\n│의하여 한국은행 국고(수납)대리점인 은행 또는 우체국에 납부하시기 바   │\n│랍니다.                                                               │\n│년   월   일                                                          │\n│                                      세관장 ??                     │\n├────────┬──────────────────────────┤\n│독촉납부기한    │년     월     일까지                                │\n├────────┴──────────────────────────┤\n│※ 납세자의 대부분은 세금을 납부기한 내에 납부하고 있습니다.          │\n│                                                                      │\n│1.독촉납부기한까지 체납액을 완납하지 아니하는 때에는 「국세징수법」   │\n│제31조제1항에 따라 귀하의 재산을 압류하게 됩니다. 아울러  「관세법」  │\n│제44조에 따라 귀하의 체납사실을 신용정보회사 등에 제공할 수 있으며    │\n│「출입국관리법」제4조, 같은 법 제29조 및 「관세법」제116조의5에       │\n│따라 5천만원 이상 일정요건 체납자는 출국금지(정지)가 될 수 있음을     │\n│알려드립니다.                                                         │\n│2.체납세액이 150만원 이상인 경우에는 납부지연가산세는 1일마다 0.022%  │\n│를 가산하여 납부하여야 합니다.                                        │\n│3.이미 체납액을 납부하신 경우에는 이 독촉장을 폐기하시기 바랍니다.    │\n│4.이 독촉 및 체납액에 대하여 의문이 있으시면 관세청 홈페이지          │\n│(Unipass.customs.go.kr)에서 확인하거나, ☎      에게 문의하시기 바랍니│\n│다.                                                                   │\n└───────────────────────────────────┘\n(2쪽)\n\n\n독촉장 겸 영수증서(납세자용)                          납부일자별 납부할 금액\n──────────────────────────  ┌─────┬──────┬─────┬──────┐\n│납부일자별│납부할 금액 │납부일자별│납부할 금액 │\n┌────┬──────┬───┬────────────────┐├─────┼──────┼─────┼──────┤\n│회계구분│            │담당자│                                ││          │            │          │            │\n├────┼──────┼───┼────┬─────┬─────┤├─────┼──────┼─────┼──────┤\n│회계년도│            │담당부│        │발행일자  │          ││          │            │          │            │\n│        │            │서    │        │          │          │├─────┼──────┼─────┼──────┤\n┢━━━━┷━━┯━━━┿━━━┿━━━━┷━━━━━┷━━━━━┪│          │            │          │            │\n┃수입징수관    │      │납부서│                                ┃├─────┼──────┼─────┼──────┤\n┃계좌 번호     │      │번 호 │                                ┃│          │            │          │            │\n┠───────┴───┴───┴───┬───┬────────┨├─────┼──────┼─────┼──────┤\n┃※ 수납기관에서는 굵은 선 안의        │납부  │                ┃│          │            │          │            │\n┃내용을 즉시 전산입력하여 수           │금액  │                ┃├─────┼──────┼─────┼──────┤\n┃입징수관서에 EDI방식으로 통지         │      │                ┃│          │            │          │            │\n┃될 수 있도록 하시기  바랍니다.        │      │                ┃├─────┼──────┼─────┼──────┤\n┡━━━━━━━━━┯━━━━━━┯━━┷━━━┷┯━━━━━━━┩│          │            │          │            │\n│수입신고번호      │            │수입징수관서  │              │├─────┼──────┼─────┼──────┤\n├────────┬┴───┬──┴─┬─────┼───────┤│          │            │          │            │\n│납 부 자        │(대표자)성명│        │상 호     │              │├─────┼──────┼─────┼──────┤\n│                ├────┼────┴─────┴───────┤│          │            │          │            │\n│                │주  소  │                                    │├─────┼──────┼─────┼──────┤\n├──────┬─┴──┬─┴────┬────┬───────┬┤│          │            │          │            │\n│관        세│        │교통에너지환경세│        │개별소비세    ││├─────┼──────┼─────┼──────┤\n├──────┼────┼──────┼────┼───────┼┤│          │            │          │            │\n│주        세│        │교   육   세│        │부가가치세    ││├─────┼──────┼─────┼──────┤\n├──────┼────┼──────┼────┼───────┼┤│          │            │          │            │\n│농어촌특별세│        │가   산   세│        │과다환급가산금││├─────┼──────┼─────┼──────┤\n└──────┴────┴──────┴────┴───────┴┘│          │            │          │            │\n├─────┼──────┼─────┼──────┤\n┌────────────────────────────────┐│          │            │          │            │\n│납부할 금액(1일마다 변동)                                       │├─────┼──────┼─────┼──────┤\n┝━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━┥│          │            │          │            │\n│  .  .  .금액       │                                          │└─────┴──────┴─────┴──────┘\n├──────────┼─────────────────────┤\n│  .  .  .금액       │                                          │\n├──────────┴─┬───────────────────┤\n│  년    월    일        │ 위 금액을 정히 영수      ┌───┐  │\n│                        │합니다.                   │영수인│  │\n│수입징수관   (직인)     │                          ├───┤  │\n│                        │ 영수일  년   월   일     │      │  │\n│                        │                          └───┘  │\n└────────────┴───────────────────┘\n\n----------------------------------------------------------------\n\n\n납부서(수납기관용)                                  납부일자별 납부할 금액\n──────────────────────        ┌─────┬──────┬─────┬──────┐\n│납부일자별│납부할 금액 │납부일자별│납부할 금액 │\n┌───────┬────┬─────┬──────────────┐├─────┼──────┼─────┼──────┤\n│회계구분      │        │담당자    │                            ││          │            │          │            │\n├───────┼────┼─────┼─────┬────┬───┤├─────┼──────┼─────┼──────┤\n│회계년도      │        │담당부서  │          │발행일자│      ││          │            │          │            │\n┢━━━━━━━┷┯━━━┷┯━━━━┷┯━━━━┷━━━━┷━━━┪├─────┼──────┼─────┼──────┤\n┃수입징수관      │        │납부서    │                          ┃│          │            │          │            │\n┃계좌 번호       │        │번 호     │                          ┃├─────┼──────┼─────┼──────┤\n┠────────┴────┴─────┴──┬───┬──────┨│          │            │          │            │\n┃※ 수납기관에서는 굵은 선 안의 내용         │납부  │            ┃├─────┼──────┼─────┼──────┤\n┃을 즉시 전산입력하여 수입징수관서           │금액  │            ┃│          │            │          │            │\n┃에 EDI방식으로 통지될 수 있도록 하시        │      │            ┃├─────┼──────┼─────┼──────┤\n┃기  바랍니다.                               │      │            ┃│          │            │          │            │\n┡━━━━━━━━━┯━━━━━━━━━━┯━┷━━━┷━┯━━━━┩├─────┼──────┼─────┼──────┤\n│수입신고번호      │                    │수입징수관서  │        ││          │            │          │            │\n├─────────┼────┬─────┴┬──────┼────┤├─────┼──────┼─────┼──────┤\n│납   부   자      │(대표자)성명│            │상   호     │        ││          │            │          │            │\n│                  ├────┼──────┴──────┴────┤├─────┼──────┼─────┼──────┤\n│                  │주  소  │                                    ││          │            │          │            │\n├──────┬──┴─┬──┴───┬────┬───────┬─┤├─────┼──────┼─────┼──────┤\n│관        세│        │교통에너지환경세│        │개별소비세    │  ││          │            │          │            │\n├──────┼────┼──────┼────┼───────┼─┤├─────┼──────┼─────┼──────┤\n│주        세│        │교   육   세│        │부가가치세    │  ││          │            │          │            │\n├──────┼────┼──────┼────┼───────┼─┤├─────┼──────┼─────┼──────┤\n│농어촌특별세│        │가   산   세│        │과다환급가산금│  ││          │            │          │            │\n└──────┴────┴──────┴────┴───────┴─┘├─────┼──────┼─────┼──────┤\n│          │            │          │            │\n┌─────────────────────────────────┐├─────┼──────┼─────┼──────┤\n│납부할 금액(1일마다 변동)                                         ││          │            │          │            │\n┝━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━┥├─────┼──────┼─────┼──────┤\n│  .  .  .금액       │                                            ││          │            │          │            │\n├──────────┼──────────────────────┤└─────┴──────┴─────┴──────┘\n│  .  .  .금액       │                                            │\n├──────────┴────┬─────────────────┤\n│  한국은행 귀하               │ 위 금액을 정히         ┌───┐│\n│위 금액을 수납 납부합니다     │영수합니다.             │영수인││\n│.                             │                        ├───┤│\n│년    월     일               │ 영수일 년 월   일      │      ││\n│                              │                        └───┘│\n├───────────────┴─────────────────┤\n│※ 이 납부서(수납기관용) 사본은 세관요구시 세관용 영수필          │\n│통지서로 이용할 수 있습니다.                                      │\n└─────────────────────────────────┘\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090653",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123925",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090647",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123919",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090653",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123925",
           "name": "",
           "file_store_url": ""
         }
@@ -6784,17 +6795,17 @@
       "content": "■ 체납정리 사무처리에 관한 훈령 [별지 제2호의2서식]\n체납자 기초 조사서\n1. 부과대상자 정보\n┏━━━━━━━━━┯┯━━━━━━━┯┓\n┃상          호    ││사업자등록번호│┃\n┠─────────┼┼───────┼┨\n┃대    표    자    ││주민등록번호  │┃\n┠─────────┼┼───────┼┨\n┃법 인 등 록 번 호 ││전  화  번  호│┃\n┠─────────┼┴───────┴┨\n┃사업장 주소       │                  ┃\n┠─────────┼─────────┨\n┃실거주지 주소     │                  ┃\n┗━━━━━━━━━┷━━━━━━━━━┛\n2. 부과금액\n┏━━━┯━━━━━━━━━━━━┯━━━━┯━━━┓\n┃연 번 │고지번호(또는 사건번호) │부과금액│비 고 ┃\n┠───┼────────────┼────┼───┨\n┃      │                        │        │      ┃\n┗━━━┷━━━━━━━━━━━━┷━━━━┷━━━┛\n3. 조사ㆍ심사ㆍ통관과정에서 인지한 재산 정보(동향)\n┏━━━━━━┯━━━━━━━━━━━━┯━━━━━━━┯━━┓\n┃재산종류    │소재지, 계좌번호        │금액, 수량 등 │비고┃\n┠──────┼────────────┼───────┼──┨\n┃예시)예금   │하나 220-**-****** 김** │10,000,000원  │    ┃\n┠──────┼────────────┼───────┼──┨\n┃예)부동산 등│                        │              │    ┃\n┠──────┼────────────┼───────┼──┨\n┃            │                        │              │    ┃\n┗━━━━━━┷━━━━━━━━━━━━┷━━━━━━━┷━━┛\n4. 발생경위(범죄사실 등) 및 종합의견(특이사항)\n┏━━━━━━━━━━━━━━━━━━━━━━┓\n┃<발생경위를 상세하게 기술요망>              ┃\n┃                                            ┃\n┃예시) ①체납발생사유,                       ┃\n┃      ②조사?심사 처분단계(송치, 종결 등), ┃\n┃     ③기타 조사 심사시 알게된 사실 등      ┃\n┃                                            ┃\n┃ <종합의견(특이사항)>                       ┃\n┗━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090659",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123931",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090655",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123927",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090659",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123931",
           "name": "",
           "file_store_url": ""
         }
@@ -6815,17 +6826,17 @@
       "content": "■ 체납정리 사무처리에 관한 훈령 [별지 제3호서식]\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃체 납 자  카 드                                                                                                                   ┃\n┠──┬───────┬──────────┬──────────┬──────────┬───┬──────────┬──────┨\n┃납세│상  호        │                    │사업자번호          │                    │체    │수 색               │            ┃\n┃의무├───────┼──────────┼──────────┼──────────┤납    │                    │            ┃\n┃자  │성  명        │                    │주민등록번호        │                    │처    ├──────────┼──────┨\n┃    │              │                    │법인등록번호        │                    │분    │소 재 조 사         │            ┃\n┃    ├───┬───┼──────────┴────────┬─┴──┬───────┤활    │                    │            ┃\n┃    │주소  │업체  │                                      │전화번호│              │동    ├──────────┼──────┨\n┃    │      ├───┼───────────────────┼────┼───────┤      │부동산소유조사      │            ┃\n┃    │      │대표자│                                      │전화번호│              │      ├──────────┼──────┨\n┃    │      │      │                                      │        │              │      │금융거래정보조회    │            ┃\n┃    │      │      │                                      │        │              │      ├──────────┼──────┨\n┠──┼───┴───┼──────────┬────────┴──┬─┴───────┤      │주식배분조사        │            ┃\n┃2차 │상  호        │                    │사업자번호            │                  │      │                    │            ┃\n┃납세├───────┼──────────┼───────────┼─────────┤      │                    │            ┃\n┃의무│성  명        │                    │                      │                  │      ├──────────┼──────┨\n┃자  ├───┬───┼──────────┴────────┬──┴─┬───────┤      │동산채권            │            ┃\n┃    │주소  │업체  │                                      │전화번호│              │      │(임차보증금)조사    │            ┃\n┃    │      │      │                                      │        │              │      ├──────────┼──────┨\n┃    │      ├───┼───────────────────┼────┼───────┤      │재산압류            │            ┃\n┃    │      │대표자│                                      │전화번호│              │      ├──────────┼──────┨\n┠──┼───┴───┴┬─────────┬────────┴─┬──┴───────┤      │교 부 청 구         │            ┃\n┃체납│체납발생일      │                  │총건수              │                    │      ├──────────┼──────┨\n┃내역├────────┼────────┬┴─────────┬┴──────────┤      │제2차납세의무자 지정│            ┃\n┃    │관세            │내국세          │가산세              │합계                  │      ├──────────┼──────┨\n┃    ├────────┼────────┼──────────┼───────────┤      │기타                │            ┃\n┃    │                │                │                    │                      │      │                    │            ┃\n┠──┴────────┴────────┴──────────┴───────────┼───┼──────────┴──────┨\n┃압  류  내  역                                                                        │행    │출국규제                          ┃\n┠────┬──────┬──────┬──────┬──────┬──────────┤정    ├──┬────┬────┬────┨\n┃구분    │재산        │설정/해제일 │소재지      │재산 명의인 │사유                │제    │구분│신청기간│기간연장│해제일자┃\n┠────┼──────┼──────┼──────┼──────┼──────────┤재    │    │        │        │        ┃\n┃        │            │            │            │            │                    │내    ├──┼────┼────┼────┨\n┠────┴──────┴──────┴──────┴──────┴──────────┤역    │    │        │        │        ┃\n┃경  매  내  역                                                                        │      ├──┴────┴────┴────┨\n┠────┬──┬───┬──────┬────┬────┬─────┬────┬───┤      │신용정보제공                      ┃\n┃사건번호│구분│법원  │경매물건    │게시일자│종기일자│교부청구액│배당일자│배당액│      ├───────┬─────────┨\n┠────┼──┼───┼──────┼────┼────┼─────┼────┼───┤      │제공일자      │해제일자          ┃\n┃        │    │      │            │        │        │          │        │      │      ├───────┼─────────┨\n┠────┴──┴───┴──────┴────┴────┴─────┴────┴───┤      │              │                  ┃\n┃공  매  내  역                                                                        │      │              │                  ┃\n┠─────┬──────┬──────┬────┬────┬──────┬────┬─┴──┬┴───┬───┴─────────┨\n┃공매번호  │구분        │공매기관    │공매물건│공고일자│중지일자    │낙찰여부│배분일자│배분금액│징수전망 및 대책          ┃\n┃          │            │            │        │        │            │        │        │        │(담당자 의견)             ┃\n┠─────┼──────┼──────┼────┼────┼──────┼────┼────┼────┼─────────────┨\n┃          │            │            │        │        │            │        │        │        │                          ┃\n┗━━━━━┷━━━━━━┷━━━━━━┷━━━━┷━━━━┷━━━━━━┷━━━━┷━━━━┷━━━━┷━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090665",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123937",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090661",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123933",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090665",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123937",
           "name": "",
           "file_store_url": ""
         }
@@ -6846,17 +6857,17 @@
       "content": "■ 체납정리 사무처리에 관한 훈령 [별지 제4호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃금융거래정보 등의 조회 대장                                                                           ┃\n┠───┬──────────────────────┬────────────────────────┨\n┃연번  │체 납 자                                    │금융거래내역 조회                               ┃\n┃      ├───┬───────┬────┬─────┼───┬──────┬────┬────────┨\n┃      │상호  │사업자등록번호│체 납 액│체납발생일│조회일│회신금융기관│회신내용│체납처분 여부와 ┃\n┃      │(성명)│(생년월일)    │        │          │      │            │        │내용            ┃\n┠───┼───┼───────┼────┼─────┼───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┃      │      │              │        │          ├───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┃      │      │              │        │          ├───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┠───┼───┼───────┼────┼─────┼───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┃      │      │              │        │          ├───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┃      │      │              │        │          ├───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┠───┼───┼───────┼────┼─────┼───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┃      │      │              │        │          ├───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┃      │      │              │        │          ├───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┠───┼───┼───────┼────┼─────┼───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┃      │      │              │        │          ├───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┃      │      │              │        │          ├───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┠───┼───┼───────┼────┼─────┼───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┃      │      │              │        │          ├───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┃      │      │              │        │          ├───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┠───┼───┼───────┼────┼─────┼───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┃      │      │              │        │          ├───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┃      │      │              │        │          ├───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┠───┼───┼───────┼────┼─────┼───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┃      │      │              │        │          ├───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┃      │      │              │        │          ├───┼──────┼────┼────────┨\n┃      │      │              │        │          │      │            │        │                ┃\n┗━━━┷━━━┷━━━━━━━┷━━━━┷━━━━━┷━━━┷━━━━━━┷━━━━┷━━━━━━━━┛\n297㎜×210㎜(일반용지 60g/㎡(재활용품))",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090671",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123943",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090667",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123939",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090671",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123943",
           "name": "",
           "file_store_url": ""
         }
@@ -6877,17 +6888,17 @@
       "content": "■ 체납정리 사무처리에 관한 훈령 [별지 제5호서식]\n(1쪽)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃기관명                                                                          ┃\n┃ 수신자 :                                                                       ┃\n┃ 제  목 : 체납자 명단공개 사전통지서                                            ┃\n┠─┬──────┬─┬───────┬─────────────────────┨\n┃납│성명(대표자)│  │생년월일      │                                          ┃\n┃세├──────┼─┼───────┼─────────────────────┨\n┃의│상호(법인명)│  │사업자등록번호│                                          ┃\n┃무│            │  │(법인등록번호)│                                          ┃\n┃자├──────┼─┴───────┴─────────────────────┨\n┃  │주소(사업장)│                                                              ┃\n┠─┴──────┴───────────────────────────────┨\n┃ 관세 등 체납내역(총체납액 :          원)                    (단위 : 원)        ┃\n┠─────────┬───┬─────┬────────────────────┨\n┃관세 및 내국세 등 │가산금│합계      │납부기한                                ┃\n┠─────────┼───┼─────┼────────────────────┨\n┃                  │      │          │                                        ┃\n┠─────────┴───┴─────┴────────────────────┨\n┃명단공개내역 및 소명기한                                                        ┃\n┠────────┬───────────────────────────────┨\n┃명단공개예정일  │                                                              ┃\n┠────────┼───────────────────────────────┨\n┃명단공개방법    │                                                              ┃\n┠────────┼───────────────────────────────┨\n┃소명기한        │                                                              ┃\n┠────────┴───────────────────────────────┨\n┃  「관세법」제116조의2 및 같은 법 시행령 제141조의5에 따라 귀하의 체납내역을    ┃\n┃공개하고자 합니다. 만약 귀하가 체납액을 납부하지 못한 부득이한 사유가 있는      ┃\n┃경우에는 소명기한까지 의견을 제출하여 주시기 바랍니다.                          ┃\n┃                                                                                ┃\n┃년   월   일                                                                    ┃\n┃기관장직인                                                                      ┃\n┃                                                                                ┃\n┠────────────────────────────────────────┨\n┃ 1. 소명기한 내에 의견을 제출하지 아니하는 경우에는 체납내역을 공개하는 것에 이 ┃\n┃의가 없는 것으로 간주합니다.                                                    ┃\n┃ 2. 그 밖에 체납자 명단공개와 관련하여 궁금한 사항이 있으시면 OO세관 체납관리과 ┃\n┃담당자 OOO((☎          )에게 문의하시기 바랍니다.                              ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n(2쪽)\n관세 등 고액ㆍ상습체납자 명단공개에 관한 안내문\n\n귀하\n우리 청에서는 「관세법」제116조의2의 규정에 따라 체납발생일부터 1년이 경과한 관세 및 내국세 등이 2억원 이상(징수권 소멸시효가  완성되지 아니한 결손처분액 포함)인 체납자의 명단을 공개하고 있습니다.\n고액ㆍ상습체납자 명단 공개 시에는 체납자의 성명ㆍ상호(법인의 명칭 및 대표자 포함)ㆍ연령ㆍ직업ㆍ주소ㆍ체납액의 세목ㆍ납기 및 체납요지 등을 관보에 게재하거나, 관세청 홈페이지 또는 관할 세관의 게시판 게시를 통하여 공개하게 됩니다.\n귀하(사)의 0000.12.31 현재 체납액은            원으로서 고액ㆍ상습체납자 명단 공개대상 예정자임을 알려드리오니, 귀하(사)의 명단이 공개됨으로 인하여 각종 불이익을 받지 않도록 조속히 체납액을 납부하여 주시기 바랍니다.\n또한, 「관세법」제116조의5, 같은법 시행령 제141조의11 및 「출입국관리법」제4조에 따라 출국금지가 될 수 있습니다.\n체납된 관세 및 내국세 등에 대하여 불복청구가 진행 중이거나 체납액의 일정금액 이상을 납부한 경우 등 「관세법 시행령」제141조의5 제1항 각 호의 명단공개 제외사유에 해당되는 경우에는 이에 관한 소명자료를 기한 내에 제출하여 주시면 사실확인 절차 등을 거쳐 「관세정보위원회」에서 재심의하여 공개 여부를 결정할 예정입니다.\n년   월   일\n기 관 장",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090679",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123951",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090673",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123945",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090679",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123951",
           "name": "",
           "file_store_url": ""
         }
@@ -6908,17 +6919,17 @@
       "content": "■ 체납정리 사무처리에 관한 훈령 [별지 제6호서식]\n행정제재 출국통제자 전산입력 자료서\n┏━━┯━━━━┯━━━┑\n┃①  ┃통제요청│      │작성일자 : 20   년   월   일\n┃자료┣━━━━┿━━━┥  요청관 : 직급(계급)     성명           서명 또는 인                                             ┃\n┃구분┃해제요청│      │\n┣━┯┻━━━━┷━━━┷━━━┯━━┯━━━━━━━━━┯━━━┯━━━━━━━━━━━━━━━━┯━━━━━━━━━━━┓\n┃인│ ②  고유번호             │③  │④ 성    명       │⑤    │⑥                              │⑦ 여 권 번 호        ┃\n┃  ├──────┬──────┤성별├────┬────┤생년  │주 민 등 록 번 호               ├──┬────────┨\n┃적│기호        │번  호      │    │한글    │영 문   │월일  │                                │기호│번  호          ┃\n┃  ├──────┼┬┬───┬┼──┼────┼────┼───┼┬┬─┬┬┬─┬┬┬┬┬─┬┬┬┼┬─┼┰─┰┰─┰┰┰┨\n┃사│            │││      ││    │        │        │      │││  │││  │││││  │││││  │┃  ┃┃  ┃┃┃┃\n┃  │            │││      ││    │        │        │      │││  │││  │││││  │││├┼─┼╂─╂╂─╂╂╂┨\n┃항│            │││      ││    │        │        │      │││  │││  │││││  │││││  │┃  ┃┃  ┃┃┃┃\n┃  │            │││      ││    │        │        │      │││  │││  │││││  │││├┼─┼╂─╂╂─╂╂╂┨\n┃  │            │││      ││    │        │        │      │││  │││  │││││  │││││  │┃  ┃┃  ┃┃┃┃\n┃  ├──────┼┴┴───┴┴┬─┴───┬┴────┼───┼┴┴─┴┴┴─┴┴┴┴┴─┴┴┴┼┴─┴┸─┸┸─┸┸┸┨\n┃  │  지명      │시.도         │시.구.군  │읍.면.동  │동.리 │아 파 트 명 및 단 지 명         │번  지                ┃\n┃  │구분        │              │          │          │      │                                ├──┬────┰───┨\n┃  │            │              │          │          │      │                                │기호│번지    ┃호 수 ┃\n┃  ├──────┼───────┼─────┼─────┼───┼──────┬─────────┼──┼────╂───┨\n┃  │⑧          │              │          │          │      │            │                  │    │        ┃      ┃\n┃  │ 본 적      │              │          │          │      │            │                  │    │        ┃      ┃\n┃  ├──────┼───────┼─────┼─────┼───┼──────┼─────────┼──┼────╂───┨\n┃  │ ⑨         │              │          │          │      │            │                  │    │        ┃      ┃\n┃  │ 주 소      │              │          │          │      │            │                  │    │        ┃      ┃\n┠─┼──────┴───────┴─────┴─────┼───┴──────┴─────┬───┴──┴─┬──┸───┨\n┃통│⑩ 통  제  요  청  기  관                           │⑪통 제 구 분 코 드             │⑫통제사유      │⑬          ┃\n┃제├──────────┬────────┬──────┼──────┬─────────┤  코    드      │ 통제일자   ┃\n┃내│부처구분 코드       │국.실.청.과     │서.과.계    │제 1 코드   │제 2 코드         │                │            ┃\n┃용├──────────┼────────┼──────┼──────┼─────────┼────────┼──────┨\n┃  │                    │                │            │            │                  │                │            ┃\n┠─┼──────────┴────────┴──────┼──────┴─────────┼────────┴──────┨\n┃해│⑭ 해  제  요  청  기  관                           │⑮  해  제  사  유              │?해제일자                    ┃\n┃제├───────────┬───────┬──────┤   코         드                │                              ┃\n┃내│부처구분 코드         │국. 실. 청. 과│서. 과 . 계 │                                │                              ┃\n┃용├───────────┼───────┼──────┼────────────────┼───────────────┨\n┃  │                      │              │            │                                │                              ┃\n┗━┷━━━━━━━━━━━┷━━━━━━━┷━━━━━━┷━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━┛\n297㎜×210㎜(보존용지(1종) 70g/㎡)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090685",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123957",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090681",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123953",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090685",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123957",
           "name": "",
           "file_store_url": ""
         }
@@ -6939,17 +6950,17 @@
       "content": "■ 체납정리 사무처리에 관한 훈령 [별지 제7호서식]\n출국금지요청 체납자에 대한 조사사항\n1. 체납현황\n┌────┬───┬─────┬─────┬───────┬─────┐\n│체납자  │체  납│발생액(원)│납부액(원)│현 체납액(원) │발생 사유 │\n│(대표자)│발생일│          │          │              │          │\n├────┼───┼─────┼─────┼───────┼─────┤\n│        │      │          │          │              │          │\n└────┴───┴─────┴─────┴───────┴─────┘\n2. 체납자 재산 및 주거현황\n□ 재산현황 :\n□ 주소(거주)지 :\n□ 주소지 부동산 소유자 :\n□ 세대구성원 :\n□ 재산압류 및 체납액 충당현황 :\n□ 차량현황 :\n\n3. 가족의 재산상태 및 출입국현황\n4.  출국금지 요청사유\n위 조사자\n소 속 :\n직 급 :\n성 명 :        (서명 또는 인)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090691",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123963",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090687",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123959",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090691",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123963",
           "name": "",
           "file_store_url": ""
         }
@@ -6970,17 +6981,17 @@
       "content": "■ 체납정리 사무처리에 관한 훈령 [별지 제8호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃ 체납자 은닉재산 신고서                                                           ┃\n┠────┬───────┬────────┬─────┬────────┬────┨\n┃신고일  │              │신고방법        │          │접수번호        │        ┃\n┠────┼───────┼────────┼─────┼────────┴────┨\n┃신고인  │성 명         │           (인) │주민등록번호│                          ┃\n┃        ├───────┼────────┴─────┼────────┬────┨\n┃        │연락처        │                            │포상금 지급여부 │        ┃\n┃        ├───────┼────────┬─────┼────────┼────┨\n┃        │주 소         │                │중간 회신 여부│                │회신방법┃\n┃        │              │                │          │                ├────┨\n┃        │              │                │          │                │        ┃\n┃        │              │                ├─────┼────────┼────┨\n┃        │              │                │처리 결과 회신여부│                │회신방법┃\n┃        │              │                │          │                ├────┨\n┃        │              │                │          │                │        ┃\n┠────┼───────┼────────┼─────┴────────┼────┨\n┃체납자  │상호(성명)    │                │사업자등록번호              │        ┃\n┃        │              │                │(주민등록번호)              │        ┃\n┃        ├───────┼────────┴──────────────┼────┨\n┃        │주 소         │                                              │        ┃\n┃        ├───────┼───────────────────────┴────┨\n┃        │은닉재산      │                                                        ┃\n┃        │(구체적으로 기│                                                        ┃\n┃        │재)           │                                                        ┃\n┃        │              │                                                        ┃\n┠────┼───────┴────────────────────────────┨\n┃ 특이   │                                                                        ┃\n┃ 사항   │                                                                        ┃\n┃        │                                                                        ┃\n┠────┴─────────────────┬───┬───┬──────┬───┨\n┃                                            │ 결   │주 무 │과 장       │국 장 ┃\n┃ 접수자 :     급            (서명 또는      │ 재   ├───┼──────┼───┨\n┃인)                                         │      │      │            │      ┃\n┃                                            │      │      │            │      ┃\n┗━━━━━━━━━━━━━━━━━━━━━━┷━━━┷━━━┷━━━━━━┷━━━┛\n210㎜×297㎜(일반용지 60g/㎡(재활용품))",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090697",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123969",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090693",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123965",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090697",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123969",
           "name": "",
           "file_store_url": ""
         }
@@ -7001,17 +7012,17 @@
       "content": "■ 체납정리 사무처리에 관한 훈령 [별지 제9호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃체납자 은닉재산 신고 처리 대장                                                                                                ┃\n┠──┬───────────────────────┬────────┬───────────────────────────┨\n┃연  │체 납 자                                      │신고인          │신고내용 처리 결과                                    ┃\n┃번  ├────┬───────┬─────┬────┼───┬────┼─────┬────┬───────────┬────┨\n┃    │상 호   │사업자등록번호│체납자    │체 납 액│성 명 │신고내용│사해행위  │재산압류│체납액 징수           │포상금  ┃\n┃    │(성 명) │(생년월일)    │카드 번호 │        │      │        │취소소송  │        ├──┬────────┤지급액  ┃\n┃    │        │              │          │        │      │        │          │        │일자│징수액          │        ┃\n┃    │        │              │          │        │      │        │          │        │    ├──┬──┬──┤        ┃\n┃    │        │              │          │        │      │        │          │        │    │관세│VAT │기타│        ┃\n┠──┼────┼───────┼─────┼────┼───┼────┼─────┼────┼──┼──┼──┼──┼────┨\n┃    │        │              │          │        │      │        │          │        │    │    │    │    │        ┃\n┠──┼────┼───────┼─────┼────┼───┼────┼─────┼────┼──┼──┼──┼──┼────┨\n┃    │        │              │          │        │      │        │          │        │    │    │    │    │        ┃\n┠──┼────┼───────┼─────┼────┼───┼────┼─────┼────┼──┼──┼──┼──┼────┨\n┃    │        │              │          │        │      │        │          │        │    │    │    │    │        ┃\n┠──┼────┼───────┼─────┼────┼───┼────┼─────┼────┼──┼──┼──┼──┼────┨\n┃    │        │              │          │        │      │        │          │        │    │    │    │    │        ┃\n┠──┼────┼───────┼─────┼────┼───┼────┼─────┼────┼──┼──┼──┼──┼────┨\n┃    │        │              │          │        │      │        │          │        │    │    │    │    │        ┃\n┠──┼────┼───────┼─────┼────┼───┼────┼─────┼────┼──┼──┼──┼──┼────┨\n┃    │        │              │          │        │      │        │          │        │    │    │    │    │        ┃\n┗━━┷━━━━┷━━━━━━━┷━━━━━┷━━━━┷━━━┷━━━━┷━━━━━┷━━━━┷━━┷━━┷━━┷━━┷━━━━┛\n297㎜×210㎜(일반용지 60g/㎡(재활용품))",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090703",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123975",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090699",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123971",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090703",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123975",
           "name": "",
           "file_store_url": ""
         }
@@ -7032,17 +7043,17 @@
       "content": "■ 체납정리 사무처리에 관한 훈령 [별지 제10호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃제   호                                                                       ┃\n┃방문사실 안내문                                                               ┃\n┃                                                                              ┃\n┃                                                                              ┃\n┃수취인 :          귀하 (주소)                                                 ┃\n┃발송인 :    ○ ○ 세관  ○ ○ 과                                              ┃\n┃                                                                              ┃\n┃1. 귀하에게 (○○서(장) 교부, 체납액 납부독려 등 소재조사)를 위해 방문하      ┃\n┃였으나 부재중이어서 「방문사실 안내문」을 부착하고 갑니다.                    ┃\n┃                                                                              ┃\n┃2. 귀하의 ○○서(장)는 저희가 보관중이오니 본 안내문과 신분증을 가지고 오셔서 ┃\n┃찾아가시거나 귀하가 수령하기 편리한 시간?장소를 전화로 알려 주시면 가능한    ┃\n┃한 직접 교부해 드리도록 하겠습니다.                                           ┃\n┃                                                                              ┃\n┃      ? 평일?주간  (근무시간중) : 해당과 ☎                                 ┃\n┃      ? 공휴일?야간(22:00까지) : 당직실 ☎                                  ┃\n┃                                                                              ┃\n┃3. 귀하의 ○○서(장) 납부기한은   월   일 이오니 이 기간동안 납부하지         ┃\n┃못하시면 ?관세법? 제42조에 따라 그 납부기한이 경과한 날로부터 1일이 경과할  ┃\n┃때마다 체납된 관세 등의 0.022%에 상당하는 납부지연가산세를 가산하여 징수      ┃\n┃하게 됨을 알려드립니다.                                                       ┃\n┃                                                                              ┃\n┃4. 귀하가 체납액 납부에 관하여 저희 직원과 면담을 원하시는 경우 우리세관을    ┃\n┃방문하시거나 면담할 장소와 시간을 알려주시기 바랍니다.                        ┃\n┃                                                                              ┃\n┃※ 이 주소지에 상기 수취인이 거주하지 않는 경우라도 상기 수취인에게 연락      ┃\n┃가능한 경우 본 안내문의 내용을 알려주시기 바랍니다.                           ┃\n┃                                                                              ┃\n┃          직접교부 방문일자  :           년   월   일                         ┃\n┃                   방 문 자  : ○ ○ 세관  ○ ○ 과  (☏            )         ┃\n┃                                                                              ┃\n┃        ○ ○ 세관장  직인                                                    ┃\n┃                                                                              ┃\n┃                                                                              ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n(130㎜×170㎜)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090709",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123981",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090705",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123977",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090709",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123981",
           "name": "",
           "file_store_url": ""
         }
@@ -7063,17 +7074,17 @@
       "content": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃체납자별 체납된 내국세등 징수요청내역서                                                                                   ┃\n┠───┬─────────┬──────────┬──────────┬─────────┬───────────────┨\n┃인    │납세의무자        │성명(상호)          │                    │주민/법인등록번호 │                              ┃\n┃적    │                  ├──────────┼──────────┴─────────┴───────────────┨\n┃사    │                  │주소                │                                                                        ┃\n┃항    ├─────────┼──────────┼──────────┬─────────┬───────────────┨\n┃      │제2차 납세의무자  │성명(상호)          │                    │주민/법인등록번호 │                              ┃\n┃      │                  ├──────────┼──────────┴─────────┴───────────────┨\n┃      │                  │주소                │                                                                        ┃\n┃      ├─────────┴──────────┼────────────────────────────────────┨\n┃      │제2차 납세의무자 지정사유               │                                                                        ┃\n┠───┼────────────────────┼────────────────────────────────────┨\n┃체납  │체납요지                                │                                                                        ┃\n┃관리  ├────────────────────┼────────────────────────────────────┨\n┃현황  │소재조사 내역                           │                                                                        ┃\n┃      ├────────────────────┼────────────────────────────────────┨\n┃      │재산 현황                               │                                                                        ┃\n┃      ├────────────────────┼────────────────────────────────────┨\n┃      │기타                                    │                                                                        ┃\n┠───┼───────────┬────────┴─┬───────────────┬────────┬─────────┨\n┃요건  │불복청구              │회생계획인가 결정   │압류 등 체납처분 진행중       │체납처분 유예   │세관장 의견       ┃\n┃검토  ├───────────┼──────────┼───────────────┼────────┼─────────┨\n┃      │해  당(  )            │해  당(  )          │해  당(  )                    │해  당(  )      │                  ┃\n┃      │비해당(  )            │비해당(  )          │비해당(  )                    │비해당(  )      │                  ┃\n┠─┬─┼────────┬──┴─────────┬┴───────┬───────┴─┬──────┴┬────────┨\n┃징│총│체납 총 건수    │개별소비세              │교통에너지환경세│주세              │교육세        │농어촌특별세    ┃\n┃수│괄├────────┼────────────┼────────┼─────────┼───────┼────────┨\n┃요│  │                │                        │                │                  │              │                ┃\n┃청│  ├────────┴─┬──────────┴─┬──────┴────────┬┴───────┼────────┨\n┃  │  │부가가치세          │가산세                  │체납처분비                    │합계            │                ┃\n┃체│  ├──────────┼────────────┼───────────────┼────────┼────────┨\n┃납│  │                    │                        │                              │                │                ┃\n┃내├─┼───────┬──┴──┬──────┬──┴────┬────────┬─┴──────┬─┴──┬─────┨\n┃역│상│수입신고번호  │수입신고일자│납부자상호  │납부자성명    │제척기간만료여부│소멸시효완성일  │고지번호│최초고지일┃\n┃  │세├───────┼─────┼──────┼───────┼────────┼────────┼────┼─────┨\n┃  │  │              │          │            │              │                │                │        │          ┃\n┃  │  ├───────┼─────┼──────┼───────┼────────┼────────┼────┼─────┨\n┃  │  │최초 납부기한 │체납발생일│독촉(최고)일│최종 납부기한 │개별소비세      │교통에너지환경세│주세    │교육세    ┃\n┃  │  ├───────┼─────┼──────┼───────┼────────┼────────┼────┼─────┨\n┃  │  │              │          │            │              │                │                │        │          ┃\n┃  │  ├───────┼─────┴┬─────┴───┬───┴────────┼────────┼────┼─────┨\n┃  │  │농어촌특별세  │부가세      │가산세            │체납처분비              │합계            │비고    │          ┃\n┃  │  ├───────┼──────┼─────────┼────────────┼────────┼────┼─────┨\n┃  │  │              │            │                  │                        │                │        │          ┃\n┠─┴─┴───────┴──────┴─────────┴────────────┴────────┴────┴─────┨\n┃※ 상세 체납내역은 엑셀 양식으로 작성 가능                                                                                ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n■ 체납정리 사무처리에 관한 훈령 [별지 제11호서식]\n297㎜×210㎜(일반용지 60g/㎡(재활용품))",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090715",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123987",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090711",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123983",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090715",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123987",
           "name": "",
           "file_store_url": ""
         }
@@ -7094,17 +7105,17 @@
       "content": "■ 체납정리 사무처리에 관한 훈령 [별지 제12호서식]\n\n체납자료 신용정보기관 제공 예고 통지서\n\n00세관\n\n\n┌────┬──────┬───────────────────────────────┐\n│담당부서│            │체납세액 납부촉구 및 체납자료 신용정보기관                    │\n├────┼──────┤제공 예고 통지                                                │\n│담당자  │            │                                                              │\n├────┼──────┤                                                              │\n│전화번호│            │                                                              │\n├────┼──────┤                                                              │\n│통지일  │            │                                                              │\n├────┼──────┼───────────────────────────────┤\n│수신처  │성      명  │                                                              │\n│        ├──────┼───────────────────────────────┤\n│        │주      소  │                                                              │\n├────┴──────┴───────────────────────────────┤\n│                                                                                      │\n│                                                                                      │\n│   평소 관세행정 발전에 협조하여 주시는데 대하여 감사드립니다.                        │\n│                                                                                      │\n│                                                                                      │\n│                                                                                      │\n│   귀하께서 아래의 세금을 납부하지 아니하여 우리 세관에서는 그 동안 수차에 걸쳐 납부를│\n│                                                                                      │\n│  촉구하였으나 아직까지 납부되고 않고 있어 다시 한 번 촉구하오니 (              )까지 │\n│                                                                                      │\n│  납부하여 주시기 바랍니다.                                                           │\n│                                                                                      │\n│                                                                                      │\n│                                                                                      │\n│   만약, 체납세금을 납부하지 아니하면「관세법」제 44조 제 1항, 「신용정보의 이용 및   │\n│                                                                                      │\n│  보호에 관한 법률」 제 23조의 규정에 의하여 (            ) 이후에는 부득이 귀하의    │\n│                                                                                      │\n│  체납사항을 신용정보기관에 제공하게 됨을 알려드립니다.                               │\n│                                                                                      │\n│                                                                                      │\n│                                                                                      │\n│  이 경우 귀하께서는 금융기관으로부터 금융거래상 불이익을 받을 수 있으니 체납 세금을  │\n│                                                                                      │\n│  조속히 납부하여 주시기 바랍니다.                                                    │\n│                                                                                      │\n│                                                                                      │\n│                                                                                      │\n│  다만, 체납과 관련하여 불복청구(이의신청,심사청구,심판청구 등) 또는 행정소송 등이    │\n│                                                                                      │\n│  진행 중에 있는 경우에는 (         )까지 접수증 등 확인자료를 우리세관으로 제출하여  │\n│                                                                                      │\n│  주시고, 천재?지변 기타 일시적인 자금경색 등 부득이한 사유로 인하여 기간내 납부하기 │\n│                                                                                      │\n│  어려운 경우에는 (           )까지 담보제공 또는 분납확약등 소명자료를 제출하는 경우 │\n│                                                                                      │\n│  세관장이 믿을만한 납부의사가 있다고 인정되는 때에는 (            )까지 정보 제공을  │\n│                                                                                      │\n│  연기받을 수 있음을 알려드리니 적극 소명하여 주시기 바랍니다.                        │\n│                                                                                      │\n│                                                                                      │\n├───────────────────────────────────────────┤\n│아       래                                                                           │\n├───┬──────┬─────┬──────────┬───────────────┤\n│납세  │성명(상호)  │          │사업자(주민)등록번호│                              │\n│의무자├──────┼─────┴──────────┴───────────────┤\n│      │주소(사업장)│                                                                │\n├───┼──────┼─────┬──────────────────────────┤\n│체납  │고지건수    │체납발생일│체납액(결손액)                                      │\n│내역  ├──────┼─────┼──────────────────────────┤\n│      │            │          │                                                    │\n└───┴──────┴─────┴──────────────────────────┘\n\n위 내용에 대한 사항은 00세관 0000과 담당자 000(전화번호: 000-000-0000)에게 문의하여\n주시기 바랍니다.\n\n\n0 0 세관장 (인)\n\n\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090721",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123993",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090717",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123989",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090721",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123993",
           "name": "",
           "file_store_url": ""
         }
@@ -7125,17 +7136,17 @@
       "content": "■ 체납정리 사무처리에 관한 훈령 [별지 제13호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃관 세 청                                                                      ┃\n┃ 수신자                                                                       ┃\n┃ 제목 체납자 감치신청 대상자 선정 관련 사전안내문                             ┃\n┃                                                                              ┃\n┃  귀하께서 아래의 관세 등을 납부하지 않아 「관세법」제116조의4 및 같은 법 시행령 ┃\n┃제141조의10에 따른 고액?상습 체납자 감치신청 대상자에 해당하여, 관세정보위원 ┃\n┃회에서 귀하의 감치신청 여부를 심의할 예정입니다.                              ┃\n┃                                                                              ┃\n┃  감치신청 사유에 해당하지 않음을 증명할 만한 자료나 위원회에서 의견진술 의사 ┃\n┃를 서면으로 제출하여 주시기 바라며, 20  . 00. 00. 까지 제출이 없는 경우 귀하  ┃\n┃의 감치신청에 이의가 없는 것으로 간주합니다.                                  ┃\n┃                                                                              ┃\n┃  법원 결정시 최대 30일 범위 내에서 감치에 처할 수 있으며 체납된 세액을 납부한 ┃\n┃경우 감치 집행이 종료됨을 안내 드립니다.                                      ┃\n┃                                                                              ┃\n┠─┬──────┬─┬───────┬────────────────────┨\n┃납│성명(대표자)│  │생년월일      │                                        ┃\n┃세├──────┼─┼───────┼────────────────────┨\n┃의│상호(법인명)│  │사업자등록번호│                                        ┃\n┃무│            │  │(법인등록번호)│                                        ┃\n┃자├──────┼─┴───────┴────────────────────┨\n┃  │주소(사업장)│                                     (전화 :          )     ┃\n┠─┴──────┴──────────────────────────────┨\n┃관세 등 체납내역(총체납액 :          원)                    (단위 : 원)       ┃\n┠────┬────┬───┬─────┬───────────────────┨\n┃고지번호│관세    │내국세│합계      │납부기한                              ┃\n┠────┼────┼───┼─────┼───────────────────┨\n┃        │        │      │          │                                      ┃\n┠────┴────┴───┴─────┴───────────────────┨\n┃    감치신청의 원인이 되는 사유                                               ┃\n┠───────────────────────────────────────┨\n┃                                                                              ┃\n┠───────────────────────────────────────┨\n┃                                                                              ┃\n┃20   년   월   일                                                             ┃\n┃                                                                              ┃\n┃관 세 청 장 직인                                                              ┃\n┃                                                                              ┃\n┠───────────────────────────────────────┨\n┃ 그 밖에 감치신청 대상자 선정과 관련하여 궁금한 사항이 있으시면 관세청 세원심 ┃\n┃사과 담당자 ○○○ (☎          )에게 문의하시기 바랍니다.                    ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090727",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123999",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090723",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123995",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090727",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170123999",
           "name": "",
           "file_store_url": ""
         }
@@ -7156,17 +7167,17 @@
       "content": "\n■ 체납정리 사무처리에 관한 훈령 [별지 제14호서식]\n\n○   ○   세   관\n\n수신자\n(경유)\n\n제 목       체납액 징수업무 위탁 해지 통지\n──────────────────────────────────────────────────────────────────────\n아래 체납액을 징수하기 위하여 징수업무를 위탁하였으나, 아래와 같은 사유로 위탁을\n해지함을 알려드립니다.\n┏━━━━━━━━━┯━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━┯━━━━━━━━━┓\n┃체납자            │성  명                  │                                  │생 년 월 일                       │                  ┃\n┃                  │(상  호)                │                                  │(사업자등록번호)                  │                  ┃\n┃                  ├────────────┼─────────────────┴─────────────────┴─────────┨\n┃                  │주  소                  │                                                                                          ┃\n┃                  │(사업장)                │                                                                                          ┃\n┣━━━━━━━━━┷━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃                                 체납액의 내용                      (단위 : 원)                                                         ┃\n┠──────────┬──────────┬─────────────┬─────────────┬─────────────┬────┨\n┃납부서 번호         │납부기한            │관세                      │교통에너지환경세          │개별소비세                │주세    ┃\n┠──────────┼──────────┼─────────────┼─────────────┼─────────────┼────┨\n┃교육세              │부가가치세          │농어촌특별세              │계                        │                          │        ┃\n┠──────────┼──────────┼─────────────┼─────────────┼─────────────┼────┨\n┃                    │                    │                          │                          │                          │        ┃\n┠──────────┼──────────┼─────────────┼─────────────┼─────────────┼────┨\n┃                    │                    │                          │                          │                          │        ┃\n┠──────────┼──────────┼─────────────┼─────────────┼─────────────┼────┨\n┃                    │                    │                          │                          │                          │        ┃\n┠──────────┼──────────┼─────────────┼─────────────┼─────────────┼────┨\n┃                    │                    │                          │                          │                          │        ┃\n┣━━━━━━━━━━┷━━━━━━━━━━┷━━━━┯━━━━━━━━┷━━━━━━━━━━━━━┷━━━━━━━━━━━━━┷━━━━┫\n┃위탁 기간                                           │  20  .  .  . ~ 20  .  .  .                                                       ┃\n┠─────────┬────────────────┴─────────────────────────────────────────┨\n┃해지일자          │20  .  .  .                                                                                                         ┃\n┠─────────┼──────────────────────────────────────────────────────────┨\n┃해지 사유         │ [ ] 체납자의 납부의무가 소멸된 경우                                                                                ┃\n┃                  ├──────────────────────────────────────────────────────────┨\n┃                  │ [ ] 체납자가 담보를 제공하여 체납액 충당이 가능한 경우                                                             ┃\n┃                  ├──────────────────────────────────────────────────────────┨\n┃                  │ [ ] 한국자산관리공사에서 위탁해지를 요청한 경우                                                                    ┃\n┗━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n끝.\n\n\n\n○   ○   세   관   장\n\n\n\n\n\n\n\n기안자          직위(직급) 서명   검토자          직위(직급) 서명   결재권자              직위(직급) 서명\n\n\n\n협조자\n\n시행  처리과-일련번호               (시행일자)                      접수        처리과명-일련번호                           (접수일자)\n\n우  000000        (주소)                                                                      /   홈페이지 주소\n\n전화  000-000-0000            전송        000-000-0000    /   기안자의 공식전자우편주소                         /   공개구분\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090733",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124005",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090729",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124001",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090733",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124005",
           "name": "",
           "file_store_url": ""
         }
@@ -7187,17 +7198,17 @@
       "content": "■ 체납정리 사무처리에 관한 훈령 [별지 제15호서식]\n\n○   ○   세   관\n\n\n\n수신자\n\n(경유)\n\n제  목    체납액 징수업무 보류 요구\n────────────────────\n우리 세관이 위탁징수 의뢰한 아래 체납자에 대한 위탁징수 보류 사유가 발생하였으므로 별도 통보시까지 위탁징수업무를 보류하기 바랍니다.\n┏━━━━━━━┯━━━━━┯━━━━━━┯━━━━━━━━┯━━━━━━━┓\n┃체납자        │성  명    │            │생 년 월 일     │              ┃\n┃              │(상  호)  │            │(사업자등록번호)│              ┃\n┃              ├─────┼──────┴────────┴───────┨\n┃              │주  소    │                                              ┃\n┃              │(사업장)  │                                              ┃\n┣━━━━━━━┷━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━┫\n┃                 체납액의 내용               (단위: 원)                   ┃\n┠──────┬─────┬──────┬────────┬─────┬──┨\n┃납부서 번호 │납부기한  │관세        │교통에너지환경세│개별소비세│주세┃\n┠──────┼─────┼──────┼────────┼─────┼──┨\n┃교육세      │부가가치세│농어촌특별세│계              │          │    ┃\n┠──────┼─────┼──────┼────────┼─────┼──┨\n┃            │          │            │                │          │    ┃\n┠──────┼─────┼──────┼────────┼─────┼──┨\n┃            │          │            │                │          │    ┃\n┠──────┼─────┼──────┼────────┼─────┼──┨\n┃            │          │            │                │          │    ┃\n┠──────┼─────┼──────┼────────┼─────┼──┨\n┃            │          │            │                │          │    ┃\n┣━━━━━━┿━━━━━┷━━━━━━┷━━━━━━━━┷━━━━━┷━━┫\n┃위탁일자    │                                                            ┃\n┣━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃보류기간    │20  .  .  .~ 20   .  .  .                                   ┃\n┣━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃보류사유    │                                                            ┃\n┗━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n끝.\n\n\n○   ○   세   관   장\n\n\n\n\n\n\n\n기안자      직위(직급) 서명   검토자  직위(직급) 서명   결재권자  직위(직급) 서명\n\n\n\n협조자\n\n시행  처리과-일련번호           (시행일자)              접수  처리과명-일련번호               (접수일자)\n\n우  000000    (주소)                                                  /   홈페이지 주소\n\n전화  000-000-0000  전송          000-000-0000  /       기안자의 공식전자우편주소       /   공개구분\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090739",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124011",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090735",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124007",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090739",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124011",
           "name": "",
           "file_store_url": ""
         }
@@ -7218,17 +7229,17 @@
       "content": "■ 체납정리 사무처리에 관한 훈령 [별지 제16호서식]\n\n○   ○   세   관\n\n\n\n수신자\n\n(경유)\n\n제  목    위탁징수업무 계속 진행 요구\n─────────────────────\n우리 세관이 위탁징수 의뢰한 아래 체납자에 대한 위탁징수 보류 사유가 해소되었으므로 위탁징수업무를 계속 진행하기 바랍니다.\n┏━━━━━━━━┯━━━━━┯━━━━━━┯━━━━━━━━┯━━━━━━━┓\n┃체납자          │성  명    │            │생 년 월 일     │              ┃\n┃                │(상  호)  │            │(사업자등록번호)│              ┃\n┃                ├─────┼──────┴────────┴───────┨\n┃                │주  소    │                                              ┃\n┃                │(사업장)  │                                              ┃\n┣━━━━━━━━┷━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━┫\n┃                      체납액의 내용                 (단위: 원)              ┃\n┠───────┬─────┬──────┬────────┬─────┬──┨\n┃납부서 번호   │납부기한  │관세        │교통에너지환경세│개별소비세│주세┃\n┠───────┼─────┼──────┼────────┼─────┼──┨\n┃교육세        │부가가치세│농어촌특별세│계              │          │    ┃\n┠───────┼─────┼──────┼────────┼─────┼──┨\n┃              │          │            │                │          │    ┃\n┠───────┼─────┼──────┼────────┼─────┼──┨\n┃              │          │            │                │          │    ┃\n┠───────┼─────┼──────┼────────┼─────┼──┨\n┃              │          │            │                │          │    ┃\n┠───────┼─────┼──────┼────────┼─────┼──┨\n┃              │          │            │                │          │    ┃\n┣━━━━━━━┿━━━━━┷━━━━━━┷━━━━━━━━┷━━━━━┷━━┫\n┃당초위탁일자  │                                                            ┃\n┣━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃보류요구일자  │                                                            ┃\n┣━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃계속 진행 일자│                                                            ┃\n┣━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃계속 진행 사유│                                                            ┃\n┗━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n끝.\n\n○   ○   세   관   장\n\n\n\n\n\n\n\n기안자      직위(직급) 서명   검토자  직위(직급) 서명   결재권자  직위(직급) 서명\n\n\n\n협조자\n\n시행  처리과-일련번호           (시행일자)              접수  처리과명-일련번호               (접수일자)\n\n우  00000     (주소)                                                  /   홈페이지 주소\n\n전화  000-000-0000  전송          000-000-0000  /       기안자의 공식전자우편주소       /   공개구분\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090745",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124017",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090741",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124013",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090745",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124017",
           "name": "",
           "file_store_url": ""
         }
@@ -7249,17 +7260,17 @@
       "content": "■ 체납정리 사무처리에 관한 훈령 [별지 제17호서식]\n┌──────────────────────────────────────────┐\n│정 리 보 류  조 사 서                                                               │\n├───────┬─────┬──────┬────────┬────────────┤\n│체납자        │성  명    │            │생 년 월 일     │                        │\n│              │(상  호)  │            │(사업자등록번호)│                        │\n│              ├─────┼──────┴────────┴────────────┤\n│              │주  소    │                                                        │\n│              │(사업장)  │                                                        │\n├───────┴─────┴────────────────────────────┤\n│                      체납액의 내용                 (단위: 원)                      │\n├──────┬─────┬──────┬──────┬─────┬─────────┤\n│납부서 번호 │납부기한  │관세        │교통에너지환│개별소비세│주세              │\n│            │          │            │경세        │          │                  │\n├──────┼─────┼──────┼──────┼─────┼─────────┤\n│교육세      │부가가치세│농어촌특별세│계          │          │                  │\n├──────┼─────┼──────┼──────┼─────┼─────────┤\n│            │          │            │            │          │                  │\n├──────┼─────┼──────┼──────┼─────┼─────────┤\n│            │          │            │            │          │                  │\n├──────┴─────┴──────┴──────┴─────┴─────────┤\n│강제징수(조사) 사항                                                                 │\n├───────┬────────────────┬─────┬───────────┤\n│년 월 일      │내   용                         │해 당 여 부│처 리 결 과           │\n│              │                                │          │(해당있는 경우)       │\n├───────┼────────────────┼─────┼───────────┤\n│              │독촉장 발부                     │있음, 없음│                      │\n├───────┼────────────────┼─────┼───────────┤\n│              │사업장 재산조사결과 압류대상 자산│있음, 없음│                      │\n├───────┼────────────────┼─────┼───────────┤\n│              │사업장 영업여부에 대한 조사결과 │있음, 없음│                      │\n├───────┼────────────────┼─────┼───────────┤\n│              │주소지 재산조사결과 압류대상 재산│있음, 없음│                      │\n├───────┼────────────────┼─────┼───────────┤\n│              │회원권(골프·콘도 등) 조사결과  │있음, 없음│                      │\n├───────┼────────────────┼─────┼───────────┤\n│              │제2차 납세의무자, 연대납세의무자 등│있음, 없음│                      │\n├───────┼────────────────┼─────┼───────────┤\n│              │재산자료현황표, 수색조서 등 확인│있음, 없음│                      │\n│              │결과 압류대상자산               │          │                      │\n├───────┴────────────────┴─────┴───────────┤\n│                                                                                    │\n│ 상기와 같이 강제징수를 집행한 결과 (                    )로 더 이상 강제징수를 할  │\n│필요가 없다고 판단되므로 체납정리 사무처리에 관한 훈령 제19조에 의해 정리보류하     │\n│고 향후 재산 발견 시 정리보류 취소하여 징수하고자 합니다.                           │\n│                                                                                    │\n└──────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090751",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124023",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090747",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124019",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090751",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124023",
           "name": "",
           "file_store_url": ""
         }
@@ -7280,17 +7291,17 @@
       "content": "\n■ 체납정리 사무처리에 관한 훈령 [별지 제18호서식]    (앞쪽)\n\n행 정 기 관 명\n\n\n수신자\n(경유)\n제  목  재산 압류 통지\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n체납자가 체납한 관세(수입물품에 대하여 세관장이 부과?징수하는 내국세 포함)를\n징수하기 위해 아래의 재산을 압류하였음을 알려드립니다.\n(근거: 「국세징수법」 제40조제1항, 제45조제6항, 제55조제2항)\n┏━━━━━━━┯━━━━━━┯━━━━━━━━━━━━┯━━━━━━━━┯━━━━━━━━━━┓\n┃받는 사람     │성  명      │                        │생 년 월 일     │                    ┃\n┃              │(상  호)    │                        │(사업자등록번호)│                    ┃\n┃              ├──────┼────────────┴────────┴──────────┨\n┃              │주  소      │                                                                ┃\n┃              │(사업장)    │                                                                ┃\n┣━━━━━━━┿━━━━━━┿━━━━━━━━━━━━┯━━━━━━━━┯━━━━━━━━━━┫\n┃체납자        │성  명      │                        │생 년 월 일     │                    ┃\n┃              │(상  호)    │                        │(사업자등록번호)│                    ┃\n┃              ├──────┼────────────┴────────┴──────────┨\n┃              │주  소      │                                                                ┃\n┃              │(사업장)    │                                                                ┃\n┠───────┴──────┼────────────────────────────────┨\n┃압류재산의 표시             │                                                                ┃\n┠──────────────┼────────────────────────────────┨\n┃압류일                      │      년   월   일                                              ┃\n┠──────────────┴────────────────────────────────┨\n┃압류에 관계된 체납액의 내용                    (단위: 원)                                     ┃\n┠──────┬──────┬────────┬────────┬──────────┬────┨\n┃납부서 번호 │납부기한    │관세            │교통에너지환경세│개별소비세          │주세    ┃\n┠──────┼──────┼────────┼────────┼──────────┼────┨\n┃교육세      │부가가치세  │농어촌특별세    │계              │                    │        ┃\n┠──────┼──────┼────────┼────────┼──────────┼────┨\n┃            │            │                │                │                    │        ┃\n┠──────┼──────┼────────┼────────┼──────────┼────┨\n┃            │            │                │                │                    │        ┃\n┠──────┼──────┼────────┼────────┼──────────┼────┨\n┃            │            │                │                │                    │        ┃\n┠──────┼──────┼────────┼────────┼──────────┼────┨\n┃            │            │                │                │                    │        ┃\n┗━━━━━━┷━━━━━━┷━━━━━━━━┷━━━━━━━━┷━━━━━━━━━━┷━━━━┛\n귀하(귀사)가 우선권을 행사하고자 할 때에는 이 통지를 받은 날부터 10일 이내에 「국세기본법 시행\n령」 제18조제2항에 따라 그 사실을 증명하시기 바랍니다.  끝.\n\n┏━━━━┓\n발  신  명    ┃ 의 직인┃\n┗━━━━┛\n┌───────────────────────────────────────────────┐\n│이 통지에 대한 문의사항이 있을 때에는 ○○○과 담당자 ○○○(전화:               )에게 연락하시면│\n│친절하게 상담해 드리겠습니다.                                                                 │\n└───────────────────────────────────────────────┘\n\n\n\n\n기안자  직위(직급) 서명    검토자  직위(직급) 서명           결재권자  직위(직급) 서명\n\n협조자\n\n시행    처리과명-연도별 일련번호(시행일자)  접수          처리과명-연도별 일련번호(접수일자)\n\n우      도로명주소                              /   홈페이지 주소\n\n전화번호(   )     팩스번호(   )                 /   기안자의 공식전자우편주소   /   공개 구분\n─────────────────────────────────────────────────\n210㎜×297㎜[백상지 80g/㎡ 또는 중질지 80g/㎡]\n\n\n\n\n(뒤쪽)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n안내말씀\n───────────────────────────────────────────────────────────────\n1. 이 처분에 이의가 있으시면 압류통지서를 받은 날부터 90일 이내에 이의신청(세관, 30일 내 처리)을 거쳐 심사청구(세관 또\n는 관세청, 90일 내 처리) 또는 심판청구(조세심판원, 90일 내 처리)를 하거나, 이의신청을 거치지 않고 곧바로 심사청구\n또는 심판청구하거나 세관을 경유하여 감사원에 심사청구할 수 있습니다.\n\n2. 다음의 재산은 압류할 수 없습니다.\n① 체납자 또는 그 동거가족의 생활에 없어서는 아니 될 의복, 침구, 가구, 주방기구, 그 밖의 생활필수품\n② 체납자 또는 그 동거가족에게 필요한 3개월간의 식료품 또는 연료\n③ 인감도장이나 그 밖에 직업에 필요한 도장\n④ 제사 또는 예배에 필요한 물건, 비석 또는 묘지\n⑤ 체납자 또는 그 동거가족의 장례에 필요한 물건\n⑥ 족보ㆍ일기 등 체납자 또는 그 동거가족에게 필요한 장부 또는 서류\n⑦ 직무 수행에 필요한 제복\n⑧ 훈장이나 그 밖의 명예의 증표\n⑨ 체납자 또는 체납자의 동거가족의 학업에 필요한 서적과 기구\n⑩ 발명 또는 저작에 관한 것으로서 공표되지 않은 것\n⑪ 주로 자기의 노동력으로 농업을 하는 사람에게 없어서는 아니 될 기구, 가축, 사료, 종자, 비료, 그 밖에 이에 준하는 물건\n⑫ 주로 자기의 노동력으로 어업을 하는 사람에게 없어서는 아니 될 어망, 기구, 미끼, 새끼 물고기, 그 밖에 이에 준하는 물건\n⑬ 전문직 종사자ㆍ기술자ㆍ노무자, 그 밖에 주로 자기의 육체적 또는 정신적 노동으로 직업 또는 사업에 종사하는 사람에\n게 없어서는 아니 될 기구, 비품, 그 밖에 이에 준하는 물건\n⑭ 체납자 또는 그 동거가족의 일상생활에 필요한 안경ㆍ보청기ㆍ의치ㆍ의수족ㆍ지팡이ㆍ장애보조용 바퀴의자, 그 밖에 이\n에 준하는 신체보조기구 및 「자동차관리법」에 따른 경형자동차\n⑮ 재해의 방지 또는 보안을 위해 법령에 따라 설치해야 하는 소방설비, 경보기구, 피난시설, 그 밖에 이에 준하는 물건\n? 법령에 따라 지급되는 사망급여금 또는 상이급여금(傷痍給與金)\n? 「주택임대차보호법」 제8조에 따라 우선변제를 받을 수 있는 금액\n? 체납자의 생계 유지에 필요한 소액금융재산으로서 「국세징수법 시행령」 제31조에 따른 보장성보험의 보험금, 해약환급\n금 및 만기환급금과 개인별 잔액이 250만원 미만인 예금(적금, 부금, 예탁금과 우편대체를 포함)\n? 급료, 연금, 임금, 봉급, 상여금, 세비, 퇴직연금 등 급여채권 총액의 1/2에 해당하는 금액\n※ 급여채권 총액의 1/2에 해당하는 금액이 표준적인 가구의 최저생계비를 고려하여 「국세징수법 시행령」 제32조제1항\n에서 정하는 금액보다 적은 경우에는, 「국세징수법 시행령」 제32조제1항에서 정하는 금액을 압류할 수 없습니다.\n※ 급여채권 총액의 1/2에 해당하는 금액이 표준적인 가구의 생계비를 고려하여 「국세징수법 시행령」 제32조제2항에서\n정하는 금액을 초과하는 경우에는, 「국세징수법 시행령」 제32조제2항에서 정하는 금액에 한해 압류할 수 없습니다.\n───────────────────────────────────────────────────────────────\n210㎜×297㎜[백상지 80g/㎡ 또는 중질지 80g/㎡]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090759",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124031",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090753",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124025",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090759",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124031",
           "name": "",
           "file_store_url": ""
         }
@@ -7311,17 +7322,17 @@
       "content": "\n■ 체납정리 사무처리에 관한 훈령 [별지 제18호의2서식]   (앞쪽)\n\n행 정 기 관 명\n\n\n수신자\n(경유)\n제  목  수입물품 압류 통지\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n체납자가 체납한 관세(수입물품에 대하여 세관장이 부과?징수하는 내국세 포함)를\n징수하기 위해 아래의 재산을 압류하였음을 알려드립니다.\n(근거: 「국세징수법」 제40조제1항, 제45조제6항, 제55조제2항)\n┏━━━━━━━┯━━━━━━┯━━━━━━━━━━━━━┯━━━━━━━━┯━━━━━━━━━┓\n┃받는 사람     │성  명      │                          │생 년 월 일     │                  ┃\n┃              │(상  호)    │                          │(사업자등록번호)│                  ┃\n┃              ├──────┼─────────────┴────────┴─────────┨\n┃              │주  소      │                                                                ┃\n┃              │(사업장)    │                                                                ┃\n┣━━━━━━━┿━━━━━━┿━━━━━━━━━━━━━┯━━━━━━━━┯━━━━━━━━━┫\n┃체납자        │성  명      │                          │생 년 월 일     │                  ┃\n┃              │(상  호)    │                          │(사업자등록번호)│                  ┃\n┃              ├──────┼─────────────┴────────┴─────────┨\n┃              │주  소      │                                                                ┃\n┃              │(사업장)    │                                                                ┃\n┠───────┴──────┼────────────────────────────────┨\n┃압류재산의 표시             │                                                                ┃\n┠──────────────┼────────────────────────────────┨\n┃압류일                      │      년   월   일                                              ┃\n┠──────────────┴────────────────────────────────┨\n┃압류에 관계된 체납액의 내용                    (단위: 원)                                     ┃\n┠──────┬──────┬────────┬─────────┬─────────┬────┨\n┃납부서 번호 │납부기한    │관세            │교통에너지환경세  │개별소비세        │주세    ┃\n┠──────┼──────┼────────┼─────────┼─────────┼────┨\n┃교육세      │부가가치세  │농어촌특별세    │계                │                  │        ┃\n┠──────┼──────┼────────┼─────────┼─────────┼────┨\n┃            │            │                │                  │                  │        ┃\n┠──────┼──────┼────────┼─────────┼─────────┼────┨\n┃            │            │                │                  │                  │        ┃\n┠──────┼──────┼────────┼─────────┼─────────┼────┨\n┃            │            │                │                  │                  │        ┃\n┠──────┼──────┼────────┼─────────┼─────────┼────┨\n┃            │            │                │                  │                  │        ┃\n┗━━━━━━┷━━━━━━┷━━━━━━━━┷━━━━━━━━━┷━━━━━━━━━┷━━━━┛\n귀하(귀사)가 우선권을 행사하고자 할 때에는 이 통지를 받은 날부터 10일 이내에 「국세기본법 시행\n령」 제18조제2항에 따라 그 사실을 증명하시기 바랍니다.\n압류된 날부터 1개월 이내에 해당 물품의 가격에 상당하는 금액을 체납액 충당금으로 납부하지\n않으면 「관세법」 제208조에 따라 매각처분을 하며, 매각되지 아니하는 때에는 국고귀속하거\n나 폐기처리 할 것을 통고합니다.  끝.\n┏━━━━┓\n발  신  명    ┃ 의 직인┃\n┗━━━━┛\n┌───────────────────────────────────────────────┐\n│이 통지에 대한 문의사항이 있을 때에는 ○○○과 담당자 ○○○(전화:               )에게 연락하시면 │\n│친절하게 상담해 드리겠습니다.                                                                 │\n└───────────────────────────────────────────────┘\n\n\n\n\n기안자  직위(직급) 서명    검토자  직위(직급) 서명             결재권자  직위(직급) 서명\n\n협조자\n\n시행    처리과명-연도별 일련번호(시행일자)  접수            처리과명-연도별 일련번호(접수일자)\n\n우      도로명주소                              /   홈페이지 주소\n\n전화번호(   )     팩스번호(   )                 /   기안자의 공식전자우편주소   /   공개 구분\n─────────────────────────────────────────────────\n\n\n\n\n\n(뒤쪽)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n안내말씀\n───────────────────────────────────────────────────────────────\n1. 이 처분에 이의가 있으시면 압류통지서를 받은 날부터 90일 이내에 이의신청(세관, 30일 내 처리)을 거쳐 심사청구(세관 또\n는 관세청, 90일 내 처리) 또는 심판청구(조세심판원, 90일 내 처리)를 하거나, 이의신청을 거치지 않고 곧바로 심사청구\n또는 심판청구하거나 세관을 경유하여 감사원에 심사청구할 수 있습니다.\n\n2. 다음의 재산은 압류할 수 없습니다.\n① 체납자 또는 그 동거가족의 생활에 없어서는 아니 될 의복, 침구, 가구, 주방기구, 그 밖의 생활필수품\n② 체납자 또는 그 동거가족에게 필요한 3개월간의 식료품 또는 연료\n③ 인감도장이나 그 밖에 직업에 필요한 도장\n④ 제사 또는 예배에 필요한 물건, 비석 또는 묘지\n⑤ 체납자 또는 그 동거가족의 장례에 필요한 물건\n⑥ 족보ㆍ일기 등 체납자 또는 그 동거가족에게 필요한 장부 또는 서류\n⑦ 직무 수행에 필요한 제복\n⑧ 훈장이나 그 밖의 명예의 증표\n⑨ 체납자 또는 체납자의 동거가족의 학업에 필요한 서적과 기구\n⑩ 발명 또는 저작에 관한 것으로서 공표되지 않은 것\n⑪ 주로 자기의 노동력으로 농업을 하는 사람에게 없어서는 아니 될 기구, 가축, 사료, 종자, 비료, 그 밖에 이에 준하는 물건\n⑫ 주로 자기의 노동력으로 어업을 하는 사람에게 없어서는 아니 될 어망, 기구, 미끼, 새끼 물고기, 그 밖에 이에 준하는 물건\n⑬ 전문직 종사자ㆍ기술자ㆍ노무자, 그 밖에 주로 자기의 육체적 또는 정신적 노동으로 직업 또는 사업에 종사하는 사람에\n게 없어서는 아니 될 기구, 비품, 그 밖에 이에 준하는 물건\n⑭ 체납자 또는 그 동거가족의 일상생활에 필요한 안경ㆍ보청기ㆍ의치ㆍ의수족ㆍ지팡이ㆍ장애보조용 바퀴의자, 그 밖에 이\n에 준하는 신체보조기구 및 「자동차관리법」에 따른 경형자동차\n⑮ 재해의 방지 또는 보안을 위해 법령에 따라 설치해야 하는 소방설비, 경보기구, 피난시설, 그 밖에 이에 준하는 물건\n? 법령에 따라 지급되는 사망급여금 또는 상이급여금(傷痍給與金)\n? 「주택임대차보호법」 제8조에 따라 우선변제를 받을 수 있는 금액\n? 체납자의 생계 유지에 필요한 소액금융재산으로서 「국세징수법 시행령」 제31조에 따른 보장성보험의 보험금, 해약환급\n금 및 만기환급금과 개인별 잔액이 250만원 미만인 예금(적금, 부금, 예탁금과 우편대체를 포함)\n? 급료, 연금, 임금, 봉급, 상여금, 세비, 퇴직연금 등 급여채권 총액의 1/2에 해당하는 금액\n※ 급여채권 총액의 1/2에 해당하는 금액이 표준적인 가구의 최저생계비를 고려하여 「국세징수법 시행령」 제32조제1항\n에서 정하는 금액보다 적은 경우에는, 「국세징수법 시행령」 제32조제1항에서 정하는 금액을 압류할 수 없습니다.\n※ 급여채권 총액의 1/2에 해당하는 금액이 표준적인 가구의 생계비를 고려하여 「국세징수법 시행령」 제32조제2항에서\n정하는 금액을 초과하는 경우에는, 「국세징수법 시행령」 제32조제2항에서 정하는 금액에 한해 압류할 수 없습니다.\n───────────────────────────────────────────────────────────────\n\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090767",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124039",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090761",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124033",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090767",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124039",
           "name": "",
           "file_store_url": ""
         }
@@ -7342,17 +7353,17 @@
       "content": "\n■ 체납정리 사무처리에 관한 훈령 [별지 제19호서식]\n┌──────────────────────────────────────────────┐\n│                                                                                            │\n│                      압류물품 국고귀속 예정통지(서)                                        │\n│                    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━      │\n│                                                                                            │\n│                                                                                            │\n│우편번호                                                                                    │\n│주    소               ○  ○ 세 관 장                                                      │\n│우편번호                                                                                    │\n│주    소               귀하                                                                 │\n│                                                                                            │\n│                                    <접          는          선>                            │\n├──────────────────                                  ───────────┤\n│                                                                                            │\n│                                                                                            │\n│                                                                                            │\n│                                      ┌───────────┐                            │\n│                                      │관    인    생    략  │                            │\n│                                    ─┴───────────┘                            │\n│                                                                                            │\n│                                                                                            │\n│문서번호 :                                                                                  │\n│제    목 : 압류물품 국고귀속 예정통지                                                       │\n│1. 귀하에게 압류한 수입물품에 대하여     년    월    일까지 해당 물품의                     │\n│가격에 상당하는 금액을 체납액 충당금으로 납부할 것을 통고한 바 있습니다.                    │\n│                                                                                            │\n│2. 동 물품을 ?관세법? 제208조의 규정에 의하여 매각처분코저 하였으나 낙찰이                │\n│되지 아니하므로    년    월    일까지 유찰물품의 가격에 상당한 금액을 체납액                │\n│충당금으로 조속히 납부하여 주시기 바랍니다.                                                 │\n│                                                                                            │\n│3. 만약, 지정된 기일내에 납부하지 아니할 때에는 같은 법 제212조의 규정에                    │\n│의거 소유권을 포기한 것으로 보고 국고귀속 처리하게 됨을 알려드리오니 양지하                 │\n│시기 바랍니다.                                                                              │\n│                                                                                            │\n│                                                                                            │\n│                                                                                            │\n│                                    <접           는           선>                          │\n├──────────────────                                  ───────────┤\n│                                                                                            │\n│                                                                                            │\n│                                                                                            │\n│                                          물 품 의  표 시                                   │\n│                                        ───────────────                      │\n│                                                                                            │\n├─────────┬─────┬─────┬────┬───┬─────┬────┬────┤\n│화물관리번호      │입항년월일│선(기)명  │B/L No. │품  명│수 량     │중량(㎏)│장치장소│\n│(휴대품우편물번호)│          │          │        │      │          │        │        │\n├─────────┼─────┼─────┼────┼───┼─────┼────┼────┤\n│                  │          │          │        │      │          │        │        │\n├─────────┴─────┴─────┴────┴───┴─────┴────┴────┤\n│○ ○ 세 관 장 (인)                                                                         │\n├─────────┬───┬────────┬────┬────┬────┬────────┤\n│세관연락처        │담당자│                │전화번호│        │FAX번호 │                │\n└─────────┴───┴────────┴────┴────┴────┴────────┘\n\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090773",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124045",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090769",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124041",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090773",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124045",
           "name": "",
           "file_store_url": ""
         }
@@ -7373,17 +7384,17 @@
       "content": "■ 체납정리 사무처리에 관한 훈령 [별지 제20호서식]\n┌───────────────────────────────────────┐\n│사업에 관한 허가등의 제한 요구 예고통지                                       │\n│                                                                              │\n│                  귀하                                                        │\n│                                                                              │\n│  항상 관세행정에 협조해 주셔서 감사드립니다.                                 │\n│  귀하의 체납액에 대하여 여러차례 납부 안내를 드렸으나 0000년                 │\n│00월 00일 현재 납부되지 않고 있습니다.                                        │\n│  정당한 사유없이 사업과 관련된 관세 또는 내국세등을 (3회 이상)               │\n│체납한 경우 관세법 제326조의2(사업에 관한 허가 등의 제한)의                   │\n│규정에 따라 해당 사업의 주무관청에 사업의 허가?인가?면허 및                 │\n│등록 등을 취소(정지)하거나 갱신 금지를 요구할 수 있습니다.                    │\n│  귀하의 체납액을 오는     년   월   일까지 납부하지 아니할                   │\n│경우에는 귀하의 사업에 대하여 사업에 관한 허가등의 제한을 요구                │\n│할 예정이니, 아래 체납액의 내용을 확인하시고 조속히 납부하여                  │\n│불이익을 받는 일이 없도록 하시기 바랍니다.                                    │\n│                                                                              │\n│- 체납액의 내용 -                                                             │\n│                                                                              │\n│ (단위 : 원)                                                                  │\n│┏━━━━━━┯━━━━━┯━━━━━━┯━━━━━━━━┯━━━━━┯━━┓│\n│┃납부서 번호 │납부기한  │관세        │교통에너지환경세│개별소비세│주세┃│\n│┠──────┼─────┼──────┼────────┼─────┼──┨│\n│┃교육세      │부가가치세│농어촌특별세│계              │          │    ┃│\n│┠──────┼─────┼──────┼────────┼─────┼──┨│\n│┃            │          │            │                │          │    ┃│\n│┠──────┼─────┼──────┼────────┼─────┼──┨│\n│┃            │          │            │                │          │    ┃│\n│┠──────┼─────┼──────┼────────┼─────┼──┨│\n│┃            │          │            │                │          │    ┃│\n│┠──────┼─────┼──────┼────────┼─────┼──┨│\n│┃            │          │            │                │          │    ┃│\n│┗━━━━━━┷━━━━━┷━━━━━━┷━━━━━━━━┷━━━━━┷━━┛│\n│                                    .    .    .                               │\n│                   ○ ○  세관장 (인)                                         │\n│                                                                              │\n│   ※ 자세한 문의는 아래로 연락주시면 친절히 안내하여 드리겠습니다.           │\n│     ? 문의 전화 : ☎ ○○○-○○○-○○○○ (담당 :  ○○○)                │\n└───────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090779",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124051",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090775",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124047",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090779",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124051",
           "name": "",
           "file_store_url": ""
         }
@@ -7404,17 +7415,17 @@
       "content": "■ 체납정리 사무처리에 관한 훈령 [별지 제21호서식]\n\n행 정 기 관 명\n\n\n수신자\n(경유)\n\n제 목   사업에 관한 허가 등의 제한 요구\n─────────────────────────────────────────────\n아래 사람은 정당한 사유 없이 관세(수입물품에 대하여 세관장이 부과?징수하는 내국세\n포함)를 (3회 이상) 체납하였으므로 그 사업의 허가ㆍ인가ㆍ면허 및 등록 또는 갱신 등의 금\n지(정지ㆍ취소)를 요구하오니, 조치하시고 그 결과를 회신하여 주시기 바랍니다.\n(근거: 「관세법」 제326조의2 제1항 및 제2항)\n┏━┯━━━━━━┯━━━━━━━━━━━━━━┯━━━━┯━━━━━━━━━━━━━━┓\n┃납│성  명      │                            │주민등록번호│                            ┃\n┃세│(상  호)    │                            │(사업자등록번호)│                            ┃\n┃자├──────┼──────────────┼────┼──────────────┨\n┃  │주  소      │                            │전화번호│                            ┃\n┃  │(사업장)    │                            │        │                            ┃\n┃  ├──────┼──────────────┼────┼──────────────┨\n┃  │사업의 종류 │                            │종     목│                            ┃\n┣━┷━━━━━━┷━━━━━━━━━━━━━━┷━━━━┷━━━━━━━━━━━━━━┫\n┃체납액의 내용                            (단위: 원)                                   ┃\n┠────────┬──────────────┬────┬──────────────┨\n┃체납발생일      │                            │총 건수 │                            ┃\n┠──────┬─┴────┬─────┬───┴───┬┴────────┬─────┨\n┃관      세  │            │개별소비세│              │교통에너지환경세  │          ┃\n┠──────┼──────┼─────┼───────┼─────────┼─────┨\n┃부가가치세  │            │주      세│              │농어촌특별세      │          ┃\n┠──────┼──────┼─────┼───────┼─────────┼─────┨\n┃가  산  세  │            │교  육  세│              │과다환급가산금    │          ┃\n┠──────┼──────┴─────┴───────┴─────────┴─────┨\n┃합 계       │                                                                        ┃\n┠──────┴────────────────────────────────────┨\n┃ 기타 필요한 사항 :                                                                   ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n끝.\n┏━━━━┓\n발  신  명    ┃ 의 직인┃\n┗━━━━┛\n\n\n\n기안자  직위(직급) 서명    검토자  직위(직급)서명      결재권자  직위 (직급)서명\n\n협조자\n\n시행       처리과-일련번호(시행일자)  접수            처리과명-일련번호(접수일자)\n\n우        주소                            /   홈페이지 주소\n\n전화(  )            전송(  )              /   기안자의 공식전자우편주소   /   공개구분\n─────────────────────────────────────────────\n\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090785",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124057",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090781",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124053",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163090785",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170124057",
           "name": "",
           "file_store_url": ""
         }
@@ -7429,19 +7440,11 @@
   ],
   "attachments": [
     {
-      "name": "체납정리 사무처리에 관한 훈령 개정전문.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=163077923",
-      "filename": "체납정리 사무처리에 관한 훈령 개정전문.pdf",
+      "name": "3.체납정리 사무처리에 관한 훈령  개정전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170053403",
+      "filename": "3.체납정리 사무처리에 관한 훈령  개정전문.hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/체납정리 사무처리에 관한 훈령 개정전문.pdf",
-      "file_store_url": ""
-    },
-    {
-      "name": "체납정리 사무처리에 관한 훈령 개정전문.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=163077919",
-      "filename": "체납정리 사무처리에 관한 훈령 개정전문.hwpx",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/체납정리 사무처리에 관한 훈령 개정전문.hwpx",
+      "local_path": "첨부파일/3.체납정리 사무처리에 관한 훈령  개정전문.hwpx",
       "file_store_url": ""
     }
   ],
@@ -7463,9 +7466,9 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 17,
+    "addenda_count": 18,
     "appendices_count": 26,
-    "attachments_count": 2
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/체납정리 사무처리에 관한 훈령"
