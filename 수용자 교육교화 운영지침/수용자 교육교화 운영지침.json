@@ -1,25 +1,25 @@
 {
   "law_id": "37584",
-  "mst": "2100000220728",
+  "mst": "2100000285778",
   "law_name": "수용자 교육교화 운영지침",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:37584",
-  "promulgation_no": "1317",
-  "promulgation_date": "20230314",
-  "enforcement_date": "20230314",
-  "revision_date": "20230314",
+  "promulgation_no": "1393",
+  "promulgation_date": "20261002",
+  "enforcement_date": "20261002",
+  "revision_date": "20261002",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "법무부(사회복귀과)",
-    "담당자명": "박병훈",
+    "담당자명": "라구현",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "수용자 교육교화 운영지침",
-    "발령일자": "20230314",
+    "발령일자": "20261002",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "02-2110-3413",
     "제개정구분명": "일부개정",
     "소관부처코드": "1270000",
-    "생성일자": "20230315",
+    "생성일자": "20261002",
     "행정규칙ID": "37584",
-    "시행일자": "20230314",
+    "시행일자": "20261002",
     "담당부서기관코드": "1271765",
-    "발령번호": "1317",
-    "행정규칙일련번호": "2100000220728",
+    "발령번호": "1393",
+    "행정규칙일련번호": "2100000285778",
     "상위부처명": "법무부"
   },
-  "amendment_text": "",
-  "revision_reason": "◇ 개정 이유\n○ 수형자 집중인성교육 과정 등의 효율적 운영을 위한 교육 대상 및 용어 정비\n○ 수기장부 폐지 및 불필요한 업무 최소화를 위한 관련 규정 정비\n◇ 주요 내용\n가. 수기장부 폐지 및 교정정보시스템 대체에 따른 규정 정비(제5조 제1항)\n- ‘별지 제4호 서식’이 2022. 2. 3. 개정 시 삭제되었음에도 여전히 제5조에 규정되어 있고, 상ㆍ하반기 법무부 보고 관련 사항 또한 교정정보시스템으로 대체됨에 따라 해당 내용을 현실에 맞게 정비함\n나. 석방 전 교육대상자 명확화(제9조 제1항)\n- 석방 전 교육대상자를 형기종료 2개월 내외의 자와 가석방 적격심사신청자로 명확히 규정하되, 교육 수료 후 출소하지 못하는 경우를 고려하여 석방 전 교육은 수용 기간 중 1회로 한함을 명시함\n다. 교정정보시스템을 통한 석방 전 교육 제외자 관리 시행에 따른 관련 규정 정비(제10조)\n- 교정정보시스템 상 석방 전 교육 제외자 입력 메뉴 신설을 통해 교육 제외자 관리가 가능하도록 개선됨에 따라,\n- 기존 ‘동정관찰에 의한다’라는 내용을 ‘그 외’ 교육대상자로 선정하는 것이 적절하지 않은 경우로 개정하여 교정정보시스템 대체에 따른 내용을 반영함\n라. 효율적인 집중인성교육 과정 운영을 위해 형기주기별 재교육 대상자 교육을 기본교육 시행 시 포함할 수 있도록 관련 근거 신설(제12조 제3항)\n- 형기주기별 재교육 대상자에 대한 교육을 기본교육 과정 시행 시 포함하여 실시할 수 있도록 개선하되,\n- 재교육(50시간) 과정과 기본교육(70시간) 과정의 교육 시간이 상이함을 고려하여 본인의 의사를 고려하여 형기주기별 재교육 시간을 초과하여 교육할 수 있도록 관련 규정을 정비함\n마. 집중인성교육 유예자의 유예 사유 해소 이후 교육 시행에 관한 사항 정비(제15조 제2항)\n- 현행 집중인성교육 유예자는 유예 사유 해소 시 이후 개시되는 교육과정의 교육대상자로 선정하여 교육하여야 함을 규정하고 있어, 반목 관계 수형자 등 예외적인 경우(이 경우 제15조 제1항 제4호에 따라 교육유예자로 관리)에도 의무적으로 교육대상자로 선정하여야 한다는 오해 소지가 있음\n- 제15조 제1항 제4호(기타 교육을 이수하지 못할 특별한 사유)를 중심으로 하는 유예 사유 존재 여부에 대한 판단과정을 명시적으로 규정하고, 유예 사유가 해소되었다고 판단되는 경우에만 이후 교육과정 대상자로 포함시켜 교육하도록 정비하여 안정적인 교육운영을 도모하고자 함\n바. 수기장부 폐기에 따른 교정정보시스템 입력 사항 및 절차 변경(제25조 제1항, 제30조 제2항ㆍ제3항, 제34조 제1항ㆍ제2항, 제35조 제1항ㆍ제3항, 제43조 제2항, 제62조 제3항ㆍ제4항)",
+  "amendment_text": "⊙법무부예규 제1393호\n수용자 교육교화 운영지침을 다음과 같이 개정한다.\n2026년 10월 2일\n법무부장관\n수용자 교육교화 운영지침 일부개정\n수용자 교육교화 운영지침을 다음과 같이 개정한다.\n제8조의 제목을 \"외국어 교육\"에서 \"외국어 교육 등\"으로 변경한다.\n제8조 제②항을 다음과 같이 신설한다.\n제8조(외국어 교육 등) ② 소장은 원격교육을 시행할 수 있으며, 이 경우 유해사이트 접속 방지 프로그램 설치 등 보안대책을 수립하고, 교육 진행 시간에 한하여 독립 무선랜망에 접속할 수 있도록 하여야 한다.\n제12조 제②항 2호를 다음과 같이 변경한다.\n제12조(교육대상 및 시간 등) ② 집중인성교육은 기본교육과 재교육으로 구분하고, 각 교육별 교육대상자와 교육시간은 다음 각 호와 같다.\n2. 재교육 : 기본교육 수료 후 5년 경과 수형자, 50시간.\n제12조 제⑦항을 다음과 같이 신설한다.\n제12조(교육대상 및 시간 등) ⑦ 심리치료 및 중독재활 프로그램 등 대상자의 이수시간을 집중인성교육 시간으로 인정한다.\n제14조 제①항 4호를 삭제한다.\n제17조에 \"소속 직원 또는 교정기관의 내부강사\"를 \"외부강사 또는 내부강사\"로 변경한다.\n제58조에 \"소장은\"을 삭제하고, \"특별활동반을 다음 각호와 같이 운영할 수 있다\"를 \"특별활동반의 범위는 다음과 같다\"로 변경한다.\n제59조에 \"2개 종목 이상의 특별활동반을 기관의 실정에 맞게 구성ㆍ운영할 수 있으며, 종목별 인원은 5명 이상으로 한다\"를 \"특별활동반을 기관의 실정에 맞게 구성 및 운영할 수 있다\"로 변경한다.\n제67조 제①항의 단서 \"단, 조사자와 징벌자는 제1호에 한한다\"를 삭제한다.\n제12조 제③항, 제12조 제⑤항, 제14조 제③항에 \"형기주기별 재교육\"을 \"재교육\"으로 변경한다.\n부칙\n이 지침은 발령한 날부터 시행한다.",
+  "revision_reason": "◇ 개정 이유\n○ 원격교육의 제도적 근거를 마련하고 집중인성교육의 효율적 운영 도모\n○ 기관별 교육여건을 고려한 현장맞춤형 운영기준 완화 및 개선\n○ 조사ㆍ징벌자에 대한 사진 반입 규정 완화를 통해 불필요한 규정 및 업무 개선\n◇ 주요 내용\n가. 독립 무선랜망 접속을 통한 원격교육 근거 마련(안 제8조 제②항)\n나. 집중인성교육 형기주기별 재교육에서 신청에 의한 재교육 삭제\n(안 제12조 제②항)\n다. 심리치료 등 타 교육프로그램 이수시간을 집중인성교육 시간으로 인정(안 제12조 제⑦항)\n라. 특별활동반 운영 기준 완화(안 제59조)\n마. 사진 반입 허가 시 단서조항 삭제(안 제67조 제①항)\n바. 기타 업무 현행화 및 용어 정비",
   "body": {
     "format": "articles",
     "article_count": 73,
@@ -158,7 +158,7 @@
         "article_title": "정의",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제2조(정의) 이 지침에 사용하는 용어의 뜻은 다음과 같다.1. \"집중인성교육\"이란 인간으로서의 기본적인 자질과 태도, 품성을 배양하기 위한 교육을 말한다.2. \"편지\"란 「우편법」제1조의2제7호의 ‘서신’을 말한다.3. \"신문등\"이란「신문 등의 진흥에 관한 법률」,「잡지 등 정기간행물의 진흥에 관한 법률」및「출판문화산업 진흥법」에 따라 발간된 신문ㆍ도서ㆍ잡지를 말한다.4. \"비치도서\"란 수용자에게 열람시킬 목적으로 구입, 발간 또는 수증하여 도서원부에 등재한 도서를 말한다.5. \"교화방송\"이란 수용자에게 정서안정 및 사회복귀에 필요한 정보와 지식을 습득시키거나 고지사항을 전하기 위하여 시행하는 방송을 말한다.6. \"특별활동반\"이란 수용자의 적성에 맞는 예능 및 체능의 소질을 발굴ㆍ개발하기 위하여 운영하는 것을 말한다.",
+        "content": "제2조(정의) 이 지침에 사용하는 용어의 뜻은 다음과 같다.1. \"집중인성교육\"이란 인간으로서의 기본적인 자질과 태도, 품성을 배양하기 위한 교육을 말한다.2. \"편지\"란 「우편법」 제1조의2제7호의 ‘서신’을 말한다.3. \"신문등\"이란「신문 등의 진흥에 관한 법률」,「잡지 등 정기간행물의 진흥에 관한 법률」및「출판문화산업 진흥법」에 따라 발간된 신문ㆍ도서ㆍ잡지를 말한다.4. \"비치도서\"란 수용자에게 열람시킬 목적으로 구입, 발간 또는 수증하여 도서원부에 등재한 도서를 말한다.5. \"교화방송\"이란 수용자에게 정서안정 및 사회복귀에 필요한 정보와 지식을 습득시키거나 고지사항을 전하기 위하여 시행하는 방송을 말한다.6. \"특별활동반\"이란 수용자의 적성에 맞는 예능 및 체능의 소질을 발굴ㆍ개발하기 위하여 운영하는 것을 말한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -290,7 +290,27 @@
             "target_category": "법령",
             "source_article_no": "제4조",
             "source_clause": "제4조제1항",
-            "link_text": "규칙 제108조부터 113조에",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "37584",
+            "target_url": "https://www.law.go.kr/법령/형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수용자교육교화운영지침#JO0004",
+            "reference_id": "law:형의집행및수용자의처우에관한법률시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행규칙/형의 집행 및 수용자의 처우에 관한 법률 시행규칙.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제108조",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
             "target_article_no": "제108조",
@@ -301,106 +321,6 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0004",
             "reference_id": "law:형의집행및수용자의처우에관한법률시행규칙#JO0108",
-            "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행규칙/형의 집행 및 수용자의 처우에 관한 법률 시행규칙.json"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제4조",
-            "source_clause": "제4조제1항",
-            "link_text": "규칙 제108조부터 113조에",
-            "line_text": "",
-            "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
-            "target_article_no": "제109조",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/법령/형의 집행 및 수용자의 처우에 관한 법률 시행규칙/제109조",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:수용자교육교화운영지침#JO0004",
-            "reference_id": "law:형의집행및수용자의처우에관한법률시행규칙#JO0109",
-            "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행규칙/형의 집행 및 수용자의 처우에 관한 법률 시행규칙.json"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제4조",
-            "source_clause": "제4조제1항",
-            "link_text": "규칙 제108조부터 113조에",
-            "line_text": "",
-            "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
-            "target_article_no": "제110조",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/법령/형의 집행 및 수용자의 처우에 관한 법률 시행규칙/제110조",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:수용자교육교화운영지침#JO0004",
-            "reference_id": "law:형의집행및수용자의처우에관한법률시행규칙#JO0110",
-            "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행규칙/형의 집행 및 수용자의 처우에 관한 법률 시행규칙.json"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제4조",
-            "source_clause": "제4조제1항",
-            "link_text": "규칙 제108조부터 113조에",
-            "line_text": "",
-            "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
-            "target_article_no": "제111조",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/법령/형의 집행 및 수용자의 처우에 관한 법률 시행규칙/제111조",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:수용자교육교화운영지침#JO0004",
-            "reference_id": "law:형의집행및수용자의처우에관한법률시행규칙#JO0111",
-            "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행규칙/형의 집행 및 수용자의 처우에 관한 법률 시행규칙.json"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제4조",
-            "source_clause": "제4조제1항",
-            "link_text": "규칙 제108조부터 113조에",
-            "line_text": "",
-            "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
-            "target_article_no": "제112조",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/법령/형의 집행 및 수용자의 처우에 관한 법률 시행규칙/제112조",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:수용자교육교화운영지침#JO0004",
-            "reference_id": "law:형의집행및수용자의처우에관한법률시행규칙#JO0112",
-            "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행규칙/형의 집행 및 수용자의 처우에 관한 법률 시행규칙.json"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제4조",
-            "source_clause": "제4조제1항",
-            "link_text": "규칙 제108조부터 113조에",
-            "line_text": "",
-            "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
-            "target_article_no": "제113조",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/법령/형의 집행 및 수용자의 처우에 관한 법률 시행규칙/제113조",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:수용자교육교화운영지침#JO0004",
-            "reference_id": "law:형의집행및수용자의처우에관한법률시행규칙#JO0113",
             "target_repo": "LAW",
             "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행규칙/형의 집행 및 수용자의 처우에 관한 법률 시행규칙.json"
           }
@@ -422,7 +342,27 @@
             "target_category": "법령",
             "source_article_no": "제5조",
             "source_clause": "제5조제1항",
-            "link_text": "규칙 제108조에",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "37584",
+            "target_url": "https://www.law.go.kr/법령/형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수용자교육교화운영지침#JO0005",
+            "reference_id": "law:형의집행및수용자의처우에관한법률시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행규칙/형의 집행 및 수용자의 처우에 관한 법률 시행규칙.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제108조",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
             "target_article_no": "제108조",
@@ -454,7 +394,27 @@
             "target_category": "법령",
             "source_article_no": "제6조",
             "source_clause": "제6조",
-            "link_text": "규칙 제109조에",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "37584",
+            "target_url": "https://www.law.go.kr/법령/형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수용자교육교화운영지침#JO0006",
+            "reference_id": "law:형의집행및수용자의처우에관한법률시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행규칙/형의 집행 및 수용자의 처우에 관한 법률 시행규칙.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제109조",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
             "target_article_no": "제109조",
@@ -488,7 +448,7 @@
         "article_title": "외국어 교육",
         "chapter": "제1절 학과교육 등",
         "chapter_path": "제2장 교육 > 제1절 학과교육 등",
-        "content": "제8조(외국어 교육) 소장은 규칙 제113조에 따라 외국어 교육을 실시하는 경우 선발시험 성적 및 실력정도에 따라 반을 편성할 수 있다.",
+        "content": "제8조(외국어 교육) ① 소장은 규칙 제113조에 따라 외국어 교육을 실시하는 경우 선발시험 성적 및 실력정도에 따라 반을 편성할 수 있다.② 소장은 원격교육을 시행할 수 있으며, 이 경우 유해사이트 접속 방지 프로그램 설치 등 보안대책을 수립하고, 교육 진행 시간에 한하여 독립 무선랜망에 접속할 수 있도록 하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -496,8 +456,28 @@
             "delegation_type": null,
             "target_category": "법령",
             "source_article_no": "제8조",
-            "source_clause": "제8조",
-            "link_text": "규칙 제113조에",
+            "source_clause": "제8조제1항",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "37584",
+            "target_url": "https://www.law.go.kr/법령/형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수용자교육교화운영지침#JO0008",
+            "reference_id": "law:형의집행및수용자의처우에관한법률시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행규칙/형의 집행 및 수용자의 처우에 관한 법률 시행규칙.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "제113조",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
             "target_article_no": "제113조",
@@ -540,7 +520,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115141",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035353",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0009",
             "target_unit": "BJ0039",
@@ -579,7 +559,7 @@
         "article_title": "교육대상 및 시간 등",
         "chapter": "제3절 집중인성교육",
         "chapter_path": "제2장 교육 > 제3절 집중인성교육",
-        "content": "제12조(교육대상 및 시간 등) ① 소장은 모든 수형자를 대상으로 집중인성교육을 시행하여야 한다.② 집중인성교육은 기본교육과 형기주기별 재교육으로 구분하고, 각 교육별 교육대상자와 교육시간은 다음 각 호와 같다.1. 기본교육 : 잔여형기 3개월 이상 수형자, 70시간. 다만, 잔여형기는 기결입소일 또는 이입일을 기준으로 한다.2. 형기주기별 재교육 : 신청에 의한 재교육과 의무 재교육으로 구분하고, 교육대상자와 교육시간은 다음 각 목과 같다.가. 신청에 의한 재교육 : 교육 수료 후 3년 경과 수형자, 50시간.나. 의무 재교육 : 교육 수료 후 5년 경과 수형자, 50시간.다. 삭제③ 집중인성교육의 효율적 운영 등을 위하여 형기주기별 재교육 대상자에 대한 교육을 기본교육 과정 시행 시 포함하여 실시할 수 있고, 이 경우 본인의 의사를 고려하여 형기주기별 재교육 시간을 초과하여 교육할 수 있다.④ 소장은 집중인성교육의 원활한 운영을 위하여 필요한 교육실 등 교육환경 조성을 위해 노력하여야 하며, 다음 각 호의 내용을 중심으로 교육과정을 편성하여야 한다.1. 권리의무사항, 분류처우, 직업훈련, 의료처우, 교육교화 업무 등 수용생활 오리엔테이션2. 준법교육, 인문학교육, 동기부여, 분노조절, 가족관계회복, 의사소통기술, 긍정심리, 문화예술교육, 효행교육 등3. 기타 수형자의 교화 또는 건전한 사회복귀에 필요한 교육⑤ 집중인성교육 기본교육과 형기주기별 재교육은 각 교정시설에서 시행한다.⑥ 각 교육별 교육시간의 80% 이상을 이수한 경우 집중인성교육을 수료한 것으로 인정한다.",
+        "content": "제12조(교육대상 및 시간 등) ① 소장은 모든 수형자를 대상으로 집중인성교육을 시행하여야 한다.② 집중인성교육은 기본교육과 재교육으로 구분하고, 각 교육별 교육대상자와 교육시간은 다음 각 호와 같다.1. 기본교육 : 잔여형기 3개월 이상 수형자, 70시간. 다만, 잔여형기는 기결입소일 또는 이입일을 기준으로 한다.2. 재교육 : 기본교육 수료 후 5년 경과 수형자, 50시간.③ 집중인성교육의 효율적 운영 등을 위하여 재교육 대상자에 대한 교육을 기본교육 과정 시행 시 포함하여 실시할 수 있고, 이 경우 본인의 의사를 고려하여 재교육 시간을 초과하여 교육할 수 있다.④ 소장은 집중인성교육의 원활한 운영을 위하여 필요한 교육실 등 교육환경 조성을 위해 노력하여야 하며, 다음 각 호의 내용을 중심으로 교육과정을 편성하여야 한다.1. 권리의무사항, 분류처우, 직업훈련, 의료처우, 교육교화 업무 등 수용생활 오리엔테이션2. 준법교육, 인문학교육, 동기부여, 분노조절, 가족관계회복, 의사소통기술, 긍정심리, 문화예술교육, 효행교육 등3. 기타 수형자의 교화 또는 건전한 사회복귀에 필요한 교육⑤ 집중인성교육 기본교육과 재교육은 각 교정시설에서 시행한다.⑥ 각 교육별 교육시간의 80% 이상을 이수한 경우 집중인성교육을 수료한 것으로 인정한다.⑦ 심리치료 및 중독재활 프로그램 등 대상자의 이수시간을 집중인성교육 시간으로 인정한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -601,7 +581,7 @@
         "article_title": "교육면제",
         "chapter": "제3절 집중인성교육",
         "chapter_path": "제2장 교육 > 제3절 집중인성교육",
-        "content": "제14조(교육면제) ① 소장은 수형자가 다음 각 호의 어느 하나에 해당하는 경우에는 교육을 면제할 수 있다.1. 65세 이상인 자2. 노역장 유치자3. 외국인4. 심리치료프로그램 대상자 중 집중인성교육 기본교육 수료 기준시간 이상의 교육을 이수한 자5. 삭제6. 정신적ㆍ신체적 장애, 질병 등으로 교육이 부적합하다고 인정되는 자7. 기타 교육 분위기를 저해할 우려가 있는 자② 소장은 제1항 제6호 및 제7호에 해당하는 경우에는 집중인성교육 면제자 및 면제사유를 교정정보시스템에 입력ㆍ관리하여야 한다.③ 면제자의 경우에도 본인의 신청에 의해 기본교육과 형기주기별 재교육을 이수할 수 있다.",
+        "content": "제14조(교육면제) ① 소장은 수형자가 다음 각 호의 어느 하나에 해당하는 경우에는 교육을 면제할 수 있다.1. 65세 이상인 자2. 노역장 유치자3. 외국인4. 삭제5. 삭제6. 정신적ㆍ신체적 장애, 질병 등으로 교육이 부적합하다고 인정되는 자7. 기타 교육 분위기를 저해할 우려가 있는 자② 소장은 제1항 제6호 및 제7호에 해당하는 경우에는 집중인성교육 면제자 및 면제사유를 교정정보시스템에 입력ㆍ관리하여야 한다.③ 면제자의 경우에도 본인의 신청에 의해 기본교육과 재교육을 이수할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -643,7 +623,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115021",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035173",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0016",
             "target_unit": "BJ0009",
@@ -660,7 +640,7 @@
         "article_title": "교육강사 등",
         "chapter": "제3절 집중인성교육",
         "chapter_path": "제2장 교육 > 제3절 집중인성교육",
-        "content": "제17조(교육강사 등) ① 소장은 소속 직원 또는 교정기관의 내부강사를 활용하여 집중인성교육을 시행할 수 있다.② 소장은 예산의 범위 내에서 외부강사수당 및 교육에 소요된 재료비를 지급할 수 있다.③ 소장은 집중인성교육에 필요한 강사 양성을 위하여 소속직원을 외부기관에 위탁하여 교육할 수 있다.",
+        "content": "제17조(교육강사 등) ① 소장은 외부강사 또는 내부강사를 활용하여 집중인성교육을 시행할 수 있다.② 소장은 예산의 범위 내에서 외부강사수당 및 교육에 소요된 재료비를 지급할 수 있다.③ 소장은 집중인성교육에 필요한 강사 양성을 위하여 소속직원을 외부기관에 위탁하여 교육할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -671,7 +651,7 @@
         "article_title": "우편송달 외 편지",
         "chapter": "제3장 편지업무",
         "chapter_path": "제3장 편지업무",
-        "content": "제18조(우편송달 외 편지) ① 수용자는 일반 우편역무 외 법무부 전자민원서비스를 통한 전자(인터넷) 우편을 받을 수 있다. 단, 전자(인터넷) 서신 처리에 관하여는 법 제43조에 따른다.1. 삭제2. 삭제② 소장은 기관 사정을 고려하여 전자(인터넷) 우편의 수취횟수, 수취방식 등을 달리 정할 수 있다.",
+        "content": "제18조(우편송달 외 편지) ① 수용자는 일반 우편역무 외 법무부 전자민원서비스를 통한 전자(인터넷) 우편을 받을 수 있다. 단, 전자(인터넷) 서신 처리에 관하여는 법  제43조에 따른다.1. 삭제2. 삭제② 소장은 기관 사정을 고려하여 전자(인터넷) 우편의 수취횟수, 수취방식 등을 달리 정할 수 있다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -680,7 +660,7 @@
             "target_category": "법령",
             "source_article_no": "제18조",
             "source_clause": "제18조제1항",
-            "link_text": "법",
+            "link_text": "",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률",
             "target_article_no": "",
@@ -755,7 +735,7 @@
         "article_title": "금지물품 등의 확인",
         "chapter": "제3장 편지업무",
         "chapter_path": "제3장 편지업무",
-        "content": "제20조(금지물품 등의 확인) ① 소장은 영 제65조제1항 본문에 의해 제출된 수용자의 봉함된 편지에 법령으로 금지된 물품이 들어있다고 의심할만한 상당한 이유가 있는 경우 개봉하여 확인할 수 있다.② 소장은 수용자가 주고받는 편지에 법 제92조에서 정한 금지물품이 동봉된 경우 지체없이 조사 등 필요한 조치를 하여야 한다.③ 소장은 수용자에게 발송된 편지에 법 제92조에서 정한 금지물품 외의 물품이 동봉된 경우 법 제27조 및 규칙 제22조에 따라 반입 여부를 판단하여야 한다.④ 소장은 제3항에 따라 판단한 결과 편지에 전자물품, 의약품, 우표 등 반입이 허용되지 않는 물품이 들어 있는 경우 수용자에게 그 사실을 고지한 후 발송인에게 반송하고, 반송이 어려운 경우에는 보관하여야 한다. 다만, 음식물 등 보관이 부적당한 경우에는 수용자 본인의 동의를 얻어 폐기한다.⑤ 제2항, 제3항 및 제4항의 경우 ‘편지동봉물품 확인대장’(별지 제10호서식)에 그 내용을 기록하여야 한다.",
+        "content": "제20조(금지물품 등의 확인) ① 소장은 영  제65조제1항 본문에 의해 제출된 수용자의 봉함된 편지에 법령으로 금지된 물품이 들어있다고 의심할만한 상당한 이유가 있는 경우 개봉하여 확인할 수 있다.② 소장은 수용자가 주고받는 편지에 법  제92조에서 정한 금지물품이 동봉된 경우 지체없이 조사 등 필요한 조치를 하여야 한다.③ 소장은 수용자에게 발송된 편지에 법  제92조에서 정한 금지물품 외의 물품이 동봉된 경우 법  제27조 및 규칙  제22조에 따라 반입 여부를 판단하여야 한다.④ 소장은 제3항에 따라 판단한 결과 편지에 전자물품, 의약품, 우표 등 반입이 허용되지 않는 물품이 들어 있는 경우 수용자에게 그 사실을 고지한 후 발송인에게 반송하고, 반송이 어려운 경우에는 보관하여야 한다. 다만, 음식물 등 보관이 부적당한 경우에는 수용자 본인의 동의를 얻어 폐기한다.⑤ 제2항, 제3항 및 제4항의 경우 ‘편지동봉물품 확인대장’(별지 제10호서식)에 그 내용을 기록하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -764,7 +744,7 @@
             "target_category": "법령",
             "source_article_no": "제20조",
             "source_clause": "제20조제1항",
-            "link_text": "영",
+            "link_text": "",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행령",
             "target_article_no": "",
@@ -864,7 +844,7 @@
             "target_category": "법령",
             "source_article_no": "제20조",
             "source_clause": "제20조제3항",
-            "link_text": "규칙",
+            "link_text": "칙",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
             "target_article_no": "",
@@ -915,7 +895,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115025",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035179",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0020",
             "target_unit": "BJ0010",
@@ -932,7 +912,7 @@
         "article_title": "편지수수 금지자 명부관리",
         "chapter": "제3장 편지업무",
         "chapter_path": "제3장 편지업무",
-        "content": "제21조(편지수수 금지자 명부관리) ① 소장은 법 제43조제1항 각 호의 어느 하나에 해당하는 수용자에 대하여는 ‘편지수수 금지자 명부’(별지 제11호서식)에 기록ㆍ관리하여야 하며, 편지수수 금지사유를 해당 수용자에게 통보하여야 한다.② 소장은 법 제43조제1항제2호와 제3호에 따라 편지수수 금지를 결정할 경우 교도관 회의를 거쳐야 하며, 금지 사유 및 기간을 정확히 명시하여야 한다.③ 편지수수가 금지된 수용자의 편지 중 발신은 본인에게 되돌려 주고, 수신에 대하여는 직원이 보관ㆍ관리하여야 한다.④ 소장은 편지수수 금지기간이 해제된 수용자의 보관 편지는 업무절차에 따라 처리한 후 신속히 전달하여야 한다.",
+        "content": "제21조(편지수수 금지자 명부관리) ① 소장은 법  제43조제1항 각 호의 어느 하나에 해당하는 수용자에 대하여는 ‘편지수수 금지자 명부’(별지 제11호서식)에 기록ㆍ관리하여야 하며, 편지수수 금지사유를 해당 수용자에게 통보하여야 한다.② 소장은 법  제43조제1항제2호와 제3호에 따라 편지수수 금지를 결정할 경우 교도관 회의를 거쳐야 하며, 금지 사유 및 기간을 정확히 명시하여야 한다.③ 편지수수가 금지된 수용자의 편지 중 발신은 본인에게 되돌려 주고, 수신에 대하여는 직원이 보관ㆍ관리하여야 한다.④ 소장은 편지수수 금지기간이 해제된 수용자의 보관 편지는 업무절차에 따라 처리한 후 신속히 전달하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -941,7 +921,7 @@
             "target_category": "법령",
             "source_article_no": "제21조",
             "source_clause": "제21조제1항",
-            "link_text": "법",
+            "link_text": "",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률",
             "target_article_no": "",
@@ -992,7 +972,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115029",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035185",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0021",
             "target_unit": "BJ0011",
@@ -1006,7 +986,7 @@
             "target_category": "법령",
             "source_article_no": "제21조",
             "source_clause": "제21조제2항",
-            "link_text": "법",
+            "link_text": "",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률",
             "target_article_no": "",
@@ -1049,7 +1029,7 @@
         "article_title": "편지검열",
         "chapter": "제3장 편지업무",
         "chapter_path": "제3장 편지업무",
-        "content": "제22조(편지검열) ① 소장은 법 제43조제4항제4호 및 영 제66조제1항 및 제2항에 따라 수용자 간의 편지를 검열한다.② 소장은 제1항에 해당되지 않는 수용자의 편지는 법 제43조제4항제1호 내지 제3호 및 영 제66조제3항에 따라 검열한다.③ 소장은 법 제43조제4항 단서에 따라 검열한 결과 발송 금지 등 특별한 사유가 있는 경우 그 사유와 주요 내용을 ‘개인 편지표’(별지 제12호서식)에 기록하여야 한다.④ 소장은 법 제43조제4항에 따라 검열한 결과 그 내용이 수용처우 및 교정행정 불만 등에 관련된 경우 주요 내용을 ‘교정정보시스템 동정관찰’에 기록하고, 관계 부서에 통보, 그 사실관계 등을 확인한 후 신속히 처리하여야 한다.",
+        "content": "제22조(편지검열) ① 소장은 법  제43조제4항제4호 및 영  제66조제1항 및 제2항에 따라 수용자 간의 편지를 검열한다.② 소장은 제1항에 해당되지 않는 수용자의 편지는 법  제43조제4항제1호 내지 제3호 및 영  제66조제3항에 따라 검열한다.③ 소장은 법  제43조제4항 단서에 따라 검열한 결과 발송 금지 등 특별한 사유가 있는 경우 그 사유와 주요 내용을 ‘개인 편지표’(별지 제12호서식)에 기록하여야 한다.④ 소장은 법  제43조제4항에 따라 검열한 결과 그 내용이 수용처우 및 교정행정 불만 등에 관련된 경우 주요 내용을 ‘교정정보시스템 동정관찰’에 기록하고, 관계 부서에 통보, 그 사실관계 등을 확인한 후 신속히 처리하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1078,7 +1058,7 @@
             "target_category": "법령",
             "source_article_no": "제22조",
             "source_clause": "제22조제1항",
-            "link_text": "영",
+            "link_text": "",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행령",
             "target_article_no": "",
@@ -1138,7 +1118,7 @@
             "target_category": "법령",
             "source_article_no": "제22조",
             "source_clause": "제22조제2항",
-            "link_text": "영",
+            "link_text": "",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행령",
             "target_article_no": "",
@@ -1209,7 +1189,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115033",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035191",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0022",
             "target_unit": "BJ0012",
@@ -1246,7 +1226,7 @@
         "article_title": "편지 발신 및 수신 금지",
         "chapter": "제3장 편지업무",
         "chapter_path": "제3장 편지업무",
-        "content": "제23조(편지 발신 및 수신 금지) ① 소장은 수용자가 주고받는 편지의 내용이 법 제43조제5항 각 호의 어느 하나에 해당하는 경우 발신 또는 수신을 금지하고, 법 제43조제7항에 따라 처리하여야 한다.② 제1항의 경우 사실관계를 정확히 파악하기 위하여 조사 등의 절차를 거쳐 객관성을 확보하여야 한다.",
+        "content": "제23조(편지 발신 및 수신 금지) ① 소장은 수용자가 주고받는 편지의 내용이 법  제43조제5항 각 호의 어느 하나에 해당하는 경우 발신 또는 수신을 금지하고, 법  제43조제7항에 따라 처리하여야 한다.② 제1항의 경우 사실관계를 정확히 파악하기 위하여 조사 등의 절차를 거쳐 객관성을 확보하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1255,7 +1235,7 @@
             "target_category": "법령",
             "source_article_no": "제23조",
             "source_clause": "제23조제1항",
-            "link_text": "법",
+            "link_text": "",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률",
             "target_article_no": "",
@@ -1295,7 +1275,7 @@
             "target_category": "법령",
             "source_article_no": "제23조",
             "source_clause": "제23조제1항",
-            "link_text": "법",
+            "link_text": "",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률",
             "target_article_no": "",
@@ -1378,7 +1358,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115041",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035203",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0024",
             "target_unit": "BJ0014",
@@ -1406,20 +1386,10 @@
         "article_title": "우편사서함 운용",
         "chapter": "제3장 편지업무",
         "chapter_path": "제3장 편지업무",
-        "content": "제26조(우편사서함 운용) ① 소장은 수용자 또는 그 가족 등의 개인정보를 보호하고 우편물의 신속 정확한 수발을 위하여 우편사서함을 설치ㆍ운용하여야 한다.② 우편사서함 운용에 따른 수용자의 주소, 성명 등의 표기 방식은 다음과 같이 통일한다.[그림]",
+        "content": "제26조(우편사서함 운용) ① 소장은 수용자 또는 그 가족 등의 개인정보를 보호하고 우편물의 신속 정확한 수발을 위하여 우편사서함을 설치ㆍ운용하여야 한다.② 우편사서함 운용에 따른 수용자의 주소, 성명 등의 표기 방식은 다음과 같이 통일한다.",
         "enforcement_date": "",
         "relations": [],
-        "images": [
-          {
-            "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126114329",
-            "seq": "126114329",
-            "filename": "제26조_1.gif",
-            "file_dir": "본문이미지",
-            "local_path": "본문이미지/제26조_1.gif",
-            "file_store_url": ""
-          }
-        ],
+        "images": [],
         "provision_id": "admrul:수용자교육교화운영지침#JO0026"
       },
       {
@@ -1427,7 +1397,7 @@
         "article_title": "성상의 크기",
         "chapter": "제4장 신앙생활 및 수용생활 지원",
         "chapter_path": "제4장 신앙생활 및 수용생활 지원",
-        "content": "제27조(성상의 크기) ① 소장은 규칙 제31조제2항에 따라 성상을 설치할 때에는 수용시설의 규모, 수용정원 등 기관 실정을 감안하여 크기를 결정하여야 한다.② 제1항의 성상은 대형, 중형, 소형으로 구분하며 표준규격은 다음과 같다.[그림]",
+        "content": "제27조(성상의 크기) ① 소장은 규칙 제31조제2항에 따라 성상을 설치할 때에는 수용시설의 규모, 수용정원 등 기관 실정을 감안하여 크기를 결정하여야 한다.② 제1항의 성상은 대형, 중형, 소형으로 구분하며 표준규격은 다음과 같다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1436,7 +1406,27 @@
             "target_category": "법령",
             "source_article_no": "제27조",
             "source_clause": "제27조제1항",
-            "link_text": "규칙 제31조제2항에",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "37584",
+            "target_url": "https://www.law.go.kr/법령/형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수용자교육교화운영지침#JO0027",
+            "reference_id": "law:형의집행및수용자의처우에관한법률시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행규칙/형의 집행 및 수용자의 처우에 관한 법률 시행규칙.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제27조",
+            "source_clause": "제27조제1항",
+            "link_text": "제31조제2항",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
             "target_article_no": "제31조",
@@ -1451,17 +1441,7 @@
             "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행규칙/형의 집행 및 수용자의 처우에 관한 법률 시행규칙.json"
           }
         ],
-        "images": [
-          {
-            "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126114331",
-            "seq": "126114331",
-            "filename": "제27조_1.gif",
-            "file_dir": "본문이미지",
-            "local_path": "본문이미지/제27조_1.gif",
-            "file_store_url": ""
-          }
-        ],
+        "images": [],
         "provision_id": "admrul:수용자교육교화운영지침#JO0027"
       },
       {
@@ -1489,7 +1469,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115049",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035215",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0028",
             "target_unit": "BJ0016",
@@ -1514,7 +1494,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115053",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035221",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0028",
             "target_unit": "BJ0017",
@@ -1595,7 +1575,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115065",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035239",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0033",
             "target_unit": "BJ0020",
@@ -1612,7 +1592,7 @@
         "article_title": "비치도서 운영 및 관리",
         "chapter": "제5장 비치도서 운영ㆍ관리",
         "chapter_path": "제5장 비치도서 운영ㆍ관리",
-        "content": "제34조(비치도서 운영 및 관리) ① 소장은 법 제46조 및 영 제72조에 따른 비치도서의 재단면 및 표지 등에  \"○○기관소장도서\"를 표시를 하여야 하며, 「한국십진분류법」의 강목을 준용하여 교정정보시스템에 입력ㆍ관리하여야 한다. .② 소장은 매월 1회 비치도서 관리실태를 확인하고 그 내용을 교정정보시스템에 기록ㆍ유지하여야 한다.",
+        "content": "제34조(비치도서 운영 및 관리) ① 소장은 법  제46조 및 영  제72조에 따른 비치도서의 재단면 및 표지 등에 \"○○기관소장도서\"를 표시를 하여야 하며, 「한국십진분류법」의 강목을 준용하여 교정정보시스템에 입력ㆍ관리하여야 한다. .② 소장은 매월 1회 비치도서 관리실태를 확인하고 그 내용을 교정정보시스템에 기록ㆍ유지하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1641,7 +1621,7 @@
             "target_category": "법령",
             "source_article_no": "제34조",
             "source_clause": "제34조제1항",
-            "link_text": "영",
+            "link_text": "",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행령",
             "target_article_no": "",
@@ -1684,7 +1664,7 @@
         "article_title": "비치도서 대여 및 반납",
         "chapter": "제5장 비치도서 운영ㆍ관리",
         "chapter_path": "제5장 비치도서 운영ㆍ관리",
-        "content": "제35조(비치도서 대여 및 반납) ① 소장은 교정정보시스템상 소장도서 목록과 일치된 비치도서목록을 수용동 등에 비치하고, 도서의 열람 및 대여를 허용하여야 한다.② 소장은 수용자가 비치도서 열람을 희망할 경우 미리 ‘비치도서 열람 신청서’(별지 제23호서식)를 수용동 또는 작업장 담당직원에게 제출하게 하여야 한다.③ 비치도서를 대여할 때에는 그 내용을 교정정보시스템에 기록하여야 하며,  대여기간은 2주일 이내에서 소장이 정한다. 다만, 도서 보유 수량 등 기관 사정에 따라 그 기간을 연장할 수 있다.④ 대여기간이 만료되거나 열람이 끝난 도서는 지체 없이 반납하도록 하여야 하며, 수용자의 석방, 이송 등의 사유가 발생한 경우에는 대여한 도서를 즉시 회수하여야 한다.⑤ 소장은 수용자의 1회 대여가능한 도서의 권수를 정하되, 금치 처분을 받은 수용자에 대해서는 그 종류와 권수를 달리 정할 수 있다.",
+        "content": "제35조(비치도서 대여 및 반납) ① 소장은 교정정보시스템상 소장도서 목록과 일치된 비치도서목록을 수용동 등에 비치하고, 도서의 열람 및 대여를 허용하여야 한다.② 소장은 수용자가 비치도서 열람을 희망할 경우 미리 ‘비치도서 열람 신청서’(별지 제23호서식)를 수용동 또는 작업장 담당직원에게 제출하게 하여야 한다.③ 비치도서를 대여할 때에는 그 내용을 교정정보시스템에 기록하여야 하며, 대여기간은 2주일 이내에서 소장이 정한다. 다만, 도서 보유 수량 등 기관 사정에 따라 그 기간을 연장할 수 있다.④ 대여기간이 만료되거나 열람이 끝난 도서는 지체 없이 반납하도록 하여야 하며, 수용자의 석방, 이송 등의 사유가 발생한 경우에는 대여한 도서를 즉시 회수하여야 한다.⑤ 소장은 수용자의 1회 대여가능한 도서의 권수를 정하되, 금치 처분을 받은 수용자에 대해서는 그 종류와 권수를 달리 정할 수 있다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1704,7 +1684,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115077",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035257",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0035",
             "target_unit": "BJ0023",
@@ -1786,7 +1766,7 @@
         "article_title": "신문등 구독",
         "chapter": "제6장 신문 등 구독 및 지급",
         "chapter_path": "제6장 신문 등 구독 및 지급",
-        "content": "제40조(신문등 구독) ① 소장은 수용자가 신문등을 구독하고자 할 때에는 「보관금품 관리지침」 제11조제2항에 따른 ‘보관금 사용 신청 및 전달서’를 작성ㆍ제출하게 하여야 한다.② 소장은 수용자가 신문등의 구독을 신청하는 때에는 법 제47조제2항에 따른 유해간행물 여부를 확인하여야 하며, 제출한 ‘보관금 사용 신청 및 전달서’를 정리ㆍ관리하여야 한다.③ 소장은 매월 1회 이상 신문등의 구독신청을 받아야 하며, 기관 및 지역실정을 고려하여 그 횟수를 늘릴 수 있다. 다만 신문구독은 사회의 신문보급 관행에 따라 1개월 단위로 한다.",
+        "content": "제40조(신문등 구독) ① 소장은 수용자가 신문등을 구독하고자 할 때에는 「보관금품 관리지침」 제11조제2항에 따른 ‘보관금 사용 신청 및 전달서’를 작성ㆍ제출하게 하여야 한다.② 소장은 수용자가 신문등의 구독을 신청하는 때에는 법  제47조제2항에 따른 유해간행물 여부를 확인하여야 하며, 제출한 ‘보관금 사용 신청 및 전달서’를 정리ㆍ관리하여야 한다.③ 소장은 매월 1회 이상 신문등의 구독신청을 받아야 하며, 기관 및 지역실정을 고려하여 그 횟수를 늘릴 수 있다. 다만 신문구독은 사회의 신문보급 관행에 따라 1개월 단위로 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1835,7 +1815,7 @@
             "target_category": "법령",
             "source_article_no": "제40조",
             "source_clause": "제40조제2항",
-            "link_text": "법",
+            "link_text": "",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률",
             "target_article_no": "",
@@ -1887,7 +1867,27 @@
             "target_category": "법령",
             "source_article_no": "제41조",
             "source_clause": "제41조",
-            "link_text": "규칙 제16조제2항에",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "37584",
+            "target_url": "https://www.law.go.kr/법령/형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수용자교육교화운영지침#JO0041",
+            "reference_id": "law:형의집행및수용자의처우에관한법률시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행규칙/형의 집행 및 수용자의 처우에 관한 법률 시행규칙.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제41조",
+            "source_clause": "제41조",
+            "link_text": "제16조제2항",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
             "target_article_no": "제16조",
@@ -1921,7 +1921,7 @@
         "article_title": "우송ㆍ차입 도서 전달",
         "chapter": "제6장 신문 등 구독 및 지급",
         "chapter_path": "제6장 신문 등 구독 및 지급",
-        "content": "제42조의2(우송ㆍ차입 도서 전달) ① 소장은 민원인이 우송ㆍ차입을 통해 수용자에게 도서, 잡지를 건네줄 것을 신청한 경우에는 영 제41조에 따른 신분확인을 하여야 한다. 단, 교정정보시스템 지인정보로 신분확인이 되거나 종교단체 등 민원인의 신분이 명백한 경우에는 예외로 한다.② 소장은 우송ㆍ차입 도서, 잡지 반입을 수용자별 1일 5권 이내로 허가한다. 단, 교화상 특히 필요한 경우에는 1일 반입 수량을 초과하여 허가할 수 있다.",
+        "content": "제42조의2(우송ㆍ차입 도서 전달) ① 소장은 민원인이 우송ㆍ차입을 통해 수용자에게 도서, 잡지를 건네줄 것을 신청한 경우에는 영  제41조에 따른 신분확인을 하여야 한다. 단, 교정정보시스템 지인정보로 신분확인이 되거나 종교단체 등 민원인의 신분이 명백한 경우에는 예외로 한다.② 소장은 우송ㆍ차입 도서, 잡지 반입을 수용자별 1일 5권 이내로 허가한다. 단, 교화상 특히 필요한 경우에는 1일 반입 수량을 초과하여 허가할 수 있다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1930,7 +1930,7 @@
             "target_category": "법령",
             "source_article_no": "제42조의2",
             "source_clause": "제42조의2제1항",
-            "link_text": "영",
+            "link_text": "",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행령",
             "target_article_no": "",
@@ -1993,7 +1993,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115089",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035275",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0043",
             "target_unit": "BJ0026",
@@ -2038,7 +2038,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115093",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035281",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0043",
             "target_unit": "BJ0027",
@@ -2097,7 +2097,27 @@
             "target_category": "법령",
             "source_article_no": "제47조",
             "source_clause": "제47조제1항",
-            "link_text": "규칙 제37조제2항에",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "37584",
+            "target_url": "https://www.law.go.kr/법령/형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수용자교육교화운영지침#JO0047",
+            "reference_id": "law:형의집행및수용자의처우에관한법률시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행규칙/형의 집행 및 수용자의 처우에 관한 법률 시행규칙.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제47조",
+            "source_clause": "제47조제1항",
+            "link_text": "제37조제2항",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
             "target_article_no": "제37조",
@@ -2131,7 +2151,7 @@
         "article_title": "방송구분",
         "chapter": "제7장 교화방송, 집필 및 특별활동반",
         "chapter_path": "제7장 교화방송, 집필 및 특별활동반",
-        "content": "제49조(방송구분) ① 통합방송은 일반, 교육, 라디오로 구분하여 운영하며 시청 및 청취 대상은 다음 각호와 같다.1. 일반, 라디오: 수용자2. 교육: 초ㆍ중등 검정고시 자격시험 등을 준비하는 수용자3. 삭제4. 삭제② 제1항에도 불구하고 독거자ㆍ조사자 등의 통합방송 시청 또는 청취는 법 제48조제2항에 따라 기관실정에 맞게 적의 운영한다.",
+        "content": "제49조(방송구분) ① 통합방송은 일반, 교육, 라디오로 구분하여 운영하며 시청 및 청취 대상은 다음 각호와 같다.1. 일반, 라디오: 수용자2. 교육: 초ㆍ중등 검정고시 자격시험 등을 준비하는 수용자3. 삭제4. 삭제② 제1항에도 불구하고 독거자ㆍ조사자 등의 통합방송 시청 또는 청취는 법  제48조제2항에 따라 기관실정에 맞게 적의 운영한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -2140,7 +2160,7 @@
             "target_category": "법령",
             "source_article_no": "제49조",
             "source_clause": "제49조제2항",
-            "link_text": "법",
+            "link_text": "",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률",
             "target_article_no": "",
@@ -2192,7 +2212,27 @@
             "target_category": "법령",
             "source_article_no": "제50조",
             "source_clause": "제50조제2항",
-            "link_text": "규칙 제39조",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "37584",
+            "target_url": "https://www.law.go.kr/법령/형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수용자교육교화운영지침#JO0050",
+            "reference_id": "law:형의집행및수용자의처우에관한법률시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행규칙/형의 집행 및 수용자의 처우에 관한 법률 시행규칙.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제50조",
+            "source_clause": "제50조제2항",
+            "link_text": "제39조",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
             "target_article_no": "제39조",
@@ -2237,7 +2277,7 @@
         "article_title": "방송계획 수립 등",
         "chapter": "제7장 교화방송, 집필 및 특별활동반",
         "chapter_path": "제7장 교화방송, 집필 및 특별활동반",
-        "content": "제53조(방송계획 수립 등) ① 본부 사회복귀과장은 규칙 제39조 및 제40조의 규정을 참작하여 ‘주간방송계획’을 수립ㆍ시행하고, 주간방송계획부(별지 제28호서식)에 기재하여야 한다.② 교화방송센터에는 ‘교화방송 운영일지’(별지 제29호서식)를 비치하여 방송운영상황을 기록하여야 한다.③ 통합방송을 시행하지 않는 교정시설의 장은 방송 시간ㆍ내용ㆍ운영방법 등에 대하여 별도의 계획을 수립ㆍ시행하여야 한다.",
+        "content": "제53조(방송계획 수립 등) ① 본부 사회복귀과장은 규칙  제39조 및 제40조의 규정을 참작하여 ‘주간방송계획’을 수립ㆍ시행하고, 주간방송계획부(별지 제28호서식)에 기재하여야 한다.② 교화방송센터에는 ‘교화방송 운영일지’(별지 제29호서식)를 비치하여 방송운영상황을 기록하여야 한다.③ 통합방송을 시행하지 않는 교정시설의 장은 방송 시간ㆍ내용ㆍ운영방법 등에 대하여 별도의 계획을 수립ㆍ시행하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -2246,7 +2286,7 @@
             "target_category": "법령",
             "source_article_no": "제53조",
             "source_clause": "제53조제1항",
-            "link_text": "규칙",
+            "link_text": "칙",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
             "target_article_no": "",
@@ -2317,7 +2357,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115097",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035287",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0053",
             "target_unit": "BJ0028",
@@ -2342,7 +2382,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115101",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035293",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0053",
             "target_unit": "BJ0029",
@@ -2379,7 +2419,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115105",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035299",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0054",
             "target_unit": "BJ0030",
@@ -2396,7 +2436,7 @@
         "article_title": "집필관리 및 외부제출",
         "chapter": "제7장 교화방송, 집필 및 특별활동반",
         "chapter_path": "제7장 교화방송, 집필 및 특별활동반",
-        "content": "제55조(집필관리 및 외부제출) ① 수용자가 법 제49조에 의하여 작성하는 집필에 대한 관리 및 처리는 법무부와 그 소속기관 직제 시행규칙에 규정된 소관업무 부서별로 담당한다.② 수용자가 작성한 집필물을 외부에 제출하거나 보관할 때에는 ‘집필물 외부제출 및 보관 허가부’(별지 제31호서식)에 등재하여 소장의 허가를 받아야 한다.③ 제2항의 경우 영 제76조제1항에 따른다.",
+        "content": "제55조(집필관리 및 외부제출) ① 수용자가 법  제49조에 의하여 작성하는 집필에 대한 관리 및 처리는 법무부와 그 소속기관 직제 시행규칙에 규정된 소관업무 부서별로 담당한다.② 수용자가 작성한 집필물을 외부에 제출하거나 보관할 때에는 ‘집필물 외부제출 및 보관 허가부’(별지 제31호서식)에 등재하여 소장의 허가를 받아야 한다.③ 제2항의 경우 영  제76조제1항에 따른다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -2436,7 +2476,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115109",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035305",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0055",
             "target_unit": "BJ0031",
@@ -2450,7 +2490,7 @@
             "target_category": "법령",
             "source_article_no": "제55조",
             "source_clause": "제55조제3항",
-            "link_text": "영",
+            "link_text": "",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행령",
             "target_article_no": "",
@@ -2493,7 +2533,7 @@
         "article_title": "집필용구 사용 허가",
         "chapter": "제7장 교화방송, 집필 및 특별활동반",
         "chapter_path": "제7장 교화방송, 집필 및 특별활동반",
-        "content": "제56조(집필용구 사용 허가) ① 소장은 규칙 제16조제1항제4호에 규정된 문구류 중 집필에 필요한 용구의 사용을 허가하여야 한다. 다만, 다음 각 호의 어느 하나에 해당할 경우 집필용구의 사용을 제한할 수 있다.1. 법 제108조제10호 또는 제14호의 처분을 받은 때2. 자살ㆍ자해 등의 도구로 이용될 우려가 있는 때3. 집필용구를 이용하여 교정시설의 설비나 물품을 훼손할 우려가 있는 때② 소장은 제1항의 단서조항에도 불구하고, 수용자가 권리구제를 위한 집필용구 사용을 신청한 경우 허가할 수 있다.",
+        "content": "제56조(집필용구 사용 허가) ① 소장은 규칙 제16조제1항제4호에 규정된 문구류 중 집필에 필요한 용구의 사용을 허가하여야 한다. 다만, 다음 각 호의 어느 하나에 해당할 경우 집필용구의 사용을 제한할 수 있다.1. 법  제108조제10호 또는 제14호의 처분을 받은 때2. 자살ㆍ자해 등의 도구로 이용될 우려가 있는 때3. 집필용구를 이용하여 교정시설의 설비나 물품을 훼손할 우려가 있는 때② 소장은 제1항의 단서조항에도 불구하고, 수용자가 권리구제를 위한 집필용구 사용을 신청한 경우 허가할 수 있다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -2502,7 +2542,27 @@
             "target_category": "법령",
             "source_article_no": "제56조",
             "source_clause": "제56조제1항",
-            "link_text": "규칙 제16조제1항제4호에",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "37584",
+            "target_url": "https://www.law.go.kr/법령/형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수용자교육교화운영지침#JO0056",
+            "reference_id": "law:형의집행및수용자의처우에관한법률시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/시행규칙/형의 집행 및 수용자의 처우에 관한 법률 시행규칙.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제56조",
+            "source_clause": "제56조제1항",
+            "link_text": "제16조제1항제4호",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
             "target_article_no": "제16조",
@@ -2545,7 +2605,7 @@
         "article_title": "집필용구 사용 시 지켜야 할 사항",
         "chapter": "제7장 교화방송, 집필 및 특별활동반",
         "chapter_path": "제7장 교화방송, 집필 및 특별활동반",
-        "content": "제57조(집필용구 사용 시 지켜야 할 사항) ① 수용자는 집필과 관련하여 다음 각 호의 행위를 하여서는 아니 된다.1. 집필용구를 허가없이 다른 수용자에게 양도하거나 대여하는 행위2. 집필용구를 허가없이 손괴 또는 변형하거나 집필 외 다른 용도로 사용하는 행위  ② 수용자는 사용한 집필용구를 보관 또는 폐기하여야 한다.",
+        "content": "제57조(집필용구 사용 시 지켜야 할 사항) ① 수용자는 집필과 관련하여 다음 각 호의 행위를 하여서는 아니 된다.1. 집필용구를 허가없이 다른 수용자에게 양도하거나 대여하는 행위2. 집필용구를 허가없이 손괴 또는 변형하거나 집필 외 다른 용도로 사용하는 행위 ② 수용자는 사용한 집필용구를 보관 또는 폐기하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -2556,7 +2616,7 @@
         "article_title": "특별활동반 범위",
         "chapter": "제7장 교화방송, 집필 및 특별활동반",
         "chapter_path": "제7장 교화방송, 집필 및 특별활동반",
-        "content": "제58조(특별활동반 범위) 소장은 영 제88조에 따라 수형자의 정서함양 등에 필요한 특별활동반을 다음 각 호와 같이 운영할 수 있다.1. 문예창작 및 예능반(독서, 서예, 서양화, 연극, 악대 등)2. 체육반(배구, 농구, 족구 등)",
+        "content": "제58조(특별활동반 범위) 소장은 영  제88조에 따라 수형자의 정서함양 등에 필요한 특별활동반의 범위는 다음과 같다.1. 문예창작 및 예능반(독서, 서예, 서양화, 연극, 악대 등)2. 체육반(배구, 농구, 족구 등)",
         "enforcement_date": "",
         "relations": [
           {
@@ -2565,7 +2625,7 @@
             "target_category": "법령",
             "source_article_no": "제58조",
             "source_clause": "제58조",
-            "link_text": "영",
+            "link_text": "",
             "line_text": "",
             "target_law_name": "형의 집행 및 수용자의 처우에 관한 법률 시행령",
             "target_article_no": "",
@@ -2608,7 +2668,7 @@
         "article_title": "구성 및 운영",
         "chapter": "제7장 교화방송, 집필 및 특별활동반",
         "chapter_path": "제7장 교화방송, 집필 및 특별활동반",
-        "content": "제59조(구성 및 운영) ① 소장은 제58조의 각 호별 2개 종목 이상의 특별활동반을 기관의 실정에 맞게 구성ㆍ운영할 수 있으며, 종목별 인원은 5명 이상으로 한다.② 특별활동반은 특혜 시비 방지에 유의하여 운영하도록 하고 과격하거나 부상 발생 빈도가 높은 종목은 지양하여야 한다.③ 수형자가 특별활동반에 편성될 수 있는 기간은 최대 5년으로 한다. 다만, 교정작품전시회 출품 등을 위하여 필요한 경우에는 임시로 특별활동반에 편성될 수 있으며, 그 기간은 6개월을 넘지 않아야 한다.④ 소장은 ‘특별활동반 명부’(별지 제32호서식)를 작성하여야 한다.",
+        "content": "제59조(구성 및 운영) ① 소장은 제58조의 각 호별 특별활동반을 기관의 실정에 맞게 구성 및 운영할 수 있다.② 특별활동반은 특혜 시비 방지에 유의하여 운영하도록 하고 과격하거나 부상 발생 빈도가 높은 종목은 지양하여야 한다.③ 수형자가 특별활동반에 편성될 수 있는 기간은 최대 5년으로 한다. 다만, 교정작품전시회 출품 등을 위하여 필요한 경우에는 임시로 특별활동반에 편성될 수 있으며, 그 기간은 6개월을 넘지 않아야 한다.④ 소장은 ‘특별활동반 명부’(별지 제32호서식)를 작성하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -2648,7 +2708,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115113",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035311",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0059",
             "target_unit": "BJ0032",
@@ -2784,7 +2844,7 @@
         "article_title": "사진 반입 허가",
         "chapter": "제9장 지니거나 비치할 수 있는 가족사진 등",
         "chapter_path": "제9장 지니거나 비치할 수 있는 가족사진 등",
-        "content": "제67조(사진 반입 허가) ① 소장은 다음 각 호의 사진 반입을 허가할 수 있다. 단, 조사자와 징벌자는 제1호에 한한다.1. 배우자, 직계존ㆍ비속, 배우자의 직계 존속이 나온 사진2. 수용자의 처우상 필요하다고 판단되는 사람이 나온 사진3. 기타 풍경, 동ㆍ식물 등 수용자의 정서 순화에 도움이 된다고 판단되는 사진② 소장은 코팅, 스티커 형식 등 금지물품 동봉 여부에 대한 확인이 어려운 사진에 대하여는 반입을 불허할 수 있다.",
+        "content": "제67조(사진 반입 허가) ① 소장은 다음 각 호의 사진 반입을 허가할 수 있다.1. 배우자, 직계존ㆍ비속, 배우자의 직계 존속이 나온 사진2. 수용자의 처우상 필요하다고 판단되는 사람이 나온 사진3. 기타 풍경, 동ㆍ식물 등 수용자의 정서 순화에 도움이 된다고 판단되는 사진② 소장은 코팅, 스티커 형식 등 금지물품 동봉 여부에 대한 확인이 어려운 사진에 대하여는 반입을 불허할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -2857,7 +2917,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000220728&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285778&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0070",
             "target_unit": "BJ0001",
@@ -2894,7 +2954,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115121",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035323",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0071",
             "target_unit": "BJ0034",
@@ -2919,7 +2979,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115125",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035329",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0071",
             "target_unit": "BJ0035",
@@ -2944,7 +3004,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115129",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035335",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0071",
             "target_unit": "BJ0036",
@@ -2969,7 +3029,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115133",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035341",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0071",
             "target_unit": "BJ0037",
@@ -2994,7 +3054,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37584",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115137",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035347",
             "resolve_method": "html",
             "source_provision_id": "admrul:수용자교육교화운영지침#JO0071",
             "target_unit": "BJ0038",
@@ -3047,10 +3107,10 @@
       "content": "부칙 <제816호,2008. 12. 18.>제1조(내규제정 등) ① 소장은 이 지침에 따라 기관 실정에 적합한 내규를 제정ㆍ시행하여야 한다.② 이 지침에서 사용하는 별지 서식은 교정정보시스템에 내재된 서식으로 대체할 수 있다.제2조(시행일) 이 지침은 2008년 12월 22일부터 시행한다.제3조(폐지문서) 이 지침 시행과 배치되는 각종 지시공문 등은 폐지하고, 폐지되는 훈령ㆍ예규는 다음과 같다.1. 수용자 열람도서 관리규정(훈령 440호)2. 수용자 집필제도 운영지침(훈령 454호)3. 수용자 예능 및 체능활동지침(예규 제572호)4. 수용자 교화방송 지침(예규 제574호)5. 교정작품전시회 출품작 심사규칙(예규 제575호)6. 수용자 신앙생활에 관한 지침(예규 제577호)7. 수용자 교회 및 복지활동 지침(예규 제587호)8. 수용자 서신업무 처리지침(예규 제707호)9. 수용자 신문열람 지침(예규 제740호)10. 수형자 정보화교육 규정(예규 제757호)11. 수용자 인성교육 등에 관한 지침(예규 제762호)",
       "provision_id": "admrul:수용자교육교화운영지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000220728",
+      "source_mst": "2100000285778",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20230314"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20090820",
@@ -3058,10 +3118,10 @@
       "content": "부칙 <제862호,2009. 8. 20.>제1조(시행일) 이 예규는 발령한 날로부터 시행한다.",
       "provision_id": "admrul:수용자교육교화운영지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000220728",
+      "source_mst": "2100000285778",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20230314"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20100801",
@@ -3069,10 +3129,10 @@
       "content": "부칙 <제944호,2010. 8. 1.>(시행일) 이 지침은 2010년 8월 1일부터 시행한다.",
       "provision_id": "admrul:수용자교육교화운영지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000220728",
+      "source_mst": "2100000285778",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20230314"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20110727",
@@ -3080,10 +3140,10 @@
       "content": "부칙 <제983호,2011. 7. 27.>(시행일) 이 지침은 2011년 9월 1일부터 시행한다.",
       "provision_id": "admrul:수용자교육교화운영지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000220728",
+      "source_mst": "2100000285778",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20230314"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20121211",
@@ -3091,10 +3151,10 @@
       "content": "부칙 <제1006호,2012. 12. 11.>(시행일) 이 지침은 2012년 12월 11일부터 시행한다.",
       "provision_id": "admrul:수용자교육교화운영지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000220728",
+      "source_mst": "2100000285778",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20230314"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20131220",
@@ -3102,10 +3162,10 @@
       "content": "부칙 <제1039호,2013. 12. 20.>(시행일) 이 지침은 2013년 12월 20일부터 시행한다.",
       "provision_id": "admrul:수용자교육교화운영지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000220728",
+      "source_mst": "2100000285778",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20230314"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20140424",
@@ -3113,10 +3173,10 @@
       "content": "부칙 <제1054호,2014. 4. 24.>(시행일) 이 지침은 2014년 4월 24일부터 시행한다.",
       "provision_id": "admrul:수용자교육교화운영지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000220728",
+      "source_mst": "2100000285778",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20230314"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20150506",
@@ -3124,10 +3184,10 @@
       "content": "부칙 <제1090호,2015. 5. 6.>제1조(시행일) 이 지침은 2015년 5월 6일부터 시행한다.제2조(집중인성교육 대상자에 관한 적용례) 이 지침 제9조제1항의 개정규정은 2015년 1월 1일 이후 직입소 및 미결에서 형이 확정된 수형자부터 적용한다.",
       "provision_id": "admrul:수용자교육교화운영지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000220728",
+      "source_mst": "2100000285778",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20230314"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20160401",
@@ -3135,10 +3195,10 @@
       "content": "부칙 <제1115호,2016. 4. 1.>(시행일) 이 지침은 2016년 4월 1일부터 시행한다.",
       "provision_id": "admrul:수용자교육교화운영지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000220728",
+      "source_mst": "2100000285778",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20230314"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20170104",
@@ -3146,10 +3206,10 @@
       "content": "부칙 <제1138호,2017. 1. 4.>(시행일) 이 지침은 2017년 1월 6일부터 시행한다.",
       "provision_id": "admrul:수용자교육교화운영지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000220728",
+      "source_mst": "2100000285778",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20230314"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20180125",
@@ -3157,10 +3217,10 @@
       "content": "부칙 <제1179호,2018. 1. 25.>(시행일) 이 지침은 2018년 1월 25일부터 시행한다.",
       "provision_id": "admrul:수용자교육교화운영지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000220728",
+      "source_mst": "2100000285778",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20230314"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20190121",
@@ -3168,10 +3228,10 @@
       "content": "부칙 <제1208호,2019. 1. 21.>(시행일) 이 지침은 2019년 1월 21일부터 시행한다.",
       "provision_id": "admrul:수용자교육교화운영지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000220728",
+      "source_mst": "2100000285778",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20230314"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20210209",
@@ -3179,10 +3239,10 @@
       "content": "부칙 <제1277호,2021. 2. 9.>(시행일) 이 지침은 2021년 2월 9일부터 시행한다.",
       "provision_id": "admrul:수용자교육교화운영지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000220728",
+      "source_mst": "2100000285778",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20230314"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20220203",
@@ -3190,10 +3250,10 @@
       "content": "부칙 <제1288호, 2022. 2. 3.>(시행일) 이 지침은 2022년 1월 1일부터 시행한다.",
       "provision_id": "admrul:수용자교육교화운영지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000220728",
+      "source_mst": "2100000285778",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20230314"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20230314",
@@ -3201,10 +3261,21 @@
       "content": "부칙 <제1317호, 2023. 3. 14.>(시행일) 이 지침은 2023년 3월 14일부터 시행한다.",
       "provision_id": "admrul:수용자교육교화운영지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000220728",
+      "source_mst": "2100000285778",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20230314"
+      "version_enforcement_date": "20261002"
+    },
+    {
+      "promulgation_date": "20261002",
+      "promulgation_no": "1393",
+      "content": "부칙 <제1393호, 2026. 10. 2.>이 지침은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:수용자교육교화운영지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285778",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -3217,20 +3288,26 @@
       "content": "〈별지 제1호 서식〉삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126114989",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170034885",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126114989",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170034881",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170034885",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0001",
-      "filename": "별지1_삭제.hwp",
+      "filename": "별지1_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지1_삭제.hwp",
+      "local_path": "별지/별지1_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -3242,20 +3319,26 @@
       "content": "〈별지 제2호 서식〉삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126114993",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170034891",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126114993",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170034887",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170034891",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0002",
-      "filename": "별지2_삭제.hwp",
+      "filename": "별지2_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지2_삭제.hwp",
+      "local_path": "별지/별지2_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -3267,20 +3350,26 @@
       "content": "〈별지 제3호 서식〉삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126114997",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170034897",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126114997",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170034893",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170034897",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0003",
-      "filename": "별지3_삭제.hwp",
+      "filename": "별지3_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지3_삭제.hwp",
+      "local_path": "별지/별지3_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -3292,20 +3381,26 @@
       "content": "〈별지 제4호 서식〉삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115001",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035143",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115001",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035139",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035143",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0004",
-      "filename": "별지4_삭제.hwp",
+      "filename": "별지4_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지4_삭제.hwp",
+      "local_path": "별지/별지4_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -3317,20 +3412,26 @@
       "content": "〈별지 제5호 서식〉삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115005",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035149",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115005",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035145",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035149",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0005",
-      "filename": "별지5_삭제.hwp",
+      "filename": "별지5_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지5_삭제.hwp",
+      "local_path": "별지/별지5_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -3342,20 +3443,26 @@
       "content": "〈별지 제6호 서식〉삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115009",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035155",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115009",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035151",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035155",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0006",
-      "filename": "별지6_삭제.hwp",
+      "filename": "별지6_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지6_삭제.hwp",
+      "local_path": "별지/별지6_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -3367,20 +3474,26 @@
       "content": "〈별지 제7호 서식〉삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115013",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035161",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115013",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035157",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035161",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0007",
-      "filename": "별지7_삭제.hwp",
+      "filename": "별지7_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지7_삭제.hwp",
+      "local_path": "별지/별지7_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -3392,20 +3505,26 @@
       "content": "〈별지 제8호 서식〉삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115017",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035167",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115017",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035163",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035167",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0008",
-      "filename": "별지8_삭제.hwp",
+      "filename": "별지8_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지8_삭제.hwp",
+      "local_path": "별지/별지8_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -3417,20 +3536,26 @@
       "content": "〈별지 제9호서식〉\n집중인성교육 효과성 평가\n━━━━━━┯━━━━┯━━━━━\n항 목     │교육 전 │교육 후\n──────┼────┼─────\n준법태도  │        │\n──────┼────┼─────\n친사회성  │        │\n──────┼────┼─────\n가족관계  │        │\n──────┼────┼─────\n자기통제력│        │\n──────┼────┼─────\n대인관계  │        │\n──────┼────┼─────\n총 점     │        │\n━━━━━━┷━━━━┷━━━━━",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115021",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035173",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115021",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035169",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035173",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0009",
-      "filename": "별지9_집중인성교육 효과성 평가.hwp",
+      "filename": "별지9_집중인성교육 효과성 평가.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지9_집중인성교육 효과성 평가.hwp",
+      "local_path": "별지/별지9_집중인성교육 효과성 평가.pdf",
       "file_store_url": ""
     },
     {
@@ -3442,20 +3567,26 @@
       "content": "〈별지 제10호서식〉\n편지동봉물품 확인대장\n┌────┬───────┬─────┬────┬─────┬─────┐\n│일 자   │수   용   자  │편지구분  │동봉물품│처리결과  │결 재     │\n│        ├───┬───┼──┬──┤        │          ├──┬──┤\n│        │번 호 │성 명 │수신│발신│        │          │담당│과장│\n├────┼───┼───┼──┼──┼────┼─────┼──┼──┤\n│2009.1.1│123   │홍길동│○  │    │CD 2장  │보관/반송 │    │    │\n├────┼───┼───┼──┼──┼────┼─────┼──┼──┤\n│        │      │      │    │    │        │          │    │    │\n├────┼───┼───┼──┼──┼────┼─────┼──┼──┤\n│        │      │      │    │    │        │          │    │    │\n├────┼───┼───┼──┼──┼────┼─────┼──┼──┤\n│        │      │      │    │    │        │          │    │    │\n├────┼───┼───┼──┼──┼────┼─────┼──┼──┤\n│        │      │      │    │    │        │          │    │    │\n├────┼───┼───┼──┼──┼────┼─────┼──┼──┤\n│        │      │      │    │    │        │          │    │    │\n├────┼───┼───┼──┼──┼────┼─────┼──┼──┤\n│        │      │      │    │    │        │          │    │    │\n├────┼───┼───┼──┼──┼────┼─────┼──┼──┤\n│        │      │      │    │    │        │          │    │    │\n├────┼───┼───┼──┼──┼────┼─────┼──┼──┤\n│        │      │      │    │    │        │          │    │    │\n├────┼───┼───┼──┼──┼────┼─────┼──┼──┤\n│        │      │      │    │    │        │          │    │    │\n├────┼───┼───┼──┼──┼────┼─────┼──┼──┤\n│        │      │      │    │    │        │          │    │    │\n├────┼───┼───┼──┼──┼────┼─────┼──┼──┤\n│        │      │      │    │    │        │          │    │    │\n├────┼───┼───┼──┼──┼────┼─────┼──┼──┤\n│        │      │      │    │    │        │          │    │    │\n├────┼───┼───┼──┼──┼────┼─────┼──┼──┤\n│        │      │      │    │    │        │          │    │    │\n├────┼───┼───┼──┼──┼────┼─────┼──┼──┤\n│        │      │      │    │    │        │          │    │    │\n├────┼───┼───┼──┼──┼────┼─────┼──┼──┤\n│        │      │      │    │    │        │          │    │    │\n├────┼───┼───┼──┼──┼────┼─────┼──┼──┤\n│        │      │      │    │    │        │          │    │    │\n├────┼───┼───┼──┼──┼────┼─────┼──┼──┤\n│        │      │      │    │    │        │          │    │    │\n└────┴───┴───┴──┴──┴────┴─────┴──┴──┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115025",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035179",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115025",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035175",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035179",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0010",
-      "filename": "별지10_편지동봉물품 확인대장.hwp",
+      "filename": "별지10_편지동봉물품 확인대장.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지10_편지동봉물품 확인대장.hwp",
+      "local_path": "별지/별지10_편지동봉물품 확인대장.pdf",
       "file_store_url": ""
     },
     {
@@ -3467,20 +3598,26 @@
       "content": "〈별지 제11호서식〉\n편지수수 금지자 명부\n┌───┬───────────┬─────────┬────────┐\n│일 자 │수   용   자          │금지사유 및 기간  │결 재           │\n│      ├───┬───┬───┤(법률 제43조제1항)├──┬──┬──┤\n│      │번 호 │성 명 │거 실 │                  │담당│과장│소장│\n├───┼───┼───┼───┼─────────┼──┼──┼──┤\n│      │      │      │      │                  │    │    │    │\n├───┼───┼───┼───┼─────────┼──┼──┼──┤\n│      │      │      │      │                  │    │    │    │\n├───┼───┼───┼───┼─────────┼──┼──┼──┤\n│      │      │      │      │                  │    │    │    │\n├───┼───┼───┼───┼─────────┼──┼──┼──┤\n│      │      │      │      │                  │    │    │    │\n├───┼───┼───┼───┼─────────┼──┼──┼──┤\n│      │      │      │      │                  │    │    │    │\n├───┼───┼───┼───┼─────────┼──┼──┼──┤\n│      │      │      │      │                  │    │    │    │\n├───┼───┼───┼───┼─────────┼──┼──┼──┤\n│      │      │      │      │                  │    │    │    │\n├───┼───┼───┼───┼─────────┼──┼──┼──┤\n│      │      │      │      │                  │    │    │    │\n├───┼───┼───┼───┼─────────┼──┼──┼──┤\n│      │      │      │      │                  │    │    │    │\n├───┼───┼───┼───┼─────────┼──┼──┼──┤\n│      │      │      │      │                  │    │    │    │\n├───┼───┼───┼───┼─────────┼──┼──┼──┤\n│      │      │      │      │                  │    │    │    │\n├───┼───┼───┼───┼─────────┼──┼──┼──┤\n│      │      │      │      │                  │    │    │    │\n├───┼───┼───┼───┼─────────┼──┼──┼──┤\n│      │      │      │      │                  │    │    │    │\n├───┼───┼───┼───┼─────────┼──┼──┼──┤\n│      │      │      │      │                  │    │    │    │\n├───┼───┼───┼───┼─────────┼──┼──┼──┤\n│      │      │      │      │                  │    │    │    │\n├───┼───┼───┼───┼─────────┼──┼──┼──┤\n│      │      │      │      │                  │    │    │    │\n├───┼───┼───┼───┼─────────┼──┼──┼──┤\n│      │      │      │      │                  │    │    │    │\n├───┼───┼───┼───┼─────────┼──┼──┼──┤\n│      │      │      │      │                  │    │    │    │\n└───┴───┴───┴───┴─────────┴──┴──┴──┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115029",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035185",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115029",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035181",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035185",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0011",
-      "filename": "별지11_편지수수 금지자 명부.hwp",
+      "filename": "별지11_편지수수 금지자 명부.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지11_편지수수 금지자 명부.hwp",
+      "local_path": "별지/별지11_편지수수 금지자 명부.pdf",
       "file_store_url": ""
     },
     {
@@ -3492,20 +3629,26 @@
       "content": "〈별지 제12호서식〉\n개인 편지표\n┌─────────────────────┬─┬───┬───┬───┬───┐\n│                      년       월      일 │결│담 당 │과 장 │부소장│소 장 │\n│                                          │재├───┼───┼───┼───┤\n│                                          │  │      │      │      │      │\n├───────┬───┬───┬─────┴─┼───┼───┴───┴───┤\n│칭호번호      │      │수용거실│              │성 명 │                      │\n├───────┼───┼───┼───────┼───┼───────────┤\n│구    분      │수 신 │발 신 │종  류        │성 명 │                      │\n│              ├───┼───┼───────┼───┼───────────┤\n│              │      │      │              │관 계 │                      │\n├───────┼───┴───┴───────┴───┴───────────┤\n│주    소      │                                                              │\n├───────┼──────┬─────────┬───────┬──────┤\n│검열사유      │제1호       │제2호             │제3호         │제4호       │\n│(법43조제4항) ├──────┼─────────┼───────┼──────┤\n│              │            │                  │              │            │\n├───────┼──────┴─────────┴───────┴──────┤\n│주요내용      │                                                              │\n│(불허사유)    │                                                              │\n├───────┘                                                              │\n│                                                                              │\n├───────┬──────────┬──────────────┬─────┤\n│검열결과      │허  가              │불  허                      │기타      │\n│              ├─────┬────┼──────┬───────┤          │\n│              │안부      │정보처리│보관        │폐기          │          │\n│              ├─────┼────┼──────┼───────┼─────┤\n│              │          │        │            │              │          │\n├───────┼─────┼────┼──────┼───────┴─────┤\n│검 열 자      │직급(직위)│        │성  명      │                          │\n└───────┴─────┴────┴──────┴─────────────┘\n※ 기재요령\n1. 구분 및 기록사유는 해당란 밑에 ○로 표시하고, 종류는 등기, 내용증명등 우편종류를 기록\n2. 처리결과는 불허, 보관, 폐기, 재작성, 정보사항처리 등 내용을 정확히 기재하여 자료로 활용\n3. 편지표 결재는 특이내용 등 필요성이 있는 경우만 받을 것",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115033",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035191",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115033",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035187",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035191",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0012",
-      "filename": "별지12_개인 편지표.hwp",
+      "filename": "별지12_개인 편지표.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지12_개인 편지표.hwp",
+      "local_path": "별지/별지12_개인 편지표.pdf",
       "file_store_url": ""
     },
     {
@@ -3517,20 +3660,26 @@
       "content": "〈별지 제13호서식〉삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115037",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035197",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115037",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035193",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035197",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0013",
-      "filename": "별지13_삭제.hwp",
+      "filename": "별지13_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지13_삭제.hwp",
+      "local_path": "별지/별지13_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -3542,20 +3691,26 @@
       "content": "〈별지 제14호서식〉\n편지 전달 및 발송 불허대장\n┌──┬─────┬──┬─────┬────┬──┬────────┐\n│일자│수용자    │편지│수?발인  │불허사유│처리│결재            │\n│    ├──┬──┤구분│주소, 성명│        │결과├──┬──┬──┤\n│    │번호│성명│    │          │        │    │담당│과장│소장│\n├──┼──┼──┼──┼─────┼────┼──┼──┼──┼──┤\n│    │    │    │    │          │        │    │    │    │    │\n├──┼──┼──┼──┼─────┼────┼──┼──┼──┼──┤\n│    │    │    │    │          │        │    │    │    │    │\n├──┼──┼──┼──┼─────┼────┼──┼──┼──┼──┤\n│    │    │    │    │          │        │    │    │    │    │\n├──┼──┼──┼──┼─────┼────┼──┼──┼──┼──┤\n│    │    │    │    │          │        │    │    │    │    │\n├──┼──┼──┼──┼─────┼────┼──┼──┼──┼──┤\n│    │    │    │    │          │        │    │    │    │    │\n└──┴──┴──┴──┴─────┴────┴──┴──┴──┴──┘\n〈A4횡 작성〉",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115041",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035203",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115041",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035199",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035203",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0014",
-      "filename": "별지14_편지 전달 및 발송 불허대장.hwp",
+      "filename": "별지14_편지 전달 및 발송 불허대장.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지14_편지 전달 및 발송 불허대장.hwp",
+      "local_path": "별지/별지14_편지 전달 및 발송 불허대장.pdf",
       "file_store_url": ""
     },
     {
@@ -3567,20 +3722,26 @@
       "content": "〈별지 제15호서식〉삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115045",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035209",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115045",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035205",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035209",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0015",
-      "filename": "별지15_삭제.hwp",
+      "filename": "별지15_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지15_삭제.hwp",
+      "local_path": "별지/별지15_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -3592,20 +3753,26 @@
       "content": "〈별지 제16호서식〉\n성상 등 관리대장\n┌────┬──┬──┬──┬──┬──┬─────┬───────────┐\n│취득    │종교│종류│규격│재질│가격│설치(비치)│결  재                │\n│(허가일)│구분│    │(cm)│    │    │장소      ├───┬───┬───┤\n│        │    │    │    │    │    │          │담 당 │과 장 │소 장 │\n├────┼──┼──┼──┼──┼──┼─────┼───┼───┼───┤\n│        │    │    │    │    │    │          │      │      │      │\n├────┼──┼──┼──┼──┼──┼─────┼───┼───┼───┤\n│        │    │    │    │    │    │          │      │      │      │\n├────┼──┼──┼──┼──┼──┼─────┼───┼───┼───┤\n│        │    │    │    │    │    │          │      │      │      │\n├────┼──┼──┼──┼──┼──┼─────┼───┼───┼───┤\n│        │    │    │    │    │    │          │      │      │      │\n├────┼──┼──┼──┼──┼──┼─────┼───┼───┼───┤\n│        │    │    │    │    │    │          │      │      │      │\n└────┴──┴──┴──┴──┴──┴─────┴───┴───┴───┘\n※A4횡 작성",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115049",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035215",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115049",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035211",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035215",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0016",
-      "filename": "별지16_성상 등 관리대장.hwp",
+      "filename": "별지16_성상 등 관리대장.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지16_성상 등 관리대장.hwp",
+      "local_path": "별지/별지16_성상 등 관리대장.pdf",
       "file_store_url": ""
     },
     {
@@ -3617,20 +3784,26 @@
       "content": "〈별지 제17호서식〉\n수용자 성물 허가부\n┌───┬─────┬──┬──┬──┬────┬──┬─────┐\n│허가일│수 용 자  │성물│규격│재질│취득경위│비고│결 재     │\n│      ├──┬──┤종류│    │    │        │    ├──┬──┤\n│      │번호│성명│    │    │    │        │    │담당│과장│\n├───┼──┼──┼──┼──┼──┼────┼──┼──┼──┤\n│      │    │    │    │    │    │        │    │    │    │\n├───┼──┼──┼──┼──┼──┼────┼──┼──┼──┤\n│      │    │    │    │    │    │        │    │    │    │\n├───┼──┼──┼──┼──┼──┼────┼──┼──┼──┤\n│      │    │    │    │    │    │        │    │    │    │\n├───┼──┼──┼──┼──┼──┼────┼──┼──┼──┤\n│      │    │    │    │    │    │        │    │    │    │\n├───┼──┼──┼──┼──┼──┼────┼──┼──┼──┤\n│      │    │    │    │    │    │        │    │    │    │\n├───┼──┼──┼──┼──┼──┼────┼──┼──┼──┤\n│      │    │    │    │    │    │        │    │    │    │\n├───┼──┼──┼──┼──┼──┼────┼──┼──┼──┤\n│      │    │    │    │    │    │        │    │    │    │\n├───┼──┼──┼──┼──┼──┼────┼──┼──┼──┤\n│      │    │    │    │    │    │        │    │    │    │\n├───┼──┼──┼──┼──┼──┼────┼──┼──┼──┤\n│      │    │    │    │    │    │        │    │    │    │\n├───┼──┼──┼──┼──┼──┼────┼──┼──┼──┤\n│      │    │    │    │    │    │        │    │    │    │\n├───┼──┼──┼──┼──┼──┼────┼──┼──┼──┤\n│      │    │    │    │    │    │        │    │    │    │\n├───┼──┼──┼──┼──┼──┼────┼──┼──┼──┤\n│      │    │    │    │    │    │        │    │    │    │\n├───┼──┼──┼──┼──┼──┼────┼──┼──┼──┤\n│      │    │    │    │    │    │        │    │    │    │\n└───┴──┴──┴──┴──┴──┴────┴──┴──┴──┘\n※ ‘비고’란에는 보관, 가족반환, 폐기 등을 기록",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115053",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035221",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115053",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035217",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035221",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0017",
-      "filename": "별지17_수용자 성물 허가부.hwp",
+      "filename": "별지17_수용자 성물 허가부.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지17_수용자 성물 허가부.hwp",
+      "local_path": "별지/별지17_수용자 성물 허가부.pdf",
       "file_store_url": ""
     },
     {
@@ -3642,20 +3815,26 @@
       "content": "〈별지 제18호서식〉삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115057",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035227",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115057",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035223",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035227",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0018",
-      "filename": "별지18_삭제.hwp",
+      "filename": "별지18_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지18_삭제.hwp",
+      "local_path": "별지/별지18_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -3667,20 +3846,26 @@
       "content": "〈별지 제19호서식〉삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115061",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035233",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115061",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035229",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035233",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0019",
-      "filename": "별지19_삭제.hwp",
+      "filename": "별지19_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지19_삭제.hwp",
+      "local_path": "별지/별지19_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -3692,20 +3877,26 @@
       "content": "〈별지 제20호서식〉\n교화상담부\n┌────┬─────────────┬─┬───┬──┬───┐\n│상 담 일│200.    .      .  (  요일)│결│담당  │계장│과 장 │\n│        │                          │재├───┼──┼───┤\n│        │                          │  │      │    │      │\n├────┼─────────────┴─┼───┼──┴───┤\n│상담구분│    상담                      │장  소│            │\n├────┼───────────────┴───┴──────┤\n│상 담 자│  직급 :                        성  명  :           │\n├────┼──────────────────────────┤\n│피상담  │                                                    │\n│수용자  │                                                    │\n├────┼──────────────────────────┤\n│상담내용│○ 상담요지                                         │\n│        │                                                    │\n│        │                                                    │\n│        │                                                    │\n│        │                                                    │\n│        │                                                    │\n│        │                                                    │\n│        │○ 수용자 반응                                      │\n│        │                                                    │\n│        │                                                    │\n│        │                                                    │\n│        │                                                    │\n│        │○ 특이 및 조치 사항                                │\n│        │                                                    │\n│        │                                                    │\n│        │                                                    │\n│        │                                                    │\n└────┴──────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115065",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035239",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115065",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035235",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035239",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0020",
-      "filename": "별지20_교화상담부.hwp",
+      "filename": "별지20_교화상담부.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지20_교화상담부.hwp",
+      "local_path": "별지/별지20_교화상담부.pdf",
       "file_store_url": ""
     },
     {
@@ -3717,20 +3908,26 @@
       "content": "〈별지 제21호서식〉삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115069",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035245",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115069",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035241",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035245",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0021",
-      "filename": "별지21_삭제.hwp",
+      "filename": "별지21_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지21_삭제.hwp",
+      "local_path": "별지/별지21_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -3742,20 +3939,26 @@
       "content": "〈별지 제22호서식〉삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115073",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035251",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115073",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035247",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035251",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0022",
-      "filename": "별지22_삭제.hwp",
+      "filename": "별지22_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지22_삭제.hwp",
+      "local_path": "별지/별지22_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -3767,20 +3970,26 @@
       "content": "〈별지 제23호서식〉\n비치도서 열람 신청서\n담당         서명 (인)\n┌───┬────┬───┬───────────┬───┐\n│신청일│분류번호│도서명│수   용   자          │비 고 │\n│      │        │      ├───┬───┬───┤      │\n│      │        │      │번 호 │성 명 │소 속 │      │\n├───┼────┼───┼───┼───┼───┼───┤\n│      │        │      │      │      │      │      │\n├───┼────┼───┼───┼───┼───┼───┤\n│      │        │      │      │      │      │      │\n├───┼────┼───┼───┼───┼───┼───┤\n│      │        │      │      │      │      │      │\n├───┼────┼───┼───┼───┼───┼───┤\n│      │        │      │      │      │      │      │\n├───┼────┼───┼───┼───┼───┼───┤\n│      │        │      │      │      │      │      │\n├───┼────┼───┼───┼───┼───┼───┤\n│      │        │      │      │      │      │      │\n├───┼────┼───┼───┼───┼───┼───┤\n│      │        │      │      │      │      │      │\n├───┼────┼───┼───┼───┼───┼───┤\n│      │        │      │      │      │      │      │\n├───┼────┼───┼───┼───┼───┼───┤\n│      │        │      │      │      │      │      │\n├───┼────┼───┼───┼───┼───┼───┤\n│      │        │      │      │      │      │      │\n├───┼────┼───┼───┼───┼───┼───┤\n│      │        │      │      │      │      │      │\n├───┼────┼───┼───┼───┼───┼───┤\n│      │        │      │      │      │      │      │\n├───┼────┼───┼───┼───┼───┼───┤\n│      │        │      │      │      │      │      │\n├───┼────┼───┼───┼───┼───┼───┤\n│      │        │      │      │      │      │      │\n├───┼────┼───┼───┼───┼───┼───┤\n│      │        │      │      │      │      │      │\n└───┴────┴───┴───┴───┴───┴───┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115077",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035257",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115077",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035253",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035257",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0023",
-      "filename": "별지23_비치도서 열람 신청서.hwp",
+      "filename": "별지23_비치도서 열람 신청서.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지23_비치도서 열람 신청서.hwp",
+      "local_path": "별지/별지23_비치도서 열람 신청서.pdf",
       "file_store_url": ""
     },
     {
@@ -3792,20 +4001,26 @@
       "content": "〈별지 제24호서식〉삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115081",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035263",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115081",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035259",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035263",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0024",
-      "filename": "별지24_삭제.hwp",
+      "filename": "별지24_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지24_삭제.hwp",
+      "local_path": "별지/별지24_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -3817,20 +4032,26 @@
       "content": "〈별지 제25호서식〉삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115085",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035269",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115085",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035265",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035269",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0025",
-      "filename": "별지25_삭제.hwp",
+      "filename": "별지25_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지25_삭제.hwp",
+      "local_path": "별지/별지25_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -3842,20 +4063,26 @@
       "content": "〈별지 제26호서식>\n개인도서 확인증\n\n\n\n┃←          6cm     →      ┃\n┃  ─────                ┃                  ┃\n┃                ──        ┃                  ┃\n┃                            ┃\n\n\n┏━━━━━━━━━━━━━━┓    ━━━━━\n┃개 인 도 서 확 인           ┃      ↑\n┠────┬─────────┨\n┃도 서 명│                  ┃        │\n┠────┼──┬──────┨        │        ┃\n┃소 유 자│①번│②번        ┃                  ┃\n┃        │    │            ┃  4cm\n┃        │    │            ┃                  ┃\n┠────┼──┴──────┨        │        ┃\n┃교 부 일│     년   월   일 ┃        │\n┃        │                  ┃        │\n┃        │                  ┃\n┃        │                  ┃    ↓\n┗━━━━┷━━━━━━━━━┛  ━━━━━\n①  번  호\n②  성  명",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115089",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035275",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115089",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035271",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035275",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0026",
-      "filename": "별지26_개인도서 확인증.hwp",
+      "filename": "별지26_개인도서 확인증.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지26_개인도서 확인증.hwp",
+      "local_path": "별지/별지26_개인도서 확인증.pdf",
       "file_store_url": ""
     },
     {
@@ -3867,20 +4094,26 @@
       "content": "〈별지 제27호서식〉\n개인도서 열람 불허대장\n┌──┬──────┬────┬───┬───┬────────┐\n│일자│수용자      │도 서 명│저자  │출판사│결 재           │\n│    ├──┬───┤        │(역자)│      ├──┬──┬──┤\n│    │번호│성 명 │        │      │      │담당│과장│소장│\n├──┼──┼───┼────┼───┼───┼──┼──┼──┤\n│    │    │      │        │      │      │    │    │    │\n├──┼──┼───┼────┼───┼───┼──┼──┼──┤\n│    │    │      │        │      │      │    │    │    │\n├──┼──┼───┼────┼───┼───┼──┼──┼──┤\n│    │    │      │        │      │      │    │    │    │\n├──┼──┼───┼────┼───┼───┼──┼──┼──┤\n│    │    │      │        │      │      │    │    │    │\n├──┼──┼───┼────┼───┼───┼──┼──┼──┤\n│    │    │      │        │      │      │    │    │    │\n├──┼──┼───┼────┼───┼───┼──┼──┼──┤\n│    │    │      │        │      │      │    │    │    │\n├──┼──┼───┼────┼───┼───┼──┼──┼──┤\n│    │    │      │        │      │      │    │    │    │\n├──┼──┼───┼────┼───┼───┼──┼──┼──┤\n│    │    │      │        │      │      │    │    │    │\n├──┼──┼───┼────┼───┼───┼──┼──┼──┤\n│    │    │      │        │      │      │    │    │    │\n├──┼──┼───┼────┼───┼───┼──┼──┼──┤\n│    │    │      │        │      │      │    │    │    │\n├──┼──┼───┼────┼───┼───┼──┼──┼──┤\n│    │    │      │        │      │      │    │    │    │\n├──┼──┼───┼────┼───┼───┼──┼──┼──┤\n│    │    │      │        │      │      │    │    │    │\n├──┼──┼───┼────┼───┼───┼──┼──┼──┤\n│    │    │      │        │      │      │    │    │    │\n├──┼──┼───┼────┼───┼───┼──┼──┼──┤\n│    │    │      │        │      │      │    │    │    │\n├──┼──┼───┼────┼───┼───┼──┼──┼──┤\n│    │    │      │        │      │      │    │    │    │\n├──┼──┼───┼────┼───┼───┼──┼──┼──┤\n│    │    │      │        │      │      │    │    │    │\n├──┼──┼───┼────┼───┼───┼──┼──┼──┤\n│    │    │      │        │      │      │    │    │    │\n├──┼──┼───┼────┼───┼───┼──┼──┼──┤\n│    │    │      │        │      │      │    │    │    │\n└──┴──┴───┴────┴───┴───┴──┴──┴──┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115093",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035281",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115093",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035277",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035281",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0027",
-      "filename": "별지27_개인도서 열람 불허대장.hwp",
+      "filename": "별지27_개인도서 열람 불허대장.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지27_개인도서 열람 불허대장.hwp",
+      "local_path": "별지/별지27_개인도서 열람 불허대장.pdf",
       "file_store_url": ""
     },
     {
@@ -3892,20 +4125,26 @@
       "content": "〈별지 제28호서식〉\n┌─┬──┬───┬──┐주간방송 계획부\n│결│담당│사무관│과장│\n│재├──┼───┼──┤\n│  │    │      │    │\n└─┴──┴───┴──┘\n\n\n년  월  일 ~   년  월  일\n┌───┬──┬───┬────────────┬────┐\n│ 채널 │요일│시간  │방송내용                │방송형태│\n├───┼──┼───┼────────────┼────┤\n│일    │월  │09:00 │생방송 좋은 아침        │생방송  │\n│반    │    │09:30 │영상포엠 내 마음의 여행 │녹화방송│\n│채    │    │      │                        │        │\n│널    ├──┼───┼────────────┼────┤\n│      │화  │      │                        │        │\n│      ├──┼───┼────────────┼────┤\n│      │수  │      │                        │        │\n│      ├──┼───┼────────────┼────┤\n│      │목  │      │                        │        │\n│      ├──┼───┼────────────┼────┤\n│      │금  │      │                        │        │\n│      ├──┼───┼────────────┼────┤\n│      │토  │      │                        │        │\n│      ├──┼───┼────────────┼────┤\n│      │일  │      │                        │        │\n├───┼──┼───┼────────────┼────┤\n│교    │월  │      │                        │        │\n│육    ├──┼───┼────────────┼────┤\n│채    │화  │      │                        │        │\n│널    ├──┼───┼────────────┼────┤\n│      │    │      │                        │        │\n├───┼──┼───┼────────────┼────┤\n│라    │월  │      │                        │        │\n│디    ├──┼───┼────────────┼────┤\n│오    │화  │      │                        │        │\n│      ├──┼───┼────────────┼────┤\n│      │    │      │                        │        │\n└───┴──┴───┴────────────┴────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115097",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035287",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115097",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035283",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035287",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0028",
-      "filename": "별지28_주간방송 계획부.hwp",
+      "filename": "별지28_주간방송 계획부.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지28_주간방송 계획부.hwp",
+      "local_path": "별지/별지28_주간방송 계획부.pdf",
       "file_store_url": ""
     },
     {
@@ -3917,20 +4156,26 @@
       "content": "〈별지 제29호서식〉\n\n┌─┬──┬───┬──┐\n│결│담당│사무관│과장│\n│재├──┼───┼──┤\n│  │    │      │    │\n└─┴──┴───┴──┘\n교화방송 운영일지\n\n\n년   월   일 (요일)\n┌─────────────────────────────────────────┐\n│ 1. 직원현황                                                                      │\n├────┬──┬──┬──┬─────────────┬─────────────┤\n│구분    │정원│결원│현원│근무상황                  │비고                      │\n│        │    │    │    ├──┬──┬──┬────┤                          │\n│        │    │    │    │휴가│교육│출장│기타    │                          │\n├────┼──┼──┼──┼──┼──┼──┼────┼─────────────┤\n│인원    │    │    │    │    │    │    │        │                          │\n├────┴──┴──┴──┴──┴──┴──┴────┴─────────────┤\n│ 2. 시스템 및 장비 장애/유지보수 현황                                             │\n├─────────────┬─────────────┬────────┬────┤\n│장비명(센터)              │이상유무                  │장비명(교정기관)│이상유무│\n├─────────────┼─────────────┼────────┼────┤\n│                          │                          │                │        │\n├─────────────┴─────────────┴────────┴────┤\n│ ※장애 및 조치 세부내용                                                          │\n│                                                                                  │\n├─────────────────────────────────────────┤\n│ 3. 방송내용(주간방송계획부와 다르게 방송한 내용)                                 │\n├──┬─────┬───────────────────┬──┬──┬──────┤\n│채널│시간      │내  용                                │채널│시간│내  용      │\n├──┼─────┼───────────────────┼──┼──┼──────┤\n│일반│          │                                      │음성│    │            │\n├──┼─────┼───────────────────┼──┼──┼──────┤\n│교육│          │                                      │자막│    │            │\n├──┴─────┴───────────────────┴──┴──┴──────┤\n│ 4. 공지사항                                                                      │\n├───────────────────────┬─────────────────┤\n│접수한 내용                                   │방송한 내용                       │\n├───┬───────────────────┼──┬──────────────┤\n│기관  │제 목                                 │공통│                            │\n├───┼───────────────────┤    │                            │\n│      │                                      ├──┼──────────────┤\n│      │                                      │기관│                            │\n│      │                                      │    │                            │\n│      │                                      │    │                            │\n│      │                                      │    │                            │\n├───┴───────────────────┴──┴──────────────┤\n│ 5. 기타 특이사항                                                                 │\n├─────────────────────────────────────────┤\n│                                                                                  │\n└─────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115101",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035293",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115101",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035289",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035293",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0029",
-      "filename": "별지29_교화방송 운영일지.hwp",
+      "filename": "별지29_교화방송 운영일지.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지29_교화방송 운영일지.hwp",
+      "local_path": "별지/별지29_교화방송 운영일지.pdf",
       "file_store_url": ""
     },
     {
@@ -3942,20 +4187,26 @@
       "content": "〈별지 제30호서식〉\n계도 및 공지사항부\n┌───┬────┬──┬────┬──┬───────┐\n│접수일│해당부서│내용│방송일시│비고│결    재      │\n│      │        │    │        │    ├─┬──┬──┤\n│      │        │    │        │    │계│과장│소장│\n├───┼────┼──┼────┼──┼─┼──┼──┤\n│      │        │    │        │    │  │    │    │\n├───┼────┼──┼────┼──┼─┼──┼──┤\n│      │        │    │        │    │  │    │    │\n├───┼────┼──┼────┼──┼─┼──┼──┤\n│      │        │    │        │    │  │    │    │\n├───┼────┼──┼────┼──┼─┼──┼──┤\n│      │        │    │        │    │  │    │    │\n├───┼────┼──┼────┼──┼─┼──┼──┤\n│      │        │    │        │    │  │    │    │\n└───┴────┴──┴────┴──┴─┴──┴──┘\n※ A4횡 용지",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115105",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035299",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115105",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035295",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035299",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0030",
-      "filename": "별지30_계도 및 공지사항부.hwp",
+      "filename": "별지30_계도 및 공지사항부.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지30_계도 및 공지사항부.hwp",
+      "local_path": "별지/별지30_계도 및 공지사항부.pdf",
       "file_store_url": ""
     },
     {
@@ -3967,20 +4218,26 @@
       "content": "〈별지 제31호서식〉\n집필물 외부제출 및 보관 허가부\n┌──┬─────┬──┬─────┬─────┬────────┐\n│일자│수용자    │집필│내용(요약)│외부제출  │결    재        │\n│    │          │범위│          │(보관)사유├──┬──┬──┤\n│    ├──┬──┤    │          │          │담당│과장│소장│\n│    │번호│성명│    │          │          │    │    │    │\n├──┼──┼──┼──┼─────┼─────┼──┼──┼──┤\n│    │    │    │    │          │          │    │    │    │\n├──┼──┼──┼──┼─────┼─────┼──┼──┼──┤\n│    │    │    │    │          │          │    │    │    │\n├──┼──┼──┼──┼─────┼─────┼──┼──┼──┤\n│    │    │    │    │          │          │    │    │    │\n├──┼──┼──┼──┼─────┼─────┼──┼──┼──┤\n│    │    │    │    │          │          │    │    │    │\n├──┼──┼──┼──┼─────┼─────┼──┼──┼──┤\n│    │    │    │    │          │          │    │    │    │\n└──┴──┴──┴──┴─────┴─────┴──┴──┴──┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115109",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035305",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115109",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035301",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035305",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0031",
-      "filename": "별지31_집필물 외부제출 및 보관 허가부.hwp",
+      "filename": "별지31_집필물 외부제출 및 보관 허가부.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지31_집필물 외부제출 및 보관 허가부.hwp",
+      "local_path": "별지/별지31_집필물 외부제출 및 보관 허가부.pdf",
       "file_store_url": ""
     },
     {
@@ -3992,20 +4249,26 @@
       "content": "〈별지 제32호서식〉\n특별활동반 명부\n□ ○○반\n┌───┬──────────────────┬───┬──┬────────┐\n│지정일│수용자                              │편성  │비고│결  재          │\n│      ├──┬─────┬──┬──┬───┤종료일│    ├──┬──┬──┤\n│      │번호│성명      │죄명│형명│형종일│      │    │담당│과장│소장│\n│      │    │(생년월일)│    │형기│      │      │    │    │    │    │\n├───┼──┼─────┼──┼──┼───┼───┼──┼──┼──┼──┤\n│      │    │          │    │    │      │      │    │    │    │    │\n├───┼──┼─────┼──┼──┼───┼───┼──┼──┼──┼──┤\n│      │    │          │    │    │      │      │    │    │    │    │\n├───┼──┼─────┼──┼──┼───┼───┼──┼──┼──┼──┤\n│      │    │          │    │    │      │      │    │    │    │    │\n├───┼──┼─────┼──┼──┼───┼───┼──┼──┼──┼──┤\n│      │    │          │    │    │      │      │    │    │    │    │\n├───┼──┼─────┼──┼──┼───┼───┼──┼──┼──┼──┤\n│      │    │          │    │    │      │      │    │    │    │    │\n├───┼──┼─────┼──┼──┼───┼───┼──┼──┼──┼──┤\n│      │    │          │    │    │      │      │    │    │    │    │\n├───┼──┼─────┼──┼──┼───┼───┼──┼──┼──┼──┤\n│      │    │          │    │    │      │      │    │    │    │    │\n└───┴──┴─────┴──┴──┴───┴───┴──┴──┴──┴──┘\n※ A4횡 작성",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115113",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035311",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115113",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035307",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035311",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0032",
-      "filename": "별지32_특별활동반 명부.hwp",
+      "filename": "별지32_특별활동반 명부.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지32_특별활동반 명부.hwp",
+      "local_path": "별지/별지32_특별활동반 명부.pdf",
       "file_store_url": ""
     },
     {
@@ -4017,20 +4280,26 @@
       "content": "〈별지 제33호서식〉삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115117",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035317",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115117",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035313",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035317",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0033",
-      "filename": "별지33_삭제.hwp",
+      "filename": "별지33_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지33_삭제.hwp",
+      "local_path": "별지/별지33_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -4042,20 +4311,26 @@
       "content": "〈별지 제34호서식〉\n┏━━━┯━━━┯━━━┯━━┓\n사회복귀업무일지                ┃담 당 │계 장 │과 장 │소장┃\n20  년    월     일 (  요일)   ┠───┼───┼───┼──┨\n┃      │      │      │    ┃\n┗━━━┷━━━┷━━━┷━━┛\n\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃교 육 현 황                                     ┃\n┠──────────┬────┬────┬───┨\n┃과    정            │시행인원│수료인원│비 고 ┃\n┃                    │        │(누계)  │      ┃\n┠───┬──────┼────┼────┼───┨\n┃검    │초졸학력    │        │        │      ┃\n┃정    ├──────┼────┼────┼───┨\n┃고    │중졸학력    │        │        │      ┃\n┃시    ├──────┼────┼────┼───┨\n┃      │고졸학력    │        │        │      ┃\n┠───┼──────┼────┼────┼───┨\n┃학    │대입반      │        │        │      ┃\n┃과    ├──────┼────┼────┼───┨\n┃교    │방통고      │        │        │      ┃\n┃육    ├──────┼────┼────┼───┨\n┃      │방통대      │        │        │      ┃\n┃      ├──────┼────┼────┼───┨\n┃      │학사고시    │        │        │      ┃\n┃      ├──────┼────┼────┼───┨\n┃      │전문대      │        │        │      ┃\n┃      ├──────┼────┼────┼───┨\n┃      │            │        │        │      ┃\n┃      ├──────┼────┼────┼───┨\n┃      │            │        │        │      ┃\n┠───┼──────┼────┼────┼───┨\n┃집중  │집중인성교육│        │        │      ┃\n┃인성  ├──────┼────┼────┼───┨\n┃문화  │석방전교육  │        │        │      ┃\n┃교육  ├──────┼────┼────┼───┨\n┃등    │문화예술교육│        │        │      ┃\n┃      ├──────┼────┼────┼───┨\n┃      │            │        │        │      ┃\n┃      ├──────┼────┼────┼───┨\n┃      │            │        │        │      ┃\n┠───┴──────┴────┴────┴───┨\n┃교화 및  상담                                   ┃\n┠──────────┬────┬────────┨\n┃구    분            │시행인원│누    계        ┃\n┃                    │        ├────┬───┨\n┃                    │        │횟 수   │인 원 ┃\n┠───┬──────┼────┼────┼───┨\n┃집합  │교정위원    │        │        │      ┃\n┃교화  ├──────┼────┼────┼───┨\n┃      │기 타       │        │        │      ┃\n┠───┼──────┼────┼────┼───┨\n┃종교  │기 독 교    │        │        │      ┃\n┃교화  ├──────┼────┼────┼───┨\n┃      │불    교    │        │        │      ┃\n┃      ├──────┼────┼────┼───┨\n┃      │천 주 교    │        │        │      ┃\n┃      ├──────┼────┼────┼───┨\n┃      │            │        │        │      ┃\n┃      ├──────┼────┼────┼───┨\n┃      │            │        │        │      ┃\n┠───┼──────┼────┼────┼───┨\n┃교리  │교정위원    │        │        │      ┃\n┃지도  ├──────┼────┼────┼───┨\n┃(자매 │교정참여    │        │        │      ┃\n┃)     ├──────┼────┼────┼───┨\n┃      │기 타       │        │        │      ┃\n┠───┼─┬────┼────┼────┼───┨\n┃상담  │교│교화    │        │        │      ┃\n┃      │정├────┼────┼────┼───┨\n┃      │위│종교    │        │        │      ┃\n┃      │원├────┼────┼────┼───┨\n┃      │  │교육    │        │        │      ┃\n┃      │  ├────┼────┼────┼───┨\n┃      │  │의료    │        │        │      ┃\n┃      │  ├────┼────┼────┼───┨\n┃      │  │취업    │        │        │      ┃\n┃      │  │        ├────┼────┼───┨\n┃      ├─┴────┤        │        │      ┃\n┃      │직원        │        │        │      ┃\n┃      ├──────┼────┼────┼───┨\n┃      │기    타    │        │        │      ┃\n┠───┴──────┴────┴────┴───┨\n┃중간처우자 현황                                 ┃\n┠───────────┬───────┬────┨\n┃소망의 집             │사회적응훈련원│희망센터┃\n┠───────────┼───────┼────┨\n┃명                    │명            │명      ┃\n┗━━━━━━━━━━━┷━━━━━━━┷━━━━┛\n┏━━━━━━━━━━━━━━━━━━━━━━━┓\n┃사  회  적  처  우                            ┃\n┠────────┬────┬─────────┨\n┃종    류        │시행인원│누   계           ┃\n┃                │        ├───┬─────┨\n┃                │        │횟 수 │인 원     ┃\n┠──┬─────┼────┼───┼─────┨\n┃귀휴│일반      │        │      │          ┃\n┃    ├─────┼────┼───┼─────┨\n┃    │특별      │        │      │          ┃\n┠──┴─────┼────┼───┼─────┨\n┃가족접견실      │        │      │          ┃\n┠────────┼────┼───┼─────┨\n┃가족만남의집    │        │      │          ┃\n┠────────┼────┼───┼─────┨\n┃가족만남의날    │        │      │          ┃\n┠────────┼────┼───┼─────┨\n┃사회견학(봉사)  │        │      │          ┃\n┠────────┴────┴───┴─────┨\n┃출소예정자 추수지도                           ┃\n┠────────┬────┬─────────┨\n┃구   분         │인 원   │누    계          ┃\n┃                │        ├───┬─────┨\n┃                │        │횟 수 │인 원     ┃\n┠────────┼────┼───┼─────┨\n┃기 초 생 활     │        │      │          ┃\n┠────────┼────┼───┼─────┨\n┃갱 보 상 담     │        │      │          ┃\n┠────────┼────┼───┼─────┨\n┃취 업 상 담     │        │      │          ┃\n┠────────┼────┴───┼─────┨\n┃귀 가 여 비     │여비            │의류      ┃\n┃                ├────┬───┼──┬──┨\n┃                │인원    │누계  │인원│누계┃\n┃                ├────┼───┼──┼──┨\n┃                │        │      │    │    ┃\n┠────────┴────┴───┴──┴──┨\n┃각종 교화행사 현황                            ┃\n┠────────┬────┬─────────┨\n┃종   류         │시행인원│누   계           ┃\n┃                │        ├───┬─────┨\n┃                │        │횟 수 │인 원     ┃\n┠────────┼────┼───┼─────┨\n┃교 화 공 연     │        │      │          ┃\n┠────────┼────┼───┼─────┨\n┃체 육 행 사     │        │      │          ┃\n┠────────┼────┼───┼─────┨\n┃고령자 교회     │        │      │          ┃\n┠────────┼────┼───┼─────┨\n┃장애인 교회     │        │      │          ┃\n┠────────┼────┼───┼─────┨\n┃생일자 교회     │        │      │          ┃\n┠────────┼────┼───┼─────┨\n┃                │        │      │          ┃\n┠────────┴────┴───┴─────┨\n┃일  반  현  황                                ┃\n┠──┬─────┬────┬───┬─────┨\n┃편지│일반(수신)│통      │누계  │통        ┃\n┃    ├─────┼────┼───┼─────┨\n┃    │전자(수신)│통      │누계  │통        ┃\n┃    ├─────┼────┼───┼─────┨\n┃    │접견(수신)│통      │누계  │통        ┃\n┃    ├─────┼────┼───┼─────┨\n┃    │발신      │통      │누계  │통        ┃\n┠──┼─────┼────┼───┼─────┨\n┃도서│구입      │권      │누계  │권        ┃\n┃    ├─────┼────┼───┼─────┨\n┃    │차입      │권      │누계  │권        ┃\n┃    ├─────┼────┼───┼─────┨\n┃    │대여      │권      │누계  │권        ┃\n┃    ├─────┼────┼───┼─────┨\n┃    │보관      │권      │누계  │권        ┃\n┠──┴─────┼────┼───┼─────┨\n┃신문구독        │부      │종류  │종        ┃\n┠────────┴────┴───┴─────┨\n┃기타 특이사항                                 ┃\n┠───────────────────────┨\n┃                                              ┃\n┠───────────────────────┨\n┃방송모니터 :                                  ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115121",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035323",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115121",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035319",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035323",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0034",
-      "filename": "별지34_사회복귀업무일지.hwp",
+      "filename": "별지34_사회복귀업무일지.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지34_사회복귀업무일지.hwp",
+      "local_path": "별지/별지34_사회복귀업무일지.pdf",
       "file_store_url": ""
     },
     {
@@ -4067,20 +4342,26 @@
       "content": "〈별지 제35호서식〉\n교화행사 계획부\n┏━━┯━━━┯━━┯━━━━┯━━━━━━┯━━┯━━━━━━━━━━━┓\n┃일시│행사명│장소│참가대상│외래단체 및 │비고│결 재                 ┃\n┃    │      │    │        │강사        │    ├──┬──┬──┬──┨\n┃    │      │    │        │            │    │담당│계장│과장│소장┃\n┠──┼───┼──┼────┼──────┼──┼──┼──┼──┼──┨\n┃    │      │    │        │            │    │    │    │    │    ┃\n┠──┼───┼──┼────┼──────┼──┼──┼──┼──┼──┨\n┃    │      │    │        │            │    │    │    │    │    ┃\n┠──┼───┼──┼────┼──────┼──┼──┼──┼──┼──┨\n┃    │      │    │        │            │    │    │    │    │    ┃\n┠──┼───┼──┼────┼──────┼──┼──┼──┼──┼──┨\n┃    │      │    │        │            │    │    │    │    │    ┃\n┠──┼───┼──┼────┼──────┼──┼──┼──┼──┼──┨\n┃    │      │    │        │            │    │    │    │    │    ┃\n┠──┼───┼──┼────┼──────┼──┼──┼──┼──┼──┨\n┃    │      │    │        │            │    │    │    │    │    ┃\n┠──┼───┼──┼────┼──────┼──┼──┼──┼──┼──┨\n┃    │      │    │        │            │    │    │    │    │    ┃\n┠──┼───┼──┼────┼──────┼──┼──┼──┼──┼──┨\n┃    │      │    │        │            │    │    │    │    │    ┃\n┠──┼───┼──┼────┼──────┼──┼──┼──┼──┼──┨\n┃    │      │    │        │            │    │    │    │    │    ┃\n┠──┼───┼──┼────┼──────┼──┼──┼──┼──┼──┨\n┃    │      │    │        │            │    │    │    │    │    ┃\n┗━━┷━━━┷━━┷━━━━┷━━━━━━┷━━┷━━┷━━┷━━┷━━┛\n※〈A4횡 작성〉",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115125",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035329",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115125",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035325",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035329",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0035",
-      "filename": "별지35_교화행사 계획부.hwp",
+      "filename": "별지35_교화행사 계획부.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지35_교화행사 계획부.hwp",
+      "local_path": "별지/별지35_교화행사 계획부.pdf",
       "file_store_url": ""
     },
     {
@@ -4092,20 +4373,26 @@
       "content": "〈별지 제36호서식〉\n교화행사 시행부\n┌─┬──┬──┬──┬──┐\n│결│담당│계장│과장│소장│\n│재├──┼──┼──┼──┤\n│  │    │    │    │    │\n└─┴──┴──┴──┴──┘\n┏━━━━━━━━━━━━━━━━┓\n┃           년   월   일(   요일)┃\n┠───────┬┬──────┬┨\n┃행 사 명      ││시    간    │┃\n┠───────┼┼──────┼┨\n┃장    소      ││참석인원    │┃\n┠───────┴┴──────┴┨\n┃방문단체 관련사항               ┃\n┠───────┬┬──────┬┨\n┃단체명        ││대표자      │┃\n┃(주소,연락처) ││(직위?성명)│┃\n┠───────┼┴──────┴┨\n┃행사내용      │                ┃\n┠───────┼────────┨\n┃특이사항      │                ┃\n┗━━━━━━━┷━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115129",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035335",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115129",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035331",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035335",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0036",
-      "filename": "별지36_교화행사 시행부.hwp",
+      "filename": "별지36_교화행사 시행부.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지36_교화행사 시행부.hwp",
+      "local_path": "별지/별지36_교화행사 시행부.pdf",
       "file_store_url": ""
     },
     {
@@ -4117,20 +4404,26 @@
       "content": "〈별지 제37호서식〉\n간행물 배부대장\n┏━━━━┯━━━━┯━━┯━━━┯━━━━━━━━┓\n┃배부일자│간행물명│수량│배부처│결재            ┃\n┃        │        │    │      ├──┬──┬──┨\n┃        │        │    │      │담당│계장│과장┃\n┠────┼────┼──┼───┼──┼──┼──┨\n┃        │        │    │      │    │    │    ┃\n┠────┼────┼──┼───┼──┼──┼──┨\n┃        │        │    │      │    │    │    ┃\n┠────┼────┼──┼───┼──┼──┼──┨\n┃        │        │    │      │    │    │    ┃\n┠────┼────┼──┼───┼──┼──┼──┨\n┃        │        │    │      │    │    │    ┃\n┠────┼────┼──┼───┼──┼──┼──┨\n┃        │        │    │      │    │    │    ┃\n┠────┼────┼──┼───┼──┼──┼──┨\n┃        │        │    │      │    │    │    ┃\n┠────┼────┼──┼───┼──┼──┼──┨\n┃        │        │    │      │    │    │    ┃\n┠────┼────┼──┼───┼──┼──┼──┨\n┃        │        │    │      │    │    │    ┃\n┠────┼────┼──┼───┼──┼──┼──┨\n┃        │        │    │      │    │    │    ┃\n┠────┼────┼──┼───┼──┼──┼──┨\n┃        │        │    │      │    │    │    ┃\n┠────┼────┼──┼───┼──┼──┼──┨\n┃        │        │    │      │    │    │    ┃\n┠────┼────┼──┼───┼──┼──┼──┨\n┃        │        │    │      │    │    │    ┃\n┠────┼────┼──┼───┼──┼──┼──┨\n┃        │        │    │      │    │    │    ┃\n┠────┼────┼──┼───┼──┼──┼──┨\n┃        │        │    │      │    │    │    ┃\n┠────┼────┼──┼───┼──┼──┼──┨\n┃        │        │    │      │    │    │    ┃\n┠────┼────┼──┼───┼──┼──┼──┨\n┃        │        │    │      │    │    │    ┃\n┗━━━━┷━━━━┷━━┷━━━┷━━┷━━┷━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115133",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035341",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115133",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035337",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035341",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0037",
-      "filename": "별지37_간행물 배부대장.hwp",
+      "filename": "별지37_간행물 배부대장.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지37_간행물 배부대장.hwp",
+      "local_path": "별지/별지37_간행물 배부대장.pdf",
       "file_store_url": ""
     },
     {
@@ -4142,20 +4435,26 @@
       "content": "〈별지 제38호서식〉\n외부강사 초빙대장\n┏━━┯━━━━━━━━━━━━┯━━━━┯━━┯━━━━━━━━┓\n┃일자│강 사                   │목   적 │비고│결  재          ┃\n┃    ├─────┬──┬───┤        │    ├──┬──┬──┨\n┃    │직업(직위)│성명│연락처│        │    │담당│과장│소장┃\n┠──┼─────┼──┼───┼────┼──┼──┼──┼──┨\n┃    │          │    │      │        │    │    │    │    ┃\n┠──┼─────┼──┼───┼────┼──┼──┼──┼──┨\n┃    │          │    │      │        │    │    │    │    ┃\n┠──┼─────┼──┼───┼────┼──┼──┼──┼──┨\n┃    │          │    │      │        │    │    │    │    ┃\n┠──┼─────┼──┼───┼────┼──┼──┼──┼──┨\n┃    │          │    │      │        │    │    │    │    ┃\n┠──┼─────┼──┼───┼────┼──┼──┼──┼──┨\n┃    │          │    │      │        │    │    │    │    ┃\n┠──┼─────┼──┼───┼────┼──┼──┼──┼──┨\n┃    │          │    │      │        │    │    │    │    ┃\n┠──┼─────┼──┼───┼────┼──┼──┼──┼──┨\n┃    │          │    │      │        │    │    │    │    ┃\n┠──┼─────┼──┼───┼────┼──┼──┼──┼──┨\n┃    │          │    │      │        │    │    │    │    ┃\n┠──┼─────┼──┼───┼────┼──┼──┼──┼──┨\n┃    │          │    │      │        │    │    │    │    ┃\n┠──┼─────┼──┼───┼────┼──┼──┼──┼──┨\n┃    │          │    │      │        │    │    │    │    ┃\n┗━━┷━━━━━┷━━┷━━━┷━━━━┷━━┷━━┷━━┷━━┛\n※〈A4횡 작성〉",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115137",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035347",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115137",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035343",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035347",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0038",
-      "filename": "별지38_외부강사 초빙대장.hwp",
+      "filename": "별지38_외부강사 초빙대장.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지38_외부강사 초빙대장.hwp",
+      "local_path": "별지/별지38_외부강사 초빙대장.pdf",
       "file_store_url": ""
     },
     {
@@ -4167,51 +4466,49 @@
       "content": "〈별지 제39호〉\n───────────────\n석방 전 교육 시간표(예시)\n───────────────\n┏━━━┯━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━┓\n┃구분  │시간    │교육 내용                                               │진 행                   ┃\n┣━━━┿━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━┫\n┃1일차 │09:30   │ 교육소개 및 오리엔테이션                               │자체강사                ┃\n┃      │~10:20  │  - 교육과정 소개                                       │                        ┃\n┃      │        │  - 귀가의류·여비 신청절차 안내 등                     │                        ┃\n┃      ├────┼────────────────────────────┼────────────┨\n┃      │10:30   │ 사회보장제도 안내                                      │시·군·구청 및 관할    ┃\n┃      │~11:20  │  - 국민기초생활, 긴급복지지원제도                      │주민자치센터            ┃\n┃      │        │  - 주민등록말소 재등록 및 재발급                       │담당공무원              ┃\n┃      ├────┼────────────────────────────┼────────────┨\n┃      │13:00   │ 준법교육 (법질서 확립 등)                              │자체강사                ┃\n┃      │~13:50  │  - 4대악 관련교육                                      │법률구조공단            ┃\n┃      │        │  - 생활속에 살아 있는 법교육, 준법질서 확립            │법문화교육              ┃\n┃      │        │                                                        │담당자                  ┃\n┃      ├────┼────────────────────────────┼────────────┨\n┃      │14:00   │ 신용회복지원제도                                       │한국자산관리공사        ┃\n┃      │~14:50  │  - 신용회복지원절차                                    │각 지부담당자           ┃\n┃      │        │    (개인워크아웃, 개인회생, 개인파산)                  │                        ┃\n┃      ├────┼────────────────────────────┼────────────┨\n┃      │15:00   │ 보호관찰 대상자 및 가석방 예정자 교육                  │관할 보호관찰소         ┃\n┃      │~15:50  │  - 보호관찰제도 및 가석방자 지켜야할 사항 고지         │담당직원,               ┃\n┃      │        │                                                        │자체강사                ┃\n┣━━━┿━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━┫\n┃2일차 │09:30   │ 재범방지교육                                           │00가정지원센터          ┃\n┃      │~10:20  │  - 가치관 확립, 가족관계 회복, 중독예방 등             │00중독관리센터          ┃\n┃      │        │                                                        │자체강사                ┃\n┃      ├────┼────────────────────────────┼────────────┨\n┃      │10:30   │ 연금안내 및 상담                                       │국민연금관리공단        ┃\n┃      │~11:20  │  - 4대 연금 관련 교육, 노후설계                        │담당자                  ┃\n┃      ├────┼────────────────────────────┼────────────┨\n┃      │13:00   │ 취업 및 창업관련 교육                                  │소상공인진흥공단,       ┃\n┃      │~14:50  │  - 취업현황 소개, 사례분석                             │고용노동부 담당공무원   ┃\n┃      │        │                                                        │취업위원, 자체강사      ┃\n┃      ├────┼────────────────────────────┼────────────┨\n┃      │15:00   │ 출소자 사회복귀 성공사례 안내                          │사회복귀도우미          ┃\n┃      │~15:50  │  - 출소후 취업·창업 실제사례, 사회 정착 사례          │(영상자료 활용)         ┃\n┣━━━┿━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━┫\n┃3일차 │09:30   │ 법무보호복지공단 및 민간갱생보호법인 사업안내          │법무보호복지공단 및     ┃\n┃      │~11:20  │  - 갱생보호 프로그램 소개                              │민간갱생보호법인 담당자 ┃\n┃      ├────┼────────────────────────────┤                        ┃\n┃      │13:00   │ 법무보호복지공단 및 민간갱생보호법인 출소예정자 사전면 │                        ┃\n┃      │~14:30  │담                                                      │                        ┃\n┃      │        │  - 개별면담 실시                                       │                        ┃\n┃      ├────┼────────────────────────────┼────────────┨\n┃      │14:30   │ 자기변화/성찰 시간                                     │자체강사                ┃\n┃      │~15:30  │  - 타입캡슐 확인                                       │                        ┃\n┃      │        │  - 나의 다짐, 출소 후 생활계획서 작성 및 소감발표      │                        ┃\n┃      ├────┼────────────────────────────┼────────────┨\n┃      │15:30   │ 설문조사 및 수료식                                     │자체강사                ┃\n┃      │~16:00  │                                                        │                        ┃\n┗━━━┷━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115141",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035353",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126115141",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035349",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035353",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:수용자교육교화운영지침#BJ0039",
-      "filename": "별지39_석방 전 교육 시간표(예시).hwp",
+      "filename": "별지39_석방 전 교육 시간표(예시).pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지39_석방 전 교육 시간표(예시).hwp",
+      "local_path": "별지/별지39_석방 전 교육 시간표(예시).pdf",
       "file_store_url": ""
     }
   ],
   "attachments": [
     {
-      "name": "수용자 교육교화 운영지침 일부개정(안).hwp",
-      "url": "http://law.go.kr/flDownload.do?flSeq=126096339",
-      "filename": "수용자 교육교화 운영지침 일부개정(안).hwp",
+      "name": "「수용자 교육교화 운영지침」 일부 개정 전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169967831",
+      "filename": "「수용자 교육교화 운영지침」 일부 개정 전문.hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/수용자 교육교화 운영지침 일부개정(안).hwp",
-      "file_store_url": ""
-    },
-    {
-      "name": "수용자 교육교화 운영지침 일부개정(안)- 이유서.hwp",
-      "url": "http://law.go.kr/flDownload.do?flSeq=126096341",
-      "filename": "수용자 교육교화 운영지침 일부개정(안)- 이유서.hwp",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/수용자 교육교화 운영지침 일부개정(안)- 이유서.hwp",
+      "local_path": "첨부파일/「수용자 교육교화 운영지침」 일부 개정 전문.hwpx",
       "file_store_url": ""
     }
   ],
   "ordinance_delegations": [],
   "relation_mode": "no_crawl",
   "relation_stats": {
-    "relations_total": 101,
+    "relations_total": 105,
     "by_category": {
-      "법령": 68,
+      "법령": 72,
       "행정규칙": 33
     },
     "by_relation_type": {
-      "citation": 72,
+      "citation": 76,
       "appendix_ref": 23,
       "internal_ref": 6
     },
@@ -4220,9 +4517,9 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 15,
+    "addenda_count": 16,
     "appendices_count": 39,
-    "attachments_count": 2
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/수용자 교육교화 운영지침"
