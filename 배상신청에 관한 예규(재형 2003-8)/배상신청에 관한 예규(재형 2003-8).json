@@ -1,16 +1,16 @@
 {
   "law_id": "2111721",
-  "mst": "2200000107681",
+  "mst": "2200000108923",
   "law_name": "배상신청에 관한 예규(재형 2003-8)",
   "law_abbr": "",
   "law_type": "재판예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2111721",
-  "promulgation_no": "1925",
-  "promulgation_date": "20250731",
-  "enforcement_date": "20251010",
-  "revision_date": "20250731",
+  "promulgation_no": "1968-4",
+  "promulgation_date": "20260928",
+  "enforcement_date": "20261002",
+  "revision_date": "20260928",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,24 +19,24 @@
     "담당자명": "",
     "행정규칙종류코드": "B0013",
     "행정규칙명": "배상신청에 관한 예규(재형 2003-8)",
-    "발령일자": "20250731",
+    "발령일자": "20260928",
     "행정규칙종류": "재판예규",
     "제개정구분코드": "200403",
     "조문형식여부": "N",
-    "소관부처명": "대법원",
+    "소관부처명": "",
     "전화번호": "",
     "제개정구분명": "일부개정",
     "소관부처코드": "9740000",
-    "생성일자": "20251023",
+    "생성일자": "20261002",
     "행정규칙ID": "2111721",
-    "시행일자": "20251010",
+    "시행일자": "20261002",
     "담당부서기관코드": "",
-    "발령번호": "1925",
-    "행정규칙일련번호": "2200000107681",
+    "발령번호": "1968-4",
+    "행정규칙일련번호": "2200000108923",
     "상위부처명": "대법원"
   },
-  "amendment_text": "배상신청에 관한 예규(재형 2003-8) 일부를 다음과 같이 개정한다.\n본문생략\n부    칙\n제1조(시행일) 이 예규는 2025년 10월 10일부터 시행한다.\n제2조(적용례) 이 예규는「형사사법절차에서의 전자문서 이용 등에 관한 규칙」 부칙 제2조제1항에 따른 각 적용일 이후 수사가 개시되어 제1심에 최초로 접수되는 사건부터 적용한다.",
-  "revision_reason": "1. 개정이유\n○ 형사전자소송의 시행에 따라 전자문서로 작성되어 보존되는 재판서로 배상명령이 확정된 경우에는 전자적 방법으로 재판정본의 송부, 발급, 보관이 가능하게 되므로, 배상명령정본철과 관련된 각종 서류의 송부, 보존, 기재 등의 전자적 대체 방법을 규정함\n2. 주요내용\n○ 전자문서로 작성된 재판서로 배상명령이 확정되고 송달일자 및 확정일자가 전자적으로 확인되는 경우, 상소심의 재판정본 송부, 송달일자 및 확정일자의 기재, 판결정본송달 통지서의 송부를 전자적 방법으로 대체함(제14조제4항 신설)\n○ 제1심 판결법원의 재판정본 보존 및 관련 정보의 기재를 전자적 방법으로 대체함(제15조제4항 신설)",
+  "amendment_text": "배상신청에 관한 예규 일부를 다음과 같이 개정한다.\n본문생략\n부    칙\n제1조(시행일) 이 예규는 2026년 10월 2일부터 시행한다.",
+  "revision_reason": "1. 개정이유\n○ 「공소청법」(법률 제21490호, 2026. 3. 24. 공포, 2026. 10. 2. 시행) 및 「중대범죄수사청 조직 및 운영에 관한 법률」(법률 제21491호, 2026. 3. 24. 공포, 2026. 10. 2. 시행)이 제정되고, 「형사소송법」이 개정(법률 제21857호, 2026. 8. 4. 공포, 2026. 10. 2. 시행)됨에 따라, 검찰청 폐지 및 공소청 체계로의 전환, 검사의 수사권 조정 등 형사사법체계 개편사항을 반영하여 관련 예규의 기관명칭, 업무처리 주체 및 관련 표현을 정비하고 필요한 경과조치를 마련하려는 것임\n2. 주요내용\n○ 제11조제3항에서 배상명령사건이 확정된 후 형사 본안 소송기록을 송부하는 기관을 “대응하는 검찰청”에서 “대응하는 공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다)”으로 정비함(제5조)",
   "body": {
     "format": "articles",
     "article_count": 17,
@@ -167,13 +167,13 @@
         "article_title": "배상명령에 대한 즉시항고만 제기된 경우",
         "chapter": "제4장 불복이 있는 경우의 처리",
         "chapter_path": "제4장 불복이 있는 경우의 처리",
-        "content": "제11조 (배상명령에 대한 즉시항고만 제기된 경우) ① 형사항고사건으로 접수처리하며 형사항고사건기록 표지를 작성하여 원심 기록의 전면에 붙이되, 사건명은 \"배상명령에 대한 즉시항고\"로 기재한다.② 즉시항고에 대한 결정서에 원심재판을 표시함에 있어서, 원심사건이 배상신청사건인  때에는 \"원심재판 ○○법원 2003. 9. 20. 선고, 2003초기 ○○○결정\"의 방식으로 기재하고, 원심에서 직권으로 배상명령을 한 때에는 \"원심재판 ○○법원 2003. 9. 20. 선고, 2003고단○○○ 판결중의 배상명령\"의 방식으로 기재한다.③ 항고법원(재항고법원을 포함한다, 이하 같다)에서 배상명령사건이 확정된 때에는 지체없이 소송기록을 형사 본안사건이 확정된 심급의 법원으로 송부하여야 하며, 이를 송부받은 법원에서는 제1항에 의한 항고(재항고를 포함한다, 이하 같다)기록표지를 형사 본안기록 표지 바로 뒤에 철하여 형사 본안기록 표지가 기록 전면에 나오도록 한 다음 소송기록을 대응하는 검찰청 또는 고위공직자범죄수사처에 송부한다. 이 경우 형사 본안기록 표지의 왼쪽 위 여백에 다음과 같은 고무인을 압날한다.[그림]",
+        "content": "제11조 (배상명령에 대한 즉시항고만 제기된 경우) ① 형사항고사건으로 접수처리하며 형사항고사건기록 표지를 작성하여 원심 기록의 전면에 붙이되, 사건명은 \"배상명령에 대한 즉시항고\"로 기재한다.② 즉시항고에 대한 결정서에 원심재판을 표시함에 있어서, 원심사건이 배상신청사건인  때에는 \"원심재판 ○○법원 2003. 9. 20. 선고, 2003초기 ○○○결정\"의 방식으로 기재하고, 원심에서 직권으로 배상명령을 한 때에는 \"원심재판 ○○법원 2003. 9. 20. 선고, 2003고단○○○ 판결중의 배상명령\"의 방식으로 기재한다.③ 항고법원(재항고법원을 포함한다, 이하 같다)에서 배상명령사건이 확정된 때에는 지체없이 소송기록을 형사 본안사건이 확정된 심급의 법원으로 송부하여야 하며, 이를 송부받은 법원에서는 제1항에 의한 항고(재항고를 포함한다, 이하 같다)기록표지를 형사 본안기록 표지 바로 뒤에 철하여 형사 본안기록 표지가 기록 전면에 나오도록 한 다음 소송기록을 대응하는 공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다) 또는 고위공직자범죄수사처에 송부한다. 이 경우 형사 본안기록 표지의 왼쪽 위 여백에 다음과 같은 고무인을 압날한다.[그림]",
         "enforcement_date": "",
         "relations": [],
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/flDownload.do?flSeq=155145259&gubun=ESTABLISHRULEIMG",
+            "url": "https://www.law.go.kr/flDownload.do?flSeq=170046093&gubun=ESTABLISHRULEIMG",
             "seq": "",
             "filename": "제11조_1.gif",
             "file_dir": "본문이미지",
@@ -329,10 +329,10 @@
       "content": "부    칙(2014. 5. 21. 제1470호)제1조 (시행일)이 예규는 2014년 6월 1일부터 시행한다.제2조 (경과조치)이 예규는 이 예규 시행 당시 계속 중인 사건에도 적용한다. 다만 이 예규 시행 전에 종전의 규정에 따라 행한 행위의 효력에는 영향을 미치지 아니한다.",
       "provision_id": "admrul:배상신청에관한예규(재형2003-8)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107681",
+      "source_mst": "2200000108923",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251010"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20250731",
@@ -340,10 +340,21 @@
       "content": "부  칙(2025. 7. 31. 제1925호)제1조(시행일) 이 예규는 2025년 10월 10일부터 시행한다.제2조(적용례) 이 예규는「형사사법절차에서의 전자문서 이용 등에 관한 규칙」 부칙 제2조제1항에 따른 각 적용일 이후 수사가 개시되어 제1심에 최초로 접수되는 사건부터 적용한다.",
       "provision_id": "admrul:배상신청에관한예규(재형2003-8)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107681",
+      "source_mst": "2200000108923",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251010"
+      "version_enforcement_date": "20261002"
+    },
+    {
+      "promulgation_date": "99991231",
+      "promulgation_no": "9997",
+      "content": "부  칙(2026. 9. 28. 제1968-4호)제1조(시행일) 이 예규는 2026년 10월 2일부터 시행한다.",
+      "provision_id": "admrul:배상신청에관한예규(재형2003-8)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108923",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "99991231",
@@ -351,10 +362,10 @@
       "content": "부  칙(2021. 7. 22. 제1776-12호)이 예규는 즉시 시행한다.",
       "provision_id": "admrul:배상신청에관한예규(재형2003-8)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107681",
+      "source_mst": "2200000108923",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251010"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "99991231",
@@ -362,10 +373,10 @@
       "content": "부  칙제1조 이 예규는 2003. 9. 15.부터 시행한다.제2조 \"배상신청사건 처리요령에 관한 예규(재형 81-8)\" \"형사배상명령제도의 활성화(재형 84-2)\", \"배상명령정본에 대한 집행문 부여여부{민사 제1206호 제2회 전국법원 사건과장회의( 87. 4. 20.)시 토의결과에 관한 지시사항}\"은 폐지한다.",
       "provision_id": "admrul:배상신청에관한예규(재형2003-8)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000107681",
+      "source_mst": "2200000108923",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251010"
+      "version_enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -378,11 +389,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155145261",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046095",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155145261",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046095",
           "name": "",
           "file_store_url": ""
         }
@@ -403,11 +414,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155145263",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046097",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155145263",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046097",
           "name": "",
           "file_store_url": ""
         }
@@ -428,11 +439,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155145265",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046379",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155145265",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046379",
           "name": "",
           "file_store_url": ""
         }
@@ -453,11 +464,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155145267",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046381",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155145267",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046381",
           "name": "",
           "file_store_url": ""
         }
@@ -486,7 +497,7 @@
     "unmatched_relations": 4,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 4,
     "attachments_count": 0
   },
