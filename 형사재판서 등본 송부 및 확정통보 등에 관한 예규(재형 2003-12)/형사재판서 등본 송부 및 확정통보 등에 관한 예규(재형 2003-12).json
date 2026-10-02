@@ -1,16 +1,16 @@
 {
   "law_id": "2111301",
-  "mst": "2200000101375",
+  "mst": "2200000109005",
   "law_name": "형사재판서 등본 송부 및 확정통보 등에 관한 예규(재형 2003-12)",
   "law_abbr": "",
   "law_type": "재판예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2111301",
-  "promulgation_no": "1810",
-  "promulgation_date": "20220523",
-  "enforcement_date": "20220523",
-  "revision_date": "20220523",
+  "promulgation_no": "1968-20",
+  "promulgation_date": "20260928",
+  "enforcement_date": "20261002",
+  "revision_date": "20260928",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,24 +19,24 @@
     "담당자명": "",
     "행정규칙종류코드": "B0013",
     "행정규칙명": "형사재판서 등본 송부 및 확정통보 등에 관한 예규(재형 2003-12)",
-    "발령일자": "20220523",
+    "발령일자": "20260928",
     "행정규칙종류": "재판예규",
     "제개정구분코드": "200403",
     "조문형식여부": "N",
-    "소관부처명": "대법원",
+    "소관부처명": "",
     "전화번호": "",
     "제개정구분명": "일부개정",
     "소관부처코드": "9740000",
-    "생성일자": "20241125",
+    "생성일자": "20261002",
     "행정규칙ID": "2111301",
-    "시행일자": "20220523",
+    "시행일자": "20261002",
     "담당부서기관코드": "",
-    "발령번호": "1810",
-    "행정규칙일련번호": "2200000101375",
+    "발령번호": "1968-20",
+    "행정규칙일련번호": "2200000109005",
     "상위부처명": "대법원"
   },
-  "amendment_text": "형사재판서 등본 송부 및 확정통보 등에 관한 예규(재형 2003-12) 일부를 다음과 같이 개정한다.\n제10조제1항 전단 중 “「지방자치법」 제37조의2제2항, 제100조제2항 또는 「지방교육자치에 관한 법률」 제3조에 따라 준용되는 「지방자치법」   제100조제2항 ”을 “「지방자치법」 제45조제2항, 제113조제2항 또는 「지방교육자치에 관한 법률」 제3조에 따라 준용되는 「지방자치법」 제113조제2항 ”으로 한다.\n부    칙\n이 예규는 즉시 시행한다.",
-  "revision_reason": "1. 개정이유\n○ 지방자치법의 전부개정(법률 제17893호, 2022. 1. 13. 시행)으로 법조항이 변경되어 관련 조항을 정비함\n2. 주요내용\n○ 개정된 「지방자치법」의 법조항(제45조제2항, 제113조제2항)을 관련 조문에 반영하여 정비함(제10조제1항)",
+  "amendment_text": "형사재판서 등본 송부 및 확정통보 등에 관한 예규 일부를 다음과 같이 개정한다.\n본문생략\n부    칙\n제1조(시행일) 이 예규는 2026년 10월 2일부터 시행한다.",
+  "revision_reason": "1. 개정이유\n○ 「공소청법」(법률 제21490호, 2026. 3. 24. 공포, 2026. 10. 2. 시행) 및 「중대범죄수사청 조직 및 운영에 관한 법률」(법률 제21491호, 2026. 3. 24. 공포, 2026. 10. 2. 시행)이 제정되고, 「형사소송법」이 개정(법률 제21857호, 2026. 8. 4. 공포, 2026. 10. 2. 시행)됨에 따라, 검찰청 폐지 및 공소청 체계로의 전환, 검사의 수사권 조정 등 형사사법체계 개편사항을 반영하여 관련 예규의 기관명칭, 업무처리 주체 및 관련 표현을 정비하고 필요한 경과조치를 마련하려는 것임\n2. 주요내용\n○ 제8조에서 1건 수명의 피고인 중 일부 피고인에 대해서만 형이 확정된 경우 재판일부확정통지서에 의한 일부확정 통보기관을 “검찰청”에서 “공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다)”으로 정비함(제21조)",
   "body": {
     "format": "articles",
     "article_count": 15,
@@ -178,7 +178,7 @@
         "article_title": "일부확정 통보",
         "chapter": "",
         "chapter_path": "",
-        "content": "제8조  (일부확정 통보) 다음 각호의 경우 등 1건 수명의 피고인 중 일부 피고인에 관해서만 형이 확정되었을 경우에는 참여사무관 등은 재판일부확정통지서(전산양식 B3521)에 의하여 검찰청 또는 고위공직자범죄수사처에 재판의 일부확정 통보를 하여야 한다.1. 1건 수명의 형사사건 중 일부 피고인은 상소하고 일부 피고인은 형이 확정되었을 때2. 분리 심리되어 일부 피고인은 재판 계류중이고 일부 피고인은 형이 확정되었을 때3. 약식사건 중 일부 피고인은 정식재판을 청구하고 일부 피고인은 형이 확정되었을 때4. 1건 수명의 형사사건 중 일부 피고인은 구공판, 일부 피고인은 구약식된 사건에서 약식명령이 확정되었을 때",
+        "content": "제8조  (일부확정 통보) 다음 각호의 경우 등 1건 수명의 피고인 중 일부 피고인에 관해서만 형이 확정되었을 경우에는 참여사무관 등은 재판일부확정통지서(전산양식 B3521)에 의하여 공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다) 또는 고위공직자범죄수사처에 재판의 일부확정 통보를 하여야 한다.1. 1건 수명의 형사사건 중 일부 피고인은 상소하고 일부 피고인은 형이 확정되었을 때2. 분리 심리되어 일부 피고인은 재판 계류중이고 일부 피고인은 형이 확정되었을 때3. 약식사건 중 일부 피고인은 정식재판을 청구하고 일부 피고인은 형이 확정되었을 때4. 1건 수명의 형사사건 중 일부 피고인은 구공판, 일부 피고인은 구약식된 사건에서 약식명령이 확정되었을 때",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -537,10 +537,10 @@
       "content": "부 칙(2010. 6. 4. 제1311호)이 예규는  즉시 시행한다.",
       "provision_id": "admrul:형사재판서등본송부및확정통보등에관한예규(재형2003-12)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000101375",
+      "source_mst": "2200000109005",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20220523"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20130124",
@@ -548,10 +548,10 @@
       "content": "부 칙(2013. 1. 24. 제1425호)이 예규는 2013년 2월 1일부터 시행한다.",
       "provision_id": "admrul:형사재판서등본송부및확정통보등에관한예규(재형2003-12)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000101375",
+      "source_mst": "2200000109005",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20220523"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20130708",
@@ -559,10 +559,10 @@
       "content": "부 칙(2013. 7. 8. 제1448호)이 예규는 2013년 7월 15일부터 시행한다.",
       "provision_id": "admrul:형사재판서등본송부및확정통보등에관한예규(재형2003-12)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000101375",
+      "source_mst": "2200000109005",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20220523"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20150710",
@@ -570,10 +570,10 @@
       "content": "부 칙(2015. 7. 10. 제1539호)제1조(시행일) 이 예규는 즉시 시행한다.제2조(계속사건에 대한 경과조치) 이 예규는 이 예규 시행 당시 법원에 계속 중인 사건에 대하여도 적용한다.",
       "provision_id": "admrul:형사재판서등본송부및확정통보등에관한예규(재형2003-12)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000101375",
+      "source_mst": "2200000109005",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20220523"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20150819",
@@ -581,10 +581,10 @@
       "content": "부 칙(2015. 8. 19. 제1542호)제1조(시행일) 이 예규는 2015년 9월 1일부터 시행한다.제2조(경과조치) 이 예규는 이 예규 시행 당시 계속 중인 사건에도 적용한다.",
       "provision_id": "admrul:형사재판서등본송부및확정통보등에관한예규(재형2003-12)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000101375",
+      "source_mst": "2200000109005",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20220523"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20160203",
@@ -592,10 +592,10 @@
       "content": "부 칙(2016. 2. 3. 제1565호)제1조(시행일) 이 예규는 2016년 3월 1일부터 시행한다.제2조 (경과조치) 이 예규는 이 예규 시행 당시 계속 중인 사건에도 적용한다. 다만 이 예규 시행 전에 종전의 규정에 따라 행한 행위의 효력에는 영향을 미치지 아니한다.",
       "provision_id": "admrul:형사재판서등본송부및확정통보등에관한예규(재형2003-12)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000101375",
+      "source_mst": "2200000109005",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20220523"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20160617",
@@ -603,10 +603,10 @@
       "content": "부 칙(2016. 6. 17. 제1586호)제1조(시행일) 이 예규는 2016년 7월 1일부터 시행한다.제2조 (경과조치) 이 예규는 이 예규 시행 당시 계속 중인 사건에도 적용한다. 다만 이 예규 시행 전에 종전의 규정에 따라 행한 행위의 효력에는 영향을 미치지 아니한다.",
       "provision_id": "admrul:형사재판서등본송부및확정통보등에관한예규(재형2003-12)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000101375",
+      "source_mst": "2200000109005",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20220523"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20160808",
@@ -614,10 +614,10 @@
       "content": "부 칙(2016. 8. 8. 제1595호)제1조(시행일) 이 예규는 즉시 시행한다.제2조(계속사건에 대한 경과조치) 이 예규는 이 예규 시행 당시 법원에 계속 중인 사건에 대하여도 적용한다.",
       "provision_id": "admrul:형사재판서등본송부및확정통보등에관한예규(재형2003-12)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000101375",
+      "source_mst": "2200000109005",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20220523"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20220523",
@@ -625,10 +625,21 @@
       "content": "부  칙(2022. 5. 23. 제1810호)이 예규는 즉시 시행한다.",
       "provision_id": "admrul:형사재판서등본송부및확정통보등에관한예규(재형2003-12)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000101375",
+      "source_mst": "2200000109005",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20220523"
+      "version_enforcement_date": "20261002"
+    },
+    {
+      "promulgation_date": "99991231",
+      "promulgation_no": "9996",
+      "content": "부  칙(2026. 9. 28. 제1968-20호)제1조(시행일) 이 예규는 2026년 10월 2일부터 시행한다.",
+      "provision_id": "admrul:형사재판서등본송부및확정통보등에관한예규(재형2003-12)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000109005",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "99991231",
@@ -636,10 +647,10 @@
       "content": "부  칙(2021. 7. 22. 제1776-10호)이 예규는 즉시 시행한다.",
       "provision_id": "admrul:형사재판서등본송부및확정통보등에관한예규(재형2003-12)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000101375",
+      "source_mst": "2200000109005",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20220523"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "99991231",
@@ -647,10 +658,10 @@
       "content": "부 칙이 예규는  2008. 1. 1.부터 시행한다.",
       "provision_id": "admrul:형사재판서등본송부및확정통보등에관한예규(재형2003-12)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000101375",
+      "source_mst": "2200000109005",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20220523"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "99991231",
@@ -658,10 +669,10 @@
       "content": "부 칙제1조 (시행일) 이 예규는 2003. 9. 15.부터 시행한다.제2조 (폐지예규) \"형사재판서 등ㆍ초본 송부(재형 80-2)\", \"판결선고와 결과통지(재형 62-7)\", \"형사판결 결과통지(재형 79-5)\", \"형사재판의 일부가 확정된 경우의 사무처리(재형 77-3)\", \"재판을 기재한 조서의 등초본 교부절차(재형 64-11)\", \"무죄, 면소 등 판결을 선고한 사건의 형사보상에 관한 사무처리방법(재형 62-10)\", \"지방의회의원 등의 형사사건 확정판결의 통지에 관한 예규(재형 99-3)\", \"형사판결등본 송달에 관한 예규(재형 2000-5)\"를 폐지한다.",
       "provision_id": "admrul:형사재판서등본송부및확정통보등에관한예규(재형2003-12)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000101375",
+      "source_mst": "2200000109005",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20220523"
+      "version_enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -683,7 +694,7 @@
     "unmatched_relations": 16,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 12,
+    "addenda_count": 13,
     "appendices_count": 0,
     "attachments_count": 0
   },
