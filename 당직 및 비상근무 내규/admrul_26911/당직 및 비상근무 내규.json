@@ -64,14 +64,14 @@
             "source_admrul_seq": "26911",
             "target_url": "https://www.law.go.kr/법령/국가공무원 복무규칙",
             "resolve_method": "html",
-            "source_provision_id": "admrul:당직및비상근무내규#JO0001",
+            "source_provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0001",
             "reference_id": "law:국가공무원복무규칙#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "국가공무원 복무규칙/법률/국가공무원 복무규칙.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0001"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0001"
       },
       {
         "article_no": "제2조",
@@ -82,7 +82,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0002"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0002"
       },
       {
         "article_no": "제3조",
@@ -93,7 +93,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0003"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0003"
       },
       {
         "article_no": "제4조",
@@ -104,7 +104,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0004"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0004"
       },
       {
         "article_no": "제5조",
@@ -115,7 +115,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0005"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0005"
       },
       {
         "article_no": "제6조",
@@ -126,7 +126,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0006"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0006"
       },
       {
         "article_no": "제7조",
@@ -137,7 +137,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0007"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0007"
       },
       {
         "article_no": "제8조",
@@ -148,7 +148,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0008"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0008"
       },
       {
         "article_no": "제9조",
@@ -159,7 +159,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0009"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0009"
       },
       {
         "article_no": "제10조",
@@ -170,7 +170,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0010"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0010"
       },
       {
         "article_no": "제11조",
@@ -181,7 +181,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0011"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0011"
       },
       {
         "article_no": "제12조",
@@ -192,7 +192,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0012"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0012"
       },
       {
         "article_no": "제13조",
@@ -203,7 +203,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0013"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0013"
       },
       {
         "article_no": "제14조",
@@ -214,7 +214,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0014"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0014"
       },
       {
         "article_no": "제15조",
@@ -225,7 +225,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0015"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0015"
       },
       {
         "article_no": "제15조의1",
@@ -236,7 +236,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0015_01"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0015_01"
       },
       {
         "article_no": "제15조의2",
@@ -247,7 +247,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0015_02"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0015_02"
       },
       {
         "article_no": "제16조",
@@ -258,7 +258,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0016"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0016"
       },
       {
         "article_no": "제17조",
@@ -269,7 +269,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0017"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0017"
       },
       {
         "article_no": "제18조",
@@ -280,7 +280,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0018"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0018"
       },
       {
         "article_no": "제19조",
@@ -291,7 +291,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0019"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0019"
       },
       {
         "article_no": "제20조",
@@ -302,7 +302,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0020"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0020"
       },
       {
         "article_no": "제21조",
@@ -313,7 +313,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0021"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0021"
       },
       {
         "article_no": "제22조",
@@ -324,7 +324,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0022"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0022"
       },
       {
         "article_no": "제23조",
@@ -335,7 +335,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:당직및비상근무내규#JO0023"
+        "provision_id": "admrul:당직및비상근무내규:admrul_26911#JO0023"
       }
     ]
   },
@@ -344,7 +344,7 @@
       "promulgation_date": "20041028",
       "promulgation_no": "109",
       "content": "부칙 <제109호,2004. 10. 28.>이 내규는 2004. 10. 28.부터 시행한다.",
-      "provision_id": "admrul:당직및비상근무내규#ADDENDUM",
+      "provision_id": "admrul:당직및비상근무내규:admrul_26911#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000273526",
       "source_version_uid": "",
@@ -355,7 +355,7 @@
       "promulgation_date": "20110801",
       "promulgation_no": "164",
       "content": "부칙 <제164호,2011. 8. 1.>① 이 내규는 2011. 8. 1.부터 시행한다.② 이 내규 시행전에 발령한 당직책임자, 당직 정ㆍ부보조자는 이 내규에 의하여 발령한 것으로 본다.",
-      "provision_id": "admrul:당직및비상근무내규#ADDENDUM",
+      "provision_id": "admrul:당직및비상근무내규:admrul_26911#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000273526",
       "source_version_uid": "",
@@ -366,7 +366,7 @@
       "promulgation_date": "20140113",
       "promulgation_no": "185",
       "content": "부칙 <제185호,2014. 1. 13.>① 이 내규는 2014. 1. 13.부터 시행한다.② 이 내규 시행 전에 발령한 당직책임자, 당직 정ㆍ부보조자는 이 내규에 의하여 발령한 것으로 본다.",
-      "provision_id": "admrul:당직및비상근무내규#ADDENDUM",
+      "provision_id": "admrul:당직및비상근무내규:admrul_26911#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000273526",
       "source_version_uid": "",
@@ -377,7 +377,7 @@
       "promulgation_date": "20150101",
       "promulgation_no": "195",
       "content": "부칙 <제195호,2015. 1. 1.>① 이 내규는 2015. 1. 1.부터 시행한다.② 이 내규 시행 전에 발령한 당직책임자, 당직 정ㆍ부보조자는 이 내규에 의하여 발령한 것으로 본다.",
-      "provision_id": "admrul:당직및비상근무내규#ADDENDUM",
+      "provision_id": "admrul:당직및비상근무내규:admrul_26911#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000273526",
       "source_version_uid": "",
@@ -388,7 +388,7 @@
       "promulgation_date": "20170502",
       "promulgation_no": "220",
       "content": "부칙 <제220호,2017. 5. 2.>① 이 내규는 2017. 5. 8.부터 시행한다.② 이 내규 시행 전에 발령한 당직책임자, 당직 정ㆍ부보조자는 이 내규에 의하여 발령한 것으로 본다.",
-      "provision_id": "admrul:당직및비상근무내규#ADDENDUM",
+      "provision_id": "admrul:당직및비상근무내규:admrul_26911#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000273526",
       "source_version_uid": "",
@@ -399,7 +399,7 @@
       "promulgation_date": "20180416",
       "promulgation_no": "234",
       "content": "부칙 <제234호,2018. 4. 16.>① 이 내규는 2018. 4. 16.부터 시행한다.② 이 내규 시행 전에 발령한 당직책임자, 당직 정ㆍ부보조자는 이 내규에 의하여 발령한 것으로 본다.",
-      "provision_id": "admrul:당직및비상근무내규#ADDENDUM",
+      "provision_id": "admrul:당직및비상근무내규:admrul_26911#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000273526",
       "source_version_uid": "",
@@ -410,7 +410,7 @@
       "promulgation_date": "20230207",
       "promulgation_no": "314",
       "content": "부칙 <제314호, 2023. 2. 7.>① 이 내규는 2023. 2. 7.부터 시행한다.② 이 내규 시행 전에 발령한 당직책임자, 당직 정ㆍ부보조자는 이 내규에 의하여 발령한 것으로 본다.③ 2023. 1. 20.부터 이 내규 개정 전 당직근무자에게 제8조를 소급적용한다.",
-      "provision_id": "admrul:당직및비상근무내규#ADDENDUM",
+      "provision_id": "admrul:당직및비상근무내규:admrul_26911#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000273526",
       "source_version_uid": "",
@@ -421,7 +421,7 @@
       "promulgation_date": "20260120",
       "promulgation_no": "1509",
       "content": "부칙 <제1509호, 2026. 1. 20.>① 이 내규는 2026. 1. 20.부터 시행한다.② 이 내규 시행 전에 발령한 당직책임자, 당직 정ㆍ부보조자는 이 내규에 의하여 발령한 것으로 본다.③ 2026. 1. 20.부터 이 내규 개정 전 당직근무자에게 제8조를 소급적용한다.",
-      "provision_id": "admrul:당직및비상근무내규#ADDENDUM",
+      "provision_id": "admrul:당직및비상근무내규:admrul_26911#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000273526",
       "source_version_uid": "",
@@ -470,12 +470,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/당직 및 비상근무 내규"
   },
-  "provision_id": "admrul:당직및비상근무내규#DOC",
-  "addendum_provision_id": "admrul:당직및비상근무내규#ADDENDUM",
-  "amendment_provision_id": "admrul:당직및비상근무내규#AMENDMENT",
+  "provision_id": "admrul:당직및비상근무내규:admrul_26911#DOC",
+  "addendum_provision_id": "admrul:당직및비상근무내규:admrul_26911#ADDENDUM",
+  "amendment_provision_id": "admrul:당직및비상근무내규:admrul_26911#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "당직 및 비상근무 내규/당직 및 비상근무 내규.json"
+  "git_path": "당직 및 비상근무 내규/admrul_26911/당직 및 비상근무 내규.json"
 }
