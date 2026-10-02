@@ -142,5 +142,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "수형목 지정해제/수형목 지정해제.json"
+  "git_path": "수형목 지정해제/수형목 지정해제.json",
+  "repealed": true,
+  "repealed_at": "20261002"
 }
