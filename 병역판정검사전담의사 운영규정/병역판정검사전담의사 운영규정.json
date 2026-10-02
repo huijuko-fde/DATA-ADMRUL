@@ -1,17 +1,17 @@
 {
   "law_id": "85086",
-  "mst": "2100000275648",
+  "mst": "2100000285928",
   "law_name": "병역판정검사전담의사 운영규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:85086",
-  "promulgation_no": "2195",
-  "promulgation_date": "20260309",
-  "enforcement_date": "20260309",
-  "revision_date": "20260309",
-  "revision_type": "일부개정",
+  "promulgation_no": "2232",
+  "promulgation_date": "20261001",
+  "enforcement_date": "20261002",
+  "revision_date": "20261001",
+  "revision_type": "타법개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
@@ -19,24 +19,24 @@
     "담당자명": "이수민",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "병역판정검사전담의사 운영규정",
-    "발령일자": "20260309",
+    "발령일자": "20261001",
     "행정규칙종류": "훈령",
-    "제개정구분코드": "200403",
+    "제개정구분코드": "200409",
     "조문형식여부": "Y",
     "소관부처명": "병무청",
     "전화번호": "042-481-2946",
-    "제개정구분명": "일부개정",
+    "제개정구분명": "타법개정",
     "소관부처코드": "1300000",
-    "생성일자": "20260311",
+    "생성일자": "20261002",
     "행정규칙ID": "85086",
-    "시행일자": "20260309",
+    "시행일자": "20261002",
     "담당부서기관코드": "1300722",
-    "발령번호": "2195",
-    "행정규칙일련번호": "2100000275648",
+    "발령번호": "2232",
+    "행정규칙일련번호": "2100000285928",
     "상위부처명": "병무청"
   },
-  "amendment_text": "⊙병무청훈령 제2195호\n병역판정검사전담의사 운영규정 일부를 다음과 같이 개정한다.\n2026년 3월 9일\n병무청장\n병역판정검사전담의사 운영규정 일부개정\n병역판정검사전담의사 운영규정 일부를 다음과 같이 개정한다.\n제16조제3항 본문 중 \"기간에\"를 \"기간(검사 휴무일을 포함한다)에\"로 한다.\n제26조제2항 중 \"수\"를 \"수 있으며, 배우자의 임신기간 중 임신검진에 동행하기 위해 10일의 범위에서 임신검진 동행휴가를 사용할 수\"로 한다.\n제29조를 다음과 같이 한다.\n병역판정검사전담의사는 근무 중 그 품위를 유지할 수 있는 단정한 복장을 착용하여야 하며, 특히 병역판정검사시간 중에는 근무복을 착용하여야 하며, 다음 규격의 직위명패를 책상에 비치하여야 한다.\n[그림]\n\n( 규격 : 가로60cm×세로10cm )\n\n제45조제3호 각 목 외의 부분 중 \"대학원\"을 \"대학(원) 등\"으로 하고, 같은 호 가목을 다음과 같이 한다.\n가. 대상: 근무시간 이후 대학 등에서 수학을 원하는 사람으로서 검사업무에 지장이 없는 범위 내에서 수학(방송통신 및 원격 수업 포함)이 가능하다고 소속기관장이 판단하는 경우\n별표 4 및 별표 6을 각각 별지와 같이 한다.\n[별지 생략]\n별지 제27호서식을 별지와 같이 한다.\n[별지 생략]\n부칙\n이 규정은 발령한 날부터 시행한다.",
-  "revision_reason": "◇ 개정이유\n병역판정검사전담의사의 재량근무 가능 시기를 확대하여 연구과제를 성실히 수행할 수 있도록 근무 여건을 보장하고, 「국가공무원 복무규정」,「공무원수당 등에 관한 규정」 개정에 따라 각종 휴가제도, 수당지급 등 복무관리 기준 및 보수지급 기준을 현행화하는 등 병역판정검사전담의사의 사기를 진작하고 업무의 효율성을 높이려는 것임.\n◇ 주요내용\n가. 병역판정검사 기간 중 검사휴무일에도 업무에 차질이 없는 범위 내에서 연구과제를 수행할 수 있도록 근거 마련(제16조)\n나. 국가공무원 복무규정」 개정으로 배우자 임신검진 동행 휴가 규정 신설, 경조사 휴가 확대 등 복무 관리 기준 현행화(제26조, 별표4)\n다.「공무원수당 등에 관한 규정」 개정으로 정근수당 지급기준 변경에 따른 보수지급 기준 현행화(별표6)",
+  "amendment_text": "⊙병무청훈령 제2232호(2026.10.1)\n공소청법 등 시행에 따른 병무청 소송사무 처리 규정 등 9개 훈령 일괄개정\n제1조부터 제7조까지 생략\n제8조(「병역판정검사전담의사 운영규정」) 병역판정검사전담의사 운영규정 일부를 다음과 같이 개정한다.\n제25조제1호 중 \"검찰\"을 \"공소청\"으로 한다.\n제9조 생략\n부칙\n이 규정은 2026년 10월 2일부터 시행한다.",
+  "revision_reason": "◇ 개정이유\n검찰청을 폐지하고, 법무부장관 소속으로 공소청과 행정안전부장관 소속으로 중대범죄수사청을 각각 신설하는 내용으로 「공소청법」(법률 제21490호, ’26.3.24. 제정, ’26.10.2. 시행)과 「중대범죄수사청 조직 및 운영에 관한 법률」(법률 제21491호, ’26.3.24. 제정, ’26.10.2. 시행)이 제정됨에 따라, 법률 제정 사항을 반영하여 용어를 변경하는 등 소관 9개 훈령을 일괄로 정비하려는 것임.\n◇ 주요내용\nㅇ 개정 대상 : 9개 훈령\n[그림]\n",
   "body": {
     "format": "articles",
     "article_count": 48,
@@ -454,7 +454,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275648&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285928&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0005",
             "target_unit": "BYL0001",
@@ -732,7 +732,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295451",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035517",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0009",
             "target_unit": "BJ0001",
@@ -1173,7 +1173,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275648&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285928&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0012",
             "target_unit": "BYL0002",
@@ -1198,7 +1198,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275648&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285928&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0012",
             "target_unit": "BYL0003",
@@ -1257,7 +1257,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295457",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035523",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0015",
             "target_unit": "BJ0002",
@@ -1354,7 +1354,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295465",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035531",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0016",
             "target_unit": "BJ0003",
@@ -1391,7 +1391,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295471",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035537",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0017",
             "target_unit": "BJ0004",
@@ -1416,7 +1416,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295465",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035531",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0017",
             "target_unit": "BJ0003",
@@ -1453,7 +1453,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295477",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035543",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0018",
             "target_unit": "BJ0005",
@@ -1478,7 +1478,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295483",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035549",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0018",
             "target_unit": "BJ0006",
@@ -1503,7 +1503,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295489",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035555",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0018",
             "target_unit": "BJ0007",
@@ -1528,7 +1528,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295495",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035561",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0018",
             "target_unit": "BJ0008",
@@ -1553,7 +1553,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295477",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035543",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0018",
             "target_unit": "BJ0005",
@@ -1590,7 +1590,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295501",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035567",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0019",
             "target_unit": "BJ0009",
@@ -1615,7 +1615,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295483",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035549",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0019",
             "target_unit": "BJ0006",
@@ -1652,7 +1652,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295507",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035573",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0020",
             "target_unit": "BJ0010",
@@ -1677,7 +1677,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295513",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035579",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0020",
             "target_unit": "BJ0011",
@@ -1714,7 +1714,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275648&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285928&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0021",
             "target_unit": "BYL0001",
@@ -1929,8 +1929,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162287247",
-            "seq": "162287247",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170031675",
+            "seq": "170031675",
             "filename": "제23조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제23조_1.gif",
@@ -1976,7 +1976,7 @@
         "article_title": "공가",
         "chapter": "제4장 휴가",
         "chapter_path": "제4장 휴가",
-        "content": "제25조(공가) 병역판정검사전담의사의 공가는 다음 각 호의 어느 하나에 해당하는 경우에 승인한다.1. 공무와 관련하여 국회, 법원, 검찰 및 그 밖의 국가기관에 소환되었을 경우2. 법률에 따라 투표에 참가할 경우3. 천재지변, 교통차단 또는 그 밖의 불가피한 사유로 출근이 불가능 할 경우4. 「국민건강보험법」제52조에 따른 건강검진 또는「결핵예방법」제11조 제1항에 따른 결핵검진 등(결핵검진 또는 잠복결핵검진)을 받을 경우. 이 경우 검진에 소요되는 시간으로 한정한다.5. 다음 각 목의 구분에 따라 학회 등에 참가하고자 할 경우. 이 경우 참가확인에 대한 증빙서류를 제출한 경우에 한정하며, 병역판정검사 기간에는 검사반별로 공가 승인 인원이 1일에 3명을 초과하지 않도록 하여야 한다. <개정 2024.1.30.>가. 국내학회 등 : 의료법 시행규칙 제20조에 따른 보수교육 또는 보수교육으로 인정하는 학회에 참가하고자 하는 경우 다음의 기준에 따라 승인 <개정 2024.1.30., 2025.1.10.>1) 병역판정검사 기간: 복무연차별 2회 이내, 회당 3일 이내2) 병역판정검사 미실시 기간: 횟수 제한 없음, 회당 3일 이내나. 국외학회 : 발표자나 연구자(제3저자 이내)로 등록된 학회에 참가하는 경우(복무기간 중 2회 이내, 회당 왕복일수 포함 5일 이내) <2024.1.30.>다. 삭제 <2024.1.30.>6. 국외에서 시행되는 의사고시에 응시할 때(복무기간 중 1회 왕복일수 포함 5일 이내)7. 전문의 및 전임의 시험에 응시할 때 2일 이내(복무기간 중 1회)8. 병무청장이 주최하는 간담회, 세미나, 업무보고 등에 참석하는 경우9. 원격지로의 전보발령을 받고 부임 할 때10. 「혈액관리법시행령」제2조의 규정에 의하여 헌혈에 참가할 때(4시간 이내)11. 「병역법」에 따른 병역판정검사 등에 응할 때 <신설 2024.1.30.>",
+        "content": "제25조(공가) 병역판정검사전담의사의 공가는 다음 각 호의 어느 하나에 해당하는 경우에 승인한다.1. 공무와 관련하여 국회, 법원, 공소청 및 그 밖의 국가기관에 소환되었을 경우 <개정 2026.10.1.>2. 법률에 따라 투표에 참가할 경우3. 천재지변, 교통차단 또는 그 밖의 불가피한 사유로 출근이 불가능 할 경우4. 「국민건강보험법」제52조에 따른 건강검진 또는「결핵예방법」제11조 제1항에 따른 결핵검진 등(결핵검진 또는 잠복결핵검진)을 받을 경우. 이 경우 검진에 소요되는 시간으로 한정한다.5. 다음 각 목의 구분에 따라 학회 등에 참가하고자 할 경우. 이 경우 참가확인에 대한 증빙서류를 제출한 경우에 한정하며, 병역판정검사 기간에는 검사반별로 공가 승인 인원이 1일에 3명을 초과하지 않도록 하여야 한다. <개정 2024.1.30.>가. 국내학회 등 : 의료법 시행규칙 제20조에 따른 보수교육 또는 보수교육으로 인정하는 학회에 참가하고자 하는 경우 다음의 기준에 따라 승인 <개정 2024.1.30., 2025.1.10.>1) 병역판정검사 기간: 복무연차별 2회 이내, 회당 3일 이내2) 병역판정검사 미실시 기간: 횟수 제한 없음, 회당 3일 이내나. 국외학회 : 발표자나 연구자(제3저자 이내)로 등록된 학회에 참가하는 경우(복무기간 중 2회 이내, 회당 왕복일수 포함 5일 이내) <2024.1.30.>다. 삭제 <2024.1.30.>6. 국외에서 시행되는 의사고시에 응시할 때(복무기간 중 1회 왕복일수 포함 5일 이내)7. 전문의 및 전임의 시험에 응시할 때 2일 이내(복무기간 중 1회)8. 병무청장이 주최하는 간담회, 세미나, 업무보고 등에 참석하는 경우9. 원격지로의 전보발령을 받고 부임 할 때10. 「혈액관리법시행령」제2조의 규정에 의하여 헌혈에 참가할 때(4시간 이내)11. 「병역법」에 따른 병역판정검사 등에 응할 때 <신설 2024.1.30.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -2168,7 +2168,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275648&bylNo=0004&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285928&bylNo=0004&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0026",
             "target_unit": "BYL0004",
@@ -2416,7 +2416,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295521",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035587",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0028",
             "target_unit": "BJ0012",
@@ -2441,7 +2441,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295527",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035593",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0028",
             "target_unit": "BJ0013",
@@ -2464,8 +2464,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162287255",
-            "seq": "162287255",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170031677",
+            "seq": "170031677",
             "filename": "제29조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제29조_1.gif",
@@ -2539,7 +2539,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295535",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035601",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0030",
             "target_unit": "BJ0014",
@@ -2564,7 +2564,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295541",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035607",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0030",
             "target_unit": "BJ0015",
@@ -2744,7 +2744,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275648&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285928&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0033",
             "target_unit": "BYL0001",
@@ -2853,7 +2853,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295547",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035613",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0035",
             "target_unit": "BJ0016",
@@ -2878,7 +2878,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295553",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035619",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0035",
             "target_unit": "BJ0017",
@@ -2903,7 +2903,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295559",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035625",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0035",
             "target_unit": "BJ0018",
@@ -2972,7 +2972,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295565",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035631",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0037",
             "target_unit": "BJ0019",
@@ -3009,7 +3009,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295571",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035637",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0038",
             "target_unit": "BJ0020",
@@ -3034,7 +3034,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295577",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035643",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0038",
             "target_unit": "BJ0021",
@@ -3059,7 +3059,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295583",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035649",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0038",
             "target_unit": "BJ0022",
@@ -3153,7 +3153,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295589",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035655",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0040",
             "target_unit": "BJ0023",
@@ -3178,7 +3178,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295595",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035661",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0040",
             "target_unit": "BJ0024",
@@ -3375,7 +3375,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275648&bylNo=0005&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285928&bylNo=0005&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0041",
             "target_unit": "BYL0005",
@@ -3580,7 +3580,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275648&bylNo=0006&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285928&bylNo=0006&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0041",
             "target_unit": "BYL0006",
@@ -3650,7 +3650,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295601",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035667",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0045",
             "target_unit": "BJ0025",
@@ -3675,7 +3675,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295607",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035673",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0045",
             "target_unit": "BJ0026",
@@ -3700,7 +3700,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "85086",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295613",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035679",
             "resolve_method": "html",
             "source_provision_id": "admrul:병역판정검사전담의사운영규정#JO0045",
             "target_unit": "BJ0027",
@@ -3841,10 +3841,10 @@
       "content": "부칙 <제1955호, 2023. 4. 10.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.제2조(연가 이월ㆍ저축에 관한 특례) 제23조제8항의 규정에도 불구하고 이 규정 시행 전에 복무중인 병역판정검사전담의사에 대해서는 2024년 1월 1일부터 적용한다.",
       "provision_id": "admrul:병역판정검사전담의사운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275648",
+      "source_mst": "2100000285928",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260309"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20240130",
@@ -3852,10 +3852,10 @@
       "content": "부칙 <제2045호, 2024. 1. 30.>이 규정은 2024년 2월 1일부터 시행한다.",
       "provision_id": "admrul:병역판정검사전담의사운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275648",
+      "source_mst": "2100000285928",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260309"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20250110",
@@ -3863,10 +3863,10 @@
       "content": "부칙 <제2118호, 2025. 1. 10.>이 규정은 2025년 1월 13일부터 시행한다.",
       "provision_id": "admrul:병역판정검사전담의사운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275648",
+      "source_mst": "2100000285928",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260309"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20260309",
@@ -3874,10 +3874,21 @@
       "content": "부칙 <제2195호, 2026. 3. 9.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:병역판정검사전담의사운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000275648",
+      "source_mst": "2100000285928",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260309"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "2232",
+      "content": "부칙(공소청법 시행에 따른 병무청 소송사무 처리 규정 등 9개 훈령 일괄개정에 관한 규정) <제2232호, 2026. 10. 1.>이 규정은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "admrul:병역판정검사전담의사운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285928",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -3889,18 +3900,18 @@
       "enforcement_date": "",
       "content": "[별표 1]\n\n불성실 병역판정검사전담의사에 대한 처분 기준\n━━━━━━━━━━━━━━━━━━━━━━━━\n\n□ 병역판정검사전담의사 직무위반 관련\n┏━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━┯━━━━━┓\n┃불 성 실 사 항                  │처 분                                                                               │처분에 따른 조치사항      │처분기관  ┃\n┠────────────────┼──────────────────────────────────────────┼─────────────┼─────┨\n┃○근무불성실로민원을 유발시킨   │?1차 주의                                                                          │                          │병무청장  ┃\n┃때에는 그 사유를 확인하여       │?2차 경고                                                                          │                          │지방청장  ┃\n┃귀책사유가 있는 경우            │                                                                                    │                          │중앙      ┃\n┃○병역판정관의 정당한 직무상의  │                                                                                    │                          │병역판정  ┃\n┃명령을 이행하지 않은 경우       │                                                                                    │                          │검사소장  ┃\n┠────────────────┼──────────────────────────────────────────┼─────────────┤          ┃\n┃○병역판정검사 전담의사 운영    │?경고                                                                              │                          │          ┃\n┃규정의 의무를 위반한 경우       │                                                                                    │                          │          ┃\n┃                                │                                                                                    │                          │          ┃\n┠────────────────┼──────────────────────────────────────────┼─────────────┤          ┃\n┃○12월 이내에 다음과 같이 누적  │                                                                                    │?처분이결정된직후가장    │          ┃\n┃하여처분을받은 경우             │                                                                                    │먼저도래하는검진활동      │          ┃\n┃  ?주의 1회, 경고 1회          │                                                                                    │장려금 지급 시점부터 3    │          ┃\n┃  ?견책 1회                    │                                                                                    │개월간 검진활동장려금     │          ┃\n┃                                │                                                                                    │지급중지                  │          ┃\n┠────────────────┼──────────────────────────────────────────┼─────────────┤          ┃\n┃○12월 이내에 다음과 같이 누적  │                                                                                    │?처분이결정된직후가장    │          ┃\n┃하여처분을받은 경우             │                                                                                    │먼저도래하는검진활        │          ┃\n┃  ?경고 이상 2회               │                                                                                    │동장려금 지급 시점부터    │          ┃\n┃  ?감봉 이상 1회               │                                                                                    │6개월간 검진활동장려금    │          ┃\n┃                                │                                                                                    │지급중지                  │          ┃\n┠────────────────┼──────────────────────────────────────────┼─────────────┤          ┃\n┃○ 무단지참, 무단조퇴 또는 정규 │?경고                                                                              │?처분이결정된직후가장    │          ┃\n┃근무시간 중 직장에서 무단 이    │?이탈일수의5배수 기간연장근무(이탈시간 5배수계산후8시간을 연장근무 일수 1일로 계산)│먼저도래하는검진활동      │          ┃\n┃탈한 경우                       │ *다만, 당사자 희망에 따라                                                          │장려금 지급 시점부터      │          ┃\n┃                                │상기 연장 근무 일수에서 해                                                          │연차별 근속기간의 통산    │          ┃\n┃                                │당 근속기간 잔여 연가 공제                                                          │무단이탈 일수 1일마다     │          ┃\n┃                                │가능(잔여 연가가 없는 경우                                                          │6개월동안 검진활동장려금  │          ┃\n┃                                │다음 해의 연가에서 공제 가능)                                                       │지급중지                  │          ┃\n┃                                │                                                                                    │                          │          ┃\n┃                                │                                                                                    │                          │          ┃\n┃                                │                                                                                    │                          │          ┃\n┠────────────────┼──────────────────────────────────────────┼─────────────┤          ┃\n┃ ○ 수련기간 중 수련기관에서 금 │?경고                                                                              │?처분이결정된직후가장    │          ┃\n┃품을 받은 경우                  │                                                                                    │먼저도래하는검진활        │          ┃\n┃                                │                                                                                    │동장려금 지급 시점부터    │          ┃\n┃                                │                                                                                    │5개월간 검진활동장려금    │          ┃\n┃                                │                                                                                    │지급중지                  │          ┃\n┃                                │                                                                                    │?수련여비 국고 반납      │          ┃\n┗━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━┷━━━━━┛\n┏━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┯━━━━━━━━━━━━┯━━━━━┓\n┃불 성 실 사 항                  │처 분                       │처분에 따른 조치사항    │처분기관  ┃\n┠────────────────┼──────────────┼────────────┼─────┨\n┃ ○ 타 의료기관에서의 진료행    │?전담의사 업무 외의 업무   │?처분이결정된직후가장  │병무청장  ┃\n┃위(당직근무)등 병역판정검       │종사일수 5배수 기간 연      │먼저도래하는검진활      │지방청장  ┃\n┃사전담의사 업무외의 업무        │장근무                      │동장려금 지급 시점부터  │중앙      ┃\n┃에 종사한 경우                  │  (병역법 제34조의4제2항에  │복무만료시까지 검진활   │병역판정  ┃\n┃                                │따른 조치)                  │동장려금 지급중지       │검사소장  ┃\n┃                                │                            │                        │          ┃\n┃                                ├──────────────┤                        │          ┃\n┃                                │?경고                      │                        │          ┃\n┃                                │                            │                        │          ┃\n┃                                │                            │                        │          ┃\n┠────────────────┼──────────────┼────────────┤          ┃\n┃ ○ 복무기간 중 근무시간에 병   │?경고                      │?처분이결정된직후가장  │          ┃\n┃역판정검사 업무를 중단 또는     │                            │먼저도래하는검진활      │          ┃\n┃거부하거나 이와 관련하여 집     │                            │동장려금 지급 시점부터  │          ┃\n┃단행동을 한 경우                │                            │3개월간 검진활동장려금  │          ┃\n┃ ○ 다른 병역판정검사전담의사   │                            │지급중지                │          ┃\n┃에게 그 행위를 권유하는         │                            │                        │          ┃\n┃경우                            │                            │                        │          ┃\n┠────────────────┼──────────────┼────────────┤          ┃\n┃ ○정당한 사유 없이 근무지역을  │?이탈일수의 5배수 기간     │                        │          ┃\n┃이탈하거나, 무단결근 등 병      │연장근무                    │                        │          ┃\n┃역판정검사업무에 종사하지       │                            │                        │          ┃\n┃아니한 경우                     ├──────────────┼────────────┤          ┃\n┃   -7일 이내                    │?경고                      │?처분이결정된직후가장  │          ┃\n┃                                │                            │먼저도래하는검진활동    │          ┃\n┃                                │                            │장려금 지급 시점부터    │          ┃\n┃                                │                            │무단이탈 일수 1일 마다  │          ┃\n┃                                │                            │6개월 동안 검진활동장   │          ┃\n┃                                │                            │려금 지급중지           │          ┃\n┠────────────────┼──────────────┴────────────┤          ┃\n┃○정당한사유없이근무지역을      │?신분박탈, 관할 수사기관의 장에게 고발               │          ┃\n┃이탈하거나, 무단결근등 병역     │  (병역법에 따른 조치)                                │          ┃\n┃판정검사업무에 종사하지 아      │                                                      │          ┃\n┃니한 경우                       │                                                      │          ┃\n┃   -8일 이상                    │                                                      │          ┃\n┗━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━┛\n* 2023. 4. 10. 이전 위반행위에 대해서는 종전의 처분기준 적용\n□ 일반 형사범죄 등 관련\n공무원 징계령에 따라 한시임기제공무원에 준하여 징계위원회에서 심의ㆍ의결하여 처분한다.\n┏━━━━━━┯━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━┓\n┃징계종류    │신분상 효력         │보수상 효력                                             │비고    ┃\n┠─┬────┼──────────┼────────────────────────────┼────┨\n┃경│견책    │-                   │?6개월 승급제한                                        │        ┃\n┃징│        │                    │ (?국가공무원법? 제78조의2제1항 각호의 어느 하나에    │        ┃\n┃계│        │                    │해당하는 사유로 인한 징계처분과 성폭력?성희롱?성      │        ┃\n┃  │        │                    │매매에 따른 징계처분의 경우 각각 6개월 가산)            │        ┃\n┃  │        │                    │?(정근수당) 지급대상기간 중 견책처분을 받은 경우       │        ┃\n┃  │        │                    │미지급                                                  │        ┃\n┃  │        │                    │?(수당 등) 전액 지급                                   │        ┃\n┃  │        │                    │?(검진활동장려금) 3개월 지급중지                       │        ┃\n┃  ├────┼──────────┼────────────────────────────┼────┨\n┃  │감봉    │-                   │?(보수) 처분기간(1~3월) 중 1/3 감액                    │        ┃\n┃  │(1~3월) │                    │?감봉처분기간+12개월 승급제한                          │        ┃\n┃  │        │                    │ (?국가공무원법? 제78조의2제1항 각호의 어느 하나에    │        ┃\n┃  │        │                    │해당하는 사유로 인한 징계처분과 성폭력?성희롱?성      │        ┃\n┃  │        │                    │매매에 따른 징계처분의 경우 각각 6개월 가산)            │        ┃\n┃  │        │                    │?(가족수당, 진료수당) 처분기간(1~3월) 동안 1/3 감액    │        ┃\n┃  │        │                    │?(정근수당) 지급대상기간 중 감봉처분을 받은 경우       │        ┃\n┃  │        │                    │미지급                                                  │        ┃\n┃  │        │                    │?(검진활동장려금) 6개월 지급중지                       │        ┃\n┠─┼────┼──────────┼────────────────────────────┼────┨\n┃중│정직    │처분기간(1~3월)은   │?(보수) 처분기간(1~3월) 중 전액 삭감                   │복무    ┃\n┃징│(1~3월) │신분은 보유, 직무에 │?정직처분기간+18개월 승급제한                          │연장    ┃\n┃계│        │종사하지 못함       │ (?국가공무원법? 제78조의2제1항 각호의 어느 하나에    │(1~3월) ┃\n┃  │        │                    │해당하는 사유로 인한 징계처분과 성폭력?성희롱?성      │        ┃\n┃  │        │                    │매매에 따른 징계처분의 경우 각각 6개월 가산)            │        ┃\n┃  │        │                    │?(가족수당) 미지급                                     │        ┃\n┃  │        │                    │?(정근수당) 지급대상기간 중 정직처분을 받은 경우       │        ┃\n┃  │        │                    │미지급                                                  │        ┃\n┃  │        │                    │?(진료수당) 실제 근무한 일수에 따라 일할 계산하여 지급 │        ┃\n┃  │        │                    │?(명절휴가비) 지급기준일(설날?추석) 현재 정직중인     │        ┃\n┃  │        │                    │경우 미지급                                             │        ┃\n┃  │        │                    │?(검진활동장려금) 6개월 지급중지                       │        ┃\n┗━┷━━━━┷━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━┛\n┏━━━━┯━━━━━━━━━━┯━━━━━━┯━━┓\n┃징계종류│신분상 효력         │보수상 효력 │비고┃\n┠─┬──┼──────────┼──────┼──┨\n┃중│해임│공무원관계로부터 배 │-           │신분┃\n┃징│    │제하고 3년간 공직재 │            │상실┃\n┃계│    │임용 제한           │            │    ┃\n┃  │    │금품, 향응수수, 공금│            │    ┃\n┃  │    │횡령 유용으로 징계해│            │    ┃\n┃  │    │임된 경우           │            │    ┃\n┃  │    │퇴직급여 1/4 감액(재│            │    ┃\n┃  │    │직기간이 5년 미만인 │            │    ┃\n┃  │    │자는 1/8감액)       │            │    ┃\n┃  │    │퇴직수당 1/4 감액   │            │    ┃\n┃  ├──┼──────────┼──────┼──┨\n┃  │파면│공무원관계로부터 배 │-           │신분┃\n┃  │    │제하고 5년간 공직재 │            │상실┃\n┃  │    │임용 제한           │            │    ┃\n┃  │    │퇴직급여액1/2 감액  │            │    ┃\n┃  │    │(재직기간 5년미만인 │            │    ┃\n┃  │    │자는 1/4 감액)      │            │    ┃\n┃  │    │퇴직수당 1/2 감액   │            │    ┃\n┗━┷━━┷━━━━━━━━━━┷━━━━━━┷━━┛",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275648&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295215",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285928&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035481",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295205",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035471",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295215",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035481",
           "name": "",
           "file_store_url": ""
         }
@@ -3920,18 +3931,18 @@
       "enforcement_date": "",
       "content": "[별표 2]\n\n중앙병역판정검사소 복무분야별 임무\n━━━━━━━━━━━━━━━━━━━\n┏━━━━━┯━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━┓\n┃검사과목  │신체검사 분야                   │담  당  자                    ┃\n┠─────┼────────────────┼───────────────┨\n┃수  석    │?신체등급의 판정               │수석 병역판정검사전담의사     ┃\n┃          │?중앙병역판정검사소장의 신     │                              ┃\n┃          │체검사업무 보좌                 │                              ┃\n┃          │?소속 병역판정검사전담의사의   │                              ┃\n┃          │업무종합, 조정                  │                              ┃\n┠─────┼────────────────┼───────────────┨\n┃내  과    │?내과 분야                     │내과 병역판정검사전담의사     ┃\n┠─────┼────────────────┼───────────────┨\n┃신경과    │?신경과 분야                   │신경과 병역판정검사전담의사   ┃\n┠─────┼────────────────┼───────────────┨\n┃정신건강  │?정신건강의학과 분야           │정신건강의학과                ┃\n┃의학과    │                                │병역판정검사전담의사          ┃\n┠─────┼────────────────┼───────────────┨\n┃외  과    │?외과 분야                     │외과 병역판정검사전담의사     ┃\n┃          ├────────────────┼───────────────┨\n┃          │?정형외과 분야                 │정형외과 병역판정검사전담의사 ┃\n┃          ├────────────────┼───────────────┨\n┃          │?신경외과 분야                 │신경외과 병역판정검사전담의사 ┃\n┃          ├────────────────┼───────────────┨\n┃          │?심장혈관흉부외과 분야         │심장혈관흉부외과              ┃\n┃          │                                │병역판정검사전담의사          ┃\n┃          ├────────────────┼───────────────┨\n┃          │?성형외과 분야                 │성형외과 병역판정검사전담의사 ┃\n┠─────┼────────────────┼───────────────┨\n┃안  과    │?안과 분야                     │안과 병역판정검사전담의사     ┃\n┠─────┼────────────────┼───────────────┨\n┃이비인후과│?이비인후과 분야               │이비인후과                    ┃\n┃          │                                │병역판정검사전담의사          ┃\n┠─────┼────────────────┼───────────────┨\n┃피부과    │?피부과 분야                   │피부과 병역판정검사전담의사   ┃\n┠─────┼────────────────┼───────────────┨\n┃비뇨의학과│?비뇨의학과 분야               │비뇨의학과                    ┃\n┃          │                                │병역판정검사전담의사          ┃\n┠─────┼────────────────┼───────────────┨\n┃치  과    │?치과 분야                     │치과 병역판정검사전담의사     ┃\n┠─────┼────────────────┼───────────────┨\n┃영상의학과│?방사선 영상 판독              │영상의학과                    ┃\n┃          │                                │병역판정검사전담의사          ┃\n┠─────┼────────────────┼───────────────┨\n┃병리과    │?조직검사 판독                 │병리과 병역판정검사전담의사   ┃\n┠─────┼────────────────┼───────────────┨\n┃진단검사  │?혈액, 소변 등의 검체검사 해석 │진단검사의학과                ┃\n┃의학과    │                                │병역판정검사전담의사          ┃\n┗━━━━━┷━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275648&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295421",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285928&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035487",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295217",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035483",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295421",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035487",
           "name": "",
           "file_store_url": ""
         }
@@ -3951,18 +3962,18 @@
       "enforcement_date": "",
       "content": "[별표 3]\n\n\n지방병무청 복무분야별 임무\n━━━━━━━━━━━━━━━\n┏━━━━━┯━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━┓\n┃검사과목  │신체검사 분야                       │담  당  자            ┃\n┠─────┼──────────────────┼───────────┨\n┃수  석    │?병역판정관의 업무 보좌            │수석                  ┃\n┃          │?신장?체중의 확인                 │병역판정검사전담의사  ┃\n┃          │?신체등급의 판정                   │                      ┃\n┃          │?소속 병역판정검사전담의사의 업무  │                      ┃\n┃          │종합, 조정                          │                      ┃\n┠─────┼──────────────────┼───────────┨\n┃내  과    │?내과 분야                         │내과                  ┃\n┃          │?혈압측정의 확인, 병리검사 확인    │병역판정검사전담의사  ┃\n┠─────┼──────────────────┼───────────┨\n┃신경?정신│?신경과, 정신건강의학과 분야       │신경?정신건강의학과  ┃\n┃건강의학과│?심리검사의 확인                   │병역판정검사전담의사  ┃\n┠─────┼──────────────────┼───────────┨\n┃피부?비뇨│?피부과, 비뇨의학과 분야           │피부?비뇨의학과      ┃\n┃의학과    │                                    │병역판정검사전담의사  ┃\n┠─────┼──────────────────┼───────────┨\n┃정형외과  │?정형외과, 성형외과 분야           │정형외과              ┃\n┃          │                                    │병역판정검사전담의사  ┃\n┠─────┼──────────────────┼───────────┨\n┃신경외과  │?신경외과, 외과,                   │신경외과              ┃\n┃          │심장혈관흉부외과 분야               │병역판정검사전담의사  ┃\n┠─────┼──────────────────┼───────────┨\n┃안  과    │?안과 분야                         │안과                  ┃\n┃          │?시력측정 확인                     │병역판정검사전담의사  ┃\n┠─────┼──────────────────┼───────────┨\n┃이비인후과│?이비인후과 분야                   │이비인후과            ┃\n┃          │                                    │병역판정검사전담의사  ┃\n┠─────┼──────────────────┼───────────┨\n┃영상의학과│?방사선 영상 판독                  │영상의학과            ┃\n┃          │?방사선 촬영의 확인                │병역판정검사전담의사  ┃\n┠─────┼──────────────────┼───────────┨\n┃치  과    │?치과 및 구강악안면외과 분야       │치과                  ┃\n┃          │                                    │병역판정검사전담의사  ┃\n┗━━━━━┷━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━┛",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275648&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295427",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285928&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035493",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295423",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035489",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295427",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035493",
           "name": "",
           "file_store_url": ""
         }
@@ -3982,18 +3993,18 @@
       "enforcement_date": "",
       "content": "[별표 4] <개정 2025.1.10., 2026.3.9.>\n\n경조사 휴가 기준(제26조 관련)\n━━━━━━━━━━━━━━━━━\n경조사별 휴가 일수\n┏━━━┯━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━┓\n┃구 분 │대       상                           │일 수(일)               ┃\n┠───┼───────────────────┼────────────┨\n┃결 혼 │?  본인                              │5                       ┃\n┃      ├───────────────────┼────────────┨\n┃      │?  자녀                              │1                       ┃\n┠───┼───────────────────┼────────────┨\n┃출 산 │?  배우자                            │20                      ┃\n┃      │                                      │(한번에 둘 이상의 자녀를┃\n┃      │                                      │출산한 경우에는 25일)   ┃\n┠───┼───────────────────┼────────────┨\n┃입 양 │?  본인                              │20                      ┃\n┠───┼───────────────────┼────────────┨\n┃사 망 │?  배우자, 본인 및 배우자의 부모     │5                       ┃\n┃      ├───────────────────┼────────────┨\n┃      │?  본인 및 배우자의 조부모?외조부모 │3                       ┃\n┃      ├───────────────────┼────────────┨\n┃      │?  자녀와 그 자녀의 배우자           │3                       ┃\n┃      ├───────────────────┼────────────┨\n┃      │?  본인 및 배우자의 형제자매         │3                       ┃\n┗━━━┷━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━┛\n2. 경조사 휴가가 원격지(가장 빠른 교통수단으로도 왕복 8시간 이상 소요되는\n지역을 말한다)일 경우에는 2일의 범위 내에서 왕복소요일수를 가산할 수 있다.\n3. 경조사휴가는 그 사유가 발생한 날을 포함하여 전후에 연속하여 실시하는 것이 원칙이나, 본인 결혼의 경우에는 사유가 발생한 날부터 30일 이내 범위, 배우자 출산 휴가의 경우에는 배우자 출산예정일 30일 전부터 출산 후 120일 이내의 범위에서 3회에 한정하여 나누어 사용 가능하며, 한번에 둘 이상의 자녀를 출산한 경우에는 배우자 출산예정일 30일 전부터 출산 후 150일 이내의 범위에서\n5회에 한정하여 나누어 사용할 수 있다.\n4. 사망으로 인한 경조사 휴가의 경우에는 그 사유가 발생한 날(사망일 또는 장례일을 말한다) 또는 사망일 다음날부터 휴가를 사용할 수 있다. 다만 장례일로 변경한 경우에는 이를 증빙할 수 있는 자료를 요구할 수 있다.",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275648&bylNo=0004&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295433",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285928&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035499",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295429",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035495",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295433",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035499",
           "name": "",
           "file_store_url": ""
         }
@@ -4013,18 +4024,18 @@
       "enforcement_date": "",
       "content": "[별표 5]\n\n\n호봉 산정기준\n━━━━━━━━━\n┏━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━┓\n┃임용전 경력구분         │근  무  기  간                    ┃\n┃                        ├─────┬─────┬─────┨\n┃                        │1년미만   │1년이상   │2년이상   ┃\n┃                        │          │2년미만   │          ┃\n┠────────────┼─────┼─────┼─────┨\n┃전문의 수련경력이 없는자│중위 1호봉│중위 2호봉│중위 3호봉┃\n┠────────────┼─────┼─────┼─────┨\n┃ 인턴수련 1년 이수자    │중위 1호봉│중위 2호봉│대위 1호봉┃\n┠────────────┼─────┼─────┼─────┨\n┃레지던트수련 1년 이수자 │중위 2호봉│대위 1호봉│대위 2호봉┃\n┠────────────┼─────┼─────┼─────┨\n┃레지던트수련 2년 이수자 │대위 1호봉│대위 2호봉│대위 3호봉┃\n┠────────────┼─────┼─────┼─────┨\n┃레지던트수련 3년 이수자 │대위 2호봉│대위 3호봉│대위 4호봉┃\n┠────────────┼─────┼─────┼─────┨\n┃레지던트수련 4년 이수자 │대위 3호봉│대위 4호봉│대위 5호봉┃\n┗━━━━━━━━━━━━┷━━━━━┷━━━━━┷━━━━━┛",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275648&bylNo=0005&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295439",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285928&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035505",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295435",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035501",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295439",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035505",
           "name": "",
           "file_store_url": ""
         }
@@ -4044,18 +4055,18 @@
       "enforcement_date": "",
       "content": "[별표 6] <개정 2025.1.10., 2026.3.9.>\n\n보수 등의 세부 지급 기준\n━━━━━━━━━━━━━━\n┏━━━━━━━━━━┯━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━┓\n┃구   분             │지   급   액                    │비  고                  ┃\n┠───┬──────┼────────────────┼────────────┨\n┃보 수 │1.봉 급     │?공무원보수규정에 의한 군인 봉 │?연도별 공무원보수     ┃\n┃      │            │급표에 의함                     │ 규정 참조              ┃\n┃      ├──────┼────────────────┼────────────┨\n┃      │2.진료수당  │?월 20,000원                   │?매월 지급             ┃\n┃      ├──────┼────────────────┼────────────┨\n┃      │3.가족수당  │?공무원수당 등에 관한 규정에   │?매월 지급             ┃\n┃      │            │따라 지급                       │                        ┃\n┃      ├──────┼────────────────┼────────────┨\n┃      │4.정근수당  │?근무기간 2년 미만             │?1월, 7월 지급         ┃\n┃      │            │  : 월 봉급액의 10% 해당 금액   │                        ┃\n┃      │            │?근무기간 5년 미만             │                        ┃\n┃      │            │  : 월 봉급액의 20% 해당 금액   │                        ┃\n┃      ├──────┼────────────────┼────────────┨\n┃      │5.정근수당  │?월 30,000원                   │?매월 지급             ┃\n┃      │  가산금    │                                │                        ┃\n┠───┼──────┼────────────────┼────────────┨\n┃복리  │명절휴가비  │?연 2회 봉급액의 60%           │?추석 및 설날이 속하는 ┃\n┃후생비│            │                                │ 달에 지급              ┃\n┠───┼──────┼────────────────┼────────────┨\n┃기타  │검진활동    │?예산의 범위에서 지급          │?매월 지급             ┃\n┃보수  │장 려 금    │                                │                        ┃\n┠───┼──────┼────────────────┼────────────┨\n┃여 비 │여비        │?공무원 여비 규정에 따라 지급  │?예산 범위 내에서      ┃\n┃      │            │                                │ 지급                   ┃\n┗━━━┷━━━━━━┷━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━┛",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275648&bylNo=0006&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295445",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285928&bylNo=0006&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035511",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295441",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035507",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295445",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035511",
           "name": "",
           "file_store_url": ""
         }
@@ -4076,17 +4087,17 @@
       "content": "[별지 제1호서식]\n선     서     문\n선         서\n나는 대한민국 공무원으로서 헌법과 법령을 준수하고, 국가를 수호하며, 국민에 대한 봉사자로서의 임무를 성실히 수행할 것을 엄숙히 선서합니다.\n20  년   월  일\n병역판정검사전담의사 ○ ○ ○",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295451",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035517",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295447",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035513",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295451",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035517",
           "name": "",
           "file_store_url": ""
         }
@@ -4107,17 +4118,17 @@
       "content": "[별지 제2호서식] <개정 2024.1.30.>\n병역판정검사전담의사 근무상황부\n□ 소 속 :               □ 과 목 :               □ 성 명 :\n┌──┬───────────┬─────┬───┐\n│종별│기간 또는 일시        │사유 또는 │결 재 │\n│    ├──┬──┬─────┤용무      ├┬┬─┤\n│    │부터│까지│일수?시간│          │││  │\n├──┼──┼──┼─────┼─────┼┼┼─┤\n│    │    │    │          │          │││  │\n├──┼──┼──┼─────┼─────┼┼┼─┤\n│    │    │    │          │          │││  │\n├──┼──┼──┼─────┼─────┼┼┼─┤\n│    │    │    │          │          │││  │\n├──┼──┼──┼─────┼─────┼┼┼─┤\n│    │    │    │          │          │││  │\n├──┼──┼──┼─────┼─────┼┼┼─┤\n│    │    │    │          │          │││  │\n├──┼──┼──┼─────┼─────┼┼┼─┤\n│    │    │    │          │          │││  │\n├──┼──┼──┼─────┼─────┼┼┼─┤\n│    │    │    │          │          │││  │\n├──┼──┼──┼─────┼─────┼┼┼─┤\n│    │    │    │          │          │││  │\n├──┼──┼──┼─────┼─────┼┼┼─┤\n│    │    │    │          │          │││  │\n├──┼──┼──┼─────┼─────┼┼┼─┤\n│    │    │    │          │          │││  │\n├──┼──┼──┼─────┼─────┼┼┼─┤\n│    │    │    │          │          │││  │\n└──┴──┴──┴─────┴─────┴┴┴─┘\n* 비 고\n1. 종별은 휴가(연가?병가?공가?특별휴가)?지각?조퇴?외출?출장 및 결근 등을 기재함\n2. 지각?조퇴 및 외출의 경우 질병?부상 등 그 사유를 반드시 기재하도록 하고, 이 경우 \"부터\"란은 일?시?분을, \"까지\"란은 시?분을 기재하되, 불가피한 사유로 기재사항의 변경이 필요한 경우에는 사후에 정정하며 결재권자에게 보고함.",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295457",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035523",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295453",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035519",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295457",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035523",
           "name": "",
           "file_store_url": ""
         }
@@ -4138,17 +4149,17 @@
       "content": "[별지 제3호서식]\n재량근무 연구(지정)과제 수행계획서\n\n? 인적사항\n┏━━━━━┯━━━━━━━━━━┯━━━━━━━┯━━━━━━━━━━┓\n┃성    명  │                    │생년월일      │                    ┃\n┠─────┼──────────┼───────┼──────────┨\n┃소속기관  │                    │전공과목      │                    ┃\n┠─────┼┬─────────┼───────┼─────┬────┨\n┃면허종별  ││면허번호          │              │전문의번호│        ┃\n┠─────┼┴─────────┼───────┼─────┴────┨\n┃복무시작일│ 20    .    .    .  │복무만료예정일│ 20    .    .    .  ┃\n┗━━━━━┷━━━━━━━━━━┷━━━━━━━┷━━━━━━━━━━┛\n? 연구 개요\n? 연구과제명\n? 연구분야      * 해당 분야 확인란에 √ 표를 합니다.\n┏━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━┓\n┃연번│연구 분야                                                           │확인┃\n┣━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━┫\n┃1   │과목별 질병 및 심신장애 정도 적정성 등 검사규칙 개정 검토           │    ┃\n┃    │ 예) ○○ 질환 고찰 및 부령검토, ○○ 질환의 진단 및 장애정도 판정  │    ┃\n┠──┼──────────────────────────────────┼──┨\n┃2   │중점관리대상 질환(속임수를 쓰는 질환, 신체손상 질환 등) 검토        │    ┃\n┃    │ 예) ○○ 질환의 중점관리대상 질환 적정성 검토, ○○ 질환의 중점관리│    ┃\n┃    │대상 질환 지정 필요성 연구                                          │    ┃\n┠──┼──────────────────────────────────┼──┨\n┃3   │중앙검사소 검사의뢰 질환 또는 검사의뢰 제외 질환 검토               │    ┃\n┃    │ 예) ○○ 질환의 중앙검사소 검사의뢰 질환 적정성 검토               │    ┃\n┠──┼──────────────────────────────────┼──┨\n┃4   │신체등급판정 심의위원회 심의 제외 질환 검토                         │    ┃\n┃    │ 예) ○○ 질환의 신체등급판정 심의위원회 심의 제외 적정성 검토      │    ┃\n┠──┼──────────────────────────────────┼──┨\n┃5   │경찰청(해양경찰청) 통보 대상 질환 검토                              │    ┃\n┃    │ 예) ○○ 질환의 경찰청 통보 대상 질환 필요성 검토                  │    ┃\n┠──┼──────────────────────────────────┼──┨\n┃6   │병역면탈 예방을 위한 검사방법 등 연구                               │    ┃\n┃    │ 예) ○○ 질환의 병역면탈 예방을 위한 정밀검사 방법 고찰            │    ┃\n┠──┼──────────────────────────────────┼──┨\n┃7   │기타 본청에서 부여한 지정 과제                                      │    ┃\n┃    │ 예) 전년도 대비 보충역 처분 증가 질환에 대한 고찰                  │    ┃\n┗━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━┛\n? 연구대상 및 내용\n? 관련 검사규칙(부령조항)\n? 연구방법\n? 기대효과 등\n○○기간 중 병역판정검사전담의사 연구과제 수행 계획서를 아래와 같이 제출합니다.\n년      월      일\n제출인(병역판정검사전담의사)             (서명)\n○  ○  지방병무(지)청장 귀하",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295465",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035531",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295459",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035525",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295465",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035531",
           "name": "",
           "file_store_url": ""
         }
@@ -4169,17 +4180,17 @@
       "content": "[별지 제4호서식]\n재량근무 신청서\n┌────────┬┬──┬──────────────────────┐\n│부서명          ││직위│                                            │\n├────────┼┴──┴──────────────────────┤\n│성  명          │                                                    │\n├────────┼──────────────────────────┤\n│해당과목        │                                                    │\n├────────┼──────────────────────────┤\n│신청사유        │                                                    │\n├────────┼──────────────────────────┤\n│근무기간        │00년 00월 00일 ~ 00년 00월 00일 (○개월 이내)       │\n├────────┼──────────────────────────┤\n│합의사항        │<합의사항 예시>                                     │\n│(간주근무시간,  │① 병역판정검사장에서 09:00~16:30까지 정상근무      │\n│업무내용 등)    │② 연구과제 수행을 위해 16:30 ~ 18:00 재량 근무하되,│\n│                │   병역판정검사가 종료 전까지는 재량근무 불가       │\n│                │③ 검사업무 차질, 복무관리에 문제가 있을 경우 재량  │\n│                │   근무가 해제될 수 있음                            │\n│                │④ 재량근무 종료 전 정해진 기일 내에 연구보고서를   │\n│                │제출하며, 미제출시 불이익 등에 대하여 고지 받음     │\n├────────┴──────────────────────────┤\n│위와 같이 재량근무를 신청합니다.                                      │\n│                                                                      │\n│년   월  일                                                           │\n│                                                                      │\n│신청인 성명           (인) 또는 서명                                  │\n│                                                                      │\n├───────────────────────────────────┤\n│                                                                      │\n│ 위 신청을 허가함                                                     │\n│년   월   일                                                          │\n│                                                                      │\n│○  ○  지방병무(지)청장        (인) 또는 서명                        │\n│                                                                      │\n├───────────────────────────────────┤\n│구비서류 : 병역판정검사전담의사 연구과제 수행 계획서 1부              │\n│          (연구과제 수행 시 연구과제 결과 보고서 1부 포함)            │\n└───────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295471",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035537",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295467",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035533",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295471",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035537",
           "name": "",
           "file_store_url": ""
         }
@@ -4200,17 +4211,17 @@
       "content": "[별지 제5호서식] <개정 2024.1.30.>\n연구(지정)과제 결과 요약서\n□ 연구과제명 :\n□ 연구 개요\n┏━━━━━━━━━━┯┓\n┃연구 분야           │┃\n┠──────────┼┨\n┃연구대상 및 목적    │┃\n┠──────────┼┨\n┃관련 부령(부령조항) │┃\n┠──────────┼┨\n┃연구 방법           │┃\n┗━━━━━━━━━━┷┛\n□ 연구 결과\n┏━━━┯━━━━┓\n┃현 행 │개 선 안┃\n┣━━━┿━━━━┫\n┃      │        ┃\n┗━━━┷━━━━┛\n□ 기대 효과\n?\n○  ○  지방병무(지)청             (인) 또는 서명",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295477",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035543",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295473",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035539",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295477",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035543",
           "name": "",
           "file_store_url": ""
         }
@@ -4231,17 +4242,17 @@
       "content": "[별지 제6호서식]\n연구(지정)과제 결과 보고서\n제목(HY헤드라인M22, 진하지 않게)\n□\n?\n-\nㆍ\n? A4 형태(가로 210mm, 세로 297m의 직사각형 용지)로 작성\n┌────────────────────────────┐\n│ ◈ 표준 서식                                           │\n│   - 형식에 얽매이지 않고 자유롭게 작성(단, 논술식 전개)│\n│   - 본문 휴먼명조 15P, 참고자료, 도표 안 글자 : 13P    │\n│   - 줄 간격 : 180%                                     │\n│   - 용지여백 : 위쪽 20㎜, 아래 10㎜, 왼쪽·오른쪽 20㎜ │\n│   - 머리말, 꼬리말 : 10㎜                              │\n└────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295483",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035549",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295479",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035545",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295483",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035549",
           "name": "",
           "file_store_url": ""
         }
@@ -4259,20 +4270,20 @@
       "kind": "별지",
       "title": "연구보고서 심사위원회 의결서",
       "enforcement_date": "",
-      "content": "[별지 제7호서식]\n연구보고서 심사위원회 의결서\n┌─────────┬──────┬──┬┐\n│부서명            │            │직위││\n├─────────┼──────┴──┴┤\n│성  명            │                    │\n├─────────┼──────────┤\n│해당과목          │                    │\n├────┬────┼─────┬────┤\n│신청유형│재량근무│실시기간  │        │\n├────┼────┼─────┼────┤\n│심의일자│        │과제 제목 │        │\n├────┼────┼─────┼────┤\n│심의장소│        │주요내용  │        │\n│        │        │요약      │        │\n├────┼────┴─────┴────┤\n│결정내역│통과 / 미통과                 │\n├────┼──┬──┬──────┬──┤\n│구분    │직급│성명│평가 점수   │서명│\n├────┼──┼──┼──────┼──┤\n│위원장  │    │    │            │    │\n├────┼──┼──┼──────┼──┤\n│위원    │    │    │            │    │\n├────┼──┼──┼──────┼──┤\n│위원    │    │    │            │    │\n├────┼──┼──┼──────┼──┤\n│위원    │    │    │            │    │\n├────┼──┼──┼──────┼──┤\n│위원    │    │    │            │    │\n├────┴──┴──┴──────┴──┤\n│위와 같이 심사결과를 결정함             │\n│                                        │\n│년   월  일                             │\n│                                        │\n│위원장              (인) 또는 서명      │\n└────────────────────┘",
+      "content": "[별지 제7호서식]\n연구보고서 심사위원회 의결서\n┌─────────┬──────┬──┬┐\n│부서명            │            │직위││\n├─────────┼──────┴──┴┤\n│성  명            │                    │\n├─────────┼──────────┤\n│해당과목          │                    │\n├────┬────┼─────┬────┤\n│신청유형│재량근무│실시기간  │        │\n├────┼────┼─────┼────┤\n│심의일자│        │과제 제목 │        │\n├────┼────┼─────┼────┤\n│심의장소│        │주요내용  │        │\n│        │        │요약      │        │\n├────┼────┴─────┴────┤\n│결정내역│통과 / 미통과                 │\n├────┼──┬──┬──────┬──┤\n│구분    │직급│성명│평가 점수   │서명│\n├────┼──┼──┼──────┼──┤\n│위원장  │    │    │            │    │\n├────┼──┼──┼──────┼──┤\n│위원    │    │    │            │    │\n├────┼──┼──┼──────┼──┤\n│위원    │    │    │            │    │\n├────┼──┼──┼──────┼──┤\n│위원    │    │    │            │    │\n├────┼──┼──┼──────┼──┤\n│위원    │    │    │            │    │\n├────┴──┴──┴──────┴──┤\n│위와 같이 심사결과를 결정함             │\n│                                        │\n│년   월  일                             │\n│                                        │\n│위원장              (인) 또는 서명      │\n└────────────────────┘\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295489",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035555",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295485",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035551",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295489",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035555",
           "name": "",
           "file_store_url": ""
         }
@@ -4293,17 +4304,17 @@
       "content": "[별지 제8호서식]\n연구보고서 심사 평가표\n┏━━━━┯┓\n┃과    목│┃\n┠────┼┨\n┃성    명│┃\n┗━━━━┷┛\n┌─────────────────┬────────────────────────┐\n│평   정   요   소                 │위  원  평  정                                  │\n│                                  ├─────┬─────┬─────┬──────┤\n│                                  │탁월      │우수      │보통      │미흡        │\n├─────────────────┼─────┼─────┼─────┼──────┤\n│가. 내용의 구체성?논리성(25점)   │(25~21점) │(20~16점) │(15~11점) │(10점 미만) │\n├─────────────────┼─────┼─────┼─────┼──────┤\n│나. 병역판정검사 적용가능성(25점) │(25~21점) │(20~16점) │(15~11점) │(10점 미만) │\n├─────────────────┼─────┼─────┼─────┼──────┤\n│다. 창의성·내용의 정확성(25점)   │(25~21점) │(20~16점) │(15~11점) │(10점 미만) │\n├─────────────────┼─────┼─────┼─────┼──────┤\n│라. 연구보고서 구성 적정성(25점)  │(25~21점) │(20~16점) │(15~11점) │(10점 미만) │\n├─────────────────┼─────┴─────┴─────┴──────┤\n│최종 점수                         │          점 / 총 100점                         │\n├─────────────────┼────────────────────────┤\n│위  원   서  명                   │                         ( 서 명 )              │\n└─────────────────┴────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295495",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035561",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295491",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035557",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295495",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035561",
           "name": "",
           "file_store_url": ""
         }
@@ -4324,17 +4335,17 @@
       "content": "[별지 제9호서식]\n재량근무 해제신청서\n┌───────┬┬──┬────────────────────────┐\n│부서명        ││직위│                                                │\n├───────┼┴──┴────────────────────────┤\n│성  명        │                                                        │\n├───────┼────────────────────────────┤\n│해당과목      │                                                        │\n├───────┼────────────────────────────┤\n│해제사유      │                                                        │\n├───────┼────────────────────────────┤\n│당초 신청기간 │00년 00월 00일 ~ 00년 00월 00일 (○개월 이내)           │\n├───────┼────────────────────────────┤\n│해제 합의사항 │<합의사항 예시>                                         │\n│(간주근무시간,│① 재량근무 해제 이후 10일 내에 연구보고서를 제출하며,  │\n│업무내용 등)  │미제출 시 불이익 등에 대하여 고지받음                   │\n├───────┴────────────────────────────┤\n│위와 같이 재량근무 해제를 신청합니다.                                   │\n│                                                                        │\n│년   월  일                                                             │\n│                                                                        │\n│신청인 성명           (인) 또는 서명                                    │\n│                                                                        │\n├────────────────────────────────────┤\n│                                                                        │\n│ 위 신청을 허가함                                                       │\n│년   월   일                                                            │\n│                                                                        │\n│○  ○  지방병무(지)청장        (인) 또는 서명                          │\n│                                                                        │\n├────────────────────────────────────┤\n│구비서류 : 연구과제 수행 시 연구과제 결과 보고서 1부.                   │\n└────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295501",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035567",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295497",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035563",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295501",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035567",
           "name": "",
           "file_store_url": ""
         }
@@ -4355,17 +4366,17 @@
       "content": "[별지 제10호서식]\n재량근무 재심의 신청서\n┌─────┬──────┬───┬───────┐\n│부서명    │            │직급  │              │\n├─────┼──────┴───┴───────┤\n│성  명    │                                    │\n├─────┼──────────────────┤\n│주요업무  │                                    │\n├─────┼─────┬────────────┤\n│신청유형  │근무기간  │근무요일별 근무시간 선택│\n├─────┼─────┼───┬────────┤\n│          │00년 00월 │월요일│○○시 ～ ○○시│\n│          │00일      ├───┼────────┤\n│          │~         │화요일│○○시 ～ ○○시│\n│          │00년 00월 ├───┼────────┤\n│          │00일      │수요일│○○시 ～ ○○시│\n│          │          ├───┼────────┤\n│          │          │목요일│○○시 ～ ○○시│\n│          │          ├───┼────────┤\n│          │          │금요일│○○시 ～ ○○시│\n├────┬┴─────┴───┴────────┤\n│불승인  │                                      │\n│사유    │                                      │\n├────┼───────────────────┤\n│재심의  │                                      │\n│신청사유│                                      │\n├────┴───────────────────┤\n│위와 같이 재량근무 재심의를 신청합니다.         │\n│                                                │\n│년   월  일                                     │\n│                                                │\n│신청인 성명           (인) 또는 서명            │\n└────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295507",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035573",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295503",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035569",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295507",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035573",
           "name": "",
           "file_store_url": ""
         }
@@ -4386,17 +4397,17 @@
       "content": "[별지 제11호서식]\n재량근무 재심의 결정서\n┌─────┬──────┬───┬──────────┐\n│부서명    │            │직급  │                    │\n├─────┼──────┴───┴──────────┤\n│성  명    │                                          │\n├─────┼─────────────────────┤\n│주요업무  │                                          │\n├─────┼─────┬───────────────┤\n│신청유형  │근무기간  │근무요일별 근무시간(조정가능) │\n├─────┼─────┼───┬───────────┤\n│          │00년 00월 │월요일│○○시 ～ ○○시      │\n│          │00일      ├───┼───────────┤\n│          │~         │화요일│○○시 ～ ○○시      │\n│          │00년 00월 ├───┼───────────┤\n│          │00일      │수요일│○○시 ～ ○○시      │\n│          │          ├───┼───────────┤\n│          │          │목요일│○○시 ～ ○○시      │\n│          │          ├───┼───────────┤\n│          │          │금요일│○○시 ～ ○○시      │\n├────┬┴─────┴───┴───────────┤\n│결정내역│승인 / 불승인 / 조정                        │\n├────┼──────────────────────┤\n│(불승인 │                                            │\n│또는    │                                            │\n│조정시) │                                            │\n│사유    │                                            │\n├────┴──────────────────────┤\n│위와 같이 심의결과를 통보함                           │\n│                                                      │\n│년   월  일                                           │\n│                                                      │\n│○  ○  지방병무(지)청장               (인) 또는 서명 │\n└───────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295513",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035579",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295509",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035575",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295513",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035579",
           "name": "",
           "file_store_url": ""
         }
@@ -4417,17 +4428,17 @@
       "content": "[별지 제12호서식] <개정 2024.1.30.>\n병역판정검사전담의사 복무실태 점검표\n(소속기관명)\n1. 출근 현황\n┌──┬──┬─────────────┬─────────────────┬──────────┐\n│일자│현원│출근 시간대별             │퇴근 시간대별                     │유 고 내 역         │\n│    │    ├─┬───┬───┬───┼─┬───┬───┬───┬───┼─┬──┬──┬──┤\n│    │    │계│09:00 │09:00 │09:31 │계│ 17:00│17:00-│17:31-│18:00 │계│휴가│병가│기타│\n│    │    │  │이전  │-09:30│이후  │  │이전  │17:30 │18:00 │이후  │  │    │    │    │\n├──┼──┼─┼───┼───┼───┼─┼───┼───┼───┼───┼─┼──┼──┼──┤\n│    │    │  │      │      │      │  │      │      │      │      │  │    │    │    │\n├──┼──┼─┼───┼───┼───┼─┼───┼───┼───┼───┼─┼──┼──┼──┤\n│    │    │  │      │      │      │  │      │      │      │      │  │    │    │    │\n└──┴──┴─┴───┴───┴───┴─┴───┴───┴───┴───┴─┴──┴──┴──┘\n※ 보고 해당월분의 일자별로 작성\n2. 개인별 휴가 현황\n(단위 : 일)\n┌─────┬─────┬─────┬─────┬───────┐\n│     사유 │연가      │병가      │공가      │기타(외출 등) │\n│성명      ├──┬──┼──┬──┼──┬──┼──┬────┤\n│          │당월│누계│당월│누계│당월│누계│당월│누계    │\n├─────┼──┼──┼──┼──┼──┼──┼──┼────┤\n│김 ㅇ ㅇ  │    │    │    │    │    │    │    │        │\n├─────┼──┼──┼──┼──┼──┼──┼──┼────┤\n│박 ㅇ ㅇ  │    │    │    │    │    │    │    │        │\n├─────┼──┼──┼──┼──┼──┼──┼──┼────┤\n│.         │    │    │    │    │    │    │    │        │\n│.         │    │    │    │    │    │    │    │        │\n│.         │    │    │    │    │    │    │    │        │\n└─────┴──┴──┴──┴──┴──┴──┴──┴────┘\n※ 병가 6일 초과자로 연가 미공제자는 진단서 첨부 제출\n3. 간담회, 직장교육 등 실적\n┌───┬────┬────┬────┐\n│구  분│교육일시│참여인원│교육내용│\n├───┼────┼────┼────┤\n│      │        │        │        │\n├───┼────┼────┼────┤\n│      │        │        │        │\n└───┴────┴────┴────┘\n\n※ 간담회, 자체 직무교육, 외부초청교육 등으로 구분 작성\n4. 병역판정검사전담의사 애로ㆍ건의사항, 미담사례 등\nㅇ 애로ㆍ건의사항 접수 처리 목록\n┌───┬────┬─────┬───────┬──┐\n│일 자 │건의사항│수용여부  │수용하지 않은 │비고│\n│      │        │(처리내용)│사유          │    │\n├───┼────┼─────┼───────┼──┤\n│      │        │          │              │    │\n└───┴────┴─────┴───────┴──┘\n※ 매월 건의사항 접수 및 처리사항 등을 일자별로 누계 작성\nㅇ 미담사례 등\n┌─┐\n│  │\n│  │\n└─┘\n5. 재량근무 복무제도 신청자 명단\n┌────┬────┬───┬─────┬────┬────┬──────┐\n│성 명   │담당과목│신청일│연구과제명│승인여부│실시기간│과제심사결과│\n├────┼────┼───┼─────┼────┼────┼──────┤\n│김 ㅇ ㅇ│        │      │          │        │        │            │\n└────┴────┴───┴─────┴────┴────┴──────┘\n6. 복무관리 자체점검 실적\n┌───┬────┬─────┬────┬────┬──┐\n│점검일│점검부서│점검반인원│점검항목│점검결과│비고│\n├───┼────┼─────┼────┼────┼──┤\n│      │        │          │        │        │    │\n└───┴────┴─────┴────┴────┴──┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295521",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035587",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295515",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035581",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295521",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035587",
           "name": "",
           "file_store_url": ""
         }
@@ -4448,17 +4459,17 @@
       "content": "[별지 제13호서식]\n병역판정검사전담의사 겸직근무 현황\n┌──┬──┬────────────────────────────────────┬──┐\n│월별│수검│겸직근무일수(유고자 검사과목 기준)                                      │비고│\n│    │일수├─┬──┬──┬────┬──┬──┬──┬───┬───┬───┬──┤    │\n│    │    │계│수석│내과│신경?  │정형│신경│안과│이비인│피부?│영상  │치과│    │\n│    │    │  │    │    │정신건강│외과│외과│    │후  과│비뇨  │의학과│    │    │\n│    │    │  │    │    │의학과  │    │    │    │      │의학과│      │    │    │\n├──┼──┼─┼──┼──┼────┼──┼──┼──┼───┼───┼───┼──┼──┤\n│계  │    │  │    │    │        │    │    │    │      │      │      │    │    │\n├──┼──┼─┼──┼──┼────┼──┼──┼──┼───┼───┼───┼──┼──┤\n│1월 │    │  │    │    │        │    │    │    │      │      │      │    │    │\n├──┼──┼─┼──┼──┼────┼──┼──┼──┼───┼───┼───┼──┼──┤\n│2월 │    │  │    │    │        │    │    │    │      │      │      │    │    │\n├──┼──┼─┼──┼──┼────┼──┼──┼──┼───┼───┼───┼──┼──┤\n│3월 │    │  │    │    │        │    │    │    │      │      │      │    │    │\n├──┼──┼─┼──┼──┼────┼──┼──┼──┼───┼───┼───┼──┼──┤\n│4월 │    │  │    │    │        │    │    │    │      │      │      │    │    │\n├──┼──┼─┼──┼──┼────┼──┼──┼──┼───┼───┼───┼──┼──┤\n│5월 │    │  │    │    │        │    │    │    │      │      │      │    │    │\n├──┼──┼─┼──┼──┼────┼──┼──┼──┼───┼───┼───┼──┼──┤\n│6월 │    │  │    │    │        │    │    │    │      │      │      │    │    │\n├──┼──┼─┼──┼──┼────┼──┼──┼──┼───┼───┼───┼──┼──┤\n│7월 │    │  │    │    │        │    │    │    │      │      │      │    │    │\n├──┼──┼─┼──┼──┼────┼──┼──┼──┼───┼───┼───┼──┼──┤\n│8월 │    │  │    │    │        │    │    │    │      │      │      │    │    │\n├──┼──┼─┼──┼──┼────┼──┼──┼──┼───┼───┼───┼──┼──┤\n│9월 │    │  │    │    │        │    │    │    │      │      │      │    │    │\n├──┼──┼─┼──┼──┼────┼──┼──┼──┼───┼───┼───┼──┼──┤\n│10월│    │  │    │    │        │    │    │    │      │      │      │    │    │\n├──┼──┼─┼──┼──┼────┼──┼──┼──┼───┼───┼───┼──┼──┤\n│11월│    │  │    │    │        │    │    │    │      │      │      │    │    │\n├──┼──┼─┼──┼──┼────┼──┼──┼──┼───┼───┼───┼──┼──┤\n│12월│    │  │    │    │        │    │    │    │      │      │      │    │    │\n└──┴──┴─┴──┴──┴────┴──┴──┴──┴───┴───┴───┴──┴──┘\n병역판정검사전담의사 겸직근무 명단\n┌──┬──┬───┬──┬──┬──┬───┬──┬───┬─────────┬─────────┬──┐\n│연번│소속│검사반│근무│근무│유고│유고  │유고│유고  │유고자            │겸직(대행)자      │비고│\n│    │기관│      │대행│대행│일수│시간  │사유│사유  ├──┬──┬───┼──┬──┬───┤    │\n│    │    │      │시작│종료│    │(반일)│    │(세부)│검사│성명│복 무 │검사│성명│복 무 │    │\n│    │    │      │일자│일자│    │      │    │      │과목│    │시작일│과목│    │시작일│    │\n├──┼──┼───┼──┼──┼──┼───┼──┼───┼──┼──┼───┼──┼──┼───┼──┤\n│    │    │      │    │    │    │      │    │      │    │    │      │    │    │      │    │\n├──┼──┼───┼──┼──┼──┼───┼──┼───┼──┼──┼───┼──┼──┼───┼──┤\n│    │    │      │    │    │    │      │    │      │    │    │      │    │    │      │    │\n├──┼──┼───┼──┼──┼──┼───┼──┼───┼──┼──┼───┼──┼──┼───┼──┤\n│    │    │      │    │    │    │      │    │      │    │    │      │    │    │      │    │\n├──┼──┼───┼──┼──┼──┼───┼──┼───┼──┼──┼───┼──┼──┼───┼──┤\n│    │    │      │    │    │    │      │    │      │    │    │      │    │    │      │    │\n├──┼──┼───┼──┼──┼──┼───┼──┼───┼──┼──┼───┼──┼──┼───┼──┤\n│    │    │      │    │    │    │      │    │      │    │    │      │    │    │      │    │\n├──┼──┼───┼──┼──┼──┼───┼──┼───┼──┼──┼───┼──┼──┼───┼──┤\n│    │    │      │    │    │    │      │    │      │    │    │      │    │    │      │    │\n├──┼──┼───┼──┼──┼──┼───┼──┼───┼──┼──┼───┼──┼──┼───┼──┤\n│    │    │      │    │    │    │      │    │      │    │    │      │    │    │      │    │\n├──┼──┼───┼──┼──┼──┼───┼──┼───┼──┼──┼───┼──┼──┼───┼──┤\n│    │    │      │    │    │    │      │    │      │    │    │      │    │    │      │    │\n├──┼──┼───┼──┼──┼──┼───┼──┼───┼──┼──┼───┼──┼──┼───┼──┤\n│    │    │      │    │    │    │      │    │      │    │    │      │    │    │      │    │\n├──┼──┼───┼──┼──┼──┼───┼──┼───┼──┼──┼───┼──┼──┼───┼──┤\n│    │    │      │    │    │    │      │    │      │    │    │      │    │    │      │    │\n├──┼──┼───┼──┼──┼──┼───┼──┼───┼──┼──┼───┼──┼──┼───┼──┤\n│    │    │      │    │    │    │      │    │      │    │    │      │    │    │      │    │\n├──┼──┼───┼──┼──┼──┼───┼──┼───┼──┼──┼───┼──┼──┼───┼──┤\n│    │    │      │    │    │    │      │    │      │    │    │      │    │    │      │    │\n├──┼──┼───┼──┼──┼──┼───┼──┼───┼──┼──┼───┼──┼──┼───┼──┤\n│    │    │      │    │    │    │      │    │      │    │    │      │    │    │      │    │\n└──┴──┴───┴──┴──┴──┴───┴──┴───┴──┴──┴───┴──┴──┴───┴──┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295527",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035593",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295523",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035589",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295527",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035593",
           "name": "",
           "file_store_url": ""
         }
@@ -4479,17 +4490,17 @@
       "content": "[별지 제14호서식]\n(앞  쪽)\n┌────────────────────────────────────┐\n│병역판정검사전담의사 근무상황 평가서                                    │\n├────┬┬────┬────────────────┬────┬───┤\n│성명    ││생년월일│                                │전공과목│      │\n├────┼┼────┼────────────────┴────┴───┤\n│소속기관││임용일자│년    월    일                                    │\n├──┬─┴┴────┴─────────────┬──┬──┬──┬──┤\n│구분│평   가   내   용                         │탁월│우수│보통│미흡│\n├──┼─────────────────────┼──┼──┼──┼──┤\n│근무│출?퇴근시간 준수 여부                    │    │    │    │    │\n│태도├─────────────────────┼──┼──┼──┼──┤\n│    │근무복장 품위 유지 여부                   │    │    │    │    │\n│    ├─────────────────────┼──┼──┼──┼──┤\n│    │연·병가, 외출, 조퇴 등 근무상황 준수 여부│    │    │    │    │\n│    ├─────────────────────┼──┼──┼──┼──┤\n│    │직원과 업무 협조 등 대인관계              │    │    │    │    │\n│    ├─────────────────────┼──┼──┼──┼──┤\n│    │소속기관 업무지시 이행 정도               │    │    │    │    │\n├──┼─────────────────────┼──┼──┼──┼──┤\n│검사│의무자 응대 및 안내 친절도                │    │    │    │    │\n│태도├─────────────────────┼──┼──┼──┼──┤\n│    │영상자료, 진단서 등 확인 여부             │    │    │    │    │\n│    ├─────────────────────┼──┼──┼──┼──┤\n│    │검사규칙 등 제 규정 숙지 및 이해도        │    │    │    │    │\n│    ├─────────────────────┼──┼──┼──┼──┤\n│    │수검자 개별 정밀신체검사 여부             │    │    │    │    │\n│    ├─────────────────────┼──┼──┼──┼──┤\n│    │책임감 있는 소신 판정 여부                │    │    │    │    │\n├──┼─────────────────────┼──┼──┼──┼──┤\n│검사│검사결과에 대한 민원?이의제기 정도       │    │    │    │    │\n│결과├─────────────────────┼──┼──┼──┼──┤\n│    │검사소견 정확한 기록 여부                 │    │    │    │    │\n│    ├─────────────────────┼──┼──┼──┼──┤\n│    │자체 의무장비 적극 사용 여부              │    │    │    │    │\n│    ├─────────────────────┼──┼──┼──┼──┤\n│    │진단서, 서류보완 등 적정성                │    │    │    │    │\n├──┼─────────────────────┴──┴──┴──┴──┤\n│기타│                                                                  │\n│의견│                                                                  │\n├──┴─────────────────────┬──┬──┬──┬──┤\n│종    합    평    정                            │    │    │    │    │\n└────────────────────────┴──┴──┴──┴──┘\n(뒷  쪽)\n┌────────────────────────────────────┐\n│ ○ 종합의견                                                            │\n├───┬────────────────────────────────┤\n│평정자│                                                                │\n│의  견├────────────────────────────────┤\n│      │ 소속 :              직위 :               성명 :          (서명)│\n├───┼────────────────────────────────┤\n│확인자│                                                                │\n│의  견├────────────────────────────────┤\n│      │ 소속 :                 직위 :       성명 :          (서명)     │\n├───┴────────────────────────────────┤\n│작성일 :       년    월    일                                           │\n└────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295535",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035601",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295529",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035595",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295535",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035601",
           "name": "",
           "file_store_url": ""
         }
@@ -4510,17 +4521,17 @@
       "content": "[별지 제15호서식]\n병역판정검사전담의사 근무상황 종합평가표\n□ 평가기관명 :\n□ 근무상황 평가\n┌────┬───┬────┬────┬────┐\n│검사과목│성  명│생년월일│평가순위│평가등급│\n├────┼───┼────┼────┼────┤\n│        │      │        │        │탁월    │\n├────┼───┼────┼────┤        │\n│        │      │        │        │        │\n├────┼───┼────┼────┼────┤\n│        │      │        │        │우수    │\n├────┼───┼────┼────┤        │\n│        │      │        │        │        │\n├────┼───┼────┼────┤        │\n│        │      │        │        │        │\n├────┼───┼────┼────┤        │\n│        │      │        │        │        │\n├────┼───┼────┼────┼────┤\n│        │      │        │        │보통    │\n├────┼───┼────┼────┤        │\n│        │      │        │        │        │\n├────┼───┼────┼────┤        │\n│        │      │        │        │        │\n├────┼───┼────┼────┼────┤\n│        │      │        │        │미흡    │\n└────┴───┴────┴────┴────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295541",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035607",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295537",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035603",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295541",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035607",
           "name": "",
           "file_store_url": ""
         }
@@ -4538,20 +4549,20 @@
       "kind": "별지",
       "title": "병역판정검사전담의사 연구과제 수행신청서",
       "enforcement_date": "",
-      "content": "[별지 제16호서식]\n┌────────────────────────────────────────────┐\n│병역판정검사전담의사 연구과제 수행신청서                                                │\n├─────┬──────────┬───────┬───────────────────┤\n│성명      │                    │생년월일      │                                      │\n├─────┼──────────┼───────┼───────────────────┤\n│소속기관  │                    │전공과목      │                                      │\n├─────┼┬─────────┼───────┼─────┬─────────────┤\n│면허종별  ││면허번호          │              │전문의번호│                          │\n├─────┼┴─────────┼───────┼─────┴─────────────┤\n│복무시작일│ 20    .    .    .  │복무만료예정일│ 20    .    .    .                    │\n├─────┼──────────┴───────┴───────────────────┤\n│연구과제  │                                                                            │\n│수행사유  │                                                                            │\n├─────┼──────────────────────────────────────┤\n│연구과제  │                                                                            │\n│수행기간  │                                                                            │\n├─────┼──────────────────────────────────────┤\n│연    구  │                                                                            │\n│과 제 명  │                                                                            │\n├─────┴──────────────────────────────────────┤\n│ 병역법 제34조의2 및 동법 시행령 제69조의3의 규정에 의하여 병역판정검사전담의사 수련 미 │\n│실시에 따른 연구과제 수행신청서를 아래와 같이 제출합니다.                               │\n│                                                                                        │\n│         년      월      일                                                             │\n│  제출인(병역판정검사전담의사)                                                          │\n│○  ○  지방병무청장 귀하                                                               │\n├────────────────────────────────────────────┤\n│구비서류 : 연구과제 수행 계획서  1부.                                                   │\n└────────────────────────────────────────────┘",
+      "content": "[별지 제16호서식]\n┌─────────────────────────────────────┐\n│병역판정검사전담의사 연구과제 수행신청서                                  │\n├─────┬──────────┬───────┬────────────┤\n│성명      │                    │생년월일      │                        │\n├─────┼──────────┼───────┼────────────┤\n│소속기관  │                    │전공과목      │                        │\n├─────┼┬─────────┼───────┼─────┬──────┤\n│면허종별  ││면허번호          │              │전문의번호│            │\n├─────┼┴─────────┼───────┼─────┴──────┤\n│복무시작일│ 20    .    .    .  │복무만료예정일│ 20    .    .    .      │\n├─────┼──────────┴───────┴────────────┤\n│연구과제  │                                                              │\n│수행사유  │                                                              │\n├─────┼───────────────────────────────┤\n│연구과제  │                                                              │\n│수행기간  │                                                              │\n├─────┼───────────────────────────────┤\n│연    구  │                                                              │\n│과 제 명  │                                                              │\n├─────┴───────────────────────────────┤\n│ 병역법 제34조의2 및 동법 시행령 제69조의3의 규정에 의하여 병역판정검사   │\n│전담의사 수련 미실시에 따른 연구과제 수행신청서를 아래와 같이 제출합니다. │\n│                                                                          │\n│         년      월      일                                               │\n│  제출인(병역판정검사전담의사)                                            │\n│○  ○  지방병무청장 귀하                                                 │\n├─────────────────────────────────────┤\n│구비서류 : 연구과제 수행 계획서  1부.                                     │\n└─────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295547",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035613",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295543",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035609",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295547",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035613",
           "name": "",
           "file_store_url": ""
         }
@@ -4569,20 +4580,20 @@
       "kind": "별지",
       "title": "병역판정검사전담의사 연구과제 수행 계획서",
       "enforcement_date": "",
-      "content": "[별지 제17호서식]\n병역판정검사전담의사 연구과제 수행 계획서\n? 인적사항\n┌─────┬──────────┬───────┬──────────┐\n│성    명  │                    │생년월일      │                    │\n├─────┼──────────┼───────┼──────────┤\n│소속기관  │                    │전공과목      │                    │\n├─────┼┬─────────┼───────┼─────┬────┤\n│면허종별  ││면허번호          │              │전문의번호│        │\n├─────┼┴─────────┼───────┼─────┴────┤\n│복무시작일│ 20    .    .    .  │복무만료예정일│ 20    .    .    .  │\n└─────┴──────────┴───────┴──────────┘\n? 연구 개요\n? 연구과제명\n? 연구목적\n? 연구대상 및 내용\n? 연구방법\n? 기대효과 등\n병역판정검사전담의사 수련 미실시에 따른 연구과제 수행 계획서를 아래와 같이 제출합니다.\n년      월      일\n제출인(병역판정검사전담의사)                (서명)\n○  ○  지방병무청장 귀하",
+      "content": "[별지 제17호서식]\n병역판정검사전담의사 연구과제 수행 계획서\n? 인적사항\n┌─────┬──────────┬───────┬──────────┐\n│성    명  │                    │생년월일      │                    │\n├─────┼──────────┼───────┼──────────┤\n│소속기    │                    │전공과목      │                    │\n│관        │                    │              │                    │\n├─────┼┬─────────┼───────┼─────┬────┤\n│면허종    ││면허번호          │              │전문의번호│        │\n│별        ││                  │              │          │        │\n├─────┼┴─────────┼───────┼─────┴────┤\n│복무시작일│ 20    .    .    .  │복무만료예정일│ 20    .    .    .  │\n└─────┴──────────┴───────┴──────────┘\n? 연구 개요\n? 연구과제명\n? 연구목적\n? 연구대상 및 내용\n? 연구방법\n? 기대효과 등\n병역판정검사전담의사 수련 미실시에 따른 연구과제 수행 계획서를 아래와 같이 제출합니다.\n년      월      일\n제출인(병역판정검사전담의사)                (서명)\n○  ○  지방병무청장 귀하",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295553",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035619",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295549",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035615",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295553",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035619",
           "name": "",
           "file_store_url": ""
         }
@@ -4603,17 +4614,17 @@
       "content": "[별지 제18호서식]\n병역판정검사전담의사 자료수집 조사서\n\n│ 연구과제 :\n├───────┬──────┬────┬──┐\n│성명          │            │생년월일│    │\n├───────┼──────┼────┼──┤\n│소속기관      │            │전공과목│    │\n├───────┼───┬──┼────┼──┤\n│자료수집기간  │시작일│    │종료일  │    │\n├───────┼───┼──┼────┼──┤\n│자료수집과정  │도서관│학회│학교    │기타│\n│및 절차       ├───┼──┼────┼──┤\n│              │      │    │        │    │\n├───────┼───┴──┴────┴──┤\n│자료수집목록  │                            │\n└───────┴──────────────┘\n제출일자 :      년    월    일\n제 출 인 :              (서명)\n○○ 지방병무청장 귀하",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295559",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035625",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295555",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035621",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295559",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035625",
           "name": "",
           "file_store_url": ""
         }
@@ -4634,17 +4645,17 @@
       "content": "[별지 제19호서식]\n┌──────────────────────────────────────┐\n│병역판정검사전담의사 수련 허가신청서                                        │\n├─────┬──────────┬───────┬─────────────┤\n│성    명  │                    │생년월일      │                          │\n├─────┼──────────┼───────┼─────────────┤\n│소속기관  │                    │전공과목      │                          │\n├─────┼┬─────────┼───────┼─────┬───────┤\n│면허종별  ││면허번호          │              │전문의번호│              │\n├─────┼┴─────────┼───────┼─────┴───────┤\n│복무시작일│ 20    .    .    .  │복무만료예정일│ 20    .    .    .        │\n├─────┼─────┬────┴───────┼─────┬───────┤\n│수련사항  │수련기관  │                        │기관유형  │              │\n│          ├─────┼────────────┼─────┼───────┤\n│          │수련      │                        │전화번호  │              │\n│          │근무부서  │                        │          │              │\n│          ├─────┼────────────┴─────┴───────┤\n│          │기    관  │                                                    │\n│          │소 재 지  │                                                    │\n│          ├─────┼──────────────────────────┤\n│          │수련기간  │  20   .    .    . ~ 20   .    .    .               │\n│          ├─────┼──────┬───────────────────┤\n│          │ 수련조건 │근 무 일    │                                      │\n│          │          │(근무시간)  │                                      │\n│          │          ├──────┼───────────────────┤\n│          │          │휴 무 일    │                                      │\n│          │          ├──────┼───────────────────┤\n│          │          │급여지급여부│                                      │\n│          │          ├──────┼───────────────────┤\n│          │          │기    타    │                                      │\n│          ├─────┴──────┴───────────────────┤\n│          │ 상기와 같이 수련 실시 예정임을 확인합니다.                     │\n│          │수련 기관장    성  명             ?                            │\n├─────┴────────────────────────────────┤\n│  병역법 제34조의2 및 동법 시행령 제69조의3의 규정에 의하여 병역판정검사전담│\n│의사 수련 허가신청서를 제출합니다.                                          │\n│                                                                            │\n│         년      월      일                                                 │\n│  제출인(병역판정검사전담의사)                (서명)                        │\n│병무청장 귀하                                                               │\n└──────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295565",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035631",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295561",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035627",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295565",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035631",
           "name": "",
           "file_store_url": ""
         }
@@ -4665,17 +4676,17 @@
       "content": "[별지 제20호서식]\n┌─────────────────────────────────┐\n│ 수  련  일  지                                                   │\n├────┬───────────┬──────┬─────────┤\n│성   명 │                      │생년월일    │                  │\n├────┼───────────┼──────┼─────────┤\n│소속기관│                      │전공과목    │                  │\n├────┼───────────┼──────┼─────────┤\n│면허번호│                      │전문의번호  │                  │\n├────┼───────────┼──────┼─────────┤\n│수련기관│                      │수련근무부서│                  │\n├────┴───────────┴──────┴─────────┤\n│수  련  사  항                                                    │\n├─────────┬─────┬──┬───────┬──────┤\n│수련일자          │근무시간  │진료│수 련 내 용   │확 인       │\n│                  ├──┬──┤인원│(상세히 기재) │(서명)      │\n│                  │출근│퇴근│    │              │            │\n├─────────┼──┼──┼──┼───────┼──────┤\n│20   .   .   .(월)│    │    │    │              │            │\n├─────────┼──┼──┼──┼───────┼──────┤\n│20   .   .   .(화)│    │    │    │              │            │\n├─────────┼──┼──┼──┼───────┼──────┤\n│20   .   .   .(수)│    │    │    │              │            │\n├─────────┼──┼──┼──┼───────┼──────┤\n│20   .   .   .(목)│    │    │    │              │            │\n├─────────┼──┼──┼──┼───────┼──────┤\n│20   .   .   .(금)│    │    │    │              │            │\n├─────────┼──┼──┼──┼───────┼──────┤\n│20   .   .   .(토)│    │    │    │              │            │\n├─────────┼──┼──┼──┼───────┼──────┤\n│20   .   .   .(일)│    │    │    │              │            │\n├────┬────┴──┴──┴──┴───────┴──────┤\n│수련사항│   직위 :                  성 명 :                (서명)│\n│확 인 자│                                                        │\n└────┴────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295571",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035637",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295567",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035633",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295571",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035637",
           "name": "",
           "file_store_url": ""
         }
@@ -4696,17 +4707,17 @@
       "content": "[별지 제21호서식]\n병역판정검사전담의사 수련확인 점검표\n? 인적사항\n┌────┬─────┬──────┬──────┐\n│성 명   │          │생년월일    │            │\n├────┼┬────┼──────┼─────┬┤\n│전공과  ││면허번호│            │전문의번호││\n│목      ││        │            │          ││\n├────┼┴────┼──────┼─────┴┤\n│수련기관│          │수련근무부서│            │\n├────┼─────┴──────┼─────┬┤\n│수련기관│                        │전화번호  ││\n│소 재 지│                        │          ││\n└────┴────────────┴─────┴┘\n? 점검사항                                     (점검방법 : 유선, 방문)\n┌────┬───────────────┬───────┬───┐\n│점검분야│점 검 내 용                   │점검결과      │비 고 │\n├────┼───────────────┼───────┼───┤\n│수련기관│수련기관 명칭변경, 소재지     │(일치, 불일치)│      │\n│확    인│이전 등 허가사항과의 일치 여부│              │      │\n│        ├───────────────┼───────┼───┤\n│        │해당 전공분야 개설여부        │(개설, 미개설)│      │\n├────┼───────────────┼───────┼───┤\n│근무실태│해당 수련기관 근무여부        │(근무, 비근무)│      │\n│        │(근무지 변경 여부)            │              │      │\n│        ├───────────────┼───────┼───┤\n│        │해당 전공분야 근무여부        │(근무, 비근무)│      │\n│        ├───────────────┼───────┼───┤\n│        │수련일지 비치 및 작성여부     │(작성, 미작성)│      │\n│        ├───────────────┼───────┼───┤\n│        │출,퇴근 시간 준수 여부        │(준수, 미준수)│      │\n│        ├───────────────┼───────┼───┤\n│        │조퇴, 연가, 적정성 여부       │(적정, 미적정)│      │\n├────┼───────────────┼───────┼───┤\n│영리여부│진료 관련 급여 및 수당지급 등 │(지급, 미지급)│      │\n│        ├───────────────┼───────┼───┤\n│        │기타 영리활동 등              │(해당, 미해당)│      │\n└────┴───────────────┴───────┴───┘\n\n┌────┬──────────┬────────────────────┐\n│확 인 란│병역판정검사전담의사│ 소속 :           성명 :         (서명) │\n│        ├──────────┼────────────────────┤\n│        │수련기관 확인자     │ 직위 :           성명 :         (서명) │\n└────┴──────────┴────────────────────┘\n년     월     일\n점검자    소속 :              직급 :       성명 :         (서명)\n※ 점검결과 결함사항이 있는 경우 확인서 첨부",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295577",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035643",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295573",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035639",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295577",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035643",
           "name": "",
           "file_store_url": ""
         }
@@ -4727,17 +4738,17 @@
       "content": "[별지 제22호서식]\n병역판정검사전담의사 수련실시 결함사항 확인서\n┌────┬─────┬──────┬──────┐\n│성  명  │          │생년월일    │            │\n├────┼┬────┼──────┼─────┬┤\n│전공과목││면허번호│            │전문의번호││\n├────┼┴────┼──────┼─────┴┤\n│수련기관│          │수련근무부서│            │\n├────┼─────┴──────┼─────┬┤\n│수련기관│                        │전화번호  ││\n│소 재 지│                        │          ││\n└────┴────────────┴─────┴┘\n? 결함 제목 :\n? 결함사항\n? 관련근거\n? 내용\n붙임 : (결함사항에 대한 증빙서)\n병역판정검사전담의사 수련실시 확인결과 상기와 같은 결함사항을 확인합니다.\n년       월       일\n작성자   소속 :         직급 :      성명 :          (서명)\n확인자   소속 :         직급 :      성명 :          (서명)\n수련의료기관장                               (직인)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295583",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035649",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295579",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035645",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295583",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035649",
           "name": "",
           "file_store_url": ""
         }
@@ -4758,17 +4769,17 @@
       "content": "[별지 제23호서식]\n┌───────────────────────────────────┐\n│병역판정검사전담의사 수련 실시 결과서                                 │\n├─────┬──────────┬───────┬──────────┤\n│성    명  │                    │생년월일      │                    │\n├─────┼──────────┼───────┼──────────┤\n│소속기관  │                    │전공과목      │                    │\n├─────┼┬─────────┼───────┼─────┬────┤\n│면허종별  ││면허번호          │              │전문의번호│        │\n├─────┼┴─────────┼───────┼─────┴────┤\n│복무시작일│ 20    .    .    .  │복무만료예정일│ 20    .    .    .  │\n├─────┼────┬─────┴───────┼────┬─────┤\n│수련사항  │수련기관│                          │기관유형│          │\n│          ├────┼─────────────┼────┼─────┤\n│          │수련근무│                          │전화번호│          │\n│          │부    서│                          │        │          │\n│          ├────┼─────────────┴────┴─────┤\n│          │수련기관│                                                │\n│          │소 재 지│                                                │\n│          ├────┼────────────────────────┤\n│          │수련기간│  20   .    .    . ～  20   .    .    .         │\n│          ├────┼──────┬─────────────────┤\n│          │수련조건│근 무 일    │                                  │\n│          │        │(근무시간)  │                                  │\n│          │        ├──────┼─────────────────┤\n│          │        │휴 무 일    │                                  │\n│          │        ├──────┼─────────────────┤\n│          │        │급여지급 등 │                                  │\n│          │        ├──────┼─────────────────┤\n│          │        │기    타    │                                  │\n│          ├────┼──────┴─────────────────┤\n│          │수련결과│                                                │\n│          ├────┴────────────────────────┤\n│          │ 상기와 같이 수련을 실시하였음을 확인합니다.              │\n│          │  수련의료기관장    성  명              ?                │\n├─────┴─────────────────────────────┤\n│ 병역법 제34조의2 및 동법 시행령 제69조의3의 규정에 의하여 병역판정검사전│\n│담의사 수련 결과서를 제출합니다.                                      │\n│                                                                      │\n│   년      월      일                                                 │\n│제출인(병역판정검사전담의사)                (서명)                    │\n│○ ○ 지방병무청장 귀하                                               │\n├───────────────────────────────────┤\n│ 구비서류(수련결과서 제출시) : 수련실시기간동안의 수련일지 1부.       │\n└───────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295589",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035655",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295585",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035651",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295589",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035655",
           "name": "",
           "file_store_url": ""
         }
@@ -4789,17 +4800,17 @@
       "content": "[별지 제24호서식]\n┌────────────────────────────────────┐\n│병역판정검사전담의사 수련 미실시 사유서                                 │\n├─────┬──────────┬───────┬───────────┤\n│성    명  │                    │생년월일      │                      │\n├─────┼──────────┼───────┼───────────┤\n│소속기관  │                    │전공과목      │                      │\n├─────┼┬─────────┼───────┼─────┬─────┤\n│면허종별  ││면허번호          │              │전문의번호│          │\n├─────┼┴─────────┼───────┼─────┴─────┤\n│복무시작일│ 20    .    .    .  │복무만료예정일│ 20    .    .    .    │\n├─────┴──────────┴───────┴───────────┤\n│수련 미실시 사유                                                        │\n├────────────────────────────────────┤\n│                                                                        │\n├────────────────────────────────────┤\n│  병역법 제34조의2 및 동법 시행령 제69조의3의 규정에 의하여 병역판정검사│\n│전담의사 수련 미실시 사유서를 제출합니다.                               │\n│                                                                        │\n│         년      월      일                                             │\n│  제출인(병역판정검사전담의사)                (서명)                    │\n│○  ○ 지방병무청장 귀하                                                │\n└────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295595",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035661",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295591",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035657",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295595",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035661",
           "name": "",
           "file_store_url": ""
         }
@@ -4820,17 +4831,17 @@
       "content": "[별지 제25호서식]\n┌────────────────────────────────────┐\n│                                                                        │\n│  재  직  증  명  서                                                    │\n│                                                                        │\n│┌────┬───────┬──┬─┬─────┬─────────┐  │\n││        │①성 명       │한글│  │②생년월일│                  │  │\n││인적사항│              ├──┼─┤          │                  │  │\n││        │              │한자│  │          │                  │  │\n││        ├───────┼──┴─┴─────┴─────────┤  │\n││        │③주 소       │                                        │  │\n│├────┼───────┼────────────────────┤  │\n││재직사항│④소 속       │                                        │  │\n││        ├───────┼────────────────────┤  │\n││        │⑤직위또는직급│                                        │  │\n││        ├───────┼────────────────────┤  │\n││        │⑥기 간       │     .    .    .  부터                  │  │\n││        │              │                        (     년     월)│  │\n││        │              │     .    .    .  현재                  │  │\n│├────┼───────┴────────────────────┤  │\n││⑦용도  │                                                        │  │\n│└────┴────────────────────────────┘  │\n│   위와 같이 재직을 증명합니다.                                         │\n│                                                                        │\n│                 .      .      .                                        │\n│                                                              ┌──┐  │\n│                                                              │직  │  │\n│                                                              │인  │  │\n│                                                  ( 기 관 장 )│    │  │\n│                                                              └──┘  │\n│                                                                        │\n└────────────────────────────────────┘\n210㎜×297㎜(일반용지 60g/㎡(재활용품))\n※ 기입요령\n1. \"④소속\"란에는 중앙행정기관 단위부터 직제상 최저단위 보조기관까지 그 명칭을 기입한다.\n2. \"⑥기간\"란에는 공무원 최초 임용일부터 증명서 발급일 현재까지를 기입하고, \"(   년 월)\"안에는 공무원 실재직기간을 기입하되, \"월\"을 산정함에 있어서 15일 이상은 1월로 계산하고, 15일 미만은 산입하지 아니한다.",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295601",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035667",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295597",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035663",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295601",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035667",
           "name": "",
           "file_store_url": ""
         }
@@ -4851,17 +4862,17 @@
       "content": "[별지 제26호서식]\n┌─────────────────────────────────────────┐\n│                                                                                  │\n│                                                                                  │\n│  경     력     증     명     서                                                  │\n│┌───┬────┬────┬──────┬───────┬─────────┐  │\n││인적  │ ①성명 │한  글  │            │②주민등록번호│                  │  │\n││사항  │        ├────┼──────┤              │                  │  │\n││      │        │한  자  │            │              │                  │  │\n││      ├────┴────┼──────┴───────┴─────────┤  │\n││      │ ③주          소 │                                                │  │\n│├───┼─────────┼───────┬───────┬────────┤  │\n││경력  │ ④근 무 기 간    │⑤직    급    │⑥직    위    │⑦근무부서      │  │\n││사항  ├────┬────┼───────┼───────┼────────┤  │\n││      │부   터 │까   지 │              │              │                │  │\n││      ├────┼────┼───────┼───────┼────────┤  │\n││      │        │        │              │              │                │  │\n││      ├────┼────┼───────┼───────┼────────┤  │\n││      │        │        │              │              │                │  │\n││      ├────┼────┼───────┼───────┼────────┤  │\n││      │        │        │              │              │                │  │\n││      ├────┼────┼───────┼───────┼────────┤  │\n││      │        │        │              │              │                │  │\n││      ├────┼────┼───────┼───────┼────────┤  │\n││      │        │        │              │              │                │  │\n│├───┼────┴────┼───────┼───────┴────────┴┐│\n││⑧근무│년    월          │⑨최종직위    │                                  ││\n││  연한│                  │또는 직급     │                                  ││\n│├───┼─────────┴───────┴────────────────┬┘│\n││⑩퇴직│                                                                    │  │\n││ 사유 │                                                                    │  │\n│├───┼────────────────┬─────────────────┤  │\n││상벌  │⑪포            상              │⑫징            계                │  │\n││사항  ├────┬─────┬─────┼─────┬─────┬─────┤  │\n││      │년 월 일│종  류    │시  행  청│년  월  일│종  류    │처  분  청│  │\n││      ├────┼─────┼─────┼─────┼─────┼─────┤  │\n││      │        │          │          │          │          │          │  │\n││      ├────┼─────┼─────┼─────┼─────┼─────┤  │\n││      │        │          │          │          │          │          │  │\n││      ├────┼─────┼─────┼─────┼─────┼─────┤  │\n││      │        │          │          │          │          │          │  │\n││      ├────┼─────┼─────┼─────┼─────┼─────┤  │\n││      │        │          │          │          │          │          │  │\n││      ├────┼─────┼─────┼─────┼─────┼─────┤  │\n││      │        │          │          │          │          │          │  │\n│├───┼────┴┬────┴─────┴─────┼─────┴─────┤  │\n││⑬직위│년  월  일│사                 유           │처    분    청        │  │\n││  해제├─────┼────────────────┼───────────┤  │\n││      │          │                                │                      │  │\n││      ├─────┼────────────────┼───────────┤  │\n││      │          │                                │                      │  │\n││      ├─────┼────────────────┼───────────┤  │\n││      │          │                                │                      │  │\n│├───┼─────┴────────────────┴───────────┤  │\n││⑭용도│                                                                    │  │\n│└───┴──────────────────────────────────┘  │\n│                                                                                  │\n│  위와 같이 경력을 증명합니다.                                                    │\n│                                                  .     .     .                   │\n│                                                        ┌──┐                  │\n│                                                        │직  │                  │\n│                     (  임   용   권   자 )             │인  │                  │\n│                                                        └──┘                  │\n│                                                                                  │\n└─────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295607",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035673",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295603",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035669",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295607",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035673",
           "name": "",
           "file_store_url": ""
         }
@@ -4882,17 +4893,17 @@
       "content": "[별지 제27호서식] <개정 2026.3.9.>\n취 학 승 인 서\n○ 성        명 :\n○ 생 년  월 일 :\n○ 근   무   지 :\n○ 의무복무기간 :\n○ 취학대학(원) :\n위 사람은 병역법에 따라 복무중인 병역판정검사전담의사로서 ㅇㅇㅇㅇ년도  대학(원) 취학을 승인함.\n년     월      일\n○○지방병무청장 (인)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295613",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035679",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295609",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035675",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162295613",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170035679",
           "name": "",
           "file_store_url": ""
         }
@@ -4907,19 +4918,19 @@
   ],
   "attachments": [
     {
-      "name": "제2195호(병역판정검사전담의사 운영규정).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=162286731",
-      "filename": "제2195호(병역판정검사전담의사 운영규정).pdf",
+      "name": "제2232호(병역판정검사전담의사 운영규정).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170031661",
+      "filename": "제2232호(병역판정검사전담의사 운영규정).hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/제2195호(병역판정검사전담의사 운영규정).pdf",
+      "local_path": "첨부파일/제2232호(병역판정검사전담의사 운영규정).hwpx",
       "file_store_url": ""
     },
     {
-      "name": "제2195호(병역판정검사전담의사 운영규정).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=162286727",
-      "filename": "제2195호(병역판정검사전담의사 운영규정).hwpx",
+      "name": "제2232호(병역판정검사전담의사 운영규정).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170031665",
+      "filename": "제2232호(병역판정검사전담의사 운영규정).pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/제2195호(병역판정검사전담의사 운영규정).hwpx",
+      "local_path": "첨부파일/제2232호(병역판정검사전담의사 운영규정).pdf",
       "file_store_url": ""
     }
   ],
@@ -4941,7 +4952,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 33,
     "attachments_count": 2
   },
