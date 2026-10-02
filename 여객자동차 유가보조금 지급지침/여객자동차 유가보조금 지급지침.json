@@ -1,16 +1,16 @@
 {
   "law_id": "2001087",
-  "mst": "2100000282580",
+  "mst": "2100000285636",
   "law_name": "여객자동차 유가보조금 지급지침",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2001087",
-  "promulgation_no": "2026-383",
-  "promulgation_date": "20260716",
-  "enforcement_date": "20260716",
-  "revision_date": "20260716",
+  "promulgation_no": "2026-524",
+  "promulgation_date": "20261001",
+  "enforcement_date": "20261001",
+  "revision_date": "20261001",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "박삼범",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "여객자동차 유가보조금 지급지침",
-    "발령일자": "20260716",
+    "발령일자": "20261001",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "044-201-3824",
     "제개정구분명": "일부개정",
     "소관부처코드": "1613000",
-    "생성일자": "20260716",
+    "생성일자": "20261001",
     "행정규칙ID": "2001087",
-    "시행일자": "20260716",
+    "시행일자": "20261001",
     "담당부서기관코드": "1613805",
-    "발령번호": "2026-383",
-    "행정규칙일련번호": "2100000282580",
+    "발령번호": "2026-524",
+    "행정규칙일련번호": "2100000285636",
     "상위부처명": "국토교통부"
   },
-  "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n국제정세 불안 등에 따른 유가 상승으로 인한 운수업계 부담을 경감하기 위해 유가연동보조금 지급기간을 9월까지 연장하는 한편, 전세버스 업계의 유류비 부담 완화를 위해 경유 유가보조금 지급 대상에 전세버스운송사업자를 추가하는 내용으로 「여객자동차 운수사업법 시행령」(대통령령 제36499호, 2026. 7. 7., 공포 및 시행)이 개정됨에 따라 전세버스의 유가보조금 지급기간 등 세부기준을 마련하려는 것임.\n◇ 주요내용\n가. 유가연동보조금 정의(안 제3조)\n: 비상경제본부 회의 겸 경제관계장관회의 겸 민생물가 특별관리 관계장관 TF 회의 <2026. 6. 26.> 변경\n나. 유가보조금 지급기간(안 제5조)\n: (제1항) 유가보조금 및 유가연동보조금 지급기간을 2026년 9월 30일까지 연장\n: (제2항) 1년(’26.7.16~‘27.7.15)만 지급하되, 자원안보위기경계 또는 경유 기준가격 1,500원/ℓ 이상 시, 1년 이내 지급 개시 가능\n다. 유가보조금 지급대상(안 제8조)\n: 유가연동보조금 지급대상에 경유 추가\n라. 유가보조금 지급단가(안 제9조)\n: (제1항제5호 신설) {현재 유류세 - ‘01.6월 당시 유류세(183.21원/ℓ) + 유류세 인상분에 대한 부가가치세}의 70%\n: (제3항) 천연가스 지급비율 70% 상향\n: (제5항) 전세버스는 노선버스의 경유 유가연동보조금의 70%\n마. 시행일\n: 고시 발령일 시행(제5조제1항의 개정규정은 이 고시 시행 이전 2026년 7월 1일의 주유ㆍ충전한 분부터 적용)",
+  "amendment_text": "⊙국토교통부고시 제2026-524호\n여객자동차 유가보조금 지급지침 일부를 다음과 같이 개정한다.\n2026년 10월 1일\n국토교통부장관\n여객자동차 유가보조금 지급지침 일부개정고시\n여객자동차 유가보조금 지급지침 일부를 다음과 같이 개정한다.\n제3조제1호나목의1) 중  \"비상경제본부 회의 겸 경제관계장관회의 겸 민생물가 특별관리 관계장관 TF 회의 〈2026. 6. 26.〉\"를 \"추석 민생안정대책 발표 〈2026. 9. 1.〉\"로 한다.\n제5조제1항제2호 및 제3호 중 \"2026년 9월 30일\"을 \"2026년 12월 31일\"로 한다.\n제9조제4항제1호에 다음과 같이 단서를 신설한다.\n다만, 2026년 10월 1일부터 2026년 12월 31일까지 6,000원/kg으로 적용한다.\n부칙\n이 고시는 발령한 날부터 시행한다.",
+  "revision_reason": "◇ 제ㆍ개정 이유\n국제정세 불안 등에 따른 유가 상승으로 인한 운수업계 부담을 경감하기 위해 유가연동보조금 지급기간을 12월까지 연장하는 한편, 액화수소업체의 생산 차질에 대한 버스업계의 부담을 경감하기 위해 수소버스 연료보조금 지급단가를 12월까지 상향하려는 것임.\n◇ 주요내용\n가. 유가연동보조금 정의(안 제3조제1항나목의1))\n: 추석 민생안정대책 발표 <2026. 9. 1.> 변경\n나. 유가보조금 지급기간(안 제5조제1항)\n: (제2호 및 제3호) 2026년 12월 31일 연장\n다. 유가보조금 지급단가(안 제9조제4항제1호)\n: (단서신설) 2026년 10월 1일부터 2026년 12월 31일까지 6,000원/kg 적용\n라. 시행일\n: 고시 발령일 시행",
   "body": {
     "format": "articles",
     "article_count": 27,
@@ -169,7 +169,7 @@
         "article_title": "정의",
         "chapter": "제1절 총칙",
         "chapter_path": "제1절 총칙",
-        "content": "제3조(정의) 이 지침에서 사용하는 용어의 뜻은 다음과 같다.1. \"유가보조금\"이란 다음 각 목의 금전을 말한다.가. 에너지 세제 개편(2001년)에 따라 유류에 부과되는 세금 등의 인상액 및 미세먼지관리 특별대책(2016년)에 따라 천연가스에 부과되는 세금 등에 상당한 금액의 전부 또는 일부를 보조해 주는 유류세연동보조금 또는 「환경친화적 자동차의 개발 및 보급 촉진에 관한 법률」제2조6호에 따른 수소전기자동차의 운행을 위해 수소를 충전한 금액의 전부 또는 일부를 보조해 주는 연료보조금나. 유가연동보조금1) 비상경제본부 회의 겸 경제관계장관회의 겸 민생물가 특별관리 관계장관 TF 회의 <2026. 6. 26.> 결과에 따라 경유 가격 및 천연가스(CNG) 가격의 일부를 보조해 주는 유가연동보조금2)「여객자동차 운수사업법」 제50조제5항제3호에 해당하는 금액의 일부를 보조해 주는 유가연동보조금2. \"관할관청\"이란 여객자동차 유가보조금의 지급 및 반환, 운송사업자의 지도ㆍ감독, 처분 등 유가보조금 제도 운영업무 전반을 관장하는 특별시장ㆍ광역시장ㆍ특별자치도지사ㆍ특별자치시장ㆍ시장ㆍ군수(광역시의 군수를 포함한다)를 말한다.3. \"연료구매카드\"란 유가보조금 거래내역의 투명화 및 행정절차의 간소화를 위해 국토교통부장관이 선정한 카드협약사가 발행한 카드를 말한다.4. \"운송사업자\"란 「여객자동차 운수사업법」에 따라 여객자동차운송사업의 면허를 받거나 등록을 한 자를 말한다.5. \"주유업자\"란 「석유 및 석유대체연료 사업법 시행령」 제2조제3호에 따른 \"주유소\"와 「액화석유가스의 안전관리 및 사업법 시행령」 제3조제1항제1호나목에 따른 \"액화석유가스 충전사업\"을 하는 자 및 「도시가스사업법」 제2조제4의2호에 따른 \"도시가스 충전사업\"을 하는 자, 「수소경제 육성 및 수소 안전관리에 관한 법률」제50조제1항에 따른 \"수소판매사업자\"를 말한다.6. \"유가보조금 관리시스템(FSMS: Fuel Subsidy Management System)\" 이란 국토교통부장관이 「여객자동차 운수사업법」 및 「화물자동차 운수사업법」에 따른 유가보조금 지급과 관리를 위하여 구축한 전산시스템을 말한다.7. \"주유량 확인 시스템\"이란 운송사업자 등이 연료구매카드를 사용하는 경우 주유업자가 유종, 단가(ℓ또는 N㎥당), 총 주유ㆍ충전량 및 주유ㆍ충전금액 등 주유ㆍ충전정보를 유가보조금 관리시스템으로 전송할 수 있도록 하는 장치를 말한다.8. \"카드협약사\"란 연료구매카드 발급, 유가보조금 지급, 부정수급 방지 및 여신 등의 업무를 효율적으로 수행하기 위하여 국토교통부장관이 선정한 금융회사를 말한다.9. \"자가주유ㆍ충전\"이란 운송사업자가 본인 소유지(임차를 포함한다)에 유류를 주유ㆍ충전할 수 있는 시설(이하 \"자가주유시설\"이라 한다)을 갖추고 소속 사업용 승합자동차에 주유하는 것을 말한다. 이 경우 자가주유ㆍ충전시설 및 차량에 유가보조금 지급대상 차량의 주유ㆍ충전정보를 확인할 수 있는 RFID (Radio-Frequency IDentification) 시스템을 구축한 후 관련 정보를 유가보조금 관리시스템에 전송하여야 한다.10. \"유가보조금 부정수급 의심거래 시스템\"이란 운송사업자가 거짓이나 부정한 방법으로 유가보조금을 지급받는 행위를 근절하기 위하여 관할관청에 부정수급이 의심되는 거래를 유형별로 자동 추출ㆍ제공하여 부정수급 조사 및 행정처리 절차를 지원하는 시스템을 말한다.11. \"유가보조금 통합관리시스템\"이란 운송사업자의 주유ㆍ충전내역을 유가보조금관리시스템에 전송하기 위하여 카드협약사가 공동으로 구축ㆍ운영(위탁을 포함한다)하는 시스템을 말하며, 운송사업자 및 주유업자에게 주유ㆍ충전내역과 유가보조금 지급내역 및 결제 등의 서비스를 제공한다.12. \"영업정보\"란 여객의 택시이용에 따라 발생한 운임 및 요금, 운행일시 등의 정보를 말한다.",
+        "content": "제3조(정의) 이 지침에서 사용하는 용어의 뜻은 다음과 같다.1. \"유가보조금\"이란 다음 각 목의 금전을 말한다.가. 에너지 세제 개편(2001년)에 따라 유류에 부과되는 세금 등의 인상액 및 미세먼지관리 특별대책(2016년)에 따라 천연가스에 부과되는 세금 등에 상당한 금액의 전부 또는 일부를 보조해 주는 유류세연동보조금 또는 「환경친화적 자동차의 개발 및 보급 촉진에 관한 법률」제2조6호에 따른 수소전기자동차의 운행을 위해 수소를 충전한 금액의 전부 또는 일부를 보조해 주는 연료보조금나. 유가연동보조금1) 추석 민생안정대책 발표 <2026. 9. 1.> 결과에 따라 경유 가격 및 천연가스(CNG) 가격의 일부를 보조해 주는 유가연동보조금2)「여객자동차 운수사업법」 제50조제5항제3호에 해당하는 금액의 일부를 보조해 주는 유가연동보조금2. \"관할관청\"이란 여객자동차 유가보조금의 지급 및 반환, 운송사업자의 지도ㆍ감독, 처분 등 유가보조금 제도 운영업무 전반을 관장하는 특별시장ㆍ광역시장ㆍ특별자치도지사ㆍ특별자치시장ㆍ시장ㆍ군수(광역시의 군수를 포함한다)를 말한다.3. \"연료구매카드\"란 유가보조금 거래내역의 투명화 및 행정절차의 간소화를 위해 국토교통부장관이 선정한 카드협약사가 발행한 카드를 말한다.4. \"운송사업자\"란 「여객자동차 운수사업법」에 따라 여객자동차운송사업의 면허를 받거나 등록을 한 자를 말한다.5. \"주유업자\"란 「석유 및 석유대체연료 사업법 시행령」 제2조제3호에 따른 \"주유소\"와 「액화석유가스의 안전관리 및 사업법 시행령」 제3조제1항제1호나목에 따른 \"액화석유가스 충전사업\"을 하는 자 및 「도시가스사업법」 제2조제4의2호에 따른 \"도시가스 충전사업\"을 하는 자, 「수소경제 육성 및 수소 안전관리에 관한 법률」제50조제1항에 따른 \"수소판매사업자\"를 말한다.6. \"유가보조금 관리시스템(FSMS: Fuel Subsidy Management System)\" 이란 국토교통부장관이 「여객자동차 운수사업법」 및 「화물자동차 운수사업법」에 따른 유가보조금 지급과 관리를 위하여 구축한 전산시스템을 말한다.7. \"주유량 확인 시스템\"이란 운송사업자 등이 연료구매카드를 사용하는 경우 주유업자가 유종, 단가(ℓ또는 N㎥당), 총 주유ㆍ충전량 및 주유ㆍ충전금액 등 주유ㆍ충전정보를 유가보조금 관리시스템으로 전송할 수 있도록 하는 장치를 말한다.8. \"카드협약사\"란 연료구매카드 발급, 유가보조금 지급, 부정수급 방지 및 여신 등의 업무를 효율적으로 수행하기 위하여 국토교통부장관이 선정한 금융회사를 말한다.9. \"자가주유ㆍ충전\"이란 운송사업자가 본인 소유지(임차를 포함한다)에 유류를 주유ㆍ충전할 수 있는 시설(이하 \"자가주유시설\"이라 한다)을 갖추고 소속 사업용 승합자동차에 주유하는 것을 말한다. 이 경우 자가주유ㆍ충전시설 및 차량에 유가보조금 지급대상 차량의 주유ㆍ충전정보를 확인할 수 있는 RFID (Radio-Frequency IDentification) 시스템을 구축한 후 관련 정보를 유가보조금 관리시스템에 전송하여야 한다.10. \"유가보조금 부정수급 의심거래 시스템\"이란 운송사업자가 거짓이나 부정한 방법으로 유가보조금을 지급받는 행위를 근절하기 위하여 관할관청에 부정수급이 의심되는 거래를 유형별로 자동 추출ㆍ제공하여 부정수급 조사 및 행정처리 절차를 지원하는 시스템을 말한다.11. \"유가보조금 통합관리시스템\"이란 운송사업자의 주유ㆍ충전내역을 유가보조금관리시스템에 전송하기 위하여 카드협약사가 공동으로 구축ㆍ운영(위탁을 포함한다)하는 시스템을 말하며, 운송사업자 및 주유업자에게 주유ㆍ충전내역과 유가보조금 지급내역 및 결제 등의 서비스를 제공한다.12. \"영업정보\"란 여객의 택시이용에 따라 발생한 운임 및 요금, 운행일시 등의 정보를 말한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -613,7 +613,7 @@
         "article_title": "유가보조금 지급기간",
         "chapter": "제2절 유가보조금의 재원 및 안분 등",
         "chapter_path": "제2절 유가보조금의 재원 및 안분 등",
-        "content": "제5조(유가보조금 지급기간) ① 노선버스와 택시의 유가보조금 및 유가연동보조금은 다음 각 호에 따라 한시적으로 지급한다.1. 노선버스 및 택시 유가보조금 : 2026년 1월 1일부터 2026년 12월 31일까지2. 제3조제1호나목의1)에 따른 유가연동보조금 : 2023년 7월11일부터 2026년 9월 30일까지3. 제3조제1호나목의2)에 따른 유가연동보조금 : 2026년 5월 29일부터 2026년 9월 30일까지② 전세버스 유가보조금 및 유가연동보조금은 제1항에 따라 노선버스의 지급기간을 따른다. 다만, 경유 유가보조금 및 유가연동보조금의 경우는 노선버스의 지급기한이 2027년 7월 16일 이후로 연장되는 경우 2027년 7월 15일까지만 지급하되, 「국가자원안보 특별법」 제23조에 따른 자원안보위기 경보가 경계 단계 이상 발령된 경우 또는 지역별 경유 평균판매가격이 기준가격 1,500원/ℓ 이상인 경우에 1년 이내의 기간을 정하여 다시 지급을 개시할 수 있다.",
+        "content": "제5조(유가보조금 지급기간) ① 노선버스와 택시의 유가보조금 및 유가연동보조금은 다음 각 호에 따라 한시적으로 지급한다.1. 노선버스 및 택시 유가보조금 : 2026년 1월 1일부터 2026년 12월 31일까지2. 제3조제1호나목의1)에 따른 유가연동보조금 : 2023년 7월11일부터 2026년 12월 31일까지3. 제3조제1호나목의2)에 따른 유가연동보조금 : 2026년 5월 29일부터 2026년 12월 31일까지② 전세버스 유가보조금 및 유가연동보조금은 제1항에 따라 노선버스의 지급기간을 따른다. 다만, 경유 유가보조금 및 유가연동보조금의 경우는 노선버스의 지급기한이 2027년 7월 16일 이후로 연장되는 경우 2027년 7월 15일까지만 지급하되, 「국가자원안보 특별법」 제23조에 따른 자원안보위기 경보가 경계 단계 이상 발령된 경우 또는 지역별 경유 평균판매가격이 기준가격 1,500원/ℓ 이상인 경우에 1년 이내의 기간을 정하여 다시 지급을 개시할 수 있다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -796,7 +796,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2001087",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131047",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822607",
             "resolve_method": "html",
             "source_provision_id": "admrul:여객자동차유가보조금지급지침#JO0007",
             "target_unit": "BJ0002",
@@ -953,7 +953,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2001087",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000282580&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285636&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:여객자동차유가보조금지급지침#JO0008",
             "target_unit": "BYL0001",
@@ -978,7 +978,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2001087",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000282580&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285636&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:여객자동차유가보조금지급지침#JO0008",
             "target_unit": "BYL0001",
@@ -1035,7 +1035,7 @@
         "article_title": "유가보조금 지급단가",
         "chapter": "제3절 유가보조금의 지급기준 등",
         "chapter_path": "제3절 유가보조금의 지급기준 등",
-        "content": "제9조(유가보조금 지급단가) ① 제3조제1호가목의 유가보조금에 대한 지급단가는 다음 공식에 의하여 산출한다.1. 일반버스(일반형 고속버스를 포함한다)에 사용되는 연료: 현재 유류세 - ‘01.6월 당시 유류세(183.21원/ℓ) + 유류세 인상분에 대한 부가가치세2. 우등형 고속버스ㆍ택시에 사용되는 연료: 현재 유류세 - ‘01.6월 당시 유류세(183.21원/ℓ)3. < 삭제 >4. < 삭제 >5. 전세버스에 사용되는 연료 : {현재 유류세 - ‘01.6월 당시 유류세(183.21원/ℓ) + 유류세 인상분에 대한 부가가치세}의 70%6. 제1호, 제2호 및 제5호의 경유에 대한 유류세란 리터당 교통ㆍ에너지ㆍ환경세, 교육세, 주행세를 합한 세액을 말한다.② 액화석유가스(LPG: 부탄)에 대한 유가보조금에 대한 지급 단가는 다음 공식에 의하여 산출한다.1. 택시에 사용되는 연료: 현재 유류세 - 조세특례제한법에 의한 감면액(23.39원/ℓ)2. 버스에 사용되는 연료 : 현재 유류세 - ‘01.6월 유류세(23.39원/ℓ)3. 제1호 내지 제2호의 액화석유가스(LPG : 부탄)에 대한 유류세란 리터당 개별소비세, 교육세, 판매부과금을 합한 세액을 말한다.③ 천연가스(CNG)에 대한 유가보조금에 대한 지급단가는 다음과 같이 산출한다.1. 노선버스에 사용되는 연료 : 천연가스(CNG)에 대한 유류세2. 전세버스에 사용되는 연료 : 천연가스(CNG)에 대한 유류세의 70%3. 제1호 및 제2호의 천연가스(CNG)에 대한 유류세란 세제곱미터(N㎥)당 관세(한국가스공사가 전전년도에 납부한 관세액 실적치를 기준으로 한다) , 개별소비세, 판매부과금, 부가가치세를 합한 세액을 말한다.④ 수소에 대한 유가보조금 지급단가는 각호에 따라 지급한다. 이 경우 향후 수소 가격 및 자동차 연비 등을 고려하여 수소 유가보조금 지급단가를 조정할 수 있다.1. 수소 버스에 사용되는 연료보조금 : 5,000원/kg2. 수소 택시에 사용되는 연료보조금 : 3,700원/kg⑤ 제3조제1호나목의 유가연동보조금에 대한 지급단가는 다음과 같이 산출한다.1. 경유 유가연동보조금가. 제3조제1호나목의1)의 경우에는 {지역별 평균 판매가격(원/ℓ) - 기준가격(1,700원/ℓ)}의 70%. 다만, 183.21원/ℓ을 초과하지 못한다. (전세버스는 노선버스 유가연동보조금의 70%)나. 제3조제1호나목의2)의 경우에는 {지역별 평균 판매가격(원/ℓ) - 유가연동보조금 지급 한도 금액(1961.73원/ℓ)}의 70%. 다만, 지역별 평균 판매가격은 2,100원/ℓ을 초과하지 못한다. (전세버스는 노선버스 유가연동보조금의 70%)다. 지역별 평균 판매가격은 차량의 등록지 기준으로 한국석유공사 유가정보서비스(www.opinet.co.kr)의 직전 주의 평균가격을 적용한다. 다만, 지역을 알기 어려운 경우에는 전국 평균 판매가격을 적용할 수 있다.2. 천연가스(CNG) 유가연동보조금가. {지역별 평균 구매가격(원/㎥) - 기준가격(1,330원/㎥)}의 50%. 다만, 183.21원/㎥을 초과하지 못한다.(전세버스는 노선버스 유가연동보조금의 50%)나. 지역별 평균 구매가격(원/㎥)은 차량의 등록지 기준으로 유가보조금 관리시스템의 구매일 전전월의 1일부터 말일까지 평균가격을 말한다.⑥ 국토교통부장관은 제1항부터 제5항까지의 지급단가가 변경될 경우 관할관청에 지급단가와 그 산출근거를 통보하여야 한다.",
+        "content": "제9조(유가보조금 지급단가) ① 제3조제1호가목의 유가보조금에 대한 지급단가는 다음 공식에 의하여 산출한다.1. 일반버스(일반형 고속버스를 포함한다)에 사용되는 연료: 현재 유류세 - ‘01.6월 당시 유류세(183.21원/ℓ) + 유류세 인상분에 대한 부가가치세2. 우등형 고속버스ㆍ택시에 사용되는 연료: 현재 유류세 - ‘01.6월 당시 유류세(183.21원/ℓ)3. < 삭제 >4. < 삭제 >5. 전세버스에 사용되는 연료 : {현재 유류세 - ‘01.6월 당시 유류세(183.21원/ℓ) + 유류세 인상분에 대한 부가가치세}의 70%6. 제1호, 제2호 및 제5호의 경유에 대한 유류세란 리터당 교통ㆍ에너지ㆍ환경세, 교육세, 주행세를 합한 세액을 말한다.② 액화석유가스(LPG: 부탄)에 대한 유가보조금에 대한 지급 단가는 다음 공식에 의하여 산출한다.1. 택시에 사용되는 연료: 현재 유류세 - 조세특례제한법에 의한 감면액(23.39원/ℓ)2. 버스에 사용되는 연료 : 현재 유류세 - ‘01.6월 유류세(23.39원/ℓ)3. 제1호 내지 제2호의 액화석유가스(LPG : 부탄)에 대한 유류세란 리터당 개별소비세, 교육세, 판매부과금을 합한 세액을 말한다.③ 천연가스(CNG)에 대한 유가보조금에 대한 지급단가는 다음과 같이 산출한다.1. 노선버스에 사용되는 연료 : 천연가스(CNG)에 대한 유류세2. 전세버스에 사용되는 연료 : 천연가스(CNG)에 대한 유류세의 70%3. 제1호 및 제2호의 천연가스(CNG)에 대한 유류세란 세제곱미터(N㎥)당 관세(한국가스공사가 전전년도에 납부한 관세액 실적치를 기준으로 한다) , 개별소비세, 판매부과금, 부가가치세를 합한 세액을 말한다.④ 수소에 대한 유가보조금 지급단가는 각호에 따라 지급한다. 이 경우 향후 수소 가격 및 자동차 연비 등을 고려하여 수소 유가보조금 지급단가를 조정할 수 있다.1. 수소 버스에 사용되는 연료보조금 : 5,000원/kg 다만, 2026년 10월 1일부터 2026년 12월 31일까지 6,000원/kg으로 적용한다.2. 수소 택시에 사용되는 연료보조금 : 3,700원/kg⑤ 제3조제1호나목의 유가연동보조금에 대한 지급단가는 다음과 같이 산출한다.1. 경유 유가연동보조금가. 제3조제1호나목의1)의 경우에는 {지역별 평균 판매가격(원/ℓ) - 기준가격(1,700원/ℓ)}의 70%. 다만, 183.21원/ℓ을 초과하지 못한다. (전세버스는 노선버스 유가연동보조금의 70%)나. 제3조제1호나목의2)의 경우에는 {지역별 평균 판매가격(원/ℓ) - 유가연동보조금 지급 한도 금액(1961.73원/ℓ)}의 70%. 다만, 지역별 평균 판매가격은 2,100원/ℓ을 초과하지 못한다. (전세버스는 노선버스 유가연동보조금의 70%)다. 지역별 평균 판매가격은 차량의 등록지 기준으로 한국석유공사 유가정보서비스(www.opinet.co.kr)의 직전 주의 평균가격을 적용한다. 다만, 지역을 알기 어려운 경우에는 전국 평균 판매가격을 적용할 수 있다.2. 천연가스(CNG) 유가연동보조금가. {지역별 평균 구매가격(원/㎥) - 기준가격(1,330원/㎥)}의 50%. 다만, 183.21원/㎥을 초과하지 못한다.(전세버스는 노선버스 유가연동보조금의 50%)나. 지역별 평균 구매가격(원/㎥)은 차량의 등록지 기준으로 유가보조금 관리시스템의 구매일 전전월의 1일부터 말일까지 평균가격을 말한다.⑥ 국토교통부장관은 제1항부터 제5항까지의 지급단가가 변경될 경우 관할관청에 지급단가와 그 산출근거를 통보하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1154,8 +1154,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131017",
-            "seq": "167131017",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821937",
+            "seq": "169821937",
             "filename": "제10조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제10조_1.gif",
@@ -1499,7 +1499,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2001087",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131055",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822615",
             "resolve_method": "html",
             "source_provision_id": "admrul:여객자동차유가보조금지급지침#JO0019",
             "target_unit": "BJ0003",
@@ -1524,7 +1524,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2001087",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131073",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822633",
             "resolve_method": "html",
             "source_provision_id": "admrul:여객자동차유가보조금지급지침#JO0019",
             "target_unit": "BJ0006",
@@ -1549,7 +1549,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2001087",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131079",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822639",
             "resolve_method": "html",
             "source_provision_id": "admrul:여객자동차유가보조금지급지침#JO0019",
             "target_unit": "BJ0007",
@@ -1787,8 +1787,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131019",
-            "seq": "167131019",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821977",
+            "seq": "169821977",
             "filename": "제23조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제23조_1.gif",
@@ -1796,8 +1796,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131021",
-            "seq": "167131021",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169821979",
+            "seq": "169821979",
             "filename": "제23조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제23조_2.gif",
@@ -1805,8 +1805,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131023",
-            "seq": "167131023",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822019",
+            "seq": "169822019",
             "filename": "제23조_3.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제23조_3.gif",
@@ -1872,7 +1872,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2001087",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131103",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822663",
             "resolve_method": "html",
             "source_provision_id": "admrul:여객자동차유가보조금지급지침#JO0025",
             "target_unit": "BJ0011",
@@ -1897,7 +1897,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2001087",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131117",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822677",
             "resolve_method": "html",
             "source_provision_id": "admrul:여객자동차유가보조금지급지침#JO0025",
             "target_unit": "BJ0013",
@@ -1961,10 +1961,10 @@
       "content": "부칙 <제2012-520호,2012. 8. 16.>제1조 (시행일) 이 규정은 2012. 8. 16.부터 시행한다. 다만, 여객자동차 유가보조금 지급지침 제19조 제3항 및 제23조 제2항 제7호의 개정규정은 2012. 11. 16.부터 시행한다.제2조 (다른 지침의 폐지) 「국토해양부 유가보조금 지급지침」(2011. 6. 29.) 및 「버스ㆍ택시 유류구매 카드제 시행지침」(2009. 5. 16.)은 폐지한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20130416",
@@ -1972,10 +1972,10 @@
       "content": "부칙 <제2013-131호,2013. 4. 16.>① (시행일) 이 지침은 발령한 날로부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20130619",
@@ -1983,10 +1983,10 @@
       "content": "부칙 <제2013-332호,2013. 6. 19.>제1조 (시행일) 이 규정은 2013. 7. 1.부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20140626",
@@ -1994,10 +1994,10 @@
       "content": "부칙 <제2014-403호,2014. 6. 26.>이 규정은 2014년 7월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20141215",
@@ -2005,10 +2005,10 @@
       "content": "부칙 <제2014-804호,2014. 12. 15.>제1조(시행일) 이 고시는 2014. 12. 15.부터 시행한다.제2조(종전 유가보조금을 지급받던 경유 택시에 관한 경과조치) 2006. 7. 12. 이전에 등록하여 경유 유가보조금을 지급받던 택시는 제8조제2항에 따른 매년 1만대의 제한규정을 적용하지 아니하다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20150326",
@@ -2016,10 +2016,10 @@
       "content": "부칙 <제2015-200호,2015. 3. 26.>제1조(시행일) 이 지침은 2015년 4월 1일부터 시행한다.제2조(자가주유 시설에 관한 경과조치) 이 지침 시행 당시 제3조제9호의 개정규정에 따른 RFID 시스템을 구축하지 않은 자가주유 업체는 2015년 10월 31까지 이를 구축하여야 한다.제3조(행정상 제재에 관한 경과조치) 이 지침 시행 전의 행위에 대한 행정상 제재는 종전의 지침에 따른다.제4조(유가보조금 산정방법에 관한 경과조치) 이 지침 시행 전의 행위에 대한 유가보조금 산정은 종전의 지침에 따른다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20150629",
@@ -2027,10 +2027,10 @@
       "content": "부칙 <제2015-444호,2015. 6. 29.>이 규정은 2015년 7월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20170714",
@@ -2038,10 +2038,10 @@
       "content": "부칙 <제2017-474호,2017. 7. 14.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(천연가스버스 유가보조금 지급에 관한 경과조치) 천연가스(CNG)를 사용하는 버스운송사업자의 유가보조금의 지급은 2017년 7월 1일부터 충전한 내역에 대하여 지급할 수 있다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20171221",
@@ -2049,10 +2049,10 @@
       "content": "부칙 <제2017-891호,2017. 12. 21.>이 지침은 2018년 1월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20181228",
@@ -2060,10 +2060,10 @@
       "content": "부칙 <제2018-973호,2018. 12. 28.>이 지침은 2019년 1월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20190819",
@@ -2071,10 +2071,10 @@
       "content": "부칙 <제2019-439호,2019. 8. 19.>제1조(시행일) 이 고시는 발령 한 날부터 시행한다. 다만, 제16조, 제18조 및 제23조의 개정규정은 발령 한 날부터 3개월이 경과한 날 부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20191224",
@@ -2082,10 +2082,10 @@
       "content": "부칙 <제2019-942호,2019. 12. 24.>제1조(시행일) 이 고시는 2020년 1월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20201216",
@@ -2093,10 +2093,10 @@
       "content": "부칙 <제2020-986호,2020. 12. 16.>제1조(시행일) 이 지침은 2021년 1월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20210924",
@@ -2104,10 +2104,10 @@
       "content": "부칙 <제2021-1088호, 2021. 9. 24.>이 고시는 2021년 9월 24일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20220101",
@@ -2115,10 +2115,10 @@
       "content": "부칙 <제2021-1357호, 2022. 1. 1.>이 고시는 2022년 1월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20220429",
@@ -2126,10 +2126,10 @@
       "content": "부칙 <제2022-224호, 2022. 4. 29.>이 고시는 2022년 5월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20220531",
@@ -2137,10 +2137,10 @@
       "content": "부칙 <제2022-300호, 2022. 5. 31.>제1조 (시행일) 이 고시는 2022년 6월 1일부터 시행한다.제2조 (적용례) 제9조제5항제1호의 개정규정은 이 고시 시행 후 주유ㆍ충전한 분부터 적용한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20220630",
@@ -2148,10 +2148,10 @@
       "content": "부칙 <제2022-393호, 2022. 6. 30.>제1조 (시행일) 이 고시는 2022년 7월 1일부터 시행한다.제2조 (경과조치) 제9조제5항제1호의 개정규정은 이 고시 시행 후 주유ㆍ충전한 분부터 적용한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20220930",
@@ -2159,10 +2159,10 @@
       "content": "부칙 <제2022-566호, 2022. 9. 30.>제1조 (시행일) 이 고시는 2022년 10월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20221229",
@@ -2170,10 +2170,10 @@
       "content": "부칙 <제2022-897호, 2022. 12. 29.>제1조 (시행일) 이 고시는 2023년 1월 1일부터 시행한다.제2조 (경과조치) 제9조제5항제1호의 개정규정은 이 고시 시행 후 주유ㆍ충전한 분부터 적용한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20230711",
@@ -2181,10 +2181,10 @@
       "content": "부칙 <제2023-411호, 2023. 7. 11.>제1조 (시행일) 이 고시는 2023년 7월 11일부터 시행한다.제2조 (경과조치) 제9조제5항의 개정규정은 이 고시 시행 후 주유ㆍ충전한 분부터 적용한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20230906",
@@ -2192,10 +2192,10 @@
       "content": "부칙 <제2023-507호, 2023. 9. 6.>제1조 (시행일) 이 고시는 2023년 9월 6일부터 시행한다.제2조 (경과조치) 제9조제5항의 개정규정은 이 고시 시행 이전 2023년 9월 1일의 주유ㆍ충전한 분부터 적용한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20231101",
@@ -2203,10 +2203,10 @@
       "content": "부칙 <제2023-626호, 2023. 11. 1.>이 고시는 2023년 11월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20231229",
@@ -2214,10 +2214,10 @@
       "content": "부칙 <제2023-981호, 2023. 12. 29.>이 고시는 2024년 1월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20240229",
@@ -2225,10 +2225,10 @@
       "content": "부칙 <제2024-127호, 2024. 2. 29.>이 고시는 2024년 3월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20240430",
@@ -2236,10 +2236,10 @@
       "content": "부칙 <제2024-230호, 2024. 4. 30.>이 고시는 2024년 5월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20240628",
@@ -2247,10 +2247,10 @@
       "content": "부칙 <제2024-356호, 2024. 6. 28.>이 고시는 2024년 7월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20240906",
@@ -2258,10 +2258,10 @@
       "content": "부칙 <제2024-474호, 2024. 9. 6.>제1조 (시행일) 이 고시는 2024년 9월 6일부터 시행한다.제2조 (유가연동보조금에 관한 적용례) 제5조의 개정규정은 이 고시 시행 이전 2024년 9월 1일의 주유ㆍ충전한 분부터 적용한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20241115",
@@ -2269,10 +2269,10 @@
       "content": "부칙 <제2024-633호, 2024. 11. 15.>제1조 (시행일) 이 고시는 2024년 11월 15일부터 시행한다.제2조 (유가연동보조금에 관한 적용례) 제5조의 개정규정은 이 고시 시행 이전 2024년 11월 1일의 주유ㆍ충전한 분부터 적용한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20241231",
@@ -2280,10 +2280,10 @@
       "content": "부칙 <제2024-1073호, 2024. 12. 31.>이 고시는 2025년 1월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20250228",
@@ -2291,10 +2291,10 @@
       "content": "부칙 <제2025-99호, 2025. 2. 28.>이 고시는 2025년 3월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20250507",
@@ -2302,10 +2302,10 @@
       "content": "부칙 <제2025-228호, 2025. 5. 7.>제1조 (시행일) 이 고시는 2025년 5월 7일부터 시행한다.제2조 (유가연동보조금에 관한 적용례) 제5조의 개정규정은 이 고시 시행 이전 2025년 5월 1일의 주유ㆍ충전한 분부터 적용한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20250630",
@@ -2313,10 +2313,10 @@
       "content": "부칙 <제2025-363호, 2025. 6. 30.>이 고시는 2025년 7월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20250829",
@@ -2324,10 +2324,10 @@
       "content": "부칙 <제2025-478호, 2025. 8. 29.>이 고시는 2025년 9월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20251031",
@@ -2335,10 +2335,10 @@
       "content": "부칙 <제2025-639호, 2025. 10. 31.>이 고시는 2025년 11월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20251201",
@@ -2346,10 +2346,10 @@
       "content": "부칙 <제2025-695호, 2025. 12. 1.>이 고시는 2026년 1월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20251231",
@@ -2357,10 +2357,10 @@
       "content": "부칙 <제2025-980호, 2025. 12. 31.>이 고시는 2026년 1월 1일부터 시행한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20260109",
@@ -2368,10 +2368,10 @@
       "content": "부칙 <제2026-27호, 2026. 1. 9.>제1조 (시행일) 이 고시는 2026년 1월 9일부터 시행한다.제2조 (유가연동보조금에 관한 적용례) 제5조의 개정규정은 이 고시 시행 이전 2026년 1월 1일의 주유ㆍ충전한 분부터 적용한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20260311",
@@ -2379,10 +2379,10 @@
       "content": "부칙 <제2026-130호, 2026. 3. 11.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(유가연동보조금에 관한 적용례) 제5조의 개정규정은 이 고시 시행 이전 2026년 3월 1일의 주유ㆍ충전한 분부터 적용한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20260320",
@@ -2390,10 +2390,10 @@
       "content": "부칙 <제2026-147호, 2026. 3. 20.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(유가연동보조금에 관한 적용례) 제9조의 개정규정은 이 고시 시행 이전 2026년 3월 1일의 주유ㆍ충전한 분부터 적용한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20260512",
@@ -2401,10 +2401,10 @@
       "content": "부칙 <제2026-234호, 2026. 5. 12.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(유가연동보조금에 관한 적용례) 제5조의 개정규정은 이 고시 시행 이전 2026년 5월 1일의 주유ㆍ충전한 분부터 적용한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20260612",
@@ -2412,10 +2412,10 @@
       "content": "부칙 <제2026-281호, 2026. 6. 12.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(유가연동보조금에 관한 적용례) 제5조제3호의 개정규정은 이 고시 시행 이전 2026년 5월 29일의 주유ㆍ충전한 분부터 적용한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
     },
     {
       "promulgation_date": "20260716",
@@ -2423,10 +2423,21 @@
       "content": "부칙 <제2026-383호, 2026. 7. 16.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(유가연동보조금에 관한 적용례) 제5조제1항의 개정규정은 이 고시 시행 이전 2026년 7월 1일의 주유ㆍ충전한 분부터 적용한다.",
       "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282580",
+      "source_mst": "2100000285636",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260716"
+      "version_enforcement_date": "20261001"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "2026-524",
+      "content": "부칙 <제2026-524호, 2026. 10. 1.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:여객자동차유가보조금지급지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285636",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261001"
     }
   ],
   "appendices": [
@@ -2438,18 +2449,18 @@
       "enforcement_date": "",
       "content": "[별표1]\n시ㆍ도별 경유택시 대수(제8조제2항 관련)\n(단위 : 대)\n┌──┬───┬───┬──┬──┬───┐\n│서울│부산  │대구  │인천│광주│대전  │\n├──┼───┼───┼──┼──┼───┤\n│-   │1,558 │1,039 │569 │505 │537   │\n├──┼───┼───┼──┼──┼───┤\n│울산│경기  │강원  │경남│경북│전남  │\n├──┼───┼───┼──┼──┼───┤\n│349 │1,400 │494   │803 │607 │438   │\n├──┼───┼───┼──┼──┼───┤\n│전북│충남  │충북  │제주│세종│총계  │\n├──┼───┼───┼──┼──┼───┤\n│560 │386   │423   │312 │18  │10,000│\n└──┴───┴───┴──┴──┴───┘\n<비고>\n1. 매년의 적용 시기는 해당 연도의 9.1부터 다음 연도의 8.31까지로 한다.\n2. 특별시ㆍ광역시ㆍ특별자치시 및 시ㆍ도(이하 \"시ㆍ도\"라 한다)별로 일반형 경유 승용자동차로 전환할 수 있는 대수는 연간 총대폐차 차량에서 시ㆍ도별 연간 대폐차 차량의 비율에 따라 경유 택시 전환 대수 1만대를 시ㆍ도별로 배분한다. 다만, 서울시의 할당분은 비수도권 지역에 비율에 따라 추가 배분한다.\n3. 시ㆍ도는 경유 택시 전환 시 유로(EURO)-6 환경기준 차량에 한하여 대폐차 전환하되, 지역 실정에 맞도록 무사고 기간ㆍ벌점ㆍ근속기간 등을 종합적으로 고려하여 우선순위를 정할 수 있다.",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000282580&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131035",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285636&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822595",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131031",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822591",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131035",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822595",
           "name": "",
           "file_store_url": ""
         }
@@ -2470,17 +2481,17 @@
       "content": "(별지 제1호 서식) 삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131041",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822601",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131037",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822597",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131041",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822601",
           "name": "",
           "file_store_url": ""
         }
@@ -2501,17 +2512,17 @@
       "content": "(별지 제2호 서식)\n\n유가보조금 안분액 신청서\n━━━━━━━━━━━━━━\n(단위 :    백만원)\n┏━━━┯━━━━━┯━━━━┯━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━┯━━━┓\n┃관  할│구 분     │지급대수│전년도 유가보조금                   │금년도 유가보조금   │비  고┃\n┃관청별│          │        ├─────┬──────┬─────┼─────┬────┼───┨\n┃      │          │        │세입액(a) │지급실적(b) │과.부족액 │집행예상액│신청액  │      ┃\n┃      │          │        │          │            │(c=a-b)   │(d)       │(e=d-c) │      ┃\n┠───┼─────┼────┼─────┼──────┼─────┼─────┼────┼───┨\n┃      │계        │        │          │            │          │          │        │      ┃\n┃      ├─────┼────┼─────┼──────┼─────┼─────┼────┼───┨\n┃      │버 스     │        │          │            │          │          │        │      ┃\n┃      ├─────┼────┼─────┼──────┼─────┼─────┼────┼───┨\n┃      │택 시     │        │          │            │          │          │        │      ┃\n┃      ├─────┼────┼─────┼──────┼─────┼─────┼────┼───┨\n┃      │화물자동차│        │          │            │          │          │        │      ┃\n┗━━━┷━━━━━┷━━━━┷━━━━━┷━━━━━━┷━━━━━┷━━━━━┷━━━━┷━━━┛\n1. 전년도 세입액 : 전년도 1월부터 12월까지 울산광역시로부터 송금받은 유가보조금(세입자금)\n2. 전년도 지급실적 : 전년도 1월부터 12월까지 지급한 유가보조금(지출기준)\n3. 과.부족액 : (+) 집행잔액, (-) 부족액\n4. 금년도 집행예상액 : 지급단가 변동여부, 지급대상(대) 변경추이를 감안하여 산정한 소요 전망액(전년도에 청구받아 미지급한 금액 포함)\n※ 제출시 증빙서류 : 전년도 세입ㆍ세출 결산서(혹은 e-호조 지출증빙서류 및 금년도 세입ㆍ세출 예산서 반드시 첨부할 것.",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131047",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822607",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131043",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822603",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131047",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822607",
           "name": "",
           "file_store_url": ""
         }
@@ -2532,17 +2543,17 @@
       "content": "(별지 제3호 서식)\n\n유가보조금 지급 신청서(갑)\n━━━━━━━━━━━━━━━\n(버스ㆍ택시 보조금 청구용)\n┏━━┯━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃신  │상호(성명)    │                                                              ┃\n┃청  ├───────┼─────────┬────────┬────────────┨\n┃자  │사업자번호    │                  │연 락 처        │                        ┃\n┃    │(주민등록번호 │                  │                │                        ┃\n┃    │)             │                  │                │                        ┃\n┃    ├───────┼─────────┴────────┴────────────┨\n┃    │주    소      │                                                              ┃\n┠──┼───────┼───────────────────────────────┨\n┃거  │운행기간      │                                                              ┃\n┃래  ├───────┼───────┬─────────┬─────────────┨\n┃내  │업종(차종)    │              │차량대수          │         대               ┃\n┃역  ├───────┼───────┼─────────┼─────────────┨\n┃    │유  류        │유   종       │주유?충전량      │결제 방법                 ┃\n┃    │사용량        ├───────┼─────────┼─────────────┨\n┃    │              │경   유       │             ℓ/㎥│                          ┃\n┃    │              ├───────┼─────────┼─────────────┨\n┃    │              │BD20유        │             ℓ/㎥│                          ┃\n┃    │              ├───────┼─────────┼─────────────┨\n┃    │              │L P G         │             ℓ/㎥│                          ┃\n┠──┼───────┼─────┬─┴───────┬─┴──────┬──────┨\n┃유  │유류세연동    │업종(차종)│지급단가          │총 주유?충전량 │보조금액    ┃\n┃가  │              ├─────┼─────────┼────────┼──────┨\n┃보  │              │          │        원/ℓ?㎥ │        ℓ?㎥  │       원   ┃\n┃조  ├───────┼────┬┴─┬───────┼────────┼──────┨\n┃금  │유가연동      │월 별   │지역│경유가격      │총 충전량       │보조금액    ┃\n┃    │              ├────┼──┼───────┼────────┼──────┨\n┃    │              │    월  │    │    원/ℓ?㎥ │        ℓ?㎥  │        원  ┃\n┃    │              ├────┼──┼───────┼────────┼──────┨\n┃    │              │    월  │    │    원/ℓ?㎥ │        ℓ?㎥  │        원  ┃\n┃    │              ├────┼──┼───────┼────────┼──────┨\n┃    │              │    월  │    │    원/ℓ?㎥ │        ℓ?㎥  │        원  ┃\n┃    │              ├────┼──┼───────┼────────┼──────┨\n┃    │              │ 소 계  │    │              │        ℓ?㎥  │        원  ┃\n┃    ├───────┼────┴──┴───────┴────────┴──────┨\n┃    │합    계      │                      원                                      ┃\n┠──┼───────┼────────┬───────┬──────────────┨\n┃송  │금융기관      │                │계좌번호      │                            ┃\n┃금  ├───────┼────────┴───────┴──────────────┨\n┃처  │예 금 주      │                                                              ┃\n┗━━┷━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n위와 같이 여객자동차운수사업에 대한 유가보조금을 신청하오니 지급하여 주시기 바랍니다.\n첨부 : 1. 유류구매 거래내역 명세서 1부\n2. 거래내역 증빙자료 1부\n3. 자동차 등록증 사본\n4. 예금통장 사본 1부.\n년     월      일\n신청인 :                      (인)\n\n유류구매 거래내역 명세서(을)\n━━━━━━━━━━━━━━━━\n┌───┬────┬──┬────┬───┬────┬──────┬─────┬───────┬────┐\n│일  시│주유소명│차종│차량번호│유  종│주유?  │주유.충전   │주유.충전 │증  빙  자  료│비    고│\n│      │(지역)  │    │        │      │충전량  │단가        │금액(원)  ├───┬───┤        │\n│      │        │    │        │      │(ℓ?㎥)│(원/ℓ?㎥) │          │적  요│번호  │        │\n├───┼────┼──┼────┼───┼────┼──────┼─────┼───┼───┼────┤\n│      │        │    │        │      │        │            │          │      │      │        │\n├───┼────┼──┼────┼───┼────┼──────┼─────┼───┼───┼────┤\n│      │        │    │        │      │        │            │          │      │      │        │\n├───┼────┼──┼────┼───┼────┼──────┼─────┼───┼───┼────┤\n│      │        │    │        │      │        │            │          │      │      │        │\n├───┼────┼──┼────┼───┼────┼──────┼─────┼───┼───┼────┤\n│      │        │    │        │      │        │            │          │      │      │        │\n├───┼────┼──┼────┼───┼────┼──────┼─────┼───┼───┼────┤\n│      │        │    │        │      │        │            │          │      │      │        │\n├───┼────┼──┼────┼───┼────┼──────┼─────┼───┼───┼────┤\n│      │        │    │        │      │        │            │          │      │      │        │\n├───┼────┼──┼────┼───┼────┼──────┼─────┼───┼───┼────┤\n│      │        │    │        │      │        │            │          │      │      │        │\n├───┼────┼──┼────┼───┼────┼──────┼─────┼───┼───┼────┤\n│      │        │    │        │      │        │            │          │      │      │        │\n├───┼────┼──┼────┼───┼────┼──────┼─────┼───┼───┼────┤\n│      │        │    │        │      │        │            │          │      │      │        │\n├───┼────┼──┼────┼───┼────┼──────┼─────┼───┼───┼────┤\n│      │        │    │        │      │        │            │          │      │      │        │\n├───┼────┼──┼────┼───┼────┼──────┼─────┼───┼───┼────┤\n│      │        │    │        │      │        │            │          │      │      │        │\n├───┼────┼──┼────┼───┼────┼──────┼─────┼───┼───┼────┤\n│      │        │    │        │      │        │            │          │      │      │        │\n├───┼────┼──┼────┼───┼────┼──────┼─────┼───┼───┼────┤\n│      │        │    │        │      │        │            │          │      │      │        │\n└───┴────┴──┴────┴───┴────┴──────┴─────┴───┴───┴────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131055",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822615",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131049",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822609",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131055",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822615",
           "name": "",
           "file_store_url": ""
         }
@@ -2563,17 +2574,17 @@
       "content": "(별지 제4호 서식) 삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131061",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822621",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131057",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822617",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131061",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822621",
           "name": "",
           "file_store_url": ""
         }
@@ -2594,17 +2605,17 @@
       "content": "(별지 제5호 서식) 삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131067",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822627",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131063",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822623",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131067",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822627",
           "name": "",
           "file_store_url": ""
         }
@@ -2625,17 +2636,17 @@
       "content": "(별지 제6호 서식)\n\n자가주유 내용 명세서\n━━━━━━━━━━━━\n┏━━━━┯━━━━━━━┯━━━━━━━┯━━━━━┓\n┃회사명  │              │사업자등록번호│          ┃\n┠────┼───────┼──┬────┼────┬┨\n┃차량번호│              │유종│        │리터당  │┃\n┃        │              │    │        │단가    │┃\n┣━━━━┷━━━━━━━┿━━┷━━━━┷━━━━┷┫\n┃사용일시(년/월/일/시/분)│총 주유ㆍ충전량(ℓ?㎥)   ┃\n┠────────────┼─────────────┨\n┃                        │                          ┃\n┠────────────┼─────────────┨\n┃                        │                          ┃\n┠────────────┼─────────────┨\n┃                        │                          ┃\n┠────────────┼─────────────┨\n┃                        │                          ┃\n┠────────────┼─────────────┨\n┃                        │                          ┃\n┠────────────┼─────────────┨\n┃                        │                          ┃\n┠────────────┼─────────────┨\n┃                        │                          ┃\n┠────────────┼─────────────┨\n┃                        │                          ┃\n┠────────────┼─────────────┨\n┃                        │                          ┃\n┠────────────┼─────────────┨\n┃                        │                          ┃\n┠────────────┼─────────────┨\n┃                        │                          ┃\n┣━━━━━━━━━━━━┿━━━━━━━━━━━━━┫\n┃합     계               │                          ┃\n┗━━━━━━━━━━━━┷━━━━━━━━━━━━━┛\n* 위수탁차주는 사업자등록번호란에 차주의 사업자등록번호 기재",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131073",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822633",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131069",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822629",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131073",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822633",
           "name": "",
           "file_store_url": ""
         }
@@ -2656,17 +2667,17 @@
       "content": "(별지 제7호 서식)\n\n거래카드 사용 명세서\n━━━━━━━━━━━━\n┏━━━━┯━━━━━━━━┯━━━━━━━┯━━━━━━━━━━━━━┓\n┃회사명  │                │사업자등록번호│                          ┃\n┠────┼────────┼──┬────┼────┬────────┨\n┃차량번호│                │유종│        │리터당  │                ┃\n┃        │                │    │        │단가    │                ┃\n┣━━━━┷━━━━━━━┯┷━━┷━━━━┷━━━┯┷━━━━━━━━┫\n┃사용일시(년/월/일/시/분)│총 주유ㆍ충전량(ℓ?㎥) │총 주유ㆍ충전금액 ┃\n┠────────────┼────────────┼─────────┨\n┃                        │                        │                  ┃\n┠────────────┼────────────┼─────────┨\n┃                        │                        │                  ┃\n┠────────────┼────────────┼─────────┨\n┃                        │                        │                  ┃\n┠────────────┼────────────┼─────────┨\n┃                        │                        │                  ┃\n┠────────────┼────────────┼─────────┨\n┃                        │                        │                  ┃\n┠────────────┼────────────┼─────────┨\n┃                        │                        │                  ┃\n┠────────────┼────────────┼─────────┨\n┃                        │                        │                  ┃\n┠────────────┼────────────┼─────────┨\n┃                        │                        │                  ┃\n┠────────────┼────────────┼─────────┨\n┃                        │                        │                  ┃\n┠────────────┼────────────┼─────────┨\n┃                        │                        │                  ┃\n┠────────────┼────────────┼─────────┨\n┃                        │                        │                  ┃\n┣━━━━━━━━━━━━┿━━━━━━━━━━━━┿━━━━━━━━━┫\n┃합     계               │                        │                  ┃\n┗━━━━━━━━━━━━┷━━━━━━━━━━━━┷━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131079",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822639",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131075",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822635",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131079",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822639",
           "name": "",
           "file_store_url": ""
         }
@@ -2687,17 +2698,17 @@
       "content": "(별지 제8호 서식) 삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131085",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822645",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131081",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822641",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131085",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822645",
           "name": "",
           "file_store_url": ""
         }
@@ -2718,17 +2729,17 @@
       "content": "(별지 제9호 서식) 삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131091",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822651",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131087",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822647",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131091",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822651",
           "name": "",
           "file_store_url": ""
         }
@@ -2749,17 +2760,17 @@
       "content": "(별지 제10호 서식) 삭제",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131097",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822657",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131093",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822653",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131097",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822657",
           "name": "",
           "file_store_url": ""
         }
@@ -2780,17 +2791,17 @@
       "content": "(별지 제11호 서식)\n\n보조금 지급실적 보고서\n━━━━━━━━━━━━━\n□ 유류세보조금(지급기간 :  ～부터  ～까지)\n┌─────┬───────┬────────┬─────────┬─────────┐\n│관할관청별│구      분    │지급대수(대,척) │유류사용량(ℓ?㎥)│보조금(원/ℓ?㎥) │\n│          ├───┬───┤                │                  │                  │\n│          │신청별│업종별│                │                  │                  │\n├─────┼───┴───┼────────┼─────────┼─────────┤\n│          │합계          │                │                  │                  │\n│          ├───────┼────────┼─────────┼─────────┤\n│          │버스          │                │                  │                  │\n│          ├───────┼────────┼─────────┼─────────┤\n│          │택시          │                │                  │                  │\n│          ├───────┼────────┼─────────┼─────────┤\n│          │소계          │                │                  │                  │\n│          ├───┬───┼────────┼─────────┼─────────┤\n│          │카드  │버스  │                │                  │                  │\n│          │사용  ├───┼────────┼─────────┼─────────┤\n│          │      │택시  │                │                  │                  │\n│          ├───┴───┼────────┼─────────┼─────────┤\n│          │소계          │                │                  │                  │\n│          ├───┬───┼────────┼─────────┼─────────┤\n│          │서면  │버스  │                │                  │                  │\n│          │신청  ├───┼────────┼─────────┼─────────┤\n│          │      │택시  │                │                  │                  │\n└─────┴───┴───┴────────┴─────────┴─────────┘\n※ 지급대수(대)는 실제 주유 또는 충전받은 차량의 대수를 의미함\n예) 특정한 택시가 한달에 30회를 주유받았어도 30대로 계산하지 않고 1대로 계산\n※ 보조금 단위를 혼돈하지 않도록 할 것\n※ 전분기 미지급분을 금분기에 지급하였더라도 금분기 통계에 실적반영",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131103",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822663",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131099",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822659",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131103",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822663",
           "name": "",
           "file_store_url": ""
         }
@@ -2811,17 +2822,17 @@
       "content": "(별지 제12호 서식)\n\n유가보조금 부정수급 조치현황\n━━━━━━━━━━━━━━━━\n┌───┬─────┬──┬───────┬───────────────────┐\n│지역  │차량등록  │수급│위반사항      │조치사항                              │\n│      │사    항  │자  │              │                                      │\n├─┬─┼──┬──┼──┼───┬───┼───────┬─────┬─────┤\n│시│시│등록│법  │성명│기  간│사  유│환수조치      │지급정지  │형사고발  │\n│도│군│번호│인  │    │      │      ├────┬──┼──┬──┼──┬──┤\n│  │구│    │명  │    │      │      │금액(원)│시점│내용│시점│시점│결과│\n├─┼─┼──┼──┼──┼───┼───┼────┼──┼──┼──┼──┼──┤\n│  │  │    │    │    │      │      │        │    │    │    │    │    │\n├─┼─┼──┼──┼──┼───┼───┼────┼──┼──┼──┼──┼──┤\n│  │  │    │    │    │      │      │        │    │    │    │    │    │\n├─┼─┼──┼──┼──┼───┼───┼────┼──┼──┼──┼──┼──┤\n│  │  │    │    │    │      │      │        │    │    │    │    │    │\n├─┼─┼──┼──┼──┼───┼───┼────┼──┼──┼──┼──┼──┤\n│  │  │    │    │    │      │      │        │    │    │    │    │    │\n├─┼─┼──┼──┼──┼───┼───┼────┼──┼──┼──┼──┼──┤\n│  │  │    │    │    │      │      │        │    │    │    │    │    │\n├─┼─┼──┼──┼──┼───┼───┼────┼──┼──┼──┼──┼──┤\n│  │  │    │    │    │      │      │        │    │    │    │    │    │\n├─┼─┼──┼──┼──┼───┼───┼────┼──┼──┼──┼──┼──┤\n│  │  │    │    │    │      │      │        │    │    │    │    │    │\n├─┼─┼──┼──┼──┼───┼───┼────┼──┼──┼──┼──┼──┤\n│  │  │    │    │    │      │      │        │    │    │    │    │    │\n├─┼─┼──┼──┼──┼───┼───┼────┼──┼──┼──┼──┼──┤\n│  │  │    │    │    │      │      │        │    │    │    │    │    │\n├─┼─┼──┼──┼──┼───┼───┼────┼──┼──┼──┼──┼──┤\n│  │  │    │    │    │      │      │        │    │    │    │    │    │\n├─┼─┼──┼──┼──┼───┼───┼────┼──┼──┼──┼──┼──┤\n│  │  │    │    │    │      │      │        │    │    │    │    │    │\n└─┴─┴──┴──┴──┴───┴───┴────┴──┴──┴──┴──┴──┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131109",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822669",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131105",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822665",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131109",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822669",
           "name": "",
           "file_store_url": ""
         }
@@ -2842,17 +2853,17 @@
       "content": "(별지 제13호 서식)                                      (앞쪽)\n년  분기 유류구매카드 운용 실적보고서\n□ 유류구매카드 발급 실적\n<개인택시>\n┌──────┬────┬────┬────┐\n│구 분       │전분기말│금분기중│현분기말│\n│            │(매)    │(매)    │(매)    │\n├──────┼────┼────┼────┤\n│신 용 카 드 │        │        │        │\n├──────┼────┼────┼────┤\n│체 크 카 드 │        │        │        │\n├──────┼────┼────┼────┤\n│합 계       │        │        │        │\n└──────┴────┴────┴────┘\n<버스/일반택시>\n┌──────────┬────┬────┬────┐\n│구 분               │전분기말│금분기중│현분기말│\n│                    │(매)    │(매)    │(매)    │\n├────┬─────┼────┼────┼────┤\n│거래카드│시외버스  │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │농어촌버스│        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │마을버스  │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │고속버스  │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │일반택시  │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │소 계     │        │        │        │\n├────┼─────┼────┼────┼────┤\n│대체카드│시외버스  │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │농어촌버스│        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │마을버스  │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │고속버스  │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │일반택시  │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │소 계     │        │        │        │\n├────┼─────┼────┼────┼────┤\n│결제카드│버스      │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │일반택시  │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │소계      │        │        │        │\n├────┴─────┼────┼────┼────┤\n│합    계            │        │        │        │\n└──────────┴────┴────┴────┘\n(뒷쪽)\n□ 유류구매카드 사용 실적\n<개인택시>\n┌──────┬────┬────┬────┐\n│구 분       │전분기말│금분기중│현분기말│\n│            │(원)    │(원)    │(원)    │\n├──────┼────┼────┼────┤\n│신 용 카 드 │        │        │        │\n├──────┼────┼────┼────┤\n│체 크 카 드 │        │        │        │\n├──────┼────┼────┼────┤\n│합 계       │        │        │        │\n└──────┴────┴────┴────┘\n<버스/일반택시>\n┌──────────┬────┬────┬────┐\n│구 분               │전분기말│금분기중│현분기말│\n│                    │(원)    │(원)    │(원)    │\n├────┬─────┼────┼────┼────┤\n│거래카드│시외버스  │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │농어촌버스│        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │마을버스  │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │고속버스  │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │일반택시  │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │소 계     │        │        │        │\n├────┼─────┼────┼────┼────┤\n│대체카드│시외버스  │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │농어촌버스│        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │마을버스  │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │고속버스  │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │일반택시  │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │소 계     │        │        │        │\n├────┼─────┼────┼────┼────┤\n│결제카드│버스      │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │일반택시  │        │        │        │\n│        ├─────┼────┼────┼────┤\n│        │소계      │        │        │        │\n├────┴─────┼────┼────┼────┤\n│합    계            │        │        │        │\n└──────────┴────┴────┴────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131117",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822677",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131111",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822671",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167131117",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169822677",
           "name": "",
           "file_store_url": ""
         }
@@ -2867,19 +2878,19 @@
   ],
   "attachments": [
     {
-      "name": "여객자동차 유가보조금 지급지침 개정전문(20260716)-최종.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=167131011",
-      "filename": "여객자동차 유가보조금 지급지침 개정전문(20260716)-최종.hwpx",
+      "name": "여객자동차 유가보조금 지급지침 개정전문(20261001)-최종.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169821905",
+      "filename": "여객자동차 유가보조금 지급지침 개정전문(20261001)-최종.hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/여객자동차 유가보조금 지급지침 개정전문(20260716)-최종.hwpx",
+      "local_path": "첨부파일/여객자동차 유가보조금 지급지침 개정전문(20261001)-최종.hwpx",
       "file_store_url": ""
     },
     {
-      "name": "여객자동차 유가보조금 지급지침 개정전문(20260716)-최종.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=167131015",
-      "filename": "여객자동차 유가보조금 지급지침 개정전문(20260716)-최종.pdf",
+      "name": "여객자동차 유가보조금 지급지침 개정전문(20261001)-최종.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169821909",
+      "filename": "여객자동차 유가보조금 지급지침 개정전문(20261001)-최종.pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/여객자동차 유가보조금 지급지침 개정전문(20260716)-최종.pdf",
+      "local_path": "첨부파일/여객자동차 유가보조금 지급지침 개정전문(20261001)-최종.pdf",
       "file_store_url": ""
     }
   ],
@@ -2901,7 +2912,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 43,
+    "addenda_count": 44,
     "appendices_count": 14,
     "attachments_count": 2
   },
