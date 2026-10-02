@@ -1,42 +1,42 @@
 {
   "law_id": "25599",
-  "mst": "2100000242340",
+  "mst": "2100000286492",
   "law_name": "(해양경찰청) 수사심의에 관한 규칙",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:25599",
-  "promulgation_no": "109",
-  "promulgation_date": "20240610",
-  "enforcement_date": "20240610",
-  "revision_date": "20240610",
-  "revision_type": "전부개정",
+  "promulgation_no": "149",
+  "promulgation_date": "20261002",
+  "enforcement_date": "20261002",
+  "revision_date": "20261002",
+  "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "해양경찰청(수사심사과)",
-    "담당자명": "서주원",
+    "담당자명": "김진무",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "(해양경찰청) 수사심의에 관한 규칙",
-    "발령일자": "20240610",
+    "발령일자": "20261002",
     "행정규칙종류": "예규",
-    "제개정구분코드": "200402",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "해양경찰청",
     "전화번호": "032-835-2231",
-    "제개정구분명": "전부개정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "1532000",
-    "생성일자": "20240611",
+    "생성일자": "20261006",
     "행정규칙ID": "25599",
-    "시행일자": "20240610",
-    "담당부서기관코드": "1532756",
-    "발령번호": "109",
-    "행정규칙일련번호": "2100000242340",
+    "시행일자": "20261002",
+    "담당부서기관코드": "1532704",
+    "발령번호": "149",
+    "행정규칙일련번호": "2100000286492",
     "상위부처명": "해양경찰청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n‘수사심의신청’은 사건관계인이 해양경찰관의 조사ㆍ수사 과정 및 결과의 적정성ㆍ적법성에 대해 이견이 있는 경우 제기할 수 있는 경찰 자체 불복 제도로, ’21.5월부터 시행된 수사심의제도의 운영상 나타난 미비점을 개선ㆍ보완하여 국민의 눈높이에 부응하고 수사심의과정에서 국민의 권리를 두텁게 보호하기 위함.\n◇ 주요내용\n가. 사건관계인의 수사심의 신청 방법, 절차 등을 규정함(안 제5조)\n나. 명확한 사실관계 확인을 위해 수사심의담당자가 출석ㆍ자료 요구 시 정당한 사유가 없는 한 요구에 따라야 함을 규정하고, 조사 역량 집중 및 처리 지연 해소를 위해 명백하게 조사 실익이 없는 사안은 ‘각하’하여 신속히 종결할 수 있도록 규정함(안 제8조)\n다. 수사심의신청 사건 조사 기간에 대한 규정이 없어, 신청인의 권익 보호를 위해 조사 기간 및 기간 연장승인 절차를 규정함(안 제9조)\n※조사기간은 고소ㆍ고발 사건 처리기한을 3개월로 규정한 수사준칙을 고려하여, 수사심의신청 사건 조사기간도 ‘접수한 날부터 3개월’로 규정\n라. 신청인의 알 권리 보장을 위해 「해양경찰수사규칙」  제11조 등을 참고하여 조사 진행상황 및 심의 결과통지 절차를 규정함(안 제10조, 안 제21조)\n마. 위원회의 소집, 수사과오의 심의 등 위원회의 업무를 총괄하는 위원장 연임을 제한, 타 위원 기회 부여 확대로 공정성 확보 및 위원장을 제외한 외부위원의 연임제한(2회에 한정하여 연임 가능)을 완화하여 위원회 운영의 연속성 확보ㆍ전문성을 강화(안 제13조)\n바. 위원회 회의 외부위원의 수가 내부위원 수보다 많도록 명문화하여 위원회의 공정성 확보 규정(안 제17조)\n사. 외부위원의 수사 관여금지 및 보안유지를 규정함(안 제18조)\n아. 수사심의신청서, 조사기일 연장 건의서 등 별지 서식 추가",
+  "revision_reason": "◇ 개정 이유\n「형사소송법」 개정에 따른 공소청 체제 전환, 수사기관의 권한 조정에 따른 수사심의에 관한 규칙 개정 추진\n◇ 주요내용\n검찰청 폐지 및 공소청 체제 전환에 따른 기관명칭 정비",
   "body": {
     "format": "articles",
     "article_count": 25,
@@ -57,7 +57,7 @@
         "article_title": "정의",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제2조(정의) 이 규칙에서 사용하는 용어의 뜻은 다음과 같다.1. \"수사심의신청\"이란 사건관계인이 수사과정 및 결과에 대하여 다른 의견을 제기하는 것을 말한다.2. \"수사심의신청사건\"이란 수사심의신청을 내용으로 하여 해양경찰관서에 접수된 사건을 말한다. 다만, 검찰에 접수되어 해양경찰관서로 이첩된 수사심의신청사건은 제외한다.3. \"본래사건\"이란 수사심의신청의 대상이 된 사건을 말한다.4. \"사건관계인\"이란 본래사건의 피해자(고소인, 고발인, 진정인을 포함한다), 피의자(피고소인, 피진정인, 피조사자를 포함한다)와 참고인을 말한다.5. \"담당수사관\"이란 본래사건의 수사를 직접 수행하는 사람을 말한다.6. \"수사심의담당자\"란 수사심의신청사건에 관한 사항을 처리하기 위해 지정된 사람을 말한다.7. \"수사책임자\"란 해양경찰관서의 장, 수사부서의 장 등 본래사건의 수사활동을 지휘ㆍ감독하는 사람을 말한다.8. \"수사과오\"란 본래사건의 수사과정 및 결과에 대한 담당수사관과 수사책임자의 위법 또는 부당한 행위를 말한다.9. \"수사심사\"란 「해양경찰수사규칙」제17조제2항에 따라 심사관이 실시하는 다음 각 목의 사항을 말한다.가. 강제수사의 적법성ㆍ타당성 심사나. 불송치 사건 및 수사 전반에 대한 점검 등",
+        "content": "제2조(정의) 이 규칙에서 사용하는 용어의 뜻은 다음과 같다.1. \"수사심의신청\"이란 사건관계인이 수사과정 및 결과에 대하여 다른 의견을 제기하는 것을 말한다.2. \"수사심의신청사건\"이란 수사심의신청을 내용으로 하여 해양경찰관서에 접수된 사건을 말한다.3. \"본래사건\"이란 수사심의신청의 대상이 된 사건을 말한다.4. \"사건관계인\"이란 본래사건의 피해자(고소인, 고발인, 진정인을 포함한다), 피의자(피고소인, 피진정인, 피조사자를 포함한다)와 참고인을 말한다.5. \"담당수사관\"이란 본래사건의 수사를 직접 수행하는 사람을 말한다.6. \"수사심의담당자\"란 수사심의신청사건에 관한 사항을 처리하기 위해 지정된 사람을 말한다.7. \"수사책임자\"란 해양경찰관서의 장, 수사부서의 장 등 본래사건의 수사활동을 지휘ㆍ감독하는 사람을 말한다.8. \"수사과오\"란 본래사건의 수사과정 및 결과에 대한 담당수사관과 수사책임자의 위법 또는 부당한 행위를 말한다.9. \"수사심사\"란 「해양경찰수사규칙」제17조제2항에 따라 심사관이 실시하는 다음 각 목의 사항을 말한다.가. 강제수사의 적법성ㆍ타당성 심사나. 불송치 사건 및 수사 전반에 대한 점검 등",
         "enforcement_date": "",
         "relations": [
           {
@@ -151,7 +151,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25599",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782765",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170115937",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)수사심의에관한규칙#JO0005",
             "target_unit": "BJ0001",
@@ -248,7 +248,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25599",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782771",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116063",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)수사심의에관한규칙#JO0006",
             "target_unit": "BJ0002",
@@ -273,7 +273,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25599",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000242340&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286492&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)수사심의에관한규칙#JO0006",
             "target_unit": "BYL0001",
@@ -341,7 +341,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25599",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782777",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116069",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)수사심의에관한규칙#JO0008",
             "target_unit": "BJ0003",
@@ -458,7 +458,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25599",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782783",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116075",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)수사심의에관한규칙#JO0009",
             "target_unit": "BJ0004",
@@ -495,7 +495,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25599",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782789",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116081",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)수사심의에관한규칙#JO0010",
             "target_unit": "BJ0005",
@@ -793,7 +793,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25599",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782795",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116087",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)수사심의에관한규칙#JO0018",
             "target_unit": "BJ0006",
@@ -841,7 +841,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25599",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000242340&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286492&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)수사심의에관한규칙#JO0020",
             "target_unit": "BYL0002",
@@ -866,7 +866,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25599",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782801",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116093",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)수사심의에관한규칙#JO0020",
             "target_unit": "BJ0007",
@@ -903,7 +903,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25599",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782807",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116099",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)수사심의에관한규칙#JO0021",
             "target_unit": "BJ0008",
@@ -940,7 +940,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25599",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782813",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116105",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)수사심의에관한규칙#JO0022",
             "target_unit": "BJ0009",
@@ -1015,10 +1015,21 @@
       "content": "부칙 <제109호, 2024. 6. 10.>이 규칙은 발령한 날부터 시행한다.",
       "provision_id": "admrul:(해양경찰청)수사심의에관한규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000242340",
+      "source_mst": "2100000286492",
       "source_version_uid": "",
-      "source_revision_type": "전부개정",
-      "version_enforcement_date": "20240610"
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002"
+    },
+    {
+      "promulgation_date": "20261002",
+      "promulgation_no": "149",
+      "content": "부칙 <제149호, 2026. 10. 2.>이 예규는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:(해양경찰청)수사심의에관한규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000286492",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -1028,20 +1039,20 @@
       "kind": "별표",
       "title": "수사심의신청사건 처리기준(제6조 관련)",
       "enforcement_date": "",
-      "content": "■ (해양경찰청) 수사심의에 관한 규칙 [별표 1]\n수사심의신청사건 처리기준(제6조 관련)\n━━━━━━━┯━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n본래사건    │심의신청 내용           │처 리 기 준\n처리상황    │                        │\n───────┼────────────┼───────────────────────────────\n본래사건이  │수사지연                │??담당자??는 본래사건 수사관, 수사책임자 등으로부터 경\n입건전조사  │                        │위서를 징구하거나, 기일을 정하여 신속히 수사 후 결과를\n종결        │                        │보고하도록 본래사건 수사관서에 지시할 수 있고, 본래사건\n되었거나    │                        │을 인계받아 직접 수사할 수 있음\n경찰수사가  ├────────────┼───────────────────────────────\n진행 중인  │수사미진, 절차위반      │‘담당자??는 본래사건을 인계받아 직접 수사할 수 있음\n경우        ├────────────┼───────────────────────────────\n│불법체포·감금,         │??담당자??는 직접 수사하거나  수사관 교체, 재수사 등을\n│가혹행위                │본래사건 수사관서에 지시할 수 있음.\n───────┼────────────┼───────────────────────────────\n본래사건이  │송치의견과 다른 처분    │??담당자??는 직접 보강수사 후 추송하거나, 본래사건 수사\n검찰에      │결과를 얻을 수 있는     │관서에 보강수사 후 추송하도록 지시할 수 있음\n송치된 경우 │새로운 증거 또는 사실   │\n│관계의 변경이 있는 경우 │\n├────────────┼───────────────────────────────\n│새로운 증거 또는 사실관 │검찰단계의 항고ㆍ재항고ㆍ재정신청 등 다른 불복 절차를 안내\n│계의 변경이 없는 경우   │하고 심의조사는 지양함\n━━━━━━━┷━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "content": "■ (해양경찰청) 수사심의에 관한 규칙 [별표 1]\n수사심의신청사건 처리기준(제6조 관련)\n━━━━━━━┯━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n본래사건    │심의신청 내용           │처 리 기 준\n처리상황    │                        │\n───────┼────────────┼───────────────────────────────\n본래사건이  │수사지연                │??담당자??는 본래사건 수사관, 수사책임자 등으로부터 경\n입건전조사  │                        │위서를 징구하거나, 기일을 정하여 신속히 수사 후 결과를\n종결        │                        │보고하도록 본래사건 수사관서에 지시할 수 있고, 본래사건\n되었거나    │                        │을 인계받아 직접 수사할 수 있음\n경찰수사가  ├────────────┼───────────────────────────────\n진행 중인  │수사미진, 절차위반      │‘담당자??는 본래사건을 인계받아 직접 수사할 수 있음\n경우        ├────────────┼───────────────────────────────\n│불법체포·감금,         │??담당자??는 직접 수사하거나  수사관 교체, 재수사 등을\n│가혹행위                │본래사건 수사관서에 지시할 수 있음.\n───────┼────────────┼───────────────────────────────\n본래사건이  │송치의견과 다른 처분    │??담당자??는 직접 보강수사 후 추송하거나, 본래사건 수사\n공소청에    │결과를 얻을 수 있는     │관서에 보강수사 후 추송하도록 지시할 수 있음\n송치된 경우 │새로운 증거 또는 사실   │\n│관계의 변경이 있는 경우 │\n├────────────┼───────────────────────────────\n│새로운 증거 또는 사실관 │항고ㆍ재항고ㆍ재정신청 등 다른 불복 절차를 안내하고 심의\n│계의 변경이 없는 경우   │조사는 지양함\n━━━━━━━┷━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000242340&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782753",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286492&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170115925",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782749",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170115921",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782753",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170115925",
           "name": "",
           "file_store_url": ""
         }
@@ -1061,18 +1072,18 @@
       "enforcement_date": "",
       "content": "■ (해양경찰청) 수사심의에 관한 규칙 [별표 2]\n수사과오 평가기준(제20조 관련)\n━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n수사과오│평  가  기  준\n─────┼─────────────────────────────────────────\n중과오  │○?파면?, ?해임?, ?강등? 수준의 과오 : 징계의뢰\n│○?정직?, ?직위해제? 수준의 과오\n│  ? 금품ㆍ향응수수\n│  ? 피의자 도주\n│  ? 고의에 의한 수사절차 위반\n│  ? 본인 책임에 의한 직위해제\n│  ? 감독 책임에 의한 직위해제\n│○?형사처벌? 대상 과오\n│  ? 구  속\n│  ? 불구속\n│    - 선고형이 자유형 예상\n│    - 선고형이 벌금형 예상\n─────┼─────────────────────────────────────────\n경과오  │○?감봉? 수준의 과오\n│○?견책? 수준의 과오\n│  ??사건묵살?…非 형사처벌\n│  ??사건방치?\n│  ??사건분실?\n│  ? 과실에 의한 강제수사절차 위반\n│   ?이송ㆍ촉탁지침 등 수사절차 관련 지시사항에 대한 중과실 또는 고의적인 불이행\n─────┼─────────────────────────────────────────\n기타과오│○?불문경고? 수준의 과오\n│○?직권경고? 수준의 과오\n│○?주의? 수준의 과오\n│  ?과실에 의한 임의수사절차 위반\n│  ?이송ㆍ촉탁지침 등 수사절차 관련 지시사항을 숙지하지 않아 불이행\n│  ?범죄사실 누락\n│  ?의율착오(구성요건해당성, 위법성조각사유, 책임조각사유 착오 포함)\n│  ?그 밖에 착오에 의한(회복 가능한) 수사절차 위반\n━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000242340&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782759",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286492&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170115931",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782755",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170115927",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782759",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170115931",
           "name": "",
           "file_store_url": ""
         }
@@ -1093,17 +1104,17 @@
       "content": "■ (해양경찰청) 수사심의에 관한 규칙 [별지 제1호서식]\n\n수사심의 신청서\n\n※ [  ]에는 해당되는 곳에 √표를 합니다.\n─────────────────────────────────────┬───────────────\n접수번호                                                                │접수일자\n─────────────────────────────────────┴───────────────\n\n────┬────────────────────────────────┬───────────────\n신청인│성 명                                                           │생년월일\n├────────────────────────────────┼───────────────\n│주 소                                                           │전화번호\n├────────────────────────────────┴───────────────\n│관계 [  ] 피의자  [  ] 피해자  [  ] 참고인  [  ] 변호인  [  ] 기타(               )\n────┴────────────────────────────────────────────────\n\n────┬───────────────────────────────┬────────────────\n대상  │담당관서                                                      │피의자              외     명\n사건  │사건번호  제         -          호                            │\n├───────────────────────────────┴────────────────\n│죄 명\n────┴────────────────────────────────────────────────\n\n────┬────────────────────────────────────────────────\n심의  │[  ] 수사지연         [  ] 수사미진        [  ] 절차위반\n신청  │[  ] 불법체포?감금     [  ] 가혹행위        [  ] 기타(                  )\n├────────────────────────────────────────────────\n│수사심의신청 이유\n│\n│\n│\n│\n│\n│\n│\n│\n│\n│\n│\n│\n│\n────┴────────────────────────────────────────────────\n신청인은 위와 같이 수사심의를 신청합니다.\n년        월       일\n\n신청인                            (서명 또는 인)\n\n\n해양경찰관서의 장 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리 절차\n─────────────────────────────────────────────────────\n\n┌──────┐    ┌───────┐    ┌────────┐      ┌───────┐    ┌───┐\n│신청서 작성 │  ?│접 수         │  ?│조 사           │    ?│심의·의결    │  ?│통 보 │\n│            ├─  │              ├─  │                ├──  │              ├─  │      │\n│            │    │              │    │                │      │              │    │      │\n└──────┘    └───────┘    └────────┘      └───────┘    └───┘\n신청인              해양경찰관서          해양경찰청 또는           수사심의위원회\n지방해양경찰청\n─────────────────────────────────────────────────────\n210mm×297mm[백상지 80g/㎡(재활용품)]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782765",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170115937",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782761",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170115933",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782765",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170115937",
           "name": "",
           "file_store_url": ""
         }
@@ -1124,17 +1135,17 @@
       "content": "■ (해양경찰청) 수사심의에 관한 규칙 [별지 제2호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃수사심의신청사건 처리지시                                                     ┃\n┠──┬────┬─────────┬────┬────────────────┨\n┃심의│사건번호│                  │처리지시│                                ┃\n┃신청│        │                  │연    번│                                ┃\n┃사건│        │                  │        │                                ┃\n┠──┼────┼─────────┼────┼────────────────┨\n┃본래│사건번호│                  │피 의 자│                                ┃\n┃사건├────┼─────────┴────┴────────────────┨\n┃    │수사    │?소 속   :         ?계 급   :           ?성 명   :         ┃\n┃    │부서장  │                                                              ┃\n┃    ├────┼───────────────────────────────┨\n┃    │담당자  │?소 속   :         ?계 급   :           ?성 명   :         ┃\n┠──┴────┼───────────────────────────────┨\n┃지시사항      │                                                              ┃\n┠───────┼──────────┬────────┬───────────┨\n┃지시일시      │    년    월    일  │보고기한        │    년    월    일    ┃\n┠───────┼──────────┴────────┴───────────┨\n┃지 시 자      │                                                              ┃\n┃              │                                                              ┃\n┃              │?소 속     :                                                 ┃\n┃              │                                                              ┃\n┃              │?계 급     :           ?성 명   :                       ??┃\n┃              │                                                              ┃\n┃              │                                                              ┃\n┗━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782771",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116063",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782767",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116059",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782771",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116063",
           "name": "",
           "file_store_url": ""
         }
@@ -1155,17 +1166,17 @@
       "content": "■ (해양경찰청) 수사심의에 관한 규칙 [별지 제3호서식]\n수사심의신청사건 조사결과\n┏━━━━━┯━━━━━━┯━━━┯━━━━━━━━━━━━━━┓\n┃심의신청  │            │대상자│수사부서장 :                ┃\n┃사건번호  │            │      │담  당  자 :                ┃\n┠─────┴──────┼───┼──────────────┨\n┃수 사 심 의 신 청 내 용 │신청인│                            ┃\n┠────────────┴───┴──────────────┨\n┃                                                              ┃\n┠─────────────┬──────┬──────────┨\n┃조 사 결 과               │수사심의담당│                    ┃\n┠─────────────┴──────┴──────────┨\n┃                                                              ┃\n┠────┬────────┬──────┬──────────┨\n┃심의일시│                │심의장소    │                    ┃\n┠────┼────────┴──────┴──────────┨\n┃심의위원│                                                    ┃\n┠────┴──────────────────────────┨\n┃심  의  결  과                                                ┃\n┠───────────────────────────────┨\n┃수사심의조사  적절성  여부 : 적    절(     )  부 적 절(     ) ┃\n┃본래사건   수사과오   여부 : 과오없음(     )  과오있음(     ) ┃\n┃심 의 의 견 :                                                 ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782777",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116069",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782773",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116065",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782777",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116069",
           "name": "",
           "file_store_url": ""
         }
@@ -1186,17 +1197,17 @@
       "content": "■ (해양경찰청) 수사심의에 관한 규칙 [별지 제4호서식]\n\n소속관서\n\n0000. 00. 00.\n제 0000-00000 호\n\n수 신 : 소속관서장\n\n참 조 : 수사부서장\n\n제 목 : 조사기일 연장 건의서\n\n\n\n\n\n신청인        에 대한 수사심의신청 사건에 관하여 조사기일 연장을 건의합니다.\nⅠ. 신청인 인적사항\n\n성명          :\n\n주민등록번호  :\n\n주소          :\n\n\nⅡ. 수사심의신청 내용\nⅢ. 조사기일 연장건의 사유\nⅣ. 향후 조사계획\n┏━━━┯━━━━━━┯━━┯━━━┯━━┓\n┃경 로 │지휘 및 의견│구분│결 재 │일시┃\n┠───┼──────┼──┼───┼──┨\n┃      │            │    │      │    ┃\n┠───┼──────┼──┼───┼──┨\n┃      │            │    │      │    ┃\n┠───┼──────┼──┼───┼──┨\n┃      │            │    │      │    ┃\n┗━━━┷━━━━━━┷━━┷━━━┷━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782783",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116075",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782779",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116071",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782783",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116075",
           "name": "",
           "file_store_url": ""
         }
@@ -1217,17 +1228,17 @@
       "content": "■ (해양경찰청) 수사심의에 관한 규칙 [별지 제5호서식]\n\n소속관서\n\n제 0000-00000 호   0000. 00. 00.\n\n수 신 :          귀하\n\n제 목 : 수사심의신청 사건 진행상황 통지서\n──────────────────────────────────────\n\n귀하의 수사심의신청 사건의 진행사항을 다음과 같이 알려드립니다.\n\n\n┏━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃접수일시          │ 0000. 00. 00.                                  ┃\n┠─────────┼────────────────────────┨\n┃심의신청 사건번호 │ 0000-000000                                    ┃\n┠─────────┼────────────────────────┨\n┃진행상황          │                                                ┃\n┠─────────┼────────────────────────┨\n┃담당자            │  ○○과 ○○계  경○   ○○○  ☏  000-000-0000┃\n┗━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n\n\n\n\n\n소속관서장\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782789",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116081",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782785",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116077",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782789",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116081",
           "name": "",
           "file_store_url": ""
         }
@@ -1248,17 +1259,17 @@
       "content": "■ (해양경찰청) 수사심의에 관한 규칙 [별지 제6호서식]\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                            ┃\n┃                                                            ┃\n┃서  약  서                                                  ┃\n┃                                                            ┃\n┃                                                            ┃\n┃                                                            ┃\n┃  본인은 「해양경찰 수사심의위원회? 위원으로서 공정하고    ┃\n┃객관적인 심의를 위해 맡은 바 임무를 공정하게 수행하고, 심의 ┃\n┃과정에서 취득한 사건·수사 관련 정보 및 개인정보 등에 대해서┃\n┃는 외부에 공개·누설하거나 부당하게 활용할 경우 민·형사상  ┃\n┃법적 책임을 질 수 있다는 점을 인식하고 그 비밀을 준수할     ┃\n┃것을 서약합니다.                                            ┃\n┃                                                            ┃\n┃                                                            ┃\n┃                                                            ┃\n┃    년      월      일                                      ┃\n┃                                                            ┃\n┃       해양경찰 수사심의위원회  위원             (인)       ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782795",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116087",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782791",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116083",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782795",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116087",
           "name": "",
           "file_store_url": ""
         }
@@ -1279,17 +1290,17 @@
       "content": "■ (해양경찰청) 수사심의에 관한 규칙[별지 제7호서식]\n수사과오 심의 결과서\n\n┏━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━┓\n┃20   .     .     .                      │결         재         ┃\n┠────────────────────┼───────┬───┨\n┃수 신 :                                 │간 사         │위원장┃\n┠────────────────────┼───────┼───┨\n┃참 조 :                                 │              │      ┃\n┠────────────────────┤              │      ┃\n┃발 신 :                                 │              │      ┃\n┠───┬────────────────┴───────┴───┨\n┃대상자│수사부서장 :                                            ┃\n┃      │담  당  자 :                                            ┃\n┠───┴───┬─────────────┬───┬──────┨\n┃심의신청      │                          │신청인│            ┃\n┃사건번호      │                          │      │            ┃\n┠───────┴─────────────┴───┴──────┨\n┃수 사 과 오 내 용                                               ┃\n┠────────────────────────────────┨\n┃                                                                ┃\n┠──────┬───────────────┬────┬────┨\n┃심의일시    │                              │심의장소│        ┃\n┠──────┼───────────────┴────┴────┨\n┃심의위원    │                                                  ┃\n┠──────┴─────────────────────────┨\n┃심  의  결  과                                                  ┃\n┠────────────────────────────────┨\n┃                                                                ┃\n┠──────┬─────────────────────────┨\n┃평가결과    │                                                  ┃\n┠──────┼─────────────────────────┨\n┃수사심의담당│                                                  ┃\n┗━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782801",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116093",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782797",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116089",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782801",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116093",
           "name": "",
           "file_store_url": ""
         }
@@ -1310,17 +1321,17 @@
       "content": "■ (해양경찰청) 수사심의에 관한 규칙 [별지 제8호서식]\n\n소속관서\n\n제 0000-00000 호  0000. 00. 00.\n\n수 신 :          귀하\n\n제 목 : 수사심의 결과 통지서\n─────────────────────────────────────────────\n귀하가 제기한 수사심의신청 사건에 대하여 다음과 같이 결정하였음을 알려드립니다.\n┌──────┬───────┬────────┬────────────────┐\n│접 수 일 시 │0000. 00. 00. │본래사건사건번호│0000-000000                     │\n├──────┼───────┴────────┴────────────────┤\n│결 정 일    │0000. 00. 00.                                                     │\n├──────┼─────────────────────────────────┤\n│결 정 종 류 │ 1. 수사심의조사  적절성  여부 : 적    절(     )  부 적 절(     ) │\n│            │ 2. 본래사건   수사과오   여부 : 과오없음(     )  과오있음(     ) │\n├──────┼─────────────────────────────────┤\n│심의신청    │                                                                  │\n│내용        │                                                                  │\n├──────┼─────────────────────────────────┤\n│심의결과    │                                                                  │\n├──────┼─────────────────────────────────┤\n│담 당 자    │○○과 ○○계  경○   ○○○        ☏  000-0000-0000             │\n└──────┴─────────────────────────────────┘\n\n\n\n\n\n\n소속관서장\n\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782807",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116099",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782803",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116095",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782807",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116099",
           "name": "",
           "file_store_url": ""
         }
@@ -1341,17 +1352,17 @@
       "content": "■ (해양경찰청) 수사심의에 관한 규칙 [별지 제9호서식]\n수사심의신청사건 관리대장\n┏━━┯━━┯━━┯━━━━━━━┯━━━━━━━━━━━━━━━━━━┯━━┯━━━━┯━━━━━┯━━━━━━━━━━━━━━━━━━━━┯━━┓\n┃연번│접수│사건│신청인        │본 래 사 건 ? 수 사 관             │경유│심의신청│심의신청  │조 치                                   │무고┃\n┃    │일시│번호├──┬────┼────┬───┬───┬─────┤?  │유형    │요지      ├────┬───┬─────┬─────┤판단┃\n┃    │    │    │성명│주   소 │사건번호│관서명│담당자│수사부서장│이첩│        │          │조치담당│배당일│처리지시  │최종처리  │    ┃\n┃    │    │    │    │        │        │      │      │          │    │        │          │        │      │(보고기한)│결과(날짜)│    ┃\n┠──┼──┼──┼──┼────┼────┼───┼───┼─────┼──┼────┼─────┼────┼───┼─────┼─────┼──┨\n┃    │    │    │    │        │        │      │      │          │    │        │          │        │      │          │          │    ┃\n┠──┼──┼──┼──┼────┼────┼───┼───┼─────┼──┼────┼─────┼────┼───┼─────┼─────┼──┨\n┃    │    │    │    │        │        │      │      │          │    │        │          │        │      │          │          │    ┃\n┠──┼──┼──┼──┼────┼────┼───┼───┼─────┼──┼────┼─────┼────┼───┼─────┼─────┼──┨\n┃    │    │    │    │        │        │      │      │          │    │        │          │        │      │          │          │    ┃\n┠──┼──┼──┼──┼────┼────┼───┼───┼─────┼──┼────┼─────┼────┼───┼─────┼─────┼──┨\n┃    │    │    │    │        │        │      │      │          │    │        │          │        │      │          │          │    ┃\n┠──┼──┼──┼──┼────┼────┼───┼───┼─────┼──┼────┼─────┼────┼───┼─────┼─────┼──┨\n┃    │    │    │    │        │        │      │      │          │    │        │          │        │      │          │          │    ┃\n┠──┼──┼──┼──┼────┼────┼───┼───┼─────┼──┼────┼─────┼────┼───┼─────┼─────┼──┨\n┃    │    │    │    │        │        │      │      │          │    │        │          │        │      │          │          │    ┃\n┠──┼──┼──┼──┼────┼────┼───┼───┼─────┼──┼────┼─────┼────┼───┼─────┼─────┼──┨\n┃    │    │    │    │        │        │      │      │          │    │        │          │        │      │          │          │    ┃\n┠──┼──┼──┼──┼────┼────┼───┼───┼─────┼──┼────┼─────┼────┼───┼─────┼─────┼──┨\n┃    │    │    │    │        │        │      │      │          │    │        │          │        │      │          │          │    ┃\n┗━━┷━━┷━━┷━━┷━━━━┷━━━━┷━━━┷━━━┷━━━━━┷━━┷━━━━┷━━━━━┷━━━━┷━━━┷━━━━━┷━━━━━┷━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782813",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116105",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782809",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116101",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142782813",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170116105",
           "name": "",
           "file_store_url": ""
         }
@@ -1366,67 +1377,11 @@
   ],
   "attachments": [
     {
-      "name": "수사심의에 관한 규칙.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=141079705",
-      "filename": "수사심의에 관한 규칙.pdf",
+      "name": "(해양경찰청) 수사심의에 관한 규칙.zip",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170084875",
+      "filename": "(해양경찰청) 수사심의에 관한 규칙.zip",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/수사심의에 관한 규칙.pdf",
-      "file_store_url": ""
-    },
-    {
-      "name": "수사심의에 관한 규칙.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=141079701",
-      "filename": "수사심의에 관한 규칙.hwpx",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/수사심의에 관한 규칙.hwpx",
-      "file_store_url": ""
-    },
-    {
-      "name": "별지 제1호 서식 ~ 별지 제9호 서식.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=141079709",
-      "filename": "별지 제1호 서식 ~ 별지 제9호 서식.hwpx",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/별지 제1호 서식 ~ 별지 제9호 서식.hwpx",
-      "file_store_url": ""
-    },
-    {
-      "name": "별지 제1호 서식 ~ 별지 제9호 서식.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=141079713",
-      "filename": "별지 제1호 서식 ~ 별지 제9호 서식.pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/별지 제1호 서식 ~ 별지 제9호 서식.pdf",
-      "file_store_url": ""
-    },
-    {
-      "name": "별표 1 ~ 별표 2.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=141079717",
-      "filename": "별표 1 ~ 별표 2.hwpx",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/별표 1 ~ 별표 2.hwpx",
-      "file_store_url": ""
-    },
-    {
-      "name": "별표 1 ~ 별표 2.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=141079721",
-      "filename": "별표 1 ~ 별표 2.pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/별표 1 ~ 별표 2.pdf",
-      "file_store_url": ""
-    },
-    {
-      "name": "(양식)조문별개정이유서_행정규칙.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=141079693",
-      "filename": "(양식)조문별개정이유서_행정규칙.hwpx",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/(양식)조문별개정이유서_행정규칙.hwpx",
-      "file_store_url": ""
-    },
-    {
-      "name": "(양식)조문별개정이유서_행정규칙.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=141079697",
-      "filename": "(양식)조문별개정이유서_행정규칙.pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/(양식)조문별개정이유서_행정규칙.pdf",
+      "local_path": "첨부파일/(해양경찰청) 수사심의에 관한 규칙.zip",
       "file_store_url": ""
     }
   ],
@@ -1448,9 +1403,9 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 11,
-    "attachments_count": 8
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/(해양경찰청) 수사심의에 관한 규칙"
