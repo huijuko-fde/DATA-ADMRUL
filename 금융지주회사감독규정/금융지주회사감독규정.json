@@ -1,42 +1,42 @@
 {
   "law_id": "36056",
-  "mst": "2100000266376",
+  "mst": "2100000285612",
   "law_name": "금융지주회사감독규정",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:36056",
-  "promulgation_no": "2025-26",
-  "promulgation_date": "20251001",
-  "enforcement_date": "20251001",
-  "revision_date": "20251001",
-  "revision_type": "일부개정",
+  "promulgation_no": "2026-40",
+  "promulgation_date": "20260929",
+  "enforcement_date": "20261002",
+  "revision_date": "20260929",
+  "revision_type": "타법개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "금융위원회(금융정책과)",
-    "담당자명": "윤혜원",
+    "담당자명": "권오혁",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "금융지주회사감독규정",
-    "발령일자": "20251001",
+    "발령일자": "20260929",
     "행정규칙종류": "고시",
-    "제개정구분코드": "200403",
+    "제개정구분코드": "200409",
     "조문형식여부": "Y",
     "소관부처명": "금융위원회",
     "전화번호": "02-2100-2824",
-    "제개정구분명": "일부개정",
+    "제개정구분명": "타법개정",
     "소관부처코드": "1160100",
-    "생성일자": "20251104",
+    "생성일자": "20260930",
     "행정규칙ID": "36056",
-    "시행일자": "20251001",
-    "담당부서기관코드": "1160148",
-    "발령번호": "2025-26",
-    "행정규칙일련번호": "2100000266376",
+    "시행일자": "20261002",
+    "담당부서기관코드": "1160115",
+    "발령번호": "2026-40",
+    "행정규칙일련번호": "2100000285612",
     "상위부처명": "금융위원회"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유 및 내용\n○ 기후위기 및 인공지능 대전환 등 행정 환경의 변화에 능동적으로 대응할 수 있도록 정부 조직체계를 재설계하고, 과학기술ㆍ인공지능 분야와 국가 데이터 및 지식재산 행정의 역량을 강화하기 위하여 국무총리 소속 부처 체계를 재조정하는 등의 내용으로 「정부조직법」이 개정(법률 제21065호, 2025. 10. 1. 공포ㆍ시행)됨에 따라, 행정기관의 변경된 명칭에 맞추어 관련 규정을 정비",
+  "revision_reason": "1. 형사사법체계 개편에 따른 종전 검찰청 관련 명칭 정비\n◇ 제ㆍ개정 이유 및 내용\n○ 수사ㆍ기소 기관간 상호 견제가 가능한 체계를 구축하기 위하여 검찰청을 폐지하고 공소청과 중대범죄수사청을 신설하는 내용으로 「공소청법」과 「중대범죄수사청 설치 및 운영에 관한 법률」이 제정되고, 수사와 기소가 제도적으로 분리되는 새로운 형사사법 체계의 행정 조직 기반을 마련하는 등의 내용으로 「형사소송법」이 개정됨에 따라, 종전 검찰청과 관련된 명칭을 정비하려는 사항",
   "body": {
     "format": "articles",
     "article_count": 90,
@@ -118,7 +118,7 @@
         "article_title": "금융업의 범위",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제1조의2(금융업의 범위) 영 제2조제2항제5호에 따라 \"금융위원회가 정하여 고시하는 사업\"이란 다음 각 호의 어느 하나에 해당하는 업종 또는 업무(「통계법」 제22조제1항에 따라 국가데이터처장이 고시하는 한국표준산업분류에 의한 금융 및 보험업에 해당하는 경우는 제외하나, 다른 법령 등에서 금융업의 영위와 밀접한 관련이 있는 업무로 규정하는 경우는 제외하지 않을 수 있다.)를 말한다. <개정 2019. 1. 31., 2025. 10. 1.>1. 「은행업감독규정」 제49조에 따른 업종2. 「보험업법」 제115조제1항 각 호 및 같은 법 시행령 제59조제3항 및 제4항에 따른 업무3. 「전자금융거래법」 제28조제2항 각 호의 업무 및 「전자금융감독규정」제3조 각 호에 따른 사업자의 업무(해당 업무를 주된 사업으로 영위하는 경우에 한한다)4. 그 밖에 제1호부터 제3호까지에 준하는 것으로 금융위가 인정하는 업무",
+        "content": "제1조의2(금융업의 범위) 영 제2조제2항제5호에 따라 \"금융위원회가 정하여 고시하는 사업\"이란 다음 각 호의 어느 하나에 해당하는 업종 또는 업무(「통계법」 제22조제1항에 따라 국가데이터처장이 고시하는 한국표준산업분류에 의한 금융 및 보험업에 해당하는 경우는 제외하나, 다른 법령 등에서 금융업의 영위와 밀접한 관련이 있는 업무로 규정하는 경우는 제외하지 않을 수 있다.)를 말한다.<개정 2019. 1. 31., 2025. 10. 1.>1. 「은행업감독규정」 제49조에 따른 업종2. 「보험업법」 제115조제1항 각 호 및 같은 법 시행령 제59조제3항 및 제4항에 따른 업무3. 「전자금융거래법」 제28조제2항 각 호의 업무 및 「전자금융감독규정」제3조 각 호에 따른 사업자의 업무(해당 업무를 주된 사업으로 영위하는 경우에 한한다)4. 그 밖에 제1호부터 제3호까지에 준하는 것으로 금융위가 인정하는 업무",
         "enforcement_date": "",
         "relations": [
           {
@@ -777,7 +777,7 @@
         "article_title": "인가",
         "chapter": "제1절 인가절차",
         "chapter_path": "제2장 금융지주회사의 설립인가 등 > 제1절 인가절차",
-        "content": "제8조(인가) ① 금융위는 인가의 심사를 위하여 필요하다고 인정되는 때에는 인가신청에 대하여 이해관계인의 의견을 요청할 수 있고, 금융시장에 중대한 영향을 미칠 우려가 있다고 판단되는 경우 공청회를 개최할 수 있다.(신설 2015. 12. 29)② 금융위는 제1항에 따라 접수된 의견 중 신청인에게 불리한 의견에 대하여는 신청인에게 소명하도록 기한을 정하여 통보할 수 있다.(신설 2015. 12. 29)③ 감독원장은 인가 신청내용에 대한 진위여부를 확인하고 이해관계인, 일반인 및 관계기관 등으로부터 제시된 의견을 감안하여 신청내용이 관련법령과 이 장 제2절에서 규정하는 인가 세부기준에 부합하는지 여부를 심사하여야 한다.(개정 2015. 12. 29)④ 감독원장은 사업계획의 타당성을 평가하기 위하여 평가위원회를 구성ㆍ운영할 수 있으며 신청내용의 확인, 발기인 및 경영진과의 면담 등을 위하여 실지조사를 실시할 수 있다.(신설 2015. 12. 29)⑤ 금융위는 인가신청에 대하여 관련법령과 이 장 제2절에서 규정하는 인가 세부기준을 심사하여 인가여부를 결정한다.⑥ 인가에는 조건을 붙일 수 있으며 인가를 거부하는 경우에는 이를 서면으로 신청인에게 통보하여야 한다.⑦ 신청인은 인가를 받은 날부터 6월 이내에 인가 대상행위를 이행하여야 한다. 다만, 인가시 그 기간을 따로 정하였거나 그 기간의 연장을 승인받은 경우에는 그러하지 아니하다.⑧ 신청인은 인가시 부과된 조건이 있는 경우 그 이행상황을 이행기일 경과 후 지체없이 금융위에 보고하여야 한다.(개정 2015. 12. 29)⑨ 금융위는 제7조제1항에 따른 인가신청을 받았을 때에는 2개월 이내에 이를 심사하여 신청인에게 인가 여부를 통지하여야 한다. 다만, 다음 각 호의 어느 하나에 해당하는 기간은 심사기간에 산입하지 아니한다. (신설 2015. 12. 29., 개정 2021. 10. 14.)1. 법 제4조의 요건을 충족하는지를 확인하기 위하여 다른 기관 등으로부터 필요한 자료를 제공받는 데에 걸리는 기간 (신설 2021. 10. 14.)2. 고시에 따라 인가신청서 흠결의 보완을 요구한 경우에는 그 보완기간 (신설 2021. 10. 14.)3. 금융지주회사 인가를 받으려는 자의 주주(금융지주회사의 주식을 보유하기 위해 금융위로부터 승인을 받아야 하는 주주를 말한다. 다만, 경영참여형 사모집합투자기구등이 주주인 경우 그 사원 또는 투자목적회사를 포함한다)를 상대로 형사소송 절차가 진행되고 있거나 금융위원회, 공정거래위원회, 국세청, 검찰청 또는 금융감독원 등에 의한 조사ㆍ검사 등의 절차가 진행되고 있고, 그 소송이나 조사ㆍ검사 등의 내용이 심사에 중대한 영향을 미칠 수 있다고 금융위원회가 인정하여 심사를 중단한 경우에는 그 소송이나 조사ㆍ검사 등의 절차가 끝날 때까지의 기간(금융위원회가 제10항에 따라 소송이나 조사ㆍ검사 등의 절차가 끝나기 전 심사재개를 결정한 경우 심사재개시까지의 기간) (신설 2021. 10. 14.)⑩ 금융위원회는 제9항 제3호에 따라 심사를 중단한 경우 소송이나 조사ㆍ검사 등의 진행경과 등을 고려하여 필요하다고 인정하는 경우 심사를 재개할 수 있으며, 심사를 중단한 날부터 매 6개월이 경과할 때마다 심사 재개 여부를 판단하여야 한다. (신설 2021. 10. 14.)",
+        "content": "제8조(인가) ① 금융위는 인가의 심사를 위하여 필요하다고 인정되는 때에는 인가신청에 대하여 이해관계인의 의견을 요청할 수 있고, 금융시장에 중대한 영향을 미칠 우려가 있다고 판단되는 경우 공청회를 개최할 수 있다.(신설 2015. 12. 29)② 금융위는 제1항에 따라 접수된 의견 중 신청인에게 불리한 의견에 대하여는 신청인에게 소명하도록 기한을 정하여 통보할 수 있다.(신설 2015. 12. 29)③ 감독원장은 인가 신청내용에 대한 진위여부를 확인하고 이해관계인, 일반인 및 관계기관 등으로부터 제시된 의견을 감안하여 신청내용이 관련법령과 이 장 제2절에서 규정하는 인가 세부기준에 부합하는지 여부를 심사하여야 한다.(개정 2015. 12. 29)④ 감독원장은 사업계획의 타당성을 평가하기 위하여 평가위원회를 구성ㆍ운영할 수 있으며 신청내용의 확인, 발기인 및 경영진과의 면담 등을 위하여 실지조사를 실시할 수 있다.(신설 2015. 12. 29)⑤ 금융위는 인가신청에 대하여 관련법령과 이 장 제2절에서 규정하는 인가 세부기준을 심사하여 인가여부를 결정한다.⑥ 인가에는 조건을 붙일 수 있으며 인가를 거부하는 경우에는 이를 서면으로 신청인에게 통보하여야 한다.⑦ 신청인은 인가를 받은 날부터 6월 이내에 인가 대상행위를 이행하여야 한다. 다만, 인가시 그 기간을 따로 정하였거나 그 기간의 연장을 승인받은 경우에는 그러하지 아니하다.⑧ 신청인은 인가시 부과된 조건이 있는 경우 그 이행상황을 이행기일 경과 후 지체없이 금융위에 보고하여야 한다.(개정 2015. 12. 29)⑨ 금융위는 제7조제1항에 따른 인가신청을 받았을 때에는 2개월 이내에 이를 심사하여 신청인에게 인가 여부를 통지하여야 한다. 다만, 다음 각 호의 어느 하나에 해당하는 기간은 심사기간에 산입하지 아니한다. (신설 2015. 12. 29., 개정 2021. 10. 14.)1. 법 제4조의 요건을 충족하는지를 확인하기 위하여 다른 기관 등으로부터 필요한 자료를 제공받는 데에 걸리는 기간 (신설 2021. 10. 14.)2. 고시에 따라 인가신청서 흠결의 보완을 요구한 경우에는 그 보완기간 (신설 2021. 10. 14.)3. 금융지주회사 인가를 받으려는 자의 주주(금융지주회사의 주식을 보유하기 위해 금융위로부터 승인을 받아야 하는 주주를 말한다. 다만, 경영참여형 사모집합투자기구등이 주주인 경우 그 사원 또는 투자목적회사를 포함한다)를 상대로 형사소송 절차가 진행되고 있거나 금융위원회, 공정거래위원회, 국세청, 공소청, 중대범죄수사청 또는 금융감독원 등에 의한 조사ㆍ검사 등의 절차가 진행되고 있고, 그 소송이나 조사ㆍ검사 등의 내용이 심사에 중대한 영향을 미칠 수 있다고 금융위원회가 인정하여 심사를 중단한 경우에는 그 소송이나 조사ㆍ검사 등의 절차가 끝날 때까지의 기간(금융위원회가 제10항에 따라 소송이나 조사ㆍ검사 등의 절차가 끝나기 전 심사재개를 결정한 경우 심사재개시까지의 기간) (신설 2021. 10. 14., 2026. 9. 29.)⑩ 금융위원회는 제9항 제3호에 따라 심사를 중단한 경우 소송이나 조사ㆍ검사 등의 진행경과 등을 고려하여 필요하다고 인정하는 경우 심사를 재개할 수 있으며, 심사를 중단한 날부터 매 6개월이 경과할 때마다 심사 재개 여부를 판단하여야 한다. (신설 2021. 10. 14.)",
         "enforcement_date": "",
         "relations": [
           {
@@ -1041,7 +1041,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:금융지주회사감독규정#JO0010",
             "target_unit": "BYL0001",
@@ -1066,7 +1066,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:금융지주회사감독규정#JO0010",
             "target_unit": "BYL0001",
@@ -1171,7 +1171,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:금융지주회사감독규정#JO0010",
             "target_unit": "BYL0001",
@@ -1256,7 +1256,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:금융지주회사감독규정#JO0010",
             "target_unit": "BYL0001",
@@ -1461,7 +1461,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:금융지주회사감독규정#JO0010",
             "target_unit": "BYL0001",
@@ -1646,7 +1646,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:금융지주회사감독규정#JO0010",
             "target_unit": "BYL0001",
@@ -1743,7 +1743,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:금융지주회사감독규정#JO0011",
             "target_unit": "BYL0001",
@@ -2774,7 +2774,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:금융지주회사감독규정#JO0012",
             "target_unit": "BYL0002",
@@ -2799,7 +2799,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:금융지주회사감독규정#JO0012",
             "target_unit": "BYL0001",
@@ -2936,7 +2936,7 @@
         "article_title": "은행지주회사 주식보유승인 등의 처리기간에서 제외되는 기간",
         "chapter": "제1절 은행지주회사 주식보유",
         "chapter_path": "제3장 금융지주회사의 소유제한 등 > 제1절 은행지주회사 주식보유",
-        "content": "제12조의2(은행지주회사 주식보유승인 등의 처리기간에서 제외되는 기간) 영 제6조의4 단서 및 영 제9조제4항 단서에서 \"금융위원회가 정하여 고시하는 기간\"이란 다음 각 호의 어느 하나에 해당하는 기간을 말한다. 다만, 금융위원회는 제3호에 따라 심사를 중단한 경우 소송이나 조사ㆍ검사 등의 진행경과 등을 고려하여 필요하다고 인정하는 경우 심사를 재개할 수 있으며, 심사를 중단한 날부터 매 6개월이 경과할 때마다 심사 재개 여부를 판단하여야 한다. (개정 2014. 2. 10., 단서 신설 2021. 10. 14,)1. 승인신청서의 흠결을 보완하는 기간2. 승인요건 충족여부 확인을 위하여 다른 기관 등으로부터 필요한 자료를 제공받는 데에 소요되는 기간3. 동일인 등을 상대로 형사소송 절차가 진행되고 있거나 금융위원회, 공정거래위원회, 국세청, 검찰청 또는 금융감독원 등에 의한 조사ㆍ검사 등의 절차가 진행되고 있고, 그 소송이나 조사ㆍ검사 등의 내용이 심사에 중대한 영향을 미칠 수 있다고 금융위원회가 인정하여 심사를 중단한 경우에는 그 소송이나 조사ㆍ검사 등의 절차가 끝날 때까지의 기간(금융위원회가 본문 단서에 따라 소송이나 조사ㆍ검사 등의 절차가 끝나기 전 심사재개를 결정한 경우 심사재개시까지의 기간) (개정 2021. 10. 14.)4. 천재ㆍ지변 그 밖의 사유로 불승인사유를 통지할 수 없는 기간",
+        "content": "제12조의2(은행지주회사 주식보유승인 등의 처리기간에서 제외되는 기간) 영 제6조의4 단서 및 영 제9조제4항 단서에서 \"금융위원회가 정하여 고시하는 기간\"이란 다음 각 호의 어느 하나에 해당하는 기간을 말한다. 다만, 금융위원회는 제3호에 따라 심사를 중단한 경우 소송이나 조사ㆍ검사 등의 진행경과 등을 고려하여 필요하다고 인정하는 경우 심사를 재개할 수 있으며, 심사를 중단한 날부터 매 6개월이 경과할 때마다 심사 재개 여부를 판단하여야 한다. (개정 2014. 2. 10., 단서 신설 2021. 10. 14,)1. 승인신청서의 흠결을 보완하는 기간2. 승인요건 충족여부 확인을 위하여 다른 기관 등으로부터 필요한 자료를 제공받는 데에 소요되는 기간3. 동일인 등을 상대로 형사소송 절차가 진행되고 있거나 금융위원회, 공정거래위원회, 국세청, 공소청, 중대범죄수사청 또는 금융감독원 등에 의한 조사ㆍ검사 등의 절차가 진행되고 있고, 그 소송이나 조사ㆍ검사 등의 내용이 심사에 중대한 영향을 미칠 수 있다고 금융위원회가 인정하여 심사를 중단한 경우에는 그 소송이나 조사ㆍ검사 등의 절차가 끝날 때까지의 기간(금융위원회가 본문 단서에 따라 소송이나 조사ㆍ검사 등의 절차가 끝나기 전 심사재개를 결정한 경우 심사재개시까지의 기간) (개정 2021. 10. 14., 2026. 9. 29.)4. 천재ㆍ지변 그 밖의 사유로 불승인사유를 통지할 수 없는 기간",
         "enforcement_date": "",
         "relations": [
           {
@@ -6698,7 +6698,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:금융지주회사감독규정#JO0024",
             "target_unit": "BYL0001",
@@ -8226,7 +8226,7 @@
         "article_title": "경영지도비율",
         "chapter": "제1절 경영지도기준",
         "chapter_path": "제5장 건전경영지도 > 제1절 경영지도기준",
-        "content": "제25조(경영지도비율) ① 금융지주회사는 법 제50조, 영 제28조의 규정에 따라 다음 각호에서 정하는 경영지도비율을 유지하여야 한다.1. 자본적정성관련 비율(개정 2006. 11. 30, 2013. 9. 17)가. 은행지주회사(개정 2013. 9.17, 2015. 12. 23)     (1) 보통주자본비율, 기본자본비율 및 총자본비율에 관하여 <별표 3>에서 정하는 최소 준수비율     (2) 은행지주회사의 손실흡수능력을 높이기 위하여 추가적으로 유지해야 하는 자본(이하 \"자본보전완충자본\"이라 한다) 및 제25조의2에 따른 금융체계상 중요한 은행지주회사 추가자본, 제25조의3에 따른 경기대응완충자본을 포함한 자본비율로서 <별표 3-2>에서 정하는 자본비율나. 은행지주회사가 아닌 금융지주회사[전환대상자(법 제22조에 따른 전환대상자를 말한다. 이하 같다)는 제외한다. 이하 제2호 및 제3호에서 같다] : 필요자본 합계액에 대한 자기자본 순합계액의 비율(이하 \"필요자본에 대한 자기자본비율\"이라 한다)이 100분의 100이상(개정 2010. 3. 8)2. 금융지주회사의 원화유동성부채에 대한 원화유동성자산 비율(이하 \"원화유동성비율\"이라 한다) : 100분의 100이상3. 금융지주회사의 외화유동성관련 비율(단, 총자산에 대한 외화부채의 비율이 100분의 1에 미달하는 금융지주회사는 적용하지 아니함)(단서신설 2006. 11. 30)가. 금융지주회사의 외화유동성부채에 대한 외화유동성자산 비율(이하 \"외화유동성비율\"이라 한다) : 100분의 80이상나. 금융지주회사의 외화자산 및 부채 만기 불일치비율     (1) 잔존만기 7일 이내의 경우에는 자산이 부채를 초과하는 비율 : 100분의 0이상     (2) 잔존만기 1개월 이내의 경우에는 부채가 자산을 초과하는 비율 : 100분의 10이내4. 금융지주회사(은행지주회사가 아닌 금융지주회사는 제외한다)의 기본자본에 대한 단일 거래상대방 또는 연계된 거래상대방그룹(이하 이조에서 \"거래상대방\"이라 한다)의 익스포져(다음 각목의 익스포져를 제외한다) 합계 비율(이하 이조 및 제25조의2에서 \"거액익스포져비율\"이라 한다) : 100분의 25 이하. 다만, 거래상대방이 제25조의2에 따라 선정된 금융체계상 중요한 은행지주회사(「은행업감독규정」제26조의2에 따라 선정된 금융체계상 중요한 은행을 포함한다) 또는 글로벌 금융체계상 중요한 은행인 경우에는 100분의 20 이하<신설 2024. 1. 18.>가. 국제결제은행이 제시한 기준을 참작하여 감독원장이 정하는 익스포져<신설 2024. 1. 18.>나. 정부의 현물출자에 의하여 취득ㆍ보유한 주식 익스포져로서 법령 또는 정부 방침에 따라 처분이 제한되는 경우<신설 2024. 1. 18.>다. 「농업협동조합법」제161조의10 제6항 및 동법 제161조의11 제9항에 따라 농업협동조합중앙회 등의 국가 위탁 사업 수행을 위하여 제공하는 익스포져<신설 2024. 1. 18.>라. 다음 각각의 어느 하나에 해당하는 거래상대방이 가계자금 관련 대출에 보증한 익스포져<신설 2024. 1. 18.>(1)「보험업법」에 따라 보증보험사업을 영위하는 보험회사<신설 2024. 1. 18.>(2)「서민의 금융생활 지원에 관한 법률」에 따라 설립된 서민금융진흥원 및 동법에 따라 서민금융진흥원이 출자한 국민행복기금<신설 2024. 1. 18.>마. 국민생활 안정 등 공익적 목적 또는 급격한 경제 여건의 변화 등 불가피한 사유가 있다고 금융위원회가 인정하는 익스포져<신설 2024. 1. 18.>② 제1항에서 정하는 비율의 구체적 산정기준은 감독원장이 정한다. 이 경우 제1항제1호의 비율은 국제결제은행 등 국제금융감독기구가 제시한 기준을 참작하여 정한다.(개정 2006. 11. 30)③ 금융지주회사는 제1항에서 정하는 경영지도비율을 산정하고 그 결과를 감독원장에게 분기별로 보고하여야 한다.④ 감독원장은 제35조의 규정에 의한 경영실태분석 및 평가 결과 제1항의 경영지도비율이 악화될 우려가 있거나 경영상 취약부문이 있다고 판단되는 금융지주회사에 대하여는 이의 개선을 위한 계획 또는 약정서를 제출토록 하거나 당해 금융지주회사와 경영개선협약을 체결할 수 있다. 다만, 제36조 내지 제38조의 규정에 의한 경영개선권고, 경영개선요구 또는 경영개선명령을 받고 있는 금융지주회사의 경우에는 그러하지 아니하다.⑤ 제1항 본문에도 불구하고 은행지주회사는 같은 항 제1호 가목 (2)에 따른 비율을 유지하지 않을 수 있다. 다만, 이 경우 법 제50조제3항에 따른 조치로써 <별표 3-3>에 따른 비율로 이익의 배당(기본자본 중 임의적으로 이자를 지급 하지 않을 수 있는 자본증권의 당해 이자지급을 포함한다), 자사주매입 및 성과연동형 상여금(주식보상을 포함한다) 지급이 제한된다.(개정 2015. 12. 23.)⑥ 제5항에 따른 제한의 절차 등 필요한 사항은 감독원장이 정한다.(신설 2013. 9. 17.)",
+        "content": "제25조(경영지도비율) ① 금융지주회사는 법 제50조, 영 제28조의 규정에 따라 다음 각호에서 정하는 경영지도비율을 유지하여야 한다.1. 자본적정성관련 비율(개정 2006. 11. 30, 2013. 9. 17)가. 은행지주회사(개정 2013. 9.17, 2015. 12. 23)(1) 보통주자본비율, 기본자본비율 및 총자본비율에 관하여 <별표 3>에서 정하는 최소 준수비율(2) 은행지주회사의 손실흡수능력을 높이기 위하여 추가적으로 유지해야 하는 자본(이하 \"자본보전완충자본\"이라 한다) 및 제25조의2에 따른 금융체계상 중요한 은행지주회사 추가자본, 제25조의3에 따른 경기대응완충자본을 포함한 자본비율로서 <별표 3-2>에서 정하는 자본비율나. 은행지주회사가 아닌 금융지주회사[전환대상자(법 제22조에 따른 전환대상자를 말한다. 이하 같다)는 제외한다. 이하 제2호 및 제3호에서 같다] : 필요자본 합계액에 대한 자기자본 순합계액의 비율(이하 \"필요자본에 대한 자기자본비율\"이라 한다)이 100분의 100이상(개정 2010. 3. 8)2. 금융지주회사의 원화유동성부채에 대한 원화유동성자산 비율(이하 \"원화유동성비율\"이라 한다) : 100분의 100이상3. 금융지주회사의 외화유동성관련 비율(단, 총자산에 대한 외화부채의 비율이 100분의 1에 미달하는 금융지주회사는 적용하지 아니함)(단서신설 2006. 11. 30)가. 금융지주회사의 외화유동성부채에 대한 외화유동성자산 비율(이하 \"외화유동성비율\"이라 한다) : 100분의 80이상나. 금융지주회사의 외화자산 및 부채 만기 불일치비율(1) 잔존만기 7일 이내의 경우에는 자산이 부채를 초과하는 비율 : 100분의 0이상(2) 잔존만기 1개월 이내의 경우에는 부채가 자산을 초과하는 비율 : 100분의 10이내4. 금융지주회사(은행지주회사가 아닌 금융지주회사는 제외한다)의 기본자본에 대한 단일 거래상대방 또는 연계된 거래상대방그룹(이하 이조에서 \"거래상대방\"이라 한다)의 익스포져(다음 각목의 익스포져를 제외한다) 합계 비율(이하 이조 및 제25조의2에서 \"거액익스포져비율\"이라 한다) : 100분의 25 이하. 다만, 거래상대방이 제25조의2에 따라 선정된 금융체계상 중요한 은행지주회사(「은행업감독규정」제26조의2에 따라 선정된 금융체계상 중요한 은행을 포함한다) 또는 글로벌 금융체계상 중요한 은행인 경우에는 100분의 20 이하<신설 2024. 1. 18.>가. 국제결제은행이 제시한 기준을 참작하여 감독원장이 정하는 익스포져나. 정부의 현물출자에 의하여 취득ㆍ보유한 주식 익스포져로서 법령 또는 정부 방침에 따라 처분이 제한되는 경우다. 「농업협동조합법」제161조의10 제6항 및 동법 제161조의11 제9항에 따라 농업협동조합중앙회 등의 국가 위탁 사업 수행을 위하여 제공하는 익스포져라. 다음 각각의 어느 하나에 해당하는 거래상대방이 가계자금 관련 대출에 보증한 익스포져(1)「보험업법」에 따라 보증보험사업을 영위하는 보험회사(2)「서민의 금융생활 지원에 관한 법률」에 따라 설립된 서민금융진흥원 및 동법에 따라 서민금융진흥원이 출자한 국민행복기금마. 국민생활 안정 등 공익적 목적 또는 급격한 경제 여건의 변화 등 불가피한 사유가 있다고 금융위원회가 인정하는 익스포져② 제1항에서 정하는 비율의 구체적 산정기준은 감독원장이 정한다. 이 경우 제1항제1호의 비율은 국제결제은행 등 국제금융감독기구가 제시한 기준을 참작하여 정한다.(개정 2006. 11. 30)③ 금융지주회사는 제1항에서 정하는 경영지도비율을 산정하고 그 결과를 감독원장에게 분기별로 보고하여야 한다.④ 감독원장은 제35조의 규정에 의한 경영실태분석 및 평가 결과 제1항의 경영지도비율이 악화될 우려가 있거나 경영상 취약부문이 있다고 판단되는 금융지주회사에 대하여는 이의 개선을 위한 계획 또는 약정서를 제출토록 하거나 당해 금융지주회사와 경영개선협약을 체결할 수 있다. 다만, 제36조 내지 제38조의 규정에 의한 경영개선권고, 경영개선요구 또는 경영개선명령을 받고 있는 금융지주회사의 경우에는 그러하지 아니하다.⑤ 제1항 본문에도 불구하고 은행지주회사는 같은 항 제1호 가목 (2)에 따른 비율을 유지하지 않을 수 있다. 다만, 이 경우 법 제50조제3항에 따른 조치로써 <별표 3-3>에 따른 비율로 이익의 배당(기본자본 중 임의적으로 이자를 지급 하지 않을 수 있는 자본증권의 당해 이자지급을 포함한다), 자사주매입 및 성과연동형 상여금(주식보상을 포함한다) 지급이 제한된다.(개정 2015. 12. 23.)⑥ 제5항에 따른 제한의 절차 등 필요한 사항은 감독원장이 정한다.(신설 2013. 9. 17.)",
         "enforcement_date": "",
         "relations": [
           {
@@ -8306,72 +8306,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0003&bylBrNo=00",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:금융지주회사감독규정#JO0025",
-            "target_unit": "BYL0003",
-            "reference_id": "admrul:금융지주회사감독규정#BYL0003",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "금융지주회사감독규정/금융지주회사감독규정.json"
-          },
-          {
-            "relation_type": "internal_ref",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제25조",
-            "source_clause": "제25조제1항",
-            "link_text": "제25조의2",
-            "line_text": "",
-            "target_law_name": "금융지주회사감독규정",
-            "target_article_no": "제25조의2",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/행정규칙/금융지주회사감독규정/제25조의2",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:금융지주회사감독규정#JO0025",
-            "reference_id": "admrul:금융지주회사감독규정#JO0025_02",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "금융지주회사감독규정/금융지주회사감독규정.json"
-          },
-          {
-            "relation_type": "internal_ref",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제25조",
-            "source_clause": "제25조제1항",
-            "link_text": "제25조의3",
-            "line_text": "",
-            "target_law_name": "금융지주회사감독규정",
-            "target_article_no": "제25조의3",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/행정규칙/금융지주회사감독규정/제25조의3",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:금융지주회사감독규정#JO0025",
-            "reference_id": "admrul:금융지주회사감독규정#JO0025_03",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "금융지주회사감독규정/금융지주회사감독규정.json"
-          },
-          {
-            "relation_type": "appendix_ref",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제25조",
-            "source_clause": "제25조제1항",
-            "link_text": "별표 3",
-            "line_text": "",
-            "target_law_name": "금융지주회사감독규정",
-            "target_article_no": "별표3",
-            "target_article_title": "최소 준수비율(제25조 제1항 관련)",
-            "appendix_no": "3",
-            "appendix_branch": "",
-            "appendix_kind": "별표",
-            "appendix_found": true,
-            "target_mst": "",
-            "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:금융지주회사감독규정#JO0025",
             "target_unit": "BYL0003",
@@ -8676,7 +8611,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:금융지주회사감독규정#JO0025",
             "target_unit": "BYL0003",
@@ -8713,7 +8648,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:금융지주회사감독규정#JO0025_02",
             "target_unit": "BYL0003",
@@ -9021,7 +8956,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:금융지주회사감독규정#JO0025_04",
             "target_unit": "BYL0003",
@@ -9046,7 +8981,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:금융지주회사감독규정#JO0025_04",
             "target_unit": "BYL0003",
@@ -9071,7 +9006,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:금융지주회사감독규정#JO0025_04",
             "target_unit": "BYL0003",
@@ -9096,7 +9031,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:금융지주회사감독규정#JO0025_04",
             "target_unit": "BYL0003",
@@ -9193,7 +9128,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0004&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0004&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:금융지주회사감독규정#JO0025_05",
             "target_unit": "BYL0004",
@@ -9270,7 +9205,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "36056",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:금융지주회사감독규정#JO0026",
             "target_unit": "BYL0002",
@@ -11317,10 +11252,10 @@
       "content": "부칙 <제2000-116호,2000. 12. 29.>이 규정은 공고한 날부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20010904",
@@ -11328,10 +11263,10 @@
       "content": "부칙 <제2001-61호,2001. 9. 4.>이 규정은 공고한 날로부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20020501",
@@ -11339,10 +11274,10 @@
       "content": "부칙 <제2002-19호,2002. 5. 1.>이 규정은 공고한 날부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20040331",
@@ -11350,10 +11285,10 @@
       "content": "부칙 <제2004-17호,2004. 3. 31.>이 규정은 공고한 날부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20060330",
@@ -11361,10 +11296,10 @@
       "content": "부칙 <제2006-19호,2006. 3. 30.>이 규정은 공고한 날부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20060831",
@@ -11372,10 +11307,10 @@
       "content": "부칙 <제2006-53호,2006. 8. 31.>이 규정은 공고한 날부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20061130",
@@ -11383,10 +11318,10 @@
       "content": "부칙 <제2006-83호,2006. 11. 30.>이 규정은 공고한 날부터 시행한다. 다만, 제25조, 제36조 내지 제38조, 제43조 및 제46조의 개정규정은 2007년 1월 1일부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20070503",
@@ -11394,10 +11329,10 @@
       "content": "부칙 <제2007-27호,2007. 5. 3.>이 규정은 공고한 날로부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20071213",
@@ -11405,10 +11340,10 @@
       "content": "부칙 <제2007-146호,2007. 12. 13.>이 규정은 공고한 날로부터 시행한다. 다만, 제35조 제2항 내지 제5항 및 제36조제1항제2호의 개정규정은 2008년 1월 1일부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20080328",
@@ -11416,10 +11351,10 @@
       "content": "부칙 <제2008-1호,2008. 3. 28.>이 규정은 고시한 날부터 시행한다",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20080407",
@@ -11427,10 +11362,10 @@
       "content": "부칙 <제2008-8호,2008. 4. 7.>이 규정은 고시한 날부터 시행한다",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20090826",
@@ -11438,10 +11373,10 @@
       "content": "부칙(금융위원회 감사규정등 금융위원회 소관 43개 고시 일괄개정) <제2009-50호,2009. 8. 26.>이 규정은 고시한 날부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20091009",
@@ -11449,10 +11384,10 @@
       "content": "부칙 <제2009-59호,2009. 10. 9.>이 규정은 2009년 10월 10일부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20100308",
@@ -11460,10 +11395,10 @@
       "content": "부칙 <제2010-6호,2010. 3. 8.>제1조(시행일) 이 규정은 고시한 날부터 시행한다.제2조 (다른규정의 개정) 금융위원회운영규칙 중 다음과 같이 개정한다.별표의 구분란 제11호에 너목 및 더목을 다음과 같이 신설한다.[그림]┌──────────────────────┬───────────┬┐│너. 금융지주회사 및 자회사등 임직원의 다른  │금융지주회사법 제39조 │││자회사등 임직원 겸직에 대한 승인            │                      ││├──────────────────────┼───────────┼┤│더. 자회사등간의 업무위탁에 대한 승인       │금융지주회사법 제47조 ││└──────────────────────┴───────────┴┘",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20110302",
@@ -11471,10 +11406,10 @@
       "content": "부칙 <제2011-6호,2011. 3. 2.>제1조(시행일) 이 규정은 고시한 날부터 시행한다. 다만, 제26조부터 제28조까지, 제31조, 제36조의 개정규정은 2011년 1월 1일부터 적용하고, 제34조제1항의 개정규정은 2012년 1월 1일부터 시행한다.제2조(적용례) 제10조제7항의 개정규정은 이 규정 시행 후 인가 또는 승인을 신청하는 신청인부터 적용한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20120626",
@@ -11482,10 +11417,10 @@
       "content": "부칙 (금융기관분담금 징수 등에 관한 규정 등 금융위원회 소관 39개 고시 일괄개정) <제2012-12호,2012. 6. 26.>이 규정은 고시한 날부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20130708",
@@ -11493,10 +11428,10 @@
       "content": "부칙 <제2013-24호,2013. 7. 8.>이 규정은 고시한 날부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20130917",
@@ -11504,10 +11439,10 @@
       "content": "부칙 <제2013-28호,2013. 9. 17.>제1조(시행일 등) ① 이 규정은 2013년 12월 1일부터 시행한다. 다만, 제13조의7, 제36조부터 제38조, 제43조 및 제46조, 별표1부터 별표1-3의 개정규정은 2015년 1월 1일부터 시행한다.② 제1항 단서에 따라 현행 규정을 적용함에 있어 \"위험가중자산에 대한 자기자본비율\"은 \"총자본비율\"로 본다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20131231",
@@ -11515,10 +11450,10 @@
       "content": "부칙 (행정규제기본법 개정에 따른 규제 재검토기한 규정을 위한 「금융지주회사 감독규정」등 일부개정규정)<제2013-44호,2013. 12. 31.>제1조(시행일) 이 규정은 2014년 1월 1일부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20140211",
@@ -11526,10 +11461,10 @@
       "content": "부칙 <제2014-5호,2014. 2. 11.>제1조(시행일) 이 규정은 2014년 2월 14일부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20141129",
@@ -11537,10 +11472,10 @@
       "content": "부칙 <제2014-36호,2014. 11. 29.>제1조(시행일) 이 규정은 2014년 11월 29일부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20141201",
@@ -11548,10 +11483,10 @@
       "content": "부칙 (규제 재검토기한 설정 등 규제정비를 위한「금융지주회사 감독규정」등 일부개정규정)<제2014-37호,2014. 12. 1.>제1조(시행일) 이 규정은 고시한 날부터 시행한다",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20150907",
@@ -11559,10 +11494,10 @@
       "content": "부칙 (「금융지주회사감독규정」 등 6개 규정 일괄개정규정) <제2015-30호,2015. 9. 7.>제1조(시행일) 이 규정은 공고한 날부터 시행한다",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20151223",
@@ -11570,10 +11505,10 @@
       "content": "부칙 <제2015-43호,2015. 12. 23.>제1조(시행일) 이 규정은 고시한 날부터 시행한다. 다만, 제25조의2제3항, 제25조의3제3항 및 제29조제5항부터 제8항까지의 개정규정은 2016년 1월 1일 부터 시행한다.제2조(유효기간) 제25조의4제1항제1호 및 제2호의 개정규정은 2019년 12월 31일까지 그 효력을 가진다.제3조(경과조치) 기본자본으로 인정되는 자본증권(보통주자본 제외)으로서 이 규정 시행 전에 발행된 자본증권의 이자지급에 대하여는 제25조제5항, <별표 3-2> 및 <별표 3-3>의 규정에도 불구하고 종전의 규정을 적용한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20151229",
@@ -11581,10 +11516,10 @@
       "content": "부칙 <제2015-45호,2015. 12. 29.>이 규정은 고시한 날부터 시행한다. 다만, 제24조의2제3항제11호, 제6항 및 제7항의 개정규정은 2016년 3월 12일부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20160727",
@@ -11592,10 +11527,10 @@
       "content": "부칙 <제2016-29호,2016. 7. 27.>이 규정은 고시한 날부터 시행한다. 다만, 제11조의9제2항의 개정규정은 2016년 7월 30일부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20170901",
@@ -11603,10 +11538,10 @@
       "content": "부칙 <제2017-31호,2017. 9. 1.>제1조(시행일) 이 규정은 고시한 날부터 시행한다.제2조(금융채 발행실적 보고에 관한 적용례) 제50조 제1항의 개정규정은 2017년 8월 19일 이후 최초로 발행하는 금융채 발행분부터 적용한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20190131",
@@ -11614,10 +11549,10 @@
       "content": "부칙 <제2019-6호,2019. 1. 31.>제1조(시행일) 이 고시는 공포한 날부터 시행한다.제2조(인가심사 중간점검제도 적용례) 제24조의3제2항의 개정규정은 이 고시 시행 이후 금융지주회사가 인가 등을 신청하는 경우부터 적용한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20190521",
@@ -11625,10 +11560,10 @@
       "content": "부칙 <제2019-17호,2019. 5. 21.>제1조(시행일) 이 규정은 고시한 날부터 시행한다.제2조(유효기간) 금융위원회 고시 제2015-43호 금융지주회사감독규정 부칙 제2조는 이 규정 시행일 이후에는 적용되지 아니한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20200611",
@@ -11636,10 +11571,10 @@
       "content": "부칙 <제2020-26호,2020. 6. 11.>제1조(시행일) 이 규정은 고시한 날부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20210609",
@@ -11647,10 +11582,10 @@
       "content": "부칙 (보험업감독규정)<제2021-18호, 2021. 6. 9.>제1조(시행일) 이 규정은 고시한 날부터 시행한다.제2조(다른 규정의 개정) 금융지주회사감독규정의 일부를 다음과 같이 개정한다.제1조의2제2호 중 \"시행령 제59조제1항\"을 \"시행령 제59조제3항 및 제4항\"으로 한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20211014",
@@ -11658,10 +11593,10 @@
       "content": "부칙 <제2021-41호, 2021. 10. 14.>제1조(시행일)이 규정은 고시한 날부터 시행한다.제2조(심사 재개여부 판단에 관한 경과조치) 이 규정 시행 이전에 심사가 중단된 경우 이 규정 시행일을 심사가 중단된 날로 본다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20231213",
@@ -11669,10 +11604,10 @@
       "content": "부칙 <제2023-58호, 2023. 12. 13.>이 규정은 2024년 1월 1일부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20240118",
@@ -11680,10 +11615,10 @@
       "content": "부칙 <제2024-5호, 2024. 1. 18.>이 규정은 2024년 2월 1일부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20251001",
@@ -11691,10 +11626,21 @@
       "content": "부칙 <제2025-26호, 2025. 10. 1.>이 고시는 2025년 10월 1일 부터 시행한다.",
       "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000266376",
+      "source_mst": "2100000285612",
       "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251001"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "2026-40",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 12개 금융위원회 고시의 일부개정에 관한 금융위원회 고시) <제2026-40호, 2026. 9. 29.>이 고시는 2026년 10월 2일부터 시행한다.",
+      "provision_id": "admrul:금융지주회사감독규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285612",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -11706,18 +11652,18 @@
       "enforcement_date": "",
       "content": "<별표 1> (전면개정 2009. 10. 9, 개정 2013. 9.17, 개정 2015. 9. 7)\n대주주의 요건\n?????????\n1. 설립인가시 대주주 요건(제10조 제1항 관련)\n가. 영 제5조제3항 별표1 제1호가목, 제3호가목 및 제5호나목 관련\n최근 사업연도말(최근 사업연도말 결산자료가 없는 경우 최근 사업연도의 반기말을 말한다)을 기준으로 한 당해 법인의 외부감사인의 감사결과 수정된 재무제표상의 자기자본의 규모가 출자금액의 4배 이상일 것\n나. 영 제5조제3항 별표1 제1호나목 관련 (제7호에 따라 적용하는 경우를 포함한다)\n(1) 대주주가 은행인 경우 최근 분기말 현재 총자본비율이 100분의 10, 기본자본비율이 100분의 7.5 및 보통주자본비율이 100분의 7 이상일 것(개정 2013. 9.17)\n(2) 대주주가 투자매매업자ㆍ투자중개업자인 경우 최근 월말 현재 영업용순자본비율이 200%이상일 것\n(3) 대주주가 보험회사인 경우 최근 분기말 현재 지급여력비율이 150% 이상일 것\n(4) 대주주가 (1)부터 (3)까지 이외의 금융기관인 경우 당해 금융기관에 적용되는 재무건전성기준을 준수할 것\n다. 영 제5조제3항 별표1 제1호다목 및 제3호나목ㆍ다목 관련(제7호에 따라 적용하는 경우를 포함한다)\n당해 법인 및 당해 법인이 속하는 상호출자제한기업집단등 또는 주채무계열의 부채비율이 200% 이하일 것(다만, 금융기관은 부채비율 산정대상에서 제외)\n라. 영 제5조제3항 별표1 제1호라목 및 제3호라목 중 \"제1호라목\" 관련\n대주주의 출자자금이 인가신청일 이전 1년 이내에 유상증자 또는 자산매각 등을 통하여 조달한 자금으로서 차입자금이 아닌 자금으로 출처가 명확할 것\n마. 영 제5조제3항 별표1 제1호마목 ⑴, (3) 및 (4), 제2호ㆍ제3호라목ㆍ제4호나목ㆍ제5호마목ㆍ제6호마목 중 \"제1호마목\" 관련(제7호에 따라 적용하는 경우를 포함한다)\n(1) 최근 5년간 법, 영, 금융관련법령(영 제17조제1항의 규정에 의한 금융관련법령을 말한다), 「독점규제 및 공정거래에 관한 법률」 및 「조세범 처벌법」을 위반하여 벌금이상의 처벌을 받은 사실이 없을 것. 다만, 그 사실이 영위하고자 하는 업무의 건전한 영위를 어렵게 한다고 볼 수 없는 경우에는 그러하지 아니하다.\n(2) 「금융산업의 구조개선에 관한 법률」에 따라 부실금융기관으로 지정된 금융기관의 최대주주ㆍ주요주주 또는 그 특수관계인이 아닐 것. 다만, 부실경영에 관하여 직접 또는 간접으로 책임이 없다는 것이 인정되거나 금융위가 정하는 ‘부실금융기관대주주의경제적책임부담기준’에 의하여 경제적 책임부담의무를 이행 또는 면제받은 경우에는 그러하지 아니하다.\n(3) 최대주주인 경우 최근 1년간 기관경고 조치 또는 최근 3년간 시정명령이나 업무정지 이상의 조치를 받은 사실이 없을 것. 다만, 금융산업의 신속한 구조개선을 지원할 필요가 있거나 조치를 받은 사실이 영위하고자 하는 업무의 건전한 영위를 어렵게 한다고 볼 수 없는 경우에는 그러하지 아니하다.\n바. 영 제5조제3항 별표1 제2호ㆍ제4호나목 중 \"제1호라목\" 및 제6호라목 관련\n대주주의 출자자금은 유가증권 매각, 부동산 매각, 예ㆍ적금 및 사업소득 등을 통해 마련한 자금으로서 차입자금이 아닌 자금으로 동 자금의 출처가 명확할 것\n사. 영 제5조제3항 별표1 제5호가목 관련\n은행, 금융투자업, 보험 및 이에 준하는 금융업으로서 금융위가 인정하는 업무를 영위하고 있을 것\n2. 법 제60조 또는 「금융산업의 구조개선에 관한 법률」에 의한 합병인가시 대주주 또는 주요출자자(이하 \"대주주등\"이라 한다.) 요건(제11조 제1항 관련)\n가.금융지주회사 합병인가시 대주주등에 대하여는 제1호 마목 (2)의 요건을 적용한다. 다만 금융위의 권고ㆍ요구ㆍ명령에 의하거나 금융산업의 구조조정을 위하여 필요하다고 금융위가 인정하는 경우에는 그러하지 아니하다.\n나.대주주등이 금융기관인 경우\n(1)추가출자예상금액(기존 발행주식 인수예상금액을 포함한다. 이하 이호에서 같다)이 당해 금융기관(출자자)의 자기자본 이내이고, 추가출자예상자금의 조달계획이 실현가능성이 있을 것\n(2) 영 제5조제3항별표1 제1호나목부터 라목까지의 요건\n다. 대주주등이 기금등인 경우\n(1) 추가출자예상자금의 조달계획이 실현가능성이 있을 것\n(2) 영 제5조제3항 별표1 제1호라목의 요건\n라. 대주주등이 금융기관이외의 내국법인인 경우\n(1) 추가출자예상금액이 당해 법인의 자기자본 이내이고, 추가출자예상자금의 조달계획이 실현가능성이 있을 것\n(2) 영 제5조제3항별표1 제1호라목 및 동별표 제3호나목ㆍ다목의 요건\n마. 대주주등이 내국인으로서 개인인 경우\n(1) 가출자예상자금의 조달계획이 실현가능성이 있을 것\n(2) 영 제5조제3항 별표1 제1호라목의 요건\n바. 대주주등이 외국법령에 의하여 설립된 외국법인인 경우\n(1) 추가출자예상금액이 당해 법인의 자기자본 이내이고, 추가출자예상자금의 조달계획이 실현가능성이 있을 것\n(2) 영 제5조제3항별표1 제1호라목 및 동별표 제5호다목의 요건\n사. 대주주등이 외국인인 개인인 경우\n(1) 추가출자예상자금의 조달계획이 실현가능성이 있을 것\n(2) 영 제5조제3항별표1 제1호라목의 요건\n아.대주주등이 「자본시장과 금융투자업에 관한 법률」에 따른 사모투자전문회사 또는 투자목적회사인 경우\n사모투자전문회사의 업무집행사원과 그 출자지분이 100분의 30 이상인 유한책임사원 및 사모투자전문회사를 사실상 지배하고 있는 유한책임사원이 나목부터 사목까지의 어느 하나에 해당하거나 투자목적회사의 주주나 사원인 사모투자전문회사의 업무집행사원과 그 출자지분이 100분의 30 이상인 주주나 사원 및 투자목적회사를 사실상 지배하고 있는 주주나 사원이 나목부터 사목까지의 어느 하나에 해당하는 경우에는 각각 나목부터 사목까지의 구분에 따른 요건을 충족할 것",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741109",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816811",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741103",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816805",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741109",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816811",
           "name": "",
           "file_store_url": ""
         }
@@ -11735,20 +11681,20 @@
       "kind": "별표",
       "title": "한도초과보유주주등의 초과보유요건 (제12조제1항 관련)",
       "enforcement_date": "",
-      "content": "<별표1-2>(전면개정 2009. 10. 9, 개정 2013. 9.17, 개정 2014. 2.10, 개정 2019. 1. 31)\n한도초과보유주주등의 초과보유요건 (제12조제1항 관련)\n???????????????????????????????????\n1. 영 제6조의3 별표2 제1호가목 관련(제7호에 따라 적용하는 경우를 포함한다)\n가. 은행인 경우 최근 분기말 현재 총자본비율이 100분의 8, 기본자본비율이 100분의 6 및 보통주자본비율이 100분의 4.5 이상일 것(개정 2013. 9.17)\n나. 투자매매업자ㆍ투자중개업자인 경우 최근 분기말 현재 순자본비율이 100%이상일 것(개정 2019. 1. 31)\n다. 보험회사인 경우 최근 분기말 현재 지급여력비율이 100%이상일 것\n라. 가목부터 다목까지 이외의 금융기관인 경우 당해 금융기관에 적용되는 재무건전성기준을 충족할 것\n2. 영 제6조의3 별표2 제1호나목 및 제2호나목ㆍ제3호ㆍ제4호라목ㆍ제5호나목 중 “제1호나목” 관련(제7호에 따라 적용하는 경우를 포함한다)\n다음 각 목의 어느 하나에 해당하는 자가 아닐 것\n가. 「신용정보의 이용 및 보호에 관한 법률」 제17조의 규정에 의한 종합신용정보집중기관에 금융질서 문란정보 거래처 또는 약정한 기일내에 채무를 변제하지 아니한 자로 등록되어 있는 자\n나. 「채무자 회생 및 파산에 관한 법률」에 따른 회생절차가 진행중인 기업체\n다. 「기업구조조정촉진법」에 의한 부실징후기업\n3. 영 제6조의3 별표2 제1호마목(1), 제2호나목ㆍ제3호ㆍ제4호라목ㆍ제5호나목ㆍ제6호마목중 “제1호마목” 관련(제7호에 따라 적용하는 경우를 포함한다)\n‘부실금융기관대주주의경제적책임부담기준’에 따라 경제적 책임부담의무를 이행 또는 면제받은 경우\n4. 영 제6조의3 별표2 제4호가목ㆍ나목 관련(제7호에 따라 적용하는 경우를 포함한다)\n부채비율이 200%이하일 것\n5. 영 제6조의3 별표2 제6호라목 관련(제7호에 따라 적용하는 경우를 포함한다)\n당해 외국의 금융감독기관이 정하는 재무건전성에 관한 기준을 충족하고, 국제적으로 인정받는 신용평가기관에 의한 신용평가등급이 투자적격이상일 것",
+      "content": "<별표1-2>(전면개정 2009. 10. 9, 개정 2013. 9.17, 개정 2014. 2.10, 개정 2019. 1. 31)\n한도초과보유주주등의 초과보유요건 (제12조제1항 관련)\n???????????????????????????????????\n1. 영 제6조의3 별표2 제1호가목 관련(제7호에 따라 적용하는 경우를 포함한다)\n가. 은행인 경우 최근 분기말 현재 총자본비율이 100분의 8, 기본자본비율이 100분의 6 및 보통주자본비율이 100분의 4.5 이상일 것(개정 2013. 9.17)\n나. 투자매매업자ㆍ투자중개업자인 경우 최근 분기말 현재 순자본비율이 100%이상일 것(개정 2019. 1. 31)\n다. 보험회사인 경우 최근 분기말 현재 지급여력비율이 100%이상일 것\n라. 가목부터 다목까지 이외의 금융기관인 경우 당해 금융기관에 적용되는 재무건전성기준을 충족할 것\n2. 영 제6조의3 별표2 제1호나목 및 제2호나목ㆍ제3호ㆍ제4호라목ㆍ제5호나목 중 \"제1호나목\" 관련(제7호에 따라 적용하는 경우를 포함한다)\n다음 각 목의 어느 하나에 해당하는 자가 아닐 것\n가. 「신용정보의 이용 및 보호에 관한 법률」 제17조의 규정에 의한 종합신용정보집중기관에 금융질서 문란정보 거래처 또는 약정한 기일내에 채무를 변제하지 아니한 자로 등록되어 있는 자\n나. 「채무자 회생 및 파산에 관한 법률」에 따른 회생절차가 진행중인 기업체\n다. 「기업구조조정촉진법」에 의한 부실징후기업\n3. 영 제6조의3 별표2 제1호마목(1), 제2호나목ㆍ제3호ㆍ제4호라목ㆍ제5호나목ㆍ제6호마목중 \"제1호마목\" 관련(제7호에 따라 적용하는 경우를 포함한다)\n‘부실금융기관대주주의경제적책임부담기준’에 따라 경제적 책임부담의무를 이행 또는 면제받은 경우\n4. 영 제6조의3 별표2 제4호가목ㆍ나목 관련(제7호에 따라 적용하는 경우를 포함한다)\n부채비율이 200%이하일 것\n5. 영 제6조의3 별표2 제6호라목 관련(제7호에 따라 적용하는 경우를 포함한다)\n당해 외국의 금융감독기관이 정하는 재무건전성에 관한 기준을 충족하고, 국제적으로 인정받는 신용평가기관에 의한 신용평가등급이 투자적격이상일 것",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0001&bylBrNo=02",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741115",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0001&bylBrNo=02",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816817",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741111",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816813",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741115",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816817",
           "name": "",
           "file_store_url": ""
         }
@@ -11768,18 +11714,18 @@
       "enforcement_date": "",
       "content": "<별표 1-3> (전면개정 2009. 10. 9, 개정 2013. 9.17, 개정 2015. 9. 7, 삭제 2016. 8. 1.)",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0001&bylBrNo=03",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741121",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0001&bylBrNo=03",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816943",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741117",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816939",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741121",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816943",
           "name": "",
           "file_store_url": ""
         }
@@ -11799,18 +11745,18 @@
       "enforcement_date": "",
       "content": "<별표1-4>(신설 2010. 3. 8, 개정 2015. 12. 29, 삭제 2016. 8. 1.)",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0001&bylBrNo=04",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741127",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0001&bylBrNo=04",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816949",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741123",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816945",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741127",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816949",
           "name": "",
           "file_store_url": ""
         }
@@ -11830,18 +11776,18 @@
       "enforcement_date": "",
       "content": "<별표 1-5> (신설 2010. 3. 8, 삭제 2016. 8. 1.)",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0001&bylBrNo=05",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741133",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0001&bylBrNo=05",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816955",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741129",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816951",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741133",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816955",
           "name": "",
           "file_store_url": ""
         }
@@ -11859,20 +11805,20 @@
       "kind": "별표",
       "title": "금융지주회사등의 공동광고 및 사무공간 등 시설의 공동사용기준(제24조 관련)",
       "enforcement_date": "",
-      "content": "<별표 1-6>(신설 2010. 3. 8, 개정 2014. 12. 1)\n금융지주회사등의 공동광고 및 사무공간 등 시설의 공동사용기준\n??????????????????????????????????\n(제24조 관련)\n금융지주회사 및 그 자회사등이 법 제48조제4항 및 영 제27조제9항에 따라 공동광고를 하거나 사무공간, 영업점, 전산시스템, 정보통신망, 전산자료, 저장장비, 전자적 장치 및 고객등의 전화에 응대하는 시설 등을 공동으로 사용하고자 하는 경우 다음 각 호의 기준을 준수하여야 한다.\n1. 공동광고를 하는 경우에는 다음 각 목의 사항을 광고문안에 표시하는 등 예금자(계약자) 또는 투자자가 혼동하지 않도록 하여야 한다.\n가. 자회사등이 예금자보호법상 부보금융기관인지 여부\n나. 별도의 법적인 계약이 없는 한 금융지주회사 또는 자회사등이 다른 자회사등의 채무를 보증하지 아니한다는 사실\n다. 다른 관련법령에서 표시의무를 부여하는 사항\n2. 사무공간 및 영업점을 공동사용하는 경우\n가. <삭제> (2014. 12. 1)\n나. 동일한 금융지주에 속하는 자회사등이 함께 사용하는 회의실, 상담실 등을 영업에 이용하는 경우에는 상호(영업소명 포함)의 별도 표기 등을 통해 고객이 서로 다른 별개의 회사가 공동으로 사용하는 공간임을 명확히 인식할 수 있도록 하여야 하며, 공동으로 사용하는 공간을 제외한 회사별 사무공간 등은 칸막이 설치 등을 통해 분리하고 사고 방지 등을 위한 보안시스템을 구축하여야 한다.\n다. <삭제> (2016. 7. 27)\n라. 고객에 대하여 각 회사가 별개의 법인이며, 각 회사가 제공하는 상품과 서비스는 영업점내 다른 회사가 제공하는 것이 아니라는 것과 책임이 각 회사에만 개별적으로 귀속된다는 것을 충분히 설명하여야 한다.\n마. 각 회사가 사무공간 및 영업점의 공동이용과 관련하여 영위하는 업무의 범위를 명확히 규정하여야 한다.\n바. <삭제> (2016. 7. 27)\n사. 고객정보의 제공이 법 제48조의2 등 법령에 따라 허용되거나 고객이 동의한 경우 외에는 동일한 사무공간 및 영업점 등을 사용하는 금융지주회사등 사이에 고객정보를 제공하거나 외부로 유출하는 행위를 하여서는 아니되며, 이를 위한 적절한 내부통제장치를 마련하여야 한다.\n아. 공동사용하는 사무공간 및 영업점 등에서 근무하는 각 금융회사 임직원의 역할(권한과 책임)을 명확히 구분하여야 하며, 각 금융회사의 업무를 모니터링할 수 있는 별도의 감독책임자를 지정하는 등 내부통제기준을 마련하여야 한다.\n3. 전산시스템, 정보통신망, 전산자료 저장장비, 전자적 장치를 공동사용하는 경우\n가. 다음의 모든 조치를 위한 적절한 방화벽을 설치하여야 한다.\n(1) 고객정보의 제공이 법 제48조의2 등 법령에 따라 허용되거나 고객이 동의한 경우 외에는 금융지주회사등 상호간 서로 다른 회사가 보유한 고객정보에 대한 접근을 금지\n(2) 법령 등에서 제한하는 경우에는 금융지주회사등 상호간 서로 다른 회사가 보유한 업무정보 등에 대한 접근을 금지\n(3) 전산시스템상 지휘?명령?보고라인의 분리\n나. <삭제> (2014. 12. 1)\n다. 관련법규 등에 따라 다른 회사의 정보에 대한 접근이 허용된 경우에는 권한이 부여된 자의 접근가능한 정보범위, 정보의 이용방법 등에 대한 세부기준 및 위반시 불이익 조치와 관련한 내부통제기준을 마련하여야 한다.\n라. 전산시스템 및 정보통신망 등의 공동사용으로 인하여 전자금융거래의 안정성 및 신뢰성이 훼손되지 않도록 전자금융업무 및 그 기반이 되는 정보기술부문에 대하여 자체 안전대책을 설정·운용하여야 한다.\n마. 전산시스템 및 정보통신망 등을 공동사용하는 금융지주회사등 외의 자에게 고객정보 등이 유출되지 않도록 보안대책을 마련하여야 한다.\n4. 고객 등의 전화에 응대하는 시설을 공동사용하는 경우\n제2호 및 제3호 각 목에 해당하는 기준을 모두 준수하여야 한다.\n5. <삭제> (2014. 12. 1)",
+      "content": "<별표 1-6>(신설 2010. 3. 8, 개정 2014. 12. 1)\n금융지주회사등의 공동광고 및 사무공간 등 시설의 공동사용기준\n??????????????????????????????????\n(제24조 관련)\n금융지주회사 및 그 자회사등이 법 제48조제4항 및 영 제27조제9항에 따라 공동광고를 하거나 사무공간, 영업점, 전산시스템, 정보통신망, 전산자료, 저장장비, 전자적 장치 및 고객등의 전화에 응대하는 시설 등을 공동으로 사용하고자 하는 경우 다음 각 호의 기준을 준수하여야 한다.\n1. 공동광고를 하는 경우에는 다음 각 목의 사항을 광고문안에 표시하는 등 예금자(계약자) 또는 투자자가 혼동하지 않도록 하여야 한다.\n가. 자회사등이 예금자보호법상 부보금융기관인지 여부\n나. 별도의 법적인 계약이 없는 한 금융지주회사 또는 자회사등이 다른 자회사등의 채무를 보증하지 아니한다는 사실\n다. 다른 관련법령에서 표시의무를 부여하는 사항\n2. 사무공간 및 영업점을 공동사용하는 경우\n가. <삭제> (2014. 12. 1)\n나. 동일한 금융지주에 속하는 자회사등이 함께 사용하는 회의실, 상담실 등을 영업에 이용하는 경우에는 상호(영업소명 포함)의 별도 표기 등을 통해 고객이 서로 다른 별개의 회사가 공동으로 사용하는 공간임을 명확히 인식할 수 있도록 하여야 하며, 공동으로 사용하는 공간을 제외한 회사별 사무공간 등은 칸막이 설치 등을 통해 분리하고 사고 방지 등을 위한 보안시스템을 구축하여야 한다.\n다. <삭제> (2016. 7. 27)\n라. 고객에 대하여 각 회사가 별개의 법인이며, 각 회사가 제공하는 상품과 서비스는 영업점내 다른 회사가 제공하는 것이 아니라는 것과 책임이 각 회사에만 개별적으로 귀속된다는 것을 충분히 설명하여야 한다.\n마. 각 회사가 사무공간 및 영업점의 공동이용과 관련하여 영위하는 업무의 범위를 명확히 규정하여야 한다.\n바. <삭제> (2016. 7. 27)\n사. 고객정보의 제공이 법 제48조의2 등 법령에 따라 허용되거나 고객이 동의한 경우 외에는 동일한 사무공간 및 영업점 등을 사용하는 금융지주회사등 사이에 고객정보를 제공하거나 외부로 유출하는 행위를 하여서는 아니되며, 이를 위한 적절한 내부통제장치를 마련하여야 한다.\n아. 공동사용하는 사무공간 및 영업점 등에서 근무하는 각 금융회사 임직원의 역할(권한과 책임)을 명확히 구분하여야 하며, 각 금융회사의 업무를 모니터링할 수 있는 별도의 감독책임자를 지정하는 등 내부통제기준을 마련하여야 한다.\n3. 전산시스템, 정보통신망, 전산자료 저장장비, 전자적 장치를 공동사용하는 경우\n가. 다음의 모든 조치를 위한 적절한 방화벽을 설치하여야 한다.\n(1) 고객정보의 제공이 법 제48조의2 등 법령에 따라 허용되거나 고객이 동의한 경우 외에는 금융지주회사등 상호간 서로 다른 회사가 보유한 고객정보에 대한 접근을 금지\n(2) 법령 등에서 제한하는 경우에는 금융지주회사등 상호간 서로 다른 회사가 보유한 업무정보 등에 대한 접근을 금지\n(3) 전산시스템상 지휘ㆍ명령ㆍ보고라인의 분리\n나. <삭제> (2014. 12. 1)\n다. 관련법규 등에 따라 다른 회사의 정보에 대한 접근이 허용된 경우에는 권한이 부여된 자의 접근가능한 정보범위, 정보의 이용방법 등에 대한 세부기준 및 위반시 불이익 조치와 관련한 내부통제기준을 마련하여야 한다.\n라. 전산시스템 및 정보통신망 등의 공동사용으로 인하여 전자금융거래의 안정성 및 신뢰성이 훼손되지 않도록 전자금융업무 및 그 기반이 되는 정보기술부문에 대하여 자체 안전대책을 설정ㆍ운용하여야 한다.\n마. 전산시스템 및 정보통신망 등을 공동사용하는 금융지주회사등 외의 자에게 고객정보 등이 유출되지 않도록 보안대책을 마련하여야 한다.\n4. 고객 등의 전화에 응대하는 시설을 공동사용하는 경우\n제2호 및 제3호 각 목에 해당하는 기준을 모두 준수하여야 한다.\n5. <삭제> (2014. 12. 1)",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0001&bylBrNo=06",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741141",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0001&bylBrNo=06",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816963",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741135",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816957",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741141",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816963",
           "name": "",
           "file_store_url": ""
         }
@@ -11890,20 +11836,20 @@
       "kind": "별표",
       "title": "금융지주회사 인가시 사업계획 관련 심사기준(제10조제7항 관련)",
       "enforcement_date": "",
-      "content": "<별표 1-7>(신설 2011. 3. 2)\n금융지주회사 인가시 사업계획 관련 심사기준\n????????????????????????\n(제10조제7항 관련)\n1. 경영목표나 경쟁상황 등을 종합적으로 고려한 경영전략이 마련되어 있을 것\n2. 사업계획이 객관적인 자료를 근거로 추정이 이루어졌으며, 시장상황에 비추어 타당성이 있을 것\n\n3. 사업계획을 고려하여 추정재무제표가 작성되었으며, 추정 영업손익?영업비용의 증감에 있어 일관성이 유지되고 합리적인 설명이 가능할 것\n4. 주력자회사(제35조제5항에 따른 주력자회사를 말한다)에 대한 효율적 경영관리와 충분한 지배력 행사가 가능할 것",
+      "content": "<별표 1-7>(신설 2011. 3. 2)\n금융지주회사 인가시 사업계획 관련 심사기준\n????????????????????????\n(제10조제7항 관련)\n1. 경영목표나 경쟁상황 등을 종합적으로 고려한 경영전략이 마련되어 있을 것\n2. 사업계획이 객관적인 자료를 근거로 추정이 이루어졌으며, 시장상황에 비추어 타당성이 있을 것\n\n3. 사업계획을 고려하여 추정재무제표가 작성되었으며, 추정 영업손익ㆍ영업비용의 증감에 있어 일관성이 유지되고 합리적인 설명이 가능할 것\n4. 주력자회사(제35조제5항에 따른 주력자회사를 말한다)에 대한 효율적 경영관리와 충분한 지배력 행사가 가능할 것",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0001&bylBrNo=07",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741147",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0001&bylBrNo=07",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816969",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741143",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816965",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741147",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816969",
           "name": "",
           "file_store_url": ""
         }
@@ -11921,20 +11867,20 @@
       "kind": "별표",
       "title": "자산건전성 분류기준",
       "enforcement_date": "",
-      "content": "<별표 2>\n자산건전성 분류기준\n????????????\n1. 자산건전성 분류단계별 정의\n가. 정상 : 경영내용, 재무상태 및 미래현금흐름 등을 감안할 때 채무상환능력이 양호하여 채권회수에 문제가 없는 것으로 판단되는 거래처(정상거래처)에 대한 자산\n나. 요주의 : 다음 각호의 1에 해당하는 자산\n① 경영내용, 재무상태 및 미래현금흐름 등을 감안할 때 채권회수에 즉각적인 위험이 발생하지는 않았으나 향후 채무상환능력의 저하를 초래할 수 있는 잠재적인 요인이 존재하는 것으로 판단되는 거래처(요주의거래처)에 대한 자산\n② 1월 이상 3월 미만 연체대출금을 보유하고 있는 거래처에 대한 자산\n다. 고정 : 다음 각호의 1에 해당하는 자산\n① 경영내용, 재무상태 및 미래현금흐름 등을 감안할 때 채무상환능력의 저하를 초래할 수 있는 요인이 현재화되어 채권회수에 상당한 위험이 발생한 것으로 판단되는 거래처(고정거래처)에 대한 자산\n② 3월 이상 연체대출금을 보유하고 있는 거래처에 대한 자산중 회수예상가액 해당부분\n③ 최종부도 발생, 청산?파산절차 진행 또는 폐업 등의 사유로 채권회수에 심각한 위험이 존재하는 것으로 판단되는 거래처에 대한 자산중 회수예상가액 해당부분\n④ “회수의문거래처” 및 “추정손실거래처”에 대한 자산중 회수예상가액 해당부분\n라. 회수의문 : 다음 각호의 1에 해당하는 자산\n① 경영내용, 재무상태 및 미래현금흐름 등을 감안할 때 채무상환능력이 현저히 악화되어 채권회수에 심각한 위험이 발생한 것으로 판단되는 거래처(회수의문거래처)에 대한 자산중 회수예상가액 초과부분\n② 3월 이상 12월 미만 연체대출금을 보유하고 있는 거래처에 대한 자산중 회수예상가액 초과부분\n마. 추정손실 : 다음 각호의 1에 해당하는 자산\n① 경영내용, 재무상태 및 미래현금흐름 등을 감안할 때 채무상환능력의 심각한 악화로 회수불능이 확실하여 손실처리가 불가피한 것으로 판단되는 거래처(추정손실거래처)에 대한 자산중 회수예상가액 초과부분\n② 12월 이상 연체대출금을 보유하고 있는 거래처에 대한 자산중 회수예상가액 초과부분\n③ 최종부도 발생, 청산?파산절차 진행 또는 폐업 등의 사유로 채권회수에 심각한 위험이 존재하는 것으로 판단되는 거래처에 대한 자산중 회수예상가액 초과부분\n2. 건전성 분류의 일반원칙\n(건전성분류의 원칙)\n가. 금융지주회사는 거래처의 채무상환능력과 연체기간, 부도여부 등을 종합적으로 고려하여 건전성을 분류한다.\n나. 여신규모 또는 자산규모가 작은 거래처에 대하여는 채무상환능력 평가를 생략하고 연체기간, 부도여부 등을 기준으로 건전성을 분류할 수 있다.\n(신용평가모형 설정?운용)\n다. 금융지주회사는 거래처의 채무상환능력 평가를 위한 신용평가모형(이하 “신용평가모형”이라 한다)을 설정?운영한다.\n라. 금융지주회사는 거래처의 구성(업종별, 기업규모별 등), 여신포트폴리오 등을 감안하여 채무상환능력 평가대상 거래처의 범위, 전체여신중 평가대상 여신의 비중 등을 합리적으로 결정한다.\n마. 금융지주회사는 채무상환능력 평가의 정확성 제고를 위하여 거래기업의 경영내용, 재무상태, 미래현금흐름 등에 관한 제반 정보 및 자료를 정기적으로 확보하여 유지?관리한다.\n(여신건별 건전성분류 조정)\n바. 동일 거래처에 대한 총여신은 동일하게 건전성을 분류하는 것이 원칙이나, 다음과 같은 경우에는 거래처에 대한 총여신과 구분하여 건전성 분류를 조정할 수 있다.\n① 보증부 여신은 거래처뿐만 아니라 보증인의 채무상환능력을 평가하여 건전성을 분류할 수 있다. 이 경우 보증인의 보증채무 이행능력, 회수가능성의 제약여부 등을 충분히 고려하여야 한다.\n② 대한민국 정부 및 지방자치단체, 정부투자기관이 보증한 여신은 거래처에 대한 건전성 분류내용에도 불구하고 “정상”으로 분류할 수 있다.\n③ 원리금 회수가 확실시되는 예?적금 담보대출, 국공채 및 통화안정증권 담보대출과 정상적인 자금결제가 확실시되는 상업어음할인은 거래처에 대한 건전성 분류내용에도 불구하고 “정상”으로 분류할 수 있다.\n④ 매입외환은 지급인 또는 보증인의 신용도 등을 고려하여 필요하다고 인정되는 경우 거래처에 대한 총여신과 구분하여 건전성 분류를 할 수 있다.\n(기  타)\n사. 비거주자인 거래처에 대한 여신의 경우에는 해당기업의 채무상환능력외에 해당기업 소재국의 국가위험을 감안하여 건전성을 분류하며, 외국정부?국제금융기구에 대한 여신 또는 외국정부?국제금융기구가 보증한 여신의 경우에는 해당 외국정부?국제금융기구의 신용도를 감안하여 건전성을 분류한다.\n아. 최종부도가 발생한 이후 법원으로부터 회사정리법에 의한 회사정리 개시결정 또는 화의법에 의한 화의개시결정을 받은 거래처에 대한 총여신중 회수예상가액 초과부분은 채권재조정이 이루어질 때까지 “회수의문”으로 분류할 수 있다.\n3. 유가증권의 건전성 분류\n가. 금융지주회사는 신용평가모형에 의한 발행기업의 신용등급에 따라 유가증권의 건전성을 분류하며, 발행기업에 대한 신용등급을 산출하지 않은 경우에는 국내외 신용평가기관의 최근 유가증권 신용등급에 따라 건전성을 분류할 수 있다.\n나. 보증부 유가증권은 발행기업 뿐만 아니라 보증인의 채무상환능력을 평가하여 건전성을 분류할 수 있으나, 이 경우 보증인의 보증채무 이행능력, 회수가능성의 제약여부 등을 충분히 고려하여야 한다.\n다. 대한민국 정부 및 지방자치단체, 정부투자기관이 보증한 유가증권은 발행기업에 대한 신용등급에 불구하고 “정상”으로 분류할 수 있다.\n라. 비거주자인 기업이 발행한 유가증권의 경우에는 해당기업 소재국의 국가위험을 감안하여 건전성을 분류하며, 외국정부?국제금융기구가 발행한 유가증권 또는 외국정부?국제금융기구가 보증한 유가증권의 경우에는 해당 외국정부?국제금융기구에 대한 신용평가기관의 신용등급에 따라 건전성을 분류한다.\n4. 회수예상가액 산정\n가. 금융지주회사는 “고정”이하 분류여신에 대하여 담보물의 적정한 회수예상가액을 산정하기 위한 기준을 설정?운영한다.\n나. 회수예상가액은 담보물 처분시 실제 회수 가능한 공정가치를 기준으로 산정 하되, 담보물 처분에 부대 되는 비용을 차감한다.",
+      "content": "<별표 2>\n자산건전성 분류기준\n????????????\n1. 자산건전성 분류단계별 정의\n가. 정상 : 경영내용, 재무상태 및 미래현금흐름 등을 감안할 때 채무상환능력이 양호하여 채권회수에 문제가 없는 것으로 판단되는 거래처(정상거래처)에 대한 자산\n나. 요주의 : 다음 각호의 1에 해당하는 자산\n① 경영내용, 재무상태 및 미래현금흐름 등을 감안할 때 채권회수에 즉각적인 위험이 발생하지는 않았으나 향후 채무상환능력의 저하를 초래할 수 있는 잠재적인 요인이 존재하는 것으로 판단되는 거래처(요주의거래처)에 대한 자산\n② 1월 이상 3월 미만 연체대출금을 보유하고 있는 거래처에 대한 자산\n다. 고정 : 다음 각호의 1에 해당하는 자산\n① 경영내용, 재무상태 및 미래현금흐름 등을 감안할 때 채무상환능력의 저하를 초래할 수 있는 요인이 현재화되어 채권회수에 상당한 위험이 발생한 것으로 판단되는 거래처(고정거래처)에 대한 자산\n② 3월 이상 연체대출금을 보유하고 있는 거래처에 대한 자산중 회수예상가액 해당부분\n③ 최종부도 발생, 청산ㆍ파산절차 진행 또는 폐업 등의 사유로 채권회수에 심각한 위험이 존재하는 것으로 판단되는 거래처에 대한 자산중 회수예상가액 해당부분\n④ \"회수의문거래처\" 및 \"추정손실거래처\"에 대한 자산중 회수예상가액 해당부분\n라. 회수의문 : 다음 각호의 1에 해당하는 자산\n① 경영내용, 재무상태 및 미래현금흐름 등을 감안할 때 채무상환능력이 현저히 악화되어 채권회수에 심각한 위험이 발생한 것으로 판단되는 거래처(회수의문거래처)에 대한 자산중 회수예상가액 초과부분\n② 3월 이상 12월 미만 연체대출금을 보유하고 있는 거래처에 대한 자산중 회수예상가액 초과부분\n마. 추정손실 : 다음 각호의 1에 해당하는 자산\n① 경영내용, 재무상태 및 미래현금흐름 등을 감안할 때 채무상환능력의 심각한 악화로 회수불능이 확실하여 손실처리가 불가피한 것으로 판단되는 거래처(추정손실거래처)에 대한 자산중 회수예상가액 초과부분\n② 12월 이상 연체대출금을 보유하고 있는 거래처에 대한 자산중 회수예상가액 초과부분\n③ 최종부도 발생, 청산ㆍ파산절차 진행 또는 폐업 등의 사유로 채권회수에 심각한 위험이 존재하는 것으로 판단되는 거래처에 대한 자산중 회수예상가액 초과부분\n2. 건전성 분류의 일반원칙\n(건전성분류의 원칙)\n가. 금융지주회사는 거래처의 채무상환능력과 연체기간, 부도여부 등을 종합적으로 고려하여 건전성을 분류한다.\n나. 여신규모 또는 자산규모가 작은 거래처에 대하여는 채무상환능력 평가를 생략하고 연체기간, 부도여부 등을 기준으로 건전성을 분류할 수 있다.\n(신용평가모형 설정ㆍ운용)\n다. 금융지주회사는 거래처의 채무상환능력 평가를 위한 신용평가모형(이하 \"신용평가모형\"이라 한다)을 설정ㆍ운영한다.\n라. 금융지주회사는 거래처의 구성(업종별, 기업규모별 등), 여신포트폴리오 등을 감안하여 채무상환능력 평가대상 거래처의 범위, 전체여신중 평가대상 여신의 비중 등을 합리적으로 결정한다.\n마. 금융지주회사는 채무상환능력 평가의 정확성 제고를 위하여 거래기업의 경영내용, 재무상태, 미래현금흐름 등에 관한 제반 정보 및 자료를 정기적으로 확보하여 유지ㆍ관리한다.\n(여신건별 건전성분류 조정)\n바. 동일 거래처에 대한 총여신은 동일하게 건전성을 분류하는 것이 원칙이나, 다음과 같은 경우에는 거래처에 대한 총여신과 구분하여 건전성 분류를 조정할 수 있다.\n① 보증부 여신은 거래처뿐만 아니라 보증인의 채무상환능력을 평가하여 건전성을 분류할 수 있다. 이 경우 보증인의 보증채무 이행능력, 회수가능성의 제약여부 등을 충분히 고려하여야 한다.\n② 대한민국 정부 및 지방자치단체, 정부투자기관이 보증한 여신은 거래처에 대한 건전성 분류내용에도 불구하고 \"정상\"으로 분류할 수 있다.\n③ 원리금 회수가 확실시되는 예ㆍ적금 담보대출, 국공채 및 통화안정증권 담보대출과 정상적인 자금결제가 확실시되는 상업어음할인은 거래처에 대한 건전성 분류내용에도 불구하고 \"정상\"으로 분류할 수 있다.\n④ 매입외환은 지급인 또는 보증인의 신용도 등을 고려하여 필요하다고 인정되는 경우 거래처에 대한 총여신과 구분하여 건전성 분류를 할 수 있다.\n(기  타)\n사. 비거주자인 거래처에 대한 여신의 경우에는 해당기업의 채무상환능력외에 해당기업 소재국의 국가위험을 감안하여 건전성을 분류하며, 외국정부ㆍ국제금융기구에 대한 여신 또는 외국정부ㆍ국제금융기구가 보증한 여신의 경우에는 해당 외국정부ㆍ국제금융기구의 신용도를 감안하여 건전성을 분류한다.\n아. 최종부도가 발생한 이후 법원으로부터 회사정리법에 의한 회사정리 개시결정 또는 화의법에 의한 화의개시결정을 받은 거래처에 대한 총여신중 회수예상가액 초과부분은 채권재조정이 이루어질 때까지 \"회수의문\"으로 분류할 수 있다.\n3. 유가증권의 건전성 분류\n가. 금융지주회사는 신용평가모형에 의한 발행기업의 신용등급에 따라 유가증권의 건전성을 분류하며, 발행기업에 대한 신용등급을 산출하지 않은 경우에는 국내외 신용평가기관의 최근 유가증권 신용등급에 따라 건전성을 분류할 수 있다.\n나. 보증부 유가증권은 발행기업 뿐만 아니라 보증인의 채무상환능력을 평가하여 건전성을 분류할 수 있으나, 이 경우 보증인의 보증채무 이행능력, 회수가능성의 제약여부 등을 충분히 고려하여야 한다.\n다. 대한민국 정부 및 지방자치단체, 정부투자기관이 보증한 유가증권은 발행기업에 대한 신용등급에 불구하고 \"정상\"으로 분류할 수 있다.\n라. 비거주자인 기업이 발행한 유가증권의 경우에는 해당기업 소재국의 국가위험을 감안하여 건전성을 분류하며, 외국정부ㆍ국제금융기구가 발행한 유가증권 또는 외국정부ㆍ국제금융기구가 보증한 유가증권의 경우에는 해당 외국정부ㆍ국제금융기구에 대한 신용평가기관의 신용등급에 따라 건전성을 분류한다.\n4. 회수예상가액 산정\n가. 금융지주회사는 \"고정\"이하 분류여신에 대하여 담보물의 적정한 회수예상가액을 산정하기 위한 기준을 설정ㆍ운영한다.\n나. 회수예상가액은 담보물 처분시 실제 회수 가능한 공정가치를 기준으로 산정 하되, 담보물 처분에 부대 되는 비용을 차감한다.",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741155",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816977",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741149",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816971",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741155",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816977",
           "name": "",
           "file_store_url": ""
         }
@@ -11954,18 +11900,18 @@
       "enforcement_date": "",
       "content": "<별표 3>\n최소 준수비율\n(제25조 제1항 관련)\n1. 2013년 12월 1일 이후\n┌────────┬──────┬──────┐\n│보통주 자본비율 │기본자본비율│총자본 비율 │\n├────────┼──────┼──────┤\n│3.5%            │4.5%        │8.0%        │\n└────────┴──────┴──────┘\n2. 2014년 1월 1일 이후\n┌────────┬──────┬──────┐\n│보통주 자본비율 │기본자본비율│총자본 비율 │\n├────────┼──────┼──────┤\n│4.0%            │5.5%        │8.0%        │\n└────────┴──────┴──────┘\n3. 2015년 1월 1일 이후\n┌────────┬──────┬──────┐\n│보통주 자본비율 │기본자본비율│총자본 비율 │\n├────────┼──────┼──────┤\n│4.5%            │6.0%        │8.0%        │\n└────────┴──────┴──────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741161",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816983",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741157",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816979",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741161",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816983",
           "name": "",
           "file_store_url": ""
         }
@@ -11985,18 +11931,18 @@
       "enforcement_date": "",
       "content": "<별표 3-2>(신설 2015.12.23.)(개정 2021.6.24.)\n자본보전완충자본 등을 포함한 자본비율(제25조제1항 관련)\n┌──────────┬───────┬───────┬───────┐\n│                    │보통주자본비율│기본자본비율  │총자본비율    │\n├──────────┼───────┴───────┴───────┤\n│2015년 이전         │없음                                          │\n├──────────┼───────┬───────┬───────┤\n│2016년 1월 1일 이후 │5.125% + K/4  │6.625% + K/4  │8.625% + K/4  │\n├──────────┼───────┼───────┼───────┤\n│2017년 1월 1일 이후 │5.75% + K/2   │7.25% + K/2   │9.25% + K/2   │\n├──────────┼───────┼───────┼───────┤\n│2018년 1월 1일 이후 │6.375% + K*3/4│7.875% + K*3/4│9.875% + K*3/4│\n├──────────┼───────┼───────┼───────┤\n│2019년 1월 1일 이후 │7.0% + K      │8.5% + K      │10.5% + K     │\n└──────────┴───────┴───────┴───────┘\n* K : 제25조의2제3항에 따른 금융체계상 중요한 은행지주회사 추가자본과 제25조의3제1항 및 제3항에 따른 경기대응완충자본의 합",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0003&bylBrNo=02",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741167",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0003&bylBrNo=02",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816989",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741163",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816985",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741167",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816989",
           "name": "",
           "file_store_url": ""
         }
@@ -12016,18 +11962,18 @@
       "enforcement_date": "",
       "content": "<별표 3-3>(신설 2015.12.23.)(개정 2021.6.24.)\n이익 배당 등의 최저 내부유보비율(제25조 제5항 관련)\n1. 2015년 이전 : 없음\n2. 2016년 1월 1일 이후\n(단위 : %)\n┌─────────┬─────────┬─────────┬─────────┬────────┬────────┐\n│보통주비율        │4.65625 + K/4 미만│4.8125 + K/4 미만 │4.96875 + K/4 미만│5.125 + K/4 미만│5.125 + K/4 이상│\n│                  │                  │                  │                  │                │                │\n│또는 기본자본비율 │6.15625 + K/4 미만│6.3125 + K/4 미만 │6.46875 + K/4 미만│6.625 + K/4 미만│6.625 + K/4 이상│\n│                  │                  │                  │                  │                │                │\n│또는 총자본비율   │8.15625 + K/4 미만│8.3125 + K/4 미만 │8.46875 + K/4 미만│8.625 + K/4 미만│8.625 + K/4 이상│\n┝━━━━━━━━━┿━━━━━━━━━┿━━━━━━━━━┿━━━━━━━━━┿━━━━━━━━┿━━━━━━━━┥\n│최저 내부유보비율 │100%              │80%               │60%               │40%             │0%              │\n└─────────┴─────────┴─────────┴─────────┴────────┴────────┘\n* 내부유보비율 : 최직근 회계연도 연결감사보고서상 연결당기순이익(지배주주 지분 해당액)에서 대손준비금(지배주주 지분 해당액) 차감 후 금액 대비 내부유보 비중(이하 동일)\n** K : 제25조의2제3항에 따른 금융체계상 중요한 은행지주회사 추가자본과 제25조의3제1항 및 제3항에 따른 경기대응완충자본의 합(이하 동일)\n3. 2017년 1월 1일 이후\n(단위 : %)\n┌─────────┬─────────┬────────┬───────┬────────┬────────┐\n│보통주비율        │4.8125 + K/2 미만 │5.125 + K/2 미만│5.4375 + K/2  │5.75 + K/2 미만 │5.75 + K/2 이상 │\n│                  │                  │                │미만          │                │                │\n│                  │                  │                │              │                │                │\n│또는 기본자본비율 │6.3125 + K/2 미만 │6.625 + K/2 미만│6.9375 + K/2  │7.25 + K/2 미만 │7.25 + K/2 이상 │\n│                  │                  │                │미만          │                │                │\n│                  │                  │                │              │                │                │\n│또는 총자본비율   │8.3125 + K/2 미만 │8.625 + K/2 미만│8.9375 + K/2  │9.25 + K/2 미만 │9.25 + K/2 이상 │\n│                  │                  │                │미만          │                │                │\n┝━━━━━━━━━┿━━━━━━━━━┿━━━━━━━━┿━━━━━━━┿━━━━━━━━┿━━━━━━━━┥\n│최저 내부유보비율 │100%              │80%             │60%           │40%             │0%              │\n└─────────┴─────────┴────────┴───────┴────────┴────────┘\n4. 2018년 1월 1일 이후\n(단위 : %)\n┌─────────┬────────┬────────┬────────┬───────┬───────┐\n│보통주비율        │4.96875 + K*3/4 │5.4375 + K*3/4  │5.90625 + K*3/4 │6.375 + K*3/4 │6.375 + K*3/4 │\n│                  │미만            │미만            │미만            │미만          │이상          │\n│                  │                │                │                │              │              │\n│또는 기본자본비율 │6.46875 + K*3/4 │6.9375 + K*3/4  │7.40625 + K*3/4 │7.875 + K*3/4 │7.875 + K*3/4 │\n│                  │미만            │미만            │미만            │미만          │이상          │\n│                  │                │                │                │              │              │\n│또는 총자본비율   │8.46875 + K*3/4 │8.9375 + K*3/4  │9.40625 + K*3/4 │9.875 + K*3/4 │9.875 + K*3/4 │\n│                  │미만            │미만            │미만            │미만          │이상          │\n┝━━━━━━━━━┿━━━━━━━━┿━━━━━━━━┿━━━━━━━━┿━━━━━━━┿━━━━━━━┥\n│최저 내부유보비율 │100%            │80%             │60%             │40%           │0%            │\n└─────────┴────────┴────────┴────────┴───────┴───────┘\n5. 2019년 1월 1일 이후\n(단위 : %)\n┌─────────┬───────┬───────┬───────┬───────┬───────┐\n│보통주비율        │5.125 + K 미만│5.75 + K 미만 │6.375 + K 미만│7 + K 미만    │7 + K 이상    │\n│                  │              │              │              │              │              │\n│또는 기본자본비율 │6.625 + K 미만│7.25 + K 미만 │7.875 + K 미만│8.5 + K 미만  │8.5 + K 이상  │\n│                  │              │              │              │              │              │\n│또는 총자본비율   │8.625 + K 미만│9.25 + K 미만 │9.875 + K 미만│10.5 + K 미만 │10.5 + K 이상 │\n┝━━━━━━━━━┿━━━━━━━┿━━━━━━━┿━━━━━━━┿━━━━━━━┿━━━━━━━┥\n│최저 내부유보비율 │100%          │80%           │60%           │40%           │0%            │\n└─────────┴───────┴───────┴───────┴───────┴───────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0003&bylBrNo=03",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741175",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0003&bylBrNo=03",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816997",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741169",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816991",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741175",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816997",
           "name": "",
           "file_store_url": ""
         }
@@ -12047,18 +11993,18 @@
       "enforcement_date": "",
       "content": "<별표 3-4>(신설 2015.12.23.)(개정 2021.6.24.)\n금융체계상 중요도 평가점수에 따른 금융체계상 중요한 은행지주회사 추가자본(제25조의2제3항 관련)\n┌──────────┬────────────────────┐\n│금융체계상 중요도   │금융체계상 중요한 은행지주회사 추가자본 │\n│평가 점수           │(위험가중자산 대비 보통주자본 비율)     │\n├──────────┼────────────────────┤\n│600 미만            │0.0%                                    │\n├──────────┼────────────────────┤\n│600 이상 1400 미만  │1.0%                                    │\n├──────────┼────────────────────┤\n│1400 이상           │2.0%                                    │\n└──────────┴────────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0003&bylBrNo=04",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741181",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0003&bylBrNo=04",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169817003",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741177",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169816999",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741181",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169817003",
           "name": "",
           "file_store_url": ""
         }
@@ -12078,18 +12024,18 @@
       "enforcement_date": "",
       "content": "<별표 3-5>(신설 2015.12.23.) (개정 2019.5.21.)\n제25조의4제1항이 적용되는 은행지주회사에 적용하는 자본보전완충자본 등을 포함한 자본비율 및 이익 배당 등의 최저 내부유보비율(제25조의4제1항제3호 관련)\n\n1. 자본보전완충자본 등을 포함한 자본비율\n┌───────────────┬───────┬───────┬───────┐\n│                              │보통주자본비율│기본자본비율  │총자본비율    │\n├───────────────┼───────┴───────┴───────┤\n│은행지주회사가 지배하는       │없음                                          │\n│인터넷전문은행의              │                                              │\n│영업개시일(이하               │                                              │\n│\"영업개시일\"이라 한다)로부터  │                                              │\n│2년이 경과한 날을 포함하는    │                                              │\n│회계연도까지                  │                                              │\n├───────────────┼───────┬───────┬───────┤\n│영업개시일로부터 3년이 경과한 │5.125% + K/4  │6.625% + K/4  │8.625% + K/4  │\n│날을 포함하는 회계연도        │              │              │              │\n├───────────────┼───────┼───────┼───────┤\n│영업개시일로부터 4년이 경과한 │5.75% + K/2   │7.25% + K/2   │9.25% + K/2   │\n│날을 포함하는 회계연도        │              │              │              │\n├───────────────┼───────┼───────┼───────┤\n│영업개시일로부터 5년이 경과한 │6.375% + K*3/4│7.875% + K*3/4│9.875% + K*3/4│\n│날을 포함하는 회계연도        │              │              │              │\n├───────────────┼───────┼───────┼───────┤\n│영업개시일로부터 6년이 경과한 │7.0% + K      │8.5% + K      │10.5% + K     │\n│날을 포함하는 회계연도부터    │              │              │              │\n└───────────────┴───────┴───────┴───────┘\n* K : 제25조의2제3항에 따른 시스템적 중요 은행지주회사 추가자본과 제25조의3제1항 및 제3항에 따른 경기대응완충자본의 합(이하 동일)\n2. 이익 배당 등의 최저 내부유보비율\n가. 영업개시일로부터 2년이 경과한 날을 포함하는 회계연도까지 : 없음\n나. 영업개시일로부터 3년이 경과한 날을 포함하는 회계연도\n(단위 : %)\n┌─────────┬───────┬─────────┬───────┬────────┬────────┐\n│보통주비율        │4.65625 + K/4 │4.8125 + K/4 미만 │4.96875 + K/4 │5.125 + K/4 미만│5.125 + K/4 이상│\n│                  │미만          │                  │미만          │                │                │\n│                  │              │                  │              │                │                │\n│또는 기본자본비율 │6.15625 + K/4 │6.3125 + K/4 미만 │6.46875 + K/4 │6.625 + K/4 미만│6.625 + K/4 이상│\n│                  │미만          │                  │미만          │                │                │\n│                  │              │                  │              │                │                │\n│또는 총자본비율   │8.15625 + K/4 │8.3125 + K/4 미만 │8.46875 + K/4 │8.625 + K/4 미만│8.625 + K/4 이상│\n│                  │미만          │                  │미만          │                │                │\n┝━━━━━━━━━┿━━━━━━━┿━━━━━━━━━┿━━━━━━━┿━━━━━━━━┿━━━━━━━━┥\n│최저 내부유보비율 │100%          │80%               │60%           │40%             │0%              │\n└─────────┴───────┴─────────┴───────┴────────┴────────┘\n* 내부유보비율 : 최직근 회계연도 연결감사보고서상 연결당기순이익(지배주주 지분 해당액)에서 대손준비금(지배주주 지분 해당액) 차감 후 금액 대비 내부유보 비중(이하 동일)\n다. 영업개시일로부터 4년이 경과한 날을 포함하는 회계연도\n(단위 : %)\n┌─────────┬───────┬──────┬───────┬──────┬──────┐\n│보통주비율        │4.8125 + K/2  │5.125 + K/2 │5.4375 + K/2  │5.75 + K/2  │5.75 + K/2  │\n│                  │미만          │미만        │미만          │미만        │이상        │\n│                  │              │            │              │            │            │\n│또는 기본자본비율 │6.3125 + K/2  │6.625 + K/2 │6.9375 + K/2  │7.25 + K/2  │7.25 + K/2  │\n│                  │미만          │미만        │미만          │미만        │이상        │\n│                  │              │            │              │            │            │\n│또는 총자본비율   │8.3125 + K/2  │8.625 + K/2 │8.9375 + K/2  │9.25 + K/2  │9.25 + K/2  │\n│                  │미만          │미만        │미만          │미만        │이상        │\n┝━━━━━━━━━┿━━━━━━━┿━━━━━━┿━━━━━━━┿━━━━━━┿━━━━━━┥\n│최저 내부유보비율 │100%          │80%         │60%           │40%         │0%          │\n└─────────┴───────┴──────┴───────┴──────┴──────┘\n라. 영업개시일로부터 5년이 경과한 날을 포함하는 회계연도\n(단위 : %)\n┌─────────┬─────┬─────┬─────┬─────┬─────┐\n│보통주비율        │4.96875 + │5.4375 +  │5.90625 + │6.375 +   │6.375 +   │\n│                  │K*3/4 미만│K*3/4 미만│K*3/4 미만│K*3/4 미만│K*3/4 이상│\n│                  │          │          │          │          │          │\n│또는 기본자본비율 │6.46875 + │6.9375 +  │7.40625 + │7.875 +   │7.875 +   │\n│                  │K*3/4 미만│K*3/4 미만│K*3/4 미만│K*3/4 미만│K*3/4 이상│\n│                  │          │          │          │          │          │\n│또는 총자본비율   │8.46875 + │8.9375 +  │9.40625 + │9.875 +   │9.875 +   │\n│                  │K*3/4 미만│K*3/4 미만│K*3/4 미만│K*3/4 미만│K*3/4 이상│\n┝━━━━━━━━━┿━━━━━┿━━━━━┿━━━━━┿━━━━━┿━━━━━┥\n│최저 내부유보비율 │100%      │80%       │60%       │40%       │0%        │\n└─────────┴─────┴─────┴─────┴─────┴─────┘\n마. 영업개시일로부터 6년이 경과한 날을 포함하는 회계연도부터\n(단위 : %)\n┌─────────┬─────┬─────┬─────┬─────┬─────┐\n│보통주비율        │5.125 + K │5.75 + K  │6.375 + K │7 + K 미만│7 + K 이상│\n│                  │미만      │미만      │미만      │          │          │\n│                  │          │          │          │          │          │\n│또는 기본자본비율 │6.625 + K │7.25 + K  │7.875 + K │8.5 + K   │8.5 + K   │\n│                  │미만      │미만      │미만      │미만      │이상      │\n│                  │          │          │          │          │          │\n│또는 총자본비율   │8.625 + K │9.25 + K  │9.875 + K │10.5 + K  │10.5 + K  │\n│                  │미만      │미만      │미만      │미만      │이상      │\n┝━━━━━━━━━┿━━━━━┿━━━━━┿━━━━━┿━━━━━┿━━━━━┥\n│최저 내부유보비율 │100%      │80%       │60%       │40%       │0%        │\n└─────────┴─────┴─────┴─────┴─────┴─────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0003&bylBrNo=05",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741189",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0003&bylBrNo=05",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169817011",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741183",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169817005",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741189",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169817011",
           "name": "",
           "file_store_url": ""
         }
@@ -12109,18 +12055,18 @@
       "enforcement_date": "",
       "content": "<별표 4> <신설 2021.6.24>\n자체정상화계획 작성기준\n(제25조의5 관련)\n1. 자체정상화계획에 관한 이사회 및 임원 등의 권한과 책임\n가. 자체정상화계획의 작성, 지속적인 관리 및 실행 등과 관련한 이사회 및 임원 등의 책임과 역할을 포함해야 한다.\n나.경영 위기상황에 대한 판단지표(이하 ‘발동지표’라고 한다.)에 관한 상시적인 보고체계를 마련하고, 발동지표별로 책임자를 선정해야 한다.\n다.경영 위기상황을 극복하기 위한 구체적인 수단(이하 ‘자체정상화수단’이라 한다.)의 발동 여부, 실행할 자체정상화수단의 결정 및 신속한 실행을 위한 의사결정체계 등 지배구조를 구축해야 한다.\n2. 핵심기능 및 핵심사업\n가. 금융체계상 중요한 은행지주회사는 경영 위기상황의 발생 시 핵심기능 및 핵심사업을 우선적으로 유지ㆍ추진하기 위한 계획을 마련하여야 한다.\n나. 금융체계상 중요한 은행지주회사는 은행지주회사 또는 자회사가 수행하는 기능이 다음의 요건을 모두 충족하는 경우 은행지주회사의 핵심기능으로 선정할 수 있다.\n1) 금융체계상 중요한 은행지주회사 또는 그 자회사가 그룹 내 계열사가 아닌 제3자에게 공급하는 기능인 경우\n2)상기 기능의 공급이 갑자기 중단되는 경우, 제3자에게 중대한 부정적 영향을 초래하거나, 부실이 파급되거나 시장의 신뢰성이 훼손될 가능성이 있는 경우\n다. 금융체계상 중요한 은행지주회사는 은행지주회사 및 자회사의 사업구조 등에 대한 평가를 통해 매출, 이익 또는 영업권 등의 주요 원천이 되는 사업을 은행지주회사의 핵심사업으로 선정할 수 있다.\n3.예상되는 경영 위기상황 및 경영 위기상황에 대한 판단기준\n가. 자체정상화계획에 포함되는 경영 위기상황 시나리오는 심각한 위기상황을 가정해야 한다.\n나. 경영 위기상황 시나리오는 금융기관의 고유 위기, 시장전반의 위기 및 양자가 상호 결합된 위기상황을 반영해야 하며, 자체정상화수단의 효과분석 등에는 각 위기상황을 고려하여야 한다.\n다. 발동지표는 자체정상화수단에 대한 발동시기를 식별하기 위해 설계된 정량적 지표 및 정성적 지표로 구성하고, 다음의 기준을 충족해야 한다.\n1) 은행지주회사 및 자회사의 사업구조와 리스크 특성을 고려하여 적정한 수의 발동지표를 설정해야 한다.\n2) 발동지표는 자본적정성, 유동성 및 위기상황 등과 관련하여 정량적 지표뿐만 아니라 정성적 지표를 포함한다.\n라.자체정상화계획 발동 여부를 판단하기 위한 발동지표의 기준(이하 ‘발동요건’이라 한다.)은 다음을 만족해야 한다.\n1) 지표별 발동요건은 금융체계상 중요한 은행지주회사와 감독당국이 적절한 조치를 취할 수 있는 시간을 충분히 확보할 수 있도록 설정해야한다.\n2) 자본적정성 발동지표의 경우 제25조에 따른 자본보전완충자본 및 경기대응완충자본 등을 포함한 규제 비율보다 높은 수준으로 발동요건을 설정해야한다.\n3)유동성 발동지표의 경우 제25조에 따른 원화유동성비율, 외화유동성비율 및 자회사가 속한 업권의 법령 등에서 정하고 있는 규제 비율보다 높은 수준으로 발동요건을 설정해야 한다.\n4)발동요건 충족시 금융체계상 중요한 은행지주회사는 실제 위기상황 여부를 종합적으로 검토하여 자체정상화계획에 따른 조치수단 실행 여부를 결정하여야 한다. 단, 자본적정성 등 일부 발동지표의 경우 발동요건이 충족될 경우 조치수단을 즉시 실행토록 정하는 등 급작스러운 위기상황 발생에 충분히 대응할 수 있어야 한다.\n4. 경영 위기상황을 극복하기 위한 구체적인 수단 및 조치내용\n가.경영 위기상황 발생시 활용가능하고, 신뢰할 만한 자체정상화수단의 목록을 제시하고, 자체정상화수단의 집행에 따른 자본적정성 등 경영 건전성 개선 효과, 집행 절차 및 소요기간과 예상 장애요인, 집행책임자 등을 상세히 제시해야 한다.\n나. 자체정상화수단 집행에 따른 효과 분석 시에는 위기상황이란 점이 감안되어야 하며, 효과분석에 필요한 가정을 명시해야 한다.\n다. 가능한 자체정상화수단의 예시는 다음과 같다.\n1)증자 등 자본 확충 조치, 배당금지 및 임직원 성과 보상지급의 금지 등\n2) 자회사의 매각, 사업부 분할\n3) 출자전환 등을 통한 자발적인 채무조정\n4) 자금조달 방식 다변화를 통한 자금 확보 방안 등(은행지주회사 내 유동성 및 자산의 이전 등을 포함)\n5.경영 위기상황에 대비한 영업지속 계획\n가. 경영 위기상황에서 정상적인 영업활동을 유지하기 위해 현행 인력ㆍ조직구조, 업무분장 및 지배구조의 적합성을 점검ㆍ평가하고 이에 따른 개선ㆍ개편방안을 마련해야 한다.\n나. 경영위기상황 발생시에도 금융시장의 인프라에 접근하는데 필요한 요건들을 파악하여 대비해야 한다.\n다. 내부 업무 절차, 정보기술, 청산 및 지급결제 시스템, 공급 및 직원과의 계약 등이 경영 위기상황에도 유지 가능할 수 있도록 적절한 비상계획을 마련해야 한다.\n6. 감독당국에 대한 보고 등 의사소통 체계\n가.자체정상화계획에 따른 발동요건 충족시 금융체계상 중요한 은행지주회사는 금융감독원 등 감독당국에 즉시 보고하는 체계를 구축해야 한다.\n나.금융체계상 중요한 은행지주회사는 금융감독원 등 감독당국, 언론, 금융시장, 내부 직원 및 주주 등 다른 이해관계자와 자체정상화계획과 관련하여 적절한 의사소통 전략을 수립해야 한다.\n7. 경영정보시스템 등 구축 등\n가. 자체정상화계획을 운영하는데 필요한 정보를 적시에 제공하여 임원의 의사결정 등에 활용할 수 있도록 경영정보시스템을 구축해야 한다.\n나. 경영정보시스템은 가능한 범위 내에서 은행지주회사 및 그 자회사가 신속하게 이용할 수 있어야 한다.",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266376&bylNo=0004&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741199",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000285612&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169817021",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741191",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169817013",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157741199",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169817021",
           "name": "",
           "file_store_url": ""
         }
@@ -12135,41 +12081,41 @@
   ],
   "attachments": [
     {
-      "name": "금융지주회사감독규정(금융위원회고시)(제2025-26호)(20251001).hwp",
-      "url": "http://law.go.kr/flDownload.do?flSeq=157740993",
-      "filename": "금융지주회사감독규정(금융위원회고시)(제2025-26호)(20251001).hwp",
+      "name": "금융지주회사감독규정(고시)(제2026-40호)(20260929).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169794633",
+      "filename": "금융지주회사감독규정(고시)(제2026-40호)(20260929).hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/금융지주회사감독규정(금융위원회고시)(제2025-26호)(20251001).hwp",
+      "local_path": "첨부파일/금융지주회사감독규정(고시)(제2026-40호)(20260929).hwpx",
       "file_store_url": ""
     },
     {
-      "name": "금융지주회사감독규정(금융위원회고시)(제2025-26호)(20251001).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=157740997",
-      "filename": "금융지주회사감독규정(금융위원회고시)(제2025-26호)(20251001).pdf",
+      "name": "금융지주회사감독규정(고시)(제2026-40호)(20260929).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=169794637",
+      "filename": "금융지주회사감독규정(고시)(제2026-40호)(20260929).pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/금융지주회사감독규정(금융위원회고시)(제2025-26호)(20251001).pdf",
+      "local_path": "첨부파일/금융지주회사감독규정(고시)(제2026-40호)(20260929).pdf",
       "file_store_url": ""
     }
   ],
   "ordinance_delegations": [],
   "relation_mode": "no_crawl",
   "relation_stats": {
-    "relations_total": 504,
+    "relations_total": 501,
     "by_category": {
       "법령": 363,
-      "행정규칙": 141
+      "행정규칙": 138
     },
     "by_relation_type": {
       "citation": 363,
-      "internal_ref": 115,
-      "appendix_ref": 26
+      "internal_ref": 113,
+      "appendix_ref": 25
     },
     "articles_total": 90,
     "articles_with_relations": 67,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 35,
+    "addenda_count": 36,
     "appendices_count": 14,
     "attachments_count": 2
   },
