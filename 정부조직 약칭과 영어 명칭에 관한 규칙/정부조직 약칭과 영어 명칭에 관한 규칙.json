@@ -1,16 +1,16 @@
 {
   "law_id": "49753",
-  "mst": "2100000274284",
+  "mst": "2100000285900",
   "law_name": "정부조직 약칭과 영어 명칭에 관한 규칙",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:49753",
-  "promulgation_no": "360",
-  "promulgation_date": "20260204",
-  "enforcement_date": "20260209",
-  "revision_date": "20260204",
+  "promulgation_no": "390",
+  "promulgation_date": "20260930",
+  "enforcement_date": "20261002",
+  "revision_date": "20260930",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "김일표",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "정부조직 약칭과 영어 명칭에 관한 규칙",
-    "발령일자": "20260204",
+    "발령일자": "20260930",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "044-205-2315",
     "제개정구분명": "일부개정",
     "소관부처코드": "1741000",
-    "생성일자": "20260209",
+    "생성일자": "20261002",
     "행정규칙ID": "49753",
-    "시행일자": "20260209",
-    "담당부서기관코드": "1741760",
-    "발령번호": "360",
-    "행정규칙일련번호": "2100000274284",
+    "시행일자": "20261002",
+    "담당부서기관코드": "1741981",
+    "발령번호": "390",
+    "행정규칙일련번호": "2100000285900",
     "상위부처명": "행정안전부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ 경제정책 및 국고ㆍ세제 등 재정을 담당하는 중앙행정기관인 재정경제부의 영어 명칭 변경 요청에 따라 협의한 결과를 반영하기 위함\n◇ 제ㆍ개정 내용\nㅇ 협의한 영어 명칭 등을 별표에 반영",
+  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ 정부조직법 등 개정으로 정부조직개편이 이루어짐에 따라 해당 기관과 협의한 영어 명칭 등을 예규에 반영하고, 재검토기한 기준일을 변경하기 위함\n◇ 제ㆍ개정 내용\nㅇ \t협의한 영어 명칭 등을 별표에 반영",
   "body": {
     "format": "articles",
     "article_count": 15,
@@ -443,7 +443,7 @@
         "article_title": "재검토기한",
         "chapter": "제6장 보 칙",
         "chapter_path": "제6장 보 칙",
-        "content": "제15조(재검토기한) 행정안전부장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규에 대하여 2026년 7월 1일 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
+        "content": "제15조(재검토기한) 행정안전부장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규에 대하여 2027년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -479,10 +479,10 @@
       "content": "부칙 <제26호,2015. 9. 15.>제1조(시행일) 이 예규는 2015년 9월 15일부터 시행한다.",
       "provision_id": "admrul:정부조직약칭과영어명칭에관한규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274284",
+      "source_mst": "2100000285900",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260209"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20170726",
@@ -490,10 +490,10 @@
       "content": "부칙 <제2호,2017. 7. 26.>제1조(시행일) 이 예규는 2017년 7월 26일부터 시행한다.제2조(다른 예규의 폐지) 정부기관의 약칭 및 영문명칭에 관한 예규(안전행정부 예규 제9호)를 폐지한다.",
       "provision_id": "admrul:정부조직약칭과영어명칭에관한규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274284",
+      "source_mst": "2100000285900",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260209"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20180801",
@@ -501,10 +501,10 @@
       "content": "부칙 <제40호,2018. 8. 1.>제1조(시행일) 이 예규는 2018년 8월 1일부터 시행한다.",
       "provision_id": "admrul:정부조직약칭과영어명칭에관한규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274284",
+      "source_mst": "2100000285900",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260209"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20200811",
@@ -512,10 +512,10 @@
       "content": "부칙 <제121호,2020. 8. 11.>제1조(시행일) 이 예규는 2020년 7월 15일부터 시행한다.제2조(「개인정보 보호법」의 개정에 관한 적용례) 부칙 제1조에도 불구하고 별표의 ‘개인정보보호위원회’에 해당하는 개정 규정은 2020년 8월 5일부터 시행한다.",
       "provision_id": "admrul:정부조직약칭과영어명칭에관한규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274284",
+      "source_mst": "2100000285900",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260209"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20210702",
@@ -523,10 +523,10 @@
       "content": "부칙 <제170호, 2021. 7. 2.>제1조(시행일) 이 예규는 공포한 날로부터 시행한다.",
       "provision_id": "admrul:정부조직약칭과영어명칭에관한규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274284",
+      "source_mst": "2100000285900",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260209"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20230526",
@@ -534,10 +534,10 @@
       "content": "부칙 <제245호, 2023. 5. 26.>제1조(시행일) 이 예규는 2023년 6월 5일부터 시행한다.",
       "provision_id": "admrul:정부조직약칭과영어명칭에관한규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274284",
+      "source_mst": "2100000285900",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260209"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20231211",
@@ -545,10 +545,10 @@
       "content": "부칙 <제269호, 2023. 12. 11.>제1조(시행일) 이 예규는 공포한 날부터 시행한다.",
       "provision_id": "admrul:정부조직약칭과영어명칭에관한규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274284",
+      "source_mst": "2100000285900",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260209"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20240327",
@@ -556,10 +556,10 @@
       "content": "부칙 <제281호, 2024. 3. 27.>이 예규는 2024년 5월 17일부터 시행한다. 다만, 별표의 개정규정 중 우주항공청 관련 부분은 2024년 5월 27일부터 시행한다.",
       "provision_id": "admrul:정부조직약칭과영어명칭에관한규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274284",
+      "source_mst": "2100000285900",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260209"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20250827",
@@ -567,10 +567,10 @@
       "content": "부칙 <제337호, 2025. 8. 27.>이 예규는 2025년 9월 1일부터 시행한다.",
       "provision_id": "admrul:정부조직약칭과영어명칭에관한규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274284",
+      "source_mst": "2100000285900",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260209"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20251027",
@@ -578,10 +578,10 @@
       "content": "부칙 <제343호, 2025. 10. 27.>이 예규는 2025년 10월 1일부터 시행한다.",
       "provision_id": "admrul:정부조직약칭과영어명칭에관한규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274284",
+      "source_mst": "2100000285900",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260209"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20260105",
@@ -589,10 +589,10 @@
       "content": "부칙 <제356호, 2026. 1. 5.>이 예규는 2026년 1월 2일부터 시행한다.",
       "provision_id": "admrul:정부조직약칭과영어명칭에관한규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274284",
+      "source_mst": "2100000285900",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260209"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20260204",
@@ -600,10 +600,21 @@
       "content": "부칙 <제360호, 2026. 2. 4.>이 예규는 2026년 2월 9일부터 시행한다.",
       "provision_id": "admrul:정부조직약칭과영어명칭에관한규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274284",
+      "source_mst": "2100000285900",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260209"
+      "version_enforcement_date": "20261002"
+    },
+    {
+      "promulgation_date": "20260930",
+      "promulgation_no": "390",
+      "content": "부칙 <제390호, 2026. 9. 30.>이 예규는 2026년 10월 2일부터 시행한다.",
+      "provision_id": "admrul:정부조직약칭과영어명칭에관한규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285900",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -613,20 +624,20 @@
       "kind": "별표",
       "title": "중앙행정기관의 약칭과 영어 명칭(제14조 관련)",
       "enforcement_date": "",
-      "content": "■ 정부조직 약칭과 영어 명칭에 관한 규칙 [별표]\n중앙행정기관의 약칭과 영어 명칭(제14조 관련)\n┌──┬───────────┬──────┬───────────────────┬─────┐\n│번호│기관명                │약칭        │영어 명칭                             │영어 약칭 │\n┝━━┿━━━━━━━━━━━┿━━━━━━┿━━━━━━━━━━━━━━━━━━━┿━━━━━┥\n│1   │재정경제부            │재경부      │Ministry of Finance and Economy       │MOFE      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│2   │과학기술정보통신부    │과기정통부  │Ministry of Science and ICT           │MSIT      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│3   │교육부                │교육부      │Ministry of Education                 │MOE       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│4   │외교부                │외교부      │Ministry of Foreign Affairs           │MOFA      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│5   │통일부                │통일부      │Ministry of Unification               │MOU       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│6   │법무부                │법무부      │Ministry of Justice                   │MOJ       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│7   │국방부                │국방부      │Ministry of National Defense          │MND       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│8   │행정안전부            │행안부      │Ministry of the Interior and Safety   │MOIS      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│9   │국가보훈부            │보훈부      │Ministry of Patriots and Veterans     │MPVA      │\n│    │                      │            │Affairs                               │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│10  │문화체육관광부        │문체부      │Ministry of Culture, Sports and       │MCST      │\n│    │                      │            │Tourism                               │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│11  │농림축산식품부        │농식품부    │Ministry of Agriculture, Food and     │MAFRA     │\n│    │                      │            │Rural Affairs                         │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│12  │산업통상부            │산업부      │Ministry of Trade, Industry and       │MOTIR     │\n│    │                      │            │Resources                             │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│13  │보건복지부            │복지부      │Ministry of Health and Welfare        │MOHW      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│14  │기후에너지환경부      │기후부      │Ministry of Climate, Energy and       │MCEE      │\n│    │                      │            │Environment                           │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│15  │고용노동부            │노동부      │Ministry of Employment and Labor      │MOEL      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│16  │성평등가족부          │성평등부    │Ministry of Gender Equality and       │MOGEF     │\n│    │                      │            │Family                                │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│17  │국토교통부            │국토부      │Ministry of Land, Infrastructure and  │MOLIT     │\n│    │                      │            │Transport                             │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│18  │해양수산부            │해수부      │Ministry of Oceans and Fisheries      │MOF       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│19  │중소벤처기업부        │중기부      │Ministry of SMEs and Startups         │MSS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│20  │기획예산처            │기획처      │Ministry of Planning and Budget       │MPB       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│21  │인사혁신처            │인사처      │Ministry of Personnel Management      │MPM       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│22  │법제처                │법제처      │Ministry of Government Legislation    │MOLEG     │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│23  │식품의약품안전처      │식약처      │Ministry of Food and Drug Safety      │MFDS      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│24  │국가데이터처          │데이터처    │Ministry of Data and Statistics       │MODS      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│25  │지식재산처            │지재처      │Ministry of Intellectual Property     │MOIP      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│26  │국세청                │국세청      │National Tax Service                  │NTS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│27  │관세청                │관세청      │Korea Customs Service                 │KCS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│28  │조달청                │조달청      │Public Procurement Service            │PPS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│29  │우주항공청            │우주청      │Korea AeroSpace Administration        │KASA      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│30  │재외동포청            │동포청      │Overseas Koreans Agency               │OKA       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│31  │대검찰청              │대검찰청    │Supreme Prosecutors' Office           │SPO       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│32  │병무청                │병무청      │Military Manpower Administration      │MMA       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│33  │방위사업청            │방사청      │Defense Acquisition Program           │DAPA      │\n│    │                      │            │Administration                        │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│34  │경찰청                │경찰청      │National Police Agency                │NPA       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│35  │소방청                │소방청      │National Fire Agency                  │NFA       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│36  │국가유산청            │국가유산청  │Korea Heritage Service                │KHS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│37  │농촌진흥청            │농진청      │Rural Development Administration      │RDA       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│38  │산림청                │산림청      │Korea Forest Service                  │KFS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│39  │질병관리청            │질병청      │Korea Disease Control and             │KDCA      │\n│    │                      │            │Prevention Agency                     │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│40  │기상청                │기상청      │Korea Meteorological Administration   │KMA       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│41  │행정중심복합도시건설청│행복청      │National Agency for Administrative    │NAACC     │\n│    │                      │            │City Construction                     │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│42  │새만금개발청          │새만금청    │Saemangeum Development and            │SDIA      │\n│    │                      │            │Investment Agency                     │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│43  │해양경찰청            │해경청      │Korea Coast Guard                     │KCG       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│44  │방송미디어통신위원회  │방미통위    │Korea Media and Communications        │KMCC      │\n│    │                      │            │Commission                            │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│45  │공정거래위원회        │공정위      │Korea Fair Trade Commission           │KFTC      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│46  │국민권익위원회        │국민권익위  │Anti-corruption & Civil Rights        │ACRC      │\n│    │                      │            │Commission                            │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│47  │금융위원회            │금융위      │Financial Services Commission         │FSC       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│48  │개인정보보호위원회    │개인정보위  │Personal Information Protection       │PIPC      │\n│    │                      │            │Commission                            │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│49  │원자력안전위원회      │원안위      │Nuclear Safety and Security           │NSSC      │\n│    │                      │            │Commission                            │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│50  │대통령비서실          │대통령비서실│Office of the President               │-         │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│51  │국가안보실            │국가안보실  │Office of National Security           │ONS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│52  │대통령경호처          │경호처      │Presidential Security Service         │PSS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│53  │감사원                │감사원      │Board of Audit and Inspection         │BAI       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│54  │국가정보원            │국정원      │National Intelligence Service         │NIS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│55  │국무조정실            │국조실      │Office for Government Policy          │OPC       │\n│    │                      │            │Coordination                          │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│56  │국무총리비서실        │총리비서실  │Prime Minister's Secretariat          │PMS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│57  │고위공직자범죄수사처  │공수처      │Corruption Investigation Office for   │CIO       │\n│    │                      │            │High-ranking Officials                │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│58  │국가교육위원회        │국교위      │National Education Commission         │NEC       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│59  │국가인권위원회        │인권위      │National Human Rights Commission      │NHRC      │\n└──┴───────────┴──────┴───────────────────┴─────┘",
+      "content": "■ 정부조직 약칭과 영어 명칭에 관한 규칙 [별표]\n중앙행정기관의 약칭과 영어 명칭(제14조 관련)\n┌──┬───────────┬──────┬───────────────────┬─────┐\n│번호│기관명                │약칭        │영어 명칭                             │영어 약칭 │\n┝━━┿━━━━━━━━━━━┿━━━━━━┿━━━━━━━━━━━━━━━━━━━┿━━━━━┥\n│1   │재정경제부            │재경부      │Ministry of Economy and Finance       │MOEF      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│2   │과학기술정보통신부    │과기정통부  │Ministry of Science and ICT           │MSIT      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│3   │교육부                │교육부      │Ministry of Education                 │MOE       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│4   │외교부                │외교부      │Ministry of Foreign Affairs           │MOFA      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│5   │통일부                │통일부      │Ministry of Unification               │MOU       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│6   │법무부                │법무부      │Ministry of Justice                   │MOJ       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│7   │국방부                │국방부      │Ministry of National Defense          │MND       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│8   │행정안전부            │행안부      │Ministry of the Interior and Safety   │MOIS      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│9   │국가보훈부            │보훈부      │Ministry of Patriots and Veterans     │MPVA      │\n│    │                      │            │Affairs                               │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│10  │문화체육관광부        │문체부      │Ministry of Culture, Sports and       │MCST      │\n│    │                      │            │Tourism                               │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│11  │농림축산식품부        │농식품부    │Ministry of Agriculture, Food and     │MAFRA     │\n│    │                      │            │Rural Affairs                         │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│12  │산업통상부            │산업부      │Ministry of Trade, Industry and       │MOTIR     │\n│    │                      │            │Resources                             │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│13  │보건복지부            │복지부      │Ministry of Health and Welfare        │MOHW      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│14  │기후에너지환경부      │기후부      │Ministry of Climate, Energy and       │MCEE      │\n│    │                      │            │Environment                           │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│15  │고용노동부            │노동부      │Ministry of Employment and Labor      │MOEL      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│16  │성평등가족부          │성평등부    │Ministry of Gender Equality and       │MOGEF     │\n│    │                      │            │Family                                │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│17  │국토교통부            │국토부      │Ministry of Land, Infrastructure and  │MOLIT     │\n│    │                      │            │Transport                             │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│18  │해양수산부            │해수부      │Ministry of Oceans and Fisheries      │MOF       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│19  │중소벤처기업부        │중기부      │Ministry of SMEs and Startups         │MSS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│20  │기획예산처            │기획처      │Ministry of Planning and Budget       │MPB       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│21  │인사혁신처            │인사처      │Ministry of Personnel Management      │MPM       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│22  │법제처                │법제처      │Ministry of Government Legislation    │MOLEG     │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│23  │식품의약품안전처      │식약처      │Ministry of Food and Drug Safety      │MFDS      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│24  │국가데이터처          │데이터처    │Ministry of Data and Statistics       │MODS      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│25  │지식재산처            │지재처      │Ministry of Intellectual Property     │MOIP      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│26  │국세청                │국세청      │National Tax Service                  │NTS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│27  │관세청                │관세청      │Korea Customs Service                 │KCS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│28  │조달청                │조달청      │Public Procurement Service            │PPS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│29  │우주항공청            │우주청      │Korea AeroSpace Administration        │KASA      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│30  │재외동포청            │동포청      │Overseas Koreans Agency               │OKA       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│31  │공소청                │공소청      │Supreme Prosecutors' Office           │SPO       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│32  │병무청                │병무청      │Military Manpower Administration      │MMA       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│33  │방위사업청            │방사청      │Defense Acquisition Program           │DAPA      │\n│    │                      │            │Administration                        │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│34  │경찰청                │경찰청      │National Police Agency                │NPA       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│35  │소방청                │소방청      │National Fire Agency                  │NFA       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│36  │중대범죄수사청        │중수청      │Serious Crime Investigation Agency    │SCI       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│37  │국가유산청            │국가유산청  │Korea Heritage Service                │KHS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│38  │농촌진흥청            │농진청      │Rural Development Administration      │RDA       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│39  │산림청                │산림청      │Korea Forest Service                  │KFS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│40  │질병관리청            │질병청      │Korea Disease Control and             │KDCA      │\n│    │                      │            │Prevention Agency                     │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│41  │기상청                │기상청      │Korea Meteorological Administration   │KMA       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│42  │행정중심복합도시건설청│행복청      │National Agency for Administrative    │NAACC     │\n│    │                      │            │City Construction                     │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│43  │새만금개발청          │새만금청    │Saemangeum Development and            │SDIA      │\n│    │                      │            │Investment Agency                     │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│44  │해양경찰청            │해경청      │Korea Coast Guard                     │KCG       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│45  │방송미디어통신위원회  │방미통위    │Korea Media and Communications        │KMCC      │\n│    │                      │            │Commission                            │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│46  │공정거래위원회        │공정위      │Korea Fair Trade Commission           │KFTC      │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│47  │국민권익위원회        │국민권익위  │Anti-corruption & Civil Rights        │ACRC      │\n│    │                      │            │Commission                            │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│48  │금융위원회            │금융위      │Financial Services Commission         │FSC       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│49  │개인정보보호위원회    │개인정보위  │Personal Information Protection       │PIPC      │\n│    │                      │            │Commission                            │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│50  │원자력안전위원회      │원안위      │Nuclear Safety and Security           │NSSC      │\n│    │                      │            │Commission                            │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│51  │대통령비서실          │대통령비서실│Office of the President               │-         │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│52  │국가안보실            │국가안보실  │Office of National Security           │ONS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│53  │대통령경호처          │경호처      │Presidential Security Service         │PSS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│54  │감사원                │감사원      │Board of Audit and Inspection         │BAI       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│55  │국가정보원            │국정원      │National Intelligence Service         │NIS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│56  │국무조정실            │국조실      │Office for Government Policy          │OPC       │\n│    │                      │            │Coordination                          │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│57  │국무총리비서실        │총리비서실  │Prime Minister's Secretariat          │PMS       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│58  │고위공직자범죄수사처  │공수처      │Corruption Investigation Office for   │CIO       │\n│    │                      │            │High-ranking Officials                │          │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│59  │국가교육위원회        │국교위      │National Education Commission         │NEC       │\n├──┼───────────┼──────┼───────────────────┼─────┤\n│60  │국가인권위원회        │인권위      │National Human Rights Commission      │NHRC      │\n└──┴───────────┴──────┴───────────────────┴─────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161476809",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170019313",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161476803",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170019307",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161476809",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170019313",
           "name": "",
           "file_store_url": ""
         }
@@ -641,19 +652,19 @@
   ],
   "attachments": [
     {
-      "name": "정부조직 약칭과 영어 명칭에 관한 규칙(행정안전부 예규 제360호) 일부개정 전문.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=161476695",
-      "filename": "정부조직 약칭과 영어 명칭에 관한 규칙(행정안전부 예규 제360호) 일부개정 전문.pdf",
+      "name": "정부조직 약칭과 영어 명칭에 관한 규칙(행정안전부 예규 제390호) 일부개정 전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170019103",
+      "filename": "정부조직 약칭과 영어 명칭에 관한 규칙(행정안전부 예규 제390호) 일부개정 전문.hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/정부조직 약칭과 영어 명칭에 관한 규칙(행정안전부 예규 제360호) 일부개정 전문.pdf",
+      "local_path": "첨부파일/정부조직 약칭과 영어 명칭에 관한 규칙(행정안전부 예규 제390호) 일부개정 전문.hwpx",
       "file_store_url": ""
     },
     {
-      "name": "정부조직 약칭과 영어 명칭에 관한 규칙(행정안전부 예규 제360호) 일부개정 전문.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=161476691",
-      "filename": "정부조직 약칭과 영어 명칭에 관한 규칙(행정안전부 예규 제360호) 일부개정 전문.hwpx",
+      "name": "정부조직 약칭과 영어 명칭에 관한 규칙(행정안전부 예규 제390호) 일부개정 전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170019107",
+      "filename": "정부조직 약칭과 영어 명칭에 관한 규칙(행정안전부 예규 제390호) 일부개정 전문.pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/정부조직 약칭과 영어 명칭에 관한 규칙(행정안전부 예규 제360호) 일부개정 전문.hwpx",
+      "local_path": "첨부파일/정부조직 약칭과 영어 명칭에 관한 규칙(행정안전부 예규 제390호) 일부개정 전문.pdf",
       "file_store_url": ""
     }
   ],
@@ -674,7 +685,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 12,
+    "addenda_count": 13,
     "appendices_count": 1,
     "attachments_count": 2
   },
