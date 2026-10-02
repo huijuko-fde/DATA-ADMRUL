@@ -1,84 +1,63 @@
 {
   "law_id": "52237",
-  "mst": "2100000222642",
+  "mst": "2100000286278",
   "law_name": "특정범죄 신고자 등 구조금 지급 등에 관한 실무운용 지침",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:52237",
-  "promulgation_no": "1344",
-  "promulgation_date": "20230418",
-  "enforcement_date": "20230418",
-  "revision_date": "20230418",
+  "promulgation_no": "170",
+  "promulgation_date": "20261002",
+  "enforcement_date": "20261002",
+  "revision_date": "20261002",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
-    "담당부서기관명": "대검찰청(인권기획담당관)",
-    "담당자명": "김광채",
+    "담당부서기관명": "공소청(인권기획담당관)",
+    "담당자명": "유재일",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "특정범죄 신고자 등 구조금 지급 등에 관한 실무운용 지침",
-    "발령일자": "20230418",
+    "발령일자": "20261002",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
-    "소관부처명": "대검찰청",
+    "소관부처명": "공소청",
     "전화번호": "02-3480-2329",
     "제개정구분명": "일부개정",
-    "소관부처코드": "1280000",
-    "생성일자": "20230428",
+    "소관부처코드": "1282000",
+    "생성일자": "20261006",
     "행정규칙ID": "52237",
-    "시행일자": "20230418",
-    "담당부서기관코드": "1281683",
-    "발령번호": "1344",
-    "행정규칙일련번호": "2100000222642",
-    "상위부처명": "대검찰청"
+    "시행일자": "20261002",
+    "담당부서기관코드": "1282033",
+    "발령번호": "170",
+    "행정규칙일련번호": "2100000286278",
+    "상위부처명": "공소청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정 이유\n○ 특정범죄 신고자 등 구조금 지급 등에 관한 실무운용 지침일부 개정\n◇ 주요내용\n○ 특정범죄 신고자 등 구조금 지급 등에 관한 실무운용 지침 일부 개정",
+  "revision_reason": "◇ 개정 이유\n○ 공소청 출범에 의한 기관명칭 변경을 반영\n◇ 주요내용\n○ 제2조, 제4조, 제10조에 대하여 ‘검찰청’을 ‘공소청’으로 변경 등",
   "body": {
     "format": "articles",
-    "article_count": 10,
+    "article_count": 11,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "목적",
-        "chapter": "제1장 총 칙",
-        "chapter_path": "제1장 총 칙",
-        "content": "제1조(목적) 이 지침은 「특정범죄신고자등보호법」(이하 ‘법’이라 한다) 및 같은 법 시행령, 시행규칙(이하 ‘시행령’, ‘시행규칙’이라 한다)이 규정하고 있는 「특정범죄 신고자 등 구조금」(이하 ‘신고자구조금’이라 한다) 지급 업무 처리 절차를 세부적으로 정하여 신고자구조금 제도의 신속ㆍ적정 운영을 목적으로 한다.",
+        "chapter": "제1장 총칙",
+        "chapter_path": "제1장 총칙",
+        "content": "제1조(목적) 이 지침은 특정범죄신고자등보호법(이하 ‘법’이라 한다) 및 같은 법 시행령, 시행규칙(이하 ‘시행령’, ‘시행규칙’이라 한다)이 규정하고 있는 「특정범죄 신고자 등 구조금」(이하 ‘신고자구조금’이라 한다) 지급 업무 처리 절차를 세부적으로 정하여 신고자구조금 제도의 신속ㆍ적정 운영을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제1조",
-            "source_clause": "제1조",
-            "link_text": "같은 법 시행령",
-            "line_text": "",
-            "target_law_name": "특정범죄신고자등보호법 시행령",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "52237",
-            "target_url": "https://www.law.go.kr/법령/특정범죄신고자등보호법 시행령",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:특정범죄신고자등구조금지급등에관한실무운용지침#JO0001",
-            "reference_id": "law:특정범죄신고자등보호법시행령#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "특정범죄신고자등보호법/시행령/특정범죄신고자등보호법 시행령.json"
-          }
-        ],
+        "relations": [],
         "images": [],
         "provision_id": "admrul:특정범죄신고자등구조금지급등에관한실무운용지침#JO0001"
       },
       {
         "article_no": "제2조",
         "article_title": "정의",
-        "chapter": "제1장 총 칙",
-        "chapter_path": "제1장 총 칙",
-        "content": "제2조 (정의) 지침에서 사용하는 용어의 뜻은 다음과 같다.1. ‘신고자구조금 담당자’란 특정범죄신고자등구조심의회(이하 ‘심의회’라 한다)가 설치된 지방검찰청 소속으로 구조금 지급과 관련된 업무를 담당하는 공익법무관 또는 직원을 말한다.2. \"재무 담당자\"란 심의회가 설치된 검찰청 소속으로 세입 및 지출과 관련된 업무를 담당하는 직원을 말한다.",
+        "chapter": "제1장 총칙",
+        "chapter_path": "제1장 총칙",
+        "content": "제2조 (정의) 지침에서 사용하는 용어의 뜻은 다음과 같다.1. ‘신고자구조금 담당자’란 특정범죄신고자등구조심의회(이하 ‘심의회’라 한다)가 설치된 지방공소청 소속으로 구조금 지급과 관련된 업무를 담당하는 공익법무관 또는 직원을 말한다.2. \"재무 담당자\"란 심의회가 설치된 공소청 소속으로 세입 및 지출과 관련된 업무를 담당하는 직원을 말한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -87,8 +66,8 @@
       {
         "article_no": "제3조",
         "article_title": "범죄신고자등 보호",
-        "chapter": "제1장 총 칙",
-        "chapter_path": "제1장 총 칙",
+        "chapter": "제1장 총칙",
+        "chapter_path": "제1장 총칙",
         "content": "제3조(범죄신고자등 보호) 범죄신고자등이나 그 친족에게 구조금 지급 업무를 처리하는 공무원은 범죄신고자등의 사생활의 평온을 해치지 않고 실질적으로 보호할 수 있도록 최선의 노력을 다하여야 한다.",
         "enforcement_date": "",
         "relations": [],
@@ -100,7 +79,7 @@
         "article_title": "심의회 구성 및 운영",
         "chapter": "제2장 심의회",
         "chapter_path": "제2장 심의회",
-        "content": "제4조(심의회 구성 및 운영) ① 각 지방검찰청은 시행령 제13조에 따라 심의회를 구성한다.② 심의회 외부 위원의 임기는 2년으로 하되 연임할 수 있다.③ 위원이 심의 안건에 대해 직ㆍ간접적인 이해관계가 있거나 공정을 기할 수 없는 현저한 사유가 있는 경우에는 해당 안건의 심의ㆍ의결에 참여할 수 없다.④ 위원이 제1항의 사유가 있다고 판단하는 경우에는 스스로 그 안건의 심의ㆍ의결에서 회피할 수 있다.⑤ 전 2항의 경우 심의ㆍ의결에 참여하지 못하는 위원 등은 재적위원 수에 포함되지 아니한다.",
+        "content": "제4조(심의회 구성 및 운영) ① 각 지방공소청은 시행령 제13조에 따라 심의회를 구성한다.② 심의회 외부 위원의 임기는 2년으로 하되 연임할 수 있다.③ 위원이 심의 안건에 대해 직ㆍ간접적인 이해관계가 있거나 공정을 기할 수 없는 현저한 사유가 있는 경우에는 해당 안건의 심의ㆍ의결에 참여할 수 없다.④ 위원이 제1항의 사유가 있다고 판단하는 경우에는 스스로 그 안건의 심의ㆍ의결에서 회피할 수 있다.⑤ 전 2항의 경우 심의ㆍ의결에 참여하지 못하는 위원 등은 재적위원 수에 포함되지 아니한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -151,7 +130,7 @@
             "appendix_found": false,
             "target_mst": "",
             "source_admrul_seq": "52237",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000222642&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286278&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:특정범죄신고자등구조금지급등에관한실무운용지침#JO0005",
             "target_unit": "BJ0017",
@@ -176,7 +155,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "52237",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127633683",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170097987",
             "resolve_method": "html",
             "source_provision_id": "admrul:특정범죄신고자등구조금지급등에관한실무운용지침#JO0005",
             "target_unit": "BJ0001",
@@ -246,7 +225,7 @@
             "appendix_found": false,
             "target_mst": "",
             "source_admrul_seq": "52237",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000222642&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286278&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:특정범죄신고자등구조금지급등에관한실무운용지침#JO0009",
             "target_unit": "BJ0020",
@@ -271,7 +250,7 @@
             "appendix_found": false,
             "target_mst": "",
             "source_admrul_seq": "52237",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000222642&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286278&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:특정범죄신고자등구조금지급등에관한실무운용지침#JO0009",
             "target_unit": "BJ0021",
@@ -288,7 +267,7 @@
         "article_title": "통계관리 및 보고",
         "chapter": "제6장 통계관리 및 보고",
         "chapter_path": "제6장 통계관리 및 보고",
-        "content": "제10조(통계관리 및 보고) ① 신고자구조금 담당자는 매월 말일까지 월 신고자구조금 건수 및 내용을 형사사법정보시스템에 입력하여야 한다.② 신고자구조금 담당자는 전 월의 신고자구조금 건수 및 내용을 [별지 제2호]  「월간 신고자구조금 지급 현황」에 따라 매월 10일까지 법무부 검찰과와 대검찰청 인권기획담당관에게 보고하여야 한다.",
+        "content": "제10조(통계관리 및 보고) ① 신고자구조금 담당자는 매월 말일까지 월 신고자구조금 건수 및 내용을 형사사법정보시스템에 입력하여야 한다.② 신고자구조금 담당자는 전 월의 신고자구조금 건수 및 내용을 [별지 제2호]  「월간 신고자구조금 지급 현황」에 따라 매월 10일까지 법무부 형사사법총괄과와  공소청 인권기획담당관에게 보고하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -308,7 +287,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "52237",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127633689",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170097993",
             "resolve_method": "html",
             "source_provision_id": "admrul:특정범죄신고자등구조금지급등에관한실무운용지침#JO0010",
             "target_unit": "BJ0002",
@@ -319,6 +298,17 @@
         ],
         "images": [],
         "provision_id": "admrul:특정범죄신고자등구조금지급등에관한실무운용지침#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "재검토기한",
+        "chapter": "제6장 통계관리 및 보고",
+        "chapter_path": "제6장 통계관리 및 보고",
+        "content": "제11조(재검토기한) 훈령ㆍ예규 등의 발령 및 관리에 관한 규정에 따라 이 예규에 대하여 2027년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:특정범죄신고자등구조금지급등에관한실무운용지침#JO0011"
       }
     ]
   },
@@ -329,10 +319,10 @@
       "content": "부칙 <제842호,2016. 3. 21.>제1조(시행일) 본 지침은 2016. 3. 22.부터 시행한다.제2조(지침의 적용) 본 지침은 시행 이후에 신청한 특정범죄 신고자 등 구조금에 대하여 적용한다.",
       "provision_id": "admrul:특정범죄신고자등구조금지급등에관한실무운용지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000222642",
+      "source_mst": "2100000286278",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20230418"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20211018",
@@ -340,10 +330,10 @@
       "content": "부칙 <제1244호, 2021. 10. 18.>제1조(시행일) 본 지침은 2021. 10. 18.부터 시행한다.",
       "provision_id": "admrul:특정범죄신고자등구조금지급등에관한실무운용지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000222642",
+      "source_mst": "2100000286278",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20230418"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20230418",
@@ -351,10 +341,21 @@
       "content": "부칙 <제1344호, 2023. 4. 18.>제1조(시행일) 본 지침은 2023. 4. 18.부터 시행한다.",
       "provision_id": "admrul:특정범죄신고자등구조금지급등에관한실무운용지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000222642",
+      "source_mst": "2100000286278",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20230418"
+      "version_enforcement_date": "20261002"
+    },
+    {
+      "promulgation_date": "20261002",
+      "promulgation_no": "170",
+      "content": "부칙 <제170호, 2026. 10. 2.>제1조(시행일) 본 지침은 2026. 10. 2.부터 시행한다.",
+      "provision_id": "admrul:특정범죄신고자등구조금지급등에관한실무운용지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000286278",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -364,20 +365,20 @@
       "kind": "별지",
       "title": "심의회 기초자료 보고",
       "enforcement_date": "",
-      "content": "[별지 제1호] 심의회 기초자료 보고\n┌───────────────────────────────────────┐\n│(     )년 제(  )차 심의회 기초자료 보고                                       │\n├──────┬┬──────┬────────────────────────┤\n│사건번호    ││구조결정번호│                                                │\n├──────┼┴──────┼────────────────────────┤\n│신청인      │성명(가명)    │생년월일                                        │\n│            ├───────┼────────────────────────┤\n│            │직업          │전화번호                                        │\n│            ├───────┴────────────────────────┤\n│            │주소                                                            │\n├──────┼────────────────────────────────┤\n│추천 유형   │□ 치료비     □ 이사 및 전직비용     □ 방범시설 설치비        │\n│            │       □ 생계비     □ 보호? 경호에 필요한 비용     □ 위자료 │\n├──────┼────────────────────────────────┤\n│사건개요    │사건일시 및 장소                                                │\n│            ├────────────────────────────────┤\n│            │사건내용                                                        │\n│            │                                                                │\n├──────┼────────────────────────────────┤\n│피해내용    │피해내용                                                        │\n├──────┼────────────────────────────────┤\n│참고사항    │                                                                │\n├──────┴────────────────────────────────┤\n│                                                                              │\n│                                                                              │\n│                                                                              │\n│  년       월       일                                                        │\n│                                                                              │\n│00검찰청 범죄피해자 신고자 구조금 심의위원회                                  │\n└───────────────────────────────────────┘",
+      "content": "[별지 제1호] 심의회 기초자료 보고\n┌───────────────────────────────────────┐\n│(     )년 제(  )차 심의회 기초자료 보고                                       │\n├──────┬┬──────┬────────────────────────┤\n│사건번호    ││구조결정번호│                                                │\n├──────┼┴──────┼────────────────────────┤\n│신청인      │성명(가명)    │생년월일                                        │\n│            ├───────┼────────────────────────┤\n│            │직업          │전화번호                                        │\n│            ├───────┴────────────────────────┤\n│            │주소                                                            │\n├──────┼────────────────────────────────┤\n│추천 유형   │□ 치료비     □ 이사 및 전직비용     □ 방범시설 설치비        │\n│            │       □ 생계비     □ 보호? 경호에 필요한 비용     □ 위자료 │\n├──────┼────────────────────────────────┤\n│사건개요    │사건일시 및 장소                                                │\n│            ├────────────────────────────────┤\n│            │사건내용                                                        │\n│            │                                                                │\n├──────┼────────────────────────────────┤\n│피해내용    │피해내용                                                        │\n├──────┼────────────────────────────────┤\n│참고사항    │                                                                │\n├──────┴────────────────────────────────┤\n│                                                                              │\n│                                                                              │\n│                                                                              │\n│  년       월       일                                                        │\n│                                                                              │\n│00공소청 범죄피해자 신고자 구조금 심의위원회                                  │\n└───────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127633683",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170097987",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127633679",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170097983",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127633683",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170097987",
           "name": "",
           "file_store_url": ""
         }
@@ -395,20 +396,20 @@
       "kind": "별지",
       "title": "월간 신고자구조금 지급 현황",
       "enforcement_date": "",
-      "content": "[별지 제2호] 월간 신고자구조금 지급 현황\n\n┌───┬───────┬────┬──┬───┐\n│지검명│사건번호      │지급사유│액수│심의회│\n│      │(구조결정번호)│        │    │개최일│\n├───┼───────┼────┼──┼───┤\n│      │              │        │    │      │\n├───┼───────┼────┼──┼───┤\n│      │              │        │    │      │\n├───┼───────┼────┼──┼───┤\n│      │              │        │    │      │\n├───┼───────┼────┼──┼───┤\n│      │              │        │    │      │\n├───┼───────┼────┼──┼───┤\n│      │              │        │    │      │\n├───┼───────┼────┼──┼───┤\n│      │              │        │    │      │\n├───┼───────┼────┼──┼───┤\n│      │              │        │    │      │\n└───┴───────┴────┴──┴───┘",
+      "content": "[별지 제2호] 월간 신고자구조금 지급 현황\n\n┌─────┬───────┬────┬──┬───┐\n│공소청 명 │사건번호      │지급사유│액수│심의회│\n│          │(구조결정번호)│        │    │개최일│\n├─────┼───────┼────┼──┼───┤\n│          │              │        │    │      │\n├─────┼───────┼────┼──┼───┤\n│          │              │        │    │      │\n├─────┼───────┼────┼──┼───┤\n│          │              │        │    │      │\n├─────┼───────┼────┼──┼───┤\n│          │              │        │    │      │\n├─────┼───────┼────┼──┼───┤\n│          │              │        │    │      │\n├─────┼───────┼────┼──┼───┤\n│          │              │        │    │      │\n├─────┼───────┼────┼──┼───┤\n│          │              │        │    │      │\n└─────┴───────┴────┴──┴───┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127633689",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170097993",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127633685",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170097989",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127633689",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170097993",
           "name": "",
           "file_store_url": ""
         }
@@ -423,59 +424,41 @@
   ],
   "attachments": [
     {
-      "name": "(대검예규 제1344호)특정범죄 신고자 등 구조금 지급 등에 관한 실무운용 지침.hwp",
-      "url": "http://law.go.kr/flDownload.do?flSeq=127633175",
-      "filename": "(대검예규 제1344호)특정범죄 신고자 등 구조금 지급 등에 관한 실무운용 지침.hwp",
+      "name": "특정범죄 신고자 등 구조금 지급 등에 관한 실무운용 지침_개정안.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170097875",
+      "filename": "특정범죄 신고자 등 구조금 지급 등에 관한 실무운용 지침_개정안.hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/(대검예규 제1344호)특정범죄 신고자 등 구조금 지급 등에 관한 실무운용 지침.hwp",
+      "local_path": "첨부파일/특정범죄 신고자 등 구조금 지급 등에 관한 실무운용 지침_개정안.hwpx",
       "file_store_url": ""
     },
     {
-      "name": "(대검예규 제1344호)특정범죄 신고자 등 구조금 지급 등에 관한 실무운용 지침.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=127633179",
-      "filename": "(대검예규 제1344호)특정범죄 신고자 등 구조금 지급 등에 관한 실무운용 지침.pdf",
+      "name": "특정범죄 신고자 등 구조금 지급 등에 관한 실무운용 지침_개정안.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170097879",
+      "filename": "특정범죄 신고자 등 구조금 지급 등에 관한 실무운용 지침_개정안.pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/(대검예규 제1344호)특정범죄 신고자 등 구조금 지급 등에 관한 실무운용 지침.pdf",
-      "file_store_url": ""
-    },
-    {
-      "name": "조문별제개정이유서.hwp",
-      "url": "http://law.go.kr/flDownload.do?flSeq=127633183",
-      "filename": "조문별제개정이유서.hwp",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/조문별제개정이유서.hwp",
-      "file_store_url": ""
-    },
-    {
-      "name": "조문별제개정이유서.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=127633187",
-      "filename": "조문별제개정이유서.pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/조문별제개정이유서.pdf",
+      "local_path": "첨부파일/특정범죄 신고자 등 구조금 지급 등에 관한 실무운용 지침_개정안.pdf",
       "file_store_url": ""
     }
   ],
   "ordinance_delegations": [],
   "relation_mode": "no_crawl",
   "relation_stats": {
-    "relations_total": 7,
+    "relations_total": 6,
     "by_category": {
-      "법령": 1,
       "행정규칙": 6
     },
     "by_relation_type": {
-      "citation": 1,
       "internal_ref": 1,
       "appendix_ref": 5
     },
-    "articles_total": 10,
-    "articles_with_relations": 4,
+    "articles_total": 11,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 2,
-    "attachments_count": 4
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/특정범죄 신고자 등 구조금 지급 등에 관한 실무운용 지침"
