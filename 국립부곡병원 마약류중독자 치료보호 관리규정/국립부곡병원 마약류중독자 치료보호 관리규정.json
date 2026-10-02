@@ -1,25 +1,25 @@
 {
   "law_id": "2079188",
-  "mst": "2100000246992",
+  "mst": "2100000286420",
   "law_name": "국립부곡병원 마약류중독자 치료보호 관리규정",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2079188",
-  "promulgation_no": "384",
-  "promulgation_date": "20240906",
-  "enforcement_date": "20240906",
-  "revision_date": "20240906",
+  "promulgation_no": "416",
+  "promulgation_date": "20261002",
+  "enforcement_date": "20261002",
+  "revision_date": "20261002",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "국립부곡병원(중독진단과)",
-    "담당자명": "김희경",
+    "담당자명": "강은진",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "국립부곡병원 마약류중독자 치료보호 관리규정",
-    "발령일자": "20240906",
+    "발령일자": "20261002",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "055-520-2554",
     "제개정구분명": "일부개정",
     "소관부처코드": "1352000",
-    "생성일자": "20240910",
+    "생성일자": "20261007",
     "행정규칙ID": "2079188",
-    "시행일자": "20240906",
-    "담당부서기관코드": "1352263",
-    "발령번호": "384",
-    "행정규칙일련번호": "2100000246992",
+    "시행일자": "20261002",
+    "담당부서기관코드": "1352768",
+    "발령번호": "416",
+    "행정규칙일련번호": "2100000286420",
     "상위부처명": "보건복지부"
   },
-  "amendment_text": "⊙국립부곡병원 예규 제384호\n국립부곡병원 마약류중독자 치료보호 관리규정 일부를 다음과 같이 개정한다.\n2024년 9월 6일\n국립부곡병원장\n국립부곡병원 마약류중독자 치료보호 관리규정 일부개정\n국립부곡병원 마약류중독자 치료보호 관리규정 일부를 다음과 같이 개정한다.\n제3조 중 \"별지1호의2서식의 판별검사 치료보호 통보(보고)서 따라\"를 \"별지1호의2서식, 별지1호의3서식에 따라\"로 한다.\n제5조 중 \"영 제19조, 제10조제4항에\"를 \"영 제10조제4항에 따라\"로 한다.\n제6조 중 \"영 제11조에\"를 \"영 제10조1항, 제11조에\"로 한다.\n부칙\n이 규정은 공포한 날부터 시행한다.",
-  "revision_reason": "◇ 개정이유\n「마약류중독자 치료보호규정」개정(대통령령 제34043호, 2023. 12. 26. 공포, 2024. 1. 1. 시행)됨에 따라 관련 사항을 정비하여 효율적으로 운영하기 위함\n◇ 주요내용\n가. 치료보호 신청 및 절차 정비(제3조)\n나. 치료보호 비용 관련 법령 수정(제5조)  다. 판별검사에 대한 근거와 기준을 명확하게 하기 위한 관련법 조항 추가(제6조)",
+  "amendment_text": "⊙국립부곡병원예규 제416호\n「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정에 따른 행정규칙 정비를 위한 마약류중독자 치료보호 관리규정 일부 개정\n제1조(「국립부곡병원 마약류중독자 치료보호 관리규정」의 개정) 국립부곡병원 마약류중독자 치료보호 관리규정 일부를 다음과 같이 개정한다.\n제6조 중\"검찰\"을 \"중대범죄수사청 및 공소청\"으로, \"검사에게도\"를 \"기관에도\"로 한다.\n제12조 중 \"검찰\"을 \"중대범죄주사청 및 공소청\"으로 \"검사에게\"를 \"기관에\"로 한다.\n부칙\n이 예규는 2026년 10월 2일부터 시행한다.",
+  "revision_reason": "◇ 개정이유 및 주요내용\n수사ㆍ기소 기관 간 상호 견제가 가능한 체계를 구축하기 위하여 검찰청을 폐지하고, 법무부장관 소속으로 공소청과 행정안전부장관 소속으로 중대범죄수사청을 각각 신설하는 내용으로 「공소청법」(법률 제21490호, ’26.3.24. 제정, ’26.10.2. 시행)과 「중대범죄수사청 조직 및 운영에 관한 법률」이 제정(법률 제21491호, ’26.3.24. 제정, ’26.10.2. 시행)됨에 따라, 관련 명칭을 정비하기 위해 「국립부곡병원 마약류중독자 치료보호 관리규정」개정하려는 것임.",
   "body": {
     "format": "articles",
     "article_count": 13,
@@ -190,7 +190,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2079188",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114341",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186213",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립부곡병원마약류중독자치료보호관리규정#JO0003",
             "target_unit": "BJ0001",
@@ -215,7 +215,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2079188",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114347",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186259",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립부곡병원마약류중독자치료보호관리규정#JO0003",
             "target_unit": "BJ0001_02",
@@ -240,7 +240,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2079188",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114353",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186265",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립부곡병원마약류중독자치료보호관리규정#JO0003",
             "target_unit": "BJ0001_03",
@@ -277,7 +277,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2079188",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114365",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186277",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립부곡병원마약류중독자치료보호관리규정#JO0004",
             "target_unit": "BJ0003",
@@ -326,7 +326,7 @@
         "article_title": "판별검사",
         "chapter": "",
         "chapter_path": "",
-        "content": "제6조(판별검사) ① 치료보호를 받고자 하는 사람은 영 제10조제1항 제11조에 따라 판별검사를 받아야 한다. <일부개정 2022.10.12., 2024. 9. 6.>② 다음의 경우에는 판별검사를 받아야 한다.1. 입원기간 중 외출ㆍ외박 후 귀원할 때2. 외래 방문할 때3. 기타 주치의가 필요하다고 판단할 경우③ 원장은 판별검사 결과를 별지 제1호의3서식의 마약류 중독 판별검사 결과 보고(통보)서에 따라 보건복지부 장관에게 보고해야 하며, 검찰 의뢰인 경우 해당 검사에게도 판별검사를 통보해야 한다. <신설 2022.10.12.>",
+        "content": "제6조(판별검사) ① 치료보호를 받고자 하는 사람은 영 제10조제1항 제11조에 따라 판별검사를 받아야 한다. <일부개정 2022.10.12., 2024. 9. 6.>② 다음의 경우에는 판별검사를 받아야 한다.1. 입원기간 중 외출ㆍ외박 후 귀원할 때2. 외래 방문할 때3. 기타 주치의가 필요하다고 판단할 경우③ 원장은 판별검사 결과를 별지 제1호의3서식의 마약류 중독 판별검사 결과 보고(통보)서에 따라 보건복지부 장관에게 보고해야 하며, 중대범죄수사청 및 공소청 의뢰인 경우 해당 기관에도 판별검사를 통보해야 한다. <신설 2022.10.12.,일부개정 2026.10. 2.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -386,7 +386,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2079188",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114353",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186265",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립부곡병원마약류중독자치료보호관리규정#JO0006",
             "target_unit": "BJ0001_03",
@@ -403,7 +403,7 @@
         "article_title": "입원 생활",
         "chapter": "",
         "chapter_path": "",
-        "content": "제7조(입원 생활) ① 치료보호를 위해 입원하고 있는 동안에는 병원의 병실관리규정에 따른다.<개정 2022.10.12.>② 효과적이고 집중적인 치료를 위해 일정기간을 휴대전화 사용을 금할 수 있다. <개정 2015. 8. 3.>③ 치료 및 재활을 위하여 외출ㆍ외박은 제한하되 다음의 경우에는 외출ㆍ외박을 허용할 수 있다. 단, 시간은 약물중독진료소 치료심의 회의 결정에 따른다. <개정 2015. 8. 3., 2020.11.23.>1. 직계 존ㆍ비속의 경조사가 있을 경우2. 사법기관의 요청이 있을 경우3. 타 의료기관에서 진료가 필요할 경우(단, 이 경우에는 주치의의 판단과 보호의무자와 동행 시 가능하다.) <개정 2020.11.23.>4. 약물중독진료소 치료심의 회의에서 필요하다고 판단되는 경우 <신설 2015. 8. 3.>5. 삭제 <2016. 4.11.>④ 기타 사항은 약물중독 병동 입원 생활 규칙에 따른다.[본조신설 2015. 8. 3.]",
+        "content": "제7조(입원 생활) ① 치료보호를 위해 입원하고 있는 동안에는 병원의 병실관리규정에 따른다.<개정 2022.10.12.>② 효과적이고 집중적인 치료를 위해 일정기간을 휴대전화 사용을 금할 수 있다. <개정 2015. 8. 3.>③ 치료 및 재활을 위하여 외출ㆍ외박은 제한하되 다음의 경우에는 외출ㆍ외박을 허용할 수 있다. 단, 시간은 약물중독진료소 치료심의 회의 결정에 따른다. <개정 2015. 8. 3., 2020.11.23.>1. 직계 존ㆍ비속의 경조사가 있을 경우2. 사법기관의 요청이 있을 경우3. 타 의료기관에서 진료가 필요할 경우(단, 이 경우에는 주치의의 판단과 보호의무자와 동행 시 가능하다.) <개정 2020.11.23.>4. 약물중독진료소 치료심의 회의에서 필요하다고 판단되는 경우<신설 2015. 8. 3.>5. 삭제 <2016. 4.11.>④ 기타 사항은 약물중독 병동 입원 생활 규칙에 따른다.[본조신설 2015. 8. 3.]",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -479,7 +479,7 @@
         "article_title": "치료 상태 등 보고",
         "chapter": "",
         "chapter_path": "",
-        "content": "제12조(치료 상태 등 보고) ① 원장은 제4조제1항에 따른 치료보호기간(입원과 외래 각각)이 끝나기 10일 이전에 서면으로 보건복지부 장관에게 마약류중독자의 치료 상태를 보고하여야 한다. <일부개정 2022.10.12.>② 원장은 검사가 치료보호를 요청한 경우에 대해서 치료보호기간이 끝나기 10일 이전에 치료보호를 의뢰한 검사에게 치료 상태를 알려야 한다. <일부개정 2022.10.12.>③ 제1항부터 제2항까지의 규정에 따라 원장은 별지 2호서식의 치료상태보고서를 작성 후 보건복지부 장관에게 보고하고, 검찰 의뢰인 경우 해당 검사에게 통보한다. <개정 2022.10.12.>[본조신설 2015. 8. 3.]",
+        "content": "제12조(치료 상태 등 보고) ① 원장은 제4조제1항에 따른 치료보호기간(입원과 외래 각각)이 끝나기 10일 이전에 서면으로 보건복지부 장관에게 마약류중독자의 치료 상태를 보고하여야 한다. <일부개정 2022.10.12.>② 원장은 중대범죄수사청 및 공소청에서 치료보호를 요청한 경우에 대해서 치료보호기간이 끝나기 10일 이전에 치료보호를 의뢰한 기관에 치료 상태를 알려야 한다. <일부개정 2022.10.12., 일부개정 2026.10. 2.>③ 제1항부터 제2항까지의 규정에 따라 원장은 별지 2호서식의 치료상태보고서를 작성 후 보건복지부 장관에게 보고하고, 중대범죄수사청 및 공소청 의뢰인 경우 경우 해당 기관에 통보한다. <개정 2022.10.12.,일부개정 2026.10. 2.>[본조신설 2015. 8. 3.]",
         "enforcement_date": "",
         "relations": [
           {
@@ -519,7 +519,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2079188",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114359",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186271",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립부곡병원마약류중독자치료보호관리규정#JO0012",
             "target_unit": "BJ0002",
@@ -551,10 +551,10 @@
       "content": "부칙 <제205호,2014. 7. 9.>(시행일) 이 규정은 공포한 날부터 시행한다.",
       "provision_id": "admrul:국립부곡병원마약류중독자치료보호관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000246992",
+      "source_mst": "2100000286420",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240906"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20160411",
@@ -562,10 +562,10 @@
       "content": "부칙 <제239호,2016. 4. 11.>이 규정은 2016년 4월 11일부터 시행한다.",
       "provision_id": "admrul:국립부곡병원마약류중독자치료보호관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000246992",
+      "source_mst": "2100000286420",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240906"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20201123",
@@ -573,10 +573,10 @@
       "content": "부칙 <제304호,2020. 11. 23.>이 규정은 공포한 날부터 시행한다.",
       "provision_id": "admrul:국립부곡병원마약류중독자치료보호관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000246992",
+      "source_mst": "2100000286420",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240906"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20221012",
@@ -584,10 +584,10 @@
       "content": "부칙 <제348호, 2022. 10. 12.>이 규정은 2022년 10월 12일부터 시행한다.",
       "provision_id": "admrul:국립부곡병원마약류중독자치료보호관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000246992",
+      "source_mst": "2100000286420",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240906"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20240906",
@@ -595,10 +595,21 @@
       "content": "부칙 <제384호, 2024. 9. 6.>이 규정은 공포한 날부터 시행한다.",
       "provision_id": "admrul:국립부곡병원마약류중독자치료보호관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000246992",
+      "source_mst": "2100000286420",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240906"
+      "version_enforcement_date": "20261002"
+    },
+    {
+      "promulgation_date": "20261002",
+      "promulgation_no": "416",
+      "content": "부칙 <제416호, 2026. 10. 2.>이 규정은 공포한 날부터 시행한다.",
+      "provision_id": "admrul:국립부곡병원마약류중독자치료보호관리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000286420",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -611,17 +622,17 @@
       "content": "■ 국립부곡병원 마약류중독자 치료보호관리규정 [별지 제1호서식]\n\n[ ] 판별검사ㆍ치료보호 의뢰ㆍ통보\n마약류중독자 등         [ ] 판별검사ㆍ치료보호 신청\n\n\n※ [  ]에는 해당하는 곳에 √표를 합니다.\n━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n이름              │주민등록번호\n──────────┴─────────────────────────────\n주소ㆍ거소\n─────────────────┬──────────────────────\n학력                            │직업\n─────────────────┴──────────────────────\n사용ㆍ중독 마약류\n────────────────────────────────────────\n사용 기간\n────────────────────────────────────────\n「마약류중독자 치료보호규정」 제9조제4항에 따라 위와 같이 마약류중독자 등의 [  ]판\n별검사 또는 [  ]치료보호를 [  ]의뢰ㆍ[  ]통보ㆍ[  ]신청합니다.\n\n년     월     일\n\n의뢰인ㆍ통보인                  (서명 또는 인)\n\n\n신청인              (마약류중독자 등과의 관계)                   (서명 또는 인)\n\n\n\n보건복지부장관, 시ㆍ도지사, 치료보호기관의 장 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n────────────────────────────────────────\n\n\n┌────────┐  ┌──┐  ┌────────────┐  ┌──┐  ┌──┐\n│의뢰ㆍ통보ㆍ신청│?│접수│?│치료보호심사위원회 심의 │?│결재│?│통보│\n└────────┘  └──┘  └────────────┘  └──┘  └──┘\n\n\n\n────────────────────────────────────────\n210㎜×297㎜[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114341",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186213",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114337",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186209",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114341",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186213",
           "name": "",
           "file_store_url": ""
         }
@@ -642,17 +653,17 @@
       "content": "■ 국립부곡병원 마약류중독자 치료보호관리규정 [별지 제1호의2서식]\n판별검사ㆍ치료보호 통보(보고)서\n\n※ [  ]에는 해당하는 곳에 √표를 합니다.\n━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n이름│주민등록번호\n───┴────────────────────────────────────────\n판별검사 또는 치료보호 일시\n────────────────────────────────────────────\n판별검사 또는 치료보호 장소\n────────────────────────────────────────────\n판별검사 또는 치료보호 사유\n────────────────────────────────────────────\n비고\n────────────────────────────────────────────\n「마약류중독자 치료보호규정」 제10조제3항에 따라 위 사람의 [  ]판별검사 또는 [  ]\n치료보호의 일시ㆍ장소 및 사유를 통보(보고)합니다.\n\n년    월     일\n\n\n\n┏━━┓\n국립부곡병원장  ┃직인┃\n┗━━┛\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210㎜×297㎜[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114347",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186259",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114343",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186215",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114347",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186259",
           "name": "",
           "file_store_url": ""
         }
@@ -673,17 +684,17 @@
       "content": "■ 국립부곡병원 마약류중독자 치료보호관리규정 [별지 제1호의3서식]\n마약류 중독 판별검사 결과 보고(통보)서\n━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n이름      │주민등록번호\n──────┴──────────────────────────────────────\n주소ㆍ거소\n─────────────────────────────────────────────\n사용ㆍ중독 마약류\n─────────────────────────────────────────────\n「마약류중독자 치료보호규정」 제12조에 따라 위 사람에 대한 마약류 중독 판별검사 결과\n를 보고(통보)합니다.\n\n년    월     일\n\n┏━━┓\n국립부곡병원장 ┃직인┃\n┗━━┛\n\n\n보건복지부장관, 시ㆍ도지사, 검사 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────┬───────────────────────────────────────\n첨부서류│ 진단서 사본 및 소견서 사본 각 1부\n─────┴───────────────────────────────────────\n210㎜×297㎜[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114353",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186265",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114349",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186261",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114353",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186265",
           "name": "",
           "file_store_url": ""
         }
@@ -704,17 +715,17 @@
       "content": "■ 국립부곡병원 마약류중독자 치료보호관리규정 [별지 제2호서식]\n치료 상태 보고서\n━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n이름│주민등록번호\n───┴────────────────────────────────────────\n치료 시작 일시\n────────────────────────────────────────────\n치료 기간\n────────────────────────────────────────────\n치료 상태\n────────────────────────────────────────────\n「마약류중독자 치료보호규정」 제17조제1항에 따라 위 사람의 치료 상태를 보고합니다.\n\n년    월     일\n\n┏━━┓\n국립부곡병원장  ┃직인┃\n┗━━┛\n\n보건복지부장관, 시ㆍ도지사, 검사 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210㎜×297㎜[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114359",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186271",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114355",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186267",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114359",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186271",
           "name": "",
           "file_store_url": ""
         }
@@ -735,17 +746,17 @@
       "content": "■ 국립부곡병원 마약류중독자 치료보호관리규정 [별지 제3호서식]\n\n치료보호기간 연장 보고서\n━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n이름│주민등록번호\n───┴────────────────────────────────────────\n사용ㆍ중독 마약류\n────────────────────────────────────────────\n기존 치료보호기간\n────────────────────────────────────────────\n연장 필요 치료보호기간\n────────────────────────────────────────────\n연장 필요 사유\n────────────────────────────────────────────\n「마약류중독자 치료보호규정」 제16조제1항에 따라 위 사람의 치료보호기간 연장을 보고\n합니다.\n\n년    월     일\n\n┏━━┓\n국립부곡병원장  ┃직인┃\n┗━━┛\n\n\n보건복지부장관, 시ㆍ도지사 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210㎜×297㎜[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114365",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186277",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114361",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186273",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144114365",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170186277",
           "name": "",
           "file_store_url": ""
         }
@@ -760,35 +771,19 @@
   ],
   "attachments": [
     {
-      "name": "12-1. 국립부곡병원 마약류중독자 치료보호 관리규정 일부개정(안).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=144114283",
-      "filename": "12-1. 국립부곡병원 마약류중독자 치료보호 관리규정 일부개정(안).hwpx",
+      "name": "「국립부곡병원 마약류중독자 치료보호 관리규정」 개정 전문(제416호¸26.10.2).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170185227",
+      "filename": "「국립부곡병원 마약류중독자 치료보호 관리규정」 개정 전문(제416호¸26.10.2).hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/12-1. 국립부곡병원 마약류중독자 치료보호 관리규정 일부개정(안).hwpx",
+      "local_path": "첨부파일/「국립부곡병원 마약류중독자 치료보호 관리규정」 개정 전문(제416호¸26.10.2).hwpx",
       "file_store_url": ""
     },
     {
-      "name": "12-1. 국립부곡병원 마약류중독자 치료보호 관리규정 일부개정(안).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=144114287",
-      "filename": "12-1. 국립부곡병원 마약류중독자 치료보호 관리규정 일부개정(안).pdf",
+      "name": "「국립부곡병원 마약류중독자 치료보호 관리규정」 개정 전문(제416호¸26.10.2).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170185231",
+      "filename": "「국립부곡병원 마약류중독자 치료보호 관리규정」 개정 전문(제416호¸26.10.2).pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/12-1. 국립부곡병원 마약류중독자 치료보호 관리규정 일부개정(안).pdf",
-      "file_store_url": ""
-    },
-    {
-      "name": "12-2. 국립부곡병원 마약류중독자 치료보호 관리규정 전문.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=144114291",
-      "filename": "12-2. 국립부곡병원 마약류중독자 치료보호 관리규정 전문.hwpx",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/12-2. 국립부곡병원 마약류중독자 치료보호 관리규정 전문.hwpx",
-      "file_store_url": ""
-    },
-    {
-      "name": "12-2. 국립부곡병원 마약류중독자 치료보호 관리규정 전문.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=144114295",
-      "filename": "12-2. 국립부곡병원 마약류중독자 치료보호 관리규정 전문.pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/12-2. 국립부곡병원 마약류중독자 치료보호 관리규정 전문.pdf",
+      "local_path": "첨부파일/「국립부곡병원 마약류중독자 치료보호 관리규정」 개정 전문(제416호¸26.10.2).pdf",
       "file_store_url": ""
     }
   ],
@@ -810,9 +805,9 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 6,
     "appendices_count": 5,
-    "attachments_count": 4
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/국립부곡병원 마약류중독자 치료보호 관리규정"
