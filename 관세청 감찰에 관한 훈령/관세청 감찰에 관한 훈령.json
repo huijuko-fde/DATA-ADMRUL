@@ -1,25 +1,25 @@
 {
   "law_id": "71920",
-  "mst": "2100000262644",
+  "mst": "2100000286124",
   "law_name": "관세청 감찰에 관한 훈령",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:71920",
-  "promulgation_no": "2419",
-  "promulgation_date": "20250804",
-  "enforcement_date": "20250804",
-  "revision_date": "20250804",
+  "promulgation_no": "2502",
+  "promulgation_date": "20261002",
+  "enforcement_date": "20261002",
+  "revision_date": "20261002",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "관세청(감찰팀)",
-    "담당자명": "김성원",
+    "담당자명": "배길환",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "관세청 감찰에 관한 훈령",
-    "발령일자": "20250804",
+    "발령일자": "20261002",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "042-481-7725",
     "제개정구분명": "일부개정",
     "소관부처코드": "1220000",
-    "생성일자": "20250806",
+    "생성일자": "20261006",
     "행정규칙ID": "71920",
-    "시행일자": "20250804",
+    "시행일자": "20261002",
     "담당부서기관코드": "1221086",
-    "발령번호": "2419",
-    "행정규칙일련번호": "2100000262644",
+    "발령번호": "2502",
+    "행정규칙일련번호": "2100000286124",
     "상위부처명": "관세청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정이유\n○ 소속 직원의 비위와 관련한 조사ㆍ수사 자료를 감사원 등으로부터 제공받을 수 있도록 관련 법령*이 개정됨에 따라 세부 절차 마련\n* 국가공무원법 제83조(감사원의 조사와의 관계 등), 공무원징계령 제8조의3(조사ㆍ수사 자료의 범위)\n◇ 주요 개정내용\n□ 외부수사기관 등 자료제출 요청(제13조의2 신설)\n○ 감사원이나 수사기관에서 수사개시 등 통보된 사건에 대한 감찰조사 등 징계 절차를 진행하기 위해 관련 조사ㆍ수사 자료를 요청하도록 조문 신설",
+  "revision_reason": "◇ 개정사유 및 주요내용\nㅇ 2025. 10. 1. 「정부조직법」 개정으로 검찰청 폐지 및 공소청과 중대범죄수사청 신설에 따라 기관명 등 관련 조문 정비\n* 2026. 10. 2. 시행",
   "body": {
     "format": "articles",
     "article_count": 25,
@@ -304,7 +304,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "71920",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255377",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126929",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감찰에관한훈령#JO0006",
             "target_unit": "BJ0001",
@@ -329,7 +329,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "71920",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255463",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126935",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감찰에관한훈령#JO0006",
             "target_unit": "BJ0001_02",
@@ -429,7 +429,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "71920",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255481",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126993",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감찰에관한훈령#JO0008_02",
             "target_unit": "BJ0004",
@@ -468,7 +468,7 @@
         "article_title": "감찰조사 실시",
         "chapter": "",
         "chapter_path": "",
-        "content": "제10조의2(감찰조사 실시) ① 감찰관은 다음 각 호의 사유가 발생한 때에는 감찰조사를 실시한다.1. 사고 또는 비위ㆍ부정에 관한 발생보고를 받았거나 인지하였을 떄2. 진정서, 다른 기관으로부터 이송된 첩보 또는 그 밖의 자료에 따라 사고 또는 비위ㆍ부정의 혐의가 있다고 인정될 때② 제1항에도 불구하고 검찰ㆍ경찰, 그 밖의 수사기관의 수사개시 통보를 받은 경우에는 수사결과 통보를 받을 때까지 감찰조사를 진행하지 아니할 수 있다.",
+        "content": "제10조의2(감찰조사 실시) ① 감찰관은 다음 각 호의 사유가 발생한 때에는 감찰조사를 실시한다.1. 사고 또는 비위ㆍ부정에 관한 발생보고를 받았거나 인지하였을 떄2. 진정서, 다른 기관으로부터 이송된 첩보 또는 그 밖의 자료에 따라 사고 또는 비위ㆍ부정의 혐의가 있다고 인정될 때② 제1항에도 불구하고 경찰ㆍ중대범죄수사청, 그 밖의 수사기관의 수사개시 통보를 받은 경우에는 수사결과 통보를 받을 때까지 감찰조사를 진행하지 아니할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -544,7 +544,7 @@
         "article_title": "외부수사기관 등 자료 제출 요청",
         "chapter": "",
         "chapter_path": "",
-        "content": "제13조의2(외부수사기관 등 자료 제출 요청) 감찰관은 감사원과 검찰ㆍ경찰, 그 밖의 수사기관으로부터 조사 또는 수사 결과 통보를 받은 때에 감찰조사 등 징계절차 진행을 위해 필요한 범위에서 소속기관장의 승인을 받아 다음 각호 자료를 요청할 수 있다.1. 감사원 : 공무원 징계처분 또는 징계부가금 부과처분 요구서, 혐의자ㆍ관련자에 대한 감사보고서, 문답서, 확인서 등 조사자료2. 검찰ㆍ경찰, 그 밖의 수사기관 : 수사개시통보서, 공무원 범죄처분 결과통보서, 공소장, 불기소 결정서, 송치 결정서, 불송치 결정서, 혐의자에 대한 신문조서, 진술서 등 수사자료",
+        "content": "제13조의2(외부수사기관 등 자료 제출 요청) 감찰관은 감사원과 경찰ㆍ중대범죄수사청, 그 밖의 수사기관으로부터 조사 또는 수사 결과 통보를 받은 때에 감찰조사 등 징계절차 진행을 위해 필요한 범위에서 소속기관장의 승인을 받아 다음 각호 자료를 요청할 수 있다.1. 감사원 : 공무원 징계처분 또는 징계부가금 부과처분 요구서, 혐의자ㆍ관련자에 대한 감사보고서, 문답서, 확인서 등 조사자료2. 경찰ㆍ중대범죄수사청, 그 밖의 수사기관 : 수사개시통보서, 공무원 범죄처분 결과통보서, 공소장, 불기소 결정서, 송치 결정서, 불송치 결정서, 혐의자에 대한 신문조서, 진술서 등 수사자료",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -606,7 +606,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "71920",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255469",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126981",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감찰에관한훈령#JO0015",
             "target_unit": "BJ0002",
@@ -695,7 +695,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "71920",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255475",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126987",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감찰에관한훈령#JO0017",
             "target_unit": "BJ0003",
@@ -720,7 +720,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "71920",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255475",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126987",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감찰에관한훈령#JO0017",
             "target_unit": "BJ0003",
@@ -827,10 +827,10 @@
       "content": "부칙 <제2002호,2020. 4. 28.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세청감찰에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000262644",
+      "source_mst": "2100000286124",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250804"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20210330",
@@ -838,10 +838,10 @@
       "content": "부칙 <제2080호, 2021. 3. 30.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세청감찰에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000262644",
+      "source_mst": "2100000286124",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250804"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20211228",
@@ -849,10 +849,10 @@
       "content": "부칙 <제2146호, 2021. 12. 28.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세청감찰에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000262644",
+      "source_mst": "2100000286124",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250804"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20240322",
@@ -860,10 +860,10 @@
       "content": "부칙 <제2314호, 2024. 3. 22.>이 훈령은 2024년 3월 25일부터 시행한다.",
       "provision_id": "admrul:관세청감찰에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000262644",
+      "source_mst": "2100000286124",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250804"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20241230",
@@ -871,10 +871,10 @@
       "content": "부칙 <제2374호, 2024. 12. 30.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세청감찰에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000262644",
+      "source_mst": "2100000286124",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250804"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20250804",
@@ -882,10 +882,21 @@
       "content": "부칙 <제2419호, 2025. 8. 4.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세청감찰에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000262644",
+      "source_mst": "2100000286124",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250804"
+      "version_enforcement_date": "20261002"
+    },
+    {
+      "promulgation_date": "20261002",
+      "promulgation_no": "2502",
+      "content": "부칙 <제2502호, 2026. 10. 2.>이 훈령은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:관세청감찰에관한훈령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000286124",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -898,17 +909,17 @@
       "content": "[별지 제1호서식] 회피신청서\n\n회 피 신 청 서\n─────┬───┬┬────┬───────\n신 청 인│소  속││직  급  │\n├───┼┼────┼───────\n│성  명││생년월일│\n─────┼───┴┴────┴───────\n회피대상│\n─────┼─────────────────\n회피사유│ <작성예시>\n│ □ 본인이 사건의 피해자임\n│ □ 본인은 사건의 조사대상자ㆍ피해자 ○○○과 (부부, 형제 등) 친족임\n│ □ 본인은 사건의 조사대상자ㆍ피해자 ○○○과 ○○○○년 ○○월\n│까지 (부부, 형제 등) 친족관계에 있었음\n│ □ 본인은 사건의 조사대상자ㆍ피해자 ○○○의 대리인 또는 후견인임\n│ □ 본인은 사건에 대해 (객관적이고 구체적인 사유를 상세히 기재)한\n│사유로 인해 공정한 감찰직무를 수행하기 곤란한 사정이 있음\n─────┼─────────────────\n증빙서류│<작성예시>\n│ 가족관계증명서 1부\n─────┴─────────────────\n20  .    .    .\n신청인                      (서명)\n\n관세청 감찰팀장(○○세관 감사담당관) 귀하\n━━━━━━━━━━━━━━━━━━━━━━━",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255377",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126929",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255373",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126925",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255377",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126929",
           "name": "",
           "file_store_url": ""
         }
@@ -929,17 +940,17 @@
       "content": "[별지 1호의2서식] 기피신청서\n\n기 피 신 청 서\n┌─────┬───┬┬────┬────────────────────────┐\n│신 청 인  │소  속││직  급  │                                                │\n│          ├───┼┼────┼────────────────────────┤\n│          │성  명││생년월일│                                                │\n├─────┼───┼┼────┼────────────────────────┤\n│담당감찰관│소  속││성  명  │                                                │\n├─────┼───┴┴────┴────────────────────────┤\n│기피사유  │ <작성예시>                                                         │\n│          │ □ 감찰관이 사건의 관련자(당사자, 피해자 등)임                     │\n│          │ □ 감찰관은 사건의 조사대상자ㆍ피해자 OOO과 (부부, 형제 등)        │\n│          │친족임                                                              │\n│          │ □ 감찰관은 사건의 조사대상자ㆍ피해자 OOO과 OO년 OO월까지          │\n│          │(부부, 형제 등) 친족이었음                                          │\n│          │ □ 감찰관은 사건의 조사대상자ㆍ피해자 ○○○의 대리인 또는 후견인임│\n│          │ □ 감찰관은 사건에 대해 (객관적이고 구체적인 사유를 상세히 기재)한 │\n│          │사유로 인해 공정한 감찰직무를 수행하기 곤란한 사정이 있음           │\n├─────┼──────────────────────────────────┤\n│증빙서류  │<작성예시>                                                          │\n│          │ 가족관계증명서 1부                                                 │\n├─────┴──────────────────────────────────┤\n│20  .    .    .                                                                 │\n│신청인                      (서명)                                              │\n│                                                                                │\n│관세청 감찰팀장(○○세관 감사담당관) 귀하                                       │\n└────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255463",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126935",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255459",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126931",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255463",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126935",
           "name": "",
           "file_store_url": ""
         }
@@ -960,17 +971,17 @@
       "content": "[별지 제2호서식] 출석요구서\n\n출 석 요 구 서\n┌───────────────────────────────────┐\n│ 귀하의 ○○○ 위반 행위와 관련하여(홍길동의 ○○○ 위반 행위와 관련  │\n│하여 참고인으로) 문의할 일이 있으니 20  .    .   . 오전(후)     시에  │\n│관세청 감찰팀(○○세관 감사담당관실)으로 출석하여 주시기 바랍니다.    │\n│                                                                      │\n│ 출석하실 때에는 반드시 이 출석요구서와 주민등록증(또는 운전면허증, 공│\n│무원증) 및 도장을 가지고 나오시기 바랍니다.                           │\n│                                                                      │\n│ 지정된 일시에 출석할 수 없는 부득이한 사정이 있거나 이 출석요구서와  │\n│관련하여 궁금한 점이 있으면, ○○○ 감찰관(☎ ○○○-○○○-○○○○) │\n│에게 문의하시기 바랍니다.                                             │\n│                                                                      │\n│ 정당한 사유 없이 출석을 거부하는 경우에는 ?관세청 감찰에 관한 훈령?│\n│제20조제1항에 따라 징계 요구 등 조치할 수 있음을 알려드리오니 유의하  │\n│시기 바랍니다.                                                        │\n│                                                                      │\n│20  .   .   .                                                         │\n│                                                                      │\n│관 세 청 ( ○ ○ 세 관 )                                              │\n│                                                                      │\n│                                                                      │\n│감찰팀(감사담당관실)  ○급             (서명 또는 인)                 │\n│  담당 감찰관  ○급             (서명 또는 인)                        │\n└───────────────────────────────────┘\n\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255469",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126981",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255465",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126937",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255469",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126981",
           "name": "",
           "file_store_url": ""
         }
@@ -991,17 +1002,17 @@
       "content": "[별지 제3호서식] 근무시간외(심야) 조사 동의(요청)서\n\n□ 근무시간외  조사     동의(요청)서\n□ 심야\n──────┬───┬────┬────┬──────────────────\n피조사자  │소  속│        │직  급  │\n├───┼────┼────┼──────────────────\n│성  명│        │생년월일│\n──────┼───┴────┴────┴──────────────────\n동의(요청)│\n일시      │\n──────┼────────────────────────────────\n사    유  │  □ 피조사자의 개인 사정(재출석 곤란 등)\n│\n│  □ 진행되어 온 조사를 완료하기를 희망\n│\n│  □ 그 밖의 사유 (                                          )\n──────┴────────────────────────────────\n본인은 위와 같은 사유로 근무시간외(심야) 조사 받는 것을 동의(요청)합니다.\n\n20  .    .     .\n\n피조사자                     (서명 또는 인)\n감 찰 관                     (서명 또는 인)\n───────────────────────────────────────\n\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255475",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126987",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255471",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126983",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255475",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126987",
           "name": "",
           "file_store_url": ""
         }
@@ -1022,17 +1033,17 @@
       "content": "[별지 4호서식] 비위발생 보고\n\n비위발생 보고\n┌───┬───┬┬────┬───────┐\n│관  련│소  속││직  급  │              │\n│직  원├───┼┼────┼───────┤\n│      │성  명││생년월일│              │\n├───┼───┴┴────┴───────┤\n│비 위 │<작성예시>                        │\n│내 용 │                                  │\n│      │ □ 비위요지                      │\n│      │ □ 관련직원 진술                 │\n│      │ □ 기타                          │\n│      │                                  │\n├───┼─────────────────┤\n│조 치 │                                  │\n│의 견 │                                  │\n├───┴─────────────────┤\n│20  .    .    .                           │\n│                                          │\n│관세청 감찰팀장(○○세관 감사담당관) 귀하 │\n└─────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255481",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126993",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255477",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126989",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155255481",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170126993",
           "name": "",
           "file_store_url": ""
         }
@@ -1047,43 +1058,19 @@
   ],
   "attachments": [
     {
-      "name": "3. 「관세청 감찰에 관한 훈령」 개정 전문 1부.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=155219203",
-      "filename": "3. 「관세청 감찰에 관한 훈령」 개정 전문 1부.hwpx",
+      "name": "3. 「관세청 감찰에 관한 훈령」개정전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170126687",
+      "filename": "3. 「관세청 감찰에 관한 훈령」개정전문.hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/3. 「관세청 감찰에 관한 훈령」 개정 전문 1부.hwpx",
+      "local_path": "첨부파일/3. 「관세청 감찰에 관한 훈령」개정전문.hwpx",
       "file_store_url": ""
     },
     {
-      "name": "3. 「관세청 감찰에 관한 훈령」 개정 전문 1부.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=155219207",
-      "filename": "3. 「관세청 감찰에 관한 훈령」 개정 전문 1부.pdf",
+      "name": "3. 「관세청 감찰에 관한 훈령」개정전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170126691",
+      "filename": "3. 「관세청 감찰에 관한 훈령」개정전문.pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/3. 「관세청 감찰에 관한 훈령」 개정 전문 1부.pdf",
-      "file_store_url": ""
-    },
-    {
-      "name": "1. 「관세청 감찰에 관한 훈령」 개정요약서 1부.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=155219211",
-      "filename": "1. 「관세청 감찰에 관한 훈령」 개정요약서 1부.hwpx",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/1. 「관세청 감찰에 관한 훈령」 개정요약서 1부.hwpx",
-      "file_store_url": ""
-    },
-    {
-      "name": "1. 「관세청 감찰에 관한 훈령」 개정요약서 1부.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=155219215",
-      "filename": "1. 「관세청 감찰에 관한 훈령」 개정요약서 1부.pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/1. 「관세청 감찰에 관한 훈령」 개정요약서 1부.pdf",
-      "file_store_url": ""
-    },
-    {
-      "name": "2. 「관세청 감찰에 관한 훈령」 신구조문대비표 1부.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=155217043",
-      "filename": "2. 「관세청 감찰에 관한 훈령」 신구조문대비표 1부.hwpx",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/2. 「관세청 감찰에 관한 훈령」 신구조문대비표 1부.hwpx",
+      "local_path": "첨부파일/3. 「관세청 감찰에 관한 훈령」개정전문.pdf",
       "file_store_url": ""
     }
   ],
@@ -1105,9 +1092,9 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 6,
+    "addenda_count": 7,
     "appendices_count": 5,
-    "attachments_count": 5
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/관세청 감찰에 관한 훈령"
