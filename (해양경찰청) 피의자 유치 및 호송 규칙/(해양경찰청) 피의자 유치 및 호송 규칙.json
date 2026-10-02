@@ -1,25 +1,25 @@
 {
   "law_id": "25525",
-  "mst": "2100000267574",
+  "mst": "2100000286488",
   "law_name": "(해양경찰청) 피의자 유치 및 호송 규칙",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:25525",
-  "promulgation_no": "457",
-  "promulgation_date": "20251107",
-  "enforcement_date": "20251107",
-  "revision_date": "20251107",
+  "promulgation_no": "500",
+  "promulgation_date": "20261002",
+  "enforcement_date": "20261002",
+  "revision_date": "20261002",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "해양경찰청(수사심사과)",
-    "담당자명": "임승일",
+    "담당자명": "임두환",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "(해양경찰청) 피의자 유치 및 호송 규칙",
-    "발령일자": "20251107",
+    "발령일자": "20261002",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "032-835-2231",
     "제개정구분명": "일부개정",
     "소관부처코드": "1532000",
-    "생성일자": "20251118",
+    "생성일자": "20261006",
     "행정규칙ID": "25525",
-    "시행일자": "20251107",
-    "담당부서기관코드": "1532756",
-    "발령번호": "457",
-    "행정규칙일련번호": "2100000267574",
+    "시행일자": "20261002",
+    "담당부서기관코드": "1532704",
+    "발령번호": "500",
+    "행정규칙일련번호": "2100000286488",
     "상위부처명": "해양경찰청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정 이유\n국제적 인권 기준 향상 및 유치ㆍ호송 환경의 변화에 따른 외국인 유치인 영사관원 접견교통권 보장, 질서 있는 접견권 보장을 위한 동시 접견 제한 규정을 신설하는 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n◇ 주요내용\n가. 유치인보호관 배치 자격 제한기준(안 제16조제2항단서 신설)\n나. 유치인의 질병 등으로 인한 외부 진료 필요시 관련 법령 안내 등 건강권 보장 노력(안 제32조제5항 신설)\n다. 외국인 유치인의 영사관원 접견교통권 보장(안 제35조의2 신설)\n라. 체포 또는 구속된 피의자와 변호인 이외의 자와의 접견 등을 금지하려는 경우 「해양경찰수사규칙」 제59조제1항에 따른 피의자 접견 등 금지 결정서를 작성하도록 함(안 제37조)\n마. 질서 있는 접견권 보장을 위한 동시 접견 제한(안 제39조제1항제3호 신설)\n바. 유치인 접견권 확대를 위한 영상통화접견(안 제39조의2 신설)\n사. 호송계획 수립 시기 명확화(안 제48조)\n아. 호송 시 수갑 등 필요적 사용을 임의적 규정으로 변경(안 제51조)",
+  "revision_reason": "◇ 개정 이유\n「형사소송법」 개정에 따른 공소청 체제 전환, 수사기관의 권한 조정에 따른 피의자 유치 및 호송 규칙 개정 추진\n◇ 주요내용\n검찰청 폐지 및 공소청 체제 전환에 따른 기관명칭 정비",
   "body": {
     "format": "articles",
     "article_count": 79,
@@ -142,7 +142,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25525",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234611",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114037",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#JO0006",
             "target_unit": "BJ0001",
@@ -187,7 +187,7 @@
             "appendix_found": false,
             "target_mst": "",
             "source_admrul_seq": "25525",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267574&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286488&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#JO0006",
             "target_unit": "BJ0051",
@@ -212,7 +212,7 @@
             "appendix_found": false,
             "target_mst": "",
             "source_admrul_seq": "25525",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267574&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286488&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#JO0006",
             "target_unit": "BJ0052",
@@ -237,7 +237,7 @@
             "appendix_found": false,
             "target_mst": "",
             "source_admrul_seq": "25525",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267574&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286488&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#JO0006",
             "target_unit": "BJ0053",
@@ -262,7 +262,7 @@
             "appendix_found": false,
             "target_mst": "",
             "source_admrul_seq": "25525",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267574&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286488&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#JO0006",
             "target_unit": "BJ0054",
@@ -287,7 +287,7 @@
             "appendix_found": false,
             "target_mst": "",
             "source_admrul_seq": "25525",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267574&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286488&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#JO0006",
             "target_unit": "BJ0055",
@@ -312,7 +312,7 @@
             "appendix_found": false,
             "target_mst": "",
             "source_admrul_seq": "25525",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267574&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286488&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#JO0006",
             "target_unit": "BJ0056",
@@ -337,7 +337,7 @@
             "appendix_found": false,
             "target_mst": "",
             "source_admrul_seq": "25525",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267574&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286488&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#JO0006",
             "target_unit": "BJ0149",
@@ -385,7 +385,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25525",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234617",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114043",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#JO0008",
             "target_unit": "BJ0002",
@@ -410,7 +410,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25525",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267574&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286488&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#JO0008",
             "target_unit": "BYL0003",
@@ -487,7 +487,7 @@
             "appendix_found": false,
             "target_mst": "",
             "source_admrul_seq": "25525",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267574&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286488&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#JO0009",
             "target_unit": "BJ0056",
@@ -524,7 +524,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25525",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234617",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114043",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#JO0010",
             "target_unit": "BJ0002",
@@ -705,7 +705,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25525",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234623",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114049",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#JO0013",
             "target_unit": "BJ0003",
@@ -730,7 +730,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25525",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234617",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114043",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#JO0013",
             "target_unit": "BJ0002",
@@ -807,7 +807,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25525",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234617",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114043",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#JO0014",
             "target_unit": "BJ0002",
@@ -844,7 +844,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25525",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267574&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286488&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#JO0015",
             "target_unit": "BYL0001",
@@ -912,7 +912,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25525",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267574&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286488&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#JO0017",
             "target_unit": "BYL0002",
@@ -1119,7 +1119,7 @@
         "article_title": "사고발생에 대한 조치",
         "chapter": "제4장 보안",
         "chapter_path": "제4장 보안",
-        "content": "제25조(사고발생에 대한 조치) ① 유치인보호관은 유치인 또는 유치장에서 사고가 발생 한 경우에는 응급조치와 함께 지체 없이 유치인보호주무자를 거쳐 소속 해양경찰서장에게 보고해야 한다.② 해양경찰서장은 유치장 사고 중 유치인의 사망, 도주 등 중요한 사고에 대하여는 지체 없이 관할 지방해양경찰청장과 지방검찰청 검사장(지청의 경우에는 지청장을 말한다)에게 보고 또는 통보해야 한다.③ 제2항에 따른 보고를 받은 지방해양경찰청장은 필요한 조치를 취함과 동시에 이를 지체 없이 해양경찰청장에게 보고해야 한다.④ 유치인이 자살하였거나 질병으로 사망 한 경우에는 지체 없이 가족 등에게 통지하는 동시에 의사의 검안을 요청하는 등 적절한 조치를 취해야 하며, 사망의 원인, 그 밖에 필요한 사항을 명백히 밝혀야 한다.",
+        "content": "제25조(사고발생에 대한 조치) ① 유치인보호관은 유치인 또는 유치장에서 사고가 발생 한 경우에는 응급조치와 함께 지체 없이 유치인보호주무자를 거쳐 소속 해양경찰서장에게 보고해야 한다.② 해양경찰서장은 유치장 사고 중 유치인의 사망, 도주 등 중요한 사고에 대하여는 지체 없이 관할 지방해양경찰청장과 지방공소청장 또는 지청장에게 보고 또는 통보해야 한다.③ 제2항에 따른 보고를 받은 지방해양경찰청장은 필요한 조치를 취함과 동시에 이를 지체 없이 해양경찰청장에게 보고해야 한다.④ 유치인이 자살하였거나 질병으로 사망 한 경우에는 지체 없이 가족 등에게 통지하는 동시에 의사의 검안을 요청하는 등 적절한 조치를 취해야 하며, 사망의 원인, 그 밖에 필요한 사항을 명백히 밝혀야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1130,7 +1130,7 @@
         "article_title": "피난 및 일시 석방",
         "chapter": "제4장 보안",
         "chapter_path": "제4장 보안",
-        "content": "제26조(피난 및 일시 석방) ① 해양경찰서장은 풍수해, 화재 등 재난으로 인하여 유치장 내에서 피난시킬 다른 방도가 없다고 인정되는 경우에는 관할 지방검찰청 검사장과 협의하여 유치인을 다른 장소로 호송하여 피난시키거나 일시 석방할 수 있다. 다만, 관할 지방검찰청 검사장과 협의 할 시간적 여유가 없을 때에는 사후에 지체 없이 통보해야 한다.② (삭 제)③ 해양경찰서장은 제1항에 따라 유치인을 일시 석방할 때에는 출석일시 및 장소를 지정하여 고지하고 정당한 이유 없이 출석하지 않을 경우 「형법」 제145조제2항에 따라 가중 처벌된다는 점을 알려야 한다.",
+        "content": "제26조(피난 및 일시 석방) ① 해양경찰서장은 풍수해, 화재 등 재난으로 인하여 유치장 내에서 피난시킬 다른 방도가 없다고 인정되는 경우에는 관할 지방공소청장 또는 지청장과 협의하여 유치인을 다른 장소로 호송하여 피난시키거나 일시 석방할 수 있다. 다만, 관할 지방공소청장 또는 지청장과 협의 할 시간적 여유가 없을 때에는 사후에 지체 없이 통보해야 한다.② (삭 제)③ 해양경찰서장은 제1항에 따라 유치인을 일시 석방할 때에는 출석일시 및 장소를 지정하여 고지하고 정당한 이유 없이 출석하지 않을 경우 「형법」 제145조제2항에 따라 가중 처벌된다는 점을 알려야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1267,7 +1267,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25525",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234629",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114055",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#JO0031",
             "target_unit": "BJ0004",
@@ -1695,7 +1695,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "25525",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234635",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114061",
             "resolve_method": "html",
             "source_provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#JO0037",
             "target_unit": "BJ0005",
@@ -2498,7 +2498,7 @@
         "article_title": "사고발생시의 조치",
         "chapter": "제9장 호송",
         "chapter_path": "제9장 호송",
-        "content": "제66조(사고발생시의 조치) 호송관은 호송 중 피호송자가 도주, 사망, 질병 또는 그 밖에 사고가 발생한 경우 다음 각 호의 구분에 따라 신속하게 조치해야 한다.1. 피호송자가 도망하였을 경우가. 즉시 사고발생지 관할 해양경찰관서에 신고하고 도주 피의자 수배 및 수사에 필요한 사항을 알려주어야 하며, 소속 해양경찰관서의 장에게 전화, 전보 그 밖에 신속한 방법으로 보고하여 그 지휘를 받아야 한다. 이 경우에 즉시 보고할 수 없는 때에는 신고 관서에 보고를 의뢰할 수 있다.나. 호송관서의 장은 보고받은 즉시 상급 감독관서에 보고 및 관할 지방검찰청에 통보하는 동시에 인수관서에 통지하고 도주 피의자의 수사에 착수해야 하며, 사고발생지 관할 해양경찰서장에게 수사를 의뢰해야 한다.다. 도주한 자에 관한 호송관계서류 및 금품은 호송관서에 보관해야 한다.2. 피호송자가 사망하였을 경우가. 즉시 사망지 관할 해양경찰관서에 신고하고 시체와 서류 및 영치금품은 신고 관서에 인도해야 한다. 다만, 부득이한 경우에는 다른 도착지의 관할 해양경찰관서에 인도할 수 있다.나. 인도를 받은 해양경찰관서는 즉시 호송관서와 인수관서에 사망일시, 원인 등을 통지하고, 서류와 금품은 호송관서에 송부한다.다. 호송관서의 장은 통지받은 즉시 상급 감독관서 및 관할 지방검찰청에 통보하는 동시에 사망자의 유족 또는 연고자에게 이를 통지해야 한다.라. 「형의 집행 및 수용자의 처우에 관한 법률」제128조 등에 따라 통지 받을 가족이 없거나, 통지를 받은 가족이 통지를 받은 날부터 3일 내에 그 시신을 인수하지 않으면 시, 읍, 면의 장에게 가매장을 하도록 의뢰해야 한다.3. 피호송자가 병에 걸렸을 경우가. 경증으로 호송에 큰 지장이 없고 당일로 호송을 마칠 수 있을 경우에는 호송관이 적절한 응급조치를 취하고 호송을 계속해야 한다.나. 중증으로 호송을 계속하는 것이 곤란하다고 인정될 경우에는 피호송자 및 그 서류와 금품을 발병지에서 가까운 해양경찰관서에 인도해야 한다.다. 나목에 따라 인수한 해양경찰관서는 즉시 피호송자의 질병을 치료해야 하며, 질병의 상태를 호송관서 및 인수관서에 통지하고, 질병이 치유된 때에는 호송관서에 통지함과 동시에 치료한 해양경찰관서에서 지체 없이 호송해야 한다. 다만, 진찰한 결과 24시간 이내에 치유될 수 있다고 진단되었을 경우에는 치료 후 호송관서의 호송관이 호송을 계속하게 해야 한다.",
+        "content": "제66조(사고발생시의 조치) 호송관은 호송 중 피호송자가 도주, 사망, 질병 또는 그 밖에 사고가 발생한 경우 다음 각 호의 구분에 따라 신속하게 조치해야 한다.1. 피호송자가 도망하였을 경우가. 즉시 사고발생지 관할 해양경찰관서에 신고하고 도주 피의자 수배 및 수사에 필요한 사항을 알려주어야 하며, 소속 해양경찰관서의 장에게 전화, 전보 그 밖에 신속한 방법으로 보고하여 그 지휘를 받아야 한다. 이 경우에 즉시 보고할 수 없는 때에는 신고 관서에 보고를 의뢰할 수 있다.나. 호송관서의 장은 보고받은 즉시 상급 감독관서에 보고 및 관할 지방공소청 또는 지청에 통보하는 동시에 인수관서에 통지하고 도주 피의자의 수사에 착수해야 하며, 사고발생지 관할 해양경찰서장에게 수사를 의뢰해야 한다.다. 도주한 자에 관한 호송관계서류 및 금품은 호송관서에 보관해야 한다.2. 피호송자가 사망하였을 경우가. 즉시 사망지 관할 해양경찰관서에 신고하고 시체와 서류 및 영치금품은 신고 관서에 인도해야 한다. 다만, 부득이한 경우에는 다른 도착지의 관할 해양경찰관서에 인도할 수 있다.나. 인도를 받은 해양경찰관서는 즉시 호송관서와 인수관서에 사망일시, 원인 등을 통지하고, 서류와 금품은 호송관서에 송부한다.다. 호송관서의 장은 통지받은 즉시 상급 감독관서 및 관할 지방공소청 또는 지청에 통보하는 동시에 사망자의 유족 또는 연고자에게 이를 통지해야 한다.라. 「형의 집행 및 수용자의 처우에 관한 법률」제128조 등에 따라 통지 받을 가족이 없거나, 통지를 받은 가족이 통지를 받은 날부터 3일 내에 그 시신을 인수하지 않으면 시, 읍, 면의 장에게 가매장을 하도록 의뢰해야 한다.3. 피호송자가 병에 걸렸을 경우가. 경증으로 호송에 큰 지장이 없고 당일로 호송을 마칠 수 있을 경우에는 호송관이 적절한 응급조치를 취하고 호송을 계속해야 한다.나. 중증으로 호송을 계속하는 것이 곤란하다고 인정될 경우에는 피호송자 및 그 서류와 금품을 발병지에서 가까운 해양경찰관서에 인도해야 한다.다. 나목에 따라 인수한 해양경찰관서는 즉시 피호송자의 질병을 치료해야 하며, 질병의 상태를 호송관서 및 인수관서에 통지하고, 질병이 치유된 때에는 호송관서에 통지함과 동시에 치료한 해양경찰관서에서 지체 없이 호송해야 한다. 다만, 진찰한 결과 24시간 이내에 치유될 수 있다고 진단되었을 경우에는 치료 후 호송관서의 호송관이 호송을 계속하게 해야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -2768,10 +2768,10 @@
       "content": "부칙 <제56호,2018. 2. 12.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.제2조(종전 규칙의 폐지) 종전의 「(해양경찰청) 피의자 유치 및 호송규칙」(해양경찰청훈령 제1호, 2017. 7. 26.)은 폐지한다.",
       "provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000267574",
+      "source_mst": "2100000286488",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251107"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20190109",
@@ -2779,10 +2779,10 @@
       "content": "부칙 <제92호,2019. 1. 9.>이 규칙은 발령한 날부터 시행한다.",
       "provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000267574",
+      "source_mst": "2100000286488",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251107"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20190710",
@@ -2790,10 +2790,10 @@
       "content": "부칙 <제130호,2019. 7. 10.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000267574",
+      "source_mst": "2100000286488",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251107"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20210101",
@@ -2801,10 +2801,10 @@
       "content": "부칙 <제210호,2021. 1. 1.>이 규칙은 발령한 날부터 시행한다. 다만 제47조제1항 중 \"수사정보국장, 지방해양경찰청은 수사정보과장\"을 \"수사국장, 지방해양경찰청은 수사과장\"으로, 같은 조 제2항 중 \"수사정보과장\"을 \"수사과장\"으로의 개정규정은 수사권 조정의 결과를 반영한 「해양경찰청과 그 소속기관 직제」 및 「해양경찰청과 그 소속기관 직제 시행규칙」의 시행일부터 시행하고 시행 전까지는 종전 규정을 따른다.",
       "provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000267574",
+      "source_mst": "2100000286488",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251107"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20220914",
@@ -2812,10 +2812,10 @@
       "content": "부칙 <제294호, 2022. 9. 14.>이 규칙은 발령한 날부터 시행한다.",
       "provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000267574",
+      "source_mst": "2100000286488",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251107"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20240609",
@@ -2823,10 +2823,10 @@
       "content": "부칙 <제372호, 2024. 6. 9.>이 규칙은 발령한 날부터 시행한다.",
       "provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000267574",
+      "source_mst": "2100000286488",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251107"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20251107",
@@ -2834,10 +2834,21 @@
       "content": "부칙 <제457호, 2025. 11. 7.>이 규칙은 발령한 날부터 시행한다.",
       "provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000267574",
+      "source_mst": "2100000286488",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251107"
+      "version_enforcement_date": "20261002"
+    },
+    {
+      "promulgation_date": "20261002",
+      "promulgation_no": "500",
+      "content": "부칙 <제500호, 2026. 10. 2.>이 훈령은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:(해양경찰청)피의자유치및호송규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000286488",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -2849,18 +2860,18 @@
       "enforcement_date": "",
       "content": "■ (해양경찰청) 피의자 유치 및 호송규칙 [별표 1]\n유치인 표준일과표(제15조 관련)\n┏━━━━━━┯━━━━━━━━━┯━━━━━━━━━━━━━━━━┓\n┃시    간    │일 과 내 용       │비      고                      ┃\n┣━━━━━━┿━━━━━━━━━┿━━━━━━━━━━━━━━━━┫\n┃07:00∼07:30│기상, 세면 및 청소│인원 및 환자발생 여부 점검      ┃\n┃            │                  │                                ┃\n┃08:00∼09:00│조식              │                                ┃\n┃            │                  │                                ┃\n┃12:00∼13:00│중식              │                                ┃\n┃            │                  │                                ┃\n┃18:00∼19:00│석식              │                                ┃\n┃            │                  │                                ┃\n┃21:30       │취침              │                                ┃\n┠──────┴─────────┴────────────────┨\n┃ ?유치장 질서유지 및 보안에 지장이 없는 범위에서 TV시청, 라디오  ┃\n┃청취, 독서 등 자유롭게 행동할 수 있습니다.                        ┃\n┃                                                                  ┃\n┃ ? 타인의 생활에 방해가 되지 않도록 정숙해 주십시오.             ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n※ 기상ㆍ취침ㆍ식사 시간은 계절 및 해양경찰서 실정에 따라 변경가능\n※ 인권침해의 우려가 없는 범위에서 해양경찰서 실정에 따라 인권친화적인 일과프로그램 운영 가능",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267574&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234591",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286488&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170113857",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234587",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170113853",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234591",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170113857",
           "name": "",
           "file_store_url": ""
         }
@@ -2880,18 +2891,18 @@
       "enforcement_date": "",
       "content": "■ (해양경찰청) 피의자 유치 및 호송규칙 [별표 2]\n감독순시 기준표(제17조 관련)\n┏━━━━━┯━━━━━━━━━━━━━┯━━━━━━━┓\n┃구   분   │책     임     자          │순  시  회  수┃\n┠─────┼─────────────┼───────┨\n┃일과 중   │1. 해양경찰서장           │ 필요시       ┃\n┃          ├─────────────┼───────┨\n┃          │2. 유치인보호주무자       │ 매일 1회 이상┃\n┃          ├─────────────┼───────┨\n┃          │3. 수사계장 또는          │ 매일 2회 이상┃\n┃          │제5조제4항에 따라         │              ┃\n┃          │해양경찰서장이 지정한     │              ┃\n┃          │사람                      │              ┃\n┠─────┼─────────────┼───────┨\n┃일과 후 및│ 당직사령(당직관) 또는 제 │ 매일 2회 이상┃\n┃토ㆍ공휴일│5조제5항에 따라 해양경찰  │              ┃\n┃          │서장이 지정한 사람        │              ┃\n┗━━━━━┷━━━━━━━━━━━━━┷━━━━━━━┛",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267574&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234597",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286488&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114023",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234593",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114019",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234597",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114023",
           "name": "",
           "file_store_url": ""
         }
@@ -2911,18 +2922,18 @@
       "enforcement_date": "",
       "content": "■ (해양경찰청) 피의자 유치 및 호송규칙 [별표 3]\n유치인에 대한 인권보장(제8조제4항 관련)\n┌───────────────────────────────────────┐\n│ 1. 변호인의 선임을 요청할 수 있습니다.                                       │\n│ 2. 변호인 이외의 사람과도 접견(면회)이 가능하고 서류 기타 물건의 접수도 가능 │\n│합니다. (다만, 수사 또는 유치장의 보안상 지장이 있다고 인정되는 물건은 금     │\n│지되고, 식량 및 의류품의 경우 규칙에 따라 위험물등의 은닉여부를 검사합니      │\n│다.)                                                                          │\n│ 3. 접견 및 면회 시간은 평일 09:00∼21:00, 일요일 및 공휴일 09:00∼20:00      │\n│이며 1일 3회, 1회 30분 이내로 할 수 있습니다. (다만, 변호인의 접견은 제한 없  │\n│음)                                                                           │\n│ 4. 편지를 쓰거나 받을 수 있습니다. 이 경우 변호인과의 서신을 제외한 나머지   │\n│서신은 「형의 집행 및 수용자의 처우에 관한 법률」에 따라 발송 및 수령이       │\n│제한될 수 있습니다.                                                           │\n│ 5. 가족 및 친지에게 특별히 연락을 취하고자 할 경우 유치인보호관에게 요청할   │\n│수 있습니다.                                                                  │\n│ 6. 유치장 내에서 발병한 질병에 대한 치료를 요청할 수 있습니다.               │\n│ 7. 영치금의 한도 내에서 사식을 취식할 수 있습니다.                           │\n│ 8. 여성의 경우 생후 18개월 이내의 유아에 대하여 대동을 신청할 수 있습니다.   │\n│ 9.불편하거나 어려운 일이 있을 때에는 언제든지 구두 또는 서면으로 유치인      │\n│보호관이나 감독자에게 도움을 청할 수 있습니다.                                │\n│10. 인권침해를 당했을 경우 해양경찰서 인권보호관(수사과장)에 상담을 요청      │\n│하거나 국가인권위원회에 진정할 수 있습니다.                                   │\n│11. 구속피의자, 피고인 등은 일정한 요건에 해당하는 경우 대한법률구조공단의    │\n│무료형사변호를 받을 수 있습니다.(상담전화：국번없이 132/ ○○지부ㆍ출장       │\n│소 ○○○－○○○○)                                                          │\n│12. 그 밖에 필요한 사안은 유치인보호관에게 말씀 하십시오                      │\n└───────────────────────────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267574&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234603",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286488&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114029",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234599",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114025",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234603",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114029",
           "name": "",
           "file_store_url": ""
         }
@@ -2943,17 +2954,17 @@
       "content": "■ (해양경찰청) 피의자 유치 및 호송규칙 [별지 제1호(갑)서식]\n유치인보호관 근무일지\n┏━━━━┯━━━━━━┯━━━━━━┯━━━━┯━━━━┯━━━━━━┯━━━━━━━━━━━━━┯━━━━━━━━━━━━━┓\n┃수사계장│            │유치인보호  │        │서  장  │            │유치인                    │                          ┃\n┃        │            │주무자      │        │        │            │보호관                    │                          ┃\n┠────┴──────┴──────┴────┴────┴──────┤계급ㆍ성명                │                          ┃\n┃  20   년    월    일    요일                                         │                          │                          ┃\n┠───────┬───────────────────────────┴─────────────┴─────────────┨\n┃지시주의사항  │                                                                                                              ┃\n┠─┬─────┼─┬──┬─┬─┬──┬─┬──┬─┬──┬─┬─┬──┬─┬───┬─┬─┬─┬─┬─┬─┬─┬─┬─┬──┨\n┃근│감독순시  │  │    │  │  │    │  │    │  │    │  │  │    │  │      │  │  │  │  │  │  │  │  │  │    ┃\n┃무├─────┼─┼──┼─┼─┼──┼─┼──┼─┼──┼─┼─┼──┼─┼───┼─┼─┼─┼─┼─┼─┼─┼─┼─┼──┨\n┃자│시    간  │9 │10  │11│12│13  │14│15  │16│17  │18│19│20  │21│22    │23│24│1 │2 │3 │4 │5 │6 │7 │8   ┃\n┃  ├─────┼─┼──┼─┼─┼──┼─┼──┼─┼──┼─┼─┼──┼─┼───┼─┼─┼─┼─┼─┼─┼─┼─┼─┼──┨\n┃  │유치인    │  │    │  │  │    │  │    │  │    │  │  │    │  │      │  │  │  │  │  │  │  │  │  │    ┃\n┃  │보호관    │  │    │  │  │    │  │    │  │    │  │  │    │  │      │  │  │  │  │  │  │  │  │  │    ┃\n┃  ├─────┼─┼──┼─┼─┼──┼─┼──┼─┼──┼─┼─┼──┼─┼───┼─┼─┼─┼─┼─┼─┼─┼─┼─┼──┨\n┃  │휴게자    │  │    │  │  │    │  │    │  │    │  │  │    │  │      │  │  │  │  │  │  │  │  │  │    ┃\n┠─┼─────┼─┴──┴─┴─┴──┴┬┴──┴─┴──┴─┴─┴┬─┴─┴──┬┴─┴─┴─┴─┴─┴─┴─┴─┴─┴──┨\n┃수│유    치  │유 치 장                │대 용 감 방               │총  계      │죄   명   별   내   역                    ┃\n┃감│종    별  ├─────┬──────┼────┬────┬───┤            ├───┬───┬───┬───┬─────┨\n┃인│          │경 찰     │기  타      │검 찰   │피고인  │수형자│            │      │      │      │      │          ┃\n┃원│          │유 치     │            │유 치   │        │      │            │      │      │      │      │          ┃\n┃  │          ├──┬──┼───┬──┼─┬──┼─┬──┼─┬─┼──┬─┬─┼─┬─┼─┬─┼─┬─┼─┬─┼─┬─┬─┨\n┃  │          │남  │여  │남    │여  │남│여  │남│여  │남│여│남  │여│계│남│여│남│여│남│여│남│여│남│여│계┃\n┃  ├─────┼──┼──┼───┼──┼─┼──┼─┼──┼─┼─┼──┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┨\n┃  │전일현재  │    │    │      │    │  │    │  │    │  │  │    │  │  │  │  │  │  │  │  │  │  │  │  │  ┃\n┃  ├─────┼──┼──┼───┼──┼─┼──┼─┼──┼─┼─┼──┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┨\n┃  │입   감   │    │    │      │    │  │    │  │    │  │  │    │  │  │  │  │  │  │  │  │  │  │  │  │  ┃\n┃  ├─────┼──┼──┼───┼──┼─┼──┼─┼──┼─┼─┼──┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┨\n┃  │출  감    │    │    │      │    │  │    │  │    │  │  │    │  │  │  │  │  │  │  │  │  │  │  │  │  ┃\n┃  ├─────┼──┼──┼───┼──┼─┼──┼─┼──┼─┼─┼──┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┨\n┃  │인계인원  │    │    │      │    │  │    │  │    │  │  │    │  │  │  │  │  │  │  │  │  │  │  │  │  ┃\n┗━┷━━━━━┷━━┷━━┷━━━┷━━┷━┷━━┷━┷━━┷━┷━┷━━┷━┷━┷━┷━┷━┷━┷━┷━┷━┷━┷━┷━┷━┛\n210mm×297mm[백상지 80g/㎡]\n■ (해양경찰청) 피의자 유치 및 호송규칙 [별지 제1호(을)서식]\n┌────┬──┬──┬──┬───┬────────┬──┐\n│        │운동│청소│소독│입  욕│질    병        │기타│\n│        │    │    │    ├─┬─┼──┬─────┤    │\n│        │    │    │    │남│여│수진│상비약복용│    │\n│        ├──┼──┼──┼─┼─┼──┼─────┤    │\n│        │분  │회  │회  │명│명│명  │명        │    │\n├────┼──┴──┴──┴─┴─┴──┴─────┴──┤\n│특      │                                                │\n│기      │                                                │\n│사      │                                                │\n│항      │                                                │\n├────┼────────────────────────┤\n│인계사항│                                                │\n└────┴────────────────────────┘\n■ (해양경찰청) 피의자 유치 및 호송규칙 [별지 제1호(병)서식]\n┌───┬───┬─────────┬───┐\n│시  간│항  목│내              용│비  고│\n├───┼───┼─────────┼───┤\n│      │      │                  │      │\n└───┴───┴─────────┴───┘\n210mm×297mm[백상지 80g/㎡]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234611",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114037",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234605",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114031",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234611",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114037",
           "name": "",
           "file_store_url": ""
         }
@@ -2974,17 +2985,17 @@
       "content": "■ (해양경찰청) 피의자 유치 및 호송규칙 [별지 제2호서식]\n┌───┬────┬─────────────────────────────┐\n│담  당│수사계장│유치인보호                                                │\n│      │        │주무자                                                    │\n├───┼────┼─────────────────────────────┤\n│      │        │                                                          │\n┌─────────┴───┴────┴─────────────────────────────┤\n│피  의  자  입감ㆍ출감  지  휘  서                                                              │\n├────────┬───────────────────────────────────────┤\n│입ㆍ출감 일시   │20  년  월  일   시   분                                                      │\n├─┬──────┼───────────────────────────────────────┤\n│피│성    명    │(연령 :    세)                                                                │\n│의├──────┼───────────────────────────────────────┤\n│자│주    소    │                                                                              │\n│  │            │                                                                              │\n│  │연 락 처    │ 보호자 :             (☎ :       -      )                                    │\n│  ├──────┼───────────────────────────────────────┤\n│  │직    업    │(☎ :       -      )                                                          │\n├─┴──────┼───────────────────────────────────────┤\n│죄      명      │                                                                              │\n├────────┼───────────────────────────────────────┤\n│입 감 근 거     │1. 구속영장    2. 체포영장    3. 긴급체포                                     │\n│                │4. 현행범체포  5. 기타(            )                                          │\n│                │※ 입감시 기재 및 근거서류 반드시 첨부                                        │\n├────────┼───────────────────────────────────────┤\n│입감ㆍ출감 사유 │                                                                              │\n│                │ ※ 해양경찰서를 벗어나는 경우 그 사유와 장소를 반드시 기재                   │\n├────────┼───────────────────────────────────────┤\n│주 의 사 항     │ 1. 과거경력(자살시도 있음, 정신질환, 내성적, 기타 :            )             │\n│(사고위험성,    │ 2. 전력관계(초범, 과실범, 상습범, 전과 :         )                           │\n│질병유무 등)    │ 3. 가족관계(부모사망, 편부모, 고아, 혼자거주, 주거불명, 기타 :   )           │\n│                │ 4. 자녀관계(미혼, 기혼, 자녀무, 자녀유 :  명)                                │\n│                │ 5. 사고위험(유, 무) 질병 :             , 약물복용 :                          │\n│                │ 6. 입감의뢰자 의견 : 중점보호, 보통, 기타(            )                      │\n│                │ ※ 입감의뢰자가 유치보호주무자(당직사령)이 판단할 수 있도록 구체적으로 기재  │\n├────────┼───────────────────────────────────────┤\n│입감의뢰자      │사건담당 :          주무과장 :                                                │\n├────────┼───────────────────────────────────────┤\n│신체검사 방법   │1. 간이        2. 정밀       3. 외표                                          │\n│                │ ※ 유치인보호주무자(당직사령)이 해당하는 곳에 O 표                           │\n├────────┼───────────────────────────────────────┤\n│신체검사 결과   │                                                                              │\n│                │※ 유치인보호관이 신체검사 실시하고 결과 기재                                 │\n├────────┼───────────────────────────────────────┤\n│상 담           │수사계장 의견 : 중점보호, 보통, 기타(       )                                 │\n│                │※ 수사계장이 계별 처우를 합리적으로 하기 위해 상담 실시, 중점보호 대상자 선정│\n└────────┴───────────────────────────────────────┘\n210mm×297mm[백상지 80g/㎡]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234617",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114043",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234613",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114039",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234617",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114043",
           "name": "",
           "file_store_url": ""
         }
@@ -3005,17 +3016,17 @@
       "content": "■ (해양경찰청) 피의자 유치 및 호송규칙 [별지 제3호서식]\n┌────────────────────────────────┐\n│  유  아  대  동  신  청  서                                    │\n│                                                                │\n│  년  월  일                                                    │\n│  수  신 : ○○해양경찰서장                                     │\n│                                                                │\n│  아래와 같이 유아대동을 신청하오니 허가하여 주시기 바랍니다.   │\n│┌────┬─────────────────────────┐│\n││입 감 자│죄   (형)   명                                    ││\n││        ├─────────────────────────┤│\n││        │입 감 년 월 일                                    ││\n││        ├─────────────────────────┤│\n││        │성          명                (성별       )       ││\n││        ├─────────────────────────┤│\n││        │생  년  월  일                                    ││\n│├────┼─────────────────────────┤│\n││대 동 할│성          명                (성별       )       ││\n││유    아├─────────────────────────┤│\n││        │입감자와의관계                                    ││\n││        ├─────────────────────────┤│\n││        │생  년  월  일                                    ││\n│├────┼─────────────────────────┤│\n││대동해야│                                                  ││\n││할 이유 │                                                  ││\n│└────┴─────────────────────────┘│\n│  신 청 자              ??                                    │\n│  위 사항을 허가함                                              │\n│  년    월    일                                                │\n│  ○ ○ 해양경찰서장                                            │\n└────────────────────────────────┘\n210mm×297mm[백상지 80g/㎡]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234623",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114049",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234619",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114045",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234623",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114049",
           "name": "",
           "file_store_url": ""
         }
@@ -3036,17 +3047,17 @@
       "content": "■ (해양경찰청) 피의자 유치 및 호송규칙 [별지 제4호서식]\n의약품수불대장┏━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━┓\n┃비      치            │지            급                              ┃\n┠───┬───┬───┼───┬───┬───┬───┬───┬───┨\n┃연월일│약품명│수 량 │일 시 │약품명│수 량 │사용자│사 유 │확 인 ┃\n┃      │(규격)│      │      │(규격)│      │      │      │      ┃\n┠───┼───┼───┼───┼───┼───┼───┼───┼───┨\n┃      │      │      │      │      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┼───┼───┼───┼───┨\n┃      │      │      │      │      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┼───┼───┼───┼───┨\n┃      │      │      │      │      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┼───┼───┼───┼───┨\n┃      │      │      │      │      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┼───┼───┼───┼───┨\n┃      │      │      │      │      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┼───┼───┼───┼───┨\n┃      │      │      │      │      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┼───┼───┼───┼───┨\n┃      │      │      │      │      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┼───┼───┼───┼───┨\n┃      │      │      │      │      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┼───┼───┼───┼───┨\n┃      │      │      │      │      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┼───┼───┼───┼───┨\n┃      │      │      │      │      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┼───┼───┼───┼───┨\n┃      │      │      │      │      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┼───┼───┼───┼───┨\n┃      │      │      │      │      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┼───┼───┼───┼───┨\n┃      │      │      │      │      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┼───┼───┼───┼───┨\n┃      │      │      │      │      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┼───┼───┼───┼───┨\n┃      │      │      │      │      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┼───┼───┼───┼───┨\n┃      │      │      │      │      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┼───┼───┼───┼───┨\n┃      │      │      │      │      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┼───┼───┼───┼───┨\n┃      │      │      │      │      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┼───┼───┼───┼───┨\n┃      │      │      │      │      │      │      │      │      ┃\n┗━━━┷━━━┷━━━┷━━━┷━━━┷━━━┷━━━┷━━━┷━━━┛\n210mm×297mm[백상지 80g/㎡]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234629",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114055",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234625",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114051",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234629",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114055",
           "name": "",
           "file_store_url": ""
         }
@@ -3067,17 +3078,17 @@
       "content": "■ (해양경찰청) 피의자 유치 및 호송규칙 [별지 제5호서식]\n\n접견 등 금지결정 처리부\n┏━━┯━━━━┯━━━━━┯━━━┯━━━┯━━━━┯━━━━┯━━━━┯━━━━┯━━━┓\n┃진행│결정일  │사법경찰관│죄  명│피의자│결정이유│금지내용│취소일  │취소사유│비 고 ┃\n┃번호│        │          │      │      │        │        │        │        │      ┃\n┠──┼────┼─────┼───┼───┼────┼────┼────┼────┼───┨\n┃    │  . . . │          │      │      │        │        │  . . . │        │      ┃\n┠──┼────┼─────┼───┼───┼────┼────┼────┼────┼───┨\n┃    │  . . . │          │      │      │        │        │  . . . │        │      ┃\n┠──┼────┼─────┼───┼───┼────┼────┼────┼────┼───┨\n┃    │  . . . │          │      │      │        │        │  . . . │        │      ┃\n┠──┼────┼─────┼───┼───┼────┼────┼────┼────┼───┨\n┃    │  . . . │          │      │      │        │        │  . . . │        │      ┃\n┠──┼────┼─────┼───┼───┼────┼────┼────┼────┼───┨\n┃    │  . . . │          │      │      │        │        │  . . . │        │      ┃\n┠──┼────┼─────┼───┼───┼────┼────┼────┼────┼───┨\n┃    │  . . . │          │      │      │        │        │  . . . │        │      ┃\n┠──┼────┼─────┼───┼───┼────┼────┼────┼────┼───┨\n┃    │  . . . │          │      │      │        │        │  . . . │        │      ┃\n┠──┼────┼─────┼───┼───┼────┼────┼────┼────┼───┨\n┃    │  . . . │          │      │      │        │        │  . . . │        │      ┃\n┠──┼────┼─────┼───┼───┼────┼────┼────┼────┼───┨\n┃    │        │          │      │      │        │        │        │        │      ┃\n┠──┼────┼─────┼───┼───┼────┼────┼────┼────┼───┨\n┃    │        │          │      │      │        │        │        │        │      ┃\n┠──┼────┼─────┼───┼───┼────┼────┼────┼────┼───┨\n┃    │  . . . │          │      │      │        │        │  . . . │        │      ┃\n┠──┼────┼─────┼───┼───┼────┼────┼────┼────┼───┨\n┃    │  . . . │          │      │      │        │        │  . . . │        │      ┃\n┗━━┷━━━━┷━━━━━┷━━━┷━━━┷━━━━┷━━━━┷━━━━┷━━━━┷━━━┛\n※ 사법경찰관란에는 접견 등 금지결정을 한 사법경찰관의 관직 및 성명을 기재함\n※ 비고란에는 체포와 구속을 구분하여 체포영장 또는 구속영장의 청구번호를 기재함",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234635",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114061",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234631",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114057",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158234635",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170114061",
           "name": "",
           "file_store_url": ""
         }
@@ -3092,19 +3103,11 @@
   ],
   "attachments": [
     {
-      "name": "(해양경찰청) 피의자 유치 및 호송 규칙 일부개정(전문).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=158231511",
-      "filename": "(해양경찰청) 피의자 유치 및 호송 규칙 일부개정(전문).pdf",
+      "name": "(해양경찰청) 피의자 유치 및 호송 규칙.zip",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170084903",
+      "filename": "(해양경찰청) 피의자 유치 및 호송 규칙.zip",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/(해양경찰청) 피의자 유치 및 호송 규칙 일부개정(전문).pdf",
-      "file_store_url": ""
-    },
-    {
-      "name": "(해양경찰청) 피의자 유치 및 호송 규칙 일부개정(전문).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=158231507",
-      "filename": "(해양경찰청) 피의자 유치 및 호송 규칙 일부개정(전문).hwpx",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/(해양경찰청) 피의자 유치 및 호송 규칙 일부개정(전문).hwpx",
+      "local_path": "첨부파일/(해양경찰청) 피의자 유치 및 호송 규칙.zip",
       "file_store_url": ""
     }
   ],
@@ -3126,9 +3129,9 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 7,
+    "addenda_count": 8,
     "appendices_count": 8,
-    "attachments_count": 2
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/(해양경찰청) 피의자 유치 및 호송 규칙"
