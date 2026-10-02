@@ -1,16 +1,16 @@
 {
   "law_id": "2111307",
-  "mst": "2200000108649",
+  "mst": "2200000109007",
   "law_name": "형사소송서류의 전산입력 및 편철방법에 대한 예규(재형 2003-11)",
   "law_abbr": "",
   "law_type": "재판예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2111307",
-  "promulgation_no": "1957",
-  "promulgation_date": "20260527",
-  "enforcement_date": "20260527",
-  "revision_date": "20260527",
+  "promulgation_no": "1968-17",
+  "promulgation_date": "20260928",
+  "enforcement_date": "20261002",
+  "revision_date": "20260928",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "",
     "행정규칙종류코드": "B0013",
     "행정규칙명": "형사소송서류의 전산입력 및 편철방법에 대한 예규(재형 2003-11)",
-    "발령일자": "20260527",
+    "발령일자": "20260928",
     "행정규칙종류": "재판예규",
     "제개정구분코드": "200403",
     "조문형식여부": "N",
@@ -27,16 +27,16 @@
     "전화번호": "",
     "제개정구분명": "일부개정",
     "소관부처코드": "9740000",
-    "생성일자": "20260602",
+    "생성일자": "20261002",
     "행정규칙ID": "2111307",
-    "시행일자": "20260527",
+    "시행일자": "20261002",
     "담당부서기관코드": "",
-    "발령번호": "1957",
-    "행정규칙일련번호": "2200000108649",
+    "발령번호": "1968-17",
+    "행정규칙일련번호": "2200000109007",
     "상위부처명": "대법원"
   },
-  "amendment_text": "형사소송서류의 전산입력 및 편철방법에 대한 예규(재형 2003-11) 일부를 다음과 같이 개정한다.\n본문생략\n부    칙\n이 예규는 즉시 시행한다.",
-  "revision_reason": "1. 개정이유\n○ 형사전자소송의 시행에 따라 전자사건에서는 신청사건의 결정등본을 주기록에 편철하는 대신 전자문서인 재판서 자체를 전자적 방법으로 복제하여 주기록에 등재할 수 있음을 명확히 함으로써 전자사건의 기록편철 사무를 개선함\n2. 주요내용\n○ 사건기록이 전자기록으로 관리되는 전자사건에서는 형사신청사건의 결정등본을 주기록에 편철하는 대신 전자문서인 결정문을 복제하여 주기록에 등재할 수 있도록 함(제4조 제1항 단서 신설)",
+  "amendment_text": "형사소송서류의 전산입력 및 편철방법에 대한 예규 일부를 다음과 같이 개정한다.\n본문생략\n부    칙\n제1조(시행일) 이 예규는 2026년 10월 2일부터 시행한다.",
+  "revision_reason": "1. 개정이유\n○ 「공소청법」(법률 제21490호, 2026. 3. 24. 공포, 2026. 10. 2. 시행) 및 「중대범죄수사청 조직 및 운영에 관한 법률」(법률 제21491호, 2026. 3. 24. 공포, 2026. 10. 2. 시행)이 제정되고, 「형사소송법」이 개정(법률 제21857호, 2026. 8. 4. 공포, 2026. 10. 2. 시행)됨에 따라, 검찰청 폐지 및 공소청 체계로의 전환, 검사의 수사권 조정 등 형사사법체계 개편사항을 반영하여 관련 예규의 기관명칭, 업무처리 주체 및 관련 표현을 정비하고 필요한 경과조치를 마련하려는 것임\n2. 주요내용\n○ 제4조제3항에서 신청사건기록의 송부대상인 “당해 법원에 대응하는 검찰청 검사”를 “당해 법원에 대응하는 공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다) 검사”로 정비함(제18조)",
   "body": {
     "format": "articles",
     "article_count": 6,
@@ -79,7 +79,7 @@
         "article_title": "결정등본 등의 편철",
         "chapter": "",
         "chapter_path": "",
-        "content": "제4조 (결정등본 등의 편철) ① 관할이전의 신청에 관한 결정(형사소송법 제15조), 특별대리인의 선임에 관한 결정(형사소송법 제28조 제1항), 비변호인과의 접견ㆍ교통 등의 금지에 관한 결정(형사소송법 제91조), 구속취소에 관한 결정(형사소송법 제93조), 보석청구에 관한 결정(형사소송법 제94조), 보석 또는 구속의 집행정지의 취소와 보석보증금의 몰수에 관한 결정(형사소송법 제102조 제1항, 형사소송법 제103조), 압수물의 가환부 청구에 관한 결정(형사소송법 제133조 제1항 후단), 재판장 또는 수명법관의 재판에 대한 준항고에 관한 결정(형사소송법 제416조), 배상명령에 대한 집행정지에 관한 결정(소송촉진등에관한특례법 제31조 제4항, 민사소송법 제500조, 민사소송법 제501조) 등은 그 결정등본을 주기록에 편철하여야 한다. 다만, 전자사건의 경우 결정등본의 편철은 전자문서인 결정문을 복제하여 등재하는 방법으로 할 수 있다.② 신청사건부에 등재하여 별책으로 편철되는 신청사건기록에 피고인의 변호인의 선임계의 원본, 합의서의 원본, 고소취하서의 원본 등이 첨부되어 있는 경우에는, 그 신청사건이 종결된 후, 변호인선임계, 합의서, 고소취하서 등의 사본을 작성하여 신청사건기록에 철하고 그 원본은 신청사건기록에서 분리하여 주기록에 편철하여야 한다.③ 제1항 및 제2항의 조치를 완료한 때에는 그 신청사건기록(주기록에 첨철된 경우를 제외한다)을 당해 법원에 대응하는 검찰청 검사 또는 고위공직자범죄수사처에 소속된 검사에게 송부한다.",
+        "content": "제4조 (결정등본 등의 편철) ① 관할이전의 신청에 관한 결정(형사소송법 제15조), 특별대리인의 선임에 관한 결정(형사소송법 제28조 제1항), 비변호인과의 접견ㆍ교통 등의 금지에 관한 결정(형사소송법 제91조), 구속취소에 관한 결정(형사소송법 제93조), 보석청구에 관한 결정(형사소송법 제94조), 보석 또는 구속의 집행정지의 취소와 보석보증금의 몰수에 관한 결정(형사소송법 제102조 제1항, 형사소송법 제103조), 압수물의 가환부 청구에 관한 결정(형사소송법 제133조 제1항 후단), 재판장 또는 수명법관의 재판에 대한 준항고에 관한 결정(형사소송법 제416조), 배상명령에 대한 집행정지에 관한 결정(소송촉진등에관한특례법 제31조 제4항, 민사소송법 제500조, 민사소송법 제501조) 등은 그 결정등본을 주기록에 편철하여야 한다. 다만, 전자사건의 경우 결정등본의 편철은 전자문서인 결정문을 복제하여 등재하는 방법으로 할 수 있다.② 신청사건부에 등재하여 별책으로 편철되는 신청사건기록에 피고인의 변호인의 선임계의 원본, 합의서의 원본, 고소취하서의 원본 등이 첨부되어 있는 경우에는, 그 신청사건이 종결된 후, 변호인선임계, 합의서, 고소취하서 등의 사본을 작성하여 신청사건기록에 철하고 그 원본은 신청사건기록에서 분리하여 주기록에 편철하여야 한다.③ 제1항 및 제2항의 조치를 완료한 때에는 그 신청사건기록(주기록에 첨철된 경우를 제외한다)을 당해 법원에 대응하는 공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다) 검사 또는 고위공직자범죄수사처에 소속된 검사에게 송부한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -116,10 +116,10 @@
       "content": "부  칙(1999. 3. 26. 제704호)이 예규는 1999. 4. 1.부터 시행한다.",
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108649",
+      "source_mst": "2200000109007",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260527"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20030904",
@@ -127,10 +127,10 @@
       "content": "부  칙(2003. 9. 4. 제908호)제1조 (시행일) 이 예규는 2003. 9. 15.부터 시행한다.제2조 (경과규정) 이 예규 시행 당시 소송계속 중인 사건은 제5조에 따라 새로 기록을 편철한다.",
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108649",
+      "source_mst": "2200000109007",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260527"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20080221",
@@ -138,10 +138,10 @@
       "content": "부  칙(2008. 2. 21. 제1207호)이 예규는  2008.  2. 25.부터 시행한다.",
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108649",
+      "source_mst": "2200000109007",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260527"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20080827",
@@ -149,10 +149,10 @@
       "content": "부  칙(2008. 8. 27. 제1243호)이 예규는  2008.  9. 1.부터 시행한다.",
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108649",
+      "source_mst": "2200000109007",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260527"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20090922",
@@ -160,10 +160,10 @@
       "content": "부  칙(2009. 9. 22. 제1283호)이 예규는  2009.  9.  26.부터 시행한다.",
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108649",
+      "source_mst": "2200000109007",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260527"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20091204",
@@ -171,10 +171,10 @@
       "content": "부  칙(2009. 12. 4. 제1289호)이 예규는 즉시 시행한다.",
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108649",
+      "source_mst": "2200000109007",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260527"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20100601",
@@ -182,10 +182,10 @@
       "content": "부  칙(2010. 6. 1. 제1309호)이 예규는 즉시 시행한다.",
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108649",
+      "source_mst": "2200000109007",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260527"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20100726",
@@ -193,10 +193,10 @@
       "content": "부  칙(2010. 7. 26. 제1314호)이 예규는 즉시 시행한다.",
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108649",
+      "source_mst": "2200000109007",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260527"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20100916",
@@ -204,10 +204,10 @@
       "content": "부  칙(2010. 9. 16. 제1320호)이 예규는 즉시 시행한다.",
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108649",
+      "source_mst": "2200000109007",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260527"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20110705",
@@ -215,10 +215,10 @@
       "content": "부  칙(2011. 7. 5. 제1339호)이 예규는 2011. 7. 24.부터 시행한다.",
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108649",
+      "source_mst": "2200000109007",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260527"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20111228",
@@ -226,10 +226,10 @@
       "content": "부  칙(2011. 12. 28. 제1374호)이 예규는 2012년 1월 1일부터 시행한다.",
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108649",
+      "source_mst": "2200000109007",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260527"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20121227",
@@ -237,10 +237,10 @@
       "content": "부  칙(2012. 12. 27. 제1408호)이 예규는 2013. 1. 1.부터 시행한다.",
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108649",
+      "source_mst": "2200000109007",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260527"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20171221",
@@ -248,10 +248,10 @@
       "content": "부  칙(2017. 12. 21. 제1678호)이 예규는 2018년 1월 1일부터 시행한다.",
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108649",
+      "source_mst": "2200000109007",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260527"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20180628",
@@ -259,10 +259,10 @@
       "content": "부  칙(2018. 6. 28. 제1695호)이 예규는 2018년 7월 17일부터 시행한다.",
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108649",
+      "source_mst": "2200000109007",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260527"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20200204",
@@ -270,10 +270,10 @@
       "content": "부  칙(2020. 2. 4. 제1731호)이 예규는 즉시 시행한다.",
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108649",
+      "source_mst": "2200000109007",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260527"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20200603",
@@ -281,10 +281,10 @@
       "content": "부  칙(2020. 6. 3. 제1746호)이 예규는 즉시 시행한다.",
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108649",
+      "source_mst": "2200000109007",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260527"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20260527",
@@ -292,10 +292,21 @@
       "content": "부  칙(2026. 5. 27. 제1957호)이 예규는 즉시 시행한다.",
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108649",
+      "source_mst": "2200000109007",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260527"
+      "version_enforcement_date": "20261002"
+    },
+    {
+      "promulgation_date": "99991231",
+      "promulgation_no": "9998",
+      "content": "부  칙(2026. 9. 28. 제1968-17호)제1조(시행일) 이 예규는 2026년 10월 2일부터 시행한다.",
+      "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000109007",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "99991231",
@@ -303,10 +314,10 @@
       "content": "부  칙(2021. 7. 22. 제1776-8호)이 예규는 즉시 시행한다.",
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108649",
+      "source_mst": "2200000109007",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260527"
+      "version_enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -319,11 +330,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734345",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046441",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734345",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046441",
           "name": "",
           "file_store_url": ""
         }
@@ -344,11 +355,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734347",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046443",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734347",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046443",
           "name": "",
           "file_store_url": ""
         }
@@ -369,11 +380,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734349",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046445",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734349",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046445",
           "name": "",
           "file_store_url": ""
         }
@@ -381,10 +392,10 @@
       "images": [],
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ETC0003",
       "appendix_duplicate_count": 2,
-      "appendix_instance_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ETC0003:file:164734349",
-      "filename": "기타3_별지 ［형사접수서류의 전산입력 및 편철 방법 일람표 3］_flSeq164734349.hwp",
+      "appendix_instance_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ETC0003:file:170046445",
+      "filename": "기타3_별지 ［형사접수서류의 전산입력 및 편철 방법 일람표 3］_flSeq170046445.hwp",
       "file_dir": "기타",
-      "local_path": "기타/기타3_별지 ［형사접수서류의 전산입력 및 편철 방법 일람표 3］_flSeq164734349.hwp",
+      "local_path": "기타/기타3_별지 ［형사접수서류의 전산입력 및 편철 방법 일람표 3］_flSeq170046445.hwp",
       "file_store_url": ""
     },
     {
@@ -396,11 +407,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734351",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046447",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734351",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046447",
           "name": "",
           "file_store_url": ""
         }
@@ -408,10 +419,10 @@
       "images": [],
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ETC0003",
       "appendix_duplicate_count": 2,
-      "appendix_instance_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ETC0003:file:164734351",
-      "filename": "기타3_별지 ［형사접수서류의 전산입력 및 편철 방법 일람표 3］_flSeq164734351.hwp",
+      "appendix_instance_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ETC0003:file:170046447",
+      "filename": "기타3_별지 ［형사접수서류의 전산입력 및 편철 방법 일람표 3］_flSeq170046447.hwp",
       "file_dir": "기타",
-      "local_path": "기타/기타3_별지 ［형사접수서류의 전산입력 및 편철 방법 일람표 3］_flSeq164734351.hwp",
+      "local_path": "기타/기타3_별지 ［형사접수서류의 전산입력 및 편철 방법 일람표 3］_flSeq170046447.hwp",
       "file_store_url": ""
     },
     {
@@ -423,11 +434,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734355",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046451",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734355",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046451",
           "name": "",
           "file_store_url": ""
         }
@@ -435,10 +446,10 @@
       "images": [],
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ETC0004",
       "appendix_duplicate_count": 2,
-      "appendix_instance_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ETC0004:file:164734355",
-      "filename": "기타4_형사접수서류의 전산입력 및 편철 방법 일람표4_flSeq164734355.hwp",
+      "appendix_instance_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ETC0004:file:170046451",
+      "filename": "기타4_형사접수서류의 전산입력 및 편철 방법 일람표4_flSeq170046451.hwp",
       "file_dir": "기타",
-      "local_path": "기타/기타4_형사접수서류의 전산입력 및 편철 방법 일람표4_flSeq164734355.hwp",
+      "local_path": "기타/기타4_형사접수서류의 전산입력 및 편철 방법 일람표4_flSeq170046451.hwp",
       "file_store_url": ""
     },
     {
@@ -450,11 +461,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734353",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046449",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734353",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046449",
           "name": "",
           "file_store_url": ""
         }
@@ -462,10 +473,10 @@
       "images": [],
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ETC0004",
       "appendix_duplicate_count": 2,
-      "appendix_instance_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ETC0004:file:164734353",
-      "filename": "기타4_형사접수서류의 전산입력 및 편철 방법 일람표4_flSeq164734353.hwp",
+      "appendix_instance_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ETC0004:file:170046449",
+      "filename": "기타4_형사접수서류의 전산입력 및 편철 방법 일람표4_flSeq170046449.hwp",
       "file_dir": "기타",
-      "local_path": "기타/기타4_형사접수서류의 전산입력 및 편철 방법 일람표4_flSeq164734353.hwp",
+      "local_path": "기타/기타4_형사접수서류의 전산입력 및 편철 방법 일람표4_flSeq170046449.hwp",
       "file_store_url": ""
     },
     {
@@ -477,11 +488,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734357",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046453",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734357",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046453",
           "name": "",
           "file_store_url": ""
         }
@@ -502,11 +513,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734359",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046455",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734359",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046455",
           "name": "",
           "file_store_url": ""
         }
@@ -527,11 +538,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734361",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046457",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734361",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046457",
           "name": "",
           "file_store_url": ""
         }
@@ -539,10 +550,10 @@
       "images": [],
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ETC0007",
       "appendix_duplicate_count": 2,
-      "appendix_instance_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ETC0007:file:164734361",
-      "filename": "기타7_형사접수서류의 전산입력 및 편철 방법 일람표7_flSeq164734361.hwp",
+      "appendix_instance_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ETC0007:file:170046457",
+      "filename": "기타7_형사접수서류의 전산입력 및 편철 방법 일람표7_flSeq170046457.hwp",
       "file_dir": "기타",
-      "local_path": "기타/기타7_형사접수서류의 전산입력 및 편철 방법 일람표7_flSeq164734361.hwp",
+      "local_path": "기타/기타7_형사접수서류의 전산입력 및 편철 방법 일람표7_flSeq170046457.hwp",
       "file_store_url": ""
     },
     {
@@ -554,11 +565,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734363",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046499",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164734363",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046499",
           "name": "",
           "file_store_url": ""
         }
@@ -566,10 +577,10 @@
       "images": [],
       "provision_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ETC0007",
       "appendix_duplicate_count": 2,
-      "appendix_instance_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ETC0007:file:164734363",
-      "filename": "기타7_형사접수서류의 전산입력 및 편철 방법 일람표7_flSeq164734363.hwp",
+      "appendix_instance_id": "admrul:형사소송서류의전산입력및편철방법에대한예규(재형2003-11)#ETC0007:file:170046499",
+      "filename": "기타7_형사접수서류의 전산입력 및 편철 방법 일람표7_flSeq170046499.hwp",
       "file_dir": "기타",
-      "local_path": "기타/기타7_형사접수서류의 전산입력 및 편철 방법 일람표7_flSeq164734363.hwp",
+      "local_path": "기타/기타7_형사접수서류의 전산입력 및 편철 방법 일람표7_flSeq170046499.hwp",
       "file_store_url": ""
     }
   ],
@@ -585,7 +596,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 18,
+    "addenda_count": 19,
     "appendices_count": 10,
     "attachments_count": 0
   },
