@@ -1,16 +1,16 @@
 {
   "law_id": "2111647",
-  "mst": "2200000102641",
+  "mst": "2200000108999",
   "law_name": "보호관찰 및 사회봉사명령 등에 관한 예규(재형 2003-9)",
   "law_abbr": "",
   "law_type": "재판예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2111647",
-  "promulgation_no": "1777",
-  "promulgation_date": "20210802",
-  "enforcement_date": "20210802",
-  "revision_date": "20210802",
+  "promulgation_no": "1968-7",
+  "promulgation_date": "20260928",
+  "enforcement_date": "20261002",
+  "revision_date": "20260928",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,24 +19,24 @@
     "담당자명": "",
     "행정규칙종류코드": "B0013",
     "행정규칙명": "보호관찰 및 사회봉사명령 등에 관한 예규(재형 2003-9)",
-    "발령일자": "20210802",
+    "발령일자": "20260928",
     "행정규칙종류": "재판예규",
     "제개정구분코드": "200403",
     "조문형식여부": "N",
-    "소관부처명": "대법원",
+    "소관부처명": "",
     "전화번호": "",
     "제개정구분명": "일부개정",
     "소관부처코드": "9740000",
-    "생성일자": "20241125",
+    "생성일자": "20261002",
     "행정규칙ID": "2111647",
-    "시행일자": "20210802",
+    "시행일자": "20261002",
     "담당부서기관코드": "",
-    "발령번호": "1777",
-    "행정규칙일련번호": "2200000102641",
+    "발령번호": "1968-7",
+    "행정규칙일련번호": "2200000108999",
     "상위부처명": "대법원"
   },
-  "amendment_text": "보호관찰 및 사회봉사명령 등에 관한 예규(재형 2003-9) 일부를 다음과 같이 개정한다.\n제13조 제4항 중 “즉시항고기간(3일)”을 “즉시항고기간”으로 한다.\n부 칙\n이 예규는 즉시 시행한다.",
-  "revision_reason": "1. 개정이유\n○ 개정「형사소송법」(제15257호, 2019. 12. 31. 시행)은 헌법재판소의 헌법불합치결정의 취지에 따라 즉시항고의 제기기간을 3일에서 7일로 연장하였음(제440조). 보호관찰을 조건으로 한 형의 집행유예의 취소 절차에 관하여도 개정 규정이 준용되므로 3일의 즉시항고기간을 전제로 한 예규 규정을 정비함\n2. 주요내용\n○ 제13조 제4항 중 “즉시항고기간(3일)”을 “즉시항고기간”으로 함(안  제13조 제4항)",
+  "amendment_text": "보호관찰 및 사회봉사명령 등에 관한 예규 일부를 다음과 같이 개정한다.\n본문생략\n부 칙\n제1조(시행일) 이 예규는 2026년 10월 2일부터 시행한다.",
+  "revision_reason": "1. 개정이유\n○ 「공소청법」(법률 제21490호, 2026. 3. 24. 공포, 2026. 10. 2. 시행) 및 「중대범죄수사청 조직 및 운영에 관한 법률」(법률 제21491호, 2026. 3. 24. 공포, 2026. 10. 2. 시행)이 제정되고, 「형사소송법」이 개정(법률 제21857호, 2026. 8. 4. 공포, 2026. 10. 2. 시행)됨에 따라, 검찰청 폐지 및 공소청 체계로의 전환, 검사의 수사권 조정 등 형사사법체계 개편사항을 반영하여 관련 예규의 기관명칭, 업무처리 주체 및 관련 표현을 정비하고 필요한 경과조치를 마련하려는 것임\n2. 주요내용\n○ 제15조제2항에서 형의 선고유예 실효 또는 집행유예 취소 결정이 확정된 경우 관련 기록 및 결정원본의 송부기관을 “검찰청”에서 “공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다)”으로 변경함(제8조)",
   "body": {
     "format": "articles",
     "article_count": 24,
@@ -200,7 +200,7 @@
         "article_title": "심리방법 및 확정된 후의 처리",
         "chapter": "제4장 형의 선고유예의 실효 또는 집행유예의 취소 및 구인ㆍ유치허가 결정",
         "chapter_path": "제4장 형의 선고유예의 실효 또는 집행유예의 취소 및 구인ㆍ유치허가 결정",
-        "content": "제15조  (심리방법 및 확정된 후의 처리) ① 법원은 위 사건을 심리함에 있어서는 보호관찰등대상자 또는 그 대리인의 의견을 묻는 외에, 가능한 한 담당 보호관찰관 또는 위탁집행기관의 대표자를 출석시켜 의견을 듣는 등의 방법으로 심리에 신중을 기하여야 한다.② 형의 선고유예의 실효 또는 집행유예의 취소 결정이 확정된 경우에는, 법원은 관련기록 및 결정원본을 검찰청에 송부하고 결정등본 1부를 자체보관하여야 한다.",
+        "content": "제15조  (심리방법 및 확정된 후의 처리) ① 법원은 위 사건을 심리함에 있어서는 보호관찰등대상자 또는 그 대리인의 의견을 묻는 외에, 가능한 한 담당 보호관찰관 또는 위탁집행기관의 대표자를 출석시켜 의견을 듣는 등의 방법으로 심리에 신중을 기하여야 한다.② 형의 선고유예의 실효 또는 집행유예의 취소 결정이 확정된 경우에는, 법원은 관련기록 및 결정원본을 공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다)에 송부하고 결정등본 1부를 자체보관하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -336,10 +336,10 @@
       "content": "부  칙(2004. 3. 1. 제952호)이 예규는 2004. 3. 1.부터 시행한다.",
       "provision_id": "admrul:보호관찰및사회봉사명령등에관한예규(재형2003-9)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000102641",
+      "source_mst": "2200000108999",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20210802"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20080619",
@@ -347,10 +347,10 @@
       "content": "부  칙(2008. 6. 19. 제1236호)이 예규는 2008. 6. 22.부터 시행한다.",
       "provision_id": "admrul:보호관찰및사회봉사명령등에관한예규(재형2003-9)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000102641",
+      "source_mst": "2200000108999",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20210802"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20140919",
@@ -358,10 +358,10 @@
       "content": "부   칙(2014. 9. 19. 제1483호)이 예규는 2014년 9월 29일부터 시행한다.",
       "provision_id": "admrul:보호관찰및사회봉사명령등에관한예규(재형2003-9)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000102641",
+      "source_mst": "2200000108999",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20210802"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20160212",
@@ -369,10 +369,10 @@
       "content": "부 칙(2016. 2. 12. 제1567호)제1조(시행일) 이 예규는 2016년 3월 1일부터 시행한다.제2조 (경과조치) 이 예규는 이 예규 시행 당시 계속 중인 사건에도 적용한다. 다만 이 예규 시행 전에 종전의 규정에 따라 행한 행위의 효력에는 영향을 미치지 아니한다.",
       "provision_id": "admrul:보호관찰및사회봉사명령등에관한예규(재형2003-9)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000102641",
+      "source_mst": "2200000108999",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20210802"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20160229",
@@ -380,10 +380,10 @@
       "content": "부 칙(2016. 2. 29. 제1571호)이 예규는 2016년 3월 1일부터 시행한다.",
       "provision_id": "admrul:보호관찰및사회봉사명령등에관한예규(재형2003-9)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000102641",
+      "source_mst": "2200000108999",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20210802"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20161123",
@@ -391,10 +391,10 @@
       "content": "부 칙(2016. 11. 23. 제1623호)이 예규는 2017년 1월 1일부터 시행한다.",
       "provision_id": "admrul:보호관찰및사회봉사명령등에관한예규(재형2003-9)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000102641",
+      "source_mst": "2200000108999",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20210802"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20190123",
@@ -402,10 +402,10 @@
       "content": "부 칙(2019. 1. 23. 제1711호)이 예규는 즉시 시행한다.",
       "provision_id": "admrul:보호관찰및사회봉사명령등에관한예규(재형2003-9)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000102641",
+      "source_mst": "2200000108999",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20210802"
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "20210802",
@@ -413,10 +413,21 @@
       "content": "부 칙(2021. 8. 2. 제1777호)이 예규는 즉시 시행한다.",
       "provision_id": "admrul:보호관찰및사회봉사명령등에관한예규(재형2003-9)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000102641",
+      "source_mst": "2200000108999",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20210802"
+      "version_enforcement_date": "20261002"
+    },
+    {
+      "promulgation_date": "99991231",
+      "promulgation_no": "9998",
+      "content": "부  칙(2026. 9. 28. 제1968-7호)제1조(시행일) 이 예규는 2026년 10월 2일부터 시행한다.",
+      "provision_id": "admrul:보호관찰및사회봉사명령등에관한예규(재형2003-9)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000108999",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002"
     },
     {
       "promulgation_date": "99991231",
@@ -424,10 +435,10 @@
       "content": "부  칙1. 이 예규는 2003. 9. 15.부터 시행한다.2. \"보호관찰 및 사회봉사명령ㆍ수강명령등과 관련한 사무처리지침(재일 97-1)\", \"보호관찰등에관한법률에 의하여 유치된 피고인에 대한 집행유예취소 결정시 유의사항(재형 98-2)\"는 폐지한다.",
       "provision_id": "admrul:보호관찰및사회봉사명령등에관한예규(재형2003-9)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000102641",
+      "source_mst": "2200000108999",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20210802"
+      "version_enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -440,11 +451,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145617003",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046375",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145617003",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046375",
           "name": "",
           "file_store_url": ""
         }
@@ -465,11 +476,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145617005",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046377",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145617005",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046377",
           "name": "",
           "file_store_url": ""
         }
@@ -490,11 +501,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145617007",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046419",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145617007",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046419",
           "name": "",
           "file_store_url": ""
         }
@@ -515,11 +526,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145617009",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046421",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145617009",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170046421",
           "name": "",
           "file_store_url": ""
         }
@@ -548,7 +559,7 @@
     "unmatched_relations": 1,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 9,
+    "addenda_count": 10,
     "appendices_count": 4,
     "attachments_count": 0
   },
