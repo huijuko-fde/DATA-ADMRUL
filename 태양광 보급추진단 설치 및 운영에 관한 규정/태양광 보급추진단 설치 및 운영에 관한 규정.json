@@ -1,17 +1,17 @@
 {
   "law_id": "96654",
-  "mst": "2100000277078",
+  "mst": "2100000286054",
   "law_name": "태양광 보급추진단 설치 및 운영에 관한 규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:96654",
-  "promulgation_no": "34",
-  "promulgation_date": "20260406",
-  "enforcement_date": "20260406",
-  "revision_date": "20260406",
-  "revision_type": "제정",
+  "promulgation_no": "57",
+  "promulgation_date": "20261006",
+  "enforcement_date": "20261006",
+  "revision_date": "20261006",
+  "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
@@ -19,24 +19,24 @@
     "담당자명": "서창민",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "태양광 보급추진단 설치 및 운영에 관한 규정 ",
-    "발령일자": "20260406",
+    "발령일자": "20261006",
     "행정규칙종류": "훈령",
-    "제개정구분코드": "200401",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "기후에너지환경부",
     "전화번호": "044-201-6358",
-    "제개정구분명": "제정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "1482000",
-    "생성일자": "20260407",
+    "생성일자": "20261006",
     "행정규칙ID": "96654",
-    "시행일자": "20260406",
+    "시행일자": "20261006",
     "담당부서기관코드": "1482281",
-    "발령번호": "34",
-    "행정규칙일련번호": "2100000277078",
+    "발령번호": "57",
+    "행정규칙일련번호": "2100000286054",
     "상위부처명": "기후에너지환경부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n○ 재생에너지 중심의 대전환을 위한 태양광 보급과 관련한 소관 사무를 책임있고 신속하게 추진하기 위하여 자율기구 \"태양광 보급추진단\"을 설치하고 그 구성 및 운영에 필요한 사항을 규정하려는 것임\n◇ 주요내용\n○ 제1조(목적)\n- 자율기구 \"태양광 보급추진단\"의 설치와 운영에 필요한 사항을 정함\n○ 제2조(조직의 설치)\n- 조직의 설치요건, 소속, 겸임, 계급별ㆍ직급별 정원 등 규정\n○ 제3조(기능)\n- 태양광 보급정책 등 \"추진단\"의 주요 기능을 규정\n○ 제4조(조직의 구성 등)\n- \"추진단\"의 구성, 직무대리 및 업무 분장 등을 규정\n○ 제5조(공무원 등의 파견 요청 등)\n- \"추진단\"의 파견ㆍ겸임 관련 사항 등을 규정\n○ 제6조(존속 기한)\n- \"추진단\"의 존속 기한을 규정",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 「행정기관의 조직과 정원에 관한 통칙」 제29조의3에 따라  \"태양광 보급추진단(자율기구)\" 의 존속기한 연장하기 위함\n◇ 주요내용\n○  태양광 보급추진단의 존속기한 연장(제6조)\n-  태양광 보급추진단의 존속기한을 2026년 10월 5일에서 2027년 4월 5일까지 6개월 연장",
   "body": {
     "format": "articles",
     "article_count": 6,
@@ -244,7 +244,7 @@
         "article_title": "존속 기한",
         "chapter": "",
         "chapter_path": "",
-        "content": "제6조(존속 기한) 이 훈령은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에도 불구하고 이 훈령을 발령한 2026년 4월 6일 기준으로 법령이나 행정여건 등의 변화를 검토하여야 하는 6개월이 되는 시점(2026년 10월 5일까지를 말한다)까지 그 효력을 가진다.",
+        "content": "제6조(존속 기한) 이 훈령은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에도 불구하고 이 훈령을 발령한 2026년 10월 6일 기준으로 법령이나 행정여건 등의 변화를 검토하여야 하는 6개월이 되는 시점(2027년 4월 5일까지를 말한다)까지 그 효력을 가진다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -280,10 +280,21 @@
       "content": "부칙 <제34호, 2026. 4. 6.>이 훈령은 2026년 4월 6일부터 시행한다.",
       "provision_id": "admrul:태양광보급추진단설치및운영에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277078",
+      "source_mst": "2100000286054",
       "source_version_uid": "",
-      "source_revision_type": "제정",
-      "version_enforcement_date": "20260406"
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261006"
+    },
+    {
+      "promulgation_date": "20261006",
+      "promulgation_no": "57",
+      "content": "부칙 <제57호, 2026. 10. 6.>이 훈령은 2026년 10월 6일부터 시행한다.",
+      "provision_id": "admrul:태양광보급추진단설치및운영에관한규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000286054",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261006"
     }
   ],
   "appendices": [
@@ -296,17 +307,17 @@
       "content": "[별표]\n\n태양광 보급추진단 공무원 정원표(제2조제3항 관련)\n\n총계                                                                  7\n\n일반직 계                                                         7\n\n4급\n\n과학기술서기관 또는 서기관                                   1\n\n4급 또는 5급\n\n과학기술서기관?서기관?행정사무관?통계사무관?공업사무     1\n관?보건사무관?환경사무관?시설사무관 또는 전산사무관\n\n5급\n\n행정사무관?통계사무관?공업사무관?보건사무관?환경사무관   3\n?시설사무관 또는 전산사무관\n\n6급\n\n행정주사?통계주사?공업주사?보건주사?환경주사?시설주     2\n사 또는 전산주사\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163120359",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170110289",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163120355",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170110285",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163120359",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170110289",
           "name": "",
           "file_store_url": ""
         }
@@ -321,11 +332,19 @@
   ],
   "attachments": [
     {
-      "name": "1-1. 태양광 보급추진단 설치 및 운영에 관한 규정(기후에너지환경부훈령 제34호).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=163115555",
-      "filename": "1-1. 태양광 보급추진단 설치 및 운영에 관한 규정(기후에너지환경부훈령 제34호).hwpx",
+      "name": "1-1. 태양광 보급추진단 설치 및 운영에 관한 규정(기후에너지환경부훈령 제57호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170110261",
+      "filename": "1-1. 태양광 보급추진단 설치 및 운영에 관한 규정(기후에너지환경부훈령 제57호).hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/1-1. 태양광 보급추진단 설치 및 운영에 관한 규정(기후에너지환경부훈령 제34호).hwpx",
+      "local_path": "첨부파일/1-1. 태양광 보급추진단 설치 및 운영에 관한 규정(기후에너지환경부훈령 제57호).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "1-1. 태양광 보급추진단 설치 및 운영에 관한 규정(기후에너지환경부훈령 제57호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170110265",
+      "filename": "1-1. 태양광 보급추진단 설치 및 운영에 관한 규정(기후에너지환경부훈령 제57호).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/1-1. 태양광 보급추진단 설치 및 운영에 관한 규정(기후에너지환경부훈령 제57호).pdf",
       "file_store_url": ""
     }
   ],
@@ -345,9 +364,9 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 1,
-    "attachments_count": 1
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/태양광 보급추진단 설치 및 운영에 관한 규정"
