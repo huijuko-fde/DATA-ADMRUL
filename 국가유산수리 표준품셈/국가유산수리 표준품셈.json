@@ -140,8 +140,10 @@
   "addendum_provision_id": "admrul:국가유산수리표준품셈#ADDENDUM",
   "amendment_provision_id": "admrul:국가유산수리표준품셈#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261006"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "국가유산수리 표준품셈/국가유산수리 표준품셈.json"
 }
