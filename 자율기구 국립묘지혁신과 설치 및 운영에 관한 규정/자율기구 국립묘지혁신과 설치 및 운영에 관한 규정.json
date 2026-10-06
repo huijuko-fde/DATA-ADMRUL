@@ -1,42 +1,42 @@
 {
   "law_id": "96554",
-  "mst": "2100000276564",
+  "mst": "2100000285872",
   "law_name": "자율기구 국립묘지혁신과 설치 및 운영에 관한 규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:96554",
-  "promulgation_no": "144",
-  "promulgation_date": "20260330",
-  "enforcement_date": "20260406",
-  "revision_date": "20260330",
-  "revision_type": "제정",
+  "promulgation_no": "168",
+  "promulgation_date": "20261006",
+  "enforcement_date": "20261006",
+  "revision_date": "20261006",
+  "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "국가보훈부(혁신행정담당관)",
-    "담당자명": "이현희",
+    "담당자명": "강경선",
     "행정규칙종류코드": "B0001",
-    "행정규칙명": "자율기구 국립묘지혁신과 설치 및 운영에 관한 규정",
-    "발령일자": "20260330",
+    "행정규칙명": "자율기구 국립묘지혁신과 설치 및 운영에 관한 규정 ",
+    "발령일자": "20261006",
     "행정규칙종류": "훈령",
-    "제개정구분코드": "200401",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "국가보훈부",
     "전화번호": "044-202-5237",
-    "제개정구분명": "제정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "1830000",
-    "생성일자": "20260406",
+    "생성일자": "20261006",
     "행정규칙ID": "96554",
-    "시행일자": "20260406",
+    "시행일자": "20261006",
     "담당부서기관코드": "1830203",
-    "발령번호": "144",
-    "행정규칙일련번호": "2100000276564",
+    "발령번호": "168",
+    "행정규칙일련번호": "2100000285872",
     "상위부처명": "국가보훈부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n○「행정기관의 조직과 정원에 관한 통칙」제29조의3에 따라 자율기구 국립묘지혁신과를 설치\n\n◇ 주요내용\n가. 목적(안 제1조)\n○ 국립묘지혁신과의 설치와 그 운영 등에 필요한 사항을 정함\n나. 조직의 설치(안 제2조, 별표)\n○ 국정과제 등 추진이 필요한 사안으로 보훈문화정책실장 밑에 둠\n다. 수행 업무(안 제3조)\n○ 국립묘지 관련 법령 제ㆍ개정 총괄\n○ 국립묘지 안장ㆍ이장ㆍ합장 제도개선\n○ 국립묘지 조성ㆍ확충 계획 수립\n○ 국립묘지 조성ㆍ확충 공사 추진\n○ 국립묘지 조성 관련 갈등관리\n○ 국립묘지 대규모 시설 유지보수\n라. 조직의 구성 및 업무분장 관련 사항 등(안 제4조)\n○ 과장은 국가보훈부 소속 3급 또는 4급 공무원으로 보하며, 과원은 4급 또는 5급 이하 공무원으로 구성\n마. 공무원 등의 파견 요청 등(안 제5조)\n○ 과장은 필요한 경우에 관계 행정기관 등의 장에게 소속 임직원의 파견 등을 요청\n바. 존속기한(안 제6조)\n○ 시행일로부터 6개월이 되는 시점(2026년 10월 5일)까지 운영",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○「행정기관의 조직과 정원에 관한 통칙」제29조의3에 따라 설치된 자율기구인 국립묘지혁신과의 존속기한을 6개월 연장하고, 타 법령 개정사항을 반영하는 등 일부 미비점을 보완\n\n◇ 주요내용\n○ 타 법령 개정사항 반영(제4조)\n- \"「행정 효율과 협업 촉진에 관한 규정」\"을 \"「행정업무의 운영 및 혁신에 관한 규정」\"으로 수정\n○ 존속기한(제6조)\n- 부 훈령의 존속기한을 종전의 2026년 10월 6일에서 2027년 4월 5일로 6개월 연장함",
   "body": {
     "format": "articles",
     "article_count": 6,
@@ -202,7 +202,7 @@
         "article_title": "조직의 구성 등",
         "chapter": "",
         "chapter_path": "",
-        "content": "제4조(조직의 구성 등) ① \"국립묘지혁신과\"는 과장과 직원으로 구성하며, 필요한 경우 관련 분야의 전문지식과 경험이 풍부한 전문가를 자문위원으로 위촉하여 운영할 수 있다.② 과장은 \"국립묘지혁신과\"의 업무를 총괄하며, 국가보훈부의 3급 또는 4급 공무원으로 임용한다.③ 과장이 부득이한 사유로 업무를 수행할 수 없을 때에는 「직무대리규정」에 따라 국가보훈부장관이 지정한 공무원이 직무를 대행한다.④ 과원은 국가보훈부 소속 4급 또는 5급 이하 공무원으로 구성한다.⑤ 과장은 효율적인 업무처리 및 책임소재를 명확하게 하기 위하여 「행정 효율과 협업 촉진에 관한 규정」 제60조에 따라 소속 과원에게 업무를 분장 한다.",
+        "content": "제4조(조직의 구성 등) ① \"국립묘지혁신과\"는 과장과 직원으로 구성하며, 필요한 경우 관련 분야의 전문지식과 경험이 풍부한 전문가를 자문위원으로 위촉하여 운영할 수 있다.② 과장은 \"국립묘지혁신과\"의 업무를 총괄하며, 국가보훈부의 3급 또는 4급 공무원으로 임용한다.③ 과장이 부득이한 사유로 업무를 수행할 수 없을 때에는 「직무대리규정」에 따라 국가보훈부장관이 지정한 공무원이 직무를 대행한다.④ 과원은 국가보훈부 소속 4급 또는 5급 이하 공무원으로 구성한다.⑤ 과장은 효율적인 업무처리 및 책임소재를 명확하게 하기 위하여 「행정업무의 운영 및 혁신에 관한 규정」 제60조에 따라 소속 과원에게 업무를 분장 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -231,19 +231,19 @@
             "target_category": "법령",
             "source_article_no": "제4조",
             "source_clause": "제4조제5항",
-            "link_text": "「행정 효율과 협업 촉진에 관한 규정」",
+            "link_text": "「행정업무의 운영 및 혁신에 관한 규정」",
             "line_text": "",
-            "target_law_name": "행정 효율과 협업 촉진에 관한 규정",
+            "target_law_name": "행정업무의 운영 및 혁신에 관한 규정",
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "96554",
-            "target_url": "https://www.law.go.kr/법령/행정 효율과 협업 촉진에 관한 규정",
+            "target_url": "https://www.law.go.kr/법령/행정업무의 운영 및 혁신에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:자율기구국립묘지혁신과설치및운영에관한규정#JO0004",
-            "reference_id": "law:행정효율과협업촉진에관한규정#DOC",
+            "reference_id": "law:행정업무의운영및혁신에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정 효율과 협업 촉진에 관한 규정/법률/행정 효율과 협업 촉진에 관한 규정.json"
+            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json"
           },
           {
             "relation_type": "citation",
@@ -253,17 +253,17 @@
             "source_clause": "제4조제5항",
             "link_text": "제60조",
             "line_text": "",
-            "target_law_name": "행정 효율과 협업 촉진에 관한 규정",
+            "target_law_name": "행정업무의 운영 및 혁신에 관한 규정",
             "target_article_no": "제60조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "96554",
-            "target_url": "https://www.law.go.kr/법령/행정 효율과 협업 촉진에 관한 규정/제60조",
+            "target_url": "https://www.law.go.kr/법령/행정업무의 운영 및 혁신에 관한 규정/제60조",
             "resolve_method": "html",
             "source_provision_id": "admrul:자율기구국립묘지혁신과설치및운영에관한규정#JO0004",
-            "reference_id": "law:행정효율과협업촉진에관한규정#JO0060",
+            "reference_id": "law:행정업무의운영및혁신에관한규정#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정 효율과 협업 촉진에 관한 규정/법률/행정 효율과 협업 촉진에 관한 규정.json"
+            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json"
           }
         ],
         "images": [],
@@ -285,7 +285,7 @@
         "article_title": "존속 기한",
         "chapter": "",
         "chapter_path": "",
-        "content": "제6조(존속 기한) 이 훈령은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에도 불구하고 이 훈령을 발령한 2026년 4월 6일 기준으로 법령이나 행정여건 등의 변화를 검토하여야 하는 6개월이 되는 시점(2026년 10월 5일까지를 말한다)까지 그 효력을 가진다.",
+        "content": "제6조(존속 기한) 이 훈령은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에도 불구하고 이 훈령을 발령한 2026년 10월 6일 기준으로 법령이나 행정여건 등의 변화를 검토하여야 하는 6개월이 되는 시점(2027년 4월 5일까지를 말한다)까지 그 효력을 가진다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -321,10 +321,21 @@
       "content": "부칙 <제144호, 2026. 3. 30.>제1조(시행일) 이 훈령은 2026년 4월 6일부터 시행한다.",
       "provision_id": "admrul:자율기구국립묘지혁신과설치및운영에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276564",
+      "source_mst": "2100000285872",
       "source_version_uid": "",
-      "source_revision_type": "제정",
-      "version_enforcement_date": "20260406"
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261006"
+    },
+    {
+      "promulgation_date": "20261006",
+      "promulgation_no": "168",
+      "content": "부칙 <제168호, 2026. 10. 6.>제1조(시행일) 이 훈령은 2026년 10월 6일부터 시행한다.",
+      "provision_id": "admrul:자율기구국립묘지혁신과설치및운영에관한규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000285872",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261006"
     }
   ],
   "appendices": [
@@ -337,17 +348,17 @@
       "content": "[별표]\n\n국립묘지혁신과 공무원 정원표(제2조제3항 관련)\n\n총계                                                    7\n\n일반직 계                                             7\n\n3급 또는 4급\n\n부이사관ㆍ서기관 또는 과학기술서기관             1\n\n4급 또는 5급\n\n서기관ㆍ기술서기관ㆍ행정사무관ㆍ공업사무관ㆍ시   1\n설사무관 또는 전산사무관\n\n5급\n\n행정사무관ㆍ공업사무관ㆍ임업사무관ㆍ시설사무   2\n관 또는 전산사무관\n\n6급\n\n행정주사ㆍ공업주사ㆍ임업주사ㆍ시설주사 또는    2\n전산주사\n\n7급\n\n행정주사보ㆍ공업주사보ㆍ임업주사보ㆍ시설주사   1\n보 또는 전산주사보\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162943945",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170019447",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162943941",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170019443",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162943945",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170019447",
           "name": "",
           "file_store_url": ""
         }
@@ -363,7 +374,7 @@
   "attachments": [
     {
       "name": "(전문) 자율기구 국립묘지혁신과 설치 및 운영에 관한 규정.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=162943915",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170022191",
       "filename": "(전문) 자율기구 국립묘지혁신과 설치 및 운영에 관한 규정.hwpx",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/(전문) 자율기구 국립묘지혁신과 설치 및 운영에 관한 규정.hwpx",
@@ -371,7 +382,7 @@
     },
     {
       "name": "(전문) 자율기구 국립묘지혁신과 설치 및 운영에 관한 규정.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=162943919",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170022195",
       "filename": "(전문) 자율기구 국립묘지혁신과 설치 및 운영에 관한 규정.pdf",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/(전문) 자율기구 국립묘지혁신과 설치 및 운영에 관한 규정.pdf",
@@ -394,7 +405,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 1,
     "attachments_count": 2
   },
