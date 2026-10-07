@@ -1,16 +1,16 @@
 {
   "law_id": "39388",
-  "mst": "2100000277898",
+  "mst": "2100000286700",
   "law_name": "재정경제부 감사업무 처리규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:39388",
-  "promulgation_no": "154",
-  "promulgation_date": "20260413",
-  "enforcement_date": "20260413",
-  "revision_date": "20260413",
+  "promulgation_no": "176",
+  "promulgation_date": "20261007",
+  "enforcement_date": "20261007",
+  "revision_date": "20261007",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "김동석",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "재정경제부 감사업무 처리규정",
-    "발령일자": "20260413",
+    "발령일자": "20261007",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "044-215-2212",
     "제개정구분명": "일부개정",
     "소관부처코드": "1053000",
-    "생성일자": "20260416",
+    "생성일자": "20261012",
     "행정규칙ID": "39388",
-    "시행일자": "20260413",
+    "시행일자": "20261007",
     "담당부서기관코드": "1053030",
-    "발령번호": "154",
-    "행정규칙일련번호": "2100000277898",
+    "발령번호": "176",
+    "행정규칙일련번호": "2100000286700",
     "상위부처명": "재정경제부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정 이유\nㅇ 법제처의 일몰기한(존속기한 설정) 정비 협조 요청에 따라 일몰기한을 설정하고,\nㅇ 조직개편에 따라 기획재정부가 재정경제부와 기획예산처로 분리되어 기존 기획재정부 소관 감사대상 범위에 있었으나 재정경제부 소관이 아닌 기관(한국재정정보원)을 감사대상 범위에서 삭제하며,\nㅇ 별지 서식에 있는 기관명칭을 기획재정부에서 재정경제부로 변경하기 위한 개정\n◇ 주요내용\nㅇ 동 규정의 일몰기한을 설정하고, 한국재정정보원을 감사대상 범위에서 삭제하며, 별지에 기재되어 있는 기획재정부를 재정경제부로 변경",
+  "revision_reason": "◇ 개정 이유\nㅇ 「한미전략투자법」이 ‘26.6.18.부터 시행되고 동법에 의해 한미전략투자공사가 설립되었으며, 재정경제부장관은 한미전략투자공사의 기금리ㆍ운용에 관한 사무를 감독(법 제43조제2항)하므로, 한미전략투자공사를 재정경제부의 감사대상 기관에 추가하기 위함\n◇ 주요내용\nㅇ 재정경제부의 감사대상기관에 한미전략투자공사를 추가함",
   "body": {
     "format": "articles",
     "article_count": 48,
@@ -201,7 +201,7 @@
         "article_title": "감사대상",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제4조(감사대상) ① 이 규정에 따른 장관의 감사대상은 다음 각 호와 같다.1. 재정경제부 및 그 소속기관2. 「국유재산법」 제9조에 따른 국유재산 관리청등3. 「한국수출입은행법」에 따른 한국수출입은행4. 「한국조폐공사법」에 따른 한국조폐공사5. 삭 제6. 「엽연초생산협동조합법」에 따른 엽연초생산협동조합 및 동 중앙회7. 「세무사법」에 따른 한국세무사회8. 재정경제부 소관 법령 또는 계약에 의하여 재정경제부 소관 사무를 위탁받은 법인ㆍ단체9. 재정경제부로부터 출연금을 교부받은 단체10. 법령에 의하여 장관이 감사원 또는 다른 기관의 장으로부터 감사를 위탁받은 기관ㆍ법인ㆍ단체11. 장관의 감독을 받는 민법상 비영리법인12. 기타 법령에 따라 장관의 감독을 받는 기관ㆍ법인ㆍ단체② 장관은 필요하다고 인정하는 경우에는 제1항의 감사대상이외에 다음 각 호에 대하여 감사할 수 있다.1. 「행정권한의 위임 및 위탁에 관한 규정」에 따라 장관이 위임ㆍ위탁한 사무2. 「보조금의 예산 및 관리에 관한 법률」에 따라 장관으로부터 보조금을 지원받는 단체",
+        "content": "제4조(감사대상) ① 이 규정에 따른 장관의 감사대상은 다음 각 호와 같다.1. 재정경제부 및 그 소속기관2. 「국유재산법」 제9조에 따른 국유재산 관리청등3. 「한국수출입은행법」에 따른 한국수출입은행4. 「한국조폐공사법」에 따른 한국조폐공사4의1. 「대한민국과 미합중국 간 전략적투자의 운영 및 관리를 위한 특별법」한미전략투자공사5. 삭 제6. 「엽연초생산협동조합법」에 따른 엽연초생산협동조합 및 동 중앙회7. 「세무사법」에 따른 한국세무사회8. 재정경제부 소관 법령 또는 계약에 의하여 재정경제부 소관 사무를 위탁받은 법인ㆍ단체9. 재정경제부로부터 출연금을 교부받은 단체10. 법령에 의하여 장관이 감사원 또는 다른 기관의 장으로부터 감사를 위탁받은 기관ㆍ법인ㆍ단체11. 장관의 감독을 받는 민법상 비영리법인12. 기타 법령에 따라 장관의 감독을 받는 기관ㆍ법인ㆍ단체② 장관은 필요하다고 인정하는 경우에는 제1항의 감사대상이외에 다음 각 호에 대하여 감사할 수 있다.1. 「행정권한의 위임 및 위탁에 관한 규정」에 따라 장관이 위임ㆍ위탁한 사무2. 「보조금의 예산 및 관리에 관한 법률」에 따라 장관으로부터 보조금을 지원받는 단체",
         "enforcement_date": "",
         "relations": [
           {
@@ -283,6 +283,26 @@
             "reference_id": "law:한국조폐공사법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "한국조폐공사법/법률/한국조폐공사법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "「대한민국과 미합중국 간 전략적투자의 운영 및 관리를 위한 특별법」",
+            "line_text": "",
+            "target_law_name": "대한민국과 미합중국 간 전략적투자의 운영 및 관리를 위한 특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "39388",
+            "target_url": "https://www.law.go.kr/법령/대한민국과 미합중국 간 전략적투자의 운영 및 관리를 위한 특별법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재정경제부감사업무처리규정#JO0004",
+            "reference_id": "law:대한민국과미합중국간전략적투자의운영및관리를위한특별법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "대한민국과 미합중국 간 전략적투자의 운영 및 관리를 위한 특별법/법률/대한민국과 미합중국 간 전략적투자의 운영 및 관리를 위한 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -607,7 +627,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "39388",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529395",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377247",
             "resolve_method": "html",
             "source_provision_id": "admrul:재정경제부감사업무처리규정#JO0015",
             "target_unit": "BJ0001",
@@ -644,7 +664,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "39388",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529401",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377253",
             "resolve_method": "html",
             "source_provision_id": "admrul:재정경제부감사업무처리규정#JO0016",
             "target_unit": "BJ0002",
@@ -701,7 +721,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "39388",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529407",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377299",
             "resolve_method": "html",
             "source_provision_id": "admrul:재정경제부감사업무처리규정#JO0017",
             "target_unit": "BJ0003",
@@ -802,7 +822,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "39388",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529413",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377305",
             "resolve_method": "html",
             "source_provision_id": "admrul:재정경제부감사업무처리규정#JO0020",
             "target_unit": "BJ0004",
@@ -913,7 +933,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "39388",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529423",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377315",
             "resolve_method": "html",
             "source_provision_id": "admrul:재정경제부감사업무처리규정#JO0024",
             "target_unit": "BJ0005",
@@ -938,7 +958,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "39388",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529431",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377323",
             "resolve_method": "html",
             "source_provision_id": "admrul:재정경제부감사업무처리규정#JO0024",
             "target_unit": "BJ0006",
@@ -963,7 +983,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "39388",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529437",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377329",
             "resolve_method": "html",
             "source_provision_id": "admrul:재정경제부감사업무처리규정#JO0024",
             "target_unit": "BJ0007",
@@ -988,7 +1008,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "39388",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529443",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377335",
             "resolve_method": "html",
             "source_provision_id": "admrul:재정경제부감사업무처리규정#JO0024",
             "target_unit": "BJ0008",
@@ -1160,7 +1180,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "39388",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529449",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377341",
             "resolve_method": "html",
             "source_provision_id": "admrul:재정경제부감사업무처리규정#JO0028",
             "target_unit": "BJ0009",
@@ -1265,7 +1285,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "39388",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529455",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377347",
             "resolve_method": "html",
             "source_provision_id": "admrul:재정경제부감사업무처리규정#JO0028",
             "target_unit": "BJ0010",
@@ -1394,7 +1414,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "39388",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529461",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377353",
             "resolve_method": "html",
             "source_provision_id": "admrul:재정경제부감사업무처리규정#JO0030",
             "target_unit": "BJ0011",
@@ -1494,7 +1514,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "39388",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529467",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377359",
             "resolve_method": "html",
             "source_provision_id": "admrul:재정경제부감사업무처리규정#JO0032",
             "target_unit": "BJ0012",
@@ -1812,7 +1832,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "39388",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529473",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377365",
             "resolve_method": "html",
             "source_provision_id": "admrul:재정경제부감사업무처리규정#JO0040",
             "target_unit": "BJ0013",
@@ -1837,7 +1857,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "39388",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529479",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377371",
             "resolve_method": "html",
             "source_provision_id": "admrul:재정경제부감사업무처리규정#JO0040",
             "target_unit": "BJ0014",
@@ -1882,7 +1902,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "39388",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529485",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377377",
             "resolve_method": "html",
             "source_provision_id": "admrul:재정경제부감사업무처리규정#JO0040",
             "target_unit": "BJ0015",
@@ -1927,7 +1947,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "39388",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529491",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377383",
             "resolve_method": "html",
             "source_provision_id": "admrul:재정경제부감사업무처리규정#JO0040",
             "target_unit": "BJ0016",
@@ -2068,7 +2088,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "39388",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529497",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377389",
             "resolve_method": "html",
             "source_provision_id": "admrul:재정경제부감사업무처리규정#JO0043",
             "target_unit": "BJ0017",
@@ -2177,7 +2197,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "39388",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529503",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377395",
             "resolve_method": "html",
             "source_provision_id": "admrul:재정경제부감사업무처리규정#JO0045",
             "target_unit": "BJ0018",
@@ -2241,10 +2261,10 @@
       "content": "부칙 <제93호,2011. 12. 19.>제1조(시행일) 이 규정은 2011년 12월 19일부터 시행한다.제2조(다른 훈령의 폐지) 이 규정의 시행과 동시에 ‘기획재정부 감사 및 위임ㆍ대행감사업무 처리규정’(기획재정부 훈령 제5호, 2008. 4. 22.)은 폐지한다.",
       "provision_id": "admrul:재정경제부감사업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277898",
+      "source_mst": "2100000286700",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260413"
+      "version_enforcement_date": "20261007"
     },
     {
       "promulgation_date": "20140701",
@@ -2252,10 +2272,10 @@
       "content": "부칙 <제2014-181호,2014. 7. 1.>제1조(시행일) 이 규정은 2014년 7월 1일부터 시행한다.",
       "provision_id": "admrul:재정경제부감사업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277898",
+      "source_mst": "2100000286700",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260413"
+      "version_enforcement_date": "20261007"
     },
     {
       "promulgation_date": "20161205",
@@ -2263,10 +2283,10 @@
       "content": "부칙 <제2016-313호,2016. 12. 5.>제1조(시행일) 이 규정은 2016년 12월 5일부터 시행한다.",
       "provision_id": "admrul:재정경제부감사업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277898",
+      "source_mst": "2100000286700",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260413"
+      "version_enforcement_date": "20261007"
     },
     {
       "promulgation_date": "20180330",
@@ -2274,10 +2294,10 @@
       "content": "부칙 <제374호,2018. 3. 30.>제1조(시행일) 이 규정은 2018년 3월 30일부터 시행한다.",
       "provision_id": "admrul:재정경제부감사업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277898",
+      "source_mst": "2100000286700",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260413"
+      "version_enforcement_date": "20261007"
     },
     {
       "promulgation_date": "20180410",
@@ -2285,10 +2305,10 @@
       "content": "부칙 <제375호,2018. 4. 10.>제1조(시행일) 이 규정은 2018년 4월 10일부터 시행한다.",
       "provision_id": "admrul:재정경제부감사업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277898",
+      "source_mst": "2100000286700",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260413"
+      "version_enforcement_date": "20261007"
     },
     {
       "promulgation_date": "20190509",
@@ -2296,10 +2316,10 @@
       "content": "부칙 <제439호,2019. 5. 9.>제1조(시행일) 이 규정은 2019년 5월 9일부터 시행한다.",
       "provision_id": "admrul:재정경제부감사업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277898",
+      "source_mst": "2100000286700",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260413"
+      "version_enforcement_date": "20261007"
     },
     {
       "promulgation_date": "20260413",
@@ -2307,10 +2327,21 @@
       "content": "부칙 <제154호, 2026. 4. 13.>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
       "provision_id": "admrul:재정경제부감사업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277898",
+      "source_mst": "2100000286700",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260413"
+      "version_enforcement_date": "20261007"
+    },
+    {
+      "promulgation_date": "20261007",
+      "promulgation_no": "176",
+      "content": "부칙 <제176호, 2026. 10. 7.>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
+      "provision_id": "admrul:재정경제부감사업무처리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000286700",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261007"
     }
   ],
   "appendices": [
@@ -2323,17 +2354,17 @@
       "content": "(제 1 호 서식) <개  정>\n위임(대행)감사 결과보고서\n수신：재정경제부장관 20...\n참조：감사관 ○○○기관장\n1. 감사대상기관 :\n2. 감 사 기 간 :\n3. 감 사 인 원 :\n4. 감 사 결 과 :\n┌───┬───┬────┬────┬───┬───┐\n│부서별│제  목│지적내용│조치사항│관련자│비  고│\n├───┼───┼────┼────┼───┼───┤\n│      │      │        │        │      │      │\n│      │      │        │        │      │      │\n│      │      │        │        │      │      │\n│      │      │        │        │      │      │\n│      │      │        │        │      │      │\n│      │      │        │        │      │      │\n└───┴───┴────┴────┴───┴───┘\n첨부：수범사례\n(별첨)\n수    범    사    례\n가. 수  범  자\n┌───┬─────┬───┬───────────┐\n│소  속│직위(직급)│성  명│수범자에 대한 조치사항│\n├───┼─────┼───┼───────────┤\n│      │          │      │                      │\n│      │          │      │                      │\n│      │          │      │                      │\n│      │          │      │                      │\n│      │          │      │                      │\n│      │          │      │                      │\n│      │          │      │                      │\n│      │          │      │                      │\n│      │          │      │                      │\n│      │          │      │                      │\n└───┴─────┴───┴───────────┘\n나. 수범내용",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529395",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377247",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529389",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377241",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529395",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377247",
           "name": "",
           "file_store_url": ""
         }
@@ -2354,17 +2385,17 @@
       "content": "(제2호 서식) <개  정>\n감  사  통  보  서\n공공감사에 관한 법률 제21조 및 동법 시행령 제12조의 규정에 의하여 다음과 같이 감사실시계획을 통지합니다.\n1. 감사대상기관(또는 부서) :\n2. 감사범위 :\n3. 감사개시일자 :\n4. 감사요원\n\n소    속      직    급      성    명\n\n\n\n\n\n\n\n\n\n20    년    월    일\n재    정    경    제    부    장    관",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529401",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377253",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529397",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377249",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529401",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377253",
           "name": "",
           "file_store_url": ""
         }
@@ -2385,17 +2416,17 @@
       "content": "(제 3호 서식)\n출  석  답  변  요  구  서\n소  속 :\n직  위 :\n성  명 :\n우리부에서 감사중인 사항과 관련하여 귀하의 답변을 듣고자 하오니 다음과 같이 출석하여 주시기 바랍니다.\n1. 출석일시 :\n2. 장소 :\n3. 답변할 사항 :\n4. 지참할 문서 또는 물품 :\n20    년    월    일\n요구자 :",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529407",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377299",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529403",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377255",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529407",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377299",
           "name": "",
           "file_store_url": ""
         }
@@ -2416,17 +2447,17 @@
       "content": "(제4호 서식)\n감  사  일  일  보  고\n□ 감사대상기관 :\n□ 감사일시：                             감사자：\n┌──────┬────┬──────┬──────────┐\n│대 상 부 서 │업 무 명│감 사 사 항 │특 이 사 항         │\n│(수감자)    │        │            │                    │\n├──────┼────┼──────┼──────────┤\n│            │        │            │제출요구자료        │\n│            │        │            │감사반장 지시사항 등│\n│            │        │            │                    │\n│            │        │            │                    │\n│            │        │            │                    │\n│            │        │            │                    │\n│            │        │            │                    │\n│            │        │            │                    │\n│            │        │            │                    │\n│            │        │            │                    │\n│            │        │            │                    │\n│            │        │            │                    │\n│            │        │            │                    │\n│            │        │            │                    │\n│            │        │            │                    │\n└──────┴────┴──────┴──────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529413",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377305",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529409",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377301",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529413",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377305",
           "name": "",
           "file_store_url": ""
         }
@@ -2447,17 +2478,17 @@
       "content": "(제5호 서식)\n확      인     서\n제       목 :\n관  련  자\n\n당시소속    직위    성명    관리기간    담당업무    현직\n──────────────────────────────\n위 사실이 있음을 확인합니다.\n\n20     년     월     일\n확인자 :         소속 :          직위 :         성명 :       (인)\n진      술      서\n소          속 :\n직위  및  직급 :\n제          목 :\n20    년    월    일\n성명            (인)\n경    위    서\n소          속 :\n직위  및  직급 :\n제          목 :\n20    년    월    일\n성명             (인)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529423",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377315",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529415",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377307",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529423",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377315",
           "name": "",
           "file_store_url": ""
         }
@@ -2478,17 +2509,17 @@
       "content": "(제6호 서식)\n┌───────────────────────────────────────┐\n│┌───────┐                                                            │\n││문    답    서│                                                            │\n│└───────┘                                                            │\n│                                                                              │\n│Ⅰ. 응답자                                                                    │\n│                                                                              │\n│소        속 :                                                                │\n│직위 및 직급 :                                                                │\n│성        명 :                (한자)      (생년월일)                          │\n│(행위당시소속, 직위 및 직급)                                                  │\n│                                                                              │\n│위의 사람은 ○○○ 업무와 관하여 20  년  월  일 재정경제부 감사관실에서 ○○○│\n│사무관, ○○○사무관과 다음과 같이 자유로이 임의문답하다.                     │\n│                                                                              │\n├───────────────────────────────────────┤\n│   Ⅱ. 질의내용                                                               │\n├───────────────────────────────────────┤\n│문：위의 업무와 관련한 직위에 재직한 기간은?                                  │\n├───────────────────────────────────────┤\n│답 :                                                                          │\n├───────────────────────────────────────┤\n│                                                                              │\n├───────────────────────────────────────┤\n│                                                                              │\n├───────────────────────────────────────┤\n│                                                                              │\n├───────────────────────────────────────┤\n│                                                                              │\n├───────────────────────────────────────┤\n│                                                                              │\n├───────────────────────────────────────┤\n│                                                                              │\n└───────────────────────────────────────┘\n┌────────────────────────────────────────┐\n│                                                                                │\n├────────────────────────────────────────┤\n│문：더 하실 말씀이나 제출할 증거는 없습니까?                                    │\n├────────────────────────────────────────┤\n│답：                                                                            │\n├────────────────────────────────────────┤\n│                                                                                │\n├────────────────────────────────────────┤\n│                                                                                │\n├────────────────────────────────────────┤\n│(이때 제출한 증거는 원본과 상위 없음을 확인하고 말미에 첨부하다)                │\n├────────────────────────────────────────┤\n│                                                                                │\n├────────────────────────────────────────┤\n│                                                                                │\n├────────────────────────────────────────┤\n│ 위와 같이 문답한 후 답변인에게 열람(또는 낭독)하게한 바 문답내용과 상위 없으며 │\n│오기나 증감할 것이 없음을 확인하므로 간인한 후 서명 날인(또는 무인)하다.        │\n├────────────────────────────────────────┤\n│                                                                                │\n├────────────────────────────────────────┤\n│20    년    월    일                                                            │\n├────────────────────────────────────────┤\n│                                                                                │\n├────────────────────────────────────────┤\n│답변인(직위)          (성명)          (인)                                      │\n├────────────────────────────────────────┤\n│질문인(직위)          (성명)          (인)                                      │\n├────────────────────────────────────────┤\n│  입회인(직위)          (성명)          (인)                                    │\n├────────────────────────────────────────┤\n│                                                                                │\n└────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529431",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377323",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529425",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377317",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529431",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377323",
           "name": "",
           "file_store_url": ""
         }
@@ -2509,17 +2540,17 @@
       "content": "(제7호 서식) <개  정>\n질    문    서\n┌────┬┐\n│발부번호││\n├────┴┴───────────────────────────────────┐\n│제    목 :                                                                        │\n├─────────────────────────────────────────┤\n│                                                                                  │\n│질 문 사 항                                                                       │\n│                                                                                  │\n│년   월   일                                                                      │\n│                                                                                  │\n│○○○○○○○ 협회장 ○○○ 귀 하                                                │\n│   재정경제부 감사관 ○○○    ??                                               │\n│                                                                                  │\n│                                                                                  │\n│ 다음 사항에 대하여 20  .   .   . 까지 답변하여 주시고 본 내용은 재외에 누설하는  │\n│일이 없도록 관리하여 주시기 바랍니다.                                             │\n│                                                                                  │\n├─────────────────────────────────────────┤\n│                                                                                  │\n│                                                                                  │\n│                                                                                  │\n│                                                                                  │\n│                                                                                  │\n│                                                                                  │\n│                                                                                  │\n└─────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529437",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377329",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529433",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377325",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529437",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377329",
           "name": "",
           "file_store_url": ""
         }
@@ -2540,17 +2571,17 @@
       "content": "(제8호 서식) <개  정>\n답    변    서\n┌────┬┐\n│발부번호││\n├────┴┴────────────┐\n│제    목 :                          │\n├──────────────────┤\n│                                    │\n│답 변 사 항                         │\n│                                    │\n│년   월   일                        │\n│                                    │\n│재정경제부 감사관 ○○○ 귀 하      │\n│○○○○○○○ 협회장 ○○○    ??│\n│                                    │\n│다음과 같이 답변드립니다.           │\n│                                    │\n├──────────────────┤\n│                                    │\n│                                    │\n│                                    │\n│                                    │\n│                                    │\n│                                    │\n│                                    │\n│                                    │\n│                                    │\n└──────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529443",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377335",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529439",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377331",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529443",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377335",
           "name": "",
           "file_store_url": ""
         }
@@ -2571,17 +2602,17 @@
       "content": "(제9호 서식) <개  정>\n재  정  경  제  부\n┌──────────────────────┐\n│                          사항              │\n├───┬────────┬───┬─────┤\n│번  호│기 관 (소관) 명 │연  도│구      분│\n├───┼────────┼───┼─────┤\n│      │                │      │          │\n├───┴────────┴───┴─────┤\n│                                            │\n│제 목：                                     │\n│                                            │\n│1. 내용                                     │\n│                                            │\n│                                            │\n│                                            │\n│                                            │\n│2. 조치할 사항                              │\n│                                            │\n│                                            │\n│                                            │\n│                                            │\n│                                            │\n│                                            │\n│                                            │\n│                                            │\n│                                            │\n│                                            │\n│                                            │\n│                                            │\n└──────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529449",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377341",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529445",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377337",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529449",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377341",
           "name": "",
           "file_store_url": ""
         }
@@ -2602,17 +2633,17 @@
       "content": "(제10호 서식) <개  정>\n처분요구사항에 대한 처리결과표\n┌──┬─────┬─────┬──────┬──┬────┬──┬──┐\n│일련│재정경제부│대상기관  │제목 및     │조치│조치사항│완결│비고│\n│번호│문서번호  │(대상부서)│처분요구사항│구분│(요지)  │일자│    │\n│    │(접수일자)│          │            │    │        │    │    │\n├──┼─────┼─────┼──────┼──┼────┼──┼──┤\n│    │          │          │            │    │        │    │    │\n│    │          │          │            │    │        │    │    │\n│    │          │          │            │    │        │    │    │\n│    │          │          │            │    │        │    │    │\n│    │          │          │            │    │        │    │    │\n│    │          │          │            │    │        │    │    │\n│    │          │          │            │    │        │    │    │\n│    │          │          │            │    │        │    │    │\n│    │          │          │            │    │        │    │    │\n│    │          │          │            │    │        │    │    │\n└──┴─────┴─────┴──────┴──┴────┴──┴──┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529455",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377347",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529451",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377343",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529455",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377347",
           "name": "",
           "file_store_url": ""
         }
@@ -2633,17 +2664,17 @@
       "content": "(제11호 서식)\n재심의신청서\n┌─────┬────────┬────────────────────────────┐\n│ 1. 신청인│주          소  │                                                        │\n│          │(기관의 소재지) │                                                        │\n│          ├────────┼─┬───┬──────────────────────┤\n│          │기    관    명  │  │직 명 │                                            │\n│          ├────────┼─┼───┼──────────────────────┤\n│          │성          명  │  │전 화 │                                            │\n│          │                │  │번 호 │                                            │\n├─────┴────────┴┬┴───┴──────────────────────┤\n│ 2. 감사결과를 통보한 기관명  │                                                      │\n├───────────────┼───────────────────────────┤\n│ 3. 재심의신청의 대상이 되는  │                                                      │\n│    감사결과의 내용           │                                                      │\n├───────────────┼───────────────────────────┤\n│ 4. 재심의신청의 취지 및      │                                                      │\n│    그 이유                   │                                                      │\n├───────────────┼───────────────────────────┤\n│ 5. 감사결과를 통보받은 날짜  │                                                      │\n├───────────────┼───────────────────────────┤\n│ 6. 대리인의 성명 및 주소     │                                                      │\n├───────────────┴───────────────────────────┤\n│    「공공감사에 관한 법률」 제25조 및 같은 법 시행령 제15조에 따라 관계 서류를 첨부하│\n│여 위와 같이 재심의를 신청합니다.                                                     │\n│                                                                                      │\n│                                 20       .        .       .                          │\n│                                      신청인                   (인)                   │\n│                                                                                      │\n│        첨부서류: 표지 포함         장.                                               │\n│                                                                   귀중               │\n└───────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529461",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377353",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529457",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377349",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529461",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377353",
           "name": "",
           "file_store_url": ""
         }
@@ -2664,17 +2695,17 @@
       "content": "(제12호 서식)\n감사결과 처분요구사항에 대한 집행독촉장\n20    년    월    일\n다음 사항에 대한 처리를 독촉하오니 20   .   .   .까지 그 집행전말을 회보하여 주시기 바랍니다.\n┌────┬───────────────────────┐\n│관련부서│처  분  요  구  사  항                        │\n│        ├────┬────┬────┬────────┤\n│        │관련문서│제    목│종    류│금액, 수량, 인원│\n│        │번    호│        │        │                │\n│        │(일자)  │        │        │                │\n├────┼────┼────┼────┼────────┤\n│        │        │        │        │                │\n│        │        │        │        │                │\n│        │        │        │        │                │\n│        │        │        │        │                │\n│        │        │        │        │                │\n│        │        │        │        │                │\n│        │        │        │        │                │\n│        │        │        │        │                │\n│        │        │        │        │                │\n│        │        │        │        │                │\n│        │        │        │        │                │\n│        │        │        │        │                │\n└────┴────┴────┴────┴────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529467",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377359",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529463",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377355",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529467",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377359",
           "name": "",
           "file_store_url": ""
         }
@@ -2695,17 +2726,17 @@
       "content": "(제13호 서식)  <개  정>\n감사실시 및 결과처리 절차 안내\n재정경제부에서는 실지감사 활동을 수행함에 있어서 감사로 인하여 대상기관 직원들의 창의성이나 적극적인 업무추진 의지를 위축시키는 일이 없도록 다음과 같이 엄격한 절차를 거쳐 처리하고 있습니다.\n1. 실지감사 과정에서는 감사자의 선입견을 철저히 배제한 가운데 대상기관의 관계자와 충분한 토론을 거치도록 하고\n2. 감사결과 처리는 실지감사가 종료된 다음 감사과정에서 수집ㆍ제출된 확인서, 답변서 및 기타 증거서류를 토대로 기획재정부장관의 결재를 받아 확정ㆍ시행하고 있으므로 실지감사 과정에서 논의되었던 지적사항들이 곧 감사결과로 확정되었다고 오해하시는 일이 없기 바랍니다.\n3. 감사결과가 확정되어 처분요구된 사항에 대하여도 이를 수용할 수 없거나 이의가 있을 경우에는 「재정경제부 감사업무 처리규정」 제30조의 규정에 따라 재심의를 청구할 수 있습니다.\n4. 감사대상기관은 감사결과 지적사항이 「재정경제부 감사업무 처리규정」 제8장에 규정된 적극행정면책 기준에 해당된다고 판단되는 경우 동 규정에서 정한 소정의 절차와 서식에 따라 면책신청을 할 수 있습니다.\n┌────────────────────────────────────────────┐\n│?적극행정면책 기준 :                                                                   │\n│                                                                                        │\n│1. 업무처리가 불합리한 규제의 개선, 공익사업의 추진 등 공공의 이익을 위한 것일 것       │\n│                                                                                        │\n│2. 대상 업무를 적극적으로 처리한 결과일 것                                              │\n│                                                                                        │\n│3. 고의 또는 중대한 과실이 없을 것*                                                     │\n│                                                                                        │\n│  * 고의 중과실이 없는 것으로 추정하는 기준: 사적인 이해관계가 없을 것, 중대한 절차상의 │\n│하자가 없었을 것                                                                        │\n└────────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529473",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377365",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529469",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377361",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529473",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377365",
           "name": "",
           "file_store_url": ""
         }
@@ -2726,17 +2757,17 @@
       "content": "(제14호 서식)  <개  정>\n적극행정면책 신청서\n┌───────┬───────────────────────────┐\n│제목          │                                                      │\n├───────┼───────────────────────────┤\n│감사 지적요지 │                                                      │\n├───────┼───────────────────────────┤\n│적극행정면책  │                                                      │\n│신청 요지     │                                                      │\n└───────┴───────────────────────────┘\n\n┌──────────────────┬──────────┬─────┐\n│면책 기준                           │면첵 신청사유       │증거 자료 │\n│                                    │(면책요건 충족여부) │          │\n├──────────────────┼──────────┼─────┤\n│1. 업무처리가 불합리한 규제의       │                    │          │\n│개선, 공익사업의 추진 등 공공의     │                    │          │\n│이익을 위한 것일 것                 │                    │          │\n├──────────────────┼──────────┼─────┤\n│2. 대상 업무를 적극적으로 처리한    │                    │          │\n│결과일 것                           │                    │          │\n├──────────────────┼──────────┼─────┤\n│3. 고의 또는 중대한 과실이 없을 것  │                    │          │\n├──────────────────┼──────────┼─────┤\n│ 가. 재정경제부 소속 공무원 등과    │                    │          │\n│대상 업무 사이에 사적인             │                    │          │\n│이해관계가 없을 것                  │                    │          │\n├──────────────────┼──────────┼─────┤\n│ 나. 대상 업무를 처리하면서 중대한  │                    │          │\n│절차상의 하자가 없었을 것           │                    │          │\n├──────────────────┼──────────┴─────┤\n│4. 기  타                           │                                │\n└──────────────────┴────────────────┘\n「재정경제부 감사업무 처리규정」 제40조에 따라 적극행정면책을 받기 위하여 위와 같이 신청합니다.\n년      월      일\n신청인  기관(부서)명:           직위:          성명:\n※ 첨부서류 :   매",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529479",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377371",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529475",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377367",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529479",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377371",
           "name": "",
           "file_store_url": ""
         }
@@ -2757,17 +2788,17 @@
       "content": "(제15호 서식)  <개  정>\n적극행정면책 신청서 검토서\n┏━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃제  목    │                                                      ┃\n┠─────┼───────────────────────────┨\n┃감  사    │                                                      ┃\n┃지적요지  │                                                      ┃\n┠─────┼───────────────────────────┨\n┃적극행정  │                                                      ┃\n┃면책 사유 │                                                      ┃\n┠─────┴───────────┬──────────┬────┨\n┃면책 기준                         │면책신청사유        │검토의견┃\n┃                                  │(면책요건 충족여부) │        ┃\n┠─────────────────┼──────────┼────┨\n┃1. 업무처리가 불합리한 규제의     │                    │        ┃\n┃개선, 공익사업의 추진 등 공공의   │                    │        ┃\n┃이익을 위한 것일 것               │                    │        ┃\n┠─────────────────┼──────────┼────┨\n┃2. 대상 업무를 적극적으로 처리한  │                    │        ┃\n┃결과일 것                         │                    │        ┃\n┠─────────────────┼──────────┼────┨\n┃3. 고의 또는 중대한 과실이 없을 것│                    │        ┃\n┃                                  │                    │        ┃\n┠─────────────────┼──────────┼────┨\n┃ 가. 재정경제부 소속 공무원 등과  │                    │        ┃\n┃대상 업무 사이에 사적인           │                    │        ┃\n┃이해관계가 없을 것                │                    │        ┃\n┠─────────────────┼──────────┼────┨\n┃ 나. 대상 업무를 처리하면서       │                    │        ┃\n┃중대한 절차상의 하자가            │                    │        ┃\n┃없었을 것                         │                    │        ┃\n┠─────────────────┼──────────┼────┨\n┃4. 기  타                         │                    │        ┃\n┃                                  │                    │        ┃\n┗━━━━━━━━━━━━━━━━━┷━━━━━━━━━━┷━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529485",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377377",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529481",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377373",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529485",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377377",
           "name": "",
           "file_store_url": ""
         }
@@ -2788,17 +2819,17 @@
       "content": "(제16호 서식)  <개 정>\n적극행정면책 결정 통지서\n┏━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃제  목  │                                                        ┃\n┠────┼┬────┬──────────────────────┨\n┃신청자  ││신청일자│                                            ┃\n┠────┼┴────┴──────────────────────┨\n┃결정내용│ 적극행정 면책 (  )                       면책 불가 (  )┃\n┠────┼────────────────────────────┨\n┃결정사유│                                                        ┃\n┠────┼────────────────────────────┨\n┃기  타  │                                                        ┃\n┗━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n「재정경제부 감사업무 처리규정」 제40조 제6항에 따라 위와 같이 적극행정 면책 신청에 대한 결정내용을 통보합니다.\n년     월     일\n재정경제부 감사관",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529491",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377383",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529487",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377379",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529491",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377383",
           "name": "",
           "file_store_url": ""
         }
@@ -2819,17 +2850,17 @@
       "content": "(제17호 서식)  <개  정>\n사전컨설팅 신청서\n┌─────┬───────────────────────┐\n│제 목     │                                              │\n├─────┼───────────────────────┤\n│사전컨설팅│                                              │\n│신청 개요 │                                              │\n├─────┼───────────────────────┤\n│주요 내용 │                                              │\n│          │ 1. 사전컨설팅 신청 내용                      │\n│          │                                              │\n│          │                                              │\n│          │                                              │\n│          │ 2. 관련 법령 및 사업 개요(추진일정 등)       │\n│          │   1) 관련법령                                │\n│          │   2) 사업개요 또는 추진경과                  │\n│          │                                              │\n│          │                                              │\n│          │                                              │\n│          │3. 사전컨설팅 신청 사유                       │\n│          │   1) 신청 배경(사업추진 필요성 및 타당성 등) │\n│          │   2) 주요 쟁점                               │\n│          │   3) 신청부서에서 확인 및 검토한 사항        │\n├─────┼───────────────────────┤\n│첨부서류  │                                              │\n└─────┴───────────────────────┘\n「재정경제부 감사업무 처리규정」 제43조에 따라 위와 같이 사전컨설팅을 신청합니다.\n년     월     일\n신청인    기관(부서)명:           직위:          성명:\n※ 첨부서류 :   매",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529497",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377389",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529493",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377385",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529497",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377389",
           "name": "",
           "file_store_url": ""
         }
@@ -2850,17 +2881,17 @@
       "content": "(제18호 서식)  <개  정>\n사전컨설팅 의견서\n┌─────┬──────┐\n│제목      │            │\n├─────┼┬────┬┤\n│신청기관  ││신청일자││\n│(부서)    ││        ││\n├─────┼┴────┴┤\n│주요 내용 │            │\n├─────┼──────┤\n│사전컨설팅│            │\n│의견      │            │\n├─────┼──────┤\n│기타      │            │\n└─────┴──────┘\n「재정경제부 감사업무 처리규정」 제45조에 따라 사전컨설팅 신청서에 대한 의견을 통보합니다.\n20   년     월     일\n재정경제부 감사관",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529503",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377395",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529499",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377391",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163529503",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377395",
           "name": "",
           "file_store_url": ""
         }
@@ -2876,7 +2907,7 @@
   "attachments": [
     {
       "name": "(전문) 재정경제부 감사업무 처리규정 개정(안)_최종.hwp",
-      "url": "http://law.go.kr/flDownload.do?flSeq=163526681",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170356111",
       "filename": "(전문) 재정경제부 감사업무 처리규정 개정(안)_최종.hwp",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/(전문) 재정경제부 감사업무 처리규정 개정(안)_최종.hwp",
@@ -2886,13 +2917,13 @@
   "ordinance_delegations": [],
   "relation_mode": "no_crawl",
   "relation_stats": {
-    "relations_total": 77,
+    "relations_total": 78,
     "by_category": {
-      "법령": 31,
+      "법령": 32,
       "행정규칙": 46
     },
     "by_relation_type": {
-      "citation": 33,
+      "citation": 34,
       "internal_ref": 26,
       "appendix_ref": 18
     },
@@ -2901,7 +2932,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 7,
+    "addenda_count": 8,
     "appendices_count": 18,
     "attachments_count": 1
   },
