@@ -204,5 +204,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "피고소인에 대한 진술조서 작성 지침/피고소인에 대한 진술조서 작성 지침.json"
+  "git_path": "피고소인에 대한 진술조서 작성 지침/피고소인에 대한 진술조서 작성 지침.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
