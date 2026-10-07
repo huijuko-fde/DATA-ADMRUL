@@ -124,5 +124,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "형사부 업무 효율화를 위한 특별지시/형사부 업무 효율화를 위한 특별지시.json"
+  "git_path": "형사부 업무 효율화를 위한 특별지시/형사부 업무 효율화를 위한 특별지시.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
