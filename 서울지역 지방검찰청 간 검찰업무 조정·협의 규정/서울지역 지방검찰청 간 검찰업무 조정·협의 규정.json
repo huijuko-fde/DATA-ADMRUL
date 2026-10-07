@@ -310,5 +310,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "서울지역 지방검찰청 간 검찰업무 조정·협의 규정/서울지역 지방검찰청 간 검찰업무 조정·협의 규정.json"
+  "git_path": "서울지역 지방검찰청 간 검찰업무 조정·협의 규정/서울지역 지방검찰청 간 검찰업무 조정·협의 규정.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
