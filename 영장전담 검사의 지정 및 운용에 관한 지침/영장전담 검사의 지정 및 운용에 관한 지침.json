@@ -695,5 +695,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "영장전담 검사의 지정 및 운용에 관한 지침/영장전담 검사의 지정 및 운용에 관한 지침.json"
+  "git_path": "영장전담 검사의 지정 및 운용에 관한 지침/영장전담 검사의 지정 및 운용에 관한 지침.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
