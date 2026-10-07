@@ -231,5 +231,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "불구속 피의자 출석보증 등에 관한 지침/불구속 피의자 출석보증 등에 관한 지침.json"
+  "git_path": "불구속 피의자 출석보증 등에 관한 지침/불구속 피의자 출석보증 등에 관한 지침.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
