@@ -171,5 +171,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "고검검사 전략과제연구관 운용 규정/고검검사 전략과제연구관 운용 규정.json"
+  "git_path": "고검검사 전략과제연구관 운용 규정/고검검사 전략과제연구관 운용 규정.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
