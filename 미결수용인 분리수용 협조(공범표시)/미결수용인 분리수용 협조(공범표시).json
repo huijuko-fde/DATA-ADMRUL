@@ -223,5 +223,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "미결수용인 분리수용 협조(공범표시)/미결수용인 분리수용 협조(공범표시).json"
+  "git_path": "미결수용인 분리수용 협조(공범표시)/미결수용인 분리수용 협조(공범표시).json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
