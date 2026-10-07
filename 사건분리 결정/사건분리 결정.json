@@ -136,5 +136,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "사건분리 결정/사건분리 결정.json"
+  "git_path": "사건분리 결정/사건분리 결정.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
