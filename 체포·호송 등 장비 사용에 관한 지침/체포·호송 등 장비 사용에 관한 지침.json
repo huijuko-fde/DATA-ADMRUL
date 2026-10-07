@@ -202,5 +202,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "체포·호송 등 장비 사용에 관한 지침/체포·호송 등 장비 사용에 관한 지침.json"
+  "git_path": "체포·호송 등 장비 사용에 관한 지침/체포·호송 등 장비 사용에 관한 지침.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
