@@ -178,5 +178,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "외교관 등 형사재판관할권 면제자 사건처리 지침/외교관 등 형사재판관할권 면제자 사건처리 지침.json"
+  "git_path": "외교관 등 형사재판관할권 면제자 사건처리 지침/외교관 등 형사재판관할권 면제자 사건처리 지침.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
