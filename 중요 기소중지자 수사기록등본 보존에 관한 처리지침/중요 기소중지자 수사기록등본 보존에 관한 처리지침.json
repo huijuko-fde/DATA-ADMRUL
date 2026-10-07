@@ -90,5 +90,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "중요 기소중지자 수사기록등본 보존에 관한 처리지침/중요 기소중지자 수사기록등본 보존에 관한 처리지침.json"
+  "git_path": "중요 기소중지자 수사기록등본 보존에 관한 처리지침/중요 기소중지자 수사기록등본 보존에 관한 처리지침.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
