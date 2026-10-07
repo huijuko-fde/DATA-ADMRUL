@@ -624,5 +624,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "검사의 수사개시에 대한 지침/검사의 수사개시에 대한 지침.json"
+  "git_path": "검사의 수사개시에 대한 지침/검사의 수사개시에 대한 지침.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
