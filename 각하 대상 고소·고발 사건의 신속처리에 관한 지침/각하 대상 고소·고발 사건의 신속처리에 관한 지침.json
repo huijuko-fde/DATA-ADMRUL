@@ -687,5 +687,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "각하 대상 고소·고발 사건의 신속처리에 관한 지침/각하 대상 고소·고발 사건의 신속처리에 관한 지침.json"
+  "git_path": "각하 대상 고소·고발 사건의 신속처리에 관한 지침/각하 대상 고소·고발 사건의 신속처리에 관한 지침.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
