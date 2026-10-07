@@ -2666,5 +2666,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "국가정보자원관리원 기본운영규정/국가정보자원관리원 기본운영규정.json"
+  "git_path": "국가정보자원관리원 기본운영규정/국가정보자원관리원 기본운영규정.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
