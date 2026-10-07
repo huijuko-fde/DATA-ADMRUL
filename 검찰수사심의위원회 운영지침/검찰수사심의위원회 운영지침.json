@@ -1244,5 +1244,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "검찰수사심의위원회 운영지침/검찰수사심의위원회 운영지침.json"
+  "git_path": "검찰수사심의위원회 운영지침/검찰수사심의위원회 운영지침.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
