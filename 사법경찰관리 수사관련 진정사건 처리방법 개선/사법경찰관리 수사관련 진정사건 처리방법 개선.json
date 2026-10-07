@@ -136,5 +136,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "사법경찰관리 수사관련 진정사건 처리방법 개선/사법경찰관리 수사관련 진정사건 처리방법 개선.json"
+  "git_path": "사법경찰관리 수사관련 진정사건 처리방법 개선/사법경찰관리 수사관련 진정사건 처리방법 개선.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
