@@ -207,5 +207,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "수사절차이의 진정사건 처리절차에 관한 지침/수사절차이의 진정사건 처리절차에 관한 지침.json"
+  "git_path": "수사절차이의 진정사건 처리절차에 관한 지침/수사절차이의 진정사건 처리절차에 관한 지침.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
