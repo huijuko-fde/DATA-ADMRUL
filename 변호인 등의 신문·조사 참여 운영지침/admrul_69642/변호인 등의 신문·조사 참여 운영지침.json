@@ -50,7 +50,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:변호인등의신문조사참여운영지침#JO0001"
+        "provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0001"
       },
       {
         "article_no": "제2조",
@@ -75,7 +75,7 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/법령/형사소송법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0002",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0002",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "형사소송법/법률/형사소송법.json"
@@ -95,7 +95,7 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/법령/형사소송법/제241조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0002",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0002",
             "reference_id": "law:형사소송법#JO0241",
             "target_repo": "LAW",
             "target_git_path_guess": "형사소송법/법률/형사소송법.json"
@@ -115,7 +115,7 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/법령/형사소송법/제242조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0002",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0002",
             "reference_id": "law:형사소송법#JO0242",
             "target_repo": "LAW",
             "target_git_path_guess": "형사소송법/법률/형사소송법.json"
@@ -135,7 +135,7 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/법령/형사소송법/제243조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0002",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0002",
             "reference_id": "law:형사소송법#JO0243",
             "target_repo": "LAW",
             "target_git_path_guess": "형사소송법/법률/형사소송법.json"
@@ -155,7 +155,7 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/법령/형사소송법/제243조의2",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0002",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0002",
             "reference_id": "law:형사소송법#JO0243_02",
             "target_repo": "LAW",
             "target_git_path_guess": "형사소송법/법률/형사소송법.json"
@@ -175,7 +175,7 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/법령/형사소송법/제244조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0002",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0002",
             "reference_id": "law:형사소송법#JO0244",
             "target_repo": "LAW",
             "target_git_path_guess": "형사소송법/법률/형사소송법.json"
@@ -195,7 +195,7 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/법령/형사소송법/제244조의2",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0002",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0002",
             "reference_id": "law:형사소송법#JO0244_02",
             "target_repo": "LAW",
             "target_git_path_guess": "형사소송법/법률/형사소송법.json"
@@ -215,7 +215,7 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/법령/형사소송법/제244조의3",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0002",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0002",
             "reference_id": "law:형사소송법#JO0244_03",
             "target_repo": "LAW",
             "target_git_path_guess": "형사소송법/법률/형사소송법.json"
@@ -235,7 +235,7 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/법령/형사소송법/제244조의4",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0002",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0002",
             "reference_id": "law:형사소송법#JO0244_04",
             "target_repo": "LAW",
             "target_git_path_guess": "형사소송법/법률/형사소송법.json"
@@ -255,7 +255,7 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/법령/형사소송법/제244조의5",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0002",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0002",
             "reference_id": "law:형사소송법#JO0244_05",
             "target_repo": "LAW",
             "target_git_path_guess": "형사소송법/법률/형사소송법.json"
@@ -275,14 +275,14 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/법령/형사소송법/제245조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0002",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0002",
             "reference_id": "law:형사소송법#JO0245",
             "target_repo": "LAW",
             "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:변호인등의신문조사참여운영지침#JO0002"
+        "provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0002"
       },
       {
         "article_no": "제3조",
@@ -307,7 +307,7 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/법령/형사소송법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0003",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0003",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "형사소송법/법률/형사소송법.json"
@@ -327,7 +327,7 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/법령/형사소송법/제33조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0003",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0003",
             "reference_id": "law:형사소송법#JO0033",
             "target_repo": "LAW",
             "target_git_path_guess": "형사소송법/법률/형사소송법.json"
@@ -351,9 +351,9 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49776033",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0003",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0003",
             "target_unit": "BJ0001",
-            "reference_id": "admrul:변호인등의신문조사참여운영지침#BJ0001",
+            "reference_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#BJ0001",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "변호인 등의 신문·조사 참여 운영지침/변호인 등의 신문·조사 참여 운영지침.json"
           },
@@ -376,15 +376,15 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49776081",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0003",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0003",
             "target_unit": "BJ0002",
-            "reference_id": "admrul:변호인등의신문조사참여운영지침#BJ0002",
+            "reference_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#BJ0002",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "변호인 등의 신문·조사 참여 운영지침/변호인 등의 신문·조사 참여 운영지침.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:변호인등의신문조사참여운영지침#JO0003"
+        "provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0003"
       },
       {
         "article_no": "제4조",
@@ -395,7 +395,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:변호인등의신문조사참여운영지침#JO0004"
+        "provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0004"
       },
       {
         "article_no": "제5조",
@@ -406,7 +406,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:변호인등의신문조사참여운영지침#JO0005"
+        "provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0005"
       },
       {
         "article_no": "제6조",
@@ -417,7 +417,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:변호인등의신문조사참여운영지침#JO0006"
+        "provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0006"
       },
       {
         "article_no": "제7조",
@@ -442,7 +442,7 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/법령/형사소송법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0007",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0007",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "형사소송법/법률/형사소송법.json"
@@ -462,7 +462,7 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/법령/형사소송법/제243조의2",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0007",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0007",
             "reference_id": "law:형사소송법#JO0243_02",
             "target_repo": "LAW",
             "target_git_path_guess": "형사소송법/법률/형사소송법.json"
@@ -482,7 +482,7 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/법령/형사소송법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0007",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0007",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "형사소송법/법률/형사소송법.json"
@@ -502,14 +502,14 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/법령/형사소송법/제243조의2",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0007",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0007",
             "reference_id": "law:형사소송법#JO0243_02",
             "target_repo": "LAW",
             "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:변호인등의신문조사참여운영지침#JO0007"
+        "provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0007"
       },
       {
         "article_no": "제8조",
@@ -534,7 +534,7 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/법령/형사소송법",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0008",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0008",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
             "target_git_path_guess": "형사소송법/법률/형사소송법.json"
@@ -554,14 +554,14 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/법령/형사소송법/제244조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0008",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0008",
             "reference_id": "law:형사소송법#JO0244",
             "target_repo": "LAW",
             "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:변호인등의신문조사참여운영지침#JO0008"
+        "provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0008"
       },
       {
         "article_no": "제9조",
@@ -572,7 +572,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:변호인등의신문조사참여운영지침#JO0009"
+        "provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0009"
       },
       {
         "article_no": "제10조",
@@ -583,7 +583,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:변호인등의신문조사참여운영지침#JO0010"
+        "provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0010"
       },
       {
         "article_no": "제11조",
@@ -608,8 +608,8 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/행정규칙/변호인 등의 신문·조사 참여 운영지침/제3조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0011",
-            "reference_id": "admrul:변호인등의신문조사참여운영지침#JO0003",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0011",
+            "reference_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0003",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "변호인 등의 신문·조사 참여 운영지침/변호인 등의 신문·조사 참여 운영지침.json"
           },
@@ -628,8 +628,8 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/행정규칙/변호인 등의 신문·조사 참여 운영지침/제5조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0011",
-            "reference_id": "admrul:변호인등의신문조사참여운영지침#JO0005",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0011",
+            "reference_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0005",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "변호인 등의 신문·조사 참여 운영지침/변호인 등의 신문·조사 참여 운영지침.json"
           },
@@ -648,8 +648,8 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/행정규칙/변호인 등의 신문·조사 참여 운영지침/제6조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0011",
-            "reference_id": "admrul:변호인등의신문조사참여운영지침#JO0006",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0011",
+            "reference_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0006",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "변호인 등의 신문·조사 참여 운영지침/변호인 등의 신문·조사 참여 운영지침.json"
           },
@@ -668,8 +668,8 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/행정규칙/변호인 등의 신문·조사 참여 운영지침/제7조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0011",
-            "reference_id": "admrul:변호인등의신문조사참여운영지침#JO0007",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0011",
+            "reference_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0007",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "변호인 등의 신문·조사 참여 운영지침/변호인 등의 신문·조사 참여 운영지침.json"
           },
@@ -688,8 +688,8 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/행정규칙/변호인 등의 신문·조사 참여 운영지침/제8조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0011",
-            "reference_id": "admrul:변호인등의신문조사참여운영지침#JO0008",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0011",
+            "reference_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0008",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "변호인 등의 신문·조사 참여 운영지침/변호인 등의 신문·조사 참여 운영지침.json"
           },
@@ -708,8 +708,8 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/행정규칙/변호인 등의 신문·조사 참여 운영지침/제9조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0011",
-            "reference_id": "admrul:변호인등의신문조사참여운영지침#JO0009",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0011",
+            "reference_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0009",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "변호인 등의 신문·조사 참여 운영지침/변호인 등의 신문·조사 참여 운영지침.json"
           },
@@ -728,14 +728,14 @@
             "source_admrul_seq": "69642",
             "target_url": "https://www.law.go.kr/행정규칙/변호인 등의 신문·조사 참여 운영지침/제10조",
             "resolve_method": "html",
-            "source_provision_id": "admrul:변호인등의신문조사참여운영지침#JO0011",
-            "reference_id": "admrul:변호인등의신문조사참여운영지침#JO0010",
+            "source_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0011",
+            "reference_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0010",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "변호인 등의 신문·조사 참여 운영지침/변호인 등의 신문·조사 참여 운영지침.json"
           }
         ],
         "images": [],
-        "provision_id": "admrul:변호인등의신문조사참여운영지침#JO0011"
+        "provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0011"
       },
       {
         "article_no": "제12조",
@@ -746,7 +746,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:변호인등의신문조사참여운영지침#JO0012"
+        "provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0012"
       },
       {
         "article_no": "제13조",
@@ -757,7 +757,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:변호인등의신문조사참여운영지침#JO0013"
+        "provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#JO0013"
       }
     ]
   },
@@ -766,7 +766,7 @@
       "promulgation_date": "20191112",
       "promulgation_no": "1028",
       "content": "부칙 <제1028호,2019. 11. 12.>제1조(시행일자) 이 지침은 2019. 11. 12.부터 시행한다.제2조(「변호인의 피의자신문 참여 운영지침」 폐지) 이 지침의 시행과 동시에「변호인의 피의자신문 참여 운영지침(2017. 12. 4. 지침 개정)」을 폐지한다.제3조(재검토기한) 「훈령·예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규에 대하여 2020년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일을 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
-      "provision_id": "admrul:변호인등의신문조사참여운영지침#ADDENDUM",
+      "provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000183663",
       "source_version_uid": "",
@@ -794,7 +794,7 @@
         }
       ],
       "images": [],
-      "provision_id": "admrul:변호인등의신문조사참여운영지침#BJ0001",
+      "provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#BJ0001",
       "filename": "별지1_변호인(변호사) 참여신청.hwp",
       "file_dir": "별지",
       "local_path": "별지/별지1_변호인(변호사) 참여신청.hwp",
@@ -819,7 +819,7 @@
         }
       ],
       "images": [],
-      "provision_id": "admrul:변호인등의신문조사참여운영지침#BJ0002",
+      "provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#BJ0002",
       "filename": "별지2_변호인(변호사) 참여확인.hwp",
       "file_dir": "별지",
       "local_path": "별지/별지2_변호인(변호사) 참여확인.hwp",
@@ -869,12 +869,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/변호인 등의 신문·조사 참여 운영지침"
   },
-  "provision_id": "admrul:변호인등의신문조사참여운영지침#DOC",
-  "addendum_provision_id": "admrul:변호인등의신문조사참여운영지침#ADDENDUM",
-  "amendment_provision_id": "admrul:변호인등의신문조사참여운영지침#AMENDMENT",
+  "provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#DOC",
+  "addendum_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#ADDENDUM",
+  "amendment_provision_id": "admrul:변호인등의신문조사참여운영지침:admrul_69642#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "변호인 등의 신문·조사 참여 운영지침/변호인 등의 신문·조사 참여 운영지침.json"
+  "git_path": "변호인 등의 신문·조사 참여 운영지침/admrul_69642/변호인 등의 신문·조사 참여 운영지침.json"
 }
