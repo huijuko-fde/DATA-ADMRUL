@@ -350,5 +350,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "불법사금융 수사의뢰 사건 접수 및 처리 지침/불법사금융 수사의뢰 사건 접수 및 처리 지침.json"
+  "git_path": "불법사금융 수사의뢰 사건 접수 및 처리 지침/불법사금융 수사의뢰 사건 접수 및 처리 지침.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
