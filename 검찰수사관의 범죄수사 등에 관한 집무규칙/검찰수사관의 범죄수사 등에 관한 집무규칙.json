@@ -5536,5 +5536,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "검찰수사관의 범죄수사 등에 관한 집무규칙/검찰수사관의 범죄수사 등에 관한 집무규칙.json"
+  "git_path": "검찰수사관의 범죄수사 등에 관한 집무규칙/검찰수사관의 범죄수사 등에 관한 집무규칙.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
