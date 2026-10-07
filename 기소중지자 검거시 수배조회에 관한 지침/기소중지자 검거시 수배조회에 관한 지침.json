@@ -110,5 +110,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "기소중지자 검거시 수배조회에 관한 지침/기소중지자 검거시 수배조회에 관한 지침.json"
+  "git_path": "기소중지자 검거시 수배조회에 관한 지침/기소중지자 검거시 수배조회에 관한 지침.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
