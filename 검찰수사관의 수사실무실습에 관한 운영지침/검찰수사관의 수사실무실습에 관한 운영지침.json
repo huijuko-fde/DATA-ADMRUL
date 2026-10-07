@@ -377,5 +377,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "검찰수사관의 수사실무실습에 관한 운영지침/검찰수사관의 수사실무실습에 관한 운영지침.json"
+  "git_path": "검찰수사관의 수사실무실습에 관한 운영지침/검찰수사관의 수사실무실습에 관한 운영지침.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
