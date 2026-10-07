@@ -110,5 +110,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "지청 신설에 따른 신설청 관할 기소중지·참고인중지 사건 처리지침/지청 신설에 따른 신설청 관할 기소중지·참고인중지 사건 처리지침.json"
+  "git_path": "지청 신설에 따른 신설청 관할 기소중지·참고인중지 사건 처리지침/지청 신설에 따른 신설청 관할 기소중지·참고인중지 사건 처리지침.json",
+  "repealed": true,
+  "repealed_at": "20261007"
 }
