@@ -1140,7 +1140,14 @@
           }
         ],
         "images": [],
-        "provision_id": "admrul:국립공주병원전공의수련규정#JO0036"
+        "provision_id": "admrul:국립공주병원전공의수련규정#JO0036",
+        "scheduled": [
+          {
+            "enforcement_date": "20261008",
+            "change": "개정",
+            "content": "제36조(공가) 전문의 시험 당일은 수련일로 인정하며, 공가는 다음 각 호의 어느 하나에 해당하는 경우에 필요한 경우로 한다.1. 「병역법」 또는 다른 법령에 의한 징병검사ㆍ소집ㆍ검열점호 등에 응하거나 동원 또는 훈련에 참가한 때2. 공무와 관련하여 국회, 법원, 중대범죄수사청, 공소청 등 국가기관의 요구에 따라 출석할 때3. 법률에 의한 투표에 참가할 때4. 「국민건강보험법시행령」 제26조에 의한 건강검진을 받을 때5. 「혈액관리법」에 따라 헌혈에 참가할 때6. 삭제7. 천재지변, 교통차단 기타 불가피한 사유로 출근이 불가능 할 때8. <삭제 2020.01.30.>9. 수련기간에 국내ㆍ외 학회에 참석 하는 경우 출장으로 할 수 있다.<신설 2019. 3. 13.>"
+          }
+        ]
       },
       {
         "article_no": "제37조",
@@ -2382,8 +2389,10 @@
   "addendum_provision_id": "admrul:국립공주병원전공의수련규정#ADDENDUM",
   "amendment_provision_id": "admrul:국립공주병원전공의수련규정#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261008"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "국립공주병원 전공의 수련 규정/국립공주병원 전공의 수련 규정.json"
 }
