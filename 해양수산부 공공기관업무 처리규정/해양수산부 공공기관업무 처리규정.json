@@ -724,15 +724,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=29707408",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_empty_download_after_3_attempts",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:해양수산부공공기관업무처리규정#FORM0001",
       "filename": "서식1_경영실적평가 대비 점검결과 작성 양식.hwp",
       "file_dir": "서식",
-      "local_path": "서식/서식1_경영실적평가 대비 점검결과 작성 양식.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     }
   ],
   "attachments": [
@@ -785,5 +790,18 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "해양수산부 공공기관업무 처리규정/해양수산부 공공기관업무 처리규정.json"
+  "git_path": "해양수산부 공공기관업무 처리규정/해양수산부 공공기관업무 처리규정.json",
+  "collection_summary": {
+    "body_saved": true,
+    "completion_status": "complete_with_source_gaps",
+    "unavailable_sources": [
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=29707408",
+        "filename": "서식1_경영실적평가 대비 점검결과 작성 양식.hwp",
+        "reason": "provider_empty_download_after_3_attempts",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      }
+    ],
+    "completed_at": "2026-10-08T08:29:37.916832+00:00"
+  }
 }
