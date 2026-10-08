@@ -3108,15 +3108,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=146331025",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:상업등기신청서의양식에관한예규#FRM0082_01",
       "filename": "양식82의1_[양식 제82-1호] 합병으로 인한 주식회사 변경 등기(주식회사가 존속회사로 되어 흡수합병을 한 경우).hwp",
       "file_dir": "양식",
-      "local_path": "양식/양식82의1_[양식 제82-1호] 합병으로 인한 주식회사 변경 등기(주식회사가 존속회사로 되어 흡수합병을 한 경우).hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0082",
@@ -4323,5 +4328,18 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "상업등기신청서의 양식에 관한 예규/상업등기신청서의 양식에 관한 예규.json"
+  "git_path": "상업등기신청서의 양식에 관한 예규/상업등기신청서의 양식에 관한 예규.json",
+  "collection_summary": {
+    "body_saved": true,
+    "completion_status": "complete_with_source_gaps",
+    "unavailable_sources": [
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=146331025",
+        "filename": "양식82의1_[양식 제82-1호] 합병으로 인한 주식회사 변경 등기(주식회사가 존속회사로 되어 흡수합병을 한 경우).hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      }
+    ],
+    "completed_at": "2026-10-08T08:29:37.916832+00:00"
+  }
 }
