@@ -121,15 +121,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:인감의제출관리등에관한사무처리지침#ETC0001",
       "filename": "기타1_별표예시(1) 인감부의규격.hwp",
       "file_dir": "기타",
-      "local_path": "기타/기타1_별표예시(1) 인감부의규격.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0002",
@@ -146,15 +151,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:인감의제출관리등에관한사무처리지침#ETC0002",
       "filename": "기타2_별표예시(2) 인간부의 배면 색출란.hwp",
       "file_dir": "기타",
-      "local_path": "기타/기타2_별표예시(2) 인간부의 배면 색출란.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0003",
@@ -171,15 +181,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:인감의제출관리등에관한사무처리지침#ETC0003",
       "filename": "기타3_별표예시(3) 인감부목록.hwp",
       "file_dir": "기타",
-      "local_path": "기타/기타3_별표예시(3) 인감부목록.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0004",
@@ -196,15 +211,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:인감의제출관리등에관한사무처리지침#ETC0004",
       "filename": "기타4_별표예시(4) 비닐보호식인감표.hwp",
       "file_dir": "기타",
-      "local_path": "기타/기타4_별표예시(4) 비닐보호식인감표.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0005",
@@ -221,15 +241,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:인감의제출관리등에관한사무처리지침#ETC0005",
       "filename": "기타5_별표예시(5) 인감표의 견출용지.hwp",
       "file_dir": "기타",
-      "local_path": "기타/기타5_별표예시(5) 인감표의 견출용지.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     }
   ],
   "attachments": [],
@@ -262,5 +287,42 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "인감의 제출ㆍ관리 등에 관한 사무처리지침/인감의 제출ㆍ관리 등에 관한 사무처리지침.json"
+  "git_path": "인감의 제출ㆍ관리 등에 관한 사무처리지침/인감의 제출ㆍ관리 등에 관한 사무처리지침.json",
+  "collection_summary": {
+    "body_saved": true,
+    "completion_status": "complete_with_source_gaps",
+    "unavailable_sources": [
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
+        "filename": "기타1_별표예시(1) 인감부의규격.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
+        "filename": "기타2_별표예시(2) 인간부의 배면 색출란.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
+        "filename": "기타3_별표예시(3) 인감부목록.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
+        "filename": "기타4_별표예시(4) 비닐보호식인감표.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
+        "filename": "기타5_별표예시(5) 인감표의 견출용지.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      }
+    ],
+    "completed_at": "2026-10-08T08:29:37.916832+00:00"
+  }
 }
