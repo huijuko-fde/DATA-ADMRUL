@@ -459,15 +459,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:재판사무시스템등을이용한공증사무처리지침(재일2007-1)#ETC0002",
       "filename": "기타2.hwp",
       "file_dir": "기타",
-      "local_path": "기타/기타2.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     }
   ],
   "attachments": [],
@@ -500,5 +505,18 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "재판사무시스템 등을 이용한 공증사무 처리지침(재일 2007-1)/재판사무시스템 등을 이용한 공증사무 처리지침(재일 2007-1).json"
+  "git_path": "재판사무시스템 등을 이용한 공증사무 처리지침(재일 2007-1)/재판사무시스템 등을 이용한 공증사무 처리지침(재일 2007-1).json",
+  "collection_summary": {
+    "body_saved": true,
+    "completion_status": "complete_with_source_gaps",
+    "unavailable_sources": [
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
+        "filename": "기타2.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      }
+    ],
+    "completed_at": "2026-10-08T08:29:37.916832+00:00"
+  }
 }
