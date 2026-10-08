@@ -1,25 +1,25 @@
 {
   "law_id": "46865",
-  "mst": "2100000279182",
+  "mst": "2100000286730",
   "law_name": "인사혁신처 인사관리규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:46865",
-  "promulgation_no": "203",
-  "promulgation_date": "20260515",
-  "enforcement_date": "20260515",
-  "revision_date": "20260515",
+  "promulgation_no": "210",
+  "promulgation_date": "20261008",
+  "enforcement_date": "20261008",
+  "revision_date": "20261008",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "인사혁신처(인사조직과)",
-    "담당자명": "이원준",
+    "담당자명": "전구슬",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "인사혁신처 인사관리규정",
-    "발령일자": "20260515",
+    "발령일자": "20261008",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "044-201-8039",
     "제개정구분명": "일부개정",
     "소관부처코드": "1760000",
-    "생성일자": "20260518",
+    "생성일자": "20261012",
     "행정규칙ID": "46865",
-    "시행일자": "20260515",
+    "시행일자": "20261008",
     "담당부서기관코드": "1760049",
-    "발령번호": "203",
-    "행정규칙일련번호": "2100000279182",
+    "발령번호": "210",
+    "행정규칙일련번호": "2100000286730",
     "상위부처명": "인사혁신처"
   },
   "amendment_text": "",
-  "revision_reason": "1. 인사혁신처 인사운영에 필요한 사항을 규정\n가. 제ㆍ개정 이유 및 내용\n○ 업무수행방식 전환을 위해 공정ㆍ자율ㆍ협업의 인사관리 원칙을 명문화(제4조)\n나. 입법추진과정에서 논의된 주요내용, 입법효과, 그 밖의 참고사항",
+  "revision_reason": "1. 인사혁신처 인사운영에 필요한 사항을 규정\n◇ 제ㆍ개정 이유 및 내용\n○ 인사혁신처 개방형 직위 변경(제23조의2)",
   "body": {
     "format": "articles",
     "article_count": 34,
@@ -46,7 +46,7 @@
         "article_title": "목적",
         "chapter": "제1장 총 칙",
         "chapter_path": "제1장 총 칙",
-        "content": "제1조(목적) 이 규정은「국가공무원법」및「공무원임용령」등 인사관계법령에 의하여 인사혁신처와 그 소속기관 공무원의 인사관리에 필요한 사항을 규정함으로써 공정하고 효율적인 인사운영을 도모함을 목적으로 한다.",
+        "content": "제1조(목적) 이 규정은 「국가공무원법」및「공무원임용령」등 인사관계법령에 의하여 인사혁신처와 그 소속기관 공무원의 인사관리에 필요한 사항을 규정함으로써 공정하고 효율적인 인사운영을 도모함을 목적으로 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -129,7 +129,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "46865",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279182&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286730&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처인사관리규정#JO0003",
             "target_unit": "BYL0003",
@@ -351,8 +351,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164241929",
-            "seq": "164241929",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377437",
+            "seq": "170377437",
             "filename": "제9조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제9조_1.gif",
@@ -360,8 +360,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164241931",
-            "seq": "164241931",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377439",
+            "seq": "170377439",
             "filename": "제9조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제9조_2.gif",
@@ -402,8 +402,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164242073",
-            "seq": "164242073",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377295",
+            "seq": "170377295",
             "filename": "제10조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제10조_1.gif",
@@ -411,8 +411,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164242075",
-            "seq": "164242075",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377441",
+            "seq": "170377441",
             "filename": "제10조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제10조_2.gif",
@@ -446,7 +446,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "46865",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279182&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286730&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처인사관리규정#JO0011",
             "target_unit": "BYL0001",
@@ -458,8 +458,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164242077",
-            "seq": "164242077",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170377451",
+            "seq": "170377451",
             "filename": "제11조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제11조_1.gif",
@@ -896,7 +896,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "46865",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279182&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286730&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처인사관리규정#JO0017_02",
             "target_unit": "BYL0002",
@@ -955,7 +955,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "46865",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164242767",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170378241",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처인사관리규정#JO0019_02",
             "target_unit": "BJ0001",
@@ -1103,7 +1103,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "46865",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279182&bylNo=0004&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286730&bylNo=0004&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처인사관리규정#JO0021",
             "target_unit": "BYL0004",
@@ -1265,7 +1265,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "46865",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279182&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286730&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:인사혁신처인사관리규정#JO0022",
             "target_unit": "BYL0001",
@@ -1345,7 +1345,7 @@
         "article_title": "개방형 직위의 지정",
         "chapter": "제4장 보직관리",
         "chapter_path": "제4장 보직관리",
-        "content": "제23조의2(개방형 직위의 지정) ① 「개방형 직위 및 공모 직위의 운영 등에 관한 규정」 제3조제1항 및「인사혁신처와 그 소속기관 직제」 제28조에 따라 재해보상정책관을 개방형 직위로 지정한다.② 「개방형 직위 및 공모 직위의 운영 등에 관한 규정」 제3조제2항 및 「행정기관의 조직과 정원에 관한 통칙」 제24조제5항에 따라 인재정보담당관을 개방형 직위로 지정한다.",
+        "content": "제23조의2(개방형 직위의 지정) ① 「개방형 직위 및 공모 직위의 운영 등에 관한 규정」 제3조제1항 및「인사혁신처와 그 소속기관 직제」 제28조에 따라 공무원재해보상연금위원회 사무국장을 개방형 직위로 지정한다.② 「개방형 직위 및 공모 직위의 운영 등에 관한 규정」 제3조제2항 및 「행정기관의 조직과 정원에 관한 통칙」 제24조제5항에 따라 인재정보담당관을 개방형 직위로 지정한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1699,10 +1699,10 @@
       "content": "부칙 <제23호,2014. 12. 31.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.제2조(가점평정 대상 근무기간에 대한 적용례) 제11조 제1항 단서 및 제22조 제2항ㆍ제3항에 따른 가점평정 대상이 되는 전문직위 재직기간은 해당 전문직위의 최초 지정일부터 기산한다.제3조(5급공무원으로의 승진방법에 대한 적용례) 제14조 제2항에 따른 역량평가는 2016년 1월 1일부터 시행한다.",
       "provision_id": "admrul:인사혁신처인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000279182",
+      "source_mst": "2100000286730",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260515"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20150603",
@@ -1710,10 +1710,10 @@
       "content": "부칙 (인사혁신처 직제개편에 따른 「공무원보수민관심의위원회 규정」등 일괄 개정령)<제31호,2015. 6. 3.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:인사혁신처인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000279182",
+      "source_mst": "2100000286730",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260515"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20160704",
@@ -1721,10 +1721,10 @@
       "content": "부칙 <제41호,2016. 7. 4.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.제2조(가점평정 대상 근무기간에 대한 적용례) 제11조 제1항 단서 및 제22조 제2항ㆍ제3항에 따른 가점평정 대상이 되는 전문직위 재직기간은 해당 전문직위에 전문관으로 보임된 날부터 기산한다.",
       "provision_id": "admrul:인사혁신처인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000279182",
+      "source_mst": "2100000286730",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260515"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20161229",
@@ -1732,10 +1732,10 @@
       "content": "부칙 <제50호,2016. 12. 29.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.제2조(가점평정 대상 근무기간에 대한 적용례) 별표 1의 자체 감사 담당자에 대한 가점은 2018. 1. 31. 기준 승진후보자명부 작성시부터 반영하며, 자체 감사담당자에 대한 가점평정 대상이 되는 재직기간은 이 규정 시행일 이후에 자체 감사 담당으로 보임된 날로부터 기산하되, 현 재직자에 대한 가점평정 대상이 되는 재직기간은 2017. 1. 1.부터 기산한다.",
       "provision_id": "admrul:인사혁신처인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000279182",
+      "source_mst": "2100000286730",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260515"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20171229",
@@ -1743,10 +1743,10 @@
       "content": "부칙 <제62호,2017. 12. 29.>제1조(시행일) 이 규정은 발령한 날부터 시행한다. 다만, 제14조의2(4급으로의 승진) 의 신설 규정은 2019년 1월 1일부터 시행한다.",
       "provision_id": "admrul:인사혁신처인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000279182",
+      "source_mst": "2100000286730",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260515"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20181227",
@@ -1754,10 +1754,10 @@
       "content": "부칙 <제73호,2018. 12. 27.>제1조(시행일) 이 규정은 발령한 날부터 시행한다. 다만, 제11조(승진후보자 명부의 작성)의 개정사항은 2019년 12월 27일부터 시행한다.",
       "provision_id": "admrul:인사혁신처인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000279182",
+      "source_mst": "2100000286730",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260515"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20190730",
@@ -1765,10 +1765,10 @@
       "content": "부칙 <제86호,2019. 7. 30.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:인사혁신처인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000279182",
+      "source_mst": "2100000286730",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260515"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20191125",
@@ -1776,10 +1776,10 @@
       "content": "부칙 <제93호,2019. 11. 25.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:인사혁신처인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000279182",
+      "source_mst": "2100000286730",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260515"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20210101",
@@ -1787,10 +1787,10 @@
       "content": "부칙 <제109호,2021. 1. 1.>이 규정은 2021. 1. 1.부터 시행한다.제17조의2, 제22조의2에 대한 적용기간은 인사혁신처장과 협의한 바에 따른다.",
       "provision_id": "admrul:인사혁신처인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000279182",
+      "source_mst": "2100000286730",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260515"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20210224",
@@ -1798,10 +1798,10 @@
       "content": "부칙 <제113호, 2021. 2. 24.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:인사혁신처인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000279182",
+      "source_mst": "2100000286730",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260515"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20230807",
@@ -1809,10 +1809,10 @@
       "content": "부칙 <제153호, 2023. 8. 7.>제1조(시행일) 이 규정은 발령한 날부터 시행한다. 다만 제9조(근무성적평가의 방법) 및 제10조(경력평정)의 개정사항은 2023년 7월 31일 이후에 승진후보자명부의 조정사유가 발생하여 승진후보자명부를 조정하는 경우 및 2023년 12월 31일을 기준으로 정기평가 및 정기평정을 실시하는 경우부터 시행한다.제2조(가점평정 대상 근무기간에 대한 적용례) 별표 1의 제1호 가목 기피ㆍ격무직위에 대한 가점은 2025년 1월 31일 기준 승진후보자명부 작성시부터 반영한다. 기피ㆍ격무직위에 대한 가점평정 대상이 되는 기간은 2024년 1월 1일 이후 기피ㆍ격무직위에 보임된 날로부터 기산하고, 2024년 1월 1일 이전에 기피ㆍ격무직위에 보임되어 2024년 1월 1일 현재 재직중인 자에 대한 가점평정 대상기간도 2024년 1월 1일부터 기산한다.",
       "provision_id": "admrul:인사혁신처인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000279182",
+      "source_mst": "2100000286730",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260515"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20240101",
@@ -1820,10 +1820,10 @@
       "content": "부칙 <제159호, 2024. 1. 1.>이 규정은 2024. 1. 1.부터 시행한다.",
       "provision_id": "admrul:인사혁신처인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000279182",
+      "source_mst": "2100000286730",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260515"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20240707",
@@ -1831,10 +1831,10 @@
       "content": "부칙 (인사혁신처 적극행정 및 규제심사 운영규정)<제170호, 2024. 7. 7.>제1조(시행일) 이 규정은 공포한 날부터 시행한다.제2조 생략제3조(다른 훈령의 개정) ① 인사혁신처 인사관리규정 일부를 다음과 같이 개정한다.제24조의2제3항 본문 중 \"「인사혁신처 자체 적극행정 운영규정」에 따라 설치된 적극행정추진위원회\"를 \"「인사혁신처 적극행정 및 규제심사 운영규정」에 따라 설치된 적극행정 및 규제심사위원회로 하고, 같은 항 단서 중 \"적극행정추진위원회\"를 \"적극행정 및 규제심사위원회\"로 한다.② 생략",
       "provision_id": "admrul:인사혁신처인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000279182",
+      "source_mst": "2100000286730",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260515"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20240830",
@@ -1842,10 +1842,10 @@
       "content": "부칙 <제172호, 2024. 8. 30.>이 규정은 2024. 8. 30.부터 시행한다.",
       "provision_id": "admrul:인사혁신처인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000279182",
+      "source_mst": "2100000286730",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260515"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20250101",
@@ -1853,10 +1853,10 @@
       "content": "부칙 <제183호, 2025. 1. 1.>이 규정은 2025. 1. 1.부터 시행한다.",
       "provision_id": "admrul:인사혁신처인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000279182",
+      "source_mst": "2100000286730",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260515"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20260128",
@@ -1864,10 +1864,10 @@
       "content": "부칙 <제198호, 2026. 1. 28.>제1조(시행일) 이 규정은 2026. 1. 28.부터 시행한다.제2조(승진후보자명부의 동점자 선순위 결정에 관한 적용례) 제11조의 개정사항은 2027년 1월 31일 기준 승진후보자명부 작성시부터 반영한다.",
       "provision_id": "admrul:인사혁신처인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000279182",
+      "source_mst": "2100000286730",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260515"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20260515",
@@ -1875,10 +1875,21 @@
       "content": "부칙 <제203호, 2026. 5. 15.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:인사혁신처인사관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000279182",
+      "source_mst": "2100000286730",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260515"
+      "version_enforcement_date": "20261008"
+    },
+    {
+      "promulgation_date": "20261008",
+      "promulgation_no": "210",
+      "content": "부칙 <제210호, 2026. 10. 8.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.제2조(개방형 직위에 관한 경과조치) 제23조의2제1항의 개정규정에 따라 개방형 직위에서 제외되는 직위는 제23조의2제1항의 개정규정에도 불구하고 해당 직위에 재직하는 공무원의 임용기간이 만료되는 날 또는 면직 등으로 해당 직위에 결원이 발생하는 날의 전날까지 개방형 직위를 유지하는 것으로 본다.",
+      "provision_id": "admrul:인사혁신처인사관리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000286730",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261008"
     }
   ],
   "appendices": [
@@ -1890,18 +1901,18 @@
       "enforcement_date": "",
       "content": "【별표 1】 가점부여기준\n┌──────────────┬─────────────────────┐\n│구  분                      │가점기준                                  │\n├─────┬────────┼─────────────────────┤\n│1.특정직위│가.             │기피·격무직위로 보임된 날로부터 1년 경과 │\n│근무경력  │기피·격무직위  │시 매월 0.03점                            │\n│          ├────────┼─────────────────────┤\n│          │나. 전문직위    │전문관으로 보임된 날로부터 2년 경과시 매  │\n│          │                │월 0.03점                                 │\n│          ├────────┼─────────────────────┤\n│          │다. 자체감사담당│자체 감사담당으로 보임된 날로부터 1년 경과│\n│          │                │시 매월 0.03점                            │\n├─────┼────────┼─────────────────────┤\n│2.적극행정│자랑스런        │‘혁신인‘으로 선발된 자 3점              │\n│우수성과  │인사혁신처인상  ├─────────────────────┤\n│자        │수상자          │‘창조인‘으로 선발된 자 2점              │\n│          │                ├─────────────────────┤\n│          │                │‘도전인‘으로 선발된 자 1점              │\n└─────┴────────┴─────────────────────┘\n\n비고1 : 제1호 ‘특정직위 근무경력’의 경우 가점부여 대상 재직기간이 중복될 경우에는 1개 가점만 인정한다.\n비고2 : 제2호 ‘적극행정 우수성과자’의 경우, 처장표창 업무지침 상의 ‘자랑스런 인사혁신처인상에 대한 등급 특례’로 평정가점을 선택한 경우에만 적용한다.\n비고3 : 제1호 가목의 기피·격무직위는 4급 및 5급의 경우에는 기획재정담당관실 예산업무, 기획재정담당관실 기획업무, 재해보상정책담당관실 송무업무 담당자 중 부서장이 정하는 1인으로 하고, 6급이하의 경우에는 기획재정담당관실 예산업무, 기획재정담당관실 국회업무, 복무과 복무제도업무 담당자 중 부서장이 정하는 1인으로 한다.",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279182&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164242743",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286730&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170378247",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164242739",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170378243",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164242743",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170378247",
           "name": "",
           "file_store_url": ""
         }
@@ -1921,18 +1932,18 @@
       "enforcement_date": "",
       "content": "【별표 2】 직무가 유사한 직위 범위(제17조의2 관련)\n┌──────┬────────────────────┐\n│분야명      │유사한 직위의 범위                      │\n┝━━━━━━┿━━━━━━━━━━━━━━━━━━━━┥\n│채용 · 임용│인재정보기획관, 인재채용국, 인사혁신국  │\n├──────┼────────────────────┤\n│관리 · 복무│재해보상정책관, 인사관리국, 윤리복무국, │\n│            │공무원재해보상연금위원회 사무국         │\n└──────┴────────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279182&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164242749",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286730&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170378253",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164242745",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170378249",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164242749",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170378253",
           "name": "",
           "file_store_url": ""
         }
@@ -1952,18 +1963,18 @@
       "enforcement_date": "",
       "content": "【별표 3】 임용권 위임 범위\n┌────────────────────────────────────────────┐\n│ ■ 인사혁신처와 그 소속기관 공무원 인사 관련 위임사항                                  │\n│  1. 인사혁신처 본부                                                                    │\n│┌────────────────────────┬─────────────────┐│\n││구 분                                           │전보권                            ││\n│├────────────────────────┼─────────────────┤│\n││국장 등                                         │·과장급을 제외한 4급 및 5급 이하 ││\n││(기획조정관, 인재정보기획관, 공무원노사협력관,  │공무원의 국 내 전보권             ││\n││재해보상정책관을 포함한다.)                     │                                  ││\n│└────────────────────────┴─────────────────┘│\n│  2. 소속기관                                                                           │\n│┌────────────┬──────────────────────────┐      │\n││구 분                   │임용권                                              │      │\n│├────────────┼──────────────────────────┤      │\n││소속기관                │·과장급을 제외한 4급 및 5급 공무원의 기관내 전보권 │      │\n││(국가공무원인재개발원,  │(단, 국가인재원은 과장급 4급 공무원을 포함)         │      │\n││소청심사위원회)         │·6급이하 및 전문경력관(나군이하) 임용권            │      │\n││                        │(단, 승진 및 근평점수 부여 제외, 채용은 사전협의)   │      │\n││                        │·관리운영직군 임용권                               │      │\n││                        │·전문임기제 임용권(단, 사전협의)                   │      │\n│└────────────┴──────────────────────────┘      │\n└────────────────────────────────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279182&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164242755",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286730&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170378259",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164242751",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170378255",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164242755",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170378259",
           "name": "",
           "file_store_url": ""
         }
@@ -1981,20 +1992,20 @@
       "kind": "별표",
       "title": "전문 분야 및 전보 범위(제21조 관련)",
       "enforcement_date": "",
-      "content": "【별표 4】 전문 분야 및 전보 범위(제21조 관련)\n┌─────┬───────────────────────────┐\n│전문 분야 │전보 범위                                             │\n│          ┝━━━━━━━━┯━━━━━━━━━━━━━━━━━━┥\n│          │국·관          │부서                                │\n┝━━━━━┿━━━━━━━━┿━━━━━━━━━━━━━━━━━━┥\n│채용      │인재채용국      │ 인재정책과, 공개채용과, 경력채용과 │\n│          │                │ 시험출제과, 5급공채팀              │\n│          ├────────┼──────────────────┤\n│          │인재정보기획관실│ 인재기획담당관실, 인재정보담당관실 │\n└─────┴────────┴──────────────────┘",
+      "content": "【별표 4】 전문 분야 및 전보 범위(제21조 관련)\n┌─────┬──────────────────────────┐\n│전문 분야 │전보 범위                                           │\n│          ┝━━━━━━━┯━━━━━━━━━━━━━━━━━━┥\n│          │국·관        │부서                                │\n┝━━━━━┿━━━━━━━┿━━━━━━━━━━━━━━━━━━┥\n│채용      │인재채용국    │ 인재정책과, 공개채용과, 경력채용과 │\n│          │              │ 시험출제과, 5급공채팀              │\n│          ├───────┼──────────────────┤\n│          │인재정보기획관│ 인재기획담당관실, 인재정보담당관실 │\n│          │실            │                                    │\n└─────┴───────┴──────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279182&bylNo=0004&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164242761",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286730&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170378265",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164242757",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170378261",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164242761",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170378265",
           "name": "",
           "file_store_url": ""
         }
@@ -2015,17 +2026,17 @@
       "content": "■ 인사혁신처 인사관리규정 [별지 제1호서식]\n직무수행계획서\n┌───────────────────────────────────┐\n│┌───┬───────┬───┐                                    │\n││직  위│성  명 (직급) │임용일│                                    │\n│├───┼───────┼───┤                                    │\n││      │              │      │                                    │\n││      │              │      │                                    │\n│└───┴───────┴───┘                                    │\n│                                                                      │\n│□ 직무수행 계획(국(과)장급 직위에서의 직무수행 및 역량개발 계획)     │\n│┌──┐                                                              │\n││○  │                                                              │\n││ -  │                                                              │\n│└──┘                                                              │\n│  ※ 소속기관 과장/ 본부 과장/ 국장 중 해당하는 직위 전반의 계획 작성 │\n│                                                                      │\n│□ 직원 역량개발·동기부여 방안(국(과)장급 직위에서의 방안)           │\n│┌──┐                                                              │\n││○  │                                                              │\n││ -  │                                                              │\n│└──┘                                                              │\n│  ※ 소속기관 과장/ 본부 과장/ 국장 중 해당하는 직위 전반의 계획 작성 │\n│                                                                      │\n│□ 환경요인 분석(문제점, 장?단점 포함)                               │\n│┌─┐                                                                │\n││○│                                                                │\n││ -│                                                                │\n│└─┘                                                                │\n│  ※ 부처 전체/ 소속 국·과(구분 작성)                                │\n│                                                                      │\n│□ 부서 핵심과제 수행계획(현 소속 국·과 기준)                        │\n│ ① 과제 1                                                            │\n│   -                                                                  │\n│   ※                                                                 │\n│ ② 과제 2                                                            │\n│   -                                                                  │\n│   ※                                                                 │\n│ ③ 과제 3                                                            │\n│   -                                                                  │\n│   ※                                                                 │\n│  ※ A4 2~3매 내외로 작성                                             │\n└───────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164242767",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170378241",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164242763",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170378237",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164242767",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170378241",
           "name": "",
           "file_store_url": ""
         }
@@ -2040,19 +2051,19 @@
   ],
   "attachments": [
     {
-      "name": "1. 「인사혁신처 인사관리규정」 일부개정안(전문).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=164241735",
-      "filename": "1. 「인사혁신처 인사관리규정」 일부개정안(전문).hwpx",
+      "name": "「인사혁신처 인사관리규정」 일부개정안(전문).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170377277",
+      "filename": "「인사혁신처 인사관리규정」 일부개정안(전문).hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/1. 「인사혁신처 인사관리규정」 일부개정안(전문).hwpx",
+      "local_path": "첨부파일/「인사혁신처 인사관리규정」 일부개정안(전문).hwpx",
       "file_store_url": ""
     },
     {
-      "name": "1. 「인사혁신처 인사관리규정」 일부개정안(전문).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=164241899",
-      "filename": "1. 「인사혁신처 인사관리규정」 일부개정안(전문).pdf",
+      "name": "「인사혁신처 인사관리규정」 일부개정안(전문).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170377281",
+      "filename": "「인사혁신처 인사관리규정」 일부개정안(전문).pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/1. 「인사혁신처 인사관리규정」 일부개정안(전문).pdf",
+      "local_path": "첨부파일/「인사혁신처 인사관리규정」 일부개정안(전문).pdf",
       "file_store_url": ""
     }
   ],
@@ -2074,7 +2085,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 17,
+    "addenda_count": 18,
     "appendices_count": 5,
     "attachments_count": 2
   },
