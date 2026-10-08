@@ -1529,8 +1529,10 @@
       "url": "http://law.go.kr/flDownload.do?flSeq=143870855",
       "filename": "개정전문(국제 조난 및 안전통신 운영 규칙 일부개정훈령안).pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/개정전문(국제 조난 및 안전통신 운영 규칙 일부개정훈령안).pdf",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "name": "개정전문(국제 조난 및 안전통신 운영 규칙 일부개정훈령안).hwpx",
@@ -1605,5 +1607,18 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "국제 조난 및 안전통신 운영 규칙/국제 조난 및 안전통신 운영 규칙.json"
+  "git_path": "국제 조난 및 안전통신 운영 규칙/국제 조난 및 안전통신 운영 규칙.json",
+  "collection_summary": {
+    "body_saved": true,
+    "completion_status": "complete_with_source_gaps",
+    "unavailable_sources": [
+      {
+        "url": "http://law.go.kr/flDownload.do?flSeq=143870855",
+        "filename": "개정전문(국제 조난 및 안전통신 운영 규칙 일부개정훈령안).pdf",
+        "reason": "provider_empty_download_after_3_attempts",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      }
+    ],
+    "completed_at": "2026-10-08T08:29:37.916832+00:00"
+  }
 }
