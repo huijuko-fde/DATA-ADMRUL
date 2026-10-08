@@ -2308,15 +2308,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=146332023",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:「상업등기법」(법률제20437호)부칙제2조등에따른시범사업실시에관한예규#BJ0002",
       "filename": "별지2_[별지 제2호].hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 제2호].hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0003",
@@ -2358,15 +2363,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=146332027",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:「상업등기법」(법률제20437호)부칙제2조등에따른시범사업실시에관한예규#BJ0004",
       "filename": "별지4_[별지 제4호].hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지4_[별지 제4호].hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0005",
@@ -9649,5 +9659,24 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "「상업등기법」(법률 제20437호) 부칙 제2조 등에 따른 시범사업 실시에 관한 예규/「상업등기법」(법률 제20437호) 부칙 제2조 등에 따른 시범사업 실시에 관한 예규.json"
+  "git_path": "「상업등기법」(법률 제20437호) 부칙 제2조 등에 따른 시범사업 실시에 관한 예규/「상업등기법」(법률 제20437호) 부칙 제2조 등에 따른 시범사업 실시에 관한 예규.json",
+  "collection_summary": {
+    "body_saved": true,
+    "completion_status": "complete_with_source_gaps",
+    "unavailable_sources": [
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=146332023",
+        "filename": "별지2_[별지 제2호].hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=146332027",
+        "filename": "별지4_[별지 제4호].hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      }
+    ],
+    "completed_at": "2026-10-08T08:29:37.916832+00:00"
+  }
 }
