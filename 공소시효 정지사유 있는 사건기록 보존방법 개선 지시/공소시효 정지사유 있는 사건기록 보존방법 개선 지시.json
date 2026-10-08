@@ -1,0 +1,149 @@
+{
+  "law_id": "27987",
+  "mst": "2100000286044",
+  "law_name": "공소시효 정지사유 있는 사건기록 보존방법 개선 지시",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:27987",
+  "promulgation_no": "123",
+  "promulgation_date": "20261002",
+  "enforcement_date": "20261008",
+  "revision_date": "20261002",
+  "revision_type": "일부개정",
+  "is_current": false,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "공소청(공판송무과)",
+    "담당자명": "윤양희",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "공소시효 정지사유 있는 사건기록 보존방법 개선 지시",
+    "발령일자": "20261002",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "공소청",
+    "전화번호": "02-3480-2363",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1282000",
+    "생성일자": "20261008",
+    "행정규칙ID": "27987",
+    "시행일자": "20261008",
+    "담당부서기관코드": "1282038",
+    "발령번호": "123",
+    "행정규칙일련번호": "2100000286044",
+    "상위부처명": "공소청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 이유\n○ 공소청법」(법률 제21490호) 시행(2026. 10. 2.)에 따라, 대검예규인 이 예규를 공소청예규로 전환하고, 재검토기한 및 부칙 규정을 정비할 필요\n◇ 주요내용\n○ 대검예규에서 공소청예규로 전환(예규의 명칭 및 발령 표시)\n○ 재검토기한의 개정(제3항)\n○ 부칙에 시행일 규정 신설(부칙 제1조)",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "일부 공범은 공소제기하고 다른 일부 공범은 불기소 또는 기소중지하는 경우에 재판확정시까지 다른 일부 공범에 대한 공소시효가 정지되는 바, 이와 같이 공소시효 정지사유 있는 사건에 관하여 그 구별 방법, 보존 등에 관한 규정 미비로 사건기록이 잘못 보존 또는 폐기되거나 민원서류를 잘못 발급하는 사례가 있어 다음과 같이 지시하니 그 시행에 만전을 기하기 바랍니다.                 다      음1. 일부 공범은 기소하고 다른 일부 공범은 불기소 또는 기소중지하는 경우가. 불기소, 기소중지 사건기록표지의 상단우측여백에 \"공소시효 정지사유 있음\"이라는 붉은색 고무인으로 날인한다.나. 공소제기한 수사기록표지 아래 비고란 여백에 위와 같은 고무인을 날인한다.다. 기소중지결정시 피의자에 대한 지명수배통보 전자계산기 입력요구서의 범행개요란 여백에 위와 같은 고무인을 날인한다. 2. 관련 재판확정기록을 보존하는 경우기록보존사무 담당자는 위와 관련된 재판 확정기록을 인수하여 보존하는 경우에 그 확정기록에 의거, 공소시효 정지기간을 산정하고 이에 따라 불기소 또는 기소중지된 공범에 대한 공소시효 완성일을 수정한 다음 기록표지의 상단우측여백에 결재용 고무인(아래예시참조)을 찍어 그 공란에 일자를 명기하여 날인 또는 서명하는 방법으로 공판검사의 결재를 받아 공소시효 정지 기간만큼 연장하여 일반적인 불기소, 기소중지사건기록의 보존례에 따라 보존조치 한다. [그림] 3. 재검토기한「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규에 대하여 2027년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "27987",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공소시효정지사유있는사건기록보존방법개선지시#DOC",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170115163",
+            "seq": "170115163",
+            "filename": "전문_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:공소시효정지사유있는사건기록보존방법개선지시#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20220719",
+      "promulgation_no": "1293",
+      "content": "부칙 <제1293호, 2022. 7. 19.>제1조(시행일) 이 예규는 2022년 7월 19일부터 시행 한다제2조(종전 예규의 폐지) 종전의 공소시효 정지사유 있는 사건기록 보존방법 개선지시(대검 예규 제1005호)는 이를 폐지한다.",
+      "provision_id": "admrul:공소시효정지사유있는사건기록보존방법개선지시#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000286044",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261008"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "(공소청예규 제123호) 공소시효 정지사유 있는 사건기록 보존방법 개선 지시.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170115049",
+      "filename": "(공소청예규 제123호) 공소시효 정지사유 있는 사건기록 보존방법 개선 지시.hwp",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(공소청예규 제123호) 공소시효 정지사유 있는 사건기록 보존방법 개선 지시.hwp",
+      "file_store_url": ""
+    },
+    {
+      "name": "(공소청예규 제123호) 공소시효 정지사유 있는 사건기록 보존방법 개선 지시.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170115053",
+      "filename": "(공소청예규 제123호) 공소시효 정지사유 있는 사건기록 보존방법 개선 지시.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(공소청예규 제123호) 공소시효 정지사유 있는 사건기록 보존방법 개선 지시.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 1
+    },
+    "articles_total": 1,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/공소시효 정지사유 있는 사건기록 보존방법 개선 지시"
+  },
+  "provision_id": "admrul:공소시효정지사유있는사건기록보존방법개선지시#DOC",
+  "addendum_provision_id": "admrul:공소시효정지사유있는사건기록보존방법개선지시#ADDENDUM",
+  "amendment_provision_id": "admrul:공소시효정지사유있는사건기록보존방법개선지시#AMENDMENT",
+  "is_future": true,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "공소시효 정지사유 있는 사건기록 보존방법 개선 지시/공소시효 정지사유 있는 사건기록 보존방법 개선 지시.json"
+}
