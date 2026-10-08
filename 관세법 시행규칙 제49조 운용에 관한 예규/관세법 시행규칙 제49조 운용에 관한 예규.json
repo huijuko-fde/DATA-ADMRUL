@@ -1,0 +1,124 @@
+{
+  "law_id": "98407",
+  "mst": "2100000286632",
+  "law_name": "관세법 시행규칙 제49조 운용에 관한 예규",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:98407",
+  "promulgation_no": "333",
+  "promulgation_date": "20261006",
+  "enforcement_date": "20261008",
+  "revision_date": "20261006",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "관세청(통관기획과)",
+    "담당자명": "강우영",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "관세법 시행규칙 제49조 운용에 관한 예규",
+    "발령일자": "20261006",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200401",
+    "조문형식여부": "N",
+    "소관부처명": "관세청",
+    "전화번호": "042-481-7825",
+    "제개정구분명": "제정",
+    "소관부처코드": "1220000",
+    "생성일자": "20261008",
+    "행정규칙ID": "98407",
+    "시행일자": "20261008",
+    "담당부서기관코드": "1221622",
+    "발령번호": "333",
+    "행정규칙일련번호": "2100000286632",
+    "상위부처명": "관세청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 사유\n「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」 제7조에 따라 일몰제 설정 관련하여 우리청 소관 행정규칙 정비(일괄 폐지 후 재제정)\n◇ 주요 개정 내용\n□ 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령 훈령) 제7조에 따라 일몰제 설정 및 존속 기한이 만료된 행정규칙의 일몰제 정비\n□ 사회ㆍ행정환경 변화에 대한 대응 및 장기 경과 행정규칙에 대한 현실 적합성 제고 측면에서 업무국 의견을 수렴, 필요시 행정규칙 폐지 등 조치\n□ 일몰제 설정 고시(1)\n[그림]\n\n□ 개정 대상 행정규칙(일괄폐지(31) 후 제재정(31))\n[그림]\n",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "관광객, 일반여행자, 거주이전을 위한 입국자가 별송(別送)하는 물품(이하 \"별송품\"이라 한다)에 대한 관세의 면제를 받기 위하여 제출하는 \"입국시 휴대반입한 주요물품의 통관내역서\"(이하 \"휴대품통관확인서\"라 한다)의 발급 및 운용방법은 다음 각 호를 따른다. 1. 휴대품통관확인서는 별첨양식에 따라 발급하되 휴대품 검사 현장에서 통관 보류된 것과 과세통관된 물품이 있는 경우에는 휴대품통관확인서의 통관물품란에 그 통관 내역(과세, 면세)을 기재하고 기재할 물품이 없는 경우에는 그 사실을 기재한다. 2. 거주 이전을 목적으로 입국한 자의 별송품(이사화물)을 통관할 때에는가. 휴대품통관확인서 발급 시에 1세대 가족전체에 대한 통관내역을 신고받아 발급하도록 하고나. 별송품 통관 시에는 수입신고수리필증에 반드시 다음 표지의 고무인을 적색으로 날인한다.[그림] ３. 거주 이전 이외의 목적으로 입국하는 자(여행자)가 별송품을 통관할 때에는 휴대품통관확인서를 제출하지 아니하여도 별송품을 통관한다. 다만, 휴대품통관확인서를 제출하지 아니하는 경우에는 과세 통관한다. 4. 거주 이전 이외의 목적으로 입국하는 자(여행자)의 별송품을 통관할 때에는 출입국에 관한 “사실증명서” 또는 여권으로 입국사실을 확인한다. 여권으로 입국사실을 확인한 때에는 통관 서류에 여권 번호를 기재하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170271643",
+            "seq": "170271643",
+            "filename": "전문_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:관세법시행규칙제49조운용에관한예규#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20261006",
+      "promulgation_no": "333",
+      "content": "부칙 <제333호, 2026. 10. 6.>제1조(시행일)이 예규는 2026년 10월 8일부터 시행한다.제2조(유효기간) 이 예규는 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규를 발령한 후의 법령이나 현실 여건의 변화 등을 검토하여야 하는 2029년 10월 7일까지 효력을 가진다.",
+      "provision_id": "admrul:관세법시행규칙제49조운용에관한예규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000286632",
+      "source_version_uid": "",
+      "source_revision_type": "제정",
+      "version_enforcement_date": "20261008"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "관세법 시행규칙 제49조 운용에 관한 예규_전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170271269",
+      "filename": "관세법 시행규칙 제49조 운용에 관한 예규_전문.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/관세법 시행규칙 제49조 운용에 관한 예규_전문.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "관세법 시행규칙 제49조 운용에 관한 예규_전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170271273",
+      "filename": "관세법 시행규칙 제49조 운용에 관한 예규_전문.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/관세법 시행규칙 제49조 운용에 관한 예규_전문.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/관세법 시행규칙 제49조 운용에 관한 예규"
+  },
+  "provision_id": "admrul:관세법시행규칙제49조운용에관한예규#DOC",
+  "addendum_provision_id": "admrul:관세법시행규칙제49조운용에관한예규#ADDENDUM",
+  "amendment_provision_id": "admrul:관세법시행규칙제49조운용에관한예규#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "관세법 시행규칙 제49조 운용에 관한 예규/관세법 시행규칙 제49조 운용에 관한 예규.json"
+}
