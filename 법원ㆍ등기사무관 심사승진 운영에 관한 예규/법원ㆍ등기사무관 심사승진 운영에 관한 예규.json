@@ -828,15 +828,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145617821",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:법원등기사무관심사승진운영에관한예규#FORM0001",
       "filename": "서식1_[ 별표 제1호 서식 ] 서약서.hwp",
       "file_dir": "서식",
-      "local_path": "서식/서식1_[ 별표 제1호 서식 ] 서약서.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0002",
@@ -853,15 +858,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145617823",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:법원등기사무관심사승진운영에관한예규#FORM0002",
       "filename": "서식2_[ 별표 제2호 서식 ] 심의대상자 명단.hwp",
       "file_dir": "서식",
-      "local_path": "서식/서식2_[ 별표 제2호 서식 ] 심의대상자 명단.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0003",
@@ -878,15 +888,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145617825",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:법원등기사무관심사승진운영에관한예규#BJ0003",
       "filename": "서식3_[ 별지 제3호 서식 ] 심사승진임용후보자명부.hwp",
       "file_dir": "서식",
-      "local_path": "서식/서식3_[ 별지 제3호 서식 ] 심사승진임용후보자명부.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0004",
@@ -903,15 +918,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145617827",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:법원등기사무관심사승진운영에관한예규#BJ0004",
       "filename": "서식4_[ 별지 제4호 서식 ] 심사승진임용후보자 명단(직무역량평가 대상자).hwp",
       "file_dir": "서식",
-      "local_path": "서식/서식4_[ 별지 제4호 서식 ] 심사승진임용후보자 명단(직무역량평가 대상자).hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0005",
@@ -928,15 +948,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145617829",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:법원등기사무관심사승진운영에관한예규#BJ0005",
       "filename": "서식5_[ 별지 제5호 서식 ] 직무역량평가 결과.hwp",
       "file_dir": "서식",
-      "local_path": "서식/서식5_[ 별지 제5호 서식 ] 직무역량평가 결과.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     }
   ],
   "attachments": [],
@@ -972,5 +997,42 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "법원ㆍ등기사무관 심사승진 운영에 관한 예규/법원ㆍ등기사무관 심사승진 운영에 관한 예규.json"
+  "git_path": "법원ㆍ등기사무관 심사승진 운영에 관한 예규/법원ㆍ등기사무관 심사승진 운영에 관한 예규.json",
+  "collection_summary": {
+    "body_saved": true,
+    "completion_status": "complete_with_source_gaps",
+    "unavailable_sources": [
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145617821",
+        "filename": "서식1_[ 별표 제1호 서식 ] 서약서.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145617823",
+        "filename": "서식2_[ 별표 제2호 서식 ] 심의대상자 명단.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145617825",
+        "filename": "서식3_[ 별지 제3호 서식 ] 심사승진임용후보자명부.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145617827",
+        "filename": "서식4_[ 별지 제4호 서식 ] 심사승진임용후보자 명단(직무역량평가 대상자).hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145617829",
+        "filename": "서식5_[ 별지 제5호 서식 ] 직무역량평가 결과.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      }
+    ],
+    "completed_at": "2026-10-08T08:29:37.916832+00:00"
+  }
 }
