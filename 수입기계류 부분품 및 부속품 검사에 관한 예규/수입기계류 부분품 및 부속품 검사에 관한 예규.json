@@ -1,0 +1,114 @@
+{
+  "law_id": "2119171",
+  "mst": "2100000286608",
+  "law_name": "수입기계류 부분품 및 부속품 검사에 관한 예규",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2119171",
+  "promulgation_no": "320",
+  "promulgation_date": "20261006",
+  "enforcement_date": "20261008",
+  "revision_date": "20261006",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "관세청(통관검사과)",
+    "담당자명": "이주연",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "수입기계류 부분품 및 부속품 검사에 관한 예규",
+    "발령일자": "20261006",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200401",
+    "조문형식여부": "N",
+    "소관부처명": "관세청",
+    "전화번호": "042-481-7838",
+    "제개정구분명": "제정",
+    "소관부처코드": "1220000",
+    "생성일자": "20261008",
+    "행정규칙ID": "2119171",
+    "시행일자": "20261008",
+    "담당부서기관코드": "1221625",
+    "발령번호": "320",
+    "행정규칙일련번호": "2100000286608",
+    "상위부처명": "관세청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 사유\n「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」 제7조에 따라 일몰제 설정 관련하여 우리청 소관 행정규칙 정비(일괄 폐지 후 재제정)\n◇ 주요 개정 내용\n□ 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령 훈령) 제7조에 따라 일몰제 설정 및 존속 기한이 만료된 행정규칙의 일몰제 정비\n□ 사회ㆍ행정환경 변화에 대한 대응 및 장기 경과 행정규칙에 대한 현실 적합성 제고 측면에서 업무국 의견을 수렴, 필요시 행정규칙 폐지 등 조치\n□ 일몰제 설정 고시(1)\n[그림]\n\n□ 개정 대상 행정규칙(일괄폐지(31) 후 제재정(31))\n[그림]\n[그림]\n",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "1. 용어의 정의가. \"부분품\"이란 물품의 주체를 구성하는데 직접 필요한 부분이 되도록 만들어진 물품을 말한다.나. \"부속품\"이란 물품의 주체구성에 직접 필요한 것이 아니고 부수적으로 그 주체의 사용상 편리한 물품을 말한다.다. \"Standard accessory\"란 부속품 중 일반적으로 기계의 조작 및 작동능률 향상을 위하여 주기계에 부수되는 표준 부속품을 말하는 것으로 그 자체로서는 국제간에 상품가치를 초월하여 거래되고 상품으로서의 거래단위가 될 수 없는 범위 내에 속하는 품목과 수량을 말한다.라. \"Spare part\"는 Standard accessory\"를 제외한 해당기계의 부분품에 해당되는 것으로 예비품을 말한다. 2. 검사감정 지침가. 수입신고된 물품이 기계류로서 미조립 상태의 것은 포장명세서 제출을 원칙으로 한다. 다만, 송품장에 물품내용이 명기된 것은 예외로 한다.나. 포장명세서를 제출하지 못하거나 포장명세서가 제출되었더라도 단순히 포장번호만 나열되고 물품의 구체적인 내용이 없는 것은 검사에 필요로 하는 카탈로그나 이를 대신할 서류를 제출하여야 한다.다. 포장명세서나 카탈로그를 제출하지 않는 물품에 대해서는 전량 검사를 하는 것을 원칙으로 한다.라. 기계류 검사 시에는 수입신고한  Spare part 및 Standard Accessory를 확인하여 수입신고서에 기재되지 않은 물품에 대해서는 「수입물품 검사 등에 관한 훈령」 별지 제2호서식(검사계획 및 결과보고서)에 기재하여 담당과장에게 보고하고, C/S시스템에 등록하여야 한다.마. 카탈로그에 Standard accessory로 표시되었을지라도 일반적인 정의에 따른 표준 부속품인지의 여부는 당해물품의 기능과 용도에 따라 결정하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수입기계류부분품및부속품검사에관한예규#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20261006",
+      "promulgation_no": "320",
+      "content": "부칙 <제320호, 2026. 10. 6.>제1조(시행일)이 예규는 2026년 10월 8일부터 시행한다.제2조(유효기간) 이 예규는 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규를 발령한 후의 법령이나 현실 여건의 변화 등을 검토하여야 하는 2029년 10월 7일까지 효력을 가진다.",
+      "provision_id": "admrul:수입기계류부분품및부속품검사에관한예규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000286608",
+      "source_version_uid": "",
+      "source_revision_type": "제정",
+      "version_enforcement_date": "20261008"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "수입기계류 부분품 및 부속품 검사에 관한 예규_전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170325781",
+      "filename": "수입기계류 부분품 및 부속품 검사에 관한 예규_전문.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/수입기계류 부분품 및 부속품 검사에 관한 예규_전문.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "수입기계류 부분품 및 부속품 검사에 관한 예규_전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170325785",
+      "filename": "수입기계류 부분품 및 부속품 검사에 관한 예규_전문.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/수입기계류 부분품 및 부속품 검사에 관한 예규_전문.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/수입기계류 부분품 및 부속품 검사에 관한 예규"
+  },
+  "provision_id": "admrul:수입기계류부분품및부속품검사에관한예규#DOC",
+  "addendum_provision_id": "admrul:수입기계류부분품및부속품검사에관한예규#ADDENDUM",
+  "amendment_provision_id": "admrul:수입기계류부분품및부속품검사에관한예규#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "수입기계류 부분품 및 부속품 검사에 관한 예규/수입기계류 부분품 및 부속품 검사에 관한 예규.json"
+}
