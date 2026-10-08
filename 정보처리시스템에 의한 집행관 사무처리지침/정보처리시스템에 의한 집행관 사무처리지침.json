@@ -1063,15 +1063,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614215",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:정보처리시스템에의한집행관사무처리지침#BJ0012",
       "filename": "서식12_[별지 제12호 서식 사건별예납금등출납내역서.hwp",
       "file_dir": "서식",
-      "local_path": "서식/서식12_[별지 제12호 서식 사건별예납금등출납내역서.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0013",
@@ -1181,5 +1186,18 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "정보처리시스템에 의한 집행관 사무처리지침/정보처리시스템에 의한 집행관 사무처리지침.json"
+  "git_path": "정보처리시스템에 의한 집행관 사무처리지침/정보처리시스템에 의한 집행관 사무처리지침.json",
+  "collection_summary": {
+    "body_saved": true,
+    "completion_status": "complete_with_source_gaps",
+    "unavailable_sources": [
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614215",
+        "filename": "서식12_[별지 제12호 서식 사건별예납금등출납내역서.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      }
+    ],
+    "completed_at": "2026-10-08T08:29:37.916832+00:00"
+  }
 }
