@@ -505,15 +505,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145729053",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:장기미제공탁사건등의공탁금지급시유의사항#BJ0002",
       "filename": "별지2_[별지2].hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지2].hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     }
   ],
   "attachments": [],
@@ -549,5 +554,18 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "장기미제 공탁사건 등의 공탁금 지급시 유의사항/장기미제 공탁사건 등의 공탁금 지급시 유의사항.json"
+  "git_path": "장기미제 공탁사건 등의 공탁금 지급시 유의사항/장기미제 공탁사건 등의 공탁금 지급시 유의사항.json",
+  "collection_summary": {
+    "body_saved": true,
+    "completion_status": "complete_with_source_gaps",
+    "unavailable_sources": [
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145729053",
+        "filename": "별지2_[별지2].hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      }
+    ],
+    "completed_at": "2026-10-08T08:29:37.916832+00:00"
+  }
 }
