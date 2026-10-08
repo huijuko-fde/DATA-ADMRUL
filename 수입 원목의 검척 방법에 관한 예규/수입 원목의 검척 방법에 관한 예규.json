@@ -1,0 +1,124 @@
+{
+  "law_id": "2119145",
+  "mst": "2100000286600",
+  "law_name": "수입 원목의 검척 방법에 관한 예규",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2119145",
+  "promulgation_no": "307",
+  "promulgation_date": "20261006",
+  "enforcement_date": "20261008",
+  "revision_date": "20261006",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "관세청(통관기획과)",
+    "담당자명": "권기범",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "수입 원목의 검척 방법에 관한 예규",
+    "발령일자": "20261006",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200401",
+    "조문형식여부": "N",
+    "소관부처명": "관세청",
+    "전화번호": "042-481-7733",
+    "제개정구분명": "제정",
+    "소관부처코드": "1220000",
+    "생성일자": "20261008",
+    "행정규칙ID": "2119145",
+    "시행일자": "20261008",
+    "담당부서기관코드": "1221622",
+    "발령번호": "307",
+    "행정규칙일련번호": "2100000286600",
+    "상위부처명": "관세청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 사유\n「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」 제7조에 따라 일몰제 설정 관련하여 우리청 소관 행정규칙 정비(일괄 폐지 후 재제정)\n◇ 주요 개정 내용\n□ 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령 훈령) 제7조에 따라 일몰제 설정 및 존속 기한이 만료된 행정규칙의 일몰제 정비\n□ 사회ㆍ행정환경 변화에 대한 대응 및 장기 경과 행정규칙에 대한 현실 적합성 제고 측면에서 업무국 의견을 수렴, 필요시 행정규칙 폐지 등 조치\n□ 일몰제 설정 고시(1)\n[그림]\n\n□ 개정 대상 행정규칙(일괄폐지(31) 후 제재정(31))\n[그림]\n[그림]\n",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "1. 원목의 검척법 가. 길이의 측정법원목의 길이는 베어 낸 원목의 위쪽 끄트머리 부분(상절부; 말구(末口), 끝동부리)와 아래쪽 굵은 부분(하절부; 원구(元口), 밑동부리)간의 최단거리를 측정한다. 측정단위는 피트(feet)또는 자(尺)를 사용하고 최소측정단위는 0.5피트 또는 0.5자로 한다. 다만, 길이의 표시가 0.5피트 또는 0.5자 이하의 상세한 숫자로 표시된 것은 최소측정단위 숫자에 따른다.나. 지름(직경)의 측정법원목의 형태가 원주형과 유사한 것은 그 중앙부의 지름을 평균지름으로 하고 형태가 타원([그림])형태인 원주형 원목에 있어서는 상절부와 하절부의 각 장경(긴 지름)과 단경(짧은 지름)을 측정하여 그 평균치를 택한다. 지름의 측정단위는 인치 또는 치(寸)로 하고 최소 측정단위는 0.5인치 또는 0.5치로 한다.  2. 원목의 용적산출법 가. 용적을 Board measure(B.M; Board foot를 단위로 하는 용적 측정)법에 따라 산출할 때 나. 용적을 재수(才數)로 산출할 때길이:L(단위-자(尺)) 평균직경:dm(단위-치(寸)) 재수(才數)=dm²×L×0.06545",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170340593",
+            "seq": "170340593",
+            "filename": "전문_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:수입원목의검척방법에관한예규#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20261008",
+      "promulgation_no": "307",
+      "content": "부칙 <제307호, 2026. 10. 8.>제1조(시행일)이 예규는 2026년 10월 8일부터 시행한다.제2조(유효기간) 이 예규는 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규를 발령한 후의 법령이나 현실 여건의 변화 등을 검토하여야 하는 2029년 10월 7일까지 효력을 가진다.",
+      "provision_id": "admrul:수입원목의검척방법에관한예규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000286600",
+      "source_version_uid": "",
+      "source_revision_type": "제정",
+      "version_enforcement_date": "20261008"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "수입 원목의 검척 방법에 관한 예규_전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170311729",
+      "filename": "수입 원목의 검척 방법에 관한 예규_전문.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/수입 원목의 검척 방법에 관한 예규_전문.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "수입 원목의 검척 방법에 관한 예규_전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170311733",
+      "filename": "수입 원목의 검척 방법에 관한 예규_전문.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/수입 원목의 검척 방법에 관한 예규_전문.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/수입 원목의 검척 방법에 관한 예규"
+  },
+  "provision_id": "admrul:수입원목의검척방법에관한예규#DOC",
+  "addendum_provision_id": "admrul:수입원목의검척방법에관한예규#ADDENDUM",
+  "amendment_provision_id": "admrul:수입원목의검척방법에관한예규#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "수입 원목의 검척 방법에 관한 예규/수입 원목의 검척 방법에 관한 예규.json"
+}
