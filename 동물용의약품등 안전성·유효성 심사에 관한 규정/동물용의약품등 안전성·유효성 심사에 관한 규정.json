@@ -1645,24 +1645,30 @@
       "url": "http://law.go.kr/flDownload.do?flSeq=81840685",
       "filename": "3. 동물용의약품등 안전성유효성 심사에 관한 규정 개정안 (제2020-39호)20200811.hwp",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/3. 동물용의약품등 안전성유효성 심사에 관한 규정 개정안 (제2020-39호)20200811.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "name": "3. 조문별제개정이유서_행정규칙(동물용의약품등 안전성유효성 심사에 관한 규정)20200811.hwp",
       "url": "http://law.go.kr/flDownload.do?flSeq=81840687",
       "filename": "3. 조문별제개정이유서_행정규칙(동물용의약품등 안전성유효성 심사에 관한 규정)20200811.hwp",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/3. 조문별제개정이유서_행정규칙(동물용의약품등 안전성유효성 심사에 관한 규정)20200811.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "name": "3. 개정전 전문(동물용의약품등 안전성유효성 심사에 관한 규정).hwp",
       "url": "http://law.go.kr/flDownload.do?flSeq=81840689",
       "filename": "3. 개정전 전문(동물용의약품등 안전성유효성 심사에 관한 규정).hwp",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/3. 개정전 전문(동물용의약품등 안전성유효성 심사에 관한 규정).hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     }
   ],
   "ordinance_delegations": [],
@@ -1697,5 +1703,30 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "동물용의약품등 안전성·유효성 심사에 관한 규정/동물용의약품등 안전성·유효성 심사에 관한 규정.json"
+  "git_path": "동물용의약품등 안전성·유효성 심사에 관한 규정/동물용의약품등 안전성·유효성 심사에 관한 규정.json",
+  "collection_summary": {
+    "body_saved": true,
+    "completion_status": "complete_with_source_gaps",
+    "unavailable_sources": [
+      {
+        "url": "http://law.go.kr/flDownload.do?flSeq=81840685",
+        "filename": "3. 동물용의약품등 안전성유효성 심사에 관한 규정 개정안 (제2020-39호)20200811.hwp",
+        "reason": "provider_empty_download_after_3_attempts",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "http://law.go.kr/flDownload.do?flSeq=81840687",
+        "filename": "3. 조문별제개정이유서_행정규칙(동물용의약품등 안전성유효성 심사에 관한 규정)20200811.hwp",
+        "reason": "provider_empty_download_after_3_attempts",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "http://law.go.kr/flDownload.do?flSeq=81840689",
+        "filename": "3. 개정전 전문(동물용의약품등 안전성유효성 심사에 관한 규정).hwp",
+        "reason": "provider_empty_download_after_3_attempts",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      }
+    ],
+    "completed_at": "2026-10-08T08:29:37.916832+00:00"
+  }
 }
