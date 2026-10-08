@@ -89,15 +89,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=47440540",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_empty_download_after_3_attempts",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:일반수도사업변경인가(도남정수장확장사업)#ATT0000",
       "filename": "붙임0_수용·사용할 토지 등의 조서.hwp",
       "file_dir": "붙임",
-      "local_path": "붙임/붙임0_수용·사용할 토지 등의 조서.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     }
   ],
   "attachments": [
@@ -143,5 +148,18 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "일반수도사업 변경인가(도남정수장 확장사업)/일반수도사업 변경인가(도남정수장 확장사업).json"
+  "git_path": "일반수도사업 변경인가(도남정수장 확장사업)/일반수도사업 변경인가(도남정수장 확장사업).json",
+  "collection_summary": {
+    "body_saved": true,
+    "completion_status": "complete_with_source_gaps",
+    "unavailable_sources": [
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=47440540",
+        "filename": "붙임0_수용·사용할 토지 등의 조서.hwp",
+        "reason": "provider_empty_download_after_3_attempts",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      }
+    ],
+    "completed_at": "2026-10-08T08:29:37.916832+00:00"
+  }
 }
