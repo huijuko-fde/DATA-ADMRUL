@@ -556,15 +556,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:호적용지로작성된무연고호적제적등의전산화를위한개제등에관한사무처리지침#ETC0018",
       "filename": "기타18_[별표] 종이제적 등 전산입력 표준 및 자료 제출방법.hwp",
       "file_dir": "기타",
-      "local_path": "기타/기타18_[별표] 종이제적 등 전산입력 표준 및 자료 제출방법.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     }
   ],
   "attachments": [],
@@ -597,5 +602,18 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "호적용지로 작성된 무연고 호적ㆍ제적 등의 전산화를 위한 개제 등에 관한 사무처리 지침/호적용지로 작성된 무연고 호적ㆍ제적 등의 전산화를 위한 개제 등에 관한 사무처리 지침.json"
+  "git_path": "호적용지로 작성된 무연고 호적ㆍ제적 등의 전산화를 위한 개제 등에 관한 사무처리 지침/호적용지로 작성된 무연고 호적ㆍ제적 등의 전산화를 위한 개제 등에 관한 사무처리 지침.json",
+  "collection_summary": {
+    "body_saved": true,
+    "completion_status": "complete_with_source_gaps",
+    "unavailable_sources": [
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
+        "filename": "기타18_[별표] 종이제적 등 전산입력 표준 및 자료 제출방법.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      }
+    ],
+    "completed_at": "2026-10-08T08:29:37.916832+00:00"
+  }
 }
