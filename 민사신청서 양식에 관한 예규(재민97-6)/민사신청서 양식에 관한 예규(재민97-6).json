@@ -149,15 +149,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:민사신청서양식에관한예규(재민97-6)#BJ0001_01",
       "filename": "별지1의1_[별지 1-1] 지급명령신청서.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지1의1_[별지 1-1] 지급명령신청서.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0001",
@@ -174,15 +179,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:민사신청서양식에관한예규(재민97-6)#BJ0001_02",
       "filename": "별지1의2_[별지 1-2] 지급명령에 대한 이의신청서.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지1의2_[별지 1-2] 지급명령에 대한 이의신청서.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0002",
@@ -199,15 +209,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:민사신청서양식에관한예규(재민97-6)#BJ0002",
       "filename": "별지2_[별지 2] 공시최고신청서.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 공시최고신청서.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0004",
@@ -224,15 +239,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:민사신청서양식에관한예규(재민97-6)#BJ0004_01",
       "filename": "별지4의1_[별지 4-1] 채권압류 및 추심명령신청서.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지4의1_[별지 4-1] 채권압류 및 추심명령신청서.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0004",
@@ -249,15 +269,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:민사신청서양식에관한예규(재민97-6)#BJ0004_02",
       "filename": "별지4의2_[별지 4-2] 채권압류 및 전부명령신청서.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지4의2_[별지 4-2] 채권압류 및 전부명령신청서.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0004",
@@ -274,15 +299,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:민사신청서양식에관한예규(재민97-6)#BJ0004_03",
       "filename": "별지4의3_[별지 4-3] 부동산강제경매신청서.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지4의3_[별지 4-3] 부동산강제경매신청서.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0004",
@@ -299,15 +329,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:민사신청서양식에관한예규(재민97-6)#BJ0004_04",
       "filename": "별지4의4_[별지 4-4] 부동산임의경매신청서.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지4의4_[별지 4-4] 부동산임의경매신청서.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0004",
@@ -324,15 +359,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:민사신청서양식에관한예규(재민97-6)#BJ0004_05",
       "filename": "별지4의5_[별지 4-5] 권리신고 및 배당요구신청서.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지4의5_[별지 4-5] 권리신고 및 배당요구신청서.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0009",
@@ -386,5 +426,60 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "민사신청서 양식에 관한 예규(재민97-6)/민사신청서 양식에 관한 예규(재민97-6).json"
+  "git_path": "민사신청서 양식에 관한 예규(재민97-6)/민사신청서 양식에 관한 예규(재민97-6).json",
+  "collection_summary": {
+    "body_saved": true,
+    "completion_status": "complete_with_source_gaps",
+    "unavailable_sources": [
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
+        "filename": "별지1의1_[별지 1-1] 지급명령신청서.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
+        "filename": "별지1의2_[별지 1-2] 지급명령에 대한 이의신청서.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
+        "filename": "별지2_[별지 2] 공시최고신청서.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
+        "filename": "별지4의1_[별지 4-1] 채권압류 및 추심명령신청서.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
+        "filename": "별지4의2_[별지 4-2] 채권압류 및 전부명령신청서.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
+        "filename": "별지4의3_[별지 4-3] 부동산강제경매신청서.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
+        "filename": "별지4의4_[별지 4-4] 부동산임의경매신청서.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      },
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
+        "filename": "별지4의5_[별지 4-5] 권리신고 및 배당요구신청서.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      }
+    ],
+    "completed_at": "2026-10-08T08:29:37.916832+00:00"
+  }
 }
