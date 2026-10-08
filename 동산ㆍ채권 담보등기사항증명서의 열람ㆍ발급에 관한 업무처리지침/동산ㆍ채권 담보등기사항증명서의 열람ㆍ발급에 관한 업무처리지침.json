@@ -1206,7 +1206,10 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145619449",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
@@ -1215,8 +1218,10 @@
       "appendix_instance_id": "admrul:동산채권담보등기사항증명서의열람발급에관한업무처리지침#FRM0007:file:145619449",
       "filename": "양식7_[별지 제7호 양식]_flSeq145619449.hwp",
       "file_dir": "양식",
-      "local_path": "양식/양식7_[별지 제7호 양식]_flSeq145619449.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     },
     {
       "no": "0008",
@@ -1979,5 +1984,18 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "동산ㆍ채권 담보등기사항증명서의 열람ㆍ발급에 관한 업무처리지침/동산ㆍ채권 담보등기사항증명서의 열람ㆍ발급에 관한 업무처리지침.json"
+  "git_path": "동산ㆍ채권 담보등기사항증명서의 열람ㆍ발급에 관한 업무처리지침/동산ㆍ채권 담보등기사항증명서의 열람ㆍ발급에 관한 업무처리지침.json",
+  "collection_summary": {
+    "body_saved": true,
+    "completion_status": "complete_with_source_gaps",
+    "unavailable_sources": [
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145619449",
+        "filename": "양식7_[별지 제7호 양식]_flSeq145619449.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      }
+    ],
+    "completed_at": "2026-10-08T08:29:37.916832+00:00"
+  }
 }
