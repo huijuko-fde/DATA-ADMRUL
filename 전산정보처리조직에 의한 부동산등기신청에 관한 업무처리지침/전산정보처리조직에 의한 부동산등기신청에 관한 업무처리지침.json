@@ -836,15 +836,20 @@
           "type": "hwp",
           "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
           "name": "",
-          "file_store_url": ""
+          "file_store_url": "",
+          "download_status": "source_unavailable",
+          "download_error": "provider_reports_file_missing",
+          "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
         }
       ],
       "images": [],
       "provision_id": "admrul:전산정보처리조직에의한부동산등기신청에관한업무처리지침#BJ0004",
       "filename": "별지4_별지 제4호.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지4_별지 제4호.hwp",
-      "file_store_url": ""
+      "file_store_url": "",
+      "download_status": "source_unavailable",
+      "download_error": "provider_source_unavailable",
+      "source_checked_at": "2026-10-08T08:29:37.916832+00:00"
     }
   ],
   "attachments": [],
@@ -879,5 +884,18 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "전산정보처리조직에 의한 부동산등기신청에 관한 업무처리지침/전산정보처리조직에 의한 부동산등기신청에 관한 업무처리지침.json"
+  "git_path": "전산정보처리조직에 의한 부동산등기신청에 관한 업무처리지침/전산정보처리조직에 의한 부동산등기신청에 관한 업무처리지침.json",
+  "collection_summary": {
+    "body_saved": true,
+    "completion_status": "complete_with_source_gaps",
+    "unavailable_sources": [
+      {
+        "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=0",
+        "filename": "별지4_별지 제4호.hwp",
+        "reason": "provider_reports_file_missing",
+        "checked_at": "2026-10-08T08:29:37.916832+00:00"
+      }
+    ],
+    "completed_at": "2026-10-08T08:29:37.916832+00:00"
+  }
 }
