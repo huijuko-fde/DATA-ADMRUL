@@ -1,0 +1,91 @@
+{
+  "law_id": "2060088",
+  "mst": "2100000286658",
+  "law_name": "영구기록물관리기관 기능 및 업무절차에 관한 표준",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2060088",
+  "promulgation_no": "2026-7",
+  "promulgation_date": "20261008",
+  "enforcement_date": "20261008",
+  "revision_date": "20261008",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국가기록원(정책기획과)",
+    "담당자명": "이재진",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "영구기록물관리기관 기능 및 업무절차에 관한 표준",
+    "발령일자": "20261008",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국가기록원",
+    "전화번호": "042-481-6231",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1741000",
+    "생성일자": "20261012",
+    "행정규칙ID": "2060088",
+    "시행일자": "20261008",
+    "담당부서기관코드": "1741070",
+    "발령번호": "2026-7",
+    "행정규칙일련번호": "2100000286658",
+    "상위부처명": "행정안전부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 이유\n- 이 표준의 4차 개정(2022년) 이후 개정ㆍ시행된 「공공기록물법령」, 기록물관리 표준 정비(폐지, 통합, 제목 변경 등) 내용 등을 반영\n◇ 주요내용\n가. 표준 문서로서의 성격을 명확하게 하기 위해 제목 변경\n나. 공공기록물법 시행령 개정 사항 반영\n다. 관계 규정 개정 반영 및 인용ㆍ연계표준 현행화",
+  "body": {
+    "format": "articles",
+    "article_count": 0,
+    "articles": []
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "국가기록원고시제2026-7호(기록물관리 표준 개정 확정 고시).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170356027",
+      "filename": "국가기록원고시제2026-7호(기록물관리 표준 개정 확정 고시).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국가기록원고시제2026-7호(기록물관리 표준 개정 확정 고시).pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "NAK 9 2026(v2.4) 영구기록물관리기관 기능 및 업무절차에 관한 표준.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170356023",
+      "filename": "NAK 9 2026(v2.4) 영구기록물관리기관 기능 및 업무절차에 관한 표준.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/NAK 9 2026(v2.4) 영구기록물관리기관 기능 및 업무절차에 관한 표준.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 0,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/영구기록물관리기관 기능 및 업무절차에 관한 표준"
+  },
+  "provision_id": "admrul:영구기록물관리기관기능및업무절차에관한표준#DOC",
+  "addendum_provision_id": "admrul:영구기록물관리기관기능및업무절차에관한표준#ADDENDUM",
+  "amendment_provision_id": "admrul:영구기록물관리기관기능및업무절차에관한표준#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "영구기록물관리기관 기능 및 업무절차에 관한 표준/영구기록물관리기관 기능 및 업무절차에 관한 표준.json"
+}
