@@ -9,7 +9,7 @@
   "adm_uid": "admrul:97475",
   "promulgation_no": "2026-107",
   "promulgation_date": "20261008",
-  "enforcement_date": "20261007",
+  "enforcement_date": "20261008",
   "revision_date": "20261008",
   "revision_type": "일부개정",
   "is_current": true,
@@ -27,9 +27,9 @@
     "전화번호": "044-215-4463",
     "제개정구분명": "일부개정",
     "소관부처코드": "1053000",
-    "생성일자": "20261008",
+    "생성일자": "20261021",
     "행정규칙ID": "97475",
-    "시행일자": "20261007",
+    "시행일자": "20261008",
     "담당부서기관코드": "1053106",
     "발령번호": "2026-107",
     "행정규칙일련번호": "2100000285814",
@@ -65,15 +65,15 @@
   },
   "addenda": [
     {
-      "promulgation_date": "20261007",
+      "promulgation_date": "20261008",
       "promulgation_no": "2026-107",
-      "content": "부칙 <제2026-107호, 2026. 10. 7.>이 규정은 고시한 날부터 시행한다.",
+      "content": "부칙 <제2026-107호, 2026. 10. 8.>이 규정은 고시한 날부터 시행한다.",
       "provision_id": "admrul:중국산아연및아연합금표면처리냉간압연제품에대한잠정덤핑방지관세부과기간연장#ADDENDUM",
       "is_future": false,
       "source_mst": "2100000285814",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20261007"
+      "version_enforcement_date": "20261008"
     }
   ],
   "appendices": [],
