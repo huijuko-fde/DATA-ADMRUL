@@ -1,25 +1,25 @@
 {
   "law_id": "35600",
-  "mst": "2100000245332",
+  "mst": "2100000286078",
   "law_name": "헌법소원 등과 관련된 업무처리지침",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:35600",
-  "promulgation_no": "1445",
-  "promulgation_date": "20240801",
-  "enforcement_date": "20240801",
-  "revision_date": "20240801",
+  "promulgation_no": "117",
+  "promulgation_date": "20261002",
+  "enforcement_date": "20261008",
+  "revision_date": "20261002",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "공소청(공판2과)",
-    "담당자명": "김성수",
+    "담당자명": "윤양희",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "헌법소원 등과 관련된 업무처리지침",
-    "발령일자": "20240801",
+    "발령일자": "20261002",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -29,14 +29,14 @@
     "소관부처코드": "1282000",
     "생성일자": "20261008",
     "행정규칙ID": "35600",
-    "시행일자": "20240801",
-    "담당부서기관코드": "1281677",
-    "발령번호": "1445",
-    "행정규칙일련번호": "2100000245332",
+    "시행일자": "20261008",
+    "담당부서기관코드": "1282025",
+    "발령번호": "117",
+    "행정규칙일련번호": "2100000286078",
     "상위부처명": "공소청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정 이유\n○ 지침 재검토기한(2023. 11. 3.) 도과하여 이를 갱신\n○ 일부 바뀐 부서명칭 및 개정된 법률조항 반영하여 조문 수정\n○ 가독성을 높이기 위해 보고서 양식으로 되어 있는 지침을 법률규정 양식으로 개정\n◇ 주요내용\n○ 대검 직제개편 반영하여 소관부서를 공판송무과에서 공판2과로 변경\n○ 헌재가 검사의 불기소처분을 취소하는 경우 항고ㆍ재항고 사건 재기하여 처리한 것에 준하여 보고하도록 규정과 관련하여 준용규정을 검찰사건사무규칙 제91조 제5항에서 내용은 동일하게 유지된 채 제148조 제5항으로 개정된 점을 지침에 반영",
+  "revision_reason": "◇ 개정 이유\n○ 「공소청법」(법률 제21490호) 시행(2026. 10. 2.)에 따라 종전의 검찰청 조직이 공소청ㆍ광역공소청ㆍ지방공소청 체제로 개편됨에 따라, 이 예규에서 사용하는 기관 명칭 및 인용 규칙 제명 등을 정비할 필요\n○ 「헌법재판소법」 개정에 따른 재판소원 제도 도입을 반영하여 의견서 작성 주체, 가처분 및 재판소원 인용 결정에 대한 조치 등 관련 업무처리 절차를 마련하고, 헌법재판소 제출 기록의 송부 절차를 실제 업무처리 방식에 맞게 정비할 필요\n◇ 주요내용\n○ 기관 명칭, 인용 규칙 제명 및 용어 정비(제5조, 제6조, 제8조제2항, 제12조, 별지서식 제2호)\n○ 재판소원 관련 규정 신설ㆍ정비(제4조, 제11조)\n○ 헌법재판소 제출 기록 송부 절차 정비(제5조)\n○ 재검토기한 정비(제13조)",
   "body": {
     "format": "articles",
     "article_count": 13,
@@ -48,7 +48,28 @@
         "chapter_path": "",
         "content": "제1조(목적) 본 지침은 「헌법재판소법」 시행에 따른 각종 위헌법률심판의 제청, 헌법소원에 관련된 세부처리 지침을 마련하여 절차의 통일과 적정을 기하고 효율적 운영을 도모하고자 함을 그 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「헌법재판소법」",
+            "line_text": "",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35600",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0001",
+            "reference_id": "law:헌법재판소법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0001"
       },
@@ -70,7 +91,33 @@
         "chapter_path": "",
         "content": "제3조(사건수리) 위헌심판제청서 또는 헌법소원의 청구서가 송달되면 사건과 담당 공무원은 별지 제1호 및 제2호 양식에 의하여 위헌제청 또는 헌법소원 사건접수부에 접수한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별지 제1호",
+            "line_text": "",
+            "target_law_name": "헌법소원 등과 관련된 업무처리지침",
+            "target_article_no": "별지1",
+            "target_article_title": "위헌제청사건 접수부",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "35600",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170101999",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0003",
+            "target_unit": "BJ0001",
+            "reference_id": "admrul:헌법소원등과관련된업무처리지침#BJ0001",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "헌법소원 등과 관련된 업무처리지침/헌법소원 등과 관련된 업무처리지침.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0003"
       },
@@ -79,54 +126,215 @@
         "article_title": "의견서 또는 답변서 작성",
         "chapter": "",
         "chapter_path": "",
-        "content": "제4조(의견서 또는 답변서 작성) 위헌법률심판제청에 대한 의견서는 공소제기 검사가 작성하고, 헌법소원의 답변서는 불기소처분 검사가 작성한다.",
+        "content": "제4조(의견서 또는 답변서 작성) 「헌법재판소법」 제41조에 따른 위헌여부심판의 제청과 같은 법 제68조제2항에 따른 헌법소원심판의 청구에 대해서는 공소를 제기한 검사가, 같은 법 제68조제3항의 확정재판에 대한 헌법소원심판 청구에 대해서는 그 재판과 관련된 공소제기, 불기소결정, 청구 또는 신청 등 처분을 한 검사가 의견서를, 같은 법 제68조제1항에 따른 헌법소원심판의 청구에 대해서는 불기소결정을 한 검사가 답변서를 각각 작성한다.",
         "enforcement_date": "",
-        "relations": [],
-        "images": [],
-        "provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0004",
-        "scheduled": [
+        "relations": [
           {
-            "enforcement_date": "20261008",
-            "change": "개정",
-            "content": "제4조(의견서 또는 답변서 작성) 「헌법재판소법」 제41조에 따른 위헌여부심판의 제청과 같은 법 제68조제2항에 따른 헌법소원심판의 청구에 대해서는 공소를 제기한 검사가, 같은 법 제68조제3항의 확정재판에 대한 헌법소원심판 청구에 대해서는 그 재판과 관련된 공소제기, 불기소결정, 청구 또는 신청 등 처분을 한 검사가 의견서를, 같은 법 제68조제1항에 따른 헌법소원심판의 청구에 대해서는 불기소결정을 한 검사가 답변서를 각각 작성한다."
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「헌법재판소법」",
+            "line_text": "",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35600",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0004",
+            "reference_id": "law:헌법재판소법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제41조",
+            "line_text": "",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "제41조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35600",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법/제41조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0004",
+            "reference_id": "law:헌법재판소법#JO0041",
+            "target_repo": "LAW",
+            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "같은 법",
+            "line_text": "",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35600",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0004",
+            "reference_id": "law:헌법재판소법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제68조제2항",
+            "line_text": "",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "제68조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35600",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법/제68조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0004",
+            "reference_id": "law:헌법재판소법#JO0068",
+            "target_repo": "LAW",
+            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "같은 법",
+            "line_text": "",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35600",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0004",
+            "reference_id": "law:헌법재판소법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제68조제3항",
+            "line_text": "",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "제68조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35600",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법/제68조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0004",
+            "reference_id": "law:헌법재판소법#JO0068",
+            "target_repo": "LAW",
+            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "같은 법",
+            "line_text": "",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35600",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0004",
+            "reference_id": "law:헌법재판소법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제68조제1항",
+            "line_text": "",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "제68조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35600",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법/제68조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0004",
+            "reference_id": "law:헌법재판소법#JO0068",
+            "target_repo": "LAW",
+            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json"
           }
-        ]
+        ],
+        "images": [],
+        "provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0004"
       },
       {
         "article_no": "제5조",
         "article_title": "기록 등 송부",
         "chapter": "",
         "chapter_path": "",
-        "content": "제5조(기록 등 송부) ① 「헌법재판소법」 제44조에 의거 당해 소송사건의 당사자로 제출하는 위헌법률심판제청 사건의 의견서 또는 동법 제29조에 따른 헌법소원의 피청구인 답변서 및 이에 관련된 기록을 헌법재판소에 송부할 때는 제출기간 10일전까지 대검찰청을 경유하여 송부한다.② 대검찰청에 위 답변서 등이 접수되면 재항고를 기각한 대검찰청 검사가 기록을 검토하여 증거관계 등 서류 보완 후 대검찰청 공판송무부 공판2과에서 헌법재판소에 송부한다.",
+        "content": "제5조(기록 등 송부) 제4조에 따른 의견서 또는 답변서를 헌법재판소에 송부하는 경우에는 제출기한 10일전까지 공소청을 경유하여 송부하고, 관련된 기록은 헌법재판소에 직접 송부한다.",
         "enforcement_date": "",
-        "relations": [],
-        "images": [],
-        "provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0005",
-        "scheduled": [
+        "relations": [
           {
-            "enforcement_date": "20261008",
-            "change": "개정",
-            "content": "제5조(기록 등 송부) 제4조에 따른 의견서 또는 답변서를 헌법재판소에 송부하는 경우에는 제출기한 10일전까지 공소청을 경유하여 송부하고, 관련된 기록은 헌법재판소에 직접 송부한다."
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "헌법소원 등과 관련된 업무처리지침",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35600",
+            "target_url": "https://www.law.go.kr/행정규칙/헌법소원 등과 관련된 업무처리지침/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0005",
+            "reference_id": "admrul:헌법소원등과관련된업무처리지침#JO0004",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "헌법소원 등과 관련된 업무처리지침/헌법소원 등과 관련된 업무처리지침.json"
           }
-        ]
+        ],
+        "images": [],
+        "provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0005"
       },
       {
         "article_no": "제6조",
-        "article_title": "위헌결정시 수사 중인 사건에 대한 조치",
+        "article_title": "위헌결정시 검토 중인 사건에 대한 조치",
         "chapter": "",
         "chapter_path": "",
-        "content": "제6조(위헌결정시 수사 중인 사건에 대한 조치) 수사중인 사건은 혐의없음 결정을 한다. 다만, 가중처벌규정만이 위헌결정된 경우에는 기본구성요건을 정한 규정으로 의율하여 처리한다.",
+        "content": "제6조(위헌결정시 검토 중인 사건에 대한 조치) 공소제기 여부 결정을 위해 검사가 검토 중인 사건은 혐의없음 결정을 한다. 다만, 가중처벌규정만이 위헌결정된 경우에는 기본구성요건을 정한 규정으로 의율하여 처리한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0006",
-        "scheduled": [
-          {
-            "enforcement_date": "20261008",
-            "change": "개정",
-            "content": "제6조(위헌결정시 검토 중인 사건에 대한 조치) 공소제기 여부 결정을 위해 검사가 검토 중인 사건은 혐의없음 결정을 한다. 다만, 가중처벌규정만이 위헌결정된 경우에는 기본구성요건을 정한 규정으로 의율하여 처리한다."
-          }
-        ]
+        "provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0006"
       },
       {
         "article_no": "제7조",
@@ -144,25 +352,18 @@
         "article_title": "위헌결정시 재판 확정된 사건에 대한 조치",
         "chapter": "",
         "chapter_path": "",
-        "content": "제8조(위헌결정시 재판 확정된 사건에 대한 조치) ① 재판이 확정되었으나 집행 전인 사건은 형의 집행을 면제하고, 집행 중인 사건은 잔형의 집행을 면제한다. 다만, 경합범(상상적 경합을 포함한다)으로 1개의 형이 선고된 경우나 가중처벌규정만이 위헌결정된 경우에는 그러하지 아니하다.② 위헌법률심판에 의하여 형벌에 관한 법률 또는 법률조항이 위헌결정된 경우 대검찰청 홈페이지 등을 통하여 대상 법률 또는 법률조항을 적용한 유죄확정판결에 대한 재심청구가 가능하다는 사실과 재심청구 절차를 고지한다.③ 위헌법률심판 또는 헌법소원에 의하여 위헌결정된 법률 또는 법률조항을 적용한 유죄확정판결에 근거하여 사형 집행 전인 사건, 자유형 집행 전이거나 집행 중인 사건, 노역장 유치 집행 중인 사건의 당사자로서 재심청구권을 갖는 자에 대하여는 전항의 고지 내용을 개별 통지한다.",
+        "content": "제8조(위헌결정시 재판 확정된 사건에 대한 조치) ① 재판이 확정되었으나 집행 전인 사건은 형의 집행을 면제하고, 집행 중인 사건은 잔형의 집행을 면제한다. 다만, 경합범(상상적 경합을 포함한다)으로 1개의 형이 선고된 경우나 가중처벌규정만이 위헌결정된 경우에는 그러하지 아니하다.② 위헌법률심판에 의하여 형벌에 관한 법률 또는 법률조항이 위헌결정된 경우 공소청 홈페이지 등을 통하여 대상 법률 또는 법률조항을 적용한 유죄확정판결에 대한 재심청구가 가능하다는 사실과 재심청구 절차를 고지한다.③ 위헌법률심판 또는 헌법소원에 의하여 위헌결정된 법률 또는 법률조항을 적용한 유죄확정판결에 근거하여 사형 집행 전인 사건, 자유형 집행 전이거나 집행 중인 사건, 노역장 유치 집행 중인 사건의 당사자로서 재심청구권을 갖는 자에 대하여는 전항의 고지 내용을 개별 통지한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0008",
-        "scheduled": [
-          {
-            "enforcement_date": "20261008",
-            "change": "개정",
-            "content": "제8조(위헌결정시 재판 확정된 사건에 대한 조치) ① 재판이 확정되었으나 집행 전인 사건은 형의 집행을 면제하고, 집행 중인 사건은 잔형의 집행을 면제한다. 다만, 경합범(상상적 경합을 포함한다)으로 1개의 형이 선고된 경우나 가중처벌규정만이 위헌결정된 경우에는 그러하지 아니하다.② 위헌법률심판에 의하여 형벌에 관한 법률 또는 법률조항이 위헌결정된 경우 공소청 홈페이지 등을 통하여 대상 법률 또는 법률조항을 적용한 유죄확정판결에 대한 재심청구가 가능하다는 사실과 재심청구 절차를 고지한다.③ 위헌법률심판 또는 헌법소원에 의하여 위헌결정된 법률 또는 법률조항을 적용한 유죄확정판결에 근거하여 사형 집행 전인 사건, 자유형 집행 전이거나 집행 중인 사건, 노역장 유치 집행 중인 사건의 당사자로서 재심청구권을 갖는 자에 대하여는 전항의 고지 내용을 개별 통지한다."
-          }
-        ]
+        "provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0008"
       },
       {
         "article_no": "제9조",
         "article_title": "위헌결정 후 재심절차가 개시된 사건에 대한 조치",
         "chapter": "",
         "chapter_path": "",
-        "content": "제9조(위헌결정 후 재심절차가 개시된 사건에 대한 조치) ① 재심절차가 개시된 사건은 가중처벌규정만이 위헌결정된 경우에는 기본구성요건을 정한 규정으로 적용법조를 변경하기 위하여 공소장 변경을 신청한다. 다만, 기본구성요건을 정한 규정에 의할 경우 공소시효가 완성된 사건에 대하여는 공소장 변경을 신청하지 아니한다.②경합범(상상적 경합을 포함한다)으로 1개의 형이 선고된 경우나 가중처벌규정만이 위헌결정된 경우로서 형 또는 잔형의 집행이 면제되지 아니한 사건에 대하여는 필요한 경우 재판이 있을 때까지 형 또는 잔형의 집행을 정지할 수 있다.",
+        "content": "제9조(위헌결정 후 재심절차가 개시된 사건에 대한 조치) ① 재심절차가 개시된 사건은 가중처벌규정만이 위헌결정된 경우에는 기본구성요건을 정한 규정으로 적용법조를 변경하기 위하여 공소장 변경을 신청한다. 다만, 기본구성요건을 정한 규정에 의할 경우 공소시효가 완성된 사건에 대하여는 공소장 변경을 신청하지 아니한다.② 경합범(상상적 경합을 포함한다)으로 1개의 형이 선고된 경우나 가중처벌규정만이 위헌결정된 경우로서 형 또는 잔형의 집행이 면제되지 아니한 사건에 대하여는 필요한 경우 재판이 있을 때까지 형 또는 잔형의 집행을 정지할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -181,39 +382,106 @@
       },
       {
         "article_no": "제11조",
-        "article_title": "검사의 불기소처분 취소결정에 대한 조치",
+        "article_title": "가처분 및 재판소원 인용에 대한 조치",
         "chapter": "",
         "chapter_path": "",
-        "content": "제11조(검사의 불기소처분 취소결정에 대한 조치) ① 불기소처분청이 헌법재판소로부터 불기소처분 취소결정을 통지받으면 소속 검찰청의 장은 지체 없이 주임검사를 지정하여 불기소처분된 사건을 재기하여 수사한다. 이때 재기사유는 \"헌법재판소의 불기소처분 취소결정\"으로 한다.② 재기한 사건을 수사하여 처리할 때에는 통상의 사건처리절차에 따르되 처리결과는 검찰사건사무규칙 제148조 제5항의 규정에 준하여 고등검찰청의 장 및 검찰총장에게 보고한다.",
+        "content": "제11조(가처분 및 재판소원 인용에 대한 조치) 「헌법재판소법」 제71조의2에 따른 가처분 인용 결정 및 같은 법 제75조제4항에 따른 헌법소원 인용 결정이 있을 경우, 결정문이 송달되는 즉시 석방지휘 등 필요한 조치를 하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
-        "images": [],
-        "provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0011",
-        "scheduled": [
+        "relations": [
           {
-            "enforcement_date": "20261008",
-            "change": "개정",
-            "content": "제11조(가처분 및 재판소원 인용에 대한 조치) 「헌법재판소법」 제71조의2에 따른 가처분 인용 결정 및 같은 법 제75조제4항에 따른 헌법소원 인용 결정이 있을 경우, 결정문이 송달되는 즉시 석방지휘 등 필요한 조치를 하여야 한다."
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "「헌법재판소법」",
+            "line_text": "",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35600",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0011",
+            "reference_id": "law:헌법재판소법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제71조의2",
+            "line_text": "",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "제71조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35600",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법/제71조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0011",
+            "reference_id": "law:헌법재판소법#JO0071_02",
+            "target_repo": "LAW",
+            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "같은 법",
+            "line_text": "",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35600",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0011",
+            "reference_id": "law:헌법재판소법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제75조제4항",
+            "line_text": "",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "제75조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35600",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법/제75조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0011",
+            "reference_id": "law:헌법재판소법#JO0075",
+            "target_repo": "LAW",
+            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json"
           }
-        ]
+        ],
+        "images": [],
+        "provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0011"
       },
       {
         "article_no": "제12조",
-        "article_title": "시행일 및 재검토기한",
+        "article_title": "검사의 불기소처분 취소결정에 대한 조치",
         "chapter": "",
         "chapter_path": "",
-        "content": "제12조(시행일 및 재검토기한) ① 이 예규는 2024년 8월 1일부터 시행한다.② 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제394호)에 따라 이 예규의 법령이나 현실 여건의 변화 등을 검토하여 이 예규의 폐지, 개정 등의 조치를 하여야 하는 기한은 2027년 12월 31일까지로 한다.",
+        "content": "제12조(검사의 불기소처분 취소결정에 대한 조치) ① 불기소처분청이 헌법재판소로부터 불기소처분 취소결정을 통지받으면 소속 공소청의 장은 지체 없이 주임검사를 지정하여 불기소처분된 사건을 재기하여 보완수사요구 등 필요한 조치를 하여야 한다. 이때 재기사유는 \"헌법재판소의 불기소처분 취소결정\"으로 한다.② 재기한 사건을 처리할 때에는 통상의 사건처리절차에 따르되 처리결과는 공소청사건사무규칙 제148조 제5항의 규정에 준하여 광역공소청의 장 및 검찰총장에게 보고한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0012",
-        "scheduled": [
-          {
-            "enforcement_date": "20261008",
-            "change": "개정",
-            "content": "제12조(검사의 불기소처분 취소결정에 대한 조치) ① 불기소처분청이 헌법재판소로부터 불기소처분 취소결정을 통지받으면 소속 공소청의 장은 지체 없이 주임검사를 지정하여 불기소처분된 사건을 재기하여 보완수사요구 등 필요한 조치를 하여야 한다. 이때 재기사유는 \"헌법재판소의 불기소처분 취소결정\"으로 한다.② 재기한 사건을 처리할 때에는 통상의 사건처리절차에 따르되 처리결과는 공소청사건사무규칙 제148조 제5항의 규정에 준하여 광역공소청의 장 및 검찰총장에게 보고한다."
-          }
-        ]
+        "provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0012"
       },
       {
         "article_no": "제13조",
@@ -222,17 +490,30 @@
         "chapter_path": "",
         "content": "제13조(재검토기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규에 대하여 2027년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
-        "images": [],
-        "provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0013",
-        "future_only": true,
-        "scheduled": [
+        "relations": [
           {
-            "enforcement_date": "20261008",
-            "change": "신설",
-            "content": "제13조(재검토기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규에 대하여 2027년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다."
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "35600",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0013",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
           }
-        ]
+        ],
+        "images": [],
+        "provision_id": "admrul:헌법소원등과관련된업무처리지침#JO0013"
       }
     ]
   },
@@ -243,10 +524,10 @@
       "content": "부칙 <제490호,2009. 10. 30.>제1조(시행일) 이 예규는 2009년 11월 2일부터 시행한다제2조(재검토기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호)에 따라 이 예규의 법령이나 현실 여건의 변화 등을 검토하여 이 예규의 폐지, 개정 등의 조치를 하여야 하는 기한은 2012년 11월 1일까지로 한다",
       "provision_id": "admrul:헌법소원등과관련된업무처리지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000245332",
+      "source_mst": "2100000286078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240801"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20111103",
@@ -254,10 +535,10 @@
       "content": "부칙 <제570호,2011. 11. 3.>제1조(시행일) 이 예규는 2011년 11월 3일부터 시행한다.제2조(재검토기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호)에 따라 이 예규의 법령이나 현실 여건의 변화 등을 검토하여 이 예규의 폐지, 개정 등의 조치를 하여야 하는 기한은 2014년 11월  3일까지로 한다.",
       "provision_id": "admrul:헌법소원등과관련된업무처리지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000245332",
+      "source_mst": "2100000286078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240801"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20141103",
@@ -265,10 +546,10 @@
       "content": "부칙 <제746호,2014. 11. 3.>제1조(시행일) 이 예규는 2014년 11월 4일부터 시행한다.제2조(재검토기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호)에 따라 이 예규의 법령이나 현실 여건의 변화 등을 검토하여 이 예규의 폐지, 개정 등의 조치를 하여야 하는 기한은 2017년 11월  3일까지로 한다.",
       "provision_id": "admrul:헌법소원등과관련된업무처리지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000245332",
+      "source_mst": "2100000286078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240801"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20171103",
@@ -276,21 +557,21 @@
       "content": "부칙 <제905호,2017. 11. 3.>제1조(시행일) 이 예규는 2017년 11월 4일부터 시행한다.제2조(재검토기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호)에 따라 이 예규의 법령이나 현실 여건의 변화 등을 검토하여 이 예규의 폐지, 개정 등의 조치를 하여야 하는 기한은 2020년 11월  3일까지로 한다.",
       "provision_id": "admrul:헌법소원등과관련된업무처리지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000245332",
+      "source_mst": "2100000286078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240801"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20201104",
       "promulgation_no": "1132",
-      "content": "부칙 <제1132호,2020. 11. 4.>제1조(시행일) 이 예규는 2020년 11월 4일부터 시행한다.제2조(재검토기한) 「훈령·예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제394호)에 따라 이 예규의 법령이나 현실 여건의 변화 등을 검토하여 이 예규의 폐지, 개정 등의 조치를 하여야 하는 기한은 2023년 11월 3일까지로 한다.",
+      "content": "부칙 <제1132호,2020. 11. 4.>제1조(시행일) 이 예규는 2020년 11월 4일부터 시행한다.제2조(재검토기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제394호)에 따라 이 예규의 법령이나 현실 여건의 변화 등을 검토하여 이 예규의 폐지, 개정 등의 조치를 하여야 하는 기한은 2023년 11월 3일까지로 한다.",
       "provision_id": "admrul:헌법소원등과관련된업무처리지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000245332",
+      "source_mst": "2100000286078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240801"
+      "version_enforcement_date": "20261008"
     }
   ],
   "appendices": [
@@ -300,20 +581,20 @@
       "kind": "별지",
       "title": "위헌제청사건 접수부",
       "enforcement_date": "",
-      "content": "",
-      "is_file_only": true,
+      "content": "<별지 제1호 서식>\n┌────┬────┬─────┬────┬─────┬────┬─────────────┬────┬───────┬──┐\n│일련번호│접수일자│사건번호  │사건명  │제청구분  │제청법원│관련사건                  │의견서  │결정          │비고│\n│        │        │          │        │          │        ├─────┬────┬──┤제출일  ├────┬──┤    │\n│        │        │          │        │          │        │형제번호  │피의자  │죄명│        │일자    │요지│    │\n│        │        │          │        │          │        │          │(피고인)│    │        │        │    │    │\n├────┼────┼─────┼────┼─────┼────┼─────┼────┼──┼────┼────┼──┼──┤\n│예시1   │26. . . │26헌가○○│형법    │당사자    │중앙지법│26형제○호│○○○  │사기│26. . . │26. . . │합헌│    │\n│        │        │          │제○조  │신청/직권 │        │          │        │    │        │        │    │    │\n│        │        │          │위헌제청│          │        │          │        │    │        │        │    │    │\n├────┼────┼─────┼────┼─────┼────┼─────┼────┼──┼────┼────┼──┼──┤\n│        │        │          │        │          │        │          │        │    │        │        │    │    │\n├────┼────┼─────┼────┼─────┼────┼─────┼────┼──┼────┼────┼──┼──┤\n│        │        │          │        │          │        │          │        │    │        │        │    │    │\n└────┴────┴─────┴────┴─────┴────┴─────┴────┴──┴────┴────┴──┴──┘",
+      "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143230219",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170101999",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143230213",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170101995",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143230219",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170101999",
           "name": "",
           "file_store_url": ""
         }
@@ -331,20 +612,20 @@
       "kind": "별지",
       "title": "헌법소원 사건접수부",
       "enforcement_date": "",
-      "content": "",
-      "is_file_only": true,
+      "content": "<별지 제2호 서식>\n┌────┬────┬──────┬────┬─────────────┬──────────┬────┬───────┬─────┐\n│일련번호│접수일자│사건번호    │청구인  │관련사건                  │공소청 결정(처분)   │답변서  │결정          │비고      │\n│        │        │및          │(대리인)├─────┬────┬──┼─────┬────┤(의견서)├────┬──┤          │\n│        │        │사건명      │        │형제번호  │피의자  │죄명│년·월·일│요지    │제출일  │일자    │요지│          │\n│        │        │            │        │          │(피고인)│    │          │        │        │        │    │          │\n├────┼────┼──────┼────┼─────┼────┼──┼─────┼────┼────┼────┼──┼─────┤\n│예시1   │26. . . │26헌마○○  │홍길동  │26형제○호│○○○  │사기│26. . .   │혐의없음│26. . . │26. . . │기각│보완수사  │\n│        │        │기소유예처  │        │          │        │    │          │        │        │        │    │요구 등   │\n│        │        │분취소      │        │          │        │    │          │        │        │        │    │처리결과  │\n│        │        │            │        │          │        │    │          │        │        │        │    │기재      │\n├────┼────┼──────┼────┼─────┼────┼──┼─────┼────┼────┼────┼──┼─────┤\n│        │        │            │        │          │        │    │          │        │        │        │    │          │\n├────┼────┼──────┼────┼─────┼────┼──┼─────┼────┼────┼────┼──┼─────┤\n│        │        │            │        │          │        │    │          │        │        │        │    │          │\n└────┴────┴──────┴────┴─────┴────┴──┴─────┴────┴────┴────┴──┴─────┘",
+      "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143230229",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170102005",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143230225",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170102001",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143230229",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170102005",
           "name": "",
           "file_store_url": ""
         }
@@ -359,52 +640,43 @@
   ],
   "attachments": [
     {
-      "name": "240628 조문별제개정이유서(헌법소원등과관련된업무처리지침).hwp",
-      "url": "http://law.go.kr/flDownload.do?flSeq=143230185",
-      "filename": "240628 조문별제개정이유서(헌법소원등과관련된업무처리지침).hwp",
+      "name": "(공소청예규 제117호) 헌법소원 등과 관련된 업무처리지침.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170098951",
+      "filename": "(공소청예규 제117호) 헌법소원 등과 관련된 업무처리지침.hwp",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/240628 조문별제개정이유서(헌법소원등과관련된업무처리지침).hwp",
+      "local_path": "첨부파일/(공소청예규 제117호) 헌법소원 등과 관련된 업무처리지침.hwp",
       "file_store_url": ""
     },
     {
-      "name": "240628 조문별제개정이유서(헌법소원등과관련된업무처리지침).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=143230189",
-      "filename": "240628 조문별제개정이유서(헌법소원등과관련된업무처리지침).pdf",
+      "name": "(공소청예규 제117호) 헌법소원 등과 관련된 업무처리지침.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170098955",
+      "filename": "(공소청예규 제117호) 헌법소원 등과 관련된 업무처리지침.pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/240628 조문별제개정이유서(헌법소원등과관련된업무처리지침).pdf",
-      "file_store_url": ""
-    },
-    {
-      "name": "(대검예규 제1445호)헌법소원 등과 관련된 업무처리지침.hwp",
-      "url": "http://law.go.kr/flDownload.do?flSeq=143230193",
-      "filename": "(대검예규 제1445호)헌법소원 등과 관련된 업무처리지침.hwp",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/(대검예규 제1445호)헌법소원 등과 관련된 업무처리지침.hwp",
-      "file_store_url": ""
-    },
-    {
-      "name": "(대검예규 제1445호)헌법소원 등과 관련된 업무처리지침.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=143230197",
-      "filename": "(대검예규 제1445호)헌법소원 등과 관련된 업무처리지침.pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/(대검예규 제1445호)헌법소원 등과 관련된 업무처리지침.pdf",
+      "local_path": "첨부파일/(공소청예규 제117호) 헌법소원 등과 관련된 업무처리지침.pdf",
       "file_store_url": ""
     }
   ],
   "ordinance_delegations": [],
   "relation_mode": "no_crawl",
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
-    "articles_total": 12,
-    "articles_with_relations": 0,
+    "relations_total": 16,
+    "by_category": {
+      "법령": 13,
+      "행정규칙": 3
+    },
+    "by_relation_type": {
+      "citation": 14,
+      "appendix_ref": 1,
+      "internal_ref": 1
+    },
+    "articles_total": 13,
+    "articles_with_relations": 6,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 5,
     "appendices_count": 2,
-    "attachments_count": 4
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/헌법소원 등과 관련된 업무처리지침"
@@ -413,10 +685,8 @@
   "addendum_provision_id": "admrul:헌법소원등과관련된업무처리지침#ADDENDUM",
   "amendment_provision_id": "admrul:헌법소원등과관련된업무처리지침#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [
-    "20261008"
-  ],
-  "has_future": true,
-  "version_count": 2,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "헌법소원 등과 관련된 업무처리지침/헌법소원 등과 관련된 업무처리지침.json"
 }
