@@ -1,0 +1,235 @@
+{
+  "law_id": "2119149",
+  "mst": "2100000286620",
+  "law_name": "국제공항으로 휴대 반입하는 애완용 동물 통관절차에 관한 예규",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2119149",
+  "promulgation_no": "328",
+  "promulgation_date": "20261006",
+  "enforcement_date": "20261008",
+  "revision_date": "20261006",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "관세청(관세국경감시과)",
+    "담당자명": "민원경",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "국제공항으로 휴대 반입하는 애완용 동물 통관절차에 관한 예규",
+    "발령일자": "20261006",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "관세청",
+    "전화번호": "042-481-7833",
+    "제개정구분명": "제정",
+    "소관부처코드": "1220000",
+    "생성일자": "20261008",
+    "행정규칙ID": "2119149",
+    "시행일자": "20261008",
+    "담당부서기관코드": "1221395",
+    "발령번호": "328",
+    "행정규칙일련번호": "2100000286620",
+    "상위부처명": "관세청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 사유\n「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」 제7조에 따라 일몰제 설정 관련하여 우리청 소관 행정규칙 정비(일괄 폐지 후 재제정)\n◇ 주요 개정 내용\n□ 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령 훈령) 제7조에 따라 일몰제 설정 및 존속 기한이 만료된 행정규칙의 일몰제 정비\n□ 사회ㆍ행정환경 변화에 대한 대응 및 장기 경과 행정규칙에 대한 현실 적합성 제고 측면에서 업무국 의견을 수렴, 필요시 행정규칙 폐지 등 조치\n□ 일몰제 설정 고시(1)\n[그림]\n\n□ 개정 대상 행정규칙(일괄폐지(31) 후 제재정(31))\n[그림]\n",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제1조(목적) 이 예규는 국제공항으로 여행자가 휴대 반입하는 애완용 동물의 통관처리 절차를 개선하여 통관처리의 효율화 및 여행자의 통관편의를 도모함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국제공항으로휴대반입하는애완용동물통관절차에관한예규#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "대상물품",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조(대상물품) 이 예규에 따라 통관할 수 있는 물품은 국제공항으로 여행자가 휴대 반입하는 개, 고양이 등 애완용 동물(이하 \"동물\"이라 한다)에 대하여 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국제공항으로휴대반입하는애완용동물통관절차에관한예규#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "수입신고 및 검사",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제3조(수입신고 및 검사) 동물을 휴대반입한 자는 국제공항 소재 세관에 수입신고하고 검역시행장에서 검사를 받아야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국제공항으로휴대반입하는애완용동물통관절차에관한예규#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "공항소재 검역시행장에서 검역하는 동물의 통관",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제4조(공항소재 검역시행장에서 검역하는 동물의 통관) 검역에 단시일이 소요되어 공항소재 검역시행장에서 검역이 실시되는 동물에 대하여는 검역증을 세관에 제출하고 소정의 관세 등을 납부한 후 통관한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국제공항으로휴대반입하는애완용동물통관절차에관한예규#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "공항 밖의 검역시행장에서 검역하는 동물의 통관",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제5조(공항 밖의 검역시행장에서 검역하는 동물의 통관) 국제공항 소재 검역시행장에서 검역이 완료되지 않아 검역시행장 외 검역장소 또는 검역계류장으로 이송되는 동물에 대하여는 다음 각 호에 따른다.1. 수입자는 국제공항 소재 세관에 수입신고를 한 후 납부고지서를 교부받아 관세 등 제세를 납부한 후 수입신고수리필증을 송부받을 주소, 전화번호와 함께 납부영수증을 세관에 제출한다. 다만, 수입자가 관세 등 제세를 사후에 납부하기를 원하는 경우 수입자는 수입신고할 때 국내주소(전화번호)를 기재하고 수입신고수리필증을 발급하기 전까지 관세 등 제세를 납부한 후 그 사실을 세관에 통보하여야 한다.2. 세관에서는 검역소로부터 모사전송(FAX)등으로 검역증을 송부받아 검역합격 여부를 확인한 후 수입신고수리필증을 발급하여 검역소에 모사전송하여 수입신고수리사실을 통보하고 수입자가 검역계류장에서 동물을 인수하도록 한다.3. 세관에서는 수입신고수리필증 발급사실을 수입자에게 전화로 통보한 후 수입자의 주소지로 수입신고수리필증을 송부하며, 수입자가 원하는 경우 세관을 방문하도록 하여 수입자에게 직접 수입신고수리필증을 교부할 수 있다.4. 세관에서는 별도의 통관관리대장을 비치하여 수입자가 수입신고수리필증을 송부받을 주소지 및 송부한 수입신고수리필증에 대한 기록을 유지 관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국제공항으로휴대반입하는애완용동물통관절차에관한예규#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "검역 불합격 동물에 대한 조치",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제6조(검역 불합격 동물에 대한 조치) 검역에 불합격한 동물에 대하여 납부한 관세 등은 수입자가 「가축전염병예방법」에 따라 해당 동물을 반송ㆍ매몰하는 등의 조치를 완료한 경우에는 「관세법」\n제46조(과오납금의 환급)에 따라 환급한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「가축전염병예방법」",
+            "line_text": "",
+            "target_law_name": "가축전염병예방법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119149",
+            "target_url": "https://www.law.go.kr/법령/가축전염병예방법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국제공항으로휴대반입하는애완용동물통관절차에관한예규#JO0006",
+            "reference_id": "law:가축전염병예방법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "가축전염병예방법/법률/가축전염병예방법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「관세법」",
+            "line_text": "",
+            "target_law_name": "관세법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119149",
+            "target_url": "https://www.law.go.kr/법령/관세법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국제공항으로휴대반입하는애완용동물통관절차에관한예규#JO0006",
+            "reference_id": "law:관세법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "관세법/법률/관세법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제46조",
+            "line_text": "",
+            "target_law_name": "관세법",
+            "target_article_no": "제46조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2119149",
+            "target_url": "https://www.law.go.kr/법령/관세법/제46조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국제공항으로휴대반입하는애완용동물통관절차에관한예규#JO0006",
+            "reference_id": "law:관세법#JO0046",
+            "target_repo": "LAW",
+            "target_git_path_guess": "관세법/법률/관세법.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국제공항으로휴대반입하는애완용동물통관절차에관한예규#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20261006",
+      "promulgation_no": "328",
+      "content": "부칙 <제328호, 2026. 10. 6.>제1조(시행일)이 예규는 2026년 10월 8일부터 시행한다.제2조(유효기간) 이 예규는 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규를 발령한 후의 법령이나 현실 여건의 변화 등을 검토하여야 하는 2029년 10월 7일까지 효력을 가진다.",
+      "provision_id": "admrul:국제공항으로휴대반입하는애완용동물통관절차에관한예규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000286620",
+      "source_version_uid": "",
+      "source_revision_type": "제정",
+      "version_enforcement_date": "20261008"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "국제공항으로 휴대 반입하는 애완용 동물 통관절차에 관한 예규_전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170265305",
+      "filename": "국제공항으로 휴대 반입하는 애완용 동물 통관절차에 관한 예규_전문.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국제공항으로 휴대 반입하는 애완용 동물 통관절차에 관한 예규_전문.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "국제공항으로 휴대 반입하는 애완용 동물 통관절차에 관한 예규_전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170265309",
+      "filename": "국제공항으로 휴대 반입하는 애완용 동물 통관절차에 관한 예규_전문.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국제공항으로 휴대 반입하는 애완용 동물 통관절차에 관한 예규_전문.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 3,
+    "by_category": {
+      "법령": 3
+    },
+    "by_relation_type": {
+      "citation": 3
+    },
+    "articles_total": 6,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/국제공항으로 휴대 반입하는 애완용 동물 통관절차에 관한 예규"
+  },
+  "provision_id": "admrul:국제공항으로휴대반입하는애완용동물통관절차에관한예규#DOC",
+  "addendum_provision_id": "admrul:국제공항으로휴대반입하는애완용동물통관절차에관한예규#ADDENDUM",
+  "amendment_provision_id": "admrul:국제공항으로휴대반입하는애완용동물통관절차에관한예규#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "국제공항으로 휴대 반입하는 애완용 동물 통관절차에 관한 예규/국제공항으로 휴대 반입하는 애완용 동물 통관절차에 관한 예규.json"
+}
