@@ -5512,5 +5512,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "산림병해충 방제규정/산림병해충 방제규정.json"
+  "git_path": "산림병해충 방제규정/산림병해충 방제규정.json",
+  "repealed": true,
+  "repealed_at": "20261013"
 }
