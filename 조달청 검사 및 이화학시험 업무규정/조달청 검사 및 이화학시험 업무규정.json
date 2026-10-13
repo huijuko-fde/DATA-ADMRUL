@@ -1,25 +1,25 @@
 {
   "law_id": "33830",
-  "mst": "2100000273604",
+  "mst": "2100000286944",
   "law_name": "조달청 검사 및 이화학시험 업무규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:33830",
-  "promulgation_no": "2343",
-  "promulgation_date": "20260123",
-  "enforcement_date": "20260123",
-  "revision_date": "20260123",
+  "promulgation_no": "2416",
+  "promulgation_date": "20261013",
+  "enforcement_date": "20261013",
+  "revision_date": "20261013",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "조달청(납품검사과)",
-    "담당자명": "이경남",
+    "담당자명": "박대열",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "조달청 검사 및 이화학시험 업무규정",
-    "발령일자": "20260123",
+    "발령일자": "20261013",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "070-4056-8130",
     "제개정구분명": "일부개정",
     "소관부처코드": "1230000",
-    "생성일자": "20260127",
+    "생성일자": "20261015",
     "행정규칙ID": "33830",
-    "시행일자": "20260123",
+    "시행일자": "20261013",
     "담당부서기관코드": "1230477",
-    "발령번호": "2343",
-    "행정규칙일련번호": "2100000273604",
+    "발령번호": "2416",
+    "행정규칙일련번호": "2100000286944",
     "상위부처명": "조달청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n정부조직법 개정(‘25. 10. 1.)에 따라 정부조직 변경 반영 또는 이와 관련 경미한 현행화 등이 필요한 행정규칙에 대해 개정 수요를 조사하여 일괄개정\n\n◇ 주요내용\n재정경제부로 정부조직명 변경",
+  "revision_reason": "◇ 개정 사유\n□ 납품검사 확인시험 사유를 추가하여 기업 부담을 완화하고, 품질관리업무심의회 심의로 공정성 제고\n□ 조달청 직접 검사와 전문기관 검사의 동일 또는 유사 업무의  규정을 동일하게 정비하여 납품검사의 일관성 확보\n□ 규정 제정 이후 변화된 환경을 반영하여 용어 정리, 별지 정비, 사문화된 규정 삭제, 관리주체의 명확화 등 체계 정비\n◇ 주요 개정 내용\n[1] 확인시험의 품질관리업무심의회 심의로 공정성 제고하고, 확인시험 사유를 추가하여 기업 부담을 완화\nㅇ 확인시험을 품질관리업무심의회에 상정하는 현실을 규정에 반영하고, 다양한 사유의 요청에 대해 심의를 통해 결정함이 바람직\nㅇ 현행 확인시험 사유* 외에 검사과정에서 발생할 수 있는 다양한 확인시험 사유**를 포괄적으로 규정하여 기업의 부담을 완화\n*  동일성이 인정되는 시료의 납품검사 이화학시험과 다른 공인시험기관 또는 자체 시험  결과가 다르거나 시료가 손상된 경우\n** 시험과정에서 발생할 수 있는 과열, 인위적인 힘, 시험 절차 위반 등\n[2] 용어정의를 편제 순으로 나열하고, 누락 조항, 용어를 수정ㆍ추가\nㅇ 규정의 순서는 검사공무원, 검사의 준비 등의 순서이나, 현재는 이와 다른 순서로 용어정의를 나열\nㅇ 용어 정의가 누락된 검사, 사전검사, 검사면제 등을 추가하고,  명확하게 문구를 수정\n[3] 의사결정 과정, 대외적인 효력을 고려하여 행위 주체 정정\nㅇ 대외적 효력 행위임에도 납품검사과장, 검사공무원의 역할로 규정한 내용을 조달품질원장으로 정정\nㅇ 반복되는 \"조달품질원장 또는 지방조달청장\"은 \"조달품질원장 등\"으로 정의\n[4] 선납품 승인 권한 및 사유, 봉인 해제, 수요기관 검사 대상 및 검사 지연 통보 등을 보완 또는 추가\nㅇ 지방청 검사품목의 선납품 승인을 지방조달청으로 이관하여 행정 절차 간소화\nㅇ 교육기관 위주의 선납 승인 사유를 일반화\n*(현행) 신학기, 교실증(개)축, 직제개편\" →(개정)납품지연 등으로 공사의 차질발생, 후속공정의 지장 또는 민원이 발생될 경우\nㅇ 누락된 봉인해제 신청 절차 반영\nㅇ 납품요구서에 포함된 조달청 검사 비대상 품목은 수요기관 검사 대상임을 통보하여 혼선을 사전에 방지\nㅇ 특정 검사 지연 사유를 삭제하여 납품검사가 지연될 경우 모든 이해관계자인 계약상대자와 수요기관에 통보\n*(현행)업무량의 폭주, 기타 특수한 사정 →(개정)검사가 지연될 경우\n[5] 오타, 띄어쓰기 수정, 별지 서식 정리\nㅇ 오타 및 띄어쓰기 수정, 문서 양식의 별지 삭제, 정보통신망 이용 송달 동의서 추가 등",
   "body": {
     "format": "articles",
     "article_count": 55,
@@ -141,7 +141,7 @@
         "article_title": "용어의 정의",
         "chapter": "제1장  총칙",
         "chapter_path": "제1장  총칙",
-        "content": "제4조(용어의 정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다.1. \"관능검사\"란 물품을 오관의 작용으로 검사함을 말한다.2. \"이화학시험\"이란 물품의 물리적 성질과 화학적 성분을 분석 시험함을 말한다.3. \"전수검사\"란 물품을 일일이 조사 측정하여 개개의 물품을 적합품 또는 부적합품으로 판정함을 말한다.4. \"샘플링검사\"란 로트(LOT)마다 샘플을 임의로 뽑아 그 채취된 물품을 조사하여 로트의 합격 또는 불합격을 판정함을 말한다.5. \"중간검사\"란 물품의 생산과정에서 재료 또는 가공과정, 조립과정 등을 검사함을 말한다.6. \"납품검사\"란 납품단계에서 검사함을 말한다.7. \"재검사\"란 검사결과가 확정된 후 다시 받는 검사를 말한다.8. \"계약상대자\"란 조달청 등과  계약을 체결하여 그 계약의 내용에 따라 납품을 하기 위하여 검사를 받는 자를 말한다.9. \"검사공무원\"이란 검사업무를 수행하는 공무원을 말한다.10. \"확인시험\"이란 계약상대자 또는 수요기관의 장이 시험결과에 이의를 제기하여 다시 하는 시험을 말한다.11. \"합동검사\"란 원ㆍ부자재에 대한 중간검사와 완제품에 대한 납품검사를 조달청과 수요기관이 분담하여 검사하는 것을 말한다.12. \"선납품\"이란 수요기관 등의 특별한 사정으로 검사 합격 통보 이전에 납품받아야 할 필요가 존재하는 경우 사전에 납품하는 것을 말한다.",
+        "content": "제4조(용어의 정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다.1. \"검사공무원\"이란 검사업무를 수행하는 공무원을 말한다.2. \"계약상대자\"란 조달청 등과  계약을 체결하여 그 계약의 내용에 따라 납품을 하기 위하여 검사를 받는 자를 말한다.3. \"검사\"란 계약목적물이 관련법령에 적합하고 구매규격ㆍ시방서대로 제조ㆍ설치되어 있는지 여부를 관능검사 및 이화학시험으로 확인하는 것을 말한다.4. \"검수\"란 제1호의 검사에 합격한 계약목적물이 손상 또는 훼손이 없고 계약서 또는 납품서류상의 수량대로 납품되었는지 여부를 확인하는 것을 말한다.5. \"관능검사\"란 물품을 인간의 오감(五感)에 의하여 검사하는 것을 말한다.6. \"이화학시험(이하 \"시험\"이라 한다)\"이란 물품의 물리적 성질과 화학적 성분을 분석ㆍ시험하는 것을 말한다.7. \"전수검사\"란 물품을 일일이 조사 측정하여 개개의 물품을 적합품 또는 부적합품으로 판정함을 말한다.8. \"샘플링검사\"란 로트(LOT)마다 샘플을 임의로 뽑아 그 채취된 물품을 조사하여 로트의 합격 또는 불합격을 판정함을 말한다.9. \"중간검사\"란 물품의 생산과정에서 재료 또는 가공과정, 조립과정 등을 검사함을 말한다.10. \"납품검사\"란 납품단계에서 검사함을 말한다.11. \"확인시험\"이란 납품검사 결과를 판정하기 전 계약상대자가 시험결과에 대하여 이의를 제기한 경우로서 조달청장이 시험결과를 확인할 필요가 있다고 판단하는 경우 실시하는 시험을 말한다.12. \"재검사\"란 검사결과가 확정된 후 다시 받는 검사를 말한다.13. \"합동검사\"란 원ㆍ부자재 등의 중간검사는 조달청에서, 완제품 검사는 수요기관에서 분담하여 검사하는 것을 말한다.14. \"사전검사\"란 물품ㆍ계약의 특수성에 따라 납품요구 전에 미리 검사를 실시하는 것을 말한다.15. \"검사면제\"란 납품검사를 면제받는 것을 말한다.16. \"선납품\"이란 수요기관 등의 특별한 사정으로 검사 합격 통보 이전에 납품받아야 할 필요가 존재하는 경우 사전에 납품하는 것을 말한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -152,7 +152,7 @@
         "article_title": "검사공무원의 지명ㆍ교체",
         "chapter": "제2장  검사공무원",
         "chapter_path": "제2장  검사공무원",
-        "content": "제5조(검사공무원의 지명ㆍ교체) ① 검사공무원은 조달품질원 납품검사과장 또는 지방조달청장(이하 납품검사과장 또는 지방청장이라 한다)이 소속 직원 중에서 지명한다.② 검사공무원은 전보 또는 면직되었을 때에는 지명이 해제되며, 검사업무에 대한 인수인계는 원칙적으로 발령일자로 하고 진행 중인 모든 업무를 중지하여 후임자에게 인계하여야 한다.③ 인수자가 필요하다고 인정할 때에는 인계자가 검사한 부분을 재점검할 수 있다.",
+        "content": "제5조(검사공무원의 지명ㆍ교체) ① 검사공무원은 조달품질원장 또는 지방조달청장(이하 조달품질원장 등)이 소속 직원 중에서 지명한다.② 검사공무원은 전보 또는 면직되었을 때에는 지명이 해제된다.③ <삭제>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -174,7 +174,7 @@
         "article_title": "권한",
         "chapter": "제2장  검사공무원",
         "chapter_path": "제2장  검사공무원",
-        "content": "제7조(권한) 검사공무원은 검사업무 수행에 있어서 제6조에 규정된 책임을 다하기 위하여 자주성이 보장된다.",
+        "content": "제7조(권한) 조달청장은 검사공무원이 제6조에 규정된 책임을 수행할 수 있도록 검사 업무의 독립성을 보장하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -206,7 +206,7 @@
         "article_title": "검사요청서",
         "chapter": "제3장  검사의 준비",
         "chapter_path": "제3장  검사의 준비",
-        "content": "제8조(검사요청서) ① 계약상대자가 계약서에서 정하는 바에 따라 별지 제1호 서식의 검사요청서를, 계약규격의 본질을 훼손하지 않는 범위 내(규격서의 시험항목 등 유지)에서 계약규격변경이 있는 경우 별지 1-1호 서식의 규격변경 검사요청서를 제출할 때에는 따로 통지를 하지 아니하는 한 검사요청서대로 검사를 실시한다.② 납품검사과장 또는 지방청장은 계약서에서 정한 기일 외에 검사요청서가 제출되었을 때에는 검사일자를 조정할 수 있다.③ 물품 다수공급자계약 특수조건\n제27조(납품요구의 취소 또는 변경)에 의한 계약규격 변경이 있는 경우 <별지 제1-1호>서식의 규격변경 검사요청서를 계약담당공무원에게 제출(나라장터 확인)하여야 한다",
+        "content": "제8조(검사요청서) ① 계약상대자가 계약서에서 정하는 바에 따라 별지 제1호 서식의 검사요청서를, 계약규격의 본질을 훼손하지 않는 범위 내(규격서의 시험항목 등 유지)에서 계약규격변경이 있는 경우 별지 1-1호 서식의 규격변경 검사요청서를 제출할 때에는 따로 통지를 하지 아니하는 한 검사요청서대로 검사를 실시한다.② 조달품질원장 등은 계약서에서 정한 기일 외에 검사요청서를 계약상대자가 제출하였을 경우 검사일자를 조정할 수 있다.③ 물품 다수공급자계약 특수조건\n제27조(납품요구의 취소 또는 변경)에 의한 계약규격 변경이 있는 경우 <별지 제1-1호>서식의 규격변경 검사요청서를 계약담당공무원에게 제출 하여야 한다",
         "enforcement_date": "",
         "relations": [
           {
@@ -226,7 +226,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223195",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586911",
             "resolve_method": "html",
             "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0008",
             "target_unit": "BJ0001",
@@ -251,7 +251,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223195",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586911",
             "resolve_method": "html",
             "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0008",
             "target_unit": "BJ0001",
@@ -296,7 +296,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223195",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586911",
             "resolve_method": "html",
             "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0008",
             "target_unit": "BJ0001",
@@ -313,7 +313,7 @@
         "article_title": "검사계획서",
         "chapter": "제3장  검사의 준비",
         "chapter_path": "제3장  검사의 준비",
-        "content": "제9조(검사계획서) 검사공무원은 계약서 또는 납품요구서를 접수한 후 별지 제2호 서식의 검사계획서를 작성하여 납품검사과장 또는 지방청장의 결재를 받는다.",
+        "content": "제9조(검사계획서) 조달품질원장 등은 검사요청서를 접수한 후 별지 제2호 서식의 검사계획서를 작성하여 수요기관의 장과 계약상대자에게 송부하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -326,14 +326,14 @@
             "line_text": "",
             "target_law_name": "조달청 검사 및 이화학시험 업무규정",
             "target_article_no": "별지2",
-            "target_article_title": "검사계획 및 결과보고서",
+            "target_article_title": "검사계획서, 검사결과서",
             "appendix_no": "2",
             "appendix_branch": "",
             "appendix_kind": "별지",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223209",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586925",
             "resolve_method": "html",
             "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0009",
             "target_unit": "BJ0002",
@@ -350,35 +350,9 @@
         "article_title": "검사장소",
         "chapter": "제3장  검사의 준비",
         "chapter_path": "제3장  검사의 준비",
-        "content": "제10조(검사장소) ① 검사공무원은 검사를 할 때에는 검사요청서에 기재된 장소에서 실시한다. 다만, 다음 각 호의 어느 하나에 해당하는 경우에는 다른 장소를 지정할 수 있다.1. 검사요청서의 검사장소가 협소하여 수량파악이 곤란할 때2. 물품의 이동 또는 운반이 곤란하거나 시간의 절약상 필요한 때3. 기타 사정으로 검사업무 수행에 지장을 초래할 우려가 있을 때② 검사공무원이 검사장소를 지정할 때에는 사전에 계약상대자에게 구두 또는 별지 제3호 서식에 따라 이를 통보하여야 한다.",
+        "content": "제10조(검사장소) ① 검사공무원은 검사를 할 때에는 검사요청서에 기재된 장소에서 실시한다. 다만, 다음 각 호의 어느 하나에 해당하는 경우에는 다른 장소를 지정할 수 있다.1. 검사요청서의 검사장소가 협소하여 수량파악이 곤란할 때2. 물품의 이동 또는 운반이 곤란하거나 시간의 절약상 필요한 때3. 기타 사정으로 검사업무 수행에 지장을 초래할 우려가 있을 때② 검사공무원은 검사장소를 지정할 때에는 사전에 계약상대자에게 이를 통보하 여야 한다. 다만, 검사 현장에서 계약상대자의 동의를 받아 변경할 경우에는 통보를 생략할 수 있다.",
         "enforcement_date": "",
-        "relations": [
-          {
-            "relation_type": "appendix_ref",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제10조",
-            "source_clause": "제10조제2항",
-            "link_text": "별지 제3호 서식",
-            "line_text": "",
-            "target_law_name": "조달청 검사 및 이화학시험 업무규정",
-            "target_article_no": "별지3",
-            "target_article_title": "검사장소 지정통보",
-            "appendix_no": "3",
-            "appendix_branch": "",
-            "appendix_kind": "별지",
-            "appendix_found": true,
-            "target_mst": "",
-            "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223215",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0010",
-            "target_unit": "BJ0003",
-            "reference_id": "admrul:조달청검사및이화학시험업무규정#BJ0003",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 검사 및 이화학시험 업무규정/조달청 검사 및 이화학시험 업무규정.json"
-          }
-        ],
+        "relations": [],
         "images": [],
         "provision_id": "admrul:조달청검사및이화학시험업무규정#JO0010"
       },
@@ -440,7 +414,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223313",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587029",
             "resolve_method": "html",
             "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0014",
             "target_unit": "BJ0019",
@@ -510,7 +484,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000273604&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286944&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0017",
             "target_unit": "BYL0001",
@@ -527,59 +501,9 @@
         "article_title": "중간검사",
         "chapter": "제4장  검사의 실시",
         "chapter_path": "제4장  검사의 실시",
-        "content": "제18조(중간검사) ① 납품검사과장 또는 지방청장은 계약서에 명시되어 있지 아니하더라도 품질확보상 사용재료, 원료의 배합 등 주요 제조과정의 확인이 필요할 때에는 중간검사를 하게 할 수 있다.② 검사공무원이 제1항에 따른 사용재료를 검사할 때에는 소요 원재료 전량이 확보된 후에 검사하여야 한다. 다만, 기계에 의하여 일괄적 작업으로 생산되는 물품의 검사는 예외로 할 수 있다.③ 검사공무원이 중간검사를 하여야 할 때에는 구술, 전화 또는 별지 제4호 서식의 중간검사계획을 미리 계약상대자에게 통보하여야 한다. 다만, 필요한 경우에는 미리 계약상대자에게 통보하지 아니하고 불시에 중간검사를 실시할 수 있다.④ 검사공무원이 중간검사계획을 통보하였음에도 불구하고 계약상대자가 중간검사에 불응할 때에는 지체 없이 계약담당공무원에게 이를 통지하여야 한다.⑤ 검사공무원은 계약상대자에게 구두 또는 별지 제5호 서식에 따라 중간검사결과를 통보하여야 한다. 다만, 계약내용과 위배되는 사항을 계약상대자에게 시정요구할 때에는 계약담당공무원에게 이를 통지하여야 한다.⑥ 검사공무원은 중간검사의 경우에도 제19조의 납품검사에 관한 규정을 준용한다.",
+        "content": "제18조(중간검사) ① 조달품질원장 등은 계약서에 명시되어 있지 아니하더라도 품질확보상 사용재료, 원료의 배합 등 주요 제조과정의 확인이 필요할 때에는 중간검사를 하게 할 수 있다.② 검사공무원이 제1항에 따른 사용재료를 검사할 때에는 소요 원재료 전량이 확보된 후에 검사하여야 한다. 다만, 기계에 의하여 일괄적 작업으로 생산되는 물품의 검사는 예외로 할 수 있다.③ 검사공무원이 중간검사를 하여야 할 때에는 중간검사계획을 미리 계약상대자에게 통보하여야 한다. 다만, 필요한 경우에는 미리 계약상대자에게 통보하지 아니하고 불시에 중간검사를 실시할 수 있다.④ 검사공무원이 중간검사계획을 통보하였음에도 불구하고 계약상대자가 중간검사에 불응할 때에는 지체 없이 계약담당공무원에게 이를 통지하여야 한다.⑤ 검사공무원은 계약상대자에게 중간검사 결과를 통보하여야 한다. 다만, 계약내용과 위배되는 사항을 계약상대자에게 시정요구할 때에는 계약담당공무원에게 이를 통지하여야 한다.⑥ 검사공무원은 중간검사의 경우에도 제19조의 납품검사에 관한 규정을 준용한다.",
         "enforcement_date": "",
         "relations": [
-          {
-            "relation_type": "appendix_ref",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제18조",
-            "source_clause": "제18조제3항",
-            "link_text": "별지 제4호 서식",
-            "line_text": "",
-            "target_law_name": "조달청 검사 및 이화학시험 업무규정",
-            "target_article_no": "별지4",
-            "target_article_title": "중간검사 통보",
-            "appendix_no": "4",
-            "appendix_branch": "",
-            "appendix_kind": "별지",
-            "appendix_found": true,
-            "target_mst": "",
-            "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223221",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0018",
-            "target_unit": "BJ0004",
-            "reference_id": "admrul:조달청검사및이화학시험업무규정#BJ0004",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 검사 및 이화학시험 업무규정/조달청 검사 및 이화학시험 업무규정.json"
-          },
-          {
-            "relation_type": "appendix_ref",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제18조",
-            "source_clause": "제18조제5항",
-            "link_text": "별지 제5호 서식",
-            "line_text": "",
-            "target_law_name": "조달청 검사 및 이화학시험 업무규정",
-            "target_article_no": "별지5",
-            "target_article_title": "중간검사결과 통보",
-            "appendix_no": "5",
-            "appendix_branch": "",
-            "appendix_kind": "별지",
-            "appendix_found": true,
-            "target_mst": "",
-            "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223227",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0018",
-            "target_unit": "BJ0005",
-            "reference_id": "admrul:조달청검사및이화학시험업무규정#BJ0005",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 검사 및 이화학시험 업무규정/조달청 검사 및 이화학시험 업무규정.json"
-          },
           {
             "relation_type": "internal_ref",
             "delegation_type": null,
@@ -609,7 +533,7 @@
         "article_title": "납품검사",
         "chapter": "제4장  검사의 실시",
         "chapter_path": "제4장  검사의 실시",
-        "content": "제19조(납품검사) 검사공무원은 납품될 물품이 계약의 내용과 일치하는지의 여부를 납품전에 관능검사 결과와 시험기관의 시험결과를 종합하여 판정한다. 중간검사를 실시한 물품일 때에는 중간검사에서 지적된 사항 등을 유의하여야 한다.",
+        "content": "제19조(납품검사) ① 조달품질원장 등은 납품될 물품이 계약의 내용과 일치하는지의 여부를 납품전에 관능검사 결과와 시험기관의 시험결과를 종합하여 판정한다. 중간검사를 실시한 물품일 때에는 중간검사에서 지적된 사항 등을 유의하여야 한다.② 조달품질원장 등은 납품요구서에 포함된 검사대상품명으로 지정되지 않은 물품에 대하여는 수량을 확인하고 검사결과서에 관능검사 및 성능확인, 이화학시험은 수요기관이 실시하여야 함을 알려야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -620,34 +544,9 @@
         "article_title": "합동검사",
         "chapter": "제4장  검사의 실시",
         "chapter_path": "제4장  검사의 실시",
-        "content": "제19조의2(합동검사) ① 합동검사는 아래의 각호가 모두 충족한 경우에 한하여 실시할 수 있다.1. 납품검사 이전 원자재ㆍ부자재에 대한 이화학 시험이 필수적인 경우(섬유류에 한함)2. 계약서 상 검사기관이 합동검사로 지정된 경우② 합동검사를 실시하는 경우에는 원ㆍ부자재에 대한 중간검사(납품요구 이전에 신청 가능)는 조달청에서 분담하고 완제품에 대한 납품검사는 수요기관이 분담하여 검사를 실시한다.③ 검사공무원은 계약상대자에게 구두 또는 별지 제5호의 서식에 의해 중간검사 결과를 통보하여야 한다. 다만, 계약내용과 위배되는 사항을 계약상대자에게 시정요구할 때에는 계약담당공무원에게 이를 통지하여야 한다.④ 검사공무원은 합동검사의 경우 제18조의 중간검사 및 제19조의 납품검사에 관한 규정을 준용하여 검사업무를 처리한다.⑤ 검사공무원은 계약업체의 합동검사 신청수량과 실제 납품요구수량이 차이가 있을 때에는 계약담당공무원에게 이를 통지하여야 한다.",
+        "content": "제19조의2(합동검사) ① 합동검사는 아래의 각호가 모두 충족한 경우에 한하여 실시할 수 있다.1. 납품검사 이전 원자재ㆍ부자재에 대한 이화학 시험이 필수적인 경우2. 계약서 상 검사기관이 합동검사로 지정된 경우② 합동검사를 실시하는 경우에는 원ㆍ부자재에 대한 중간검사(납품요구 이전에 신청 가능)는 조달청에서 분담하고 완제품에 대한 납품검사는 수요기관이 분담하여 검사를 실시한다.③ 검사공무원은 계약상대자에게 중간검사 결과를 통보하여야 한다. 다만, 계약내용과 위배되는 사항을 계약상대자에게 시정요구할 때에는 계약담당공무원에게 이를 통지하여야 한다.④ 합동검사는 제18조의 중간검사 및 제19조의 납품검사에 관한 규정을 준용한다.⑤ 계약상대자는 (납품요구 이전 신청한) 합동검사 신청 수량보다 납품요구 수량이 많을 경우에는 추가로 검사요청을 하여야 한다.",
         "enforcement_date": "",
         "relations": [
-          {
-            "relation_type": "appendix_ref",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제19조의2",
-            "source_clause": "제19조의2제3항",
-            "link_text": "별지 제5호",
-            "line_text": "",
-            "target_law_name": "조달청 검사 및 이화학시험 업무규정",
-            "target_article_no": "별지5",
-            "target_article_title": "중간검사결과 통보",
-            "appendix_no": "5",
-            "appendix_branch": "",
-            "appendix_kind": "별지",
-            "appendix_found": true,
-            "target_mst": "",
-            "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223227",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0019_02",
-            "target_unit": "BJ0005",
-            "reference_id": "admrul:조달청검사및이화학시험업무규정#BJ0005",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 검사 및 이화학시험 업무규정/조달청 검사 및 이화학시험 업무규정.json"
-          },
           {
             "relation_type": "internal_ref",
             "delegation_type": null,
@@ -697,84 +596,9 @@
         "article_title": "선납품",
         "chapter": "제4장  검사의 실시",
         "chapter_path": "제4장  검사의 실시",
-        "content": "제19조의3(선납품) ① 조달품질원장은 가구류, 섬유류 등의 조달청 검사와 관련하여 수요기관이 아래 각 호의 사유로 별지 제20  서식에 의하여 선납품을 요청할 경우, 요청내용을 검토한 후 별지 제21의 서식에 따라 이를 승인할 수 있으며 이 경우 선납품의 납품일자는 검사완료(합격)일자로 한다. 단, 선납허용물품은 이동이 가능한 물품에 한하며, 고정설치물품 등 철거 및 설치비용이 소요되는 물품은 허용하지 아니한다. (허용하지 않는 물품의 예시: 금속제울타리, 이동식서가 등)1. 신학기, 교실증(개)축, 직제개편 등에 따라 긴급히 납품을 하여야 하거나 이에 준하는 경우2. 재해, 사고 및 이에 준하는 예측 불가능한 사유로 조달품질원장이 선납 필요성을 인정한 경우② 수요기관은 선납품을 요청할 경우 관련 내용에 대한 증빙서류 및 별지 제22호 서식에 따른 납품업체의 대체납품확약서를 첨부하여야 한다.③ 검사공무원은 선납품 검사의 경우 제18조의 중간검사 및 제19조의 납품검사에 관한 규정을 준용하여 검사업무를 처리한다.④ 선납품 대상 업체는 불합격 시에는 불합격 물품의 회수 및 신규 물품 제작과 해당 물품을 재검사 후 납품하여야 하며, 불합격 처리는 「물품구매계약 품질관리 특수조건」에 따라 처리한다.",
+        "content": "제19조의3(선납품) ① 조달품질원장 등은 조달청 검사와 관련하여 수요기관이 아래 각 호의 사유로 선납품을 요청할 경우, 요청내용을 검토한 후 이를 승인할 수 있으며 이 경우 선납품의 납품일자는 검사완료(합격)일자로 한다. 단, 선납허용물품은 이동이 가능한 물품에 한하며, 고정설치물품 등 철거 및 설치비용이 소요되는 물품은 허용하지 아니한다. (허용하지 않는 물품의 예시: 금속제울타리, 이동식서가 등)1. 납품지연 등으로 공사의 차질발생, 후속공정의 지장 또는 민원이 발생될 경우2. 재해, 사고 및 이에 준하는 예측 불가능한 사유로 조달품질원장 등이 선납 필요성을 인정한 경우② 수요기관은 선납품을 요청할 경우 관련 내용에 대한 증빙서류 및 납품업체의 대체납품확약서를 첨부하여야 한다.③ 선납품 검사는 제18조의 중간검사 및 제19조의 납품검사에 관한 규정을 준용한다.④ 선납품 대상 업체는 불합격 시에는 불합격 물품의 회수 및 신규 물품 제작과 해당 물품을 재검사 후 납품하여야 하며, 불합격 처리는 「물품구매계약 품질관리 특수조건」에 따라 처리한다.",
         "enforcement_date": "",
         "relations": [
-          {
-            "relation_type": "appendix_ref",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제19조의3",
-            "source_clause": "제19조의3제1항",
-            "link_text": "별지 제20",
-            "line_text": "",
-            "target_law_name": "조달청 검사 및 이화학시험 업무규정",
-            "target_article_no": "별지20",
-            "target_article_title": "선납 요청 문서 서식",
-            "appendix_no": "20",
-            "appendix_branch": "",
-            "appendix_kind": "별지",
-            "appendix_found": true,
-            "target_mst": "",
-            "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223325",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0019_03",
-            "target_unit": "BJ0020",
-            "reference_id": "admrul:조달청검사및이화학시험업무규정#BJ0020",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 검사 및 이화학시험 업무규정/조달청 검사 및 이화학시험 업무규정.json"
-          },
-          {
-            "relation_type": "appendix_ref",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제19조의3",
-            "source_clause": "제19조의3제1항",
-            "link_text": "별지 제21",
-            "line_text": "",
-            "target_law_name": "조달청 검사 및 이화학시험 업무규정",
-            "target_article_no": "별지21",
-            "target_article_title": "선납 승인 문서 서식",
-            "appendix_no": "21",
-            "appendix_branch": "",
-            "appendix_kind": "별지",
-            "appendix_found": true,
-            "target_mst": "",
-            "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223331",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0019_03",
-            "target_unit": "BJ0021",
-            "reference_id": "admrul:조달청검사및이화학시험업무규정#BJ0021",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 검사 및 이화학시험 업무규정/조달청 검사 및 이화학시험 업무규정.json"
-          },
-          {
-            "relation_type": "appendix_ref",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제19조의3",
-            "source_clause": "제19조의3제2항",
-            "link_text": "별지 제22호 서식",
-            "line_text": "",
-            "target_law_name": "조달청 검사 및 이화학시험 업무규정",
-            "target_article_no": "별지22",
-            "target_article_title": "대체납품확약서",
-            "appendix_no": "22",
-            "appendix_branch": "",
-            "appendix_kind": "별지",
-            "appendix_found": true,
-            "target_mst": "",
-            "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223337",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0019_03",
-            "target_unit": "BJ0022",
-            "reference_id": "admrul:조달청검사및이화학시험업무규정#BJ0022",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 검사 및 이화학시험 업무규정/조달청 검사 및 이화학시험 업무규정.json"
-          },
           {
             "relation_type": "internal_ref",
             "delegation_type": null,
@@ -844,35 +668,9 @@
         "article_title": "수입물품의 검사",
         "chapter": "제4장  검사의 실시",
         "chapter_path": "제4장  검사의 실시",
-        "content": "제20조(수입물품의 검사) ① 검사공무원은 계약된 물품이 수입품인 때에는 계약상대자로 하여금 검사에 필요한 자료로서 수입신고확인증 또는 선적서류(선하증권(B/L, Bill of Lading), INVOICE, PACKING LIST, INSPECTION CERTIFICATE)등 정상수입품임을 증명할 수 있는 문서를 제출하게 하여야 한다.② 전항의 문서는 계약상대자로 하여금 원본을 제시하게 하여 확인 후 그 사본 1통씩을 제출하게 할 수 있다.③ 계약상대자가 제1항 및 제2항에 따른 문서의 제출을 거부하거나 제출하지 못한 때에는 검사공무원은 검사를 하지 아니하며 별지 제6호 서식에 따라 그 뜻을 계약담당공무원에게 통지하여야 한다.",
+        "content": "제20조(수입물품의 검사) ① 검사공무원은 계약된 물품이 수입품인 때에는 계약상대자로 하여금 검사에 필요한 자료로서 수입신고확인증 또는 선적서류(선하증권(B/L, Bill of Lading), INVOICE, PACKING LIST, INSPECTION CERTIFICATE)등 정상수입품임을 증명할 수 있는 문서를 제출하게 하여야 한다.② 전항의 문서는 계약상대자로 하여금 원본을 제시하게 하여 확인 후 그 사본 1통씩을 제출하게 할 수 있다.③ 계약상대자가 제1항 및 제2항에 따른 문서의 제출을 거부하거나 제출하지 못한 때에는 검사공무원은 검사를 하지 아니하며 그 내용을 계약담당공무원에게 통지하여야 한다.",
         "enforcement_date": "",
-        "relations": [
-          {
-            "relation_type": "appendix_ref",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제20조",
-            "source_clause": "제20조제3항",
-            "link_text": "별지 제6호 서식",
-            "line_text": "",
-            "target_law_name": "조달청 검사 및 이화학시험 업무규정",
-            "target_article_no": "별지6",
-            "target_article_title": "검사불능 통보",
-            "appendix_no": "6",
-            "appendix_branch": "",
-            "appendix_kind": "별지",
-            "appendix_found": true,
-            "target_mst": "",
-            "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223233",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0020",
-            "target_unit": "BJ0006",
-            "reference_id": "admrul:조달청검사및이화학시험업무규정#BJ0006",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 검사 및 이화학시험 업무규정/조달청 검사 및 이화학시험 업무규정.json"
-          }
-        ],
+        "relations": [],
         "images": [],
         "provision_id": "admrul:조달청검사및이화학시험업무규정#JO0020"
       },
@@ -881,7 +679,7 @@
         "article_title": "재검사",
         "chapter": "제4장  검사의 실시",
         "chapter_path": "제4장  검사의 실시",
-        "content": "제21조(재검사) ① 검사공무원은 다음 각 호의 어느 하나에 해당하는 경우에는 재검사를 할 수 있다.1. 제35조제3항에 따라 불합격된 물품을 보수, 개조 또는 선별하여 납품할 때2. 검사완료 후 납품 전에 합격품에 이상이 있음이 발견되었을 때3. 봉인, 검인 등의 표지가 파괴, 개조되었거나 식별이 곤란할 때4. 계약상대자의 고의 또는 과실로 인하여 판정에 영향을 준 사실이 발견되었을 때5. 기타 특수한 사유로 인하여 재검사가 필요하다고 인정될 때② 검사공무원은 검사증이 발급된 이후에라도 전항 제2호부터 제5호까지의 사유가 발견되었을 때에는 납품검사과장 또는 지방청장의 승인을 받아 재검사를 실시할 수 있다.③ 검사공무원이 재검사를 할 경우에 재검사의 검사수준은 당초의 검사수준 이상을 적용하여야 하며, 필요에 따라서는 전수검사도 할 수 있다.④ 납품검사과장 또는 지방청장은 재검사를 할 경우에는 검사공무원을 따로 지명하여 검사하게 하거나 합동검사를 실시하게 할 수 있다.",
+        "content": "제21조(재검사) ① 조달품질원장 등은 다음 각 호의 어느 하나에 해당하는 경우에는 재검사를 할 수 있다.1. 제35조제3항에 따라 불합격된 물품을 보수, 개조 또는 선별하여 납품할 때2. 검사완료 후 납품 전에 합격품에 이상이 있음이 발견되었을 때3. 봉인, 검인 등의 표지가 파괴, 개조되었거나 식별이 곤란할 때4. 계약상대자의 고의 또는 과실로 인하여 판정에 영향을 준 사실이 발견되었을 때5. 기타 특수한 사유로 인하여 재검사가 필요하다고 인정될 때② 검사공무원은 검사증이 발급된 이후에라도 전항 제2호부터 제5호까지의 사유가 발견되었을 때에는 조달품질원장 등의 승인을 받아 재검사를 실시할 수 있다.③ 검사공무원이 재검사를 할 경우에 재검사의 검사수준은 당초의 검사수준 이상을 적용하여야 하며, 필요에 따라서는 전수검사도 할 수 있다.④ 조달품질원장 등은 재검사를 할 경우에는 검사공무원을 따로 지명하여 검사하게 하거나 합동검사를 실시하게 할 수 있다.⑤ 제1항에 따른 재검사에 합격한 경우 계약이행이 완료되면 계약상대자와 협의하여 봉인된 물품에 대한 처분계획을 포함한 봉인해제 요청을 조달품질원장 등에게 하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -913,35 +711,9 @@
         "article_title": "시험용샘플의 채취 및 취급",
         "chapter": "제4장  검사의 실시",
         "chapter_path": "제4장  검사의 실시",
-        "content": "제22조(시험용샘플의 채취 및 취급) ① 시험용샘플은 규격서 또는 한국산업규격 KSQISO-2859-1에서 정한 수량을 채취한다. 다만, 이 수량의 전량을 시험할 필요가 없다고 인정되거나 시험기관이 시험과 보관에 필요한 수량을 요청하는 경우에는 샘플수량을 조정하여 채취할 수 있다.② 검사담당공무원은 시험용 샘플에 샘플번호를 부여하고 동 샘플에 서명하여야 한다.③ 검사공무원은 계약상대자 입회하에 시험용 샘플을 채취하여, 포장 봉합한 후 봉인하여야 한다.④ 검사공무원은 시험용 샘플의 계약상대자와 제작자를 식별할 수 없도록 하여 지체 없이 별지 제7호 서식에 따라 관계 시험기관에 시험을 의뢰하여야 한다. 다만, 계약상대자와 제작자 표지를 삭제할 경우 물품의 성능이나 구조상 이상이 있을 것으로 판단되는 경우는 예외로 한다.",
+        "content": "제22조(시험용샘플의 채취 및 취급) ① 시험용샘플은 규격서 또는 한국산업규격 KS Q ISO 2859-1에서 정한 수량을 채취한다. 다만, 이 수량의 전량을 시험할 필요가 없다고 인정되거나 시험기관이 시험과 보관에 필요한 수량을 요청하는 경우에는 샘플수량을 조정하여 채취할 수 있다.② 검사담당공무원은 시험용 샘플에 샘플번호를 부여하고 동 샘플에 서명하여야 한다.③ 검사공무원은 계약상대자 입회하에 시험용 샘플을 채취하여, 포장 봉합한 후 봉인하여야 한다.④ 검사공무원은 시험용 샘플의 계약상대자와 제작자를 식별할 수 없도록 하여 지체 없이 관계 시험기관에 시험을 의뢰하여야 한다. 다만, 계약상대자와 제작자 표지를 삭제할 경우 물품의 성능이나 구조상 이상이 있을 것으로 판단되는 경우는 예외로 한다.",
         "enforcement_date": "",
-        "relations": [
-          {
-            "relation_type": "appendix_ref",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제22조",
-            "source_clause": "제22조제4항",
-            "link_text": "별지 제7호 서식",
-            "line_text": "",
-            "target_law_name": "조달청 검사 및 이화학시험 업무규정",
-            "target_article_no": "별지7",
-            "target_article_title": "이화학시험 의뢰",
-            "appendix_no": "7",
-            "appendix_branch": "",
-            "appendix_kind": "별지",
-            "appendix_found": true,
-            "target_mst": "",
-            "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223239",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0022",
-            "target_unit": "BJ0007",
-            "reference_id": "admrul:조달청검사및이화학시험업무규정#BJ0007",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 검사 및 이화학시험 업무규정/조달청 검사 및 이화학시험 업무규정.json"
-          }
-        ],
+        "relations": [],
         "images": [],
         "provision_id": "admrul:조달청검사및이화학시험업무규정#JO0022"
       },
@@ -970,7 +742,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000273604&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286944&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0023",
             "target_unit": "BYL0002",
@@ -988,14 +760,14 @@
             "line_text": "",
             "target_law_name": "조달청 검사 및 이화학시험 업무규정",
             "target_article_no": "별지8",
-            "target_article_title": "봉인ㆍ검인등록대장",
+            "target_article_title": "봉인·검인등록대장",
             "appendix_no": "8",
             "appendix_branch": "",
             "appendix_kind": "별지",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223245",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586961",
             "resolve_method": "html",
             "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0023",
             "target_unit": "BJ0008",
@@ -1023,7 +795,7 @@
         "article_title": "이화학 시험",
         "chapter": "제4장  검사의 실시",
         "chapter_path": "제4장  검사의 실시",
-        "content": "제25조(이화학 시험) ① 이화학시험은 조달품질원 조사분석과에서 시험을 실시함을 원칙으로 한다. 다만, 시험능력이 부족하거나 필요한 시험기기가 없을 때 또는 기타 특수한 사정이 있는 경우에는 여타 국가공인시험기관 등에 의뢰할 수 있다.② 검사공무원은 전항의 방법에 의하여서도 시험의 목적을 달성할 수 없을 경우에는 납품검사과장 또는 지방청장의 승인을 받아 정부기관 아닌 특정시설에 의하여 시험할 수 있다.③ 재검사의 경우를 제외하고는 일단 시험을 한 물품은 재차 시험을 하지 아니하는 것을 원칙으로 한다.④ 재검사에 의하여 재차 시험을 하였을 때에는 재차 시험결과를 적용한다.⑤ <삭 제>",
+        "content": "제25조(이화학 시험) ① 이화학시험은 조달품질원에서 시험을 실시함을 원칙으로 한다. 다만, 시험능력이 부족하거나 필요한 시험기기가 없을 때 또는 기타 특수한 사정이 있는 경우에는 그 밖의 국가공인시험기관 등에 의뢰할 수 있다.② 검사공무원은 제1항 단서의 시험기관에서 시험이 불가능할 경우에는 조달품질원장 등의 승인을 받아 다른 시험기관에 의뢰하여 시험할 수 있다.③ 재검사의 경우를 제외하고는 일단 시험을 한 물품은 재차 시험을 하지 아니하는 것을 원칙으로 한다.④ 재검사에 의하여 재차 시험을 하였을 때에는 재차 시험결과를 적용한다.⑤ <삭 제>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1034,7 +806,7 @@
         "article_title": "시험결과에 대한 이의",
         "chapter": "제4장  검사의 실시",
         "chapter_path": "제4장  검사의 실시",
-        "content": "제25조의2(시험결과에 대한 이의) ① 검사공무원은 계약상대자가 제25조에 따른 이화학시험 결과에 대하여 이의를 제기하면, 확인시험이 필요하다고 판단되는 경우 1회에 한해 확인시험을 실시하고 그 결과를 적용한다. 다만, 제3의 시험기관에서 시험하는 것이 적합하다고 판단하는 경우 제3의 기관에 시험의뢰 할 수 있다.② 제1항에 따른 확인시험의 경우 시험수수료는 계약상대자가 부담한다.③ 다음 각 호의 어느 하나에 해당하는 경우 제1항에 따라 확인시험을 할 수 있다.1. 제25조에 따른 이화학시험의 시료와 동일성이 인정되는 로트에서 채취한 시료에 대한 공인시험기관 또는 자체시험 결과가 이화학시험 결과와 다른 경우2. 시료채취, 운송, 보관 등의 과정에서 시료가 손상된 것으로 추정되는 경우④ 제3항에도 불구하고 확인시험을 위해서는 다음 각 호의 조건이 모두 충족되어야 한다.1. 검사결과가 확정되기 전까지 이화학시험 결과에 대하여 이의를 제기하는 경우2. 제25조에 따른 이화학시험을 위해 채취한 시료와 동일한 로트의 시료가 있는 경우⑤ 검사공무원은 시험결과에 대하여 이의를 제기하면 시험방법 및 절차 등을 고려하여 확인시험이 필요하다고 판단되는 경우 확인시험을 하고 그 시험결과를 적용한다. 다만, 시험수수료는 확인시험을 요청한 장의 부담으로 한다.",
+        "content": "제25조의2(시험결과에 대한 이의) ① 조달품질원장 등은 계약상대자가 제25조에 따른 이화학시험 결과에 대하여 이의를 제기하면, 조달품질원 품질관리업무심의회 또는 지방조달청 업무심의회의 심의를 거쳐 확인시험이 필요하다고 판단되는 경우 1회에 한해 확인시험을 실시하고 그 결과를 적용한다. 다만, 제3의 시험기관에서 시험하는 것이 적합하다고 판단하는 경우 제3의 기관에 시험의뢰 할 수 있다.② 제1항에 따른 확인시험의 경우 시험수수료는 계약상대자가 부담한다.③ 다음 각 호의 어느 하나에 해당하는 경우 제1항에 따라 확인시험을 할 수 있다.1. 제25조에 따른 이화학시험의 시료와 동일성이 인정되는 로트에서 채취한 시료에 대한 공인시험기관 또는 자체시험 결과가 이화학시험 결과와 다른 경우2. 시료채취, 운송, 보관 등의 과정에서 시료가 손상된 경우3. 기타 확인시험을 하여야 할 상당한 이유가 있다고 조달품질원장 등이 인정하는 경우④ 제3항에도 불구하고 확인시험을 위해서는 다음 각 호의 조건이 모두 충족되어야 한다.1. 제19조 제1항의 검사결과가 판정되기 전까지 이화학시험 결과에 대하여 이의를 제기하는 경우2. 제25조에 따른 이화학시험을 위해 채취한 시료와 동일한 로트의 시료가 있는 경우⑤  <삭제>",
         "enforcement_date": "",
         "relations": [
           {
@@ -1074,6 +846,26 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0025_02",
             "reference_id": "admrul:조달청검사및이화학시험업무규정#JO0025",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "조달청 검사 및 이화학시험 업무규정/조달청 검사 및 이화학시험 업무규정.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제25조의2",
+            "source_clause": "제25조의2제4항",
+            "link_text": "제19조",
+            "line_text": "",
+            "target_law_name": "조달청 검사 및 이화학시험 업무규정",
+            "target_article_no": "제19조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "33830",
+            "target_url": "https://www.law.go.kr/행정규칙/조달청 검사 및 이화학시험 업무규정/제19조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0025_02",
+            "reference_id": "admrul:조달청검사및이화학시험업무규정#JO0019",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "조달청 검사 및 이화학시험 업무규정/조달청 검사 및 이화학시험 업무규정.json"
           },
@@ -1178,7 +970,7 @@
         "article_title": "검사면제",
         "chapter": "제4장  검사의 실시",
         "chapter_path": "제4장  검사의 실시",
-        "content": "제27조(검사면제) ① 다음 각 호의 어느 하나에 해당하는 물품의 경우에는 검사를 면제할 수 있다.1. 「산업표준화법」 제15조 및 제16조에 따라 인증을 받은 제품2. 「품질경영 및 공산품안전관리법」 제7조에 따라 품질경영체제인증을 받은 자가 제조한 물품3. 「조달사업에 관한 법률」 제18조에 따라 조달청장이 정하여 고시한 품질관리능력 평가기준에 적합한 자가 제조한 물품② 조달품질원장은 제1항에 해당하는 물품에 대하여 과거의 검사 불합격이나 하자 발생빈도, 생명보호ㆍ보건ㆍ안전의 필요성 등을 고려하여 검사를 하지 않을 기준ㆍ범위 등을 정할 수 있다.③ 삭제④ 검사공무원은 검사를 면제할 경우 매년 면제품목의 최초 납품시 계약상대자로부터 해당품목에 대한 품질보증확약서를 징구하여야 하며 이때 계약상대자와 물품의 제작자가 다를 때에는 제작자가 연서한 별지 제19호 서식에 따라 확약서를 징구하여야 한다.",
+        "content": "제27조(검사면제) ① 다음 각 호의 어느 하나에 해당하는 물품의 경우에는 검사를 면제할 수 있다.1. 「산업표준화법」 제15조 및 제16조에 따라 인증을 받은 제품2. 「품질경영 및 공산품안전관리법」 제7조에 따라 품질경영체제인증을 받은 자가 제조한 물품3. 「조달사업에 관한 법률」 제18조에 따라 조달청장이 정하여 고시한 품질관리능력 평가기준에 적합한 자가 제조한 물품② 조달품질원장은 제1항에 해당하는 물품에 대하여 과거의 검사 불합격이나 하자 발생빈도, 생명보호ㆍ보건ㆍ안전의 필요성 등을 고려하여 검사를 하지 않을 기준ㆍ범위 등을 정할 수 있다.③ 삭제④ 검사공무원은 검사를 면제할 경우 매년 면제품목의 최초 납품시 계약상대자로부터 해당품목에 대한 품질보증확약서를 징구하여야 하며 이때 계약상대자와 물품의 제작자가 다를 때에는 제작자가 연서한 품질보증확약서를 징구하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1320,31 +1112,6 @@
             "reference_id": "law:조달사업에관한법률#JO0018",
             "target_repo": "LAW",
             "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json"
-          },
-          {
-            "relation_type": "appendix_ref",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제27조",
-            "source_clause": "제27조제4항",
-            "link_text": "별지 제19호 서식",
-            "line_text": "",
-            "target_law_name": "조달청 검사 및 이화학시험 업무규정",
-            "target_article_no": "별지19",
-            "target_article_title": "품질보증 확약서",
-            "appendix_no": "19",
-            "appendix_branch": "",
-            "appendix_kind": "별지",
-            "appendix_found": true,
-            "target_mst": "",
-            "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223313",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0027",
-            "target_unit": "BJ0019",
-            "reference_id": "admrul:조달청검사및이화학시험업무규정#BJ0019",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 검사 및 이화학시험 업무규정/조달청 검사 및 이화학시험 업무규정.json"
           }
         ],
         "images": [],
@@ -1366,7 +1133,7 @@
         "article_title": "검사결과 보고",
         "chapter": "제4장  검사의 실시",
         "chapter_path": "제4장  검사의 실시",
-        "content": "제29조(검사결과 보고) 검사공무원은 검사가 끝난 후 지체 없이 별지 제2호 서식의 검사결과 보고서를 작성하고 필요한 경우에는 다음 각 호의 사항을 첨부하여 납품검사과장 또는 지방청장에게 보고하여야 한다.1. 로트검사 결과표(별지 제9호 서식)2. 시료채취 확인서(별지 제10호 서식)",
+        "content": "제29조(검사결과 보고) 검사공무원은 검사가 끝난 후 지체 없이 별지 제2호 서식의 검사결과 보고서를 작성하고 필요한 경우에는 다음 각 호의 사항을 첨부하여 조달품질원장 등에게 보고하여야 한다.1. 로트검사 결과표(별지 제9호 서식)2. 시료채취 확인서(별지 제10호 서식)",
         "enforcement_date": "",
         "relations": [
           {
@@ -1379,14 +1146,14 @@
             "line_text": "",
             "target_law_name": "조달청 검사 및 이화학시험 업무규정",
             "target_article_no": "별지2",
-            "target_article_title": "검사계획 및 결과보고서",
+            "target_article_title": "검사계획서, 검사결과서",
             "appendix_no": "2",
             "appendix_branch": "",
             "appendix_kind": "별지",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223209",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586925",
             "resolve_method": "html",
             "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0029",
             "target_unit": "BJ0002",
@@ -1404,14 +1171,14 @@
             "line_text": "",
             "target_law_name": "조달청 검사 및 이화학시험 업무규정",
             "target_article_no": "별지9",
-            "target_article_title": "로트검사의 결과표",
+            "target_article_title": "로트검사의결과표",
             "appendix_no": "9",
             "appendix_branch": "",
             "appendix_kind": "별지",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223251",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586967",
             "resolve_method": "html",
             "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0029",
             "target_unit": "BJ0009",
@@ -1436,7 +1203,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223257",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586973",
             "resolve_method": "html",
             "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0029",
             "target_unit": "BJ0010",
@@ -1537,7 +1304,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223263",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586979",
             "resolve_method": "html",
             "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0034",
             "target_unit": "BJ0011",
@@ -1574,7 +1341,7 @@
         "article_title": "합격, 감가ㆍ감액조건부합격, 불합격의 판정",
         "chapter": "제6장  판정",
         "chapter_path": "제6장  판정",
-        "content": "제35조(합격, 감가ㆍ감액조건부합격, 불합격의 판정) ① 검사공무원은 따로 정한 판정기준이 없는 한 검사결과 검사물품이 계약의 내용과 일치하는지의 여부 또는 검사에 적용한 검사방법에서 정한 판정기준에 따라 합격, 감가ㆍ감액조건부 합격 또는 불합격으로 판정한다.② 이화학시험 결과에 대하여는 한 로트 또는 객관적으로 로트구분이 불가능한 검사대상 수량(전량을 한 로트로 본다)에서 채취한 샘플이 2편이상일 때에는 따로 정한 판정기준이 없는 한 그중 1편이라도 불합격이면 그의 전량을 불합격으로 판정한다.③ 조달품질원장 또는 지방청장은 불합격된 물품의 보수, 개조 또는 선별하여 납품하여도 품질면에서나 사용(본래의 목적)에 지장이 없고 경제적으로 유리하다고 판단되는 품목일 경우에는 계약상대자로 부터 동 불합격품에 대한 보수, 개조 또는 선별계획서를 제출받아 검토한 후 물품의 봉인을 해제하고 계약상대자로 하여금 보수, 개조 또는 선별한 후 재검사 요청토록 조치할 수 있다.",
+        "content": "제35조(합격, 감가ㆍ감액조건부합격, 불합격의 판정) ① 조달품질원장 등은 따로 정한 판정기준이 없는 한 검사결과 검사물품이 계약의 내용과 일치하는지의 여부 또는 검사에 적용한 검사방법에서 정한 판정기준에 따라 합격, 감가ㆍ감액조건부 합격 또는 불합격으로 판정한다.② 이화학시험 결과에 대하여는 한 로트 또는 객관적으로 로트구분이 불가능한 검사대상 수량(전량을 한 로트로 본다)에서 채취한 샘플이 2편이상일 때에는 따로 정한 판정기준이 없는 한 그중 1편이라도 불합격이면 그의 전량을 불합격으로 판정한다.③ 조달품질원장 등은 불합격된 물품의 보수, 개조 또는 선별하여 납품하여도 품질면에서나 사용(본래의 목적)에 지장이 없고 경제적으로 유리하다고 판단되는 품목일 경우에는 계약상대자로 부터 동 불합격품에 대한 보수, 개조 또는 선별계획서를 제출받아 검토한 후 물품의 봉인을 해제하고 계약상대자로 하여금 보수, 개조 또는 선별한 후 재검사 요청토록 조치할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1585,7 +1352,7 @@
         "article_title": "감가ㆍ감액조건부 합격",
         "chapter": "제6장  판정",
         "chapter_path": "제6장  판정",
-        "content": "제36조(감가ㆍ감액조건부 합격) ① 검사공무원은 검사결과 합격으로 판정할 수 없는 물품 중 다음 각 호의 어느 하나에 해당하는 경우에는 감가ㆍ감액조건부로 합격 판정할 수 있다. 단, 감액조건부 합격은 계약상대자 및 수요기관의 장과 감액조건부 합격 수용 여부를 협의하여야 한다.1. 계약의 내용에 감가ㆍ감액조건이 명시되어 있고, 검사결과 부적합 정도가 감가ㆍ감액규정의 허용범위 내일 때2. 불합격 물품에 대하여 계약담당공무원으로부터 감가ㆍ감액조건부로 납품시키겠다는 통지가 있을 때② 한 로트 또는 객관적으로 로트구분이 불가능한 검사대상 수량(전량을 한 로트로 본다)에서 채취한 샘플이 2편 이상일 때에는 따로 정한 기준이 없는 한 그 중 1편이라도 감가ㆍ감액조건부 합격이면 그의 전량을 감가ㆍ감액조건부 합격으로 판정하여, 그 물품의 감가ㆍ감액대상 수량은 전 샘플수에 대한 감가ㆍ감액대상 샘플수의 비율에 의하여 산정한다.",
+        "content": "제36조(감가ㆍ감액조건부 합격) ① 조달품질원장 등은 검사결과 합격으로 판정할 수 없는 물품 중 다음 각 호의 어느 하나에 해당하는 경우에는 감가ㆍ감액조건부로 합격 판정할 수 있다. 단, 감액조건부 합격은 계약상대자 및 수요기관의 장과 감액조건부 합격 수용 여부를 협의하여야 한다.1. 계약의 내용에 감가ㆍ감액조건이 명시되어 있고, 검사결과 부적합 정도가 감가ㆍ감액규정의 허용범위 내일 때2. 불합격 물품에 대하여 계약담당공무원으로부터 감가ㆍ감액조건부로 납품시키겠다는 통지가 있을 때② 한 로트 또는 객관적으로 로트구분이 불가능한 검사대상 수량(전량을 한 로트로 본다)에서 채취한 샘플이 2편 이상일 때에는 따로 정한 기준이 없는 한 그 중 1편이라도 감가ㆍ감액조건부 합격이면 그의 전량을 감가ㆍ감액조건부 합격으로 판정하여, 그 물품의 감가ㆍ감액대상 수량은 전 샘플수에 대한 감가ㆍ감액대상 샘플수의 비율에 의하여 산정한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1596,7 +1363,7 @@
         "article_title": "검사결과 통보",
         "chapter": "제6장  판정",
         "chapter_path": "제6장  판정",
-        "content": "제37조(검사결과 통보) ① 납품검사과장 또는 지방청장은 검사가 완료되면 검사결과서를 작성하여 계약담당공무원, 수요기관 및 계약상대자에게 통보한다.② 불합격된 물품에 대하여 제35조제3항에 따라 재검사를 하고자 할 경우에는 불합격 통보시 보수, 개조 또는 선별 계획서를 제출하도록 요청하여야 한다.③ 납품검사과장 또는 지방청장은 감가ㆍ감액조건부 합격 또는 불합격으로 판정한 물품에 대하여 계약규격과 검사결과 부적합 내용을 대비표에 모두 기재하여야 하며 항목별로 별표3에 따른 결함정도를 명시한다.",
+        "content": "제37조(검사결과 통보) ① 조달품질원장 등은 검사가 완료되면 검사결과서를 작성하여 계약담당공무원, 수요기관 및 계약상대자에게 통보한다.② 불합격된 물품에 대하여 제35조제3항에 따라 재검사를 하고자 할 경우에는 불합격 통보시 보수, 개조 또는 선별 계획서를 제출하도록 요청하여야 한다.③ 조달품질원장 등은 감가ㆍ감액조건부 합격 또는 불합격으로 판정한 물품에 대하여 계약규격과 검사결과 부적합 내용을 대비표에 모두 기재하여야 하며 항목별로 별표3에 따른 결함정도를 명시한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1636,7 +1403,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000273604&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286944&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0037",
             "target_unit": "BYL0003",
@@ -1673,7 +1440,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223283",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586999",
             "resolve_method": "html",
             "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0038",
             "target_unit": "BJ0014",
@@ -1688,9 +1455,9 @@
       {
         "article_no": "제39조",
         "article_title": "검사경위의 통지",
-        "chapter": "제7장  잡칙",
-        "chapter_path": "제7장  잡칙",
-        "content": "제39조(검사경위의 통지) 납품검사과장 또는 지방청장은 업무량의 폭주로 정한 기일내에 검사를 완료하지 못하였거나 기타 특수한 사정으로 검사가 지연되었을 때 그 경위서를 작성하여 계약담당공무원에게 통지하여야 한다.",
+        "chapter": "제7장  보칙",
+        "chapter_path": "제7장  보칙",
+        "content": "제39조(검사경위의 통지) 조달품질원장 등은 검사가 지연될 경우 그 사유를 수요기관 및 계약상대자에게 알려야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1699,8 +1466,8 @@
       {
         "article_no": "제40조",
         "article_title": "허용공차",
-        "chapter": "제7장  잡칙",
-        "chapter_path": "제7장  잡칙",
+        "chapter": "제7장  보칙",
+        "chapter_path": "제7장  보칙",
         "content": "제40조(허용공차) 계약서에 허용공차가 명시되어 있지 아니한 때에는 공인된 규정이나 문헌에서 인정하는 허용공차를 준용할 수 있으며, 이때에 검사공무원은 계약상대자에게 필요한 자료의 제공을 요구할 수 있다.",
         "enforcement_date": "",
         "relations": [],
@@ -1710,8 +1477,8 @@
       {
         "article_no": "제41조",
         "article_title": "수치의 맺음법",
-        "chapter": "제7장  잡칙",
-        "chapter_path": "제7장  잡칙",
+        "chapter": "제7장  보칙",
+        "chapter_path": "제7장  보칙",
         "content": "제41조(수치의 맺음법) 수치의 맺음법에 대하여 계약서에 규정되어 있지 아니할 때에는 검사결과 수치의 맺음은 한국산업규격 KSQ 5002 \"테이타의 통계적 해석 방법\"의 규정에 따른다.",
         "enforcement_date": "",
         "relations": [],
@@ -1721,9 +1488,9 @@
       {
         "article_no": "제42조",
         "article_title": "기록처리 및 보존",
-        "chapter": "제7장  잡칙",
-        "chapter_path": "제7장  잡칙",
-        "content": "제42조(기록처리 및 보존) 검사공무원 및 시험담당공무원은 다음의 기록을 「조달청 기록관리 기준표」를 준용하여 보존하여야 한다.① 검사공무원1. 이화학시험의뢰대장2. 검사증발행대장3. 불합격대장4. 기타 검사업무처리에 필요한 기록② 시험담당 공무원1. 시험의뢰 접수대장(별지 제15호 서식)2. 시험분석결과서철(시험성적서 포함)3. 샘플폐기 보고서철",
+        "chapter": "제7장  보칙",
+        "chapter_path": "제7장  보칙",
+        "content": "제42조(기록처리 및 보존) 검사공무원 및 시험담당공무원은 다음의 기록을 「조달청 기록관리 기준표」를 준용하여 보존하여야 한다.① 검사공무원1. 이화학시험의뢰대장2. 검사증발행대장3. 불합격대장4. 기타 검사업무처리에 필요한 기록② 시험담당 공무원1. 시험의뢰 접수대장2. 시험분석결과서철(시험성적서 포함)3. 샘플폐기 보고서철",
         "enforcement_date": "",
         "relations": [
           {
@@ -1745,31 +1512,6 @@
             "reference_id": "admrul:조달청기록관리기준표#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "조달청 기록관리 기준표/조달청 기록관리 기준표.json"
-          },
-          {
-            "relation_type": "appendix_ref",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제42조",
-            "source_clause": "제42조제2항",
-            "link_text": "별지 제15호 서식",
-            "line_text": "",
-            "target_law_name": "조달청 검사 및 이화학시험 업무규정",
-            "target_article_no": "별지15",
-            "target_article_title": "시험의뢰접수대장",
-            "appendix_no": "15",
-            "appendix_branch": "",
-            "appendix_kind": "별지",
-            "appendix_found": true,
-            "target_mst": "",
-            "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223289",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0042",
-            "target_unit": "BJ0015",
-            "reference_id": "admrul:조달청검사및이화학시험업무규정#BJ0015",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 검사 및 이화학시험 업무규정/조달청 검사 및 이화학시험 업무규정.json"
           }
         ],
         "images": [],
@@ -1778,8 +1520,8 @@
       {
         "article_no": "제43조",
         "article_title": "검사견품의 정리",
-        "chapter": "제7장  잡칙",
-        "chapter_path": "제7장  잡칙",
+        "chapter": "제7장  보칙",
+        "chapter_path": "제7장  보칙",
         "content": "제43조(검사견품의 정리) 계약담당공무원으로부터 받은 견품은 별지 제17호 서식의 견품대장에 기재하고 검사에 사용한 후 당해년도 경과후 6개월간 보존한다. 다만, 계약담당공무원의 요구가 있을 때에는 지체 없이 이를 반환한다.",
         "enforcement_date": "",
         "relations": [
@@ -1800,7 +1542,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223301",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587017",
             "resolve_method": "html",
             "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0043",
             "target_unit": "BJ0017",
@@ -1815,8 +1557,8 @@
       {
         "article_no": "제44조",
         "article_title": "자료요구",
-        "chapter": "제7장  잡칙",
-        "chapter_path": "제7장  잡칙",
+        "chapter": "제7장  보칙",
+        "chapter_path": "제7장  보칙",
         "content": "제44조(자료요구) 검사공무원은 납품시 불량품의 혼입을 방지하기 위하여 계약상대자로부터 불합격 물품 또는 선별 후 남은 불량품 처리에 대한 증빙자료를 요구할 수 있다.",
         "enforcement_date": "",
         "relations": [],
@@ -1826,45 +1568,19 @@
       {
         "article_no": "제45조",
         "article_title": "샘플의 보관",
-        "chapter": "제7장  잡칙",
-        "chapter_path": "제7장  잡칙",
-        "content": "제45조(샘플의 보관) 시험에 필요하여 제출된 샘플은 별지 제15호 서식의 시험의뢰 접수대장에 기재하고 그 성질 및 종류에 따라 다음 기간 동안 이를 보관한다.1. 금속, 섬유류 등 일정기간 경과하여도 그 본래의 성분에 변질이 생기지 않는 물질은 1년간 보관한다. 다만, 유효기간이 1년 미만인 물품의 샘플은 그 유효기간동안 보관한다.2. 페인트, 잉크, 지류제품 등 일정기간이 경과하여도 성분의 변질은 없으나 성질ㆍ상태ㆍ형태 등의 변화로 재시험에 지장이 있는 준변질물은 2개월간 보관한다. 다만, 단순한 도금제품(크립, 핀 등)도 이에 준한다.3. 폭발물, 인화질물, 생물, 식료품 등 안전상 보관이 유해하거나 상온에서 단시일 내에 변질되는 물품과 비품류(책상, 캐비닛)는 보관하지 아니한다.",
+        "chapter": "제7장  보칙",
+        "chapter_path": "제7장  보칙",
+        "content": "제45조(샘플의 보관) 시험에 필요하여 제출된 샘플은 시험의뢰 접수대장에 기재하고 그 성질 및 종류에 따라 다음 기간 동안 이를 보관한다.1. 금속, 섬유류 등 일정기간 경과하여도 그 본래의 성분에 변질이 생기지 않는 물질은 1년간 보관한다. 다만, 유효기간이 1년 미만인 물품의 샘플은 그 유효기간동안 보관한다.2. 페인트, 잉크, 지류제품 등 일정기간이 경과하여도 성분의 변질은 없으나 성질ㆍ상태ㆍ형태 등의 변화로 재시험에 지장이 있는 준변질물은 2개월간 보관한다. 다만, 단순한 도금제품(크립, 핀 등)도 이에 준한다.3. 폭발물, 인화질물, 생물, 식료품 등 안전상 보관이 유해하거나 상온에서 단시일 내에 변질되는 물품과 비품류(책상, 캐비닛)는 보관하지 아니한다.",
         "enforcement_date": "",
-        "relations": [
-          {
-            "relation_type": "appendix_ref",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제45조",
-            "source_clause": "제45조",
-            "link_text": "별지 제15호 서식",
-            "line_text": "",
-            "target_law_name": "조달청 검사 및 이화학시험 업무규정",
-            "target_article_no": "별지15",
-            "target_article_title": "시험의뢰접수대장",
-            "appendix_no": "15",
-            "appendix_branch": "",
-            "appendix_kind": "별지",
-            "appendix_found": true,
-            "target_mst": "",
-            "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223289",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0045",
-            "target_unit": "BJ0015",
-            "reference_id": "admrul:조달청검사및이화학시험업무규정#BJ0015",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 검사 및 이화학시험 업무규정/조달청 검사 및 이화학시험 업무규정.json"
-          }
-        ],
+        "relations": [],
         "images": [],
         "provision_id": "admrul:조달청검사및이화학시험업무규정#JO0045"
       },
       {
         "article_no": "제46조",
         "article_title": "샘플의 폐기",
-        "chapter": "제7장  잡칙",
-        "chapter_path": "제7장  잡칙",
+        "chapter": "제7장  보칙",
+        "chapter_path": "제7장  보칙",
         "content": "제46조(샘플의 폐기) 제43조에 따른 보관기간이 만료된 또는 보관하지 않는 샘플은 샘플폐기 보고서에 기장하고 폐기처분한다. 그러나 계약상대자의 요청이 있을 경우에는 샘플을 반환할 수 있고 이에 드는 비용은 계약상대자의 부담으로 한다.",
         "enforcement_date": "",
         "relations": [
@@ -1895,8 +1611,8 @@
       {
         "article_no": "제47조",
         "article_title": "기구 등의 제공",
-        "chapter": "제7장  잡칙",
-        "chapter_path": "제7장  잡칙",
+        "chapter": "제7장  보칙",
+        "chapter_path": "제7장  보칙",
         "content": "제47조(기구 등의 제공) 조달물자시험의 기구 등의 제공에 있어서도 시험분석규칙 제5조를 준용한다.",
         "enforcement_date": "",
         "relations": [
@@ -1927,8 +1643,8 @@
       {
         "article_no": "제48조",
         "article_title": "특수소모품의 처리",
-        "chapter": "제7장  잡칙",
-        "chapter_path": "제7장  잡칙",
+        "chapter": "제7장  보칙",
+        "chapter_path": "제7장  보칙",
         "content": "제48조(특수소모품의 처리) 시약 등 원형 그대로 사용할 수 없는 것은 그 희석, 조제 등의 상황만을 시험분석결과서에 기입 보고한다.",
         "enforcement_date": "",
         "relations": [],
@@ -1938,45 +1654,19 @@
       {
         "article_no": "제49조",
         "article_title": "수수료 납입 등 절차",
-        "chapter": "제7장  잡칙",
-        "chapter_path": "제7장  잡칙",
-        "content": "제49조(수수료 납입 등 절차) ① <삭 제>② 검사공무원은 별지 제7호 서식에 따라 조사분석과장에게 시험을 의뢰하고 조사분석과장이 산정한 시험수수료를 확인하여 계약상대자 등에게 고지한다.③ 제2항 본문에 따른 수수료는 조달품질원 수입으로 한다.",
+        "chapter": "제7장  보칙",
+        "chapter_path": "제7장  보칙",
+        "content": "제49조(수수료 납입 등 절차) ① <삭 제>② 검사공무원은 조사분석과장에게 시험을 의뢰하고 조사분석과장이 산정한 시험수수료를 확인하여 계약상대자 등에게 고지한다.③ 제2항 본문에 따른 수수료는 조달품질원 수입으로 한다.",
         "enforcement_date": "",
-        "relations": [
-          {
-            "relation_type": "appendix_ref",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제49조",
-            "source_clause": "제49조제2항",
-            "link_text": "별지 제7호 서식",
-            "line_text": "",
-            "target_law_name": "조달청 검사 및 이화학시험 업무규정",
-            "target_article_no": "별지7",
-            "target_article_title": "이화학시험 의뢰",
-            "appendix_no": "7",
-            "appendix_branch": "",
-            "appendix_kind": "별지",
-            "appendix_found": true,
-            "target_mst": "",
-            "source_admrul_seq": "33830",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223239",
-            "resolve_method": "html",
-            "source_provision_id": "admrul:조달청검사및이화학시험업무규정#JO0049",
-            "target_unit": "BJ0007",
-            "reference_id": "admrul:조달청검사및이화학시험업무규정#BJ0007",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 검사 및 이화학시험 업무규정/조달청 검사 및 이화학시험 업무규정.json"
-          }
-        ],
+        "relations": [],
         "images": [],
         "provision_id": "admrul:조달청검사및이화학시험업무규정#JO0049"
       },
       {
         "article_no": "제50조",
         "article_title": "사후품질관리",
-        "chapter": "제7장  잡칙",
-        "chapter_path": "제7장  잡칙",
+        "chapter": "제7장  보칙",
+        "chapter_path": "제7장  보칙",
         "content": "제50조(사후품질관리) <삭 제>",
         "enforcement_date": "",
         "relations": [],
@@ -1986,8 +1676,8 @@
       {
         "article_no": "제51조",
         "article_title": "재검토기한",
-        "chapter": "제7장  잡칙",
-        "chapter_path": "제7장  잡칙",
+        "chapter": "제7장  보칙",
+        "chapter_path": "제7장  보칙",
         "content": "제51조(재검토기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 훈령에 대하여 2026년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
         "enforcement_date": "",
         "relations": [
@@ -2024,10 +1714,10 @@
       "content": "부칙 <제1395호,2007. 7. 4.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:조달청검사및이화학시험업무규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000273604",
+      "source_mst": "2100000286944",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260123"
+      "version_enforcement_date": "20261013"
     },
     {
       "promulgation_date": "20090821",
@@ -2035,10 +1725,10 @@
       "content": "부칙 <제1467호,2009. 8. 21.>이 훈령은 2009년 8월 24일부터 시행한다.",
       "provision_id": "admrul:조달청검사및이화학시험업무규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000273604",
+      "source_mst": "2100000286944",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260123"
+      "version_enforcement_date": "20261013"
     },
     {
       "promulgation_date": "20101130",
@@ -2046,10 +1736,10 @@
       "content": "부칙 <제1501호,2010. 11. 30.>제1조 이 규정은 발령한 날부터 시행한다.제2조 생략,제3조(다른 법령의 개정) [별표 1] 샘플링 검사 실시기준의 1.5, 2.1, 3.1, 3.2, 4.2, [별지 제1호 서식], [별지 제4호 서식], [별지 제14호 서식]의 품질검사팀장을 자재품질관리과장으로 한다. [별표 1] 샘플링 검사 실시기준의 1.5, 3.1, [별표1-1호]KSA ISO 2859-1를 KSQ ISO 2859-1로, [별표 1-2호 서식] KSA 3151를 KS Q-1003로 한다. [별지 제11호 서식]의 분석팀을 품질보증팀으로 한다.",
       "provision_id": "admrul:조달청검사및이화학시험업무규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000273604",
+      "source_mst": "2100000286944",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260123"
+      "version_enforcement_date": "20261013"
     },
     {
       "promulgation_date": "20120825",
@@ -2057,10 +1747,10 @@
       "content": "부칙 <제1577호,2012. 8. 25.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:조달청검사및이화학시험업무규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000273604",
+      "source_mst": "2100000286944",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260123"
+      "version_enforcement_date": "20261013"
     },
     {
       "promulgation_date": "20130319",
@@ -2068,10 +1758,10 @@
       "content": "부칙 <제1594호,2013. 3. 19.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:조달청검사및이화학시험업무규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000273604",
+      "source_mst": "2100000286944",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260123"
+      "version_enforcement_date": "20261013"
     },
     {
       "promulgation_date": "20170726",
@@ -2079,10 +1769,10 @@
       "content": "부칙 <제1797호,2017. 7. 26.>이 규정은 2017년 8월 1일부터 시행한다.",
       "provision_id": "admrul:조달청검사및이화학시험업무규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000273604",
+      "source_mst": "2100000286944",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260123"
+      "version_enforcement_date": "20261013"
     },
     {
       "promulgation_date": "20190610",
@@ -2090,10 +1780,10 @@
       "content": "부칙 <제1868호,2019. 6. 10.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:조달청검사및이화학시험업무규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000273604",
+      "source_mst": "2100000286944",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260123"
+      "version_enforcement_date": "20261013"
     },
     {
       "promulgation_date": "20201116",
@@ -2101,10 +1791,10 @@
       "content": "부칙 <제1952호,2020. 11. 16.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:조달청검사및이화학시험업무규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000273604",
+      "source_mst": "2100000286944",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260123"
+      "version_enforcement_date": "20261013"
     },
     {
       "promulgation_date": "20240411",
@@ -2112,10 +1802,10 @@
       "content": "부칙 <제143호, 2024. 4. 11.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:조달청검사및이화학시험업무규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000273604",
+      "source_mst": "2100000286944",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260123"
+      "version_enforcement_date": "20261013"
     },
     {
       "promulgation_date": "20260123",
@@ -2123,10 +1813,21 @@
       "content": "부칙 <제2343호, 2026. 1. 23.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:조달청검사및이화학시험업무규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000273604",
+      "source_mst": "2100000286944",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260123"
+      "version_enforcement_date": "20261013"
+    },
+    {
+      "promulgation_date": "20261013",
+      "promulgation_no": "2416",
+      "content": "부칙 <제2416호, 2026. 10. 13.>이 규정은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:조달청검사및이화학시험업무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000286944",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261013"
     }
   ],
   "appendices": [
@@ -2138,18 +1839,18 @@
       "enforcement_date": "",
       "content": "[별표 1]\n샘플링 검사 실시기준\n????????????????????????????????????????????\n1. 총  설\n1.1.이 기준은 「조달청 검사 및 이화학시험 업무규정」 제17조에 따라 샘플링검사를 실시함에 있어 필요한 사항을 규정함을 목적으로 한다.\n1.2.샘플링검사의 검사방식과 실시절차의 기준은 한국산업규격(K.S)에 따른다.\n1.3.이 기준에서 사용하는 용어의 뜻은 다음과 같다.\n(1) 검사 아이템이란 적합품 또는 부적합품으로 분류한다던가 부적합수를 세는 등 검사의 대상이 되는 물품을 말한다. 이것은 한개 또는 한 군(群)의 물품일 때도 있고 또는 일정한 길이, 면적, 체적일 때도 있으며 일개의 공정이라든가 완제품의 부분품 또는 완제품 그 자체일 때도 있다.\n(2) 로트의 크기란 검사로트를 구성하는 아이템의 총수를 말한다.\n(3) 샘플의 크기란 샘플중의 아이템의 총수를 말한다.\n(4) 중부적합이란 제품아이템를 못쓰게 하거나 제품 아이템이 목적하는 실질적인 실용성을 감소시킬 것으로 예상되는 부적합을 말한다.\n(5) 경부적합이란 규격에는 벗어나지만 제품 아이템이 목적하는 실질적인 실용성에는 영향을 미치지 아니하거나 사용상 지장이 없을 것으로 예상되는 부적합을 말한다.\n(6) 중부적합품이란 한개 또는 그 이상의 중부적합을 갖는 아이템을 말한다.\n(7) 경부적합품이란 한개 또는 그 이상의 경부적합을 갖는 아이템을 말한다.\n(8) 합격품질수준이란 샘플링검사를 실시하는데 있어서 받아들이고 싶은 품질수준 중 만족하다고 생각되는 품질수준의 부적합품 퍼센트 또는 100아이템당 부적합수를 말하며 납품된 물품의 수준을 정하기 위한 기준을 말한다.\n(9)검사수준이란 검사로트의 크기와 샘플의 크기간의 관계를 결정하는 기준을 말한다.\n1.4.샘플링검사는 다음의 순서로 행한다.\n(1) 계약내용의 검토\n(2) 합격품질수준의 지정\n(3) 검사수준의 지정\n(4) 검사정도(수월한 검사, 보통검사, 까다로운 검사) 결정\n(5) 샘플링 형식 결정\n(6) 검사로트의 크기 및 구성방법 결정\n(7) 주샘플링표에 의한 판정개수 결정\n(8) 샘플의 채취\n(9) 샘플의 확인 및 시험\n(10) 검사로트의 판정 및 처리\n1.5.납품검사과장이 따로 지정하지 아니하는 한 최초 검사시의 합격, 불합격 판정개수의 결정은 KSQ ISO 2859-1 부표 2-A 보통검사의 1회 샘플링 방식(주 샘플링표)을 적용한다.\n2. 합격품질수준의 지정\n2.1.합격품질수준은 계약서에 명시되어 있지 아니하는 한 납품검사과장이 별표(1-1호표)의 범위내에서 지정한다. 다만, 변경이 필요한 경우에는 조달품질원장이 조정할 수 있다.\n2.2.한 검사아이템에 여러 검사항목이 있는 경우에 이를 단일로 하거나 개개 또는 소군으로 나누어서 이에 각각 다른 합격품질수준을 지정할 수 있다.\n2.3.합격품질수준의 지정은 계약상대자가 그 범위 내에서 부적합품임을 알면서 공급하여도 좋다는 뜻은 아니다.\n2.4.합격품질수준에 관한 부적합 정도(경부적합, 중부적합)의 내용이 계약서등에 별도로 명시되어 있지 않았을 때에는 특별한 경우를 제외하고는 관능검사 사항은 경부적합, 이화학시험 사항은 중부적합으로 정한다.\n3. 검사수준의 지정\n3.1.납품검사과장이 따로 지정하지 아니하는 한 최초 검사수준은 KSQ ISO 2859-1 부표 1 샘플(크기)문자에서 관능검사는 통상검사수준Ⅱ,이화학시험에 있어서는 특별검사수준 S-1을 적용한다. 다만, 샘플의 크기는 부표1 샘플(크기)문자의 로트의 크기에 따라 정하여진 대로하되, 납품검사과장이 필요하다고 생각할 때에는 검사수준단계를 조정할 수 있다.\n3.2.납품검사과장은 검사공무원의 검사계획서를 검토한 후 검사물품의 품질보장을 위하여 필요하다고 인정될 때에는 품목의 실정에 따라 한국산업규격(K.S)에서 정한 검사수준 중에서 알맞는 검사수준을 임의로 지정할 수 있다.\n3.3.한 검사 아이템에 여러 검사항목를 동일한 검사수준을 적용하여 검사하기 곤란할 경우에는 검사항목을 개개 또는 소군(小群)으로 나누어서 이에 각각 다른 검사수준을 적용할 수 있다.\n4. 샘플의 채취\n4.1.샘플은 그 로트의 품질을 대표할 수 있도록 주관에 치우침이 없이 랜덤하게 채취하여야 한다. 이 목적을 위하여 어느 아이템을 샘플로써 채취할 것인가는 난수표, 난수주사위 및 난수기 등을 사용하여 결정한다.\n4.2.샘플 채취에 있어서 난수표, 난수주사위 및 난수기 등 중 어느 것을 선택하여 사용할 것인가는 그때 그때의 상황에 따라 검사공무원이 임의로 결정할 수 있다. 다만, 로트의 크기가 너무 크거나 검사비용 및 시간의 과다 소요로 이들 방법의 적용이 곤란할 때에는 납품검사과장이 랜덤샘플링 기초조사서에 지정한 방법에 따라 행한다 <별표 1-2호 서식>.\n4.3.검사공무원은 샘플의 채취에 앞서서 로트의 구성이 「조달청 검사 및 이화학시험 업무규정」 제13조에 따라 이행되어 있는지를 조사하여야 하며 그와 같이 되어있지 아니한 때에는 계약상대자로 하여금 로트의 구성 및 로트별 표지를 다시하게 한 후 4.2 방법으로 하여 채취한다.\n4.4.채취한 샘플의 시험의뢰를 다음날로 미루는 것은 원칙적으로 피한다. 다만, 다음날로 미룰 수밖에 없는 경우에는 샘플이 바뀌지 아니하도록 유의하여 보관하여야 한다.\n5. 검사로트의 판정 및 처리\n5.1.합격품질수준은 [별표 1-1호표], 를 적용하되 샘플로부터 발견된 부적합품의 수가 합격판정 개수 이하일 때에는 그 로트는 합격으로 판정하고, 불합격 판정개수 이상일 때에는 그 로트는 불합격으로 판정한다.\n5.2.샘플로부터 발견된 부적합품의 수가 합격판정 개수보다 많더라도 「조달청검사 및 이화학시험 업무규정」 제36조에 해당될 때에는 그 로트를 감가조건부 합격으로 판정할 수 있다.\n5.3.검사도중에 발견된 부적합품은 그 로트가 합격이건 불합격이건 간에 모두 계약상대자에게 반환한다.\n5.4.불합격 판정된 로트는 절차를 거쳐 그대로 계약상대자에게 반환한다.",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000273604&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223165",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286944&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587069",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223157",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587061",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223165",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587069",
           "name": "",
           "file_store_url": ""
         }
@@ -2169,18 +1870,18 @@
       "enforcement_date": "",
       "content": "[별표 1-1호]\n\n분류별 합격품질수준(AQL)\n┏━━━━┳━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃구 분   ┃합격품질수준(AQL)               ┃비    고                                            ┃\n┃(대분류)┣━━━━━━┳━━━━━━━━━┫(참조 : 적용품류)                                   ┃\n┃        ┃경불량품    ┃중불량품          ┃                                                    ┃\n┃        ┃(비파괴검사)┃(파괴검사)        ┃                                                    ┃\n┃        ┃(관능검사)  ┃(관능,이화학시험) ┃                                                    ┃\n┣━━━━╋━━━━━━╋━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃10분류  ┃4.0         ┃1.0               ┃[10]산동식물및동식물성생산품,[11]광물,직물및        ┃\n┃        ┃            ┃                  ┃비식용동식물자원[12]화학제품,[13]수지,고무,         ┃\n┃        ┃            ┃                  ┃탄성중합체,[14]종이원료및종이제품,[15]연료,연       ┃\n┃        ┃            ┃                  ┃료첨가제,윤활유및방부식제                           ┃\n┣━━━━╋━━━━━━╋━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃20분류  ┃6.5         ┃1.5               ┃[20]광산기계및액세서리,[21]농,수,임,축산용기        ┃\n┃        ┃            ┃                  ┃계,[22]건축건설기계및보조용품,[23]산업용제조        ┃\n┃        ┃            ┃                  ┃가공기계및액세서리,[24]물품취급.조정,저장기         ┃\n┃        ┃            ┃                  ┃계,액세서리및소모품,[25]상용.군용,개인용운송        ┃\n┃        ┃            ┃                  ┃기구및액세서리와부품,[26]회전기기및경전             ┃\n┃        ┃            ┃                  ┃기,[27]공구및범용기계                               ┃\n┣━━━━╋━━━━━━╋━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃30분류  ┃4.0         ┃1.0               ┃[30]건자재,[31]제조부품,[32]전자부품및소모품,[39]전 ┃\n┃        ┃            ┃                  ┃기시스템,조명,부품,액세서리및보조용품               ┃\n┣━━━━╋━━━━━━╋━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃40분류  ┃6.5         ┃1.5               ┃[40]배관유체조절시스템장비및부품,[41]실험실         ┃\n┃        ┃            ┃                  ┃용실험,측정,관측및검사기기,[42]의료용기             ┃\n┃        ┃            ┃                  ┃기,[43]정보기술방송및통신기,[44]사무용기기액        ┃\n┃        ┃            ┃                  ┃세서리및용품,[45]인쇄,사진및시청각기기,[46]         ┃\n┃        ┃            ┃                  ┃공공안전및치안장비,[47]위생장비및용품,[48]서        ┃\n┃        ┃            ┃                  ┃비스업용기계장비및용품,[49]스포츠및레크리           ┃\n┃        ┃            ┃                  ┃에이션장비용품및액세서리                            ┃\n┣━━━━╋━━━━━━╋━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃50분류  ┃6.5         ┃1.5               ┃[50]식음료품및담배제품,[51]의약품,[52]가정용품      ┃\n┃        ┃            ┃                  ┃및가전제품,[53]의류,가방및개인관리용품,[54]시       ┃\n┃        ┃            ┃                  ┃계,보석및원석제품,[55]출판물,[56]가구및관련제       ┃\n┃        ┃            ┃                  ┃품                                                  ┃\n┣━━━━╋━━━━━━╋━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃60분류  ┃2.5         ┃0.65              ┃[60]악기,게임,장난감,미술작품,공예품,교육용장       ┃\n┃        ┃            ┃                  ┃비,교재,교육용품및교육용보조품                      ┃\n┗━━━━┻━━━━━━┻━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n※ 주기 : 1. 본 AQL은 당해 품류의 하한이므로 한 품목의 검사에 적용할 경우에는 실정에 따라 위에 정한 AQL의 범위내에서 상향 조정하여 적용하도록 한다.\n2. 검사의 샘플링 단위\n가. 관능검사의 샘플링 단위는 최소단위(개,매,조 등)으로 한다.\n나. 이화학시험의샘플링 단위는 계약단위(박스,속 등)으로 한다.\n단, 샘플링검사 방식(주 샘플링표)은 KSQ ISO 2859-1에 의하되 시료의 크기는 최초의 시료글자로 한다.",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000273604&bylNo=0001&bylBrNo=01",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223171",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286944&bylNo=0001&bylBrNo=01",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587075",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223167",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587071",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223171",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587075",
           "name": "",
           "file_store_url": ""
         }
@@ -2200,18 +1901,18 @@
       "enforcement_date": "",
       "content": "[별표 1-2호 서식]\n랜덤샘플링 기초조사서\n??????????????????????????????????????????????\n1. 시료채취일자：\n2. 시료채취자：\n3. 품        명：\n4. 규        격：\n5. 수        량：\n6. 로 트 의 수：\n7. 검사실시기준：KS Q-1003의 랜덤샘플링방법중 계통샘플링방법을 적용함.\n┏━━━━━━━━━┯━━━━━━┯━━━━━━┓\n┃검사의 방식       │관        능│이   화   학┃\n┃구   분           │            │            ┃\n┣━━━━━━━━━┿━━━━━━┿━━━━━━┫\n┃검 사 기 준       │            │            ┃\n┠─────────┼──────┼──────┨\n┃합 격 품 질 수 준 │            │            ┃\n┃(A . Q . L)       │            │            ┃\n┠─────────┼──────┼──────┨\n┃시 료 의 크 기    │            │            ┃\n┠─────────┼──────┼──────┨\n┃샘 플 링 간 격    │            │            ┃\n┠─┬───────┼──────┼──────┨\n┃출│번 호         │            │            ┃\n┃발├───────┼──────┼──────┨\n┃점│확 인 자      │            │            ┃\n┗━┷━━━━━━━┷━━━━━━┷━━━━━━┛",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000273604&bylNo=0001&bylBrNo=02",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223177",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286944&bylNo=0001&bylBrNo=02",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587081",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223173",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587077",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223177",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587081",
           "name": "",
           "file_store_url": ""
         }
@@ -2229,20 +1930,20 @@
       "kind": "별표",
       "title": "봉인 및 검인의 기본형태",
       "enforcement_date": "",
-      "content": "[별표 2]\n봉인 및 검인의 기본형태\n??????????????????????????????????????????????????\n\n봉      인                         검      인\n\n\n┃←  3cm     →┃\n\n\n┃←  3cm     →┃\n\n",
+      "content": "[별표 2]\n봉인 및 검인의 기본형태\n??????????????????????????????????????????????????\n\n봉      인                         검      인\n\n\n┃←  3cm     →┃\n\n\n┃←  3cm     →┃\n\n\n",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000273604&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223183",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286944&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587087",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223179",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587083",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223183",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587087",
           "name": "",
           "file_store_url": ""
         }
@@ -2262,18 +1963,18 @@
       "enforcement_date": "",
       "content": "[별표 3]\n결함정도 분류기준\n┌─────┬─────────────────────┬────────┐\n│결함정도  │분류기준                                  │비  고          │\n├─────┼─────────────────────┼────────┤\n│치명부적합│그 제품을 사용, 유지 혹은 보관하고 있는   │KS Q ISO 3534-1 │\n│(치명결합)│사람에게 위험이 미치거나, 안전하지 않은   │(용어 및 기호)  │\n│          │상황을 초래할 것으로 예상되는 부적합      │                │\n│          │주요 최종 제품의 기본적 기능에 중대한 영  │                │\n│          │향을 미칠 것으로 예상되는 부적합          │                │\n├─────┼─────────────────────┼────────┤\n│중대부적합│치명 부적합은 아니나, 검사 단위의 실용성  │KS Q ISO 3534-1 │\n│(중결함)  │을 실질적으로 저하시키고, 초기의 목적을   │(용어 및 기호)  │\n│          │달성하는 것이 곤란하다고 예상되는 부적합  │                │\n├─────┼─────────────────────┼────────┤\n│경미부적합│검사 단위의 실용성 또는 유효한 사용, 조작 │KS Q ISO 3534-1 │\n│(경결함)  │등에는 거의 지장이 없다고 예상되는 부적합 │(용어 및 기호)  │\n└─────┴─────────────────────┴────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000273604&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223189",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286944&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587093",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223185",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587089",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223189",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587093",
           "name": "",
           "file_store_url": ""
         }
@@ -2291,20 +1992,20 @@
       "kind": "별지",
       "title": "검사요청서",
       "enforcement_date": "",
-      "content": "[별지 제1호 서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃검  사   요  청  서                                                           ┃\n┣━━━━━┯━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃계약상대자│주  소│                                                          ┃\n┃          │      │                                                          ┃\n┃          ├───┼──────┬───┬─────┬────┬───────┨\n┃          │상  호│            │대표자│          │전화번호│              ┃\n┃          │      │            │      │          │        │              ┃\n┠─────┼───┼──────┴───┴─────┴────┴───────┨\n┃납 품 자  │주  소│                                                          ┃\n┃          │      │                                                          ┃\n┃          ├───┼──────┬───┬─────┬────┬───────┨\n┃          │상  호│            │대표자│          │전화번호│              ┃\n┃          │      │            │      │          │        │              ┃\n┠─────┼───┴──────┴───┼─────┴───┬┴───────┨\n┃수요 기관 │                            │제품의 종류       │중간자재ㆍ완제품┃\n┃          │                            │(해당품에 ?표)   │                ┃\n┣━━━━━┿━━━━┯━━━━┯━━━━┿━━━━┯━━━━┿━━━┯━━━━┫\n┃계약 번호 │품    명│계약수량│요청수량│검    사│검    사│납 기 │금    액┃\n┃          │        │        │        │요망일자│요청장소│      │        ┃\n┣━━━━━┿━━━━┿━━━━┿━━━━┿━━━━┿━━━━┿━━━┿━━━━┫\n┃          │        │        │        │        │        │      │        ┃\n┠─────┼────┼────┼────┼────┼────┼───┼────┨\n┃          │        │        │        │        │        │      │        ┃\n┠─────┼────┼────┼────┼────┼────┼───┼────┨\n┃          │        │        │        │        │        │      │        ┃\n┠─────┼────┼────┼────┼────┼────┼───┼────┨\n┃          │        │        │        │        │        │      │        ┃\n┠─────┼────┼────┼────┼────┼────┼───┼────┨\n┃          │        │        │        │        │        │      │        ┃\n┠─────┼────┼────┼────┼────┼────┼───┼────┨\n┃          │        │        │        │        │        │      │        ┃\n┠─────┼────┼────┼────┼────┼────┼───┼────┨\n┃          │        │        │        │        │        │      │        ┃\n┠─────┼────┼────┼────┼────┼────┼───┼────┨\n┃          │        │        │        │        │        │      │        ┃\n┠─────┼────┼────┼────┼────┼────┼───┼────┨\n┃          │        │        │        │        │        │      │        ┃\n┠─────┼────┼────┼────┼────┼────┼───┼────┨\n┃          │        │        │        │        │        │      │        ┃\n┗━━━━━┷━━━━┷━━━━┷━━━━┷━━━━┷━━━━┷━━━┷━━━━┛\n조달청 검사 및 이화학시험 업무규정 제8조에 의하여 검사를 요청합니다.\n201  년  월   일\n상      호  :\n대표자 성명 :             (인)\n\n조달품질원 납품검사과장   귀하",
+      "content": "[별지 제1호서식]\n검 사 요 청 서\n※나라장터 전자문서 출력물\n문서번호 :작성일자 :\n[ 계 약 업 체 ]\n상    호 : 대 표 자 :\n주    소 :\n담당자 전화 :담당자 팩스  :\n실담당자명  : 실담당자전화 :\n[ 납 품 업 체 ]\n업 체 명 :대 표 자 명 :\n[ 검 사 요 청 ]\n검사요청번호 :검사유형 :\n검 사 자 :검사요청일 :\n계약번호 :납품요구번호 :\n납품기한 :\n검사요청장소 :\n[ 물품내역 ]\n┌─┬──────┬───────┬────────────────────┐\n│No│물품분류번호│품명          │규격                                    │\n│  ├──────┼──┬────┼────┬────┬────┬──┬──┤\n│  │물품식별번호│수량│계약수량│검사완료│검사잔량│수량단위│단가│금액│\n├─┼──────┼──┴────┼────┴────┴────┴──┴──┤\n│  │            │              │                                        │\n│  ├──────┼──┬────┼────┬────┬────┬──┬──┤\n│  │            │    │        │        │        │        │    │    │\n├─┼──────┼──┴────┼────┴────┴────┴──┴──┤\n│  │            │              │                                        │\n│  ├──────┼──┬────┼────┬────┬────┬──┬──┤\n│  │            │    │        │        │        │        │    │    │\n├─┼──────┼──┴────┼────┴────┴────┴──┴──┤\n│  │            │              │                                        │\n│  ├──────┼──┬────┼────┬────┬────┬──┬──┤\n│  │            │    │        │        │        │        │    │    │\n└─┴──────┴──┴────┴────┴────┴────┴──┴──┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223195",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586911",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223191",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586907",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223195",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586911",
           "name": "",
           "file_store_url": ""
         }
@@ -2322,20 +2023,20 @@
       "kind": "별지",
       "title": "규격변경 검사요청서",
       "enforcement_date": "",
-      "content": "[별지 제1-1호 서식]\n규격변경 검사요청서\n※나라장터 전자문서 출력물\n\n문서번호 :  작성일자 :\n\n[ 계 약 업 체 ]\n┌────┬─────┬────┬──┐\n│상   호 │          │대 표 자│(인)│\n├────┼─────┴────┴──┤\n│주   소 │                          │\n├────┼────┬┬────┬──┤\n│담당자  │성    명││휴대전화│    │\n│        ├────┼┼────┼──┤\n│        │전화번호││FAX번호 │    │\n├────┼────┼┼────┼──┤\n│실담당자│성    명││휴대전화│    │\n└────┴────┴┴────┴──┘\n[ 검 사 요 청 ]\n┌──────┬┬──────┬┐\n│검사요청번호││검 사 유 형 ││\n├──────┼┼──────┼┤\n│검  사  자  ││검사 요청일 ││\n├──────┼┼──────┼┤\n│계 약  번 호││납품요구번호││\n├──────┼┼──────┼┤\n│납 품  기 한││검사요청장소││\n└──────┴┴──────┴┘\n[ 계약규격 변경내역 ]\n┌────────┬───┬───┬─────────┐\n│규격서 항목     │당  초│변  경│비  고            │\n├────┬───┤      │      │                  │\n│항목번호│항  목│      │      │                  │\n├────┼───┼───┼───┼─────────┤\n│        │      │      │      │                  │\n├────┼───┼───┼───┼─────────┤\n│        │      │      │      │                  │\n├────┼───┼───┼───┼─────────┤\n│        │      │      │      │                  │\n├────┼───┼───┼───┼─────────┤\n│        │      │      │      │                  │\n├────┴───┴───┴───┴─────────┤\n│계약규격 변경내역을 제외한 규격은 계약규격과 동일함 │\n└──────────────────────────┘\n\n붙임 :  증빙자료(공문, 감독관 확인서, 현장회의록 등)\n\n\n\n[ 물품내역 ]\n┌─┬──────┬───────┬────────────────────┐\n│No│물품분류번호│품명          │규격                                    │\n│  ├──────┼──┬────┼────┬────┬────┬──┬──┤\n│  │물품식별번호│수량│계약수량│검사완료│검사잔량│수량단위│단가│금액│\n├─┼──────┼──┴────┼────┴────┴────┴──┴──┤\n│  │            │              │                                        │\n│  ├──────┼──┬────┼────┬────┬────┬──┬──┤\n│  │            │    │        │        │        │        │    │    │\n├─┼──────┼──┴────┼────┴────┴────┴──┴──┤\n│  │            │              │                                        │\n│  ├──────┼──┬────┼────┬────┬────┬──┬──┤\n│  │            │    │        │        │        │        │    │    │\n├─┼──────┼──┴────┼────┴────┴────┴──┴──┤\n│  │            │              │                                        │\n│  ├──────┼──┬────┼────┬────┬────┬──┬──┤\n│  │            │    │        │        │        │        │    │    │\n└─┴──────┴──┴────┴────┴────┴────┴──┴──┘",
+      "content": "[별지 제1-1호서식]\n규격변경 검사요청서\n※나라장터 전자문서 출력물\n\n문서번호 :  작성일자 :\n\n[ 계 약 업 체 ]\n┌────┬─────┬────┬──┐\n│상   호 │          │대 표 자│(인)│\n├────┼─────┴────┴──┤\n│주   소 │                          │\n├────┼────┬┬────┬──┤\n│담당자  │성    명││휴대전화│    │\n│        ├────┼┼────┼──┤\n│        │전화번호││팩스번호│    │\n├────┼────┼┼────┼──┤\n│실담당자│성    명││휴대전화│    │\n└────┴────┴┴────┴──┘\n[ 검 사 요 청 ]\n┌──────┬┬──────┬┐\n│검사요청번호││검 사 유 형 ││\n├──────┼┼──────┼┤\n│검  사  자  ││검사 요청일 ││\n├──────┼┼──────┼┤\n│계 약  번 호││납품요구번호││\n├──────┼┼──────┼┤\n│납 품  기 한││검사요청장소││\n└──────┴┴──────┴┘\n[ 계약규격 변경내역 ]\n┌────────┬───┬───┬─────────┐\n│규격서 항목     │당  초│변  경│비  고            │\n├────┬───┤      │      │                  │\n│항목번호│항  목│      │      │                  │\n├────┼───┼───┼───┼─────────┤\n│        │      │      │      │                  │\n├────┼───┼───┼───┼─────────┤\n│        │      │      │      │                  │\n├────┼───┼───┼───┼─────────┤\n│        │      │      │      │                  │\n├────┼───┼───┼───┼─────────┤\n│        │      │      │      │                  │\n├────┴───┴───┴───┴─────────┤\n│계약규격 변경내역을 제외한 규격은 계약규격과 동일함 │\n└──────────────────────────┘\n\n붙임 :  증빙자료(공문, 감독관 확인서, 현장회의록 등)\n\n\n\n[ 물품내역 ]\n┌─┬──────┬───────┬────────────────────┐\n│No│물품분류번호│품명          │규격                                    │\n│  ├──────┼──┬────┼────┬────┬────┬──┬──┤\n│  │물품식별번호│수량│계약수량│검사완료│검사잔량│수량단위│단가│금액│\n├─┼──────┼──┴────┼────┴────┴────┴──┴──┤\n│  │            │              │                                        │\n│  ├──────┼──┬────┼────┬────┬────┬──┬──┤\n│  │            │    │        │        │        │        │    │    │\n├─┼──────┼──┴────┼────┴────┴────┴──┴──┤\n│  │            │              │                                        │\n│  ├──────┼──┬────┼────┬────┬────┬──┬──┤\n│  │            │    │        │        │        │        │    │    │\n├─┼──────┼──┴────┼────┴────┴────┴──┴──┤\n│  │            │              │                                        │\n│  ├──────┼──┬────┼────┬────┬────┬──┬──┤\n│  │            │    │        │        │        │        │    │    │\n└─┴──────┴──┴────┴────┴────┴────┴──┴──┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223201",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586917",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223197",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586913",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223201",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586917",
           "name": "",
           "file_store_url": ""
         }
@@ -2351,248 +2052,248 @@
       "no": "0002",
       "branch": "00",
       "kind": "별지",
-      "title": "검사계획 및 결과보고서",
+      "title": "검사계획서, 검사결과서",
       "enforcement_date": "",
-      "content": "[별지 제2호 갑서식]\n검사계획 및 결과보고서\n????????????????????????????????????????????????????\n(갑     지)\n┏━━━━┯━━━━┯━━━━┯━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃담  당  │사무관  │과 장   │년┃                                                        ┃\n┠────┼────┼────┤월┃                                                        ┃\n┃        │        │        │일┃                                                        ┃\n┃        │        │        │  ┃                                                        ┃\n┣━━━━┿━━━━┷━━━━┿━┻━┯━━━━━━━┯━━━━┯━━━━┯━━━━━━━━┫\n┃계약    │품    명          │규    │계  약  량    │분할납품│납품기일│계약상대자      ┃\n┃번호    │                  │격    │(납품요구량)  │가    부│        │                ┃\n┠────┼─────────┼───┼───────┼────┼────┼────────┨\n┃        │                  │      │              │        │        │                ┃\n┃        │                  │      │              │        │        │                ┃\n┃        │                  │      │              │        │        │                ┃\n┠────┼─────────┴───┼───────┼────┼────┼────────┨\n┃검사    │합 격 품 질 수 준         │검사수준      │검사형식│검 사 의│비  고          ┃\n┃방식    ├─────┬───────┤              │        │까다롭기│                ┃\n┃        │경        │중            │              │        │        │                ┃\n┠────┼─────┼───────┼───────┼────┼────┼────────┨\n┃        │          │              │              │        │        │                ┃\n┃        │          │              │              │        │        │                ┃\n┃        │          │              │              │        │        │                ┃\n┠────┼───┬─┴─┬─────┴───────┼────┴────┼────────┨\n┃검사량  │로트의│시료의│판  정  기  준            │검사결과불량품수  │검사일자        ┃\n┃        │ 수 및│      ├──────┬──────┤                  │                ┃\n┃        │크  기│크 기 │경 불 량    │중 불 량    │                  │                ┃\n┃        │      │      ├──┬───┼──┬───┼─────┬───┼──┬─────┨\n┃        │      │      │합격│불합격│합격│불합격│경        │중    │관능│이화학시험┃\n┠────┼───┼───┼──┼───┼──┼───┼─────┼───┼──┼─────┨\n┃        │      │      │    │      │    │      │          │      │    │          ┃\n┃        │      │      │    │      │    │      │          │      │    │          ┃\n┃        │      │      │    │      │    │      │          │      │    │          ┃\n┃        │      │      │    │      │    │      │          │      │    │          ┃\n┃        │      │      │    │      │    │      │          │      │    │          ┃\n┃        │      │      │    │      │    │      │          │      │    │          ┃\n┃        │      │      │    │      │    │      │          │      │    │          ┃\n┃        │      │      │    │      │    │      │          │      │    │          ┃\n┃        │      │      │    │      │    │      │          │      │    │          ┃\n┃        │      │      │    │      │    │      │          │      │    │          ┃\n┃        │      │      │    │      │    │      │          │      │    │          ┃\n┠────┼───┴───┴┬─┴───┴┬─┴──┬┴─────┴┬──┴──┼─────┨\n┃판   정 │합    격        │감가조건부  │불 합 격│ 년  월       │검사공무원│비  고    ┃\n┃        │                │합      격  │        │일            │          │          ┃\n┃        ├────────┼──────┼────┼───────┼─────┼─────┨\n┃        │                │            │        │              │          │          ┃\n┃        │                │            │        │              │          │          ┃\n┃        │                │            │        │              │          │          ┃\n┃        │                │            │        │              │          │          ┃\n┃        │                │            │        │              │          │          ┃\n┗━━━━┷━━━━━━━━┷━━━━━━┷━━━━┷━━━━━━━┷━━━━━┷━━━━━┛\n[별지 제2호 을서식]\n┏━━━━━━┯━━━━━━┯━━━━┯━━━━━━━━━┯━━━━━┓\n┃검 사 항 목 │규 격 내 용 │중 요 도│검사결과(불량내역)│결점 또는 ┃\n┃            │            │        │                  │불량율    ┃\n┣━━━━━━┿━━━━━━┿━━━━┿━━━━━━━━━┿━━━━━┫\n┃            │            │        │                  │          ┃\n┃            │            │        │                  │          ┃\n┃            │            │        │                  │          ┃\n┃            │            │        │                  │          ┃\n┃            │            │        │                  │          ┃\n┃            │            │        │                  │          ┃\n┃            │            │        │                  │          ┃\n┃            │            │        │                  │          ┃\n┃            │            │        │                  │          ┃\n┃            │            │        │                  │          ┃\n┃            │            │        │                  │          ┃\n┃            │            │        │                  │          ┃\n┗━━━━━━┷━━━━━━┷━━━━┷━━━━━━━━━┷━━━━━┛",
+      "content": "[별지 제2호서식]\n검 사 계 획 서\n※나라장터 전자문서 출력물\n문서번호 :작성일자 :\n문서기능 :\n[ 검 사 정 보 ]\n검사요청번호 : 검사요청일 :\n검사담당자 : 검사부서 :\n전화번호 :팩스번호 :\n검사수량 : 검사금액 :\n[ 계 약 내 용 ]\n계약번호 :납품요구번호 :\n계약구분 :계약방법 :\n계약기간 :계약금액 :\n계약건명 :\n납품기한 :\n분할납품여부 :총계약수량 :\n검사기관 :검수기관 :\n계약담당자 :\n비    고 :\n[ 납 품 업 체 ]\n상     호 :대 표 자 :\n[ 물품내역 및 검사정보 ]\n┌──┬──────┬───┬────────────┬──────┬─────┐\n│순번│물품분류번호│품  명│규  격                  │수량        │이화학여부│\n├──┼──────┼───┼────────────┼──────┼─────┤\n│    │            │      │                        │            │          │\n├──┴────┬─┴─┬─┴────┬───────┴──────┴─────┤\n│물품분류번호  │      │품명 / 규격 │                                        │\n├───────┼───┼──────┼───────┬──────┬─────┤\n│검사유형      │      │검사형식    │              │까다롭기    │          │\n├───────┼───┼──────┼───────┼──────┼─────┤\n│로트의 수     │      │합격수준(관)│              │검사수준(관)│          │\n├───────┼───┼──────┼───────┼──────┼─────┤\n│검사방식      │      │합격수준(이)│              │검사수준(이)│          │\n├───────┼───┼──────┼───────┼──────┼─────┤\n│경불량판정기준│합  격│            │중불량판정기준│합  격      │          │\n│              ├───┼──────┤              ├──────┼─────┤\n│              │불합격│            │              │불합격      │          │\n├───────┼───┴──────┼───────┼──────┴─────┤\n│시료크기(관)  │                    │시료크기(이)  │                        │\n├───────┼──────────┼───────┼────────────┤\n│샘플링간격(관)│                    │샘플링간격(이)│                        │\n├───────┼──────────┴───────┴────────────┤\n│비  고        │                                                              │\n└───────┴───────────────────────────────┘\n[ 이화학시험정보 ]\n┌──┬──────┬──┬───┬────┬────┬────┬────┐\n│순번│물품분류번호│품명│부품명│시험항목│시험방법│시험조건│시험단위│\n├──┼──────┼──┼───┼────┼────┼────┼────┤\n│    │            │    │      │        │        │        │        │\n├──┼──────┼──┼───┼────┼────┼────┼────┤\n│    │            │    │      │        │        │        │        │\n├──┼──────┼──┼───┼────┼────┼────┼────┤\n│    │            │    │      │        │        │        │        │\n└──┴──────┴──┴───┴────┴────┴────┴────┘\n[별지 제2호서식]\n검 사 결 과 서\n※나라장터 전자문서 출력물\n문서번호 :작성일자 :\n문서기능 :\n[ 검 사 정 보 ]\n검사요청번호 : 검사요청일 :\n검사담당자 :\n개시 :        의뢰 :\n검사일자시험일자\n완료 :        완료 :\n[ 계 약 내 용 ]\n계약번호 :납품요구번호 :\n계약구분 :계약방법 :\n계약기간 :계약금액 :\n계약건명 :\n납품기한 :\n분할납품여부 :총계약수량 :\n검사기관 :검수기관 :\n계약담당자 :\n비    고 :\n[ 납 품 업 체 ]\n상     호 :대 표 자 :\n[ 물품내역 및 검사정보 ]\n┌──┬──────┬──┬──┬──┬──┐\n│순번│물품분류번호│품명│규격│수량│판정│\n├──┼──────┼──┼──┼──┼──┤\n│    │            │    │    │    │    │\n├──┼──────┼──┼──┼──┼──┤\n│    │            │    │    │    │    │\n├──┼──────┼──┼──┼──┼──┤\n│    │            │    │    │    │    │\n└──┴──────┴──┴──┴──┴──┘\n┌────┬────┐\n│계약규격│검사결과│\n├────┼────┤\n│        │        │\n├────┴────┤\n│검사결과 통보내용 │\n├─────────┤\n│                  │\n└─────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223209",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586925",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223203",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586919",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223209",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586925",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:조달청검사및이화학시험업무규정#BJ0002",
-      "filename": "별지2_검사계획 및 결과보고서.pdf",
+      "filename": "별지2_검사계획서, 검사결과서.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지2_검사계획 및 결과보고서.pdf",
+      "local_path": "별지/별지2_검사계획서, 검사결과서.pdf",
       "file_store_url": ""
     },
     {
       "no": "0003",
       "branch": "00",
       "kind": "별지",
-      "title": "검사장소 지정통보",
+      "title": "삭제",
       "enforcement_date": "",
-      "content": "[별지 제3호 서식]\n\n“전자서비스, 품질혁신, 디자인경영으로 미래를 여는 조달청!”\n\n발 신 기 관 명\n\n\n\n수신자\n\n(경유)\n\n제  목    검사장소 지정통보\n────────────────────────────────\n계약번호      호에 의한 물품의 검사에 있어서 검사장소를 아래와 같이 지정하니 검사에 필요한 제반 준비 사항을 완료한  후 검사를 요청하여 주시기 바랍니다.\n-  아          래  -\n┏━━━━━━┯━━━━━━┯━━━━━┓\n┃납 품 장 소 │지 정 장 소 │비      고┃\n┣━━━━━━┿━━━━━━┿━━━━━┫\n┃            │            │          ┃\n┗━━━━━━┷━━━━━━┷━━━━━┛\n\n\n\n\n\n\n\n\n\n협조자\n\n\n\n시행    발신과-@N             (   201  .  .     )   접수                        (           )\n\n우            주   소                                 /     발  신  기  관\n\n전화                /전송                 /                             /   공개\n",
+      "content": "[별지 제3호 서식] (삭제)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223215",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586931",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223211",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586927",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223215",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586931",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:조달청검사및이화학시험업무규정#BJ0003",
-      "filename": "별지3_검사장소 지정통보.pdf",
+      "filename": "별지3_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지3_검사장소 지정통보.pdf",
+      "local_path": "별지/별지3_삭제.pdf",
       "file_store_url": ""
     },
     {
       "no": "0004",
       "branch": "00",
       "kind": "별지",
-      "title": "중간검사 통보",
+      "title": "삭제",
       "enforcement_date": "",
-      "content": "【별지 제4호 서식】\n\n\n“전자서비스, 품질혁신, 디자인경영으로 미래를 여는 조달청!”\n\n발 신 기 관 명\n\n\n\n수신자\n\n(경유)\n\n제  목    중간검사 통보\n────────────────────────────────\n계약번호      호에 의한 물품에 대하여 물품구매계약 일반조건 제19조 제3항의 규정에 따라  아래와 같이 중간검사를 실시하고자 하니 중간검사를 받고자 하는 날로 부터 3일전까지 검사요청서를 제출하기 바람.\n-  아          래  -\n┏━━━━━┯━━━━━┯━━━━━━┯━━━━━┯━━━━━┓\n┃ 품     명│수     량 │검 사 항 목 │규     격 │비      고┃\n┣━━━━━┿━━━━━┿━━━━━━┿━━━━━┿━━━━━┫\n┃          │          │            │          │          ┃\n┗━━━━━┷━━━━━┷━━━━━━┷━━━━━┷━━━━━┛\n\n\n\n\n\n\n\n\n\n협조자\n\n\n\n시행    발신과-@N             (   201  .   .    )   접수                        (           )\n\n우            주   소                                 /     발  신  기  관\n\n전화                /전송                 /                             /   공개\n",
+      "content": "[별지 제4호 서식] (삭제)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223221",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586937",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223217",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586933",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223221",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586937",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:조달청검사및이화학시험업무규정#BJ0004",
-      "filename": "별지4_중간검사 통보.pdf",
+      "filename": "별지4_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지4_중간검사 통보.pdf",
+      "local_path": "별지/별지4_삭제.pdf",
       "file_store_url": ""
     },
     {
       "no": "0005",
       "branch": "00",
       "kind": "별지",
-      "title": "중간검사결과 통보",
+      "title": "삭제",
       "enforcement_date": "",
-      "content": "【별지 제5호 서식】\n\n\n“전자서비스, 품질혁신, 디자인경영으로 미래를 여는 조달청!”\n\n발 신 기 관 명\n\n\n\n수신자\n\n(경유)\n\n제  목    중간검사결과 통보\n────────────────────────────────\n계약번호      호에 의한 중간검사 결과를 아래와 같이 통보하니 계약의 내용과 상이한 것에 대해서는 계약의 내용대로 시정하고 검사요청하시기  바랍니다.\n-  아          래  -\n┏━━━━━┯━━━━━━┯━━━━━━┯━━━━━┓\n┃ 구     분│계약의 내용 │검 사 결 과 │비      고┃\n┣━━━━━┿━━━━━━┿━━━━━━┿━━━━━┫\n┃          │            │            │          ┃\n┗━━━━━┷━━━━━━┷━━━━━━┷━━━━━┛\n\n\n\n\n\n\n\n\n\n협조자\n\n\n\n시행    발신과-@N             (   201  .   .    )   접수                        (           )\n\n우            주   소                                 /     발  신  기  관\n\n전화                /전송                 /                             /   공개\n",
+      "content": "[별지 제5호 서식] (삭제)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223227",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586943",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223223",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586939",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223227",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586943",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:조달청검사및이화학시험업무규정#BJ0005",
-      "filename": "별지5_중간검사결과 통보.pdf",
+      "filename": "별지5_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지5_중간검사결과 통보.pdf",
+      "local_path": "별지/별지5_삭제.pdf",
       "file_store_url": ""
     },
     {
       "no": "0006",
       "branch": "00",
       "kind": "별지",
-      "title": "검사불능 통보",
+      "title": "삭제",
       "enforcement_date": "",
-      "content": "【별지 제6호 서식】\n\n\n“전자서비스, 품질혁신, 디자인경영으로 미래를 여는 조달청!”\n\n발 신 기 관 명\n\n\n\n수신자\n\n(경유)\n\n제  목    검사불능 통보\n────────────────────────────────\n계약번호      호에 의한 아래 수입물품을 검사하기 위하여 물품구매계약일반조건 제19조 제3항의 검사에 필요한 자료로써 조달청검사 및 이화학시험 업무규정 제20조에 의한 문서를 제출하도록 요구하였으나, 계약상대자가 이에 불응하여 동 물품에 대한 검사를 실시할 수 없음을 통보합니다.\n-  아          래  -\n┏━━━━━━━━━━━━┯━━━━━━┓\n┃ 수     입     물     품│비        고┃\n┣━━━━━━━━━━━━┿━━━━━━┫\n┃                        │            ┃\n┗━━━━━━━━━━━━┷━━━━━━┛\n\n\n\n\n\n\n\n\n\n협조자\n\n\n\n시행    발신과-@N             (   201  .   .    )   접수                        (           )\n\n우            주   소                                 /     발  신  기  관\n\n전화                /전송                 /                             /   공개\n",
+      "content": "[별지 제6호 서식] (삭제)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223233",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586949",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223229",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586945",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223233",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586949",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:조달청검사및이화학시험업무규정#BJ0006",
-      "filename": "별지6_검사불능 통보.pdf",
+      "filename": "별지6_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지6_검사불능 통보.pdf",
+      "local_path": "별지/별지6_삭제.pdf",
       "file_store_url": ""
     },
     {
       "no": "0007",
       "branch": "00",
       "kind": "별지",
-      "title": "이화학시험 의뢰",
+      "title": "삭제",
       "enforcement_date": "",
-      "content": "【별지 제7호 서식】\n\n\n“전자서비스, 품질혁신, 디자인경영으로 미래를 여는 조달청!”\n\n발 신 기 관 명\n\n\n\n수신자\n\n(경유)\n\n제  목    이화학시험 의뢰\n────────────────────────────────\n조달청 훈령 제      호   제    조에 의거 아래와 같이 이화학시험을 의뢰하오니 최단시일내에 시험결과를 알려주시기 바랍니다.\n-  아          래  -\n┏━━━━━┯━━━━┯━━━━┯━━━━┯━━━━━━┯━━━┓\n┃시료 번호 │품   명 │시 편 수│시험사항│시험방법    │비  고┃\n┣━━━━━┿━━━━┿━━━━┿━━━━┿━━━━━━┿━━━┫\n┃          │        │        │        │            │      ┃\n┠─────┼────┴────┴────┼──────┼───┨\n┃시험수수료│                            │납부고지일자│      ┃\n┠─────┼──┬──┬────┬───┼──────┼───┨\n┃검사공무원│직명│    │성명    │      │시료확인싸인│      ┃\n┗━━━━━┷━━┷━━┷━━━━┷━━━┷━━━━━━┷━━━┛\n\n\n\n\n\n\n\n\n\n\n협조자\n\n\n\n시행    발신과-@N             (   201  .   .    )   접수                        (           )\n\n우            주   소                                 /     발  신  기  관\n\n전화                /전송                 /                             /   공개\n",
+      "content": "[별지 제7호 서식] (삭제)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223239",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586955",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223235",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586951",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223239",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586955",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:조달청검사및이화학시험업무규정#BJ0007",
-      "filename": "별지7_이화학시험 의뢰.pdf",
+      "filename": "별지7_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지7_이화학시험 의뢰.pdf",
+      "local_path": "별지/별지7_삭제.pdf",
       "file_store_url": ""
     },
     {
       "no": "0008",
       "branch": "00",
       "kind": "별지",
-      "title": "봉인ㆍ검인등록대장",
+      "title": "봉인·검인등록대장",
       "enforcement_date": "",
       "content": "[별지 제8호 서식]\n\n봉인ㆍ검인등록대장\n━━━━━━━━━━━\n┏━━━━━┯━━━┯━━━┯━━━━┯━━━━┯━━━┯━━━┓\n┃봉ㆍ검인  │등  록│직  급│검 사 자│봉  인  │검  인│비  고┃\n┃번    호  │년월일│      │        │        │      │      ┃\n┣━━━━━┿━━━┿━━━┿━━━━┿━━━━┿━━━┿━━━┫\n┃          │      │      │        │        │      │      ┃\n┃          │      │      │        │        │      │      ┃\n┃          │      │      │        │        │      │      ┃\n┃          │      │      │        │        │      │      ┃\n┠─────┼───┼───┼────┼────┼───┼───┨\n┃          │      │      │        │        │      │      ┃\n┃          │      │      │        │        │      │      ┃\n┃          │      │      │        │        │      │      ┃\n┃          │      │      │        │        │      │      ┃\n┠─────┼───┼───┼────┼────┼───┼───┨\n┃          │      │      │        │        │      │      ┃\n┃          │      │      │        │        │      │      ┃\n┃          │      │      │        │        │      │      ┃\n┃          │      │      │        │        │      │      ┃\n┠─────┼───┼───┼────┼────┼───┼───┨\n┃          │      │      │        │        │      │      ┃\n┃          │      │      │        │        │      │      ┃\n┃          │      │      │        │        │      │      ┃\n┃          │      │      │        │        │      │      ┃\n┠─────┼───┼───┼────┼────┼───┼───┨\n┃          │      │      │        │        │      │      ┃\n┃          │      │      │        │        │      │      ┃\n┃          │      │      │        │        │      │      ┃\n┃          │      │      │        │        │      │      ┃\n┗━━━━━┷━━━┷━━━┷━━━━┷━━━━┷━━━┷━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223245",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586961",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223241",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586957",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223245",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586961",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:조달청검사및이화학시험업무규정#BJ0008",
-      "filename": "별지8_봉인ㆍ검인등록대장.pdf",
+      "filename": "별지8_봉인·검인등록대장.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지8_봉인ㆍ검인등록대장.pdf",
+      "local_path": "별지/별지8_봉인·검인등록대장.pdf",
       "file_store_url": ""
     },
     {
       "no": "0009",
       "branch": "00",
       "kind": "별지",
-      "title": "로트검사의 결과표",
+      "title": "로트검사의결과표",
       "enforcement_date": "",
       "content": "[별지 제9호 서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃로 트 검 사 의 결 과 표                                                         ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃품  명 :      200 .     .     .                                                 ┃\n┣━━━━┯━━━━━━━━┯━━━┯━━━━━━━━━━━━┯━━━━━┯━━━┫\n┃검   사 │로트의 크기     │시료의│시료중 불량품           │로 트 의  │로트의┃\n┃로트번호├───┬────┤크기  ├───┬───┬────┤불 량 품  │적  부┃\n┃        │개 수 │비율(%) │      │개 수 │항 목 │비율(%) │추정개수  │      ┃\n┣━━━━┿━━━┿━━━━┿━━━┿━━━┿━━━┿━━━━┿━━━━━┿━━━┫\n┃        │      │        │      │      │      │        │          │      ┃\n┠────┼───┼────┼───┼───┼───┼────┼─────┼───┨\n┃        │      │        │      │      │      │        │          │      ┃\n┠────┼───┼────┼───┼───┼───┼────┼─────┼───┨\n┃        │      │        │      │      │      │        │          │      ┃\n┠────┼───┼────┼───┼───┼───┼────┼─────┼───┨\n┃        │      │        │      │      │      │        │          │      ┃\n┠────┼───┼────┼───┼───┼───┼────┼─────┼───┨\n┃        │      │        │      │      │      │        │          │      ┃\n┠────┼───┼────┼───┼───┼───┼────┼─────┼───┨\n┃        │      │        │      │      │      │        │          │      ┃\n┠────┼───┼────┼───┼───┼───┼────┼─────┼───┨\n┃        │      │        │      │      │      │        │          │      ┃\n┗━━━━┷━━━┷━━━━┷━━━┷━━━┷━━━┷━━━━┷━━━━━┷━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223251",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586967",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223247",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586963",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223251",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586967",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:조달청검사및이화학시험업무규정#BJ0009",
-      "filename": "별지9_로트검사의 결과표.pdf",
+      "filename": "별지9_로트검사의결과표.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지9_로트검사의 결과표.pdf",
+      "local_path": "별지/별지9_로트검사의결과표.pdf",
       "file_store_url": ""
     },
     {
@@ -2601,20 +2302,20 @@
       "kind": "별지",
       "title": "시료채취확인서",
       "enforcement_date": "",
-      "content": "[별지 제10호 서식]\n시 료 채 취 확 인 서\n??????????????????????????????????????????????\n┏━━━━┯━━━━┯━━━━┯━━━━━┯━━━┓\n┃품    명│규   격 │검사수량│시료채취량│비  고┃\n┣━━━━┿━━━━┿━━━━┿━━━━━┿━━━┫\n┃        │        │        │          │      ┃\n┃        │        │        │          │      ┃\n┃        │        │        │          │      ┃\n┃        │        │        │          │      ┃\n┗━━━━┷━━━━┷━━━━┷━━━━━┷━━━┛\n\n200 .  .  . 상기 검사수량에 대한 검사의 시료로서 위와 같이 채취하여 감을 확인함.\n201 .   .\n계약상대자 상호 :\n확   인  자 :           (인)",
+      "content": "[별지 제10호 서식]\n시 료 채 취 확 인 서\n??????????????????????????????????????????????\n┏━━━━┯━━━━┯━━━━┯━━━━━┯━━━┓\n┃품    명│규   격 │검사수량│시료채취량│비  고┃\n┣━━━━┿━━━━┿━━━━┿━━━━━┿━━━┫\n┃        │        │        │          │      ┃\n┃        │        │        │          │      ┃\n┃        │        │        │          │      ┃\n┃        │        │        │          │      ┃\n┗━━━━┷━━━━┷━━━━┷━━━━━┷━━━┛\n\n200 .  .  . 위 검사수량에 대한 검사의 시료로서 위와 같이 채취하여 감을 확인함.\n201 .   .\n계약상대자 상호 :\n확   인  자 :           (인)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223257",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586973",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223253",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586969",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223257",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586973",
           "name": "",
           "file_store_url": ""
         }
@@ -2635,17 +2336,17 @@
       "content": "[별지 제11호 서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃시 험 분 석 결 과 서                                                                        ┃\n┃??????????????????????????????????????????????┃\n┃                                                                                            ┃\n┃                                                                                            ┃\n┃ ① 품   명 :                                                                               ┃\n┣━━━━━┯━━━━━┯━━━━━━━━━┯━━━━┯━━━━━━━━━━━━━━━━━━━┫\n┃②시료번호│③시험항목│④ 시  험  회  수 │⑤ 총계 │⑥ 평균                               ┃\n┃          │          ├─┬─┬─┬─┬─┤        │                                      ┃\n┃          │          │1 │2 │3 │4 │5 │        │                                      ┃\n┣━━━━━┿━━━━━┿━┿━┿━┿━┿━┿━━━━┿━━━━━━━━━━━━━━━━━━━┫\n┃          │          │  │  │  │  │  │        │                                      ┃\n┃          │          │  │  │  │  │  │        │                                      ┃\n┠─────┼─────┼─┼─┼─┼─┼─┼────┼───────────────────┨\n┃          │          │  │  │  │  │  │        │                                      ┃\n┃          │          │  │  │  │  │  │        │                                      ┃\n┠─────┼─────┼─┼─┼─┼─┼─┼────┼───────────────────┨\n┃          │          │  │  │  │  │  │        │                                      ┃\n┃          │          │  │  │  │  │  │        │                                      ┃\n┠─────┼─────┼─┼─┼─┼─┼─┼────┼───────────────────┨\n┃          │          │  │  │  │  │  │        │                                      ┃\n┃          │          │  │  │  │  │  │        │                                      ┃\n┠─────┼─────┼─┼─┼─┼─┼─┼────┼───────────────────┨\n┃          │          │  │  │  │  │  │        │                                      ┃\n┃          │          │  │  │  │  │  │        │                                      ┃\n┠─────┼─────┼─┼─┼─┼─┼─┼────┼───────────────────┨\n┃          │          │  │  │  │  │  │        │                                      ┃\n┃          │          │  │  │  │  │  │        │                                      ┃\n┠─────┼─────┼─┼─┼─┼─┼─┼────┼───────────────────┨\n┃          │          │  │  │  │  │  │        │                                      ┃\n┃          │          │  │  │  │  │  │        │                                      ┃\n┠─────┼─────┼─┼─┼─┼─┼─┼────┼───────────────────┨\n┃          │          │  │  │  │  │  │        │                                      ┃\n┃          │          │  │  │  │  │  │        │                                      ┃\n┠─────┼─────┼─┼─┼─┼─┼─┼────┼───────────────────┨\n┃          │          │  │  │  │  │  │        │                                      ┃\n┃          │          │  │  │  │  │  │        │                                      ┃\n┠─────┼─────┼─┼─┼─┼─┼─┼────┼───────────────────┨\n┃          │          │  │  │  │  │  │        │                                      ┃\n┃          │          │  │  │  │  │  │        │                                      ┃\n┠─────┼─────┼─┼─┼─┼─┼─┼────┼───────────────────┨\n┃          │          │  │  │  │  │  │        │                                      ┃\n┃          │          │  │  │  │  │  │        │                                      ┃\n┠─────┴─────┴─┴─┴─┴─┴─┴────┴───────────────────┨\n┃년     월     일                    확  인  자            (인)                              ┃\n┃                                    조사분석과            (인)                              ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223263",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586979",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223259",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586975",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223263",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586979",
           "name": "",
           "file_store_url": ""
         }
@@ -2661,62 +2362,62 @@
       "no": "0012",
       "branch": "00",
       "kind": "별지",
-      "title": "검사결과 통보",
+      "title": "삭제",
       "enforcement_date": "",
-      "content": "【별지 제12호 서식】\n\n“전자서비스, 품질혁신, 디자인경영으로 미래를 여는 조달청!”\n\n발 신 기 관 명\n\n\n\n수신자\n\n(경유)\n\n제  목    검사결과 통보\n────────────────────────────────\n계약번호      호에 계약물품에 대한 검사결과를 아래와 같이 계약내용과 상이하여 불합격되었기, 조달청검사 및 이화학시험 업무규정 제35조에 의거 그 결과를 통보하여 당과의 봉인해제 승인 없이 불합격품이 임의사용 및 처분되는 사례가 없도록 하여 주시기 바랍니다.\n-  아          래  -\n┏━━━━━━┯━━━━━━┯━━━━━┯━━━━┯━━━━┓\n┃ 품      명 │검 사 수 량 │계약상대자│판    정│수요기관┃\n┃            │            │(납 품 자)│        │        ┃\n┣━━━━━━┿━━━━━━┿━━━━━┿━━━━┿━━━━┫\n┃            │            │          │        │        ┃\n┣━━━━━━┷━━━━━━┷┯━━━━┷━━━━┷━━━━┫\n┃ 계     약     내     용    │검     사     결     과     ┃\n┣━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━┫\n┃                            │                            ┃\n┗━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┛\n\n\n\n\n\n\n\n\n\n협조자\n\n\n\n시행    발신과-@N             (   201  .   .    )   접수                        (           )\n\n우            주   소                                 /     발  신  기  관\n\n전화                /전송                 /                             /   공개\n",
+      "content": "[별지 제12호 서식] (삭제)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223269",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586985",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223265",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586981",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223269",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586985",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:조달청검사및이화학시험업무규정#BJ0012",
-      "filename": "별지12_검사결과 통보.pdf",
+      "filename": "별지12_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지12_검사결과 통보.pdf",
+      "local_path": "별지/별지12_삭제.pdf",
       "file_store_url": ""
     },
     {
       "no": "0013",
       "branch": "00",
       "kind": "별지",
-      "title": "검사결과 통보",
+      "title": "삭제",
       "enforcement_date": "",
-      "content": "【별지 제13호 서식】\n\n“전자서비스, 품질혁신, 디자인경영으로 미래를 여는 조달청!”\n\n발 신 기 관 명\n\n\n\n수신자\n\n(경유)\n\n제  목    검사결과 통보\n────────────────────────────────\n계약번호      호에 계약물품에 대한 검사결과를 계약내용과  상이하여 감가조건부합격되었기, 조달청검사 및 이화학시험 업무규정 제35조에 의거 통보 합니다.\n-  아          래  -\n┏━━━━━━┯━━━━━━┯━━━━━┯━━━━┯━━━━━┓\n┃ 품      명 │검 사 수 량 │계약상대자│판    정│검사증번호┃\n┃            │            │(납 품 자)│        │(수요기관)┃\n┣━━━━━━┿━━━━━━┿━━━━━┿━━━━┿━━━━━┫\n┃            │            │          │        │          ┃\n┣━━━━━━┷━━━━━━┷┯━━━━┷━━━━┷━━━━━┫\n┃ 계     약     내     용    │검     사     결     과       ┃\n┣━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━┫\n┃                            │                              ┃\n┗━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━┛\n\n\n\n\n\n\n\n\n\n협조자\n\n\n\n시행    발신과-@N             (   201  .   .    )   접수                        (           )\n\n우            주   소                                 /     발  신  기  관\n\n전화                /전송                 /                             /   공개\n",
+      "content": "[별지 제13호 서식] (삭제)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223275",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586991",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223271",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586987",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223275",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586991",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:조달청검사및이화학시험업무규정#BJ0013",
-      "filename": "별지13_검사결과 통보.pdf",
+      "filename": "별지13_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지13_검사결과 통보.pdf",
+      "local_path": "별지/별지13_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -2725,20 +2426,20 @@
       "kind": "별지",
       "title": "검사증",
       "enforcement_date": "",
-      "content": "[별지 제14호 서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃ 제    호                                                                         ┃\n┃검        사        증                                                            ┃\n┃                                                                                  ┃\n┣━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━┯━━━━━━━━━━┫\n┃ 아래와 같이 검사결과를 증명함.         │① 계 약 번 호    │                    ┃\n┃201    .     .     .                    ├─────────┼──────────┨\n┃                                        │②  계  약  자    │                    ┃\n┃                                        ├─────────┼──────────┨\n┃ 조달품질원                             │③ 계 약 서 상    │                    ┃\n┃ 납품검사과장   (인)                    │   납 품 일 자    │                    ┃\n┃                                        ├─────────┼──────────┨\n┃                                        │④ 검사 공무원    │                    ┃\n┠────┬──────┬───┬────┴─────┬───┼──────────┨\n┃⑤ 검 사│200 .  .  . │검 사 │⑥ 개시 :  .   .   .│시 험 │⑧ 의뢰 :   .  .   .┃\n┃요청일자│            │일 자 ├──────────┤일 자 ├──────────┨\n┃        │            │      │⑦ 완료 :   .   .  .│      │⑨ 완료 :   .  .   .┃\n┠────┼──────┼───┴───┬─────┬┴───┴┬─────────┨\n┃⑩ 순번 │⑪규격번호  │⑫  품      명│⑬ 수  량 │⑭ 판 정  │⑮ 비 고          ┃\n┣━━━━┿━━━━━━┿━━━━━━━┿━━━━━┿━━━━━┿━━━━━━━━━┫\n┃        │            │              │          │          │                  ┃\n┃        │            │              │          │          │                  ┃\n┠────┼──────┼───────┼─────┼─────┼─────────┨\n┃        │            │              │          │          │                  ┃\n┃        │            │              │          │          │                  ┃\n┠────┼──────┼───────┼─────┼─────┼─────────┨\n┃        │            │              │          │          │                  ┃\n┃        │            │              │          │          │                  ┃\n┠────┼──────┼───────┼─────┼─────┼─────────┨\n┃        │            │              │          │          │                  ┃\n┃        │            │              │          │          │                  ┃\n┠────┼──────┼───────┼─────┼─────┼─────────┨\n┃        │            │              │          │          │                  ┃\n┃        │            │              │          │          │                  ┃\n┠────┼──────┼───────┼─────┼─────┼─────────┨\n┃        │            │              │          │          │                  ┃\n┃        │            │              │          │          │                  ┃\n┠────┼──────┼───────┼─────┼─────┼─────────┨\n┃        │            │              │          │          │                  ┃\n┃        │            │              │          │          │                  ┃\n┠────┼──────┼───────┼─────┼─────┼─────────┨\n┃        │            │              │          │          │                  ┃\n┃        │            │              │          │          │                  ┃\n┠────┼──────┼───────┼─────┼─────┼─────────┨\n┃        │            │              │          │          │                  ┃\n┃        │            │              │          │          │                  ┃\n┗━━━━┷━━━━━━┷━━━━━━━┷━━━━━┷━━━━━┷━━━━━━━━━┛\n[별지 제14호 을지 서식]\n┏━━━━━┯━━━━━━━┯━━━━━┯━━━━━┯━━━━━┯━━━━━┓\n┃⑩ 순  번 │⑪ 규 격 번 호│⑫ 품  명 │⑬ 수  량 │⑭ 판  정 │⑮ 비  고 ┃\n┣━━━━━┿━━━━━━━┿━━━━━┿━━━━━┿━━━━━┿━━━━━┫\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┗━━━━━┷━━━━━━━┷━━━━━┷━━━━━┷━━━━━┷━━━━━┛",
+      "content": "[별지 제14호 서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃ 제    호                                                                         ┃\n┃검        사        증                                                            ┃\n┃                                                                                  ┃\n┣━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━┯━━━━━━━━━━┫\n┃ 아래와 같이 검사결과를 증명함.         │① 계 약 번 호    │                    ┃\n┃202    .     .     .                    ├─────────┼──────────┨\n┃                                        │②  계  약  자    │                    ┃\n┃                                        ├─────────┼──────────┨\n┃ 조달품질원                             │③ 계 약 서 상    │                    ┃\n┃ 납품검사과장   (인)                    │   납 품 일 자    │                    ┃\n┃                                        ├─────────┼──────────┨\n┃                                        │④ 검사 공무원    │                    ┃\n┠────┬──────┬───┬────┴─────┬───┼──────────┨\n┃⑤ 검 사│200 .  .  . │검 사 │⑥ 개시 :  .   .    │시 험 │⑧ 의뢰 :   .  .   .┃\n┃요청일자│            │일 자 │.                   │일 자 │                    ┃\n┃        │            │      ├──────────┤      ├──────────┨\n┃        │            │      │⑦ 완료 :   .   .   │      │⑨ 완료 :   .  .   .┃\n┃        │            │      │.                   │      │                    ┃\n┠────┼──────┼───┴───┬─────┬┴───┴┬─────────┨\n┃⑩ 순번 │⑪규격번호  │⑫  품      명│⑬ 수  량 │⑭ 판 정  │⑮ 비 고          ┃\n┣━━━━┿━━━━━━┿━━━━━━━┿━━━━━┿━━━━━┿━━━━━━━━━┫\n┃        │            │              │          │          │                  ┃\n┃        │            │              │          │          │                  ┃\n┠────┼──────┼───────┼─────┼─────┼─────────┨\n┃        │            │              │          │          │                  ┃\n┃        │            │              │          │          │                  ┃\n┠────┼──────┼───────┼─────┼─────┼─────────┨\n┃        │            │              │          │          │                  ┃\n┃        │            │              │          │          │                  ┃\n┠────┼──────┼───────┼─────┼─────┼─────────┨\n┃        │            │              │          │          │                  ┃\n┃        │            │              │          │          │                  ┃\n┠────┼──────┼───────┼─────┼─────┼─────────┨\n┃        │            │              │          │          │                  ┃\n┃        │            │              │          │          │                  ┃\n┠────┼──────┼───────┼─────┼─────┼─────────┨\n┃        │            │              │          │          │                  ┃\n┃        │            │              │          │          │                  ┃\n┠────┼──────┼───────┼─────┼─────┼─────────┨\n┃        │            │              │          │          │                  ┃\n┃        │            │              │          │          │                  ┃\n┠────┼──────┼───────┼─────┼─────┼─────────┨\n┃        │            │              │          │          │                  ┃\n┃        │            │              │          │          │                  ┃\n┠────┼──────┼───────┼─────┼─────┼─────────┨\n┃        │            │              │          │          │                  ┃\n┃        │            │              │          │          │                  ┃\n┗━━━━┷━━━━━━┷━━━━━━━┷━━━━━┷━━━━━┷━━━━━━━━━┛\n[별지 제7호 을지 서식]\n┏━━━━━┯━━━━━━━┯━━━━━┯━━━━━┯━━━━━┯━━━━━┓\n┃⑩ 순  번 │⑪ 규 격 번 호│⑫ 품  명 │⑬ 수  량 │⑭ 판  정 │⑮ 비  고 ┃\n┣━━━━━┿━━━━━━━┿━━━━━┿━━━━━┿━━━━━┿━━━━━┫\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┠─────┼───────┼─────┼─────┼─────┼─────┨\n┃          │              │          │          │          │          ┃\n┗━━━━━┷━━━━━━━┷━━━━━┷━━━━━┷━━━━━┷━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223283",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586999",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223277",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586993",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223283",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170586999",
           "name": "",
           "file_store_url": ""
         }
@@ -2759,17 +2460,17 @@
       "content": "[별지 제15호 서식]\n시 험 의 뢰 접 수 대 장\n??????????????????????????????????????????????\n┏━━━┯━━━┯━━━━┯━━━━━┯━━━━┯━━━┯━━━┯━━━┓\n┃일 련 │접 수 │의뢰번호│품     명 │시험사항│의뢰자│수수료│편 수 ┃\n┃번 호 │일 자 │        │          │        │      │금  액│      ┃\n┣━━━┿━━━┿━━━━┿━━━━━┿━━━━┿━━━┿━━━┿━━━┫\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┠───┼───┼────┼─────┼────┼───┼───┼───┨\n┃      │      │        │          │        │      │      │      ┃\n┗━━━┷━━━┷━━━━┷━━━━━┷━━━━┷━━━┷━━━┷━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223289",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587005",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223285",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587001",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223289",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587005",
           "name": "",
           "file_store_url": ""
         }
@@ -2785,31 +2486,31 @@
       "no": "0016",
       "branch": "00",
       "kind": "별지",
-      "title": "시험의뢰발송대장",
+      "title": "삭제",
       "enforcement_date": "",
-      "content": "[별지 제16호 서식]\n시 험 의 뢰 발 송 대 장\n????????????????????????????????????????????????????\n┏━━━━┯━━┯━━━┯━━━━┯━━┯━━┯━━━━┓\n┃일련번호│발송│수  신│품    명│발송│접수│비    고┃\n┃        │일자│      │        │방법│번호│        ┃\n┣━━━━┿━━┿━━━┿━━━━┿━━┿━━┿━━━━┫\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┠────┼──┼───┼────┼──┼──┼────┨\n┃        │    │      │        │    │    │        ┃\n┗━━━━┷━━┷━━━┷━━━━┷━━┷━━┷━━━━┛",
+      "content": "[별지 제16호 서식] (삭제)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223295",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587011",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223291",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587007",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223295",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587011",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:조달청검사및이화학시험업무규정#BJ0016",
-      "filename": "별지16_시험의뢰발송대장.pdf",
+      "filename": "별지16_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지16_시험의뢰발송대장.pdf",
+      "local_path": "별지/별지16_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -2821,17 +2522,17 @@
       "content": "[별지 제17호 서식]\n견 품 관 리 대 장\n??????????????????????????????????????┏━━━━━━┯━━━━┯━━━━┯━━━━━━┯━━━━┓\n┃견 품 번 호 │품   명 │견품선정│유 효 기 간 │비   고 ┃\n┃            │        │년 월 일│            │        ┃\n┣━━━━━━┿━━━━┿━━━━┿━━━━━━┿━━━━┫\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┠──────┼────┼────┼──────┼────┨\n┃            │        │        │            │        ┃\n┗━━━━━━┷━━━━┷━━━━┷━━━━━━┷━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223301",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587017",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223297",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587013",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223301",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587017",
           "name": "",
           "file_store_url": ""
         }
@@ -2847,31 +2548,31 @@
       "no": "0018",
       "branch": "00",
       "kind": "별지",
-      "title": "시험분석수수료 납입고지서 발급의뢰",
+      "title": "삭제",
       "enforcement_date": "",
-      "content": "【별지 제18호 서식】\n\n\n“전자서비스, 품질혁신, 디자인경영으로 미래를 여는 조달청!”\n\n발 신 기 관 명\n\n\n\n수신자\n\n(경유)\n\n제  목    시험분석수수료 납입고지서 발급의뢰\n────────────────────────────────\n시험분석 수수료를 아래와 같이 납입고지서를 발급의뢰하오니 납부될 수 있도록 고지서를 발급하여 주시기 바랍니다.\n-  아          래  -\n┏━━━━━━┯━━━━━┯━━━━┓\n┃납부 대상자 │ 회사명 : │ 대표 : ┃\n┃            ├─────┴────┨\n┃            │ 주  소 :           ┃\n┠──────┼──────────┨\n┃품       목 │                    ┃\n┠──────┼──────────┨\n┃고 지 금 액 │                    ┃\n┗━━━━━━┷━━━━━━━━━━┛\n※수수료 산출 내역\n-  아          래  -\n┏━━━━┯━━━━┯━━━━┯━━━━┯━━━━━┓\n┃품    명│시험항목│시험편수│적용단가│시험수수료┃\n┠────┼────┼────┼────┼─────┨\n┃        │        │        │        │          ┃\n┠────┼────┼────┼────┼─────┨\n┃계      │        │        │        │          ┃\n┗━━━━┷━━━━┷━━━━┷━━━━┷━━━━━┛\n끝.\n\n\n\n\n\n\n\n\n\n협조자\n\n\n\n시행    발신과-@N             (   201  .   .    )   접수                        (           )\n\n우            주   소                                 /     발  신  기  관\n\n전화                /전송                 /                             /   공개\n",
+      "content": "[별지 제18호 서식] (삭제)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223307",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587023",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223303",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587019",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223307",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587023",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:조달청검사및이화학시험업무규정#BJ0018",
-      "filename": "별지18_시험분석수수료 납입고지서 발급의뢰.pdf",
+      "filename": "별지18_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지18_시험분석수수료 납입고지서 발급의뢰.pdf",
+      "local_path": "별지/별지18_삭제.pdf",
       "file_store_url": ""
     },
     {
@@ -2880,20 +2581,20 @@
       "kind": "별지",
       "title": "품질보증 확약서",
       "enforcement_date": "",
-      "content": "[별지 제19호 서식]\n품 질 보 증  확 약 서\n????????????????????????????????????????????\n○ 계 약 번 호 :\n○ 납품요구번호 :\n○ 품명 및 규격 :\n당사가 귀청에 납품하는 상기 물품은 \"조달청검사 및 이화학시험 업무규정\"에 의거 검사면제 또는 이화학시험이 생략되었으나 귀청에서 사후점검을 실시할 경우에는 언제라도 당사의 비용부담으로 검사 및 이화학시험에 응하겠음은 물론 사후 검사결과 불합격 판정을 받은 경우에는 불합격 대상에 해당되는 기 납품 물량 일체를 당사의 비용부담으로 회수 및 대체납품하겠으며 만약 대체납품을 못하게 될 경우 납품대금 전액을 환불하고  향후 귀청의 납품 대상에서 폐사를 제외시킬 경우에도 이의를 제기하지 않겠음을 확약합니다.\n년      월      일\n회 사 명 :\n주    소 :\n대표이사 :\n조달청장(조달품질원장, ○○지방청장) 귀하",
+      "content": "[별지 제19호 서식]\n품 질 보 증  확 약 서\n????????????????????????????????????????????\n○ 계 약 번 호 :\n○ 납품요구번호 :\n○ 품명 및 규격 :\n당사가 귀청에 납품하는 위 물품은 \"조달청검사 및 이화학시험 업무규정\"에 의거 검사면제 또는 이화학시험이 생략되었으나 귀청에서 사후점검을 실시할 경우에는 언제라도 당사의 비용부담으로 검사 및 이화학시험에 응하겠음은 물론 사후 검사결과 불합격 판정을 받은 경우에는 불합격 대상에 해당되는 기 납품 물량 일체를 당사의 비용부담으로 회수 및 대체납품하겠으며 만약 대체납품을 못하게 될 경우 납품대금 전액을 환불하고  향후 귀청의 납품 대상에서 폐사를 제외시킬 경우에도 이의를 제기하지 않겠음을 확약합니다.\n년      월      일\n회 사 명 :\n주    소 :\n대표이사 :\n조달청장(조달품질원장, ○○지방청장) 귀하",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223313",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587029",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223309",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587025",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223313",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587029",
           "name": "",
           "file_store_url": ""
         }
@@ -2911,20 +2612,20 @@
       "kind": "별지",
       "title": "납품검사확약서",
       "enforcement_date": "",
-      "content": "[별지 제19-1호 서식]\n납 품 검 사 확 약 서\n??????????????????????????????????????????\n○ 계 약 번 호 :\n○ 납품요구번호 :\n○ 품명 및 규격 :\n상기 물품은 \"조달청검사 및 이화학시험 업무규정\"에 의거 검사가 진행되며, 검사결과 불합격 판정을 받은 경우에는 불합격 대상에 해당하는 기 납품 물량 일체를 당사의 비용부담으로 회수 및 대체 납품하겠으며 만약 대체납품을 못하게 될 경우 납품대금 전액을 환불하고 향후 귀청의 납품 대상에서 당사가 제외되더라도 이의를 제기하지 않겠음을 확약합니다.\n년    월    일\n회 사 명 :\n주    소 :\n대표이사 :\n조달청장(조달품질원장, ○○지방청장) 귀하",
+      "content": "[별지 제19-1호 서식]\n납 품 검 사 확 약 서\n??????????????????????????????????????????\n○ 계 약 번 호 :\n○ 납품요구번호 :\n○ 품명 및 규격 :\n위 물품은 \"조달청검사 및 이화학시험 업무규정\"에 의거 검사가 진행되며, 검사결과 불합격 판정을 받은 경우에는 불합격 대상에 해당하는 기 납품 물량 일체를 당사의 비용부담으로 회수 및 대체 납품하겠으며 만약 대체납품을 못하게 될 경우 납품대금 전액을 환불하고 향후 귀청의 납품 대상에서 당사가 제외되더라도 이의를 제기하지 않겠음을 확약합니다.\n\n년    월    일\n회 사 명 :\n주    소 :\n대표이사 :\n조달청장(조달품질원장, ○○지방청장) 귀하",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223319",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587035",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223315",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587031",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223319",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587035",
           "name": "",
           "file_store_url": ""
         }
@@ -2940,135 +2641,158 @@
       "no": "0020",
       "branch": "00",
       "kind": "별지",
-      "title": "선납 요청 문서 서식",
+      "title": "삭제",
       "enforcement_date": "",
-      "content": "[별지 제20호 서식]\n\"선납 요청 문서 서식\"(수요기관용)\n제목  조달검사 물품 선납요청\n1. 관련 : 조달청 납품요구번호 000000000000\n2. 위 호로 납품 요구한 00품명에 대하여 아래와 같이 선납품을 요청하오니 협조하여 주시기 바랍니다.\n○ 요청사항 : 조달청 검사물품 합격판정 이전 선납품\n- 납품업체명 :\n- 물품명(규격) :\n- 당초납품기한 :\n- 선납품 요청기한 :\n○ 사유 : 선납품 허용에 해당하는 사유\n○ 기타사항 : 납품 이후 조달청검사결과 불합격 판정 시 공급업체(00회사)와 협의하여 합격된 물품으로 교체납품을 받겠으며 이로 인해 발생하는 제 사항에 대하여 이의를 제기하지 않을 것임.",
+      "content": "[별지 제20호 서식] (삭제)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223325",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587041",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223321",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587037",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223325",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587041",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:조달청검사및이화학시험업무규정#BJ0020",
-      "filename": "별지20_선납 요청 문서 서식.pdf",
+      "filename": "별지20_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지20_선납 요청 문서 서식.pdf",
+      "local_path": "별지/별지20_삭제.pdf",
       "file_store_url": ""
     },
     {
       "no": "0021",
       "branch": "00",
       "kind": "별지",
-      "title": "선납 승인 문서 서식",
+      "title": "삭제",
       "enforcement_date": "",
-      "content": "[별지 제21호 서식]\n\"선납 승인 문서 서식\"(조달청용)\n제목  조달검사 물품 선납 요청 승인\n1. 관련: 수요기관문서-00호\n2. 위 호로 선납 요청하신 물품에 대하여 \"검사 불합격시 검사에 합격한 물품으로 대체 납품받고, 불합격 물품 회수에 협조하는 조건\"으로 선납품을 승인하며 이 경우 검사완료(합격)일자를 선납품의 납품일자로 처리해야 함을 알려드리니 업무에 착오가 없도록 해주시기 바랍니다.\n3. 아울러, 00회사는 귀 사 사정상 가능한 경우 아래 물품을 수요기관에 선납품하여 주시기 바랍니다.\n가. 납품요구번호:\n나. 선납물품대상:\n다. 기타: 검사 불합격시 물품회수 등에 소요되는 제비용 업체 부담.  끝.",
+      "content": "[별지 제21호 서식] (삭제)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223331",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587047",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223327",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587043",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223331",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587047",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:조달청검사및이화학시험업무규정#BJ0021",
-      "filename": "별지21_선납 승인 문서 서식.pdf",
+      "filename": "별지21_삭제.pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지21_선납 승인 문서 서식.pdf",
+      "local_path": "별지/별지21_삭제.pdf",
       "file_store_url": ""
     },
     {
       "no": "0022",
       "branch": "00",
       "kind": "별지",
-      "title": "대체납품확약서",
+      "title": "\"대체납품확약서\"(업체용)",
       "enforcement_date": "",
-      "content": "[별지 제22호 서식]\n\"대체납품확약서\"(업체용)\n○ 계약번호:\n○ 납품요구번호:\n○ 품명 및 규격:\n상기 물품은 수요기관의 수요긴급성으로 인하여 관능검사 수검 및 이화학시험 시료채취 후 선납코자 하며 이화학시험결과 불합격 판정을 받은 경우에는 불합격 대상에 해당하는 기 납품 물량 일체를 당사의 비용부담으로 회수 및 대체 납품하겠으며 만약 대체납품을 못하게 될 경우 납품대금 전액을 환불하고 향후 납품대상에서 당사가 제외되더라도 이의를 제기하지 않을 것임을 확약합니다.\n년     월     일\n회 사 명:\n주    소:\n대표이사:\n조달청장(조달품질원장, ○○지방청장) 귀하",
+      "content": "[별지 제22호 서식]\n\"대체납품확약서\"(업체용)\n○ 계약번호:\n○ 납품요구번호:\n○ 품명 및 규격:\n위 물품은 수요기관의 수요긴급성으로 인하여 관능검사 수검 및 이화학시험 시료채취 후 선납코자 하며 이화학시험결과 불합격 판정을 받은 경우에는 불합격 대상에 해당하는 기 납품 물량 일체를 당사의 비용부담으로 회수 및 대체 납품하겠으며 만약 대체납품을 못하게 될 경우 납품대금 전액을 환불하고 향후 납품대상에서 당사가 제외되더라도 이의를 제기하지 않을 것임을 확약합니다.\n년     월     일\n회 사 명:\n주    소:\n대표이사:\n조달청장(조달품질원장, ○○지방청장) 귀하",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223337",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587053",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223333",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587049",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161223337",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587053",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:조달청검사및이화학시험업무규정#BJ0022",
-      "filename": "별지22_대체납품확약서.pdf",
+      "filename": "별지22__대체납품확약서_(업체용).pdf",
       "file_dir": "별지",
-      "local_path": "별지/별지22_대체납품확약서.pdf",
+      "local_path": "별지/별지22__대체납품확약서_(업체용).pdf",
+      "file_store_url": ""
+    },
+    {
+      "no": "0023",
+      "branch": "00",
+      "kind": "별지",
+      "title": "정보통신망을 이용한 송달 동의 여부(동의, 비동의)",
+      "enforcement_date": "",
+      "content": "[별지 제23호 서식]\n정보통신망을 이용한 송달 동의 여부 (동의 ? / 비동의 ?)\n□ 납품검사 결과, 규격미달 시 「행정절차법」에 따라 정보통신망\n(전자우편)으로 관련 행정절차를 송달 받는 것에 동의합니다.\n단, 비동의 시 경쟁입찰참가자격등록증 상의 본사 주소지로 우편 송달\n⇒ 전자우편주소 :               @           (미기재 시, 대표자 전자우편 주소)\n20  .    .    .\n* 당사는 위 내용에 대하여 안내 받았음을 확인합니다.\n업체명 :             직위 :         성명:        (인)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587059",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587055",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587059",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:조달청검사및이화학시험업무규정#BJ0023",
+      "filename": "별지23_정보통신망을 이용한 송달 동의 여부(동의, 비동의).pdf",
+      "file_dir": "별지",
+      "local_path": "별지/별지23_정보통신망을 이용한 송달 동의 여부(동의, 비동의).pdf",
       "file_store_url": ""
     }
   ],
   "attachments": [
     {
-      "name": "(26년) 1.조달청 검사 및 이화학시험 업무규정(조달청훈령 제2343호)(개정전문).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=161209675",
-      "filename": "(26년) 1.조달청 검사 및 이화학시험 업무규정(조달청훈령 제2343호)(개정전문).hwpx",
+      "name": "조달청 검사 및 이화학시험 업무규정 개정전문 및 별표, 별지.zip",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170577033",
+      "filename": "조달청 검사 및 이화학시험 업무규정 개정전문 및 별표, 별지.zip",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/(26년) 1.조달청 검사 및 이화학시험 업무규정(조달청훈령 제2343호)(개정전문).hwpx",
-      "file_store_url": ""
-    },
-    {
-      "name": "(26년) 1.조달청 검사 및 이화학시험 업무규정(조달청훈령 제2343호)(개정전문).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=161209679",
-      "filename": "(26년) 1.조달청 검사 및 이화학시험 업무규정(조달청훈령 제2343호)(개정전문).pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/(26년) 1.조달청 검사 및 이화학시험 업무규정(조달청훈령 제2343호)(개정전문).pdf",
+      "local_path": "첨부파일/조달청 검사 및 이화학시험 업무규정 개정전문 및 별표, 별지.zip",
       "file_store_url": ""
     }
   ],
   "ordinance_delegations": [],
   "relation_mode": "no_crawl",
   "relation_stats": {
-    "relations_total": 60,
+    "relations_total": 48,
     "by_category": {
       "법령": 12,
-      "행정규칙": 48
+      "행정규칙": 36
     },
     "by_relation_type": {
       "citation": 15,
-      "internal_ref": 17,
-      "appendix_ref": 28
+      "internal_ref": 18,
+      "appendix_ref": 15
     },
     "articles_total": 55,
-    "articles_with_relations": 29,
+    "articles_with_relations": 24,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 10,
-    "appendices_count": 29,
-    "attachments_count": 2
+    "addenda_count": 11,
+    "appendices_count": 30,
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/조달청 검사 및 이화학시험 업무규정"
