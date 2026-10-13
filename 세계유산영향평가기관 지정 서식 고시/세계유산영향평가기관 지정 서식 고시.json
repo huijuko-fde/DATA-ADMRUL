@@ -356,5 +356,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "세계유산영향평가기관 지정 서식 고시/세계유산영향평가기관 지정 서식 고시.json"
+  "git_path": "세계유산영향평가기관 지정 서식 고시/세계유산영향평가기관 지정 서식 고시.json",
+  "repealed": true,
+  "repealed_at": "20261013"
 }
