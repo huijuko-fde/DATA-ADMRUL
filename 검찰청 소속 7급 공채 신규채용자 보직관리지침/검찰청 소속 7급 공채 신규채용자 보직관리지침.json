@@ -110,5 +110,7 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "검찰청 소속 7급 공채 신규채용자 보직관리지침/검찰청 소속 7급 공채 신규채용자 보직관리지침.json"
+  "git_path": "검찰청 소속 7급 공채 신규채용자 보직관리지침/검찰청 소속 7급 공채 신규채용자 보직관리지침.json",
+  "repealed": true,
+  "repealed_at": "20261013"
 }
