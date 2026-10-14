@@ -1,25 +1,25 @@
 {
   "law_id": "2084131",
-  "mst": "2100000254400",
+  "mst": "2100000286914",
   "law_name": "국가재난안전교육원 공무원교육상기금운용 규정",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2084131",
-  "promulgation_no": "7",
-  "promulgation_date": "20250207",
-  "enforcement_date": "20250207",
-  "revision_date": "20250207",
+  "promulgation_no": "37",
+  "promulgation_date": "20261014",
+  "enforcement_date": "20261014",
+  "revision_date": "20261014",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "국가재난안전교육원(기획협력과)",
-    "담당자명": "김민성",
+    "담당자명": "이민호",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "국가재난안전교육원 공무원교육상기금운용 규정",
-    "발령일자": "20250207",
+    "발령일자": "20261014",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "041-840-6415",
     "제개정구분명": "일부개정",
     "소관부처코드": "1741000",
-    "생성일자": "20250210",
+    "생성일자": "20261015",
     "행정규칙ID": "2084131",
-    "시행일자": "20250207",
+    "시행일자": "20261014",
     "담당부서기관코드": "1741871",
-    "발령번호": "7",
-    "행정규칙일련번호": "2100000254400",
+    "발령번호": "37",
+    "행정규칙일련번호": "2100000286914",
     "상위부처명": "행정안전부"
   },
-  "amendment_text": "⊙국가재난안전교육원 예규 제7호\n국가민방위재난안전교육원 공무원교육상기금운용 규정 일부를 다음과 같이 개정한다.\n2025년 2월 7일\n국가재난안전교육원장\n국가민방위재난안전교육원 공무원교육상기금운용 규정 일부개정예규\n국가민방위재난안전교육원 공무원교육상기금운용 규정 일부를 다음과 같이 개정한다.\n제명 \"국가민방위재난안전교육원 공무원교육상기금운용 규정\"을 \"국가재난안전교육원 공무원교육상기금운용 규정\"으로 한다.\n제2조 중 \"국가민방위재난안전교육원\"을 \"국가재난안전교육원\"으로 한다.\n제3조제1항 중 \"국가민방위재난안전교육원장\"을 \"국가재난안전교육원장\"으로 한다.\n부칙\n이 예규는 발령한 날부터 시행한다.",
-  "revision_reason": "◇ 개정이유 및 주요내용\n행정안전부 소속기관인 국가민방위재난안전교육원의 명칭을 국가재난안전교육원으로 변경 등을 주요 내용으로 「행정안전부와 그 소속기관 직제(대통령령 제35138호, 2024.12.31. 공포ㆍ시행)」및「행정안전부와 그 소속기관 직제 시행규칙(행정안전부령 제536호, 2024.12.31. 공포ㆍ시행)」이 개정됨에 따라, 변경된 기관 명칭에 맞게 예규를 변경하여 명칭 변경에 따른 혼선을 방지하고자 「국가민방위재난안전교육원 공무원교육상기금운용 규정」을 개정하려는 것임.",
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 이유\n교육 운영 실정에 맞게 상기금 시상대상자 범위 확대\n◇ 주요내용\n가. 상기금 시상대상자 범위 확대(안 제2조)\n- 성적우수자 뿐만 아니라 학술발표대회 및 참여형 교육 우수자에게도 시상 가능토록 범위 확대\n- 개인(우수자) 뿐만 아니라 팀(우수분임)에게도 시상 가능토록 범위 확대",
   "body": {
     "format": "articles",
     "article_count": 8,
@@ -57,7 +57,7 @@
         "article_title": "시상대상자",
         "chapter": "",
         "chapter_path": "",
-        "content": "제2조(시상대상자) 공무원교육상(이하\"교육상\"이라 한다)은 국가재난안전교육원(이하\"교육원\")에서 실시하는 교육과정 이수대상자중 성적 우수자와 교육운영 유공자에게 수여한다.",
+        "content": "제2조(시상대상자) 공무원교육상(이하 \"교육상\"이라 한다)은 국가재난안전교육원(이하 \"교육원\"이라 한다)에서 실시하는 교육과정 이수대상자 중 교육 성적 우수자, 학술발표대회 및 참여형 교육 우수자와 교육운영 유공자에게 수여한다. 다만, 우수분임(팀)에게도 수여할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -180,10 +180,10 @@
       "content": "부칙 <제2호,2015. 1. 9.>이 예규는 발령한 날부터 시행한다.",
       "provision_id": "admrul:국가재난안전교육원공무원교육상기금운용규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000254400",
+      "source_mst": "2100000286914",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250207"
+      "version_enforcement_date": "20261014"
     },
     {
       "promulgation_date": "20180502",
@@ -191,10 +191,10 @@
       "content": "부칙 <제2호,2018. 5. 2.>이 예규는 발령한 날부터 시행한다.",
       "provision_id": "admrul:국가재난안전교육원공무원교육상기금운용규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000254400",
+      "source_mst": "2100000286914",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250207"
+      "version_enforcement_date": "20261014"
     },
     {
       "promulgation_date": "20250207",
@@ -202,44 +202,39 @@
       "content": "부칙 <제7호, 2025. 2. 7.>이 예규는 발령한 날부터 시행한다.",
       "provision_id": "admrul:국가재난안전교육원공무원교육상기금운용규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000254400",
+      "source_mst": "2100000286914",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250207"
+      "version_enforcement_date": "20261014"
+    },
+    {
+      "promulgation_date": "20261014",
+      "promulgation_no": "37",
+      "content": "부칙 <제37호, 2026. 10. 14.>이 예규는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:국가재난안전교육원공무원교육상기금운용규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000286914",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261014"
     }
   ],
   "appendices": [],
   "attachments": [
     {
-      "name": "12-1 국가민방위재난안전교육원 공무원교육상기금운용 규정 일부개정예규안.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=148993677",
-      "filename": "12-1 국가민방위재난안전교육원 공무원교육상기금운용 규정 일부개정예규안.hwpx",
+      "name": "개정안 전문(국가재난안전교육원 공무원교육상기금운용 규정).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170578901",
+      "filename": "개정안 전문(국가재난안전교육원 공무원교육상기금운용 규정).hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/12-1 국가민방위재난안전교육원 공무원교육상기금운용 규정 일부개정예규안.hwpx",
+      "local_path": "첨부파일/개정안 전문(국가재난안전교육원 공무원교육상기금운용 규정).hwpx",
       "file_store_url": ""
     },
     {
-      "name": "12-1 국가민방위재난안전교육원 공무원교육상기금운용 규정 일부개정예규안.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=148993681",
-      "filename": "12-1 국가민방위재난안전교육원 공무원교육상기금운용 규정 일부개정예규안.pdf",
+      "name": "개정안 전문(국가재난안전교육원 공무원교육상기금운용 규정).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170578905",
+      "filename": "개정안 전문(국가재난안전교육원 공무원교육상기금운용 규정).pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/12-1 국가민방위재난안전교육원 공무원교육상기금운용 규정 일부개정예규안.pdf",
-      "file_store_url": ""
-    },
-    {
-      "name": "12-2 국가재난안전교육원 공무원교육상기금운용 규정 개정전문.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=148993685",
-      "filename": "12-2 국가재난안전교육원 공무원교육상기금운용 규정 개정전문.hwpx",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/12-2 국가재난안전교육원 공무원교육상기금운용 규정 개정전문.hwpx",
-      "file_store_url": ""
-    },
-    {
-      "name": "12-2 국가재난안전교육원 공무원교육상기금운용 규정 개정전문.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=148993689",
-      "filename": "12-2 국가재난안전교육원 공무원교육상기금운용 규정 개정전문.pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/12-2 국가재난안전교육원 공무원교육상기금운용 규정 개정전문.pdf",
+      "local_path": "첨부파일/개정안 전문(국가재난안전교육원 공무원교육상기금운용 규정).pdf",
       "file_store_url": ""
     }
   ],
@@ -260,9 +255,9 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 0,
-    "attachments_count": 4
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/국가재난안전교육원 공무원교육상기금운용 규정"
