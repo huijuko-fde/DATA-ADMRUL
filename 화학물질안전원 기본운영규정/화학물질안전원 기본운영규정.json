@@ -1,16 +1,16 @@
 {
   "law_id": "61739",
-  "mst": "2100000281512",
+  "mst": "2100000286872",
   "law_name": "화학물질안전원 기본운영규정",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:61739",
-  "promulgation_no": "157",
-  "promulgation_date": "20260701",
-  "enforcement_date": "20260701",
-  "revision_date": "20260701",
+  "promulgation_no": "159",
+  "promulgation_date": "20261015",
+  "enforcement_date": "20261015",
+  "revision_date": "20261015",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "장수원",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "화학물질안전원 기본운영규정",
-    "발령일자": "20260701",
+    "발령일자": "20261015",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "043-830-4042",
     "제개정구분명": "일부개정",
     "소관부처코드": "1482000",
-    "생성일자": "20260702",
+    "생성일자": "20261015",
     "행정규칙ID": "61739",
-    "시행일자": "20260701",
+    "시행일자": "20261015",
     "담당부서기관코드": "1482086",
-    "발령번호": "157",
-    "행정규칙일련번호": "2100000281512",
+    "발령번호": "159",
+    "행정규칙일련번호": "2100000286872",
     "상위부처명": "기후에너지환경부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정 이유\n○ 화학물질안전원에 화학사고종합상황실 운영을 위하여 필요한 인력 4명(전문경력관 나군 4명)을 증원하는 내용으로 「책임운영기관의 설치ㆍ운영에 관한 법률 시행령」(대통령령 제36111호, 2026. 2. 19. 공포, 7. 1. 시행) 및 「기후에너지환경부와 그 소속기관 직제 시행규칙」(기후에너지환경부령 제30호, 2026. 3. 24. 공포, 7.1. 시행)이 개정됨에 따라 변경되는 사항을 반영하려는 것임\n◇ 주요내용\n○ ‘26년 소요정원 반영(본문 제15조, 별표1ㆍ별표1의2)\n- 전문경력관 나군(화학사고 대응담당) 정원을 4명 증원(8명→12명)\n- 별표1(총계 및 일반직계 \"142→\"146, 전문경력관 나군(화학사고 대응 담당) \"8\"→\"12\") 및 별표1의2(총계 및 일반직계 \"143→\"147, 전문경력관 나군(화학사고 대응 담당) \"8\"→\"12\") 변경",
+  "revision_reason": "◇ 개정 이유\n○ 2026년 총액인건비제 재원을 활용한 직급조정 사항을 반영하기 위해 정원표를 개정하고, 존속기한을 설정하고자 함\n◇ 주요내용\n○ 운영정원 반영(본문 제15조, 별표1의2)\n- 별표1의2(공업연구관ㆍ보건연구관ㆍ환경연구관 또는 수석전문관 \"31→32\", 공업연구사ㆍ보건연구사ㆍ환경연구사 또는 기록연구사 \"52\"→\"51\") 변경\n○ 총액인건비제로 조정한 직급의 정원 존속기간을 2027.12.31.까지로 설정(부칙4)",
   "body": {
     "format": "articles",
     "article_count": 57,
@@ -237,7 +237,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "61739",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281512&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286872&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학물질안전원기본운영규정#JO0011",
             "target_unit": "BYL0001",
@@ -294,7 +294,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "61739",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281512&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286872&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학물질안전원기본운영규정#JO0012",
             "target_unit": "BYL0001",
@@ -351,7 +351,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "61739",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281512&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286872&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학물질안전원기본운영규정#JO0012_02",
             "target_unit": "BYL0001",
@@ -408,7 +408,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "61739",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281512&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286872&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학물질안전원기본운영규정#JO0013",
             "target_unit": "BYL0001",
@@ -465,7 +465,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "61739",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281512&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286872&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학물질안전원기본운영규정#JO0013_02",
             "target_unit": "BYL0001",
@@ -522,7 +522,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "61739",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281512&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286872&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학물질안전원기본운영규정#JO0013_03",
             "target_unit": "BYL0001",
@@ -579,7 +579,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "61739",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281512&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286872&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학물질안전원기본운영규정#JO0013_04",
             "target_unit": "BYL0001",
@@ -636,7 +636,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "61739",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281512&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286872&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학물질안전원기본운영규정#JO0013_05",
             "target_unit": "BYL0001",
@@ -765,7 +765,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "61739",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281512&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286872&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학물질안전원기본운영규정#JO0015",
             "target_unit": "BYL0001",
@@ -830,7 +830,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "61739",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281512&bylNo=0001&bylBrNo=02",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286872&bylNo=0001&bylBrNo=02",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학물질안전원기본운영규정#JO0015",
             "target_unit": "BYL0001_02",
@@ -855,7 +855,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "61739",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281512&bylNo=0001&bylBrNo=02",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286872&bylNo=0001&bylBrNo=02",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학물질안전원기본운영규정#JO0015",
             "target_unit": "BYL0001_02",
@@ -1168,7 +1168,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "61739",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281512&bylNo=0001&bylBrNo=03",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286872&bylNo=0001&bylBrNo=03",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학물질안전원기본운영규정#JO0015_05",
             "target_unit": "BYL0001_03",
@@ -1486,7 +1486,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "61739",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281512&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286872&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학물질안전원기본운영규정#JO0023",
             "target_unit": "BYL0003",
@@ -1866,7 +1866,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "61739",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281512&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286872&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:화학물질안전원기본운영규정#JO0030_02",
             "target_unit": "BYL0003",
@@ -2358,10 +2358,10 @@
       "content": "부칙 <제35호,2018. 1. 23.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20180330",
@@ -2369,10 +2369,10 @@
       "content": "부칙 <제40호,2018. 3. 30.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20180830",
@@ -2380,10 +2380,10 @@
       "content": "부칙 <제43호,2018. 8. 30.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20190103",
@@ -2391,10 +2391,10 @@
       "content": "부칙 <제58호,2019. 1. 3.>이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20190614",
@@ -2402,10 +2402,10 @@
       "content": "부칙 <제62호,2019. 6. 14.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.제2조(총액인건비제로 증원한 정원의 존속기간) 이 규정 시행으로 증원되는 정원 중 별표 1의2 운전서기보 1명은 2022년 5월 31일까지 존속한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20200130",
@@ -2413,10 +2413,10 @@
       "content": "부칙 <제67호,2020. 1. 30.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.제2조(총액인건비제로 증원한 정원의 존속기간) 이 규정 시행으로 증원되는 정원 중 별표 1의2 운전서기보 1명은 2022년 5월 31일까지 존속한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20200226",
@@ -2424,10 +2424,10 @@
       "content": "부칙 <제69호,2020. 2. 26.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.제2조(총액인건비제로 증원한 정원의 존속기간) 이 규정 시행으로 증원되는 정원 중 별표 1의2 운전서기보 1명은 2022년 5월 31일까지 존속한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20200821",
@@ -2435,10 +2435,10 @@
       "content": "부칙 <제71호,2020. 8. 21.>제1조(시행일) 이 예규는 2020년 8월 25일부터 시행한다.제2조(총액인건비제로 신설한 기구의 존속기간) 이 예규의 시행으로 신설되는 제13조의3의 교육훈련혁신팀은 2025년 8월 24일까지 존속하며, 존속기간이 만료되면 교육훈련혁신팀의 소관업무는 사고대응총괄과에서 수행한다. <개정 2023. 8. 16.>",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20201202",
@@ -2446,10 +2446,10 @@
       "content": "부칙 <제84호,2020. 12. 2.>제1조(시행일) 이 예규는 공포한 날부터 시행한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20210225",
@@ -2457,10 +2457,10 @@
       "content": "부칙 <제86호, 2021. 2. 25.>제1조(시행일) 이 예규는 2021년 2월 25일부터 시행한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20210705",
@@ -2468,10 +2468,10 @@
       "content": "부칙 <제97호, 2021. 7. 5.>제1조(시행일) 이 예규는 2021년 7월 5일부터 시행한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20220630",
@@ -2479,10 +2479,10 @@
       "content": "부칙 <제106호, 2022. 6. 30.>제1조(시행일) 이 예규는 2022년 6월 30일부터 시행한다.제2조(총액인건비제로 증원한 정원의 존속기간) 이 규정 시행으로 증원되는 정원 중 별표 1의2 운전서기보 1명은 2024년 5월 30일까지 존속한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20220808",
@@ -2490,10 +2490,10 @@
       "content": "부칙 <제110호, 2022. 8. 8.>제1조(시행일) 이 예규는 공포한 날부터 시행한다.제2조(총액인건비제로 신설한 기구의 존속기간) 이 규정 시행으로 신설되는 제13조의 화학사고조사팀은 2027년 8월 7일까지 존속하며, 존속기간이 만료되면 화학사고조사팀의 소관업무는 사고대응총괄과에서 수행한다. <개정 2025. 8. 8.>",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20221229",
@@ -2501,10 +2501,10 @@
       "content": "부칙 <제117호, 2022. 12. 29.>제1조(시행일) 이 예규는 공포한 날부터 시행한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20230501",
@@ -2512,10 +2512,10 @@
       "content": "부칙 <제121호, 2023. 5. 1.>제1조(시행일) 이 예규는 공포한 날부터 시행한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20231227",
@@ -2523,10 +2523,10 @@
       "content": "부칙 <제126호, 2023. 12. 27.>제1조(시행일) 이 예규는 공포한 날부터 시행한다.제2조(정원에 관한 경과조치) 이 규정 시행으로 감축되는 정원 1명(연구관 1명)에 해당하는 초과현원이 있는 경우에는 그 초과된 현원이 이 규정에 따른 정원과 일치될 때까지 그에 상응하는 정원이 화학물질안전원에 따로 있는 것으로 본다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20240430",
@@ -2534,10 +2534,10 @@
       "content": "부칙 <제128호, 2024. 4. 30.>제1조(시행일) 이 예규는 공포한 날부터 시행한다.제2조(총액인건비제로 신설한 기구의 존속기간) ① 「행정기관의 조직과 정원에 관한 통칙」제29조에 따라 이 규정 시행으로 신설되는 제13조의5 화학물질등록평가팀은 2027년 4월 29일까지 존속한다.② 제1항에 따른 존속기간까지 화학물질등록평가팀장이 분장하는 사항에 관하여 특별한 규정을 두지 않는 경우에는 제1항에 따른 존속기간이 지난 날부터 유해성관리과장이 수행한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20240618",
@@ -2545,10 +2545,10 @@
       "content": "부칙 <제134호, 2024. 6. 18.>제1조(시행일) 이 예규는 공포한 날부터 시행한다.제2조(총액인건비제로 증원한 정원의 존속기간) 이 규정 시행으로 증원되는 정원 중 별표 1의2 운전서기보 1명은 2026년 5월 30일까지 존속한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20241231",
@@ -2556,10 +2556,10 @@
       "content": "부칙 <제138호, 2024. 12. 31.>제1조(시행일) 이 예규는 공포한 날부터 시행한다.제2조(정원에 관한 경과조치) 이 규정 시행으로 감축되는 정원 2명(연구관 1명, 연구사 1명)에 해당하는 초과현원이 있는 경우에는 그 초과된 현원이 이 규정에 따른 정원과 일치될 때까지 그에 상응하는 정원이 화학물질안전원에 따로 있는 것으로 본다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20250825",
@@ -2567,10 +2567,10 @@
       "content": "부칙 <제144호, 2025. 8. 25.>제1조(시행일) 이 예규는 2025년 8월 25일부터 시행한다.제2조(총액인건비제로 신설한 기구의 존속기간) 이 규정 시행으로 신설되는 제13조의3의 교육훈련혁신팀은 2028년 8월 24일까지 존속하며, 존속기간이 만료되면 교육훈련혁신팀의 소관업무는 사고대응총괄과에서 수행한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20251001",
@@ -2578,10 +2578,10 @@
       "content": "부칙 <제145호, 2025. 10. 1.>제1조(시행일) 이 예규는 2025년 10월 1일부터 시행한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20251230",
@@ -2589,10 +2589,10 @@
       "content": "부칙 <제148호, 2025. 12. 30.>제1조(시행일) 이 예규는 2025년 12월 30일부터 시행한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20260305",
@@ -2600,10 +2600,10 @@
       "content": "부칙 <제155호, 2026. 3. 5.>제1조(시행일) 이 예규는 2026년 3월 5일부터 시행한다.제2조(총액인건비제로 신설한 기구의 존속기간) 이 규정 신설되는 제13조의 화학사고조사분석팀은 2027년 8월 7일까지 존속하며, 존속기간이 만료되면 화학사고조사분석팀의 소관업무는 사고대응총괄과에서 수행한다.제3조(총액인건비제로 증원한 정원의 존속기간) 이 규정 시행으로 증원되는 정원 중 별표 1의2 운전서기보 1명은 2029년 5월 30일까지 존속한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
     },
     {
       "promulgation_date": "20260701",
@@ -2611,10 +2611,21 @@
       "content": "부칙 <제157호, 2026. 7. 1.>제1조(시행일) 이 예규는 2026년 7월 1일부터 시행한다.",
       "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281512",
+      "source_mst": "2100000286872",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261015"
+    },
+    {
+      "promulgation_date": "20261015",
+      "promulgation_no": "159",
+      "content": "부칙 <제159호, 2026. 10. 15.>제1조(시행일) 이 예규는 공포한 날부터 시행한다.제4조(총액인건비제로 상향 조정한 직급의 존속기간) 이 규정 시행으로 조정되는 별표 1의2 공업연구관ㆍ보건연구관ㆍ환경연구관 또는 수석전문관 1명은 2027년 12월 31까지 존속하며, 2027년 12월 31일 이후에는 그에 해당하는 정원은 공업연구사ㆍ보건연구사ㆍ환경연구사 또는 기록연구사 1명으로 본다.",
+      "provision_id": "admrul:화학물질안전원기본운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000286872",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261015"
     }
   ],
   "appendices": [
@@ -2626,18 +2637,18 @@
       "enforcement_date": "",
       "content": "[별표 1]\n화학물질안전원 공무원정원표(제15조 관련)\n┌───────────────────────────────────────┐\n│  총 계                                                                   146 │\n│                                                                              │\n│    일반직계                                                              146 │\n│                                                                              │\n│      고위공무원단에 속하는 임기제(원장)                                      │\n│                                                                          1   │\n│                                                                              │\n│                                                                              │\n│      서기관ㆍ과학기술서기관ㆍ공업연구관ㆍ보건연구관ㆍ환경연구관 또는 수  1   │\n│석전문관                                                                      │\n│                                                                              │\n│      행정사무관·공업사무관·보건사무관·환경사무관·공업연구관·보건연  2   │\n│구관·환경연구관ㆍ행정전문관ㆍ공업전문관ㆍ보건전문관ㆍ환경전문관              │\n│또는 시설전문관                                                               │\n│                                                                              │\n│      행정주사·공업주사·보건주사 또는 환경주사                          1   │\n│                                                                              │\n│      행정주사·공업주사·보건주사·환경주사·공업연구사·보건연구사 또   1   │\n│는 환경연구사                                                                 │\n│                                                                              │\n│      행정주사보ㆍ공업주사보ㆍ보건주사보ㆍ전산주사보 또는 환경주사보      2   │\n│                                                                              │\n│      행정서기ㆍ공업서기ㆍ보건서기ㆍ전산서기ㆍ환경서기 또는 방재안전서기  3   │\n│                                                                              │\n│      방호서기                                                            1   │\n│                                                                              │\n│      행정서기보ㆍ공업서기보ㆍ보건서기보ㆍ전산서기보 또는 환경서기보      1   │\n│                                                                              │\n│      운전서기보                                                          1   │\n│                                                                              │\n│      공업연구관ㆍ보건연구관ㆍ환경연구관 또는 수석전문관                  31  │\n│                                                                              │\n│      공업연구사·보건연구사·환경연구사 또는 기록연구사                  52  │\n│                                                                              │\n│      전문경력관 가군(화학물질 등록평가 담당)                             4   │\n│                                                                              │\n│      전문경력관 가군(화학사고 예방?심사 담당)                           6   │\n│                                                                              │\n│      전문경력관 나군(화학물질 등록평가 담당)                             8   │\n│                                                                              │\n│      전문경력관 나군(화학사고 예방?심사 담당)                           15  │\n│                                                                              │\n│      전문경력관 나군(화학사고 대응 담당)                                 12  │\n│                                                                              │\n│      전문경력관 나군(살생물물질?제품 승인 담당)                         2   │\n│                                                                              │\n│      전문경력관 나군(전기 담당)                                          1   │\n│                                                                              │\n│      전문경력관 나군(기계 담당)                                          1   │\n└───────────────────────────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281512&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166583303",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286872&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170565829",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166583299",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170565825",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166583303",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170565829",
           "name": "",
           "file_store_url": ""
         }
@@ -2655,20 +2666,20 @@
       "kind": "별표",
       "title": "화학물질안전원 공무원정원표(제15조제1항 단서조항 및 제2항 관련)",
       "enforcement_date": "",
-      "content": "[별표 1의2]\n화학물질안전원 공무원정원표(제15조제1항 단서조항 및 제2항 관련)\n┌───────────────────────────────────────┐\n│  총 계                                                                   147 │\n│                                                                              │\n│    일반직계                                                              147 │\n│                                                                              │\n│      고위공무원단에 속하는 임기제(원장)                                      │\n│                                                                          1   │\n│                                                                              │\n│                                                                              │\n│      서기관ㆍ과학기술서기관ㆍ공업연구관ㆍ보건연구관ㆍ환경연구관 또는 수  1   │\n│석전문관                                                                      │\n│                                                                              │\n│      행정사무관·공업사무관·보건사무관·환경사무관·공업연구관·보건연  2   │\n│구관·환경연구관ㆍ행정전문관ㆍ공업전문관ㆍ보건전문관ㆍ환경전문관              │\n│또는 시설전문관                                                               │\n│                                                                              │\n│      행정주사·공업주사·보건주사 또는 환경주사                          1   │\n│                                                                              │\n│      행정주사·공업주사·보건주사·환경주사·공업연구사·보건연구사 또   1   │\n│는 환경연구사                                                                 │\n│                                                                              │\n│      행정주사보ㆍ공업주사보ㆍ보건주사보ㆍ전산주사보 또는 환경주사보      2   │\n│                                                                              │\n│      행정서기ㆍ공업서기ㆍ보건서기ㆍ전산서기ㆍ환경서기 또는 방재안전서기  3   │\n│                                                                              │\n│      방호서기                                                            1   │\n│                                                                              │\n│      행정서기보ㆍ공업서기보ㆍ보건서기보ㆍ전산서기보 또는 환경서기보      1   │\n│                                                                              │\n│      운전서기보                                                          2   │\n│                                                                              │\n│      공업연구관ㆍ보건연구관ㆍ환경연구관 또는 수석전문관                  31  │\n│                                                                              │\n│      공업연구사·보건연구사·환경연구사 또는 기록연구사                  52  │\n│                                                                              │\n│      전문경력관 가군(화학물질 등록평가 담당)                             4   │\n│                                                                              │\n│      전문경력관 가군(화학사고 예방?심사 담당)                           6   │\n│                                                                              │\n│      전문경력관 나군(화학물질 등록평가 담당)                             8   │\n│                                                                              │\n│      전문경력관 나군(화학사고 예방?심사 담당)                           15  │\n│                                                                              │\n│      전문경력관 나군(화학사고 대응 담당)                                 12  │\n│                                                                              │\n│      전문경력관 나군(살생물물질?제품 승인 담당)                         2   │\n│                                                                              │\n│      전문경력관 나군(전기 담당)                                          1   │\n│                                                                              │\n│      전문경력관 나군(기계 담당)                                          1   │\n└───────────────────────────────────────┘",
+      "content": "[별표 1의2]\n화학물질안전원 공무원정원표(제15조제1항 단서조항 및 제2항 관련)\n┌───────────────────────────────────────┐\n│  총 계                                                                   147 │\n│                                                                              │\n│    일반직계                                                              147 │\n│                                                                              │\n│      고위공무원단에 속하는 임기제(원장)                                      │\n│                                                                          1   │\n│                                                                              │\n│                                                                              │\n│      서기관ㆍ과학기술서기관ㆍ공업연구관ㆍ보건연구관ㆍ환경연구관 또는 수  1   │\n│석전문관                                                                      │\n│                                                                              │\n│      행정사무관·공업사무관·보건사무관·환경사무관·공업연구관·보건연  2   │\n│구관·환경연구관ㆍ행정전문관ㆍ공업전문관ㆍ보건전문관ㆍ환경전문관              │\n│또는 시설전문관                                                               │\n│                                                                              │\n│      행정주사·공업주사·보건주사 또는 환경주사                          1   │\n│                                                                              │\n│      행정주사·공업주사·보건주사·환경주사·공업연구사·보건연구사 또   1   │\n│는 환경연구사                                                                 │\n│                                                                              │\n│      행정주사보ㆍ공업주사보ㆍ보건주사보ㆍ전산주사보 또는 환경주사보      2   │\n│                                                                              │\n│      행정서기ㆍ공업서기ㆍ보건서기ㆍ전산서기ㆍ환경서기 또는 방재안전서기  3   │\n│                                                                              │\n│      방호서기                                                            1   │\n│                                                                              │\n│      행정서기보ㆍ공업서기보ㆍ보건서기보ㆍ전산서기보 또는 환경서기보      1   │\n│                                                                              │\n│      운전서기보                                                          2   │\n│                                                                              │\n│      공업연구관ㆍ보건연구관ㆍ환경연구관 또는 수석전문관                  32  │\n│                                                                              │\n│      공업연구사·보건연구사·환경연구사 또는 기록연구사                  51  │\n│                                                                              │\n│      전문경력관 가군(화학물질 등록평가 담당)                             4   │\n│                                                                              │\n│      전문경력관 가군(화학사고 예방?심사 담당)                           6   │\n│                                                                              │\n│      전문경력관 나군(화학물질 등록평가 담당)                             8   │\n│                                                                              │\n│      전문경력관 나군(화학사고 예방?심사 담당)                           15  │\n│                                                                              │\n│      전문경력관 나군(화학사고 대응 담당)                                 12  │\n│                                                                              │\n│      전문경력관 나군(살생물물질?제품 승인 담당)                         2   │\n│                                                                              │\n│      전문경력관 나군(전기 담당)                                          1   │\n│                                                                              │\n│      전문경력관 나군(기계 담당)                                          1   │\n└───────────────────────────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281512&bylNo=0001&bylBrNo=02",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166583309",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286872&bylNo=0001&bylBrNo=02",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170565835",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166583305",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170565831",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166583309",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170565835",
           "name": "",
           "file_store_url": ""
         }
@@ -2688,18 +2699,18 @@
       "enforcement_date": "",
       "content": "[별표 1의3]\n화학물질안전원 공무원 한시정원표(제15조의5)\n┌───────────────────────────┐\n│1. 제15조의5 관련 한시정원(존속기한: 2027년 12월 31일)│\n│                                                      │\n│  총계                                    2           │\n│                                                      │\n│    일반직 계                             2           │\n│                                                      │\n│      공업연구사ㆍ보건연구사ㆍ환경연구사  2           │\n└───────────────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281512&bylNo=0001&bylBrNo=03",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166583315",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286872&bylNo=0001&bylBrNo=03",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170565841",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166583311",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170565837",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166583315",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170565841",
           "name": "",
           "file_store_url": ""
         }
@@ -2719,18 +2730,18 @@
       "enforcement_date": "",
       "content": "[별표 2] <삭 제>",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281512&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166583321",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286872&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170565847",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166583317",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170565843",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166583321",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170565847",
           "name": "",
           "file_store_url": ""
         }
@@ -2750,18 +2761,18 @@
       "enforcement_date": "",
       "content": "[별표 3]\n주요 업무분야 필수 경력기간(제30조의2 관련)\n\n\n┌────────────────────────────────┬───────┐\n│주요 업무 분야                                                  │필수 경력기간 │\n├────────────────────────────────┼───────┤\n│                                                                │              │\n│                                                                │              │\n│가. 화학안전정책 및 현장근무                                    │21개월        │\n│  1) 기후에너지환경부                                           │              │\n│  2) 유역?지방환경청(화학재난합동방재센터, 화학안전관리단, 화학│              │\n│물질관리과)                                                     │              │\n│                                                                │              │\n│나. <삭제>                                                      │<삭제>        │\n│                                                                │              │\n│다. <삭제>                                                      │<삭제>        │\n│                                                                │              │\n│라. 직원 대표(노조 지회장)                                      │2년           │\n│                                                                │              │\n│                                                                │              │\n└────────────────────────────────┴───────┘\n\n\n비고\n1. 동 별표 시행 전 주요 업무 분야 필수 경력기간을 충족한 경우 이 별표에 따른\n필수 경력기간을 충족한 것으로 본다.\n2. <삭제>\n3. <삭제>\n4. 연구관 승진을 위한 주요 업무분야 필수 경력기간은 유해성관리과 및 화학물\n질등록평가팀 연구직 공무원에게는 적용하지 아니한다.\n",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281512&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166583327",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000286872&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170565853",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166583323",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170565849",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166583327",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170565853",
           "name": "",
           "file_store_url": ""
         }
@@ -2776,11 +2787,19 @@
   ],
   "attachments": [
     {
-      "name": "화학물질안전원 기본운영규정 개정전문(예규 제157호，2026.7.1.).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=166503347",
-      "filename": "화학물질안전원 기본운영규정 개정전문(예규 제157호，2026.7.1.).hwpx",
+      "name": "화학물질안전원 기본운영규정 개정전문(예규 제159호，2026.10.15.).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170565465",
+      "filename": "화학물질안전원 기본운영규정 개정전문(예규 제159호，2026.10.15.).pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/화학물질안전원 기본운영규정 개정전문(예규 제157호，2026.7.1.).hwpx",
+      "local_path": "첨부파일/화학물질안전원 기본운영규정 개정전문(예규 제159호，2026.10.15.).pdf",
+      "file_store_url": ""
+    },
+    {
+      "name": "화학물질안전원 기본운영규정 개정전문(예규 제159호，2026.10.15.).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170565461",
+      "filename": "화학물질안전원 기본운영규정 개정전문(예규 제159호，2026.10.15.).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/화학물질안전원 기본운영규정 개정전문(예규 제159호，2026.10.15.).hwpx",
       "file_store_url": ""
     }
   ],
@@ -2802,9 +2821,9 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 24,
+    "addenda_count": 25,
     "appendices_count": 5,
-    "attachments_count": 1
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/화학물질안전원 기본운영규정"
