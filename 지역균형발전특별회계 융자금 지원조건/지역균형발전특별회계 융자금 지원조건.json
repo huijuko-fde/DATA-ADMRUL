@@ -1,25 +1,25 @@
 {
   "law_id": "47031",
-  "mst": "2100000282066",
+  "mst": "2100000286962",
   "law_name": "지역균형발전특별회계 융자금 지원조건",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:47031",
-  "promulgation_no": "2026-181",
-  "promulgation_date": "20260709",
-  "enforcement_date": "20260709",
-  "revision_date": "20260709",
+  "promulgation_no": "2026-262",
+  "promulgation_date": "20261016",
+  "enforcement_date": "20261016",
+  "revision_date": "20261016",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "기후에너지환경부(수도기획과)",
-    "담당자명": "황태운",
+    "담당자명": "황동식",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "지역균형발전특별회계 융자금 지원조건",
-    "발령일자": "20260709",
+    "발령일자": "20261016",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "044-201-7122",
     "제개정구분명": "일부개정",
     "소관부처코드": "1482000",
-    "생성일자": "20260709",
+    "생성일자": "20261016",
     "행정규칙ID": "47031",
-    "시행일자": "20260709",
+    "시행일자": "20261016",
     "담당부서기관코드": "1482256",
-    "발령번호": "2026-181",
-    "행정규칙일련번호": "2100000282066",
+    "발령번호": "2026-262",
+    "행정규칙일련번호": "2100000286962",
     "상위부처명": "기후에너지환경부"
   },
-  "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n○ 「지방자치분권 및 지역균형발전에 관한 특별법 시행령」제80조제1항에 따라 공공자금관리기금 변동금리(재정경제부)를 반영하여 `26년 3/4분기 융자금리 개정\n◇ 주요내용\n○ 융자사업별 융자이율 개정(제5조제2항, 별표)\n[그림]\n\n* 융자업무위탁기관 취급수수료(1.00%) 포함",
+  "amendment_text": "⊙기후에너지환경부고시 제2026-262호\n「지방자치분권 및 지역균형발전에 관한 특별법 시행령」제80조에 따라 「지역균형발전특별회계 융자금 지원조건」을 다음과 같이 일부 개정ㆍ고시합니다.\n2026년 10월 16일\n기후에너지환경부장관\n지역균형발전특별회계 융자금 지원조건 일부개정고시\n제5조 제2항 별표를 다음과 같이 한다.\n[그림]\n지역균형발전특별회계(환경분야) 융자사업별 금리 및 대출기간(제5조제2항 관련)\n※ 1. 취급수수료 지급기준 : 1.0%\n2. 명시되지 않은 융자사업의 경우 지원대상에 따라 상기조건을 준용함\n\n부칙\n이 고시는 발령한 날부터 시행한다.",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 「지방자치분권 및 지역균형발전에 관한 특별법 시행령」제80조제1항에 따라 공공자금관리기금 변동금리(재정경제부)를 반영하여 `26년 4/4분기 융자금리 개정\n\n◇ 주요내용\n○ 융자사업별 융자이율 개정(제5조제2항, 별표)\n[그림]\n\n* 융자업무위탁기관 취급수수료(1.00%) 포함",
   "body": {
     "format": "articles",
     "article_count": 8,
@@ -481,10 +481,10 @@
       "content": "부칙 <제2014-226호,2015. 1. 20.>이 고시는 고시된 날부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20160403",
@@ -492,10 +492,10 @@
       "content": "부칙 <제2016-75호,2016. 4. 3.>이 고시는 2016년 4월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20160701",
@@ -503,10 +503,10 @@
       "content": "부칙 <제2016-133호,2016. 7. 1.>이 고시는 2016년 7월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20161001",
@@ -514,10 +514,10 @@
       "content": "부칙 <제2016-193호,2016. 10. 1.>이 고시는 2016년 10월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20170101",
@@ -525,10 +525,10 @@
       "content": "부칙 <제2017-2호,2017. 1. 1.>이 고시는 2017년 1월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20171212",
@@ -536,10 +536,10 @@
       "content": "부칙 <제2017-226호,2017. 12. 12.>이 고시는 2017년 12월 15일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20180110",
@@ -547,10 +547,10 @@
       "content": "부칙 <제2018-41호,2018. 1. 10.>이 고시는 2018년 1월 10일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20180413",
@@ -558,10 +558,10 @@
       "content": "부칙 <제2018-56호,2018. 4. 13.>이 고시는 2018년 4월 13일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20180705",
@@ -569,10 +569,10 @@
       "content": "부칙 <제2018-108호,2018. 7. 5.>이 고시는 2018년 7월 5일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20181005",
@@ -580,10 +580,10 @@
       "content": "부칙 <제2018-158호,2018. 10. 5.>이 고시는 2018년 10월 5일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20190101",
@@ -591,10 +591,10 @@
       "content": "부칙 <제2019-8호,2019. 1. 1.>이 고시는 2019년 1월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20190401",
@@ -602,10 +602,10 @@
       "content": "부칙 <제2019-65호,2019. 4. 1.>이 고시는 2019년 4월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20190701",
@@ -613,10 +613,10 @@
       "content": "부칙 <제2019-124호,2019. 7. 1.>이 고시는 2019년 7월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20191001",
@@ -624,10 +624,10 @@
       "content": "부칙 <제2019-181호,2019. 10. 1.>이 고시는 2019년 10월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20200101",
@@ -635,10 +635,10 @@
       "content": "부칙 <제2020-1호,2020. 1. 1.>이 고시는 2020년 1월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20200401",
@@ -646,10 +646,10 @@
       "content": "부칙 <제2020-74호,2020. 4. 1.>이 고시는 2020년 4월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20200701",
@@ -657,10 +657,10 @@
       "content": "부칙 <제2020-154호,2020. 7. 1.>이 고시는 2020년 7월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20200929",
@@ -668,10 +668,10 @@
       "content": "부칙 <제2020-209호,2020. 9. 29.>이 고시는 2020년 10월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20201231",
@@ -679,10 +679,10 @@
       "content": "부칙 <제2020-307호,2020. 12. 31.>이 고시는 2021년 1월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20210401",
@@ -690,10 +690,10 @@
       "content": "부칙 <제2021-133호, 2021. 4. 1.>이 고시는 2021년 4월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20210701",
@@ -701,10 +701,10 @@
       "content": "부칙 <제2021-135호, 2021. 7. 1.>이 고시는 2021년 7월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20211001",
@@ -712,10 +712,10 @@
       "content": "부칙 <제2021-197호, 2021. 10. 1.>이 고시는 2021년 10월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20220105",
@@ -723,10 +723,10 @@
       "content": "부칙 <제2022-10호, 2022. 1. 5.>이 고시는 2022년 1월 5일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20220404",
@@ -734,10 +734,10 @@
       "content": "부칙 <제2022-72호, 2022. 4. 4.>이 고시는 2022년 4월 4일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20220715",
@@ -745,10 +745,10 @@
       "content": "부칙 <제2022-139호, 2022. 7. 15.>이 고시는 2022년 7월 15일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20221004",
@@ -756,10 +756,10 @@
       "content": "부칙 <제2022-190호, 2022. 10. 4.>이 고시는 2022년 10월 4일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20230102",
@@ -767,10 +767,10 @@
       "content": "부칙 <제2023-4호, 2023. 1. 2.>이 고시는 2023년 1월 2일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20230403",
@@ -778,10 +778,10 @@
       "content": "부칙 <제2023-68호, 2023. 4. 3.>이 고시는 2023년 4월 3일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20230703",
@@ -789,10 +789,10 @@
       "content": "부칙 <제2023-162호, 2023. 7. 3.>이 고시는 2023년 7월 3일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20231016",
@@ -800,10 +800,10 @@
       "content": "부칙 <제2023-243호, 2023. 10. 16.>이 고시는 2023년 10월 16일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20231229",
@@ -811,10 +811,10 @@
       "content": "부칙 <제2023-309호, 2023. 12. 29.>이 고시는 2024년 1월 2일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20240408",
@@ -822,10 +822,10 @@
       "content": "부칙 <제2024-78호, 2024. 4. 8.>이 고시는 2024년 4월 8일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20240701",
@@ -833,10 +833,10 @@
       "content": "부칙 <제2024-130호, 2024. 7. 1.>이 고시는 2024년 7월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20241001",
@@ -844,10 +844,10 @@
       "content": "부칙 <제2024-190호, 2024. 10. 1.>이 고시는 2024년 10월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20250102",
@@ -855,10 +855,10 @@
       "content": "부칙 <제2025-3호, 2025. 1. 2.>이 고시는 2025년 1월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20250401",
@@ -866,10 +866,10 @@
       "content": "부칙 <제2025-61호, 2025. 4. 1.>이 고시는 2025년 4월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20250701",
@@ -877,10 +877,10 @@
       "content": "부칙 <제2025-121호, 2025. 7. 1.>이 고시는 2025년 7월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20251001",
@@ -888,10 +888,10 @@
       "content": "부칙 <제2025-165호, 2025. 10. 1.>이 고시는 발령한 날부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20251001",
@@ -899,10 +899,10 @@
       "content": "부칙 <제2025-6호, 2025. 10. 1.>이 고시는 2025년 10월 1일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20260114",
@@ -910,10 +910,10 @@
       "content": "부칙 <제2026-16호, 2026. 1. 14.>이 고시는 2026년 1월 14일부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20260623",
@@ -921,10 +921,10 @@
       "content": "부칙 <제2026-163호, 2026. 6. 23.>이 고시는 발령한 날부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20260709",
@@ -932,10 +932,21 @@
       "content": "부칙 <제2026-181호, 2026. 7. 9.>이 고시는 발령한 날부터 시행한다.",
       "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000282066",
+      "source_mst": "2100000286962",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261016"
+    },
+    {
+      "promulgation_date": "20261016",
+      "promulgation_no": "2026-262",
+      "content": "부칙 <제2026-262호, 2026. 10. 16.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:지역균형발전특별회계융자금지원조건#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000286962",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261016"
     }
   ],
   "appendices": [
@@ -945,20 +956,20 @@
       "kind": "별표",
       "title": "지역균형발전특별회계(환경분야) 융자사업별 금리 및 대출기간(제5조제2항 관련)",
       "enforcement_date": "",
-      "content": "[별표]\n지역균형발전특별회계(환경분야) 융자사업별 금리 및 대출기간(제5조제2항 관련)\n┌──────────┬───┬────────────────────────┬──────┐\n│사  업  명          │지원  │융자(대출) 금리                                 │비  고      │\n│                    │대상  ├────┬────┬────┬────┬────┤            │\n│                    │      │‘25.   │‘25.   │‘26.   │‘26.   │‘26.   │            │\n│                    │      │3/4분기 │4/4분기 │1/4분기 │2/4분기 │3/4분기 │            │\n├──────────┼───┼────┼────┼────┼────┼────┼──────┤\n│1. 고도정수처리시설 │지자체│1.31    │1.34    │1.91    │2.18    │2.70    │ - 5년거치, │\n│설치                │      │(2.31)  │(2.34)  │(2.91)  │(3.18)  │(3.70)  │  10년상환  │\n└──────────┴───┴────┴────┴────┴────┴────┴──────┘\n※ 1. 취급수수료 지급기준 : 1.0%\n2. 명시되지 않은 융자사업의 경우 지원대상에 따라 상기조건을 준용함",
+      "content": "[별표]\n지역균형발전특별회계(환경분야) 융자사업별 금리 및 대출기간(제5조제2항 관련)\n┌──────────┬───┬────────────────────────┬──────┐\n│사  업  명          │지원  │융자(대출) 금리                                 │비  고      │\n│                    │대상  ├────┬────┬────┬────┬────┤            │\n│                    │      │‘25.   │‘26.   │‘26.   │‘26.   │‘26.   │            │\n│                    │      │4/4분기 │1/4분기 │2/4분기 │3/4분기 │4/4분기 │            │\n├──────────┼───┼────┼────┼────┼────┼────┼──────┤\n│1. 고도정수처리시설 │지자체│1.34    │1.91    │2.18    │2.70    │2.84    │ - 5년거치, │\n│설치                │      │(2.34)  │(2.91)  │(3.18)  │(3.70)  │(3.84)  │  10년상환  │\n└──────────┴───┴────┴────┴────┴────┴────┴──────┘\n※ 1. 취급수수료 지급기준 : 1.0%\n2. 명시되지 않은 융자사업의 경우 지원대상에 따라 상기조건을 준용함",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166859585",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170632497",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166859581",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170632493",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166859585",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170632497",
           "name": "",
           "file_store_url": ""
         }
@@ -973,11 +984,19 @@
   ],
   "attachments": [
     {
-      "name": "(붙임2) 지역균형발전특별회계 융자금 지원조건 전문(기후에너지환경부고시 제2026-181호).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=166859155",
-      "filename": "(붙임2) 지역균형발전특별회계 융자금 지원조건 전문(기후에너지환경부고시 제2026-181호).hwpx",
+      "name": "(붙임2) 지역균형발전특별회계 융자금 지원조건 전문(기후에너지환경부고시 제2026-262호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170629929",
+      "filename": "(붙임2) 지역균형발전특별회계 융자금 지원조건 전문(기후에너지환경부고시 제2026-262호).hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/(붙임2) 지역균형발전특별회계 융자금 지원조건 전문(기후에너지환경부고시 제2026-181호).hwpx",
+      "local_path": "첨부파일/(붙임2) 지역균형발전특별회계 융자금 지원조건 전문(기후에너지환경부고시 제2026-262호).hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "(붙임2) 지역균형발전특별회계 융자금 지원조건 전문(기후에너지환경부고시 제2026-262호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170629933",
+      "filename": "(붙임2) 지역균형발전특별회계 융자금 지원조건 전문(기후에너지환경부고시 제2026-262호).pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(붙임2) 지역균형발전특별회계 융자금 지원조건 전문(기후에너지환경부고시 제2026-262호).pdf",
       "file_store_url": ""
     }
   ],
@@ -996,9 +1015,9 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 42,
+    "addenda_count": 43,
     "appendices_count": 1,
-    "attachments_count": 1
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/지역균형발전특별회계 융자금 지원조건"
