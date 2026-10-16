@@ -1,25 +1,25 @@
 {
   "law_id": "34489",
-  "mst": "2100000281650",
+  "mst": "2100000287078",
   "law_name": "특허·실용신안 심사사무취급규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:34489",
-  "promulgation_no": "41",
-  "promulgation_date": "20260701",
-  "enforcement_date": "20260701",
-  "revision_date": "20260701",
+  "promulgation_no": "54",
+  "promulgation_date": "20261016",
+  "enforcement_date": "20261016",
+  "revision_date": "20261016",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "지식재산처(특허제도과)",
-    "담당자명": "이다나",
+    "담당자명": "이주찬",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "특허·실용신안 심사사무취급규정 ",
-    "발령일자": "20260701",
+    "발령일자": "20261016",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "042-481-5397",
     "제개정구분명": "일부개정",
     "소관부처코드": "1431000",
-    "생성일자": "20260702",
+    "생성일자": "20261020",
     "행정규칙ID": "34489",
-    "시행일자": "20260701",
-    "담당부서기관코드": "1431050",
-    "발령번호": "41",
-    "행정규칙일련번호": "2100000281650",
+    "시행일자": "20261016",
+    "담당부서기관코드": "1431055",
+    "발령번호": "54",
+    "행정규칙일련번호": "2100000287078",
     "상위부처명": "지식재산처"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n거절불복 심판단계에서 취소환송된 출원이 거절결정을 한 심사관에게 재배정됨에 따라 발생할 수 있는 예단ㆍ편견 우려를 해소하기 위해,  해당 심사관이 아닌 새로운 심사관이 맡도록 해 심사의 공정을 제고하고자 함\n◇ 주요내용\n가. 심판ㆍ소송절차의 전심관여 제한취지를 참고하여, 거절결정한 심사관이 아닌 다른 심사관이 심사하도록 함(제13조제6항, 제55조제6항)",
+  "revision_reason": "◇ 제ㆍ개정 이유\n등록지연 및 허가등에 따른 존속기간연장등록출원이 모두 있는 경우 허가등에 따른 존속기간 연장등록출원의 심사를 등록지연 존속기간 연장등록출원의 심사결과가 나온 이후에 할 수 있도록 하여 존속기간 연장일수 계산과정에서 발생할 수 있는 혼란을 방지하고자 함\n◇ 주요내용\n가. 등록지연에 따른 존속기간 연장등록출원의 연장등록여부결정 확정 시까지 허가등에 따른 존속기간 연장등록출원의 심사보류가 가능하도록 함(제7조제1항)",
   "body": {
     "format": "articles",
     "article_count": 106,
@@ -416,7 +416,7 @@
         "article_title": "심사보류 등 <개정 2010. 12. 27.>",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제7조(심사보류 등 <개정 2010. 12. 27.>) ① 심사관은 출원이 다음 각 호의 어느 하나에 해당하는 경우에는 2개월 이내의 기간을 정하여 심사를 보류하거나 처리기간을 연장(이하 \"심사보류 등\"이라 한다)할 수 있다. 다만, 지식재산처장 또는 심사관이 해당 출원에 대하여 특허에 관한 절차를 밟을 기간을 정한 때에는 그 기간에는 심사보류 등을 할 수 없다. <개정 2010. 12. 27., 2020. 8. 13., 2021. 6. 23.>1. 선출원이 공개되지 않은 경우2. 전문기관에 선행기술조사를 의뢰한 경우3. 제71조에 따라 심사의견 문의를 한 경우4. 해당 출원과 관련된 심판이나 소송이 계류중인 경우5. 제14조의2에 따라 협의심사하기로 결정한 경우6. 동일한 발명에 대하여 같은 날에 출원된 출원이 공개되지 않거나 심사청구되지 않은 경우7. 「특허법」 제55조제1항에 따른 선출원이 동법 제56조제1항의 본문에 따른 기간을 경과하지 않은 경우 <개정 2018. 4. 1.>8. 「특허법」 제54조제5항에 따른 기간이 경과하지 않은 경우9. 공중위생을 해칠 우려가 있는 발명으로 의심되나 이에 대한 심사 처리지침이 마련되어 있지 아니하여 협의가 필요한 경우 <신설 2018. 8. 1.>10. 심사에 필요한 참고자료제출을 재요구하였으나 출원인이 제출하지 않은 경우11. 처리기한 만료일 전 30일 이내에 의견서나 정보제출서가 담당심사관에게 이관되어 담당심사관이 추가검토가 필요한 경우 <신설 2021. 6. 23.>12. 그 밖에 심사보류 등이 필요하다고 인정되는 경우② 심사관은 제1항의 규정에 의하여 심사보류 등을 하고자 하는 경우에는 특허팀장에게 보고하여야 한다. 다만, 당월에 심사 착수하는 출원으로서 심사청구순서가 빠른 출원을 심사청구순서가 늦은 출원보다 늦게 심사하는 경우에는 그러하지 아니하다(이 규정에 따라 심사착수기간이 정해진 경우에는 제외) <개정 2015. 2. 3., 2019. 7. 1., 2021. 6. 23.>③ 제1항에 따라 심사보류 등을 한 출원에 대하여 심사관은 월 1회 이상 심사보류 등의 사유가 해소되었는지를 확인하여야 한다. <개정 2010. 12. 27.>④ 심사관은 제3항에 따라 확인한 결과 심사보류 등의 사유가 해소된 경우에는 해당 심사보류 등의 기간 만료일까지 심사처리하여야 한다. <개정 2010. 12. 27.>⑤ 심사보류 등을 하였던 출원에서 심사보류 등의 사유가 해소되지 않았거나 새로운 심사보류 등의 사유가 있는 경우에는 특허팀장을 거쳐 심사과장에게 보고하고 2개월 이내에서 심사보류 등을 다시 할 수 있다. 다만, 제1항제2호, 제3호, 제5호, 제11호 및 제12호 중 어느 하나에 해당하는 경우에는 심사관에게 책임이 없는 경우에만 다시 할 수 있다. <개정 2010. 12. 27., 2019. 7. 1., 2021. 6. 23., 2022. 4. 20.>⑥ 심사관은 제5항에 따른 심사보류 등을 최초로 할 때에는 그 사실을 출원인에게 통지하여야 한다. <개정 2010. 12. 27.>",
+        "content": "제7조(심사보류 등 <개정 2010. 12. 27.>) ① 심사관은 출원이 다음 각 호의 어느 하나에 해당하는 경우에는 2개월 이내의 기간을 정하여 심사를 보류하거나 처리기간을 연장(이하 \"심사보류 등\"이라 한다)할 수 있다. 다만, 지식재산처장 또는 심사관이 해당 출원에 대하여 특허에 관한 절차를 밟을 기간을 정한 때에는 그 기간에는 심사보류 등을 할 수 없다. <개정 2010. 12. 27., 2020. 8. 13., 2021. 6. 23.>1. 선출원이 공개되지 않은 경우2. 전문기관에 선행기술조사를 의뢰한 경우3. 제71조에 따라 심사의견 문의를 한 경우4. 해당 출원과 관련된 심판이나 소송이 계류중인 경우5. 제14조의2에 따라 협의심사하기로 결정한 경우6. 동일한 발명에 대하여 같은 날에 출원된 출원이 공개되지 않거나 심사청구되지 않은 경우7. 「특허법」 제55조제1항에 따른 선출원이 동법 제56조제1항의 본문에 따른 기간을 경과하지 않은 경우 <개정 2018. 4. 1.>8. 「특허법」 제54조제5항에 따른 기간이 경과하지 않은 경우9. 공중위생을 해칠 우려가 있는 발명으로 의심되나 이에 대한 심사 처리지침이 마련되어 있지 아니하여 협의가 필요한 경우 <신설 2018. 8. 1.>10. 심사에 필요한 참고자료제출을 재요구하였으나 출원인이 제출하지 않은 경우11. 처리기한 만료일 전 30일 이내에 의견서나 정보제출서가 담당심사관에게 이관되어 담당심사관이 추가검토가 필요한 경우 <신설 2021. 6. 23.>12. 「특허법」제92조의3에 따른 등록지연에 따른 특허권의 존속기간의 연장등록출원이 있는 동법 제90조에 따른 허가등에 따른 특허권의 존속기간의 연장등록출원에 대해  동법 제92조의4에 따른 연장등록거절결정 또는 제92조의5에 따른 연장등록결정이 확정되지 않은 경우 <신설 2026. 10. 16.>13. 그 밖에 심사보류 등이 필요하다고 인정되는 경우② 심사관은 제1항의 규정에 의하여 심사보류 등을 하고자 하는 경우에는 특허팀장에게 보고하여야 한다. 다만, 당월에 심사 착수하는 출원으로서 심사청구순서가 빠른 출원을 심사청구순서가 늦은 출원보다 늦게 심사하는 경우에는 그러하지 아니하다(이 규정에 따라 심사착수기간이 정해진 경우에는 제외) <개정 2015. 2. 3., 2019. 7. 1., 2021. 6. 23.>③ 제1항에 따라 심사보류 등을 한 출원에 대하여 심사관은 월 1회 이상 심사보류 등의 사유가 해소되었는지를 확인하여야 한다. <개정 2010. 12. 27.>④ 심사관은 제3항에 따라 확인한 결과 심사보류 등의 사유가 해소된 경우에는 해당 심사보류 등의 기간 만료일까지 심사처리하여야 한다. <개정 2010. 12. 27.>⑤ 심사보류 등을 하였던 출원에서 심사보류 등의 사유가 해소되지 않았거나 새로운 심사보류 등의 사유가 있는 경우에는 특허팀장을 거쳐 심사과장에게 보고하고 2개월 이내에서 심사보류 등을 다시 할 수 있다. 다만, 제1항제2호, 제3호, 제5호, 제11호 및 제13호 중 어느 하나에 해당하는 경우에는 심사관에게 책임이 없는 경우에만 다시 할 수 있다. <개정 2010. 12. 27., 2019. 7. 1., 2021. 6. 23., 2022. 4. 20., 2026. 10. 16.>⑥ 심사관은 제5항에 따른 심사보류 등을 최초로 할 때에는 그 사실을 출원인에게 통지하여야 한다. <개정 2010. 12. 27.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -576,6 +576,126 @@
             "resolve_method": "html",
             "source_provision_id": "admrul:특허실용신안심사사무취급규정#JO0007",
             "reference_id": "law:특허법#JO0054",
+            "target_repo": "LAW",
+            "target_git_path_guess": "특허법/법률/특허법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "「특허법」",
+            "line_text": "",
+            "target_law_name": "특허법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34489",
+            "target_url": "https://www.law.go.kr/법령/특허법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:특허실용신안심사사무취급규정#JO0007",
+            "reference_id": "law:특허법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "특허법/법률/특허법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "제92조의3",
+            "line_text": "",
+            "target_law_name": "특허법",
+            "target_article_no": "제92조의3",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34489",
+            "target_url": "https://www.law.go.kr/법령/특허법/제92조의3",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:특허실용신안심사사무취급규정#JO0007",
+            "reference_id": "law:특허법#JO0092_03",
+            "target_repo": "LAW",
+            "target_git_path_guess": "특허법/법률/특허법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "동법",
+            "line_text": "",
+            "target_law_name": "특허법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34489",
+            "target_url": "https://www.law.go.kr/법령/특허법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:특허실용신안심사사무취급규정#JO0007",
+            "reference_id": "law:특허법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "특허법/법률/특허법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "제90조",
+            "line_text": "",
+            "target_law_name": "특허법",
+            "target_article_no": "제90조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34489",
+            "target_url": "https://www.law.go.kr/법령/특허법/제90조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:특허실용신안심사사무취급규정#JO0007",
+            "reference_id": "law:특허법#JO0090",
+            "target_repo": "LAW",
+            "target_git_path_guess": "특허법/법률/특허법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "동법",
+            "line_text": "",
+            "target_law_name": "특허법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34489",
+            "target_url": "https://www.law.go.kr/법령/특허법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:특허실용신안심사사무취급규정#JO0007",
+            "reference_id": "law:특허법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "특허법/법률/특허법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "제92조의4",
+            "line_text": "",
+            "target_law_name": "특허법",
+            "target_article_no": "제92조의4",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "34489",
+            "target_url": "https://www.law.go.kr/법령/특허법/제92조의4",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:특허실용신안심사사무취급규정#JO0007",
+            "reference_id": "law:특허법#JO0092_04",
             "target_repo": "LAW",
             "target_git_path_guess": "특허법/법률/특허법.json"
           }
@@ -995,8 +1115,8 @@
       {
         "article_no": "제17조",
         "article_title": "면담제도",
-        "chapter": "제3절 면 담",
-        "chapter_path": "제2장 분류 및 심사관지정 등 > 제3절 면 담",
+        "chapter": "제3절 면담",
+        "chapter_path": "제2장 분류 및 심사관지정 등 > 제3절 면담",
         "content": "제17조(면담제도) ① 심사관이 신속하고 공정한 심사를 위하여 필요하다고 인정하거나 출원인 또는 그 대리인(이하 \"당사자\"라 한다)의 신청이 있는 경우로서 다음 각 호의 어느 하나에 해당하는 때에는 심사관은 당사자와 지식재산처내 지정된 면담장소에서 대면, 화상 또는 전화 중 어느 하나로 면담할 수 있다. 다만, 심사관이 대면 또는 화상으로 면담을 요청하고자 하는 경우에는 당사자(대리인이 있는 경우에는 그 대리인)와 먼저 전화통화를 하되 전화통화를 할 수 없거나 전화통화만으로 의사소통이 곤란한 경우에 면담을 요청하는 것으로 한다. <개정 2008. 9. 30., 2024. 1. 31.>1. 본원발명과 선행기술간 대비설명이 필요한 경우2. 의견제출통지서상의 거절이유를 명확하게 하기 위한 경우3. 의견제출통지서에 대한 의견서의 내용을 명확하게 하기 위한 경우4. 진정한 발명자인지 여부를 확인하기 위해 필요한 경우 <신설 2020. 8. 13.>5. 기타 신속ㆍ정확한 심사를 위하여 심사관이 필요하다고 판단하는 경우② 심사관은 제1항에 규정한 면담을 하고자 하는 경우에는 서면, 팩스, 전화로 당사자에게 기일을 지정하여 면담을 요청할 수 있다. 다만, 당사자의 신청에 의하는 경우에는 당사자가 면담신청 내용을 서면, 팩스, 전화 또는 정보통신망으로 신청할 수 있다.③ 제2항의 규정에 의하여 지정된 면담일자에 부득이한 사유로 면담을 할 수 없는 경우에는 심사관과 당사자의 합의에 의하여 기일을 변경할 수 있다.④ 심사관은 제3항의 규정에 의하여 면담일시의 변경이 있는 경우에는 면담대장에 그 사실을 기록하여야 한다.⑤ 고객지원실장은 면담에 관한 면담대장을 작성 비치하여야 하며, 심사관은 제1항에 따른 면담 또는 전화통화를 한 경우에는 면담기록서를 작성하여 보관하고, 특허심사처리시스템의 심사보고서에 면담 내용을 기록하여야 한다. <개정 2010. 4. 28., 2011. 6. 23.>⑥ 심사관은 제2항에 따라 면담요청을 받은 대리인이 면담에 응하지 아니하거나 대리할 능력이 부족한 것으로 판단된 경우에는 의견제출통지서 등에 그러한 내용을 참고사항으로 기재하거나, 출원인에게 그 사실을 통보하고 출원인이 희망하는 경우에는 출원인에게 의견제출통지서 등을 직접 발송할 수 있다.⑦ 심사관은 제1항에 규정한 면담을 하고자 하는 경우에는 협의심사관 또는 상위 결재자인 특허팀장과 함께 면담을 진행할 수 있다. <신설 2020. 8. 13.>",
         "enforcement_date": "",
         "relations": [],
@@ -1006,8 +1126,8 @@
       {
         "article_no": "제17조의2",
         "article_title": "출장면담제도",
-        "chapter": "제3절 면 담",
-        "chapter_path": "제2장 분류 및 심사관지정 등 > 제3절 면 담",
+        "chapter": "제3절 면담",
+        "chapter_path": "제2장 분류 및 심사관지정 등 > 제3절 면담",
         "content": "제17조의2(출장면담제도) ① 심사관은 정보통신망을 통한 당사자의 면담 요청이 있는 경우 해당 당사자를 방문하여 면담(이하 \"출장면담\"이라 한다)할 수 있다.② 제1항에 의한 출장면담의 요청이 있는 경우 심사관은 당사자와 먼저 전화통화를 하되, 전화통화만으로 의사소통이 곤란하거나 심사관이 신속하고 정확한 심사를 위하여 필요하다고 인정하는 경우에 한하여 출장면담을 실시한다.③ 제1항에 의한 출장면담은 해당 출장지역의 「발명진흥법」 제23조에 따른 지역지식재산센터(이하 \"지역지식재산센터\"라 한다)에서 실시함을 원칙으로 하되, 지역지식재산센터에서 실시할 수 없는 불가피한 사정이 있는 경우에는 심사관과 당사자의 합의에 의해 당사자의 사업장을 제외한 별도의 장소에서 실시할 수 있다.④ 출장면담 기일의 변경 및 기록 유지에 관하여는 제17조제3항부터 제5항까지를 준용한다.",
         "enforcement_date": "",
         "relations": [
@@ -1078,8 +1198,8 @@
       {
         "article_no": "제17조의3",
         "article_title": "삭제",
-        "chapter": "제3절 면 담",
-        "chapter_path": "제2장 분류 및 심사관지정 등 > 제3절 면 담",
+        "chapter": "제3절 면담",
+        "chapter_path": "제2장 분류 및 심사관지정 등 > 제3절 면담",
         "content": "제17조의3 삭제 <2024. 1. 31.>",
         "enforcement_date": "",
         "relations": [],
@@ -1089,8 +1209,8 @@
       {
         "article_no": "제17조의4",
         "article_title": "보정안 사전 검토 등",
-        "chapter": "제3절 면 담",
-        "chapter_path": "제2장 분류 및 심사관지정 등 > 제3절 면 담",
+        "chapter": "제3절 면담",
+        "chapter_path": "제2장 분류 및 심사관지정 등 > 제3절 면담",
         "content": "제17조의4(보정안 사전 검토 등) 심사관은 의견서제출기간 만료일 전 또는 거절결정 후 재심사 청구기간 만료일 전에 출원인과의 면담을 통하여 출원인이 제출한 보정서 또는 보정안에 관한 의견을 교환(이하 \"보정안 사전 검토\"라 한다)할 수 있다. <신설 2014. 12. 31.> <개정 2019. 7. 1.>",
         "enforcement_date": "",
         "relations": [],
@@ -5190,7 +5310,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "34489",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166602389",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170757047",
             "resolve_method": "html",
             "source_provision_id": "admrul:특허실용신안심사사무취급규정#JO0068",
             "target_unit": "BJ0001",
@@ -5238,7 +5358,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "34489",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166602395",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170757053",
             "resolve_method": "html",
             "source_provision_id": "admrul:특허실용신안심사사무취급규정#JO0070",
             "target_unit": "BJ0002",
@@ -5589,7 +5709,7 @@
             "appendix_found": false,
             "target_mst": "",
             "source_admrul_seq": "34489",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281650&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287078&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:특허실용신안심사사무취급규정#JO0081",
             "target_unit": "BJ0005",
@@ -5614,7 +5734,7 @@
             "appendix_found": false,
             "target_mst": "",
             "source_admrul_seq": "34489",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281650&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287078&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:특허실용신안심사사무취급규정#JO0081",
             "target_unit": "BJ0005",
@@ -5651,7 +5771,7 @@
             "appendix_found": false,
             "target_mst": "",
             "source_admrul_seq": "34489",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281650&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287078&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:특허실용신안심사사무취급규정#JO0081_02",
             "target_unit": "BJ0005",
@@ -5676,7 +5796,7 @@
             "appendix_found": false,
             "target_mst": "",
             "source_admrul_seq": "34489",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281650&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287078&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:특허실용신안심사사무취급규정#JO0081_02",
             "target_unit": "BJ0005",
@@ -6027,10 +6147,10 @@
       "content": "부칙 <제544호,2008. 3. 24.>제1조(시행일) 이 규정은 발령한 날부터 시행한다. 다만, 제5조제3항제1호의2 및 제6조제1항제2호의2의 개정규정은 2008년 4월 1일부터 시행하고, 제23조 및 제23조의2의 개정규정은 2008년 7월 1일부터 시행한다.제2조(보정각하결정의 보고에 관한 적용례) 제5조제3항제1호의2 및 제6조제1항제2호의2의 개정규정은 이 규정 시행 이후 최초로 보정각하결정의 처분이 이루어지는 것부터 적용한다.제3조(지정기간의 연장 등에 관한 적용례) 제23조제3항 단서, 같은 조 제4항부터 제6항까지 및 제23조의2의 개정규정은 이 규정 시행 이후 거절이유통지가 이루어지는 것부터 적용한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20080930",
@@ -6038,10 +6158,10 @@
       "content": "부칙 <제580호,2008. 9. 30.>제1조(시행일) 이 규정은 2009년 1월 1일부터 시행한다. 다만, 제1조, 제2조, 제5조제2항제1호, 제13조제6항, 제14조, 제17조제1항, 제20조, 제21조의2, 제23조, 제40조부터 제50조까지, 제59조 중 고시 관련 개정부분, 제60조제1항 중 고시 관련 개정부분, 제66조, 제86조제1항의 개정규정은 2008년 10월 1일부터 시행한다.제2조(전문조사관 및 예비심사관에 의한 우선심사 결정업무 처리 등과 관련한 적용례) 제58조부터 제62조까지, 제65조 및 제66조의 개정규정은 이 규정 시행 이후 최초로 제출되는 우선심사신청부터 적용한다.제3조(이의신청 관련 규정의 폐지에 따른 경과조치) 이 규정 시행 당시 이의신청이 진행중인 경우에는 종전의 규정을 적용한다. 다만, 그 이의신청에 대한 지정기간의 연장에 관하여는 제23조의 개정규정을 적용한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20090630",
@@ -6049,10 +6169,10 @@
       "content": "부칙 <제611호,2009. 6. 30.>제1조(시행일) 이 규정은 2009년 7월 1일부터 시행한다.제2조(재심사의 청구에 관한 적용례) 제5조의 개정규정 중 재심사의 청구 관련 개정부분 및 제6조, 제13조, 제51조 내지 제55조의 개정 규정은 이 규정 시행 후 최초로 출원하는 출원부터 적용한다.제3조(직권에 의한 보정 등에 대한 적용례) 제26조5항의 개정규정은 이 규정 시행 후 최초로 특허결정 또는 실용신안등록결정이 이루어지는 것부터 적용한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20090824",
@@ -6060,10 +6180,10 @@
       "content": "부칙 <제620호,2009. 8. 24.>이 훈령은 2009년 8월 24일부터 시행한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20090916",
@@ -6071,10 +6191,10 @@
       "content": "부칙 <제625호,2009. 9. 16.>제1조(시행일) 이 규정은 2009년 10월 1일부터 시행한다.제2조(초고속 심사에 관한 적용례) 제2조, 제9조, 제59조 및 제66조의 개정 규정은 시행 후 최초로 제출되는 초고속심사 신청부터 적용한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20100428",
@@ -6082,10 +6202,10 @@
       "content": "부칙 <제665호,2010. 4. 28.>제1조(시행일) 이 규정은 2010년 4월 29일부터 시행한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20101221",
@@ -6093,10 +6213,10 @@
       "content": "부칙 <제681호,2010. 12. 21.>제1조(시행일) 이 규정은 2011년 1월 1일부터 시행한다.제2조(우선심사에 관한 적용례) 제60조, 제62조 및 제66조의 개정 규정은 시행 후 최초로 제출되는 우선심사 신청부터 적용한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20110623",
@@ -6104,10 +6224,10 @@
       "content": "부칙 <제693호,2011. 6. 23.>제1조(시행일) 이 규정은 2011년 7월 1일부터 시행한다.제2조(우선심사에 관한 적용례) 제66조의 개정 규정은 시행 후 최초로 제출되는 우선심사 신청부터 적용한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20120727",
@@ -6115,10 +6235,10 @@
       "content": "부칙 <제718호,2012. 7. 27.>제1조(시행일) 이 규정은 2012년 8월 1일부터 시행한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20130923",
@@ -6126,10 +6246,10 @@
       "content": "부칙 <제744호,2013. 9. 23.>제1조(시행일) 이 규정은 공포한 날부터 시행한다. 다만, 제5조제2항, 제5조제3항제7의2호 및 제55조제5항의 개정규정은 2013년 11월 1일부터 시행한다.제2조(감독에 관한 적용례) 제5조제2항 및 제5조제3항제7의2호의 개정 규정은 이 규정 시행 후 보고하는 것부터 적용한다.제3조(취소환송된 출원의 중간서류 처리기간에 관한 적용례) 제55조 제5항의 개정 규정은 이 규정 시행 후 취소환송된 출원의 중간서류를 처리하는 것부터 적용한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20140410",
@@ -6137,10 +6257,10 @@
       "content": "부칙 <제761호,2014. 4. 10.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20141231",
@@ -6148,10 +6268,10 @@
       "content": "부칙 <제797호,2014. 12. 31.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20150203",
@@ -6159,10 +6279,10 @@
       "content": "부칙 <제800호,2015. 2. 3.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20160211",
@@ -6170,10 +6290,10 @@
       "content": "부칙 <제836호,2016. 2. 11.>제1조(시행일) 이 훈령은 2016년 2월 11일부터 시행한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20160502",
@@ -6181,10 +6301,10 @@
       "content": "부칙 <제844호,2016. 5. 2.>제1조(시행일) 이 훈령은 2016년 5월 2일부터 시행한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20170301",
@@ -6192,10 +6312,10 @@
       "content": "부칙 <제866호,2017. 3. 1.>제1조(시행일) 이 훈령은 2017년 3월 1일부터 시행한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20180401",
@@ -6203,10 +6323,10 @@
       "content": "부칙 <제904호,2018. 4. 1.>제1조(시행일) 이 훈령은 2018년 4월 1일부터 시행한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20180801",
@@ -6214,10 +6334,10 @@
       "content": "부칙 <제915호,2018. 8. 1.>제1조(시행일) 이 훈령은 2018년 8월 1일부터 시행한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20190701",
@@ -6225,10 +6345,10 @@
       "content": "부칙 <제943호,2019. 7. 1.>제1조(시행일) 이 훈령은 2019년 7월 1일부터 시행한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20191227",
@@ -6236,10 +6356,10 @@
       "content": "부칙 <제984호,2019. 12. 27.>이 규정은 2019. 12. 27.부터 시행한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20200813",
@@ -6247,10 +6367,10 @@
       "content": "부칙 <제1014호,2020. 8. 13.>제1조(시행일) 이 훈령은 2020년 8월 13일부터 시행한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20210623",
@@ -6258,10 +6378,10 @@
       "content": "부칙 <제1050호, 2021. 6. 23.>제1조(시행일) 이 훈령은 2021년 6월 23일부터 시행한다. 다만, 제83조의 개정규정은 2021년 11월 1일부터 시행한다.제2조(처리기간 등에 관한 적용례) 제21조, 제21조의2, 제66조의 처리기간 등에 관한 개정규정은 이 훈령 시행 전의 제21조, 제21조의2, 제66조에 따라 이미 처리기간 등이 부여된 출원에 대해서도 적용한다. 다만, 제66조제1항제3호, 제66조제1항제4호의 개정규정(8개월 관련 개정부분에 한정한다)은 이 훈령 시행 이후 우선심사신청된 건부터 적용한다.제3조(심사보류 등에 관한 적용례) 제7조제1항제11호의 개정규정은 이 훈령 시행 이후 제출된 의견서나 정보제출서의 경우부터 적용한다.제4조(정보제공사실통지에 관한 적용례) 제83조의 개정규정은 같은 개정규정 시행 이후 제출된 정보제공부터 적용한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20220420",
@@ -6269,10 +6389,10 @@
       "content": "부칙 <제1077호, 2022. 4. 20.>제1조(시행일) 이 훈령은 2022년 4월 20일부터 시행한다.제2조(처리기간 등에 관한 적용례) 제20조, 제21조의 처리기간 등에 관한 개정규정은 이 훈령 시행 이후 출원한 분할출원, 분리출원 및 변경출원부터 적용한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20230428",
@@ -6280,10 +6400,10 @@
       "content": "부칙 <제1112호, 2023. 4. 28.>제1조(시행일) 이 훈령은 2023년 4월 28일부터 시행한다.제2조(처리기간 등에 관한 적용례) 제26조의2, 제55조의 처리기간 관련 개정규정은 이 규정 시행 전의 제26조의2, 제55조에 따라 이미 처리기간이 부여된 출원에 대해서도 적용한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20240131",
@@ -6291,10 +6411,10 @@
       "content": "부칙 <제1153호, 2024. 1. 31.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다. 다만, 제17조의3의 개정규정은 2024년 3월 1일부터 시행한다.제2조(예비심사에 관한 경과조치) 부칙 제1조 단서에 따른 시행 전에 예비심사를 신청한 출원에 관하여는 제17조의3의 개정규정에도 불구하고 종전의 규정에 따른다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20240517",
@@ -6302,10 +6422,10 @@
       "content": "부칙 <제1166호, 2024. 5. 17.>제1조(시행일) 이 훈령은 2024년 5월 17일부터 시행한다.제2조(처리기간에 관한 적용례) 제21조, 제21조의2의 개정규정은 이 훈령 시행 당시 이미 처리기간이 부여되었으나 심사에 착수하지 아니한 출원에 대해서도 적용한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20250101",
@@ -6313,10 +6433,10 @@
       "content": "부칙 <제1191호, 2025. 1. 1.>제1조(시행일) 이 훈령은 2025년 1월 1일부터 시행한다.제2조(처리기간 등에 관한 적용례) 제20조 및 제21조, 제55조의 개정규정은 이 훈령 시행 전의 제20조, 제21조, 제55조에 따라 이미 처리기간이 부여된 출원에 대해서도 적용한다. 다만, 제66조제1항제2호의 개정규정은 이 훈령 시행 이후 우선심사신청된 건부터 적용한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20250711",
@@ -6324,10 +6444,10 @@
       "content": "부칙 <제1208호, 2025. 7. 11.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20251015",
@@ -6335,10 +6455,10 @@
       "content": "부칙 <제1호, 2025. 10. 15.>제1조(시행일) 이 훈령은 2025년 10월 15일부터 시행한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20251030",
@@ -6346,10 +6466,10 @@
       "content": "부칙 <제2호, 2025. 10. 30.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
     },
     {
       "promulgation_date": "20260701",
@@ -6357,10 +6477,21 @@
       "content": "부칙 <제41호, 2026. 7. 1.>제1조(시행일) 이 훈령은 2026년 7월 1일부터 시행한다.",
       "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281650",
+      "source_mst": "2100000287078",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261016"
+    },
+    {
+      "promulgation_date": "20261016",
+      "promulgation_no": "54",
+      "content": "부칙 <제54호, 2026. 10. 16.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:특허실용신안심사사무취급규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000287078",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261016"
     }
   ],
   "appendices": [
@@ -6373,17 +6504,17 @@
       "content": "[별지 제1호서식] 위촉장 <개정 2016.5.2.>\n위   촉   장\n성명    홍 길 동\n소속    ○○○○\n위촉기간: 20  .  .  . ~ 20  .  .  .\n귀하를 특허법 제58조 제4항 및 실용신안법 제15조의 규정에 의하여 20  년도 특허 및 실용신안등록출원 심사자문위원으로 위촉합니다.\n20  .   .   .\n지 식 재 산 처 장\n210mm×297mm[일반용지60g/㎡(재활용품)]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166602389",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170757047",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166602385",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170757043",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166602389",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170757047",
           "name": "",
           "file_store_url": ""
         }
@@ -6404,17 +6535,17 @@
       "content": "[별지 제2호서식] 서약서 <개정 2022.4.20.>\n┌──────────────────────────────┐\n│                                                            │\n│서     약     서                                            │\n│                                                            │\n│   본인은 귀 위촉에 의한 특허 및 실용신안등록출원에 대한    │\n│의견서 제출에 있어 본인의 양심에 따라 신중하고 공정하게     │\n│임무를 수행할 것이며 업무수행 상 알게 된 내용은 위촉기간 내 │\n│는 물론 해촉 후에도 절대로 누설하지 않을 것을 서약합니다.   │\n│                                                            │\n│                                                            │\n│                                                            │\n│                                  20  .    .    .           │\n│                                                            │\n│                                                            │\n│     소속 :                                                 │\n│     직위 :                                                 │\n│                          성명 :             (서명)         │\n│                                                            │\n│                                                            │\n│지 식 재 산 처 장  귀하                                     │\n│                                                            │\n│                                                            │\n│                                                            │\n└──────────────────────────────┘\n210mm×297mm[일반용지60g/㎡(재활용품)]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166602395",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170757053",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166602391",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170757049",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166602395",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170757053",
           "name": "",
           "file_store_url": ""
         }
@@ -6429,33 +6560,33 @@
   ],
   "attachments": [
     {
-      "name": "(지식재산처훈령 제41호) 특허·실용신안 심사사무취급규정(별지포함)_게시용.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=166602079",
-      "filename": "(지식재산처훈령 제41호) 특허·실용신안 심사사무취급규정(별지포함)_게시용.hwpx",
+      "name": "★(지식재산처훈령 제54호) 특허·실용신안 심사사무취급규정(별지포함).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170756933",
+      "filename": "★(지식재산처훈령 제54호) 특허·실용신안 심사사무취급규정(별지포함).hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/(지식재산처훈령 제41호) 특허·실용신안 심사사무취급규정(별지포함)_게시용.hwpx",
+      "local_path": "첨부파일/★(지식재산처훈령 제54호) 특허·실용신안 심사사무취급규정(별지포함).hwpx",
       "file_store_url": ""
     },
     {
-      "name": "(지식재산처훈령 제41호) 특허·실용신안 심사사무취급규정(별지포함)_게시용.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=166602083",
-      "filename": "(지식재산처훈령 제41호) 특허·실용신안 심사사무취급규정(별지포함)_게시용.pdf",
+      "name": "★(지식재산처훈령 제54호) 특허·실용신안 심사사무취급규정(별지포함).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170756937",
+      "filename": "★(지식재산처훈령 제54호) 특허·실용신안 심사사무취급규정(별지포함).pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/(지식재산처훈령 제41호) 특허·실용신안 심사사무취급규정(별지포함)_게시용.pdf",
+      "local_path": "첨부파일/★(지식재산처훈령 제54호) 특허·실용신안 심사사무취급규정(별지포함).pdf",
       "file_store_url": ""
     }
   ],
   "ordinance_delegations": [],
   "relation_mode": "no_crawl",
   "relation_stats": {
-    "relations_total": 237,
+    "relations_total": 243,
     "by_category": {
       "행정규칙": 69,
-      "법령": 168
+      "법령": 174
     },
     "by_relation_type": {
       "internal_ref": 60,
-      "citation": 171,
+      "citation": 177,
       "appendix_ref": 6
     },
     "articles_total": 106,
@@ -6463,7 +6594,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 31,
+    "addenda_count": 32,
     "appendices_count": 2,
     "attachments_count": 2
   },
