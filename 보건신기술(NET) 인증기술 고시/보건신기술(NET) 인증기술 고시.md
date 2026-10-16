@@ -3,22 +3,22 @@
 문서종: 행정규칙
 provision_id: "admrul:보건신기술(NET)인증기술고시#DOC"
 law_id: 34387
-mst: 2100000282942
-시행일자: 20260722
-공포일자: 20260722
+mst: 2100000287032
+시행일자: 20261016
+공포일자: 20261016
 source: "https://www.law.go.kr/행정규칙/보건신기술(NET) 인증기술 고시"
 adm_uid: "admrul:34387"
 ---
 
 # 보건신기술(NET) 인증기술 고시
-> 고시 · 행정규칙 · 시행 2026-07-22 · 공포 2026-07-22 · 일부개정
+> 고시 · 행정규칙 · 시행 2026-10-16 · 공포 2026-10-16 · 일부개정
 
 ### 전문
-![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=167422749)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=167422751)
+![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=170686025)![그림](https://www.law.go.kr/LSW/flDownload.do?flSeq=170686027)
 
 ## 첨부파일
-- 📎 [(2026년 제1차)보건신기술(NET) 인증기술 고시 전문(제2026-152호).pdf](http://law.go.kr/flDownload.do?flSeq=167422023)
-- 📎 [(2026년 제1차)보건신기술(NET) 인증기술 고시 전문(제2026-152호).hwpx](http://law.go.kr/flDownload.do?flSeq=167422019)
+- 📎 [(2026년 제2차)보건신기술(NET) 인증기술 고시 전문(제2026-216호).hwpx](http://law.go.kr/flDownload.do?flSeq=170685725)
+- 📎 [(2026년 제2차)보건신기술(NET) 인증기술 고시 전문(제2026-216호).pdf](http://law.go.kr/flDownload.do?flSeq=170685729)
 
 ## 부칙
 ### 부칙 (공포 2014-06-30 제2014-103호)
@@ -110,3 +110,6 @@ adm_uid: "admrul:34387"
 
 ### 부칙 (공포 2026-07-22 제2026-152호)
 부칙 <제2026-152호, 2026. 7. 22.>이 고시는 발령한 날부터 시행한다.
+
+### 부칙 (공포 2026-10-16 제2026-216호)
+부칙 <제2026-216호, 2026. 10. 16.>이 고시는 발령한 날부터 시행한다.
