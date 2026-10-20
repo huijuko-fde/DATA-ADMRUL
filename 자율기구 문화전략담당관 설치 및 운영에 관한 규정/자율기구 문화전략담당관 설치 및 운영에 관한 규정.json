@@ -1,17 +1,17 @@
 {
   "law_id": "96862",
-  "mst": "2100000278078",
+  "mst": "2100000284160",
   "law_name": "자율기구 문화전략담당관 설치 및 운영에 관한 규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:96862",
-  "promulgation_no": "580",
-  "promulgation_date": "20260420",
-  "enforcement_date": "20260420",
-  "revision_date": "20260420",
-  "revision_type": "제정",
+  "promulgation_no": "591",
+  "promulgation_date": "20261020",
+  "enforcement_date": "20261020",
+  "revision_date": "20261020",
+  "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
@@ -19,24 +19,24 @@
     "담당자명": "손보라",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "자율기구 문화전략담당관 설치 및 운영에 관한 규정",
-    "발령일자": "20260420",
+    "발령일자": "20261020",
     "행정규칙종류": "훈령",
-    "제개정구분코드": "200401",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "문화체육관광부",
     "전화번호": "044-203-2215",
-    "제개정구분명": "제정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "1371000",
-    "생성일자": "20260427",
+    "생성일자": "20261020",
     "행정규칙ID": "96862",
-    "시행일자": "20260420",
+    "시행일자": "20261020",
     "담당부서기관코드": "1371807",
-    "발령번호": "580",
-    "행정규칙일련번호": "2100000278078",
+    "발령번호": "591",
+    "행정규칙일련번호": "2100000284160",
     "상위부처명": "문화체육관광부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제정이유\n사회 전반의 패러다임 변화 속 새로운 정책수요 대응과 문화행정 혁신 추진과제를 총괄ㆍ조정하기 위해 「행정기관의 조직과 정원에 관한 통칙」제29조의3에 따라 「자율기구 문화전략담당관 설치 및 운영에 관한 규정」을 제정하려는 것임\n◇ 주요내용\n가. 문화체육관광부에 \"자율기구 문화전략담당관\"(이하 \"문화전략담당관\")을 신설(안 제2조)\n나. K-컬처산업 성장 전략 수립, 5극3특 국가균형 성장 위한 문화ㆍ예술ㆍ관광ㆍ체육분야 총괄ㆍ조정, 문화를 통한 사회문제 해결 과제 발굴 등에 관한 사항 등 \"문화전략담당관\"의 기능을 규정(안 제3조)\n다. \"문화전략담당관\"의 담당관과 직원 등 조직의 구성을 규정(안 제4조)\n라. 「자율기구 문화전략담당관 설치 및 운영에 관한 규정」의 존속기한을 훈령을 발령한 날로부터 6개월로 규정(안 제6조)",
+  "revision_reason": "◇ 개정이유\n사회 전반의 패러다임 변화 속 새로운 정책수요 대응과 문화행정 혁신 추진과제를 총괄ㆍ조정하기 위한 「행정기관의 조직과 정원에 관한 통칙」 제29조의3에 따라 설치된 자율기구인 문화전략담당관의 존속기한을 6개월 연장하고자 함\n◇ 주요내용\n가. 동 훈령 관련 대통령령 제명 변경사항을 반영함(안 제4조)\n- 제4조제5항 중 \"행정 효율과 협업 촉진에 관한 규정\"을 \"행정업무의 운영 및 혁신에 관한 규정\"으로 정정\n나. 훈령의 존속기한을 종전의 2026년 10월 19일에서 2027년 4월 19일로 6개월 연장함(안 제6조)",
   "body": {
     "format": "articles",
     "article_count": 6,
@@ -161,7 +161,7 @@
         "article_title": "조직의 구성",
         "chapter": "",
         "chapter_path": "",
-        "content": "제4조(조직의 구성) ① \"문화전략담당관\"은 담당관과 직원으로 구성하며, 필요한 경우 관련 분야의 전문지식과 경험이 풍부한 전문가를 자문위원으로 위촉하여 운영할 수 있다.② 담당관은 \"문화전략담당관\"의 업무를 총괄하며, 문화체육관광부의 4급 공무원으로 임용한다.③ 담당관이 부득이한 사유로 업무를 수행할 수 없을 때에는 「직무대리  규정」에 따라 문화체육관광부장관이 지정한 공무원이 직무를 대행한다.④ 직원은 문화체육관광부 소속 공무원과 관계 행정기관, 공공기관, 업무와 관련된 민간기업 등에서 파견된 자로 구성한다.⑤ 담당관은 효율적인 업무처리 및 책임 소재를 명확하게 하기 위하여 「행정 효율과 협업 촉진에 관한 규정」 제60조에 따라 소속 직원에게 업무를 분장한다.",
+        "content": "제4조(조직의 구성) ① \"문화전략담당관\"은 담당관과 직원으로 구성하며, 필요한 경우 관련 분야의 전문지식과 경험이 풍부한 전문가를 자문위원으로 위촉하여 운영할 수 있다.② 담당관은 \"문화전략담당관\"의 업무를 총괄하며, 문화체육관광부의 4급 공무원으로 임용한다.③ 담당관이 부득이한 사유로 업무를 수행할 수 없을 때에는 「직무대리  규정」에 따라 문화체육관광부장관이 지정한 공무원이 직무를 대행한다.④ 직원은 문화체육관광부 소속 공무원과 관계 행정기관, 공공기관, 업무와 관련된 민간기업 등에서 파견된 자로 구성한다.⑤ 담당관은 효율적인 업무처리 및 책임 소재를 명확하게 하기 위하여 「행정업무의 운영 및 혁신에 관한 규정」 제60조에 따라 소속 직원에게 업무를 분장한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -190,19 +190,19 @@
             "target_category": "법령",
             "source_article_no": "제4조",
             "source_clause": "제4조제5항",
-            "link_text": "「행정 효율과 협업 촉진에 관한 규정」",
+            "link_text": "「행정업무의 운영 및 혁신에 관한 규정」",
             "line_text": "",
-            "target_law_name": "행정 효율과 협업 촉진에 관한 규정",
+            "target_law_name": "행정업무의 운영 및 혁신에 관한 규정",
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "96862",
-            "target_url": "https://www.law.go.kr/법령/행정 효율과 협업 촉진에 관한 규정",
+            "target_url": "https://www.law.go.kr/법령/행정업무의 운영 및 혁신에 관한 규정",
             "resolve_method": "html",
             "source_provision_id": "admrul:자율기구문화전략담당관설치및운영에관한규정#JO0004",
-            "reference_id": "law:행정효율과협업촉진에관한규정#DOC",
+            "reference_id": "law:행정업무의운영및혁신에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정 효율과 협업 촉진에 관한 규정/법률/행정 효율과 협업 촉진에 관한 규정.json"
+            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json"
           },
           {
             "relation_type": "citation",
@@ -212,17 +212,17 @@
             "source_clause": "제4조제5항",
             "link_text": "제60조",
             "line_text": "",
-            "target_law_name": "행정 효율과 협업 촉진에 관한 규정",
+            "target_law_name": "행정업무의 운영 및 혁신에 관한 규정",
             "target_article_no": "제60조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "96862",
-            "target_url": "https://www.law.go.kr/법령/행정 효율과 협업 촉진에 관한 규정/제60조",
+            "target_url": "https://www.law.go.kr/법령/행정업무의 운영 및 혁신에 관한 규정/제60조",
             "resolve_method": "html",
             "source_provision_id": "admrul:자율기구문화전략담당관설치및운영에관한규정#JO0004",
-            "reference_id": "law:행정효율과협업촉진에관한규정#JO0060",
+            "reference_id": "law:행정업무의운영및혁신에관한규정#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정 효율과 협업 촉진에 관한 규정/법률/행정 효율과 협업 촉진에 관한 규정.json"
+            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json"
           }
         ],
         "images": [],
@@ -244,7 +244,7 @@
         "article_title": "존속 기한",
         "chapter": "",
         "chapter_path": "",
-        "content": "제6조(존속 기한) 이 훈령은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에도 불구하고 이 훈령을 발령한 2026년 4월 20일 기준으로 법령이나 행정여건 등의 변화를 검토하여야 하는 6개월이 되는 시점(2026년 10월 19일까지를 말한다)까지 그 효력을 가진다.",
+        "content": "제6조(존속 기한) 이 훈령은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에도 불구하고 이 훈령을 발령한 2026년 10월 20일 기준으로 법령이나 행정여건 등의 변화를 검토하여야 하는 6개월이 되는 시점(2027년 4월 19일까지를 말한다)까지 그 효력을 가진다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -280,10 +280,21 @@
       "content": "부칙 <제580호, 2026. 4. 20.>이 훈령은 2026년 4월 20일부터 시행한다.",
       "provision_id": "admrul:자율기구문화전략담당관설치및운영에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000278078",
+      "source_mst": "2100000284160",
       "source_version_uid": "",
-      "source_revision_type": "제정",
-      "version_enforcement_date": "20260420"
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261020"
+    },
+    {
+      "promulgation_date": "20261020",
+      "promulgation_no": "591",
+      "content": "부칙 <제591호, 2026. 10. 20.>이 훈령은 2026년 10월 20일부터 시행한다.",
+      "provision_id": "admrul:자율기구문화전략담당관설치및운영에관한규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000284160",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261020"
     }
   ],
   "appendices": [
@@ -296,17 +307,17 @@
       "content": "[별표]\n문화전략담당관 공무원 정원표(제2조제2항 관련)\n\n총 계                                                            7\n\n일반직 계                                                     7\n\n4급\n\n서기관                                                   1\n\n4급 또는 5급\n\n서기관ㆍ기술서기관ㆍ행정사무관ㆍ사서사무관ㆍ공업사무관   1\nㆍ시설사무관ㆍ전산사무관 또는 방송통신사무관\n\n5급\n\n행정사무관ㆍ통계사무관ㆍ사서사무관ㆍ공업사무관ㆍ임업     3\n사무관ㆍ시설사무관ㆍ방재안전사무관ㆍ전산사무관ㆍ방송\n통신사무관 또는 학예연구관\n\n6급\n\n행정주사ㆍ사서주사ㆍ통계주사ㆍ공업주사ㆍ시설주사ㆍ전산   2\n주사·임업주사·방송통신주사 또는 학예연구사\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163755809",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168475445",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163755805",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168475441",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163755809",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168475445",
           "name": "",
           "file_store_url": ""
         }
@@ -321,19 +332,19 @@
   ],
   "attachments": [
     {
-      "name": "자율기구 문화전략담당관 설치 및 운영에 관한 규정(훈령 제580호).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=163610381",
-      "filename": "자율기구 문화전략담당관 설치 및 운영에 관한 규정(훈령 제580호).hwpx",
+      "name": "자율기구 문화전략담당관 설치 및 운영에 관한 규정(훈령 제591호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=168475421",
+      "filename": "자율기구 문화전략담당관 설치 및 운영에 관한 규정(훈령 제591호).pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/자율기구 문화전략담당관 설치 및 운영에 관한 규정(훈령 제580호).hwpx",
+      "local_path": "첨부파일/자율기구 문화전략담당관 설치 및 운영에 관한 규정(훈령 제591호).pdf",
       "file_store_url": ""
     },
     {
-      "name": "자율기구 문화전략담당관 설치 및 운영에 관한 규정(훈령 제580호).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=163610385",
-      "filename": "자율기구 문화전략담당관 설치 및 운영에 관한 규정(훈령 제580호).pdf",
+      "name": "자율기구 문화전략담당관 설치 및 운영에 관한 규정(훈령 제591호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=168475017",
+      "filename": "자율기구 문화전략담당관 설치 및 운영에 관한 규정(훈령 제591호).hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/자율기구 문화전략담당관 설치 및 운영에 관한 규정(훈령 제580호).pdf",
+      "local_path": "첨부파일/자율기구 문화전략담당관 설치 및 운영에 관한 규정(훈령 제591호).hwpx",
       "file_store_url": ""
     }
   ],
@@ -353,7 +364,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 1,
     "attachments_count": 2
   },
