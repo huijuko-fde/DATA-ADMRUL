@@ -1,25 +1,25 @@
 {
   "law_id": "43947",
-  "mst": "2100000230564",
+  "mst": "2100000286888",
   "law_name": "항만 및 어항건설 정보시스템 운영규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:43947",
-  "promulgation_no": "721",
-  "promulgation_date": "20231018",
-  "enforcement_date": "20231018",
-  "revision_date": "20231018",
+  "promulgation_no": "855",
+  "promulgation_date": "20261014",
+  "enforcement_date": "20261020",
+  "revision_date": "20261014",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "해양수산부(항만기술안전과)",
-    "담당자명": "김진우",
+    "담당자명": "여경동",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "항만 및 어항건설 정보시스템 운영규정",
-    "발령일자": "20231018",
+    "발령일자": "20261014",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "051-773-5957",
     "제개정구분명": "일부개정",
     "소관부처코드": "1192000",
-    "생성일자": "20231019",
+    "생성일자": "20261020",
     "행정규칙ID": "43947",
-    "시행일자": "20231018",
+    "시행일자": "20261020",
     "담당부서기관코드": "1192511",
-    "발령번호": "721",
-    "행정규칙일련번호": "2100000230564",
+    "발령번호": "855",
+    "행정규칙일련번호": "2100000286888",
     "상위부처명": "해양수산부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n항만건설통합정보체계 구축ㆍ운영 업무를 위탁할 수 있도록 전담기관을 \"한국항만협회\"로 지정하는 「항만법 시행령」이 개정(대통령령 제33515호, 2023.6.7. 일부개정, 2023.6.28. 시행)됨에 따라 개정 내용을 반영 및 일부 미비한 사항을 정비하려는 것임\n◇ 주요내용\n가. 근거법령 조문 변경 반영(제2조제10호, 제6조, 제26조)\n「항만법 시행령」 제34조제1항에서 전담기관을 \"한국항만협회\"로 지정함에 따른 반영\n나. 적용기준 및 법령명 현행화(제2조제2호)\n다. 단순문구 수정(제1조, 제3조, 제5조, 제6조, 제7조, 제8조, 제9조, 제11조, 제12조, 제13조, 제15조, 제16조, 제17조, 제19조, 제20조, 제21조, 제22조, 제23조, 제24조, 제25조, 제26조)\n라. 용어수정(제21조)\n행정규칙 속 어려운 용어 정비에 따른 용어 설명 추가\n마. 재검토기한 설정(제27조)",
+  "revision_reason": "◇ 제ㆍ개정 이유\n- 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 「항만 및 어항건설 정보시스템 운영규정」에 대하여 재검토기한(2026년6월30일)이 도래에 따른 그 타당성을 검토하여 개선 등의 조치를 하고 다른 법령 제ㆍ개정 등 정책환경 변화를 반영하려는 것임\n\n◇ 주요내용\n가. 법령 근거조문 변경 반영(제12조제1항)\n나. 적용기준 및 법령명 현행화(제4조)\n다. 재검토 기한 재설정(제27조)\n- 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」 제7조제1항에 따라 재검토 기한 설정",
   "body": {
     "format": "articles",
     "article_count": 27,
@@ -221,7 +221,7 @@
         "article_title": "준용 규정",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제4조(준용 규정) 이 규정 외에 「정보통신망 이용촉진 및 정보보호 등에 관한 법률」, 「공공기록물 관리에 관한 법률」, 「전자정부법」, 「전자문서 및 전자거래 기본법」, 「개인정보 보호법」, 「공공기관의 정보공개에 관한 법률」, 「국가정보보안 기본지침」, 「행정업무의 운영 및 혁신에 관한 규정」, 「보안업무규정」, 「해양수산부 보안업무 시행세칙」, 「해양수산부 개인정보 보호지침」 등을 준용한다.",
+        "content": "제4조(준용 규정) 이 규정 외에 「정보통신망 이용촉진 및 정보보호 등에 관한 법률」, 「공공기록물 관리에 관한 법률」, 「전자정부법」, 「전자문서 및 전자거래 기본법」, 「개인정보 보호법」, 「공공기관의 정보공개에 관한 법률」, 「국가 사이버보안 기본지침」, 「행정업무의 운영 및 혁신에 관한 규정」, 「보안업무규정」, 「해양수산부 보안업무 시행세칙」, 「해양수산부 개인정보 보호지침」 등을 준용한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -510,7 +510,7 @@
         "article_title": "관리ㆍ감독",
         "chapter": "제2장 시스템 운영ㆍ관리",
         "chapter_path": "제2장 시스템 운영ㆍ관리",
-        "content": "제12조(관리ㆍ감독) ① 장관은 전담기관이 수행한 업무의 실태확인 및 개선대책을 마련하기 위하여 연 1회 이상 보안지도 및 점검을 실시해야 한다. 다만, 「해양수산부 보안업무 시행세칙」 제51조에 따라 정기감사 또는 점검을 받은 경우 보안지도 및 점검을 실시한 것으로 할 수 있다.② 제1항에 따라 장관은 전담기관에 시스템 관련 자료를 요구하거나, 관리 장소를 출입하여 조사ㆍ검사 등을 할 수 있으며, 전담기관은 이에 따라야 한다.",
+        "content": "제12조(관리ㆍ감독) ① 장관은 전담기관이 수행한 업무의 실태확인 및 개선대책을 마련하기 위하여 연 1회 이상 보안지도 및 점검을 실시해야 한다. 다만, 「해양수산부 보안업무 시행세칙」 제48조에 따라 정기감사 또는 점검을 받은 경우 보안지도 및 점검을 실시한 것으로 할 수 있다.② 제1항에 따라 장관은 전담기관에 시스템 관련 자료를 요구하거나, 관리 장소를 출입하여 조사ㆍ검사 등을 할 수 있으며, 전담기관은 이에 따라야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -539,17 +539,17 @@
             "target_category": "행정규칙",
             "source_article_no": "제12조",
             "source_clause": "제12조제1항",
-            "link_text": "제51조",
+            "link_text": "제48조",
             "line_text": "",
             "target_law_name": "해양수산부 보안업무 시행세칙",
-            "target_article_no": "제51조",
+            "target_article_no": "제48조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "43947",
-            "target_url": "https://www.law.go.kr/행정규칙/해양수산부 보안업무 시행세칙/제51조",
+            "target_url": "https://www.law.go.kr/행정규칙/해양수산부 보안업무 시행세칙/제48조",
             "resolve_method": "html",
             "source_provision_id": "admrul:항만및어항건설정보시스템운영규정#JO0012",
-            "reference_id": "admrul:해양수산부보안업무시행세칙#JO0051",
+            "reference_id": "admrul:해양수산부보안업무시행세칙#JO0048",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "해양수산부 보안업무 시행세칙/해양수산부 보안업무 시행세칙.json"
           }
@@ -604,7 +604,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "43947",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907905",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587137",
             "resolve_method": "html",
             "source_provision_id": "admrul:항만및어항건설정보시스템운영규정#JO0015",
             "target_unit": "BJ0002",
@@ -629,7 +629,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "43947",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907911",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587583",
             "resolve_method": "html",
             "source_provision_id": "admrul:항만및어항건설정보시스템운영규정#JO0015",
             "target_unit": "BJ0003",
@@ -654,7 +654,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "43947",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907929",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587595",
             "resolve_method": "html",
             "source_provision_id": "admrul:항만및어항건설정보시스템운영규정#JO0015",
             "target_unit": "BJ0005",
@@ -679,7 +679,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "43947",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907935",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587601",
             "resolve_method": "html",
             "source_provision_id": "admrul:항만및어항건설정보시스템운영규정#JO0015",
             "target_unit": "BJ0006",
@@ -961,7 +961,7 @@
         "article_title": "재검토기한",
         "chapter": "제3장 전자문서의 관리",
         "chapter_path": "제3장 전자문서의 관리",
-        "content": "제27조(재검토기한) 장관은 이 훈령에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2023년 7월 1일 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
+        "content": "제27조(재검토기한) 장관은 이 훈령에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2027년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -997,10 +997,10 @@
       "content": "부칙 <제153호,2014. 2. 17.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:항만및어항건설정보시스템운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000230564",
+      "source_mst": "2100000286888",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231018"
+      "version_enforcement_date": "20261020"
     },
     {
       "promulgation_date": "20150520",
@@ -1008,10 +1008,10 @@
       "content": "부칙 <제248호,2015. 5. 20.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:항만및어항건설정보시스템운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000230564",
+      "source_mst": "2100000286888",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231018"
+      "version_enforcement_date": "20261020"
     },
     {
       "promulgation_date": "20160527",
@@ -1019,10 +1019,10 @@
       "content": "부칙 <제320호,2016. 5. 27.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:항만및어항건설정보시스템운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000230564",
+      "source_mst": "2100000286888",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231018"
+      "version_enforcement_date": "20261020"
     },
     {
       "promulgation_date": "20201223",
@@ -1030,10 +1030,10 @@
       "content": "부칙 <제568호,2020. 12. 23.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:항만및어항건설정보시스템운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000230564",
+      "source_mst": "2100000286888",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231018"
+      "version_enforcement_date": "20261020"
     },
     {
       "promulgation_date": "20231018",
@@ -1041,10 +1041,10 @@
       "content": "부칙 <제721호, 2023. 10. 18.>이 훈령은 발령한 날부터 시행한다",
       "provision_id": "admrul:항만및어항건설정보시스템운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000230564",
+      "source_mst": "2100000286888",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231018"
+      "version_enforcement_date": "20261020"
     }
   ],
   "appendices": [
@@ -1057,17 +1057,17 @@
       "content": "[별지 제1호서식] <삭 제>",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907891",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587131",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907887",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587127",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907891",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587131",
           "name": "",
           "file_store_url": ""
         }
@@ -1088,17 +1088,17 @@
       "content": "[별지 제2호서식] (제15조 관련)\n┌───────────────────────────────┐\n│항만건설사업 시스템 장애발생(예정) 보고                       │\n└───────────────────────────────┘\n\n┌─────────────────┬───┬─────┬───┐\n│보고일시: 20  .   .   .           │담 당 │사무관    │과  장│\n├─────────────────┼───┼─────┼───┤\n│수    신: 해양수산부장관(항만기술 │      │          │      │\n│안전과장)                         │      │          │      │\n├─────────────────┤      │          │      │\n│발    신:                         │      │          │      │\n└─────────────────┴───┴─────┴───┘\n\n┌────┬────────────┬───────┬─────┐\n│장애번호│                        │신고자 소속,  │          │\n├────┼────────────┤성명          │          │\n│발생일시│                        │(연락처)      │          │\n└────┴────────────┴───────┴─────┘\n\n┌────┬──────────────────────────┐\n│시스템명│                                                    │\n├────┼──────────────────────────┤\n│장      │                                                    │\n│애      │                                                    │\n│내      │                                                    │\n│용      │                                                    │\n└────┴──────────────────────────┘\n\n┌────┬──────────────────────────┐\n│조치기간│□ 1시간내 □ 24시간내 □ 장기                      │\n├────┼────────────┬────────┬────┤\n│조 치 자│                        │연 락 처        │        │\n└────┴────────────┴────────┴────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907905",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587137",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907899",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587133",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907905",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587137",
           "name": "",
           "file_store_url": ""
         }
@@ -1119,17 +1119,17 @@
       "content": "[별지 제3호서식] (제15조 관련)\n┌────────────────────────────────┐\n│항만건설사업 정보시스템 장애 조치결과 보고                      │\n└────────────────────────────────┘\n\n┌──────────────────┬───┬───┬─────┐\n│보고일시: 20  .   .   .             │담 당 │사무관│과 장     │\n├──────────────────┼───┼───┼─────┤\n│수    신: 해양수산부장관(항만기술안 │      │      │          │\n│전과장)                             │      │      │          │\n├──────────────────┤      │      │          │\n│발    신:                           │      │      │          │\n├────┬─────────────┴───┴───┴─────┤\n│장애번호│                                                      │\n├────┼───────────────────────────┤\n│장애원인│                                                      │\n├────┼───────────────────────────┤\n│장애영향│                                                      │\n├────┼┬────┬────────┬────┬───────┤\n│발생일시││조치일시│                │장애시간│분            │\n├────┼┼────┼────────┼────┼───────┤\n│작성부서││장애유형│                │장애등급│              │\n├────┼┼────┼────────┼────┼───────┤\n│작 성 자││전 화   │                │소요M/D │              │\n├────┼┴────┴────────┴────┴───────┤\n│장애유형│□ 조작 미숙, 실수  □ S/W 상의 문제[요구변경 : Y/N]  │\n│        │□ H/W, N/W 등 기타                                   │\n├────┼───────────────────────────┤\n│조치시간│□ 1시간내  □ 24시간내  □ 장기                      │\n├────┴─┬────────────────────┬────┤\n│장애내용    │조치내용 및 결과                        │조치자  │\n│            │                                        │(전화)  │\n├────┬─┼────────────────────┼────┤\n│        │  │                                        │        │\n├────┼─┼────────────────────┼────┤\n│        │  │                                        │        │\n├────┼─┼────────────────────┼────┤\n│        │  │                                        │        │\n├────┴─┴────────────────────┼────┤\n│재발방지대책                                          │담당자  │\n├───────────────────────────┼────┤\n│                                                      │        │\n├───────────────────────────┼────┤\n│                                                      │        │\n├───────────────────────────┼────┤\n│                                                      │        │\n└───────────────────────────┴────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907911",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587583",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907907",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587579",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907911",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587583",
           "name": "",
           "file_store_url": ""
         }
@@ -1150,17 +1150,17 @@
       "content": "[별지 제4호서식] <삭 제>",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907919",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587589",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907915",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587585",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907919",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587589",
           "name": "",
           "file_store_url": ""
         }
@@ -1181,17 +1181,17 @@
       "content": "[별지 제5호서식] (제15조 관련)\n┌────────────────────────────────────┐\n│항만건설사업 정보시스템 장애 관리대장                                   │\n└────────────────────────────────────┘\n\n┌──┬────┬────┬────┬────┬────┬───┬────┐\n│번호│발생일시│접수일자│조치기한│조치일자│조치내용│조치자│장애유형│\n├──┼────┼────┼────┼────┼────┼───┼────┤\n│    │        │        │        │        │        │      │        │\n├──┼────┼────┼────┼────┼────┼───┼────┤\n│    │        │        │        │        │        │      │        │\n├──┼────┼────┼────┼────┼────┼───┼────┤\n│    │        │        │        │        │        │      │        │\n├──┼────┼────┼────┼────┼────┼───┼────┤\n│    │        │        │        │        │        │      │        │\n├──┼────┼────┼────┼────┼────┼───┼────┤\n│    │        │        │        │        │        │      │        │\n├──┼────┼────┼────┼────┼────┼───┼────┤\n│    │        │        │        │        │        │      │        │\n├──┼────┼────┼────┼────┼────┼───┼────┤\n│    │        │        │        │        │        │      │        │\n├──┼────┼────┼────┼────┼────┼───┼────┤\n│    │        │        │        │        │        │      │        │\n├──┼────┼────┼────┼────┼────┼───┼────┤\n│    │        │        │        │        │        │      │        │\n├──┼────┼────┼────┼────┼────┼───┼────┤\n│    │        │        │        │        │        │      │        │\n└──┴────┴────┴────┴────┴────┴───┴────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907929",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587595",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907923",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587591",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907929",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587595",
           "name": "",
           "file_store_url": ""
         }
@@ -1212,17 +1212,17 @@
       "content": "[별지 제6호서식] (제15조 관련)\n┌─────────────────────────┐\n│항만건설사업 정보시스템 장애 관리 비상연락망      │\n└─────────────────────────┘\n\n┌──┬──┬──┬────┬──────┬────┐\n│소속│성명│직위│담당업무│사무실 전화 │휴대전화│\n├──┼──┼──┼────┼──────┼────┤\n│    │    │    │        │            │        │\n├──┼──┼──┼────┼──────┼────┤\n│    │    │    │        │            │        │\n├──┼──┼──┼────┼──────┼────┤\n│    │    │    │        │            │        │\n├──┼──┼──┼────┼──────┼────┤\n│    │    │    │        │            │        │\n├──┼──┼──┼────┼──────┼────┤\n│    │    │    │        │            │        │\n├──┼──┼──┼────┼──────┼────┤\n│    │    │    │        │            │        │\n├──┼──┼──┼────┼──────┼────┤\n│    │    │    │        │            │        │\n├──┼──┼──┼────┼──────┼────┤\n│    │    │    │        │            │        │\n├──┼──┼──┼────┼──────┼────┤\n│    │    │    │        │            │        │\n├──┼──┼──┼────┼──────┼────┤\n│    │    │    │        │            │        │\n└──┴──┴──┴────┴──────┴────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907935",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587601",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907931",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587597",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133907935",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170587601",
           "name": "",
           "file_store_url": ""
         }
@@ -1237,27 +1237,19 @@
   ],
   "attachments": [
     {
-      "name": "항만 및 어항건설 정보시스템 운영규정(해양수산부 훈령제721호).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=133907643",
-      "filename": "항만 및 어항건설 정보시스템 운영규정(해양수산부 훈령제721호).pdf",
+      "name": "개정본문(항만 및 어항건설 정보시스템 운영규정).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170579477",
+      "filename": "개정본문(항만 및 어항건설 정보시스템 운영규정).hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/항만 및 어항건설 정보시스템 운영규정(해양수산부 훈령제721호).pdf",
+      "local_path": "첨부파일/개정본문(항만 및 어항건설 정보시스템 운영규정).hwpx",
       "file_store_url": ""
     },
     {
-      "name": "항만 및 어항건설 정보시스템 운영규정(해양수산부 훈령제721호).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=133907635",
-      "filename": "항만 및 어항건설 정보시스템 운영규정(해양수산부 훈령제721호).hwpx",
+      "name": "개정본문(항만 및 어항건설 정보시스템 운영규정).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170579481",
+      "filename": "개정본문(항만 및 어항건설 정보시스템 운영규정).pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/항만 및 어항건설 정보시스템 운영규정(해양수산부 훈령제721호).hwpx",
-      "file_store_url": ""
-    },
-    {
-      "name": "조문별제개정이유서_항만 및 어항건설 정보시스템 운영규정.hwp",
-      "url": "http://law.go.kr/flDownload.do?flSeq=133893689",
-      "filename": "조문별제개정이유서_항만 및 어항건설 정보시스템 운영규정.hwp",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/조문별제개정이유서_항만 및 어항건설 정보시스템 운영규정.hwp",
+      "local_path": "첨부파일/개정본문(항만 및 어항건설 정보시스템 운영규정).pdf",
       "file_store_url": ""
     }
   ],
@@ -1281,7 +1273,7 @@
     "ordinance_docs_total": 0,
     "addenda_count": 5,
     "appendices_count": 6,
-    "attachments_count": 3
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/항만 및 어항건설 정보시스템 운영규정"
