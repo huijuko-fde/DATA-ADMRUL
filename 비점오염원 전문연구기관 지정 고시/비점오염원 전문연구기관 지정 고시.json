@@ -1,0 +1,149 @@
+{
+  "law_id": "98534",
+  "mst": "2100000287320",
+  "law_name": "비점오염원 전문연구기관 지정 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:98534",
+  "promulgation_no": "2026-261",
+  "promulgation_date": "20261020",
+  "enforcement_date": "20261020",
+  "revision_date": "20261020",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "기후에너지환경부(물환경정책과)",
+    "담당자명": "전민경",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "비점오염원 전문연구기관 지정 고시",
+    "발령일자": "20261020",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "N",
+    "소관부처명": "기후에너지환경부",
+    "전화번호": "044-201-7009",
+    "제개정구분명": "제정",
+    "소관부처코드": "1482000",
+    "생성일자": "20261026",
+    "행정규칙ID": "98534",
+    "시행일자": "20261020",
+    "담당부서기관코드": "1482223",
+    "발령번호": "2026-261",
+    "행정규칙일련번호": "2100000287320",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ 비점오염원의 관리 및 저감에 필요한 기술을 개발ㆍ보급하기 위한 전문연구기관*에 한국환경보전원을 추가하여 농업 BMPs 등 비점오염물질 관련 기술개발ㆍ연구의 전문성 및 관련 정책의 실효성 제고\n* (현 전문연구기관) 국립환경과학원, 한국환경공단, 한국수자원공사\n◇ 주요내용\n가. (고시명) 비점오염원 전문연구기관 지정 고시\n나. (지정기관) 「환경정책기본법」제59조에 의한 한국환경보전원",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "1. 지정기관[그림]2. 재검토기한기후에너지환경부장관은 이 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2026년 12월 31일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "98534",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:비점오염원전문연구기관지정고시#DOC",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170893163",
+            "seq": "170893163",
+            "filename": "전문_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/전문_1.gif",
+            "file_store_url": ""
+          }
+        ],
+        "provision_id": "admrul:비점오염원전문연구기관지정고시#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20261020",
+      "promulgation_no": "2026-261",
+      "content": "부칙 <제2026-261호, 2026. 10. 20.>이 고시는 발령한 날부터 시행한다.",
+      "provision_id": "admrul:비점오염원전문연구기관지정고시#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000287320",
+      "source_version_uid": "",
+      "source_revision_type": "제정",
+      "version_enforcement_date": "20261020"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "(붙임2) 비점오염원 전문연구기관 지정 고시 제정안.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170893219",
+      "filename": "(붙임2) 비점오염원 전문연구기관 지정 고시 제정안.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(붙임2) 비점오염원 전문연구기관 지정 고시 제정안.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "(붙임2) 비점오염원 전문연구기관 지정 고시 제정안.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170893223",
+      "filename": "(붙임2) 비점오염원 전문연구기관 지정 고시 제정안.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/(붙임2) 비점오염원 전문연구기관 지정 고시 제정안.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 1,
+    "by_category": {
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 1
+    },
+    "articles_total": 1,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/비점오염원 전문연구기관 지정 고시"
+  },
+  "provision_id": "admrul:비점오염원전문연구기관지정고시#DOC",
+  "addendum_provision_id": "admrul:비점오염원전문연구기관지정고시#ADDENDUM",
+  "amendment_provision_id": "admrul:비점오염원전문연구기관지정고시#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "비점오염원 전문연구기관 지정 고시/비점오염원 전문연구기관 지정 고시.json"
+}
