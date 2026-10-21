@@ -1,16 +1,16 @@
 {
   "law_id": "48479",
-  "mst": "2100000284620",
+  "mst": "2100000287250",
   "law_name": "국세청·국세공무원교육원·국세청주류면허지원센터·국세상담센터 및 지방세무관서 정원규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:48479",
-  "promulgation_no": "2762",
-  "promulgation_date": "20260831",
-  "enforcement_date": "20260831",
-  "revision_date": "20260831",
+  "promulgation_no": "2770",
+  "promulgation_date": "20261021",
+  "enforcement_date": "20261021",
+  "revision_date": "20261021",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "박홍기",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "국세청·국세공무원교육원·국세청주류면허지원센터·국세상담센터 및 지방세무관서 정원규정",
-    "발령일자": "20260831",
+    "발령일자": "20261021",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "044-204-2315",
     "제개정구분명": "일부개정",
     "소관부처코드": "1210000",
-    "생성일자": "20260903",
+    "생성일자": "20261023",
     "행정규칙ID": "48479",
-    "시행일자": "20260831",
+    "시행일자": "20261021",
     "담당부서기관코드": "1214578",
-    "발령번호": "2762",
-    "행정규칙일련번호": "2100000284620",
+    "발령번호": "2770",
+    "행정규칙일련번호": "2100000287250",
     "상위부처명": "국세청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유 : 수시직제 결과 및 시행규칙 개정사항과 반영하여 훈령 개정\n\n◇ 주요내용\n가. 정보보호 직제 증원 +5명(5급1, 6급3, 7급1)",
+  "revision_reason": "◇ 제ㆍ개정 이유 : 국세청 송무역량 강화를 위한 개방형 직위 추가 지정\n\n◇ 주요내용\n서울지방국세청 송무2과장 개방형직위 지정 추가",
   "body": {
     "format": "articles",
     "article_count": 4,
@@ -46,7 +46,7 @@
         "article_title": "공무원의 정원",
         "chapter": "",
         "chapter_path": "",
-        "content": "제1조(공무원의 정원) 국세청ㆍ국세공무원교육원ㆍ국세청 주류면허지원센터ㆍ국세상담센터 및 지방세무관서에 두는 공무원의 정원은 별표 1 부터 별표 12와 같이 한다.",
+        "content": "제1조(공무원의 정원) 국세청ㆍ국세공무원교육원ㆍ국세청주류면허지원센터ㆍ국세상담센터 및 지방세무관서에 두는 공무원의 정원은 별표 1 부터 별표 12와 같이 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -66,7 +66,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "48479",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284620&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287250&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#JO0001",
             "target_unit": "BYL0001",
@@ -91,7 +91,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "48479",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284620&bylNo=0012&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287250&bylNo=0012&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#JO0001",
             "target_unit": "BYL0012",
@@ -108,7 +108,7 @@
         "article_title": "개방형 직위의 지정",
         "chapter": "",
         "chapter_path": "",
-        "content": "제1조의2(개방형 직위의 지정) ① 「개방형 직위 및 공모 직위의 운영 등에 관한 규정」 제3조제1항 및 「국세청과 그 소속기관 직제」 제40조에 따라 국세청 감사관 및 납세자보호관을 개방형 직위로 지정한다.② 「개방형 직위 및 공모 직위의 운영 등에 관한 규정」 제3조제2항에 따라 국세청의 학자금상환과장, 국세공무원교육원의 교수과장, 국세청 주류면허지원센터장, 서울청의 송무3과장, 중부청의 송무과장을 개방형 직위로 지정한다.",
+        "content": "제1조의2(개방형 직위의 지정) ① 「개방형 직위 및 공모 직위의 운영 등에 관한 규정」 제3조제1항 및 「국세청과 그 소속기관 직제」 제40조에 따라 국세청 감사관 및 납세자보호관을 개방형 직위로 지정한다.② 「개방형 직위 및 공모 직위의 운영 등에 관한 규정」 제3조제2항에 따라 국세청의 학자금상환과장, 국세공무원교육원의 교수과장, 국세청 주류면허지원센터장, 서울청의 송무2과장, 송무3과장, 중부청의 송무과장을 개방형 직위로 지정한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -266,10 +266,10 @@
       "content": "부칙 <제2280호,2018. 12. 31.>이 규정은 2018년 12월 31일부터 시행한다.",
       "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000284620",
+      "source_mst": "2100000287250",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260831"
+      "version_enforcement_date": "20261021"
     },
     {
       "promulgation_date": "20230328",
@@ -277,10 +277,10 @@
       "content": "부칙 <제2561호, 2023. 3. 28.>이 규정은 2023년3월 28일부터 시행한다.",
       "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000284620",
+      "source_mst": "2100000287250",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260831"
+      "version_enforcement_date": "20261021"
     },
     {
       "promulgation_date": "20230627",
@@ -288,10 +288,10 @@
       "content": "부칙 <제2577호, 2023. 6. 27.>이 규정은 2023년6월 27일부터 시행한다.",
       "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000284620",
+      "source_mst": "2100000287250",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260831"
+      "version_enforcement_date": "20261021"
     },
     {
       "promulgation_date": "20230721",
@@ -299,10 +299,10 @@
       "content": "부칙 <제2585호, 2023. 7. 21.>이 규정은 2023년7월 21일부터 시행한다.",
       "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000284620",
+      "source_mst": "2100000287250",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260831"
+      "version_enforcement_date": "20261021"
     },
     {
       "promulgation_date": "20230830",
@@ -310,10 +310,10 @@
       "content": "부칙 <제2589호, 2023. 8. 30.>이 규정은 2023년8월 30일부터 시행한다.",
       "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000284620",
+      "source_mst": "2100000287250",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260831"
+      "version_enforcement_date": "20261021"
     },
     {
       "promulgation_date": "20231229",
@@ -321,10 +321,10 @@
       "content": "부칙 <제2606호, 2023. 12. 29.>이 규정은 2023년12월 29일부터 시행한다.",
       "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000284620",
+      "source_mst": "2100000287250",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260831"
+      "version_enforcement_date": "20261021"
     },
     {
       "promulgation_date": "20240227",
@@ -332,10 +332,10 @@
       "content": "부칙 <제2609호, 2024. 2. 27.>이 규정은 2024년 2월 27일부터 시행한다.",
       "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000284620",
+      "source_mst": "2100000287250",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260831"
+      "version_enforcement_date": "20261021"
     },
     {
       "promulgation_date": "20240621",
@@ -343,10 +343,10 @@
       "content": "부칙 <제2630호, 2024. 6. 21.>이 규정은 2024년 6월 21일부터 시행한다.",
       "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000284620",
+      "source_mst": "2100000287250",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260831"
+      "version_enforcement_date": "20261021"
     },
     {
       "promulgation_date": "20240930",
@@ -354,10 +354,10 @@
       "content": "부칙 <제2645호, 2024. 9. 30.>이 규정은 2024년 9월 30일부터 시행한다.",
       "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000284620",
+      "source_mst": "2100000287250",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260831"
+      "version_enforcement_date": "20261021"
     },
     {
       "promulgation_date": "20241115",
@@ -365,10 +365,10 @@
       "content": "부칙 <제2648호, 2024. 11. 15.>제1조(시행일) 이 훈령은 공포한 날부터 시행한다.제2조(총액인건비제 기구 및 정원의 시행일) 「행정기관의 조직과 정원에 관한 통칙」 제29조 및 「국세청과 그 소속기관 직제 시행규칙」제3조제2항에 따라 신설되는 인공지능세정혁신팀과 그에 속하는 정원에 관한 사항은 2024년 11월 16일부터 시행한다.",
       "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000284620",
+      "source_mst": "2100000287250",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260831"
+      "version_enforcement_date": "20261021"
     },
     {
       "promulgation_date": "20241231",
@@ -376,10 +376,10 @@
       "content": "부칙 <제2666호, 2024. 12. 31.>제1조(시행일) 이 훈령은 공포한 날부터 시행한다.제2조(총액인건비제 기구 및 정원의 시행일) 「행정기관의 조직과 정원에 관한 통칙」 제29조 및 「국세청과 그 소속기관 직제 시행규칙」제3조제2항에 따라 신설되는 인공지능세정혁신팀과 그에 속하는 정원에 관한 사항은 2024년 11월 16일부터 시행한다.",
       "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000284620",
+      "source_mst": "2100000287250",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260831"
+      "version_enforcement_date": "20261021"
     },
     {
       "promulgation_date": "20250225",
@@ -387,10 +387,10 @@
       "content": "부칙 <제2668호, 2025. 2. 25.>제1조(시행일) 이 훈령은 공포한 날부터 시행한다.제2조(총액인건비제 기구 및 정원의 시행일) 「행정기관의 조직과 정원에 관한 통칙」 제29조 및 「국세청과 그 소속기관 직제 시행규칙」제3조제2항에 따라 신설되는 인공지능세정혁신팀과 그에 속하는 정원에 관한 사항은 2024년 11월 16일부터 시행한다.",
       "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000284620",
+      "source_mst": "2100000287250",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260831"
+      "version_enforcement_date": "20261021"
     },
     {
       "promulgation_date": "20250630",
@@ -398,10 +398,10 @@
       "content": "부칙 <제2689호, 2025. 6. 30.>제1조(시행일) 이 훈령은 공포한 날부터 시행한다.제2조(총액인건비제 기구 및 정원의 시행일) 「행정기관의 조직과 정원에 관한 통칙」 제29조 및 「국세청과 그 소속기관 직제 시행규칙」제3조제2항에 따라 신설되는 인공지능세정혁신팀과 그에 속하는 정원에 관한 사항은 2024년 11월 16일부터 시행한다.",
       "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000284620",
+      "source_mst": "2100000287250",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260831"
+      "version_enforcement_date": "20261021"
     },
     {
       "promulgation_date": "20250814",
@@ -409,10 +409,10 @@
       "content": "부칙 <제2698호, 2025. 8. 14.>제1조(시행일) 이 훈령은 공포한 날부터 시행한다.제2조(총액인건비제 기구 및 정원의 시행일) 「행정기관의 조직과 정원에 관한 통칙」 제29조 및 「국세청과 그 소속기관 직제 시행규칙」제3조제2항에 따라 신설되는 인공지능세정혁신팀과 그에 속하는 정원에 관한 사항은 2024년 11월 16일부터 시행한다.",
       "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000284620",
+      "source_mst": "2100000287250",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260831"
+      "version_enforcement_date": "20261021"
     },
     {
       "promulgation_date": "20251121",
@@ -420,10 +420,10 @@
       "content": "부칙 <제2708호, 2025. 11. 21.>제1조(시행일) 이 훈령은 공포한 날부터 시행한다.제2조(총액인건비제 기구 및 정원의 시행일) 「행정기관의 조직과 정원에 관한 통칙」 제29조 및 「국세청과 그 소속기관 직제 시행규칙」제3조제2항에 따라 신설되는 인공지능세정혁신팀과 그에 속하는 정원에 관한 사항은 2024년 11월 16일부터 시행한다.",
       "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000284620",
+      "source_mst": "2100000287250",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260831"
+      "version_enforcement_date": "20261021"
     },
     {
       "promulgation_date": "20251230",
@@ -431,10 +431,10 @@
       "content": "부칙 <제2716호, 2025. 12. 30.>제1조(시행일) 이 훈령은 공포한 날부터 시행한다.제2조(총액인건비제 기구 및 정원의 시행일) 「행정기관의 조직과 정원에 관한 통칙」 제29조 및 「국세청과 그 소속기관 직제 시행규칙」제3조에 따라 신설되는 글로벌과세기준추진팀과 그에 속하는 정원에 관한 사항은 2025년 12월 30일부터 시행한다.",
       "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000284620",
+      "source_mst": "2100000287250",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260831"
+      "version_enforcement_date": "20261021"
     },
     {
       "promulgation_date": "20260324",
@@ -442,10 +442,10 @@
       "content": "부칙 <제2728호, 2026. 3. 24.>제1조(시행일) 이 훈령은 공포한 날부터 시행한다.",
       "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000284620",
+      "source_mst": "2100000287250",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260831"
+      "version_enforcement_date": "20261021"
     },
     {
       "promulgation_date": "20260701",
@@ -453,10 +453,10 @@
       "content": "부칙 <제2756호, 2026. 7. 1.>제1조(시행일) 이 훈령은 공포한 날부터 시행한다.",
       "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000284620",
+      "source_mst": "2100000287250",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260831"
+      "version_enforcement_date": "20261021"
     },
     {
       "promulgation_date": "20260831",
@@ -464,10 +464,21 @@
       "content": "부칙 <제2762호, 2026. 8. 31.>제1조(시행일) 이 훈령은 공포한 날부터 시행한다.",
       "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000284620",
+      "source_mst": "2100000287250",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260831"
+      "version_enforcement_date": "20261021"
+    },
+    {
+      "promulgation_date": "20261021",
+      "promulgation_no": "2770",
+      "content": "부칙 <제2770호, 2026. 10. 21.>제1조(시행일) 이 훈령은 공포한 날부터 시행한다.",
+      "provision_id": "admrul:국세청국세공무원교육원국세청주류면허지원센터국세상담센터및지방세무관서정원규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000287250",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261021"
     }
   ],
   "appendices": [
@@ -479,18 +490,18 @@
       "enforcement_date": "",
       "content": "국세청 공무원 정원표(총괄표)\n(별표1)                                                                                                                                 (2026.8.28)",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284620&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946943",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287250&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843445",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946939",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843441",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946943",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843445",
           "name": "",
           "file_store_url": ""
         }
@@ -510,18 +521,18 @@
       "enforcement_date": "",
       "content": "국세청 공무원 정원표(별정직)\n\n(별표 1-1)                                                                                                     (2026.8.28)\n┌─────────────┬────────────────────────────────────────┐\n│                          │별         정         직                                                        │\n│                          ├─────┬────┬────┬────┬────┬────┬────┬────┤\n│구   분                   │별정직 계 │고위    │4급상당 │5급상당 │6급상당 │7급상당 │8급상당 │9급상당 │\n│                          │          │공무원단│        │        │        │        │        │        │\n│                          │          │        │        │        │        │        │        │        │\n│                          │          │        │        │        │        │        │        │        │\n│                          │          │        │        │        │        │        │        │        │\n│                          │          │        │        │        │        │        │        │        │\n│                          │          │        │        │        │        │        │        │        │\n│                          │          │        │        │        │        │        │        │        │\n│                          │          │        │        │        │        │        │        │        │\n│                          │          │        │        │        │        │        │        │        │\n│                          │          │        │        │        │        │        │        │        │\n│                          │          │        │        │        │        │        │        │        │\n│                          │          │        │        │        │        │        │        │        │\n│기관별                    │          │        │        │        │        │        │        │        │\n│                          │          │        │        │        │        │        │        │        │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│합                계      │3         │        │       │       │       │1       │       │2       │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│본               청       │3         │        │       │       │       │1       │       │2       │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│청 ·차  장  실           │3         │        │       │       │       │1       │       │2       │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│대변인                    │         │       │       │       │       │       │       │       │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│기획조정관                │         │       │       │       │       │       │       │       │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│정보화관리관              │         │       │       │       │       │       │       │       │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│감사관                    │         │       │       │       │       │       │       │       │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│납세자보호관              │         │       │       │       │       │       │       │       │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│국제조세관리관            │         │       │       │       │       │       │       │       │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│인사기획과                │          │        │        │        │        │        │        │        │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│운영지원과                │         │       │       │       │       │       │       │       │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│징세법무국                │         │       │       │       │       │       │       │       │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│개 인 납 세 국            │         │       │       │       │       │       │       │       │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│법 인 납 세 국            │         │       │       │       │       │       │       │       │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│자 산 과 세 국            │         │       │       │       │       │       │       │       │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│조사국                    │         │       │       │       │       │       │       │       │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│복지세정관리단            │         │       │       │       │       │       │       │       │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│국세공무원교육원          │         │       │       │       │       │       │       │       │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│국세청주류면허지원센터    │         │       │       │       │       │       │       │       │\n├─────────────┼─────┼────┼────┼────┼────┼────┼────┼────┤\n│국세상담센터              │         │       │       │       │       │       │       │       │\n└───────────────────┴────┴────┴────┴────┴────┴────┴────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284620&bylNo=0001&bylBrNo=01",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946949",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287250&bylNo=0001&bylBrNo=01",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843451",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946945",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843447",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946949",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843451",
           "name": "",
           "file_store_url": ""
         }
@@ -541,18 +552,18 @@
       "enforcement_date": "",
       "content": "본청 정원표\n(별표2)                                                                                                                                                                           (2026.8.28)",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284620&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946957",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287250&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843459",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946951",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843453",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946957",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843459",
           "name": "",
           "file_store_url": ""
         }
@@ -572,18 +583,18 @@
       "enforcement_date": "",
       "content": "국세공무원교육원 정원표\n\n(별표 3)                                                                                                                        (2026.8.28)",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284620&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946963",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287250&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843465",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946959",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843461",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946963",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843465",
           "name": "",
           "file_store_url": ""
         }
@@ -603,18 +614,18 @@
       "enforcement_date": "",
       "content": "국세청주류면허지원센터 정원표\n(별표 4)                                                                                                                                                     (2026.8.28)\n┌──────┬───┬───────────┬───────────────────┬────────────────┬───────────────────┬────────────────┬────────────────────────────────────┐\n│        구  │계    │4 급                  │5  급                                 │6 급                            │7   급                                │8 급                            │9 급                                                                    │\n│분          ├───┼───┬───────┼─────┬───────┬─────┼────┬──────┬────┼─────┬───────┬─────┼────┬──────┬────┼───────┬────────┬─────┬───────┬─────┤\n│            │일반직│서기관│과학기술서기관│행정사무관│공업사무관    │공업사무관│세무주사│공업주사    │공업주사│세무주사보│공업주사보    │공업주사보│세무서기│공업서기또는│공업서기│공업서기보    │열관리운영서기보│운전서기보│사무운영서기보│방호서기보│\n│            │      │      │서기관또는    │          │행정사무관또는│          │        │세무주사또는│        │          │세무주사보또는│          │        │세무서기    │        │세무서기보또는│                │          │              │          │\n│            │      │      │              │          │              │          │        │            │        │          │              │          │        │            │        │              │                │          │              │          │\n│            │      │      │              │          │              │          │        │            │        │          │              │          │        │            │        │              │                │          │              │          │\n│            │      │      │              │          │              │          │        │            │        │          │              │          │        │            │        │              │                │          │              │          │\n│            │      │      │              │          │              │          │        │            │        │          │              │          │        │            │        │              │                │          │              │          │\n│ 기관별     │      │      │              │          │              │          │        │            │        │          │              │          │        │            │        │              │                │          │              │          │\n│            │      │      │              │          │              │          │        │            │        │          │              │          │        │            │        │              │                │          │              │          │\n├──────┼───┼───┼───────┼─────┼───────┼─────┼────┼──────┼────┼─────┼───────┼─────┼────┼──────┼────┼───────┼────────┼─────┼───────┼─────┤\n│계          │25    │     │1             │         │2             │1         │       │2           │5       │         │3             │2         │       │5           │       │3             │               │          │             │1         │\n├──────┼───┼───┼───────┼─────┼───────┼─────┼────┼──────┼────┼─────┼───────┼─────┼────┼──────┼────┼───────┼────────┼─────┼───────┼─────┤\n│분석감정과  │15    │     │1             │         │1             │         │       │1           │2       │         │2             │1         │       │3           │       │2             │               │          │             │1         │\n├──────┼───┼───┼───────┼─────┼───────┼─────┼────┼──────┼────┼─────┼───────┼─────┼────┼──────┼────┼───────┼────────┼─────┼───────┼─────┤\n│기술지원과  │6     │     │             │         │             │1         │       │           │2       │         │             │1         │       │1           │       │1             │               │         │             │         │\n├──────┼───┼───┼───────┼─────┼───────┼─────┼────┼──────┼────┼─────┼───────┼─────┼────┼──────┼────┼───────┼────────┼─────┼───────┼─────┤\n│세원관리    │5     │     │             │         │1             │         │       │1           │1       │         │1             │         │       │1           │       │             │               │         │             │         │\n│지원과      │      │      │              │          │              │          │        │            │        │          │              │          │        │            │        │              │                │          │              │          │\n└──────┴───┴───┴───────┴─────┴───────┴─────┴────┴──────┴────┴─────┴───────┴─────┴────┴──────┴────┴───────┴────────┴─────┴───────┴─────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284620&bylNo=0004&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946969",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287250&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843471",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946965",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843467",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946969",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843471",
           "name": "",
           "file_store_url": ""
         }
@@ -634,18 +645,18 @@
       "enforcement_date": "",
       "content": "국세상담센터 정원표\n\n(별표 5)                                                                                           (2026.8.28)",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284620&bylNo=0005&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946975",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287250&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843477",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946971",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843473",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946975",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843477",
           "name": "",
           "file_store_url": ""
         }
@@ -665,18 +676,18 @@
       "enforcement_date": "",
       "content": "서울지방국세청 정원표\n(별표 6)                                                                                                                                                   (2026.8.28)",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284620&bylNo=0006&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946983",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287250&bylNo=0006&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843485",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946977",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843479",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946983",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843485",
           "name": "",
           "file_store_url": ""
         }
@@ -696,18 +707,18 @@
       "enforcement_date": "",
       "content": "중부지방국세청 정원표\n(별표 7)                                                                                                                                                                          (2026.8.28)",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284620&bylNo=0007&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946991",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287250&bylNo=0007&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843493",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946985",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843487",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946991",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843493",
           "name": "",
           "file_store_url": ""
         }
@@ -727,18 +738,18 @@
       "enforcement_date": "",
       "content": "인천지방국세청 정원표\n(별표 8)                                                                                                                                                                    (2026.8.28)",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284620&bylNo=0008&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946997",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287250&bylNo=0008&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843499",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946993",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843495",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946997",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843499",
           "name": "",
           "file_store_url": ""
         }
@@ -758,18 +769,18 @@
       "enforcement_date": "",
       "content": "대전지방국세청 정원표\n\n(별표 9)                                                                                                                                   (2026.8.28.)",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284620&bylNo=0009&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168947003",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287250&bylNo=0009&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843505",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168946999",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843501",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168947003",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843505",
           "name": "",
           "file_store_url": ""
         }
@@ -789,18 +800,18 @@
       "enforcement_date": "",
       "content": "광주지방국세청 정원표\n(별표10)                                                                                                                                                      (2026.8.28)",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284620&bylNo=0010&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168947009",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287250&bylNo=0010&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843511",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168947005",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843507",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168947009",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843511",
           "name": "",
           "file_store_url": ""
         }
@@ -820,18 +831,18 @@
       "enforcement_date": "",
       "content": "대구지방국세청 정원표\n(별표11)                                                                                                                     (2026.8.28)",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284620&bylNo=0011&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168947015",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287250&bylNo=0011&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843517",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168947011",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843513",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168947015",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843517",
           "name": "",
           "file_store_url": ""
         }
@@ -851,18 +862,18 @@
       "enforcement_date": "",
       "content": "부산지방국세청 정원표\n\n(별표12)                                                                                                                                                                         (2026.8.28)",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000284620&bylNo=0012&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168947023",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287250&bylNo=0012&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843525",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168947017",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843519",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168947023",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170843525",
           "name": "",
           "file_store_url": ""
         }
@@ -877,19 +888,19 @@
   ],
   "attachments": [
     {
-      "name": "국세청·국세공무원교육원·국세청주류면허지원센터·국세상담센터_및_지방세무관서_정원규정(2026.8.28.¸ 제2762호).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=168946361",
-      "filename": "국세청·국세공무원교육원·국세청주류면허지원센터·국세상담센터_및_지방세무관서_정원규정(2026.8.28.¸ 제2762호).hwpx",
+      "name": "국세청·국세공무원교육원·국세청주류면허지원센터·국세상담센터_및_지방세무관서_정원규정(2026.10.23.¸ 제2770호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170843421",
+      "filename": "국세청·국세공무원교육원·국세청주류면허지원센터·국세상담센터_및_지방세무관서_정원규정(2026.10.23.¸ 제2770호).hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/국세청·국세공무원교육원·국세청주류면허지원센터·국세상담센터_및_지방세무관서_정원규정(2026.8.28.¸ 제2762호).hwpx",
+      "local_path": "첨부파일/국세청·국세공무원교육원·국세청주류면허지원센터·국세상담센터_및_지방세무관서_정원규정(2026.10.23.¸ 제2770호).hwpx",
       "file_store_url": ""
     },
     {
-      "name": "국세청·국세공무원교육원·국세청주류면허지원센터·국세상담센터_및_지방세무관서_정원규정(2026.8.28.¸ 제2762호).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=168946365",
-      "filename": "국세청·국세공무원교육원·국세청주류면허지원센터·국세상담센터_및_지방세무관서_정원규정(2026.8.28.¸ 제2762호).pdf",
+      "name": "국세청·국세공무원교육원·국세청주류면허지원센터·국세상담센터_및_지방세무관서_정원규정(2026.10.23.¸ 제2770호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170843425",
+      "filename": "국세청·국세공무원교육원·국세청주류면허지원센터·국세상담센터_및_지방세무관서_정원규정(2026.10.23.¸ 제2770호).pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/국세청·국세공무원교육원·국세청주류면허지원센터·국세상담센터_및_지방세무관서_정원규정(2026.8.28.¸ 제2762호).pdf",
+      "local_path": "첨부파일/국세청·국세공무원교육원·국세청주류면허지원센터·국세상담센터_및_지방세무관서_정원규정(2026.10.23.¸ 제2770호).pdf",
       "file_store_url": ""
     }
   ],
@@ -910,7 +921,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 19,
+    "addenda_count": 20,
     "appendices_count": 13,
     "attachments_count": 2
   },
