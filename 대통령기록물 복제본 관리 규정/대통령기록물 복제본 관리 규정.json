@@ -1,42 +1,42 @@
 {
   "law_id": "89964",
-  "mst": "2100000252536",
+  "mst": "2100000287214",
   "law_name": "대통령기록물 복제본 관리 규정",
   "law_abbr": "",
-  "law_type": "예규",
+  "law_type": "지침",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:89964",
-  "promulgation_no": "77",
-  "promulgation_date": "20241230",
-  "enforcement_date": "20241230",
-  "revision_date": "20241230",
+  "promulgation_no": "81",
+  "promulgation_date": "20261021",
+  "enforcement_date": "20261021",
+  "revision_date": "20261021",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
-    "담당부서기관명": "대통령기록관(보존복원과)",
+    "담당부서기관명": "대통령기록관(기록보존과)",
     "담당자명": "손미경",
-    "행정규칙종류코드": "B0002",
+    "행정규칙종류코드": "B0005",
     "행정규칙명": "대통령기록물 복제본 관리 규정",
-    "발령일자": "20241230",
-    "행정규칙종류": "예규",
+    "발령일자": "20261021",
+    "행정규칙종류": "지침",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "대통령기록관",
-    "전화번호": "044-211-2274",
+    "전화번호": "044-211-2271",
     "제개정구분명": "일부개정",
     "소관부처코드": "1741000",
-    "생성일자": "20250103",
+    "생성일자": "20261023",
     "행정규칙ID": "89964",
-    "시행일자": "20241230",
+    "시행일자": "20261021",
     "담당부서기관코드": "1741867",
-    "발령번호": "77",
-    "행정규칙일련번호": "2100000252536",
+    "발령번호": "81",
+    "행정규칙일련번호": "2100000287214",
     "상위부처명": "행정안전부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정 이유\n- 대통령기록물 복제본 제작기준, 신청절차에 관한 현행화 필요\n- 업무 절차에 따른 법령 정비를 통해 체계적인 관리 필요\n◇ 주요내용\n가. 복제업무의 정의와 적용범위\n- (정의) 비전자기록물을 종이에 영인ㆍ모사ㆍ모조하여 사본으로 제작하는 행위 임\n- (적용범위) 대통령기록물법 제2조 제1호에 따라 대통령기록관이 소장하는 기록물과 동법 제26조에 따라 수집ㆍ관리되는 개인기록물에 적용\n나. 복제 목적과 신청절차\n- (목적) 이중보존, 전시, 기증자의 개인소장 등\n- (신청) 시기, 대상기준 등 관련 절차 및 필요서식 안내\n다. 복제본 제작과 관리\n- (제작관리) 복제번호 부여ㆍ표기로 원본과 구분, 지정장소 내 관리\n- (대여ㆍ연장) 대여ㆍ반납 기간 및 이용연장 기준\n- (손실ㆍ폐기) 훼손ㆍ분실한 복제본의 신고, 이용목적 소멸한 복제본 폐기 등",
+  "revision_reason": "◇ 개정 이유\n- 대통령기록물 복제 대여자와 제공자 간 이견 최소화를 위해 복제본 훼손 기준 정비, 폐기 사유에 ‘분실’ 항목 추가\n◇ 주요내용\n가. 복제업무의 정의와 적용범위\n- (정의) 비전자기록물을 종이에 영인ㆍ모사ㆍ모조하여 사본으로 제작하는 행위 임\n- (적용범위) 대통령기록물법 제2조 제1호에 따라 대통령기록관이 소장하는 기록물과 동법 제26조에 따라 수집ㆍ관리되는 개인기록물에 적용\n나. 복제 목적과 신청절차\n- (목적) 이중보존, 전시, 기증자의 개인소장 등\n- (신청) 시기, 대상기준 등 관련 절차 및 필요서식 안내\n다. 복제본 제작과 관리\n- (제작관리) 복제번호 부여ㆍ표기로 원본과 구분, 지정장소 내 관리\n- (대여ㆍ연장) 대여ㆍ반납 기간 및 이용연장 기준\n- (손실ㆍ폐기) 훼손ㆍ분실한 복제본의 신고, 이용목적 소멸한 복제본 폐기 등",
   "body": {
     "format": "articles",
     "article_count": 16,
@@ -44,8 +44,8 @@
       {
         "article_no": "제1조",
         "article_title": "목적",
-        "chapter": "제1장 총  칙",
-        "chapter_path": "제1장 총  칙",
+        "chapter": "제1장 총칙",
+        "chapter_path": "제1장 총칙",
         "content": "제1조(목적) 이 규정은 「공공기록물 관리에 관한 법률」(이하 \"공공기록물법\" 이라 한다) 및 동법 시행령ㆍ시행규칙과 「대통령기록물 관리에 관한 법률」(이하 \"대통령기록물법\" 이라 한다) 및 동법 시행령에서 정하는 대통령기록물 복제관리에 필요한 사항을 규정함을 목적으로 한다.",
         "enforcement_date": "",
         "relations": [
@@ -96,8 +96,8 @@
       {
         "article_no": "제2조",
         "article_title": "적용범위",
-        "chapter": "제1장 총  칙",
-        "chapter_path": "제1장 총  칙",
+        "chapter": "제1장 총칙",
+        "chapter_path": "제1장 총칙",
         "content": "제2조(적용범위) 대통령기록관 내에서 제작하는 대통령 기록물법 제2조 제1호에 따라 대통령기록관이 소장하는 기록물과 동법 제26조에 따라 수집ㆍ관리되는 개인기록물의 복제본에 대하여 적용한다.",
         "enforcement_date": "",
         "relations": [
@@ -128,8 +128,8 @@
       {
         "article_no": "제3조",
         "article_title": "정의",
-        "chapter": "제1장 총  칙",
-        "chapter_path": "제1장 총  칙",
+        "chapter": "제1장 총칙",
+        "chapter_path": "제1장 총칙",
         "content": "제3조(정의) 본 규정에서 사용하는 용어의 정의는 다음과 같다.1. \"복제\"란 비전자기록물을 종이에 영인ㆍ모사ㆍ모조하여 사본으로 제작하는 행위를 말한다.2. \"대통령기록물 복제본\"이란(이하 \"복제본\"이라 한다) 대통령기록물과 동일하거나 유사한 규격과 품질을 갖도록 복제한 사본을 말한다.3. \"복제번호\"란 복제본을 관리하기 위해 부여한 고유식별번호를 말한다.4. \"복제담당부서장\"이란 복제본을 제작 및 관리하는 대통령기록관의 담당부서장을 말한다.5. \"복제신청자\"란 복제본의 제작 또는 이용을 신청한 자를 말한다.6. \"반출ㆍ입\"이란 복제본의 이용 등을 목적으로 복제본 관리장소 이외로 나가고 들어오는 것을 말한다.7. \"대여\"란 복제본의 관리를 복제신청자에게 한시적으로 위임하는 것을 말한다.8. \"기증\"이란 복제본의 관리를 복제신청자에게 영구적으로 위임하는 것을 말한다.9. \"반납\"이란 대여 또는 기증한 복제본을 복제담당부서장에게 돌려주는 것을 말한다.10. \"폐기\"란 복제본을 복구 불가능한 수준으로 제거하는 것을 말한다.",
         "enforcement_date": "",
         "relations": [],
@@ -139,8 +139,8 @@
       {
         "article_no": "제4조",
         "article_title": "복제담당부서장의 업무범위",
-        "chapter": "제1장 총  칙",
-        "chapter_path": "제1장 총  칙",
+        "chapter": "제1장 총칙",
+        "chapter_path": "제1장 총칙",
         "content": "제4조(복제담당부서장의 업무범위) 복제담당부서장은 다음의 업무를 수행한다.1. 복제본 제작2. 복제본의 보존관리3. 복제본의 폐기관리",
         "enforcement_date": "",
         "relations": [],
@@ -150,8 +150,8 @@
       {
         "article_no": "제5조",
         "article_title": "다른 행정규칙과의 관계",
-        "chapter": "제1장 총  칙",
-        "chapter_path": "제1장 총  칙",
+        "chapter": "제1장 총칙",
+        "chapter_path": "제1장 총칙",
         "content": "제5조(다른 행정규칙과의 관계) ① 국가기록원 등 다른 기관이 제작 또는 소장하고 있는 복제본의 관리에 대하여서는 해당기관의 행정규칙을 따른다.② 단, 대통령기록관은 복제본 관리를 위해 다른 기관이 제작 또는 소장하고 있는 대통령기록관 소장기록물의 복제본 관리와 관련한 내용을 요청하여 확인 할 수 있다.",
         "enforcement_date": "",
         "relations": [],
@@ -427,7 +427,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "89964",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018237",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850149",
             "resolve_method": "html",
             "source_provision_id": "admrul:대통령기록물복제본관리규정#JO0008",
             "target_unit": "BJ0001",
@@ -452,7 +452,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "89964",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018249",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850161",
             "resolve_method": "html",
             "source_provision_id": "admrul:대통령기록물복제본관리규정#JO0008",
             "target_unit": "BJ0003",
@@ -500,7 +500,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "89964",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000252536&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287214&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:대통령기록물복제본관리규정#JO0010",
             "target_unit": "BYL0001",
@@ -525,7 +525,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "89964",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018255",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850167",
             "resolve_method": "html",
             "source_provision_id": "admrul:대통령기록물복제본관리규정#JO0010",
             "target_unit": "BJ0004",
@@ -562,7 +562,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "89964",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018261",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850173",
             "resolve_method": "html",
             "source_provision_id": "admrul:대통령기록물복제본관리규정#JO0011",
             "target_unit": "BJ0005",
@@ -662,7 +662,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "89964",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018267",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850179",
             "resolve_method": "html",
             "source_provision_id": "admrul:대통령기록물복제본관리규정#JO0014",
             "target_unit": "BJ0006",
@@ -687,7 +687,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "89964",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018273",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850185",
             "resolve_method": "html",
             "source_provision_id": "admrul:대통령기록물복제본관리규정#JO0014",
             "target_unit": "BJ0007",
@@ -712,7 +712,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "89964",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018279",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850191",
             "resolve_method": "html",
             "source_provision_id": "admrul:대통령기록물복제본관리규정#JO0014",
             "target_unit": "BJ0008",
@@ -729,7 +729,7 @@
         "article_title": "복제본 손실",
         "chapter": "제2장 복제본 제작 및 관리",
         "chapter_path": "제2장 복제본 제작 및 관리",
-        "content": "제15조(복제본 손실) 복제본의 대여 중 심각한 훼손 또는 분실이 발생하였을 경우 즉시 복제담당부서장에게 별지 제9호 서식의 ‘복제본 손실 신고서’를 작성하여 신고하여야 한다.",
+        "content": "제15조(복제본 손실) 복제본의 대여 중 재사용이 불가능한 훼손 또는 분실이 발생하였을 경우 즉시 복제담당부서장에게 별지 제9호 서식의 ‘복제본 손실 신고서’를 작성하여 신고하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -749,7 +749,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "89964",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018285",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850197",
             "resolve_method": "html",
             "source_provision_id": "admrul:대통령기록물복제본관리규정#JO0015",
             "target_unit": "BJ0009",
@@ -766,7 +766,7 @@
         "article_title": "복제본 폐기",
         "chapter": "제2장 복제본 제작 및 관리",
         "chapter_path": "제2장 복제본 제작 및 관리",
-        "content": "제16조(복제본 폐기) ① 다음의 각 호에 해당하는 경우, 복제본을 폐기할 수 있다.1. 복제본에 심각한 훼손이 발생한 경우2. 복제신청자가 폐기 요청을 한 경우3. 복제본의 제작목적이 소멸된 경우② 제1항에 따라 복제본 폐기 시, 별지 제10호 서식의 ‘복제본 폐기서’를 작성하여 복제본을 폐기하여야 한다.",
+        "content": "제16조(복제본 폐기) ① 다음의 각 호에 해당하는 경우, 복제본을 폐기할 수 있다.1. 복제본에 재사용이 불가능한 훼손이 발생한 경우2. 복제신청자가 폐기 요청을 한 경우3. 복제본의 제작목적이 소멸된 경우4. 그밖에 분실 등 폐기가 필요한 사항의 경우② 제1항에 따라 복제본 폐기 시, 별지 제10호 서식의 ‘복제본 폐기서’를 작성하여 복제본을 폐기하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -786,7 +786,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "89964",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018291",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850203",
             "resolve_method": "html",
             "source_provision_id": "admrul:대통령기록물복제본관리규정#JO0016",
             "target_unit": "BJ0010",
@@ -807,10 +807,10 @@
       "content": "부칙 <제60호, 2021. 7. 7.>제1조(시행일) 이 규정은 공포한 날로부터 시행한다.",
       "provision_id": "admrul:대통령기록물복제본관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000252536",
+      "source_mst": "2100000287214",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20241230"
+      "version_enforcement_date": "20261021"
     },
     {
       "promulgation_date": "20241230",
@@ -818,10 +818,21 @@
       "content": "부칙 <제77호, 2024. 12. 30.>제1조(시행일) 이 규정은 공포한 날로부터 시행한다.",
       "provision_id": "admrul:대통령기록물복제본관리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000252536",
+      "source_mst": "2100000287214",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20241230"
+      "version_enforcement_date": "20261021"
+    },
+    {
+      "promulgation_date": "20261021",
+      "promulgation_no": "81",
+      "content": "부칙 <제81호, 2026. 10. 21.>제1조(시행일) 이 규정은 공포한 날로부터 시행한다.",
+      "provision_id": "admrul:대통령기록물복제본관리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000287214",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261021"
     }
   ],
   "appendices": [
@@ -833,18 +844,18 @@
       "enforcement_date": "",
       "content": "[별표 1]\n복제본 표기 및 방식(제10조 관련)\n┌─────┬───────────────────┐\n│구 분     │표기의 내용                           │\n├─────┼───────────────────┤\n│표기방식  │복제도장의 날인 또는 인쇄             │\n├─────┼───────────────────┤\n│크    기  │지름 3cm이내                          │\n├─────┼───────────────────┤\n│표기위치  │뒷면 좌측 하단                        │\n├─────┼───────────────────┤\n│표기내용  │복제본2. 제작기관3. 복제번호4. 제작일 │\n├─────┼───────────────────┤\n│형태의 예 │                                      │\n└─────┴───────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000252536&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018231",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287214&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850143",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018227",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850139",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018231",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850143",
           "name": "",
           "file_store_url": ""
         }
@@ -865,17 +876,17 @@
       "content": "[별지 제1호서식]\n복제신청서\n┏━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃복제 목적       │□이중보존          □전시                                      ┃\n┃                │□대통령관련기록물기증자 제공(개인소장)                         ┃\n┃                │□기타(목적을 상세히 서술                         )             ┃\n┠────────┼────────────────────────────────┨\n┃복제대상        │                                                                ┃\n┃유형/수량(매)   │                                                                ┃\n┠────────┼────────────────────────────────┨\n┃복제(인수)희망일│     년     월     일                                           ┃\n┠───┬────┼────────────────────────────────┨\n┃이용  │구분    │□대여   □기증                                                 ┃\n┃사항  ├────┼────────────────────────────────┨\n┃      │건명    │                                                                ┃\n┃      │        │※ 전시명                                                       ┃\n┃      ├────┼────────────────────────────────┨\n┃      │기간    │   년   월   일 ~    년   월   일 (     일간)                   ┃\n┃      │        │※ 전시기간 :                                                   ┃\n┃      ├────┼────────────────────────────────┨\n┃      │장소    │                                                                ┃\n┠───┴────┼────────────────────────────────┨\n┃기    타        │                                                                ┃\n┠────────┼────────────────────────────────┨\n┃별첨 내역       │? (예)복제신청목록 1부.                                        ┃\n┃                │                                                                ┃\n┃                │※ 복제본 신청 목록(별지 제2호서식), 복제 및 복제본 이용 내용을 ┃\n┃                │설명할 수 있는 계획서 등                                        ┃\n┠────────┴────────────────────────────────┨\n┃대통령기록물의 복제를 위와 같이 신청하오니 허가하여 주시기 바랍니다.              ┃\n┃                                                                                  ┃\n┃년    월    일                                                                    ┃\n┃                                                                                  ┃\n┃  신청인  소속 :                                                                  ┃\n┃                                                                                  ┃\n┃          직급 :                                                                  ┃\n┃                                                                                  ┃\n┃          성명 :    (서명 또는 날인)                                              ┃\n┃                                                                                  ┃\n┃                                                                                  ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018237",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850149",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018233",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850145",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018237",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850149",
           "name": "",
           "file_store_url": ""
         }
@@ -896,17 +907,17 @@
       "content": "[별지 제2호서식]\n복제신청목록\n? 건명 :\n? 복제대상 : 총   매\n┌──┬────┬───┬────┬────┬────┬────┬───┬────┬────────┐\n│연번│관리번호│대통령│기록철명│기록건명│생산일자│기록유형│쪽번호│수량(매)│비고            │\n│    │        │      │        │        │        │        │      │        │(기타 요청사항) │\n├──┼────┼───┼────┼────┼────┼────┼───┼────┼────────┤\n│    │        │      │        │        │        │        │      │        │                │\n├──┼────┼───┼────┼────┼────┼────┼───┼────┼────────┤\n│    │        │      │        │        │        │        │      │        │                │\n├──┼────┼───┼────┼────┼────┼────┼───┼────┼────────┤\n│    │        │      │        │        │        │        │      │        │                │\n├──┼────┼───┼────┼────┼────┼────┼───┼────┼────────┤\n│    │        │      │        │        │        │        │      │        │                │\n│                │                  │                  │                │\n│                │                  │                  │                │\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018243",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850155",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018239",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850151",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018243",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850155",
           "name": "",
           "file_store_url": ""
         }
@@ -927,17 +938,17 @@
       "content": "[별지 제3호서식]\n기록물 복제 동의서\n○ 소유자 : (예) 해위윤보선대통령기념사업회, 0 0 0\n○ 요청기관 및 부서(담당자) : (예) 대통령기록관 기록서비스과, (홍길동 주무관)\n○ 복제 목적 : (예) 전시목적 대여\n○ 대상 기록물 : (예) <별지> 복제신청 목록과 같음\n○ 동의 기간 : (예) 2025. 9. 4.(목) ~ 2025. 12. 29.(월)\n○ 동의 사항 :\n\n본인은 대통령기록물법 제26조 및 동법 시행령 제14조에 따라\n대통령기록관에서 보존 관리 중인 기록물([별지])에 대하여\n상기와 같은 목적으로 요청 기관의 복제에 동의합니다.\n20   년   월   일\n\n소유자    (서명 또는 날인)\n\n요청기관   (예) 대통령기록관장    (서명 또는 직인)\n(기관장)\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018249",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850161",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018245",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850157",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018249",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850161",
           "name": "",
           "file_store_url": ""
         }
@@ -958,17 +969,17 @@
       "content": "[별지 제4호서식]\n복제본 관리대장\n┌──┬────────────────────┬──────────────────────────────────────┬──────┐\n│연번│복제본                                  │대상 원본기록물                                                             │비고        │\n│    ├────┬────┬────┬────┬┴──────────┬────┬──┬───┬─────┬────┬────┤(대여, 폐기)│\n│    │복제번호│위치정보│수량(매)│종이재질│규격                  │관리번호│유형│대통령│기록철명  │생산년도│쪽 번호 │            │\n│    │        │        │        │        │(가로×세로×두께, ㎜)│        │    │      │(기록건명)│        │        │            │\n├──┼────┼────┼────┼────┼┬──────────┼────┼──┼───┼─────┼────┼────┼──────┤\n│    │        │        │        │        ││                    │        │    │      │          │        │        │            │\n├──┼────┼────┼────┼────┼┼──────────┼────┼──┼───┼─────┼────┼────┼──────┤\n│    │        │        │        │        ││                    │        │    │      │          │        │        │            │\n├──┼────┼────┼────┼────┼┼──────────┼────┼──┼───┼─────┼────┼────┼──────┤\n│    │        │        │        │        ││                    │        │    │      │          │        │        │            │\n├──┼────┼────┼────┼────┼┼──────────┼────┼──┼───┼─────┼────┼────┼──────┤\n│    │        │        │        │        ││                    │        │    │      │          │        │        │            │\n│                  │                  │                      │              │                  │                  │\n│                  │                  │                      │              │                  │                  │\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018255",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850167",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018251",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850163",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018255",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850167",
           "name": "",
           "file_store_url": ""
         }
@@ -989,17 +1000,17 @@
       "content": "[별지 제5호서식]\n복제본 대여ㆍ연장신청서\n┏━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃대여건명      │                                                                    ┃\n┃              │※ 전시명                                                           ┃\n┠───────┼──────────────────────────────────┨\n┃대상          │                                                                    ┃\n┃형태/수량(매) │                                                                    ┃\n┠───────┼──────────────────────────────────┨\n┃요청기간      │   년   월   일 ~    년   월   일 (     일간)                       ┃\n┃              │※ 전시기간 :                                                       ┃\n┠───────┼──────────────────────────────────┨\n┃기   타       │                                                                    ┃\n┠───────┼──────────────────────────────────┨\n┃별첨 내역     │? (예)복제본 인계인수서(사본) 1부.                                 ┃\n┃              │                                                                    ┃\n┃              │                                                                    ┃\n┃              │                                                                    ┃\n┃              │                                                                    ┃\n┃              │※ 복제본 대여 연장목록(‘복제본 인계?인수서(사본)’으로 대체 가능)┃\n┃              │   복제본 대여 연장의 필요사항을 설명할 수 있는 계획서 등           ┃\n┠───────┴──────────────────────────────────┨\n┃<준수 및 동의사항>                                                                  ┃\n┃1. 대여한 복제본의 무단파기?멸실 또는 유출을 금지할 것을 준수함                    ┃\n┃2. 「대통령기록물 복제본 관리 규정」을 준수하며, 대여에 따른 복제본 이용의          ┃\n┃법적책임은 신청인에게 있음을 동의함                                                 ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┃대통령기록물 복제본의 대여를 위와 같이 신청하오니 허가하여 주시기 바랍니다.         ┃\n┃                                                                                    ┃\n┃년    월    일                                                                      ┃\n┃                                                                                    ┃\n┃  신청인  소속 :                                                                    ┃\n┃                                                                                    ┃\n┃          직급 :                                                                    ┃\n┃                                                                                    ┃\n┃          성명 :    (서명 또는 날인)                                                ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018261",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850173",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018257",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850169",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018261",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850173",
           "name": "",
           "file_store_url": ""
         }
@@ -1020,17 +1031,17 @@
       "content": "[별지 제6호서식]\n복제본 인계ㆍ인수서\n○ 건명 :\n○ 대상 및 수량(매) :\n○ 이용기간 : 20   년   월   일 ~ 20   년   월   일 (     일간)\n○ 장소 :\n┌──┬────┬───┬─────┬───────────┬────┬────┬──┐\n│연번│관리번호│기록  │기록철명  │규격                  │복제    │복제번호│매수│\n│    │        │유형  │(기록건명)│(가로×세로×두께, ㎜)│페이지  │        │(매)│\n│    │        │      │          │                      │(쪽번호)│        │    │\n├──┼────┼───┼─────┼───────────┼────┼────┼──┤\n│    │        │      │          │                      │        │        │    │\n├──┼────┼───┼─────┼───────────┼────┼────┼──┤\n│    │        │      │          │                      │        │        │    │\n├──┼────┼───┼─────┼───────────┼────┼────┼──┤\n│    │        │      │          │                      │        │        │    │\n├──┼────┼───┼─────┼───────────┼────┼────┼──┤\n│    │        │      │          │                      │        │        │    │\n├──┼────┼───┼─────┼───────────┼────┼────┼──┤\n│    │        │      │          │                      │        │        │    │\n├──┴────┴───┴─────┴───────────┴────┴────┼──┤\n│합 계                                                                         │    │\n└───────────────────────────────────────┴──┘\n상기의 대통령기록물 복제본을 상호 확인하고 인계 및 인수합니다.\n년     월     일\n\n인계자  소속 :\n\n직급 :\n\n성명 :    (서명 또는 날인)\n\n\n\n인수자  소속 :\n\n직급 :\n\n성명 :    (서명 또는 날인)\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018267",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850179",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018263",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850175",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018267",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850179",
           "name": "",
           "file_store_url": ""
         }
@@ -1051,17 +1062,17 @@
       "content": "[별지 제7호서식]\n복제본 이용 서약서\n본인은 대통령기록물 복제본을 이용 함에 있어 다음 사항을 준수할 것을 서약합니다.\n1. 복제본을 허가받은 목적 이외의 용도로 사용하지 않는다.\n2. 복제본의 훼손ㆍ분실ㆍ도난ㆍ위조ㆍ변조 등이 일어나지 않도록 안전하게 관리한다.\n3. 복제본의 관리에 관하여 「대통령기록물 복제본 관리 규정」이 정하는 사항에 의하여 관리한다.\n4. 위의 사항을 위반한 사실이 발생할 경우, 즉시 대통령기록관의 복제본 담당 부서장에게 관련 사실을 통보한다.\n5. 복제본의 이용에 따르는 법적책임을 진다.\n20   년   월   일\n\n서약인  소속 :\n\n직급 :\n\n성명 :    (서명 또는 날인)\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018273",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850185",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018269",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850181",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018273",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850185",
           "name": "",
           "file_store_url": ""
         }
@@ -1082,17 +1093,17 @@
       "content": "[별지 제8호서식]\n복제본 반출ㆍ입 관리대장\n┌──┬────┬────┬────┬────┬───────────┬───────────┬──────┬──────┐\n│연번│반출건명│기록물명│복제번호│수량(매)│반출                  │반입                  │구 분       │비 고       │\n│    │        │        │        │        ├──┬────┬───┼──┬────┬───┤(대여/기증) │(반입예정일)│\n│    │        │        │        │        │일자│신청부서│확인자│일자│신청부서│확인자│            │            │\n├──┼────┼────┼────┼────┼──┼────┼───┼──┼────┼───┼──────┼──────┤\n│    │        │        │        │        │    │        │      │    │        │      │            │            │\n├──┼────┼────┼────┼────┼──┼────┼───┼──┼────┼───┼──────┼──────┤\n│    │        │        │        │        │    │        │      │    │        │      │            │            │\n├──┼────┼────┼────┼────┼──┼────┼───┼──┼────┼───┼──────┼──────┤\n│    │        │        │        │        │    │        │      │    │        │      │            │            │\n├──┼────┼────┼────┼────┼──┼────┼───┼──┼────┼───┼──────┼──────┤\n│    │        │        │        │        │    │        │      │    │        │      │            │            │\n│                  │                  │              │            │                │                          │\n│                  │                  │              │            │                │                          │\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018279",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850191",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018275",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850187",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018279",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850191",
           "name": "",
           "file_store_url": ""
         }
@@ -1110,20 +1121,20 @@
       "kind": "별지",
       "title": "복제본 손실 신고서",
       "enforcement_date": "",
-      "content": "[별지 제9호서식]\n복제본 손실 신고서\n┌───────────┬───────────────────────┐\n│구   분               │□훼손(파기?멸실)   □분실                   │\n├───────────┼───────────────────────┤\n│복제번호              │                                              │\n├───┬───────┼───────────────────────┤\n│대상  │기록물명      │                                              │\n│기록  ├───────┼───────────────────────┤\n│      │유형/수량(매) │                                              │\n├───┼───────┼───────────────────────┤\n│대여  │건명          │                                              │\n│사항  │              │※ 전시명                                     │\n│      ├───────┼───────────────────────┤\n│      │기간          │   년   월   일 ~    년   월   일 (     일간) │\n│      │              │※ 전시기간 :                                 │\n│      ├───────┼───────────────────────┤\n│      │장소          │                                              │\n├───┴───────┴───────────────────────┤\n│<손실 경위 및 사유>                                                   │\n│                                                                      │\n│                                                                      │\n│                                                                      │\n│                                                                      │\n└───────────────────────────────────┘\n「대통령기록물 복제본 관리 규정」 제15조에 따라 위와 같이 신고합니다.\n\n년   월   일\n\n\n신고자  소속 :\n\n직급 :\n\n성명 :    (서명 또는 날인)\n\n\n",
+      "content": "[별지 제9호서식]\n복제본 손실 신고서\n┌───────────┬───────────────────────┐\n│구   분               │□훼손  □분실                                │\n├───────────┼───────────────────────┤\n│복제번호              │                                              │\n├───┬───────┼───────────────────────┤\n│대상  │기록물명      │                                              │\n│기록  ├───────┼───────────────────────┤\n│      │유형/수량(매) │                                              │\n├───┼───────┼───────────────────────┤\n│대여  │건명          │                                              │\n│사항  │              │※ 전시명                                     │\n│      ├───────┼───────────────────────┤\n│      │기간          │   년   월   일 ~    년   월   일 (     일간) │\n│      │              │※ 전시기간 :                                 │\n│      ├───────┼───────────────────────┤\n│      │장소          │                                              │\n├───┴───────┴───────────────────────┤\n│<손실 경위 및 사유>                                                   │\n│                                                                      │\n│                                                                      │\n│                                                                      │\n│                                                                      │\n└───────────────────────────────────┘\n「대통령기록물 복제본 관리 규정」 제15조에 따라 위와 같이 신고합니다.\n\n년   월   일\n\n\n신고자  소속 :\n\n직급 :\n\n성명 :    (서명 또는 날인)\n\n\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018285",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850197",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018281",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850193",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018285",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850197",
           "name": "",
           "file_store_url": ""
         }
@@ -1141,20 +1152,20 @@
       "kind": "별지",
       "title": "복제본 폐기서",
       "enforcement_date": "",
-      "content": "[별지 제10호서식]\n복제본 폐기서\n┌───────────┬─────────────────────┐\n│폐기사유              │□훼손   □복제신청자의 요청   □목적소멸 │\n├───────────┼─────────────────────┤\n│복제번호              │                                          │\n├───┬───────┼─────────────────────┤\n│대상  │기록물명      │                                          │\n│기록  ├───────┼─────────────────────┤\n│      │유형/수량(매) │                                          │\n├───┴───────┴─────────────────────┤\n│ ? 폐기방법 :                                                    │\n│ ? 폐기장소 :                                                    │\n│ ? 기타사항 :                                                    │\n│                                                                  │\n│                                                                  │\n\n「대통령기록물 복제본 관리 규정」제4조 및 제16조에 따라 대통령기록물 복제본을 폐기합니다.\n년   월   일\n\n관  리    직위 :      과장\n책임자\n직급 :\n\n성명 :            (서명 또는 날인)\n",
+      "content": "[별지 제10호서식]\n복제본 폐기서\n┌───────────┬─────────────────────────┐\n│폐기사유              │□훼손   □복제신청자의 요청   □목적소멸   □분실│\n├───────────┼─────────────────────────┤\n│복제번호              │                                                  │\n├───┬───────┼─────────────────────────┤\n│대상  │기록물명      │                                                  │\n│기록  ├───────┼─────────────────────────┤\n│      │유형/수량(매) │                                                  │\n├───┴───────┴─────────────────────────┤\n│ ? 폐기방법 :                                                            │\n│ ? 폐기장소 :                                                            │\n│ ? 기타사항 :                                                            │\n│                                                                          │\n│                                                                          │\n\n「대통령기록물 복제본 관리 규정」제4조 및 제16조에 따라 대통령기록물 복제본을 폐기합니다.\n년   월   일\n\n관  리    직위 :      과장\n책임자\n직급 :\n\n성명 :            (서명 또는 날인)\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018291",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850203",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018287",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850199",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148018291",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170850203",
           "name": "",
           "file_store_url": ""
         }
@@ -1169,27 +1180,19 @@
   ],
   "attachments": [
     {
-      "name": "조문별제개정이유서_대통령기록물 복제본 관리 규정.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=147991929",
-      "filename": "조문별제개정이유서_대통령기록물 복제본 관리 규정.hwpx",
+      "name": "대통령기록물 복제본 관리 규정.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170843903",
+      "filename": "대통령기록물 복제본 관리 규정.hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/조문별제개정이유서_대통령기록물 복제본 관리 규정.hwpx",
+      "local_path": "첨부파일/대통령기록물 복제본 관리 규정.hwpx",
       "file_store_url": ""
     },
     {
       "name": "대통령기록물 복제본 관리 규정.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=148017111",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170843907",
       "filename": "대통령기록물 복제본 관리 규정.pdf",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/대통령기록물 복제본 관리 규정.pdf",
-      "file_store_url": ""
-    },
-    {
-      "name": "대통령기록물 복제본 관리 규정.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=148017107",
-      "filename": "대통령기록물 복제본 관리 규정.hwpx",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/대통령기록물 복제본 관리 규정.hwpx",
       "file_store_url": ""
     }
   ],
@@ -1211,9 +1214,9 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 11,
-    "attachments_count": 3
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/대통령기록물 복제본 관리 규정"
