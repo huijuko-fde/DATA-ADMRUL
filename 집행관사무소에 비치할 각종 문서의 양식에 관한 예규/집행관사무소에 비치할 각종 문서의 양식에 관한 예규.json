@@ -1,16 +1,16 @@
 {
   "law_id": "2111383",
-  "mst": "2200000108865",
+  "mst": "2200000109391",
   "law_name": "집행관사무소에 비치할 각종 문서의 양식에 관한 예규",
   "law_abbr": "",
   "law_type": "행정예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2111383",
-  "promulgation_no": "1472",
-  "promulgation_date": "20260709",
-  "enforcement_date": "20260709",
-  "revision_date": "20260709",
+  "promulgation_no": "1478",
+  "promulgation_date": "20261022",
+  "enforcement_date": "20261022",
+  "revision_date": "20261022",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "",
     "행정규칙종류코드": "B0012",
     "행정규칙명": "집행관사무소에 비치할 각종 문서의 양식에 관한 예규",
-    "발령일자": "20260709",
+    "발령일자": "20261022",
     "행정규칙종류": "행정예규",
     "제개정구분코드": "200403",
     "조문형식여부": "N",
@@ -27,16 +27,16 @@
     "전화번호": "",
     "제개정구분명": "일부개정",
     "소관부처코드": "9740000",
-    "생성일자": "20260713",
+    "생성일자": "20261023",
     "행정규칙ID": "2111383",
-    "시행일자": "20260709",
+    "시행일자": "20261022",
     "담당부서기관코드": "",
-    "발령번호": "1472",
-    "행정규칙일련번호": "2200000108865",
+    "발령번호": "1478",
+    "행정규칙일련번호": "2200000109391",
     "상위부처명": "대법원"
   },
-  "amendment_text": "집행관사무소에 비치할 각종 문서의 양식에 관한 예규 일부를 다음과 같이 개정한다.\n별지 2 중 2-53을 별지와 같이 신설한다.\n부 칙\n이 예규는 즉시 시행한다.",
-  "revision_reason": "1. 개정이유\n○ 집행관이 위임을 받은 직무를 수행하는 경우에 발생하는 수수료 및 각종 비용 산정의 투명성 제고를 위하여 관련 양식을 새롭게 마련하고자 함\n2. 주요내용\n○ [별지 2] 양식 중 “수수료 및 여비 등 산정내역서”를 신설함(별지 2-53)",
+  "amendment_text": "집행관사무소에 비치할 각종 문서의 양식에 관한 예규 일부를 다음과 같이 개정한다.\n별지 3 중 3-17, 3-18, 3-19, 3-20을 각각 삭제한다.\n부 칙\n이 예규는 즉시 시행한다.",
+  "revision_reason": "1. 개정이유\n○ 이 예규상 일부 양식의 경우 이미 「부동산등에 대한 경매절차 처리지침」(재판예규 제1939호)에 따른 전산양식으로서 일정한 장소에 비치하도록 규정하고 있으므로, 중복 규정에 따른 실무상 혼란의 우려 등을 방지하고자 함\n2. 주요내용\n○ [별지 3] 양식 중 “기일입찰표”, “기간입찰표”, “공동입찰신고서”, “공동입찰자목록” 양식을 각각 삭제함(별지 3-17, 3-18, 3-19, 3-20)",
   "body": {
     "format": "articles",
     "article_count": 4,
@@ -104,7 +104,7 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111383",
-        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000108865&bylNo=&bylBrNo=",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000109391&bylNo=&bylBrNo=",
         "resolve_method": "html",
         "source_provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#DOC",
         "target_unit": "BJ0001",
@@ -129,7 +129,7 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111383",
-        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000108865&bylNo=&bylBrNo=",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000109391&bylNo=&bylBrNo=",
         "resolve_method": "html",
         "source_provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#DOC",
         "target_unit": "BJ0001",
@@ -154,7 +154,7 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111383",
-        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000108865&bylNo=&bylBrNo=",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000109391&bylNo=&bylBrNo=",
         "resolve_method": "html",
         "source_provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#DOC",
         "target_unit": "BJ0002",
@@ -172,14 +172,14 @@
         "line_text": "",
         "target_law_name": "집행관사무소에 비치할 각종 문서의 양식에 관한 예규",
         "target_article_no": "부록3",
-        "target_article_title": "[별지 3] 3-14 집행 속행 신청서",
+        "target_article_title": "[별지 3] 3-8 해임신청서",
         "appendix_no": "3",
         "appendix_branch": "",
         "appendix_kind": "부록",
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111383",
-        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000108865&bylNo=&bylBrNo=",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000109391&bylNo=&bylBrNo=",
         "resolve_method": "html",
         "source_provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#DOC",
         "target_unit": "BJ0003",
@@ -204,7 +204,7 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111383",
-        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000108865&bylNo=&bylBrNo=",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000109391&bylNo=&bylBrNo=",
         "resolve_method": "html",
         "source_provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#DOC",
         "target_unit": "BJ0001",
@@ -221,10 +221,10 @@
       "content": "부   칙(1998. 4. 28. 제353호)①이 예규는 1998. 5. 20.일부터 시행한다.②이 예규 시행당시 종전의 규정에 의하여 인쇄된 양식은 이를 적절히 변경하여 계속 사용할 수 있다.",
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108865",
+      "source_mst": "2200000109391",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261022"
     },
     {
       "promulgation_date": "20010530",
@@ -232,10 +232,10 @@
       "content": "부  칙(2001. 5. 30. 제448호)1. 이 예규는2001. 7. 1.부터 시행한다.2. 별지 문서양식 부록 제2호(사건관계)중 \"양식번호 2-19 송달증서\"의 양식목록 및 양식을 삭제한다.",
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108865",
+      "source_mst": "2200000109391",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261022"
     },
     {
       "promulgation_date": "20020620",
@@ -243,10 +243,10 @@
       "content": "부  칙(2002. 6. 20. 제480호)① 이 예규는 2002년 7월 1일부터 시행한다.② 이 예규 시행당시 종전의 규정에 의하여 이미 인쇄된 양식이 남아 있는 경우에는  이 예규에서 정한 문서양식의 취지에 맞게 이를 적절히 변경하여 사용할 수 있다.",
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108865",
+      "source_mst": "2200000109391",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261022"
     },
     {
       "promulgation_date": "20030709",
@@ -254,10 +254,10 @@
       "content": "부  칙(2003. 7. 9. 제512호)이 예규는 2003년 7월 9일부터 시행한다.",
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108865",
+      "source_mst": "2200000109391",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261022"
     },
     {
       "promulgation_date": "20031127",
@@ -265,10 +265,10 @@
       "content": "부  칙(2003. 11. 27. 제527호)이 예규는 2004년 1. 1.부터 시행한다.",
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108865",
+      "source_mst": "2200000109391",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261022"
     },
     {
       "promulgation_date": "20040903",
@@ -276,10 +276,10 @@
       "content": "부  칙(2004. 9. 3. 제556호)이 예규는 2004년 9. 1.부터 시행한다.",
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108865",
+      "source_mst": "2200000109391",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261022"
     },
     {
       "promulgation_date": "20070320",
@@ -287,10 +287,10 @@
       "content": "부  칙(2007. 3. 20. 제698호)이 예규는 2007.  3.  20.부터 시행한다.",
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108865",
+      "source_mst": "2200000109391",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261022"
     },
     {
       "promulgation_date": "20081230",
@@ -298,10 +298,10 @@
       "content": "부  칙(2008. 12. 30. 제788호)이 예규는 2008년 12월 30일부터 시행한다.",
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108865",
+      "source_mst": "2200000109391",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261022"
     },
     {
       "promulgation_date": "20140807",
@@ -309,10 +309,10 @@
       "content": "부  칙(2014. 8. 7. 제1023호)이 예규는 2014년 9월 1일부터 시행한다.",
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108865",
+      "source_mst": "2200000109391",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261022"
     },
     {
       "promulgation_date": "20170202",
@@ -320,10 +320,10 @@
       "content": "부    칙(2017. 2. 2. 제1113호)이 예규는 2017년 9월 1일부터 시행한다.",
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108865",
+      "source_mst": "2200000109391",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261022"
     },
     {
       "promulgation_date": "20191129",
@@ -331,10 +331,10 @@
       "content": "부    칙(2019. 11. 29. 제1200호)이 예규는 2019년 12월 1일부터 시행한다.",
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108865",
+      "source_mst": "2200000109391",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261022"
     },
     {
       "promulgation_date": "20240304",
@@ -342,10 +342,10 @@
       "content": "부    칙(2024. 3. 4. 제1871호) <자동차집행절차에 따라 인도받은 자동차 관리지침(재민2024-1) 제정예규>제1조(시행일) 이 예규는 즉시 시행한다.제2조(자동차의 인도 절차 등에 관한 적용례) 생략제3조(다른 예규의 개정) 집행관사무소에 비치할 각종 문서의 양식에 관한 예규 일부를 다음과 같이 개정한다.별지 2-20호 서식을 별지와 같이 한다.",
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108865",
+      "source_mst": "2200000109391",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261022"
     },
     {
       "promulgation_date": "20260709",
@@ -353,10 +353,21 @@
       "content": "부    칙(2026. 7. 9. 제1472호)이 예규는 즉시 시행한다.",
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108865",
+      "source_mst": "2200000109391",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261022"
+    },
+    {
+      "promulgation_date": "20261022",
+      "promulgation_no": "1478",
+      "content": "부    칙(2026. 10. 22. 제1478호)이 예규는 즉시 시행한다.",
+      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000109391",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261022"
     },
     {
       "promulgation_date": "99991231",
@@ -364,10 +375,10 @@
       "content": "부  칙① 이 예규는 1996. 1. 1.부터 시행한다.② 이 예규 시행당시 종전의 규정에 의하여 인쇄된 양식은 이를 적절히 변경하여 계속 사용할 수 있다. 다만, 부록 제1-5호 집행관수수료등 수납부는 그러하지 아니하다.",
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108865",
+      "source_mst": "2200000109391",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260709"
+      "version_enforcement_date": "20261022"
     }
   ],
   "appendices": [
@@ -380,11 +391,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988381",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860653",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988381",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860653",
           "name": "",
           "file_store_url": ""
         }
@@ -392,10 +403,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001",
       "appendix_duplicate_count": 9,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001:file:166988381",
-      "filename": "별지1_[별지 1] 1-9 문서수발부_flSeq166988381.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001:file:170860653",
+      "filename": "별지1_[별지 1] 1-9 문서수발부_flSeq170860653.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지1_[별지 1] 1-9 문서수발부_flSeq166988381.hwp",
+      "local_path": "별지/별지1_[별지 1] 1-9 문서수발부_flSeq170860653.hwp",
       "file_store_url": ""
     },
     {
@@ -407,11 +418,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988379",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860651",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988379",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860651",
           "name": "",
           "file_store_url": ""
         }
@@ -419,10 +430,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001",
       "appendix_duplicate_count": 9,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001:file:166988379",
-      "filename": "별지1_[별지 1] 1-8 기록출입부_flSeq166988379.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001:file:170860651",
+      "filename": "별지1_[별지 1] 1-8 기록출입부_flSeq170860651.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지1_[별지 1] 1-8 기록출입부_flSeq166988379.hwp",
+      "local_path": "별지/별지1_[별지 1] 1-8 기록출입부_flSeq170860651.hwp",
       "file_store_url": ""
     },
     {
@@ -434,11 +445,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988337",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860649",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988337",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860649",
           "name": "",
           "file_store_url": ""
         }
@@ -446,10 +457,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001",
       "appendix_duplicate_count": 9,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001:file:166988337",
-      "filename": "별지1_[별지 1] 1-7 사건기록보존부_flSeq166988337.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001:file:170860649",
+      "filename": "별지1_[별지 1] 1-7 사건기록보존부_flSeq170860649.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지1_[별지 1] 1-7 사건기록보존부_flSeq166988337.hwp",
+      "local_path": "별지/별지1_[별지 1] 1-7 사건기록보존부_flSeq170860649.hwp",
       "file_store_url": ""
     },
     {
@@ -461,11 +472,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988335",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860647",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988335",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860647",
           "name": "",
           "file_store_url": ""
         }
@@ -473,10 +484,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001",
       "appendix_duplicate_count": 9,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001:file:166988335",
-      "filename": "별지1_[별지 1] 1-6 부책보존부_flSeq166988335.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001:file:170860647",
+      "filename": "별지1_[별지 1] 1-6 부책보존부_flSeq170860647.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지1_[별지 1] 1-6 부책보존부_flSeq166988335.hwp",
+      "local_path": "별지/별지1_[별지 1] 1-6 부책보존부_flSeq170860647.hwp",
       "file_store_url": ""
     },
     {
@@ -488,11 +499,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988333",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860645",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988333",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860645",
           "name": "",
           "file_store_url": ""
         }
@@ -500,10 +511,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001",
       "appendix_duplicate_count": 9,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001:file:166988333",
-      "filename": "별지1_[별지 1] 1-5 집행관수수료등수납부_flSeq166988333.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001:file:170860645",
+      "filename": "별지1_[별지 1] 1-5 집행관수수료등수납부_flSeq170860645.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지1_[별지 1] 1-5 집행관수수료등수납부_flSeq166988333.hwp",
+      "local_path": "별지/별지1_[별지 1] 1-5 집행관수수료등수납부_flSeq170860645.hwp",
       "file_store_url": ""
     },
     {
@@ -515,11 +526,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988331",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860643",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988331",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860643",
           "name": "",
           "file_store_url": ""
         }
@@ -527,10 +538,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001",
       "appendix_duplicate_count": 9,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001:file:166988331",
-      "filename": "별지1_[별지 1] 1-4 송달부_flSeq166988331.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001:file:170860643",
+      "filename": "별지1_[별지 1] 1-4 송달부_flSeq170860643.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지1_[별지 1] 1-4 송달부_flSeq166988331.hwp",
+      "local_path": "별지/별지1_[별지 1] 1-4 송달부_flSeq170860643.hwp",
       "file_store_url": ""
     },
     {
@@ -542,11 +553,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988329",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860641",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988329",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860641",
           "name": "",
           "file_store_url": ""
         }
@@ -554,10 +565,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001",
       "appendix_duplicate_count": 9,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001:file:166988329",
-      "filename": "별지1_[별지 1] 1-3 부동산현황조사부_flSeq166988329.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001:file:170860641",
+      "filename": "별지1_[별지 1] 1-3 부동산현황조사부_flSeq170860641.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지1_[별지 1] 1-3 부동산현황조사부_flSeq166988329.hwp",
+      "local_path": "별지/별지1_[별지 1] 1-3 부동산현황조사부_flSeq170860641.hwp",
       "file_store_url": ""
     },
     {
@@ -569,11 +580,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988327",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860639",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988327",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860639",
           "name": "",
           "file_store_url": ""
         }
@@ -581,10 +592,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001",
       "appendix_duplicate_count": 9,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001:file:166988327",
-      "filename": "별지1_[별지 1] 1-2 징수명령부_flSeq166988327.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001:file:170860639",
+      "filename": "별지1_[별지 1] 1-2 징수명령부_flSeq170860639.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지1_[별지 1] 1-2 징수명령부_flSeq166988327.hwp",
+      "local_path": "별지/별지1_[별지 1] 1-2 징수명령부_flSeq170860639.hwp",
       "file_store_url": ""
     },
     {
@@ -596,11 +607,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988325",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860637",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988325",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860637",
           "name": "",
           "file_store_url": ""
         }
@@ -608,10 +619,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001",
       "appendix_duplicate_count": 9,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001:file:166988325",
-      "filename": "별지1_[별지 1] 1-1 압류가압류직무부_flSeq166988325.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0001:file:170860637",
+      "filename": "별지1_[별지 1] 1-1 압류가압류직무부_flSeq170860637.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지1_[별지 1] 1-1 압류가압류직무부_flSeq166988325.hwp",
+      "local_path": "별지/별지1_[별지 1] 1-1 압류가압류직무부_flSeq170860637.hwp",
       "file_store_url": ""
     },
     {
@@ -623,11 +634,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988455",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860727",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988455",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860727",
           "name": "",
           "file_store_url": ""
         }
@@ -635,10 +646,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988455",
-      "filename": "별지2_[별지 2] 2-35 유체동산가압류조서_flSeq166988455.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860727",
+      "filename": "별지2_[별지 2] 2-35 유체동산가압류조서_flSeq170860727.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-35 유체동산가압류조서_flSeq166988455.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-35 유체동산가압류조서_flSeq170860727.hwp",
       "file_store_url": ""
     },
     {
@@ -650,11 +661,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988457",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860729",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988457",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860729",
           "name": "",
           "file_store_url": ""
         }
@@ -662,10 +673,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988457",
-      "filename": "별지2_[별지 2] 2-36 고시_flSeq166988457.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860729",
+      "filename": "별지2_[별지 2] 2-36 고시_flSeq170860729.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-36 고시_flSeq166988457.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-36 고시_flSeq170860729.hwp",
       "file_store_url": ""
     },
     {
@@ -677,11 +688,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988459",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860731",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988459",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860731",
           "name": "",
           "file_store_url": ""
         }
@@ -689,10 +700,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988459",
-      "filename": "별지2_[별지 2] 2-37 유체동산호가경매공고_flSeq166988459.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860731",
+      "filename": "별지2_[별지 2] 2-37 유체동산호가경매공고_flSeq170860731.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-37 유체동산호가경매공고_flSeq166988459.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-37 유체동산호가경매공고_flSeq170860731.hwp",
       "file_store_url": ""
     },
     {
@@ -704,11 +715,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988461",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860733",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988461",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860733",
           "name": "",
           "file_store_url": ""
         }
@@ -716,10 +727,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988461",
-      "filename": "별지2_[별지 2] 2-38 인도집행통지서_flSeq166988461.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860733",
+      "filename": "별지2_[별지 2] 2-38 인도집행통지서_flSeq170860733.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-38 인도집행통지서_flSeq166988461.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-38 인도집행통지서_flSeq170860733.hwp",
       "file_store_url": ""
     },
     {
@@ -731,11 +742,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988463",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860735",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988463",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860735",
           "name": "",
           "file_store_url": ""
         }
@@ -743,10 +754,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988463",
-      "filename": "별지2_[별지 2] 2-39 통지서(압류취소)_flSeq166988463.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860735",
+      "filename": "별지2_[별지 2] 2-39 통지서(압류취소)_flSeq170860735.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-39 통지서(압류취소)_flSeq166988463.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-39 통지서(압류취소)_flSeq170860735.hwp",
       "file_store_url": ""
     },
     {
@@ -758,11 +769,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988451",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860723",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988451",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860723",
           "name": "",
           "file_store_url": ""
         }
@@ -770,10 +781,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988451",
-      "filename": "별지2_[별지 2] 2-33 경매목록_flSeq166988451.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860723",
+      "filename": "별지2_[별지 2] 2-33 경매목록_flSeq170860723.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-33 경매목록_flSeq166988451.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-33 경매목록_flSeq170860723.hwp",
       "file_store_url": ""
     },
     {
@@ -785,11 +796,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988449",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860721",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988449",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860721",
           "name": "",
           "file_store_url": ""
         }
@@ -797,10 +808,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988449",
-      "filename": "별지2_[별지 2] 2-32 유체동산호가경매조서_flSeq166988449.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860721",
+      "filename": "별지2_[별지 2] 2-32 유체동산호가경매조서_flSeq170860721.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-32 유체동산호가경매조서_flSeq166988449.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-32 유체동산호가경매조서_flSeq170860721.hwp",
       "file_store_url": ""
     },
     {
@@ -812,11 +823,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988447",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860719",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988447",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860719",
           "name": "",
           "file_store_url": ""
         }
@@ -824,10 +835,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988447",
-      "filename": "별지2_[별지 2] 2-31 압류물점검조서_flSeq166988447.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860719",
+      "filename": "별지2_[별지 2] 2-31 압류물점검조서_flSeq170860719.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-31 압류물점검조서_flSeq166988447.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-31 압류물점검조서_flSeq170860719.hwp",
       "file_store_url": ""
     },
     {
@@ -839,11 +850,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988445",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860717",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988445",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860717",
           "name": "",
           "file_store_url": ""
         }
@@ -851,10 +862,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988445",
-      "filename": "별지2_[별지 2] 2-30 압류물조치조서_flSeq166988445.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860717",
+      "filename": "별지2_[별지 2] 2-30 압류물조치조서_flSeq170860717.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-30 압류물조치조서_flSeq166988445.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-30 압류물조치조서_flSeq170860717.hwp",
       "file_store_url": ""
     },
     {
@@ -866,11 +877,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988443",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860715",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988443",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860715",
           "name": "",
           "file_store_url": ""
         }
@@ -878,10 +889,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988443",
-      "filename": "별지2_[별지 2] 2-29 압류물보관조서_flSeq166988443.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860715",
+      "filename": "별지2_[별지 2] 2-29 압류물보관조서_flSeq170860715.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-29 압류물보관조서_flSeq166988443.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-29 압류물보관조서_flSeq170860715.hwp",
       "file_store_url": ""
     },
     {
@@ -893,11 +904,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988441",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860713",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988441",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860713",
           "name": "",
           "file_store_url": ""
         }
@@ -905,10 +916,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988441",
-      "filename": "별지2_[별지 2] 2-28 유체동산압류집행불능조서_flSeq166988441.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860713",
+      "filename": "별지2_[별지 2] 2-28 유체동산압류집행불능조서_flSeq170860713.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-28 유체동산압류집행불능조서_flSeq166988441.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-28 유체동산압류집행불능조서_flSeq170860713.hwp",
       "file_store_url": ""
     },
     {
@@ -920,11 +931,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988439",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860711",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988439",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860711",
           "name": "",
           "file_store_url": ""
         }
@@ -932,10 +943,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988439",
-      "filename": "별지2_[별지 2] 2-27 압류목록_flSeq166988439.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860711",
+      "filename": "별지2_[별지 2] 2-27 압류목록_flSeq170860711.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-27 압류목록_flSeq166988439.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-27 압류목록_flSeq170860711.hwp",
       "file_store_url": ""
     },
     {
@@ -947,11 +958,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988465",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860737",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988465",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860737",
           "name": "",
           "file_store_url": ""
         }
@@ -959,10 +970,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988465",
-      "filename": "별지2_[별지 2] 2-40 동산경매기일통지서_flSeq166988465.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860737",
+      "filename": "별지2_[별지 2] 2-40 동산경매기일통지서_flSeq170860737.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-40 동산경매기일통지서_flSeq166988465.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-40 동산경매기일통지서_flSeq170860737.hwp",
       "file_store_url": ""
     },
     {
@@ -974,11 +985,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988491",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860763",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988491",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860763",
           "name": "",
           "file_store_url": ""
         }
@@ -986,10 +997,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988491",
-      "filename": "별지2_[별지 2] 2-53 수수료 및 여비 등 산정내역서_flSeq166988491.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860763",
+      "filename": "별지2_[별지 2] 2-53 수수료 및 여비 등 산정내역서_flSeq170860763.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-53 수수료 및 여비 등 산정내역서_flSeq166988491.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-53 수수료 및 여비 등 산정내역서_flSeq170860763.hwp",
       "file_store_url": ""
     },
     {
@@ -1001,11 +1012,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988489",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860761",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988489",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860761",
           "name": "",
           "file_store_url": ""
         }
@@ -1013,10 +1024,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988489",
-      "filename": "별지2_[별지 2] [양식 제2-52호] 고지서_flSeq166988489.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860761",
+      "filename": "별지2_[별지 2] [양식 제2-52호] 고지서_flSeq170860761.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] [양식 제2-52호] 고지서_flSeq166988489.hwp",
+      "local_path": "별지/별지2_[별지 2] [양식 제2-52호] 고지서_flSeq170860761.hwp",
       "file_store_url": ""
     },
     {
@@ -1028,11 +1039,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988487",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860759",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988487",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860759",
           "name": "",
           "file_store_url": ""
         }
@@ -1040,10 +1051,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988487",
-      "filename": "별지2_[별지 2] 2-51 발송송달보고서_flSeq166988487.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860759",
+      "filename": "별지2_[별지 2] 2-51 발송송달보고서_flSeq170860759.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-51 발송송달보고서_flSeq166988487.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-51 발송송달보고서_flSeq170860759.hwp",
       "file_store_url": ""
     },
     {
@@ -1055,11 +1066,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988485",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860757",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988485",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860757",
           "name": "",
           "file_store_url": ""
         }
@@ -1067,10 +1078,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988485",
-      "filename": "별지2_[별지 2] 2-50 알리는말씀_flSeq166988485.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860757",
+      "filename": "별지2_[별지 2] 2-50 알리는말씀_flSeq170860757.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-50 알리는말씀_flSeq166988485.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-50 알리는말씀_flSeq170860757.hwp",
       "file_store_url": ""
     },
     {
@@ -1082,11 +1093,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988483",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860755",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988483",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860755",
           "name": "",
           "file_store_url": ""
         }
@@ -1094,10 +1105,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988483",
-      "filename": "별지2_[별지 2] 2-49 공시서_flSeq166988483.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860755",
+      "filename": "별지2_[별지 2] 2-49 공시서_flSeq170860755.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-49 공시서_flSeq166988483.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-49 공시서_flSeq170860755.hwp",
       "file_store_url": ""
     },
     {
@@ -1109,11 +1120,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988481",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860753",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988481",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860753",
           "name": "",
           "file_store_url": ""
         }
@@ -1121,10 +1132,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988481",
-      "filename": "별지2_[별지 2] 2-48 미제사건보고서_flSeq166988481.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860753",
+      "filename": "별지2_[별지 2] 2-48 미제사건보고서_flSeq170860753.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-48 미제사건보고서_flSeq166988481.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-48 미제사건보고서_flSeq170860753.hwp",
       "file_store_url": ""
     },
     {
@@ -1136,11 +1147,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988479",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860751",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988479",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860751",
           "name": "",
           "file_store_url": ""
         }
@@ -1148,10 +1159,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988479",
-      "filename": "별지2_[별지 2] 2-47 영수증_flSeq166988479.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860751",
+      "filename": "별지2_[별지 2] 2-47 영수증_flSeq170860751.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-47 영수증_flSeq166988479.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-47 영수증_flSeq170860751.hwp",
       "file_store_url": ""
     },
     {
@@ -1163,11 +1174,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988477",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860749",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988477",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860749",
           "name": "",
           "file_store_url": ""
         }
@@ -1175,10 +1186,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988477",
-      "filename": "별지2_[별지 2] 2-46 통지서(집행관조치)_flSeq166988477.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860749",
+      "filename": "별지2_[별지 2] 2-46 통지서(집행관조치)_flSeq170860749.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-46 통지서(집행관조치)_flSeq166988477.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-46 통지서(집행관조치)_flSeq170860749.hwp",
       "file_store_url": ""
     },
     {
@@ -1190,11 +1201,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988475",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860747",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988475",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860747",
           "name": "",
           "file_store_url": ""
         }
@@ -1202,10 +1213,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988475",
-      "filename": "별지2_[별지 2] 2-45 인도집행종료통지서_flSeq166988475.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860747",
+      "filename": "별지2_[별지 2] 2-45 인도집행종료통지서_flSeq170860747.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-45 인도집행종료통지서_flSeq166988475.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-45 인도집행종료통지서_flSeq170860747.hwp",
       "file_store_url": ""
     },
     {
@@ -1217,11 +1228,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988473",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860745",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988473",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860745",
           "name": "",
           "file_store_url": ""
         }
@@ -1229,10 +1240,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988473",
-      "filename": "별지2_[별지 2] 2-44 채권매각조서_flSeq166988473.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860745",
+      "filename": "별지2_[별지 2] 2-44 채권매각조서_flSeq170860745.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-44 채권매각조서_flSeq166988473.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-44 채권매각조서_flSeq170860745.hwp",
       "file_store_url": ""
     },
     {
@@ -1244,11 +1255,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988471",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860743",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988471",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860743",
           "name": "",
           "file_store_url": ""
         }
@@ -1256,10 +1267,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988471",
-      "filename": "별지2_[별지 2] 2-43 사유신고서(공탁)_flSeq166988471.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860743",
+      "filename": "별지2_[별지 2] 2-43 사유신고서(공탁)_flSeq170860743.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-43 사유신고서(공탁)_flSeq166988471.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-43 사유신고서(공탁)_flSeq170860743.hwp",
       "file_store_url": ""
     },
     {
@@ -1271,11 +1282,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988469",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860741",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988469",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860741",
           "name": "",
           "file_store_url": ""
         }
@@ -1283,10 +1294,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988469",
-      "filename": "별지2_[별지 2] 2-42 배당계산서_flSeq166988469.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860741",
+      "filename": "별지2_[별지 2] 2-42 배당계산서_flSeq170860741.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-42 배당계산서_flSeq166988469.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-42 배당계산서_flSeq170860741.hwp",
       "file_store_url": ""
     },
     {
@@ -1298,11 +1309,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988467",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860739",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988467",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860739",
           "name": "",
           "file_store_url": ""
         }
@@ -1310,10 +1321,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988467",
-      "filename": "별지2_[별지 2] 2-41 배당협의기일통지서_flSeq166988467.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860739",
+      "filename": "별지2_[별지 2] 2-41 배당협의기일통지서_flSeq170860739.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-41 배당협의기일통지서_flSeq166988467.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-41 배당협의기일통지서_flSeq170860739.hwp",
       "file_store_url": ""
     },
     {
@@ -1325,11 +1336,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988437",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860709",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988437",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860709",
           "name": "",
           "file_store_url": ""
         }
@@ -1337,10 +1348,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988437",
-      "filename": "별지2_[별지 2] 2-26 유체동산압류조서_flSeq166988437.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860709",
+      "filename": "별지2_[별지 2] 2-26 유체동산압류조서_flSeq170860709.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-26 유체동산압류조서_flSeq166988437.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-26 유체동산압류조서_flSeq170860709.hwp",
       "file_store_url": ""
     },
     {
@@ -1352,11 +1363,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988409",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860681",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988409",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860681",
           "name": "",
           "file_store_url": ""
         }
@@ -1364,10 +1375,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988409",
-      "filename": "별지2_[별지 2] 2-12 부동산의 현황 및 점유관계 조사서_flSeq166988409.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860681",
+      "filename": "별지2_[별지 2] 2-12 부동산의 현황 및 점유관계 조사서_flSeq170860681.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-12 부동산의 현황 및 점유관계 조사서_flSeq166988409.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-12 부동산의 현황 및 점유관계 조사서_flSeq170860681.hwp",
       "file_store_url": ""
     },
     {
@@ -1379,11 +1390,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988407",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860679",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988407",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860679",
           "name": "",
           "file_store_url": ""
         }
@@ -1391,10 +1402,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988407",
-      "filename": "별지2_[별지 2] 2-11 부동산현황조사보고서_flSeq166988407.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860679",
+      "filename": "별지2_[별지 2] 2-11 부동산현황조사보고서_flSeq170860679.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-11 부동산현황조사보고서_flSeq166988407.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-11 부동산현황조사보고서_flSeq170860679.hwp",
       "file_store_url": ""
     },
     {
@@ -1406,11 +1417,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988405",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860677",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988405",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860677",
           "name": "",
           "file_store_url": ""
         }
@@ -1418,10 +1429,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988405",
-      "filename": "별지2_[별지 2] 2-10 기간입찰불능조서_flSeq166988405.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860677",
+      "filename": "별지2_[별지 2] 2-10 기간입찰불능조서_flSeq170860677.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-10 기간입찰불능조서_flSeq166988405.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-10 기간입찰불능조서_flSeq170860677.hwp",
       "file_store_url": ""
     },
     {
@@ -1433,11 +1444,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988403",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860675",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988403",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860675",
           "name": "",
           "file_store_url": ""
         }
@@ -1445,10 +1456,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988403",
-      "filename": "별지2_[별지 2] 2-9 기일입찰불능조서_flSeq166988403.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860675",
+      "filename": "별지2_[별지 2] 2-9 기일입찰불능조서_flSeq170860675.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-9 기일입찰불능조서_flSeq166988403.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-9 기일입찰불능조서_flSeq170860675.hwp",
       "file_store_url": ""
     },
     {
@@ -1460,11 +1471,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988401",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860673",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988401",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860673",
           "name": "",
           "file_store_url": ""
         }
@@ -1472,10 +1483,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988401",
-      "filename": "별지2_[별지 2] 2-8 호가경매불능조서_flSeq166988401.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860673",
+      "filename": "별지2_[별지 2] 2-8 호가경매불능조서_flSeq170860673.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-8 호가경매불능조서_flSeq166988401.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-8 호가경매불능조서_flSeq170860673.hwp",
       "file_store_url": ""
     },
     {
@@ -1487,11 +1498,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988399",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860671",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988399",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860671",
           "name": "",
           "file_store_url": ""
         }
@@ -1499,10 +1510,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988399",
-      "filename": "별지2_[별지 2] 2-7 기간입찰조서_flSeq166988399.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860671",
+      "filename": "별지2_[별지 2] 2-7 기간입찰조서_flSeq170860671.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-7 기간입찰조서_flSeq166988399.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-7 기간입찰조서_flSeq170860671.hwp",
       "file_store_url": ""
     },
     {
@@ -1514,11 +1525,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988397",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860669",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988397",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860669",
           "name": "",
           "file_store_url": ""
         }
@@ -1526,10 +1537,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988397",
-      "filename": "별지2_[별지 2] 2-6 기일입찰조서_flSeq166988397.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860669",
+      "filename": "별지2_[별지 2] 2-6 기일입찰조서_flSeq170860669.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-6 기일입찰조서_flSeq166988397.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-6 기일입찰조서_flSeq170860669.hwp",
       "file_store_url": ""
     },
     {
@@ -1541,11 +1552,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988395",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860667",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988395",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860667",
           "name": "",
           "file_store_url": ""
         }
@@ -1553,10 +1564,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988395",
-      "filename": "별지2_[별지 2] 2-5 매수신고인 성명과 신고가격 목록_flSeq166988395.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860667",
+      "filename": "별지2_[별지 2] 2-5 매수신고인 성명과 신고가격 목록_flSeq170860667.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-5 매수신고인 성명과 신고가격 목록_flSeq166988395.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-5 매수신고인 성명과 신고가격 목록_flSeq170860667.hwp",
       "file_store_url": ""
     },
     {
@@ -1568,11 +1579,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988393",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860665",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988393",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860665",
           "name": "",
           "file_store_url": ""
         }
@@ -1580,10 +1591,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988393",
-      "filename": "별지2_[별지 2] 2-4 호가경매조서_flSeq166988393.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860665",
+      "filename": "별지2_[별지 2] 2-4 호가경매조서_flSeq170860665.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-4 호가경매조서_flSeq166988393.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-4 호가경매조서_flSeq170860665.hwp",
       "file_store_url": ""
     },
     {
@@ -1595,11 +1606,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988391",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860663",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988391",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860663",
           "name": "",
           "file_store_url": ""
         }
@@ -1607,10 +1618,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988391",
-      "filename": "별지2_[별지 2] 2-3 부동산인도집행조서_flSeq166988391.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860663",
+      "filename": "별지2_[별지 2] 2-3 부동산인도집행조서_flSeq170860663.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-3 부동산인도집행조서_flSeq166988391.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-3 부동산인도집행조서_flSeq170860663.hwp",
       "file_store_url": ""
     },
     {
@@ -1622,11 +1633,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988389",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860661",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988389",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860661",
           "name": "",
           "file_store_url": ""
         }
@@ -1634,10 +1645,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988389",
-      "filename": "별지2_[별지 2] 2-2 집행사건기록표지_flSeq166988389.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860661",
+      "filename": "별지2_[별지 2] 2-2 집행사건기록표지_flSeq170860661.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-2 집행사건기록표지_flSeq166988389.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-2 집행사건기록표지_flSeq170860661.hwp",
       "file_store_url": ""
     },
     {
@@ -1649,11 +1660,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988387",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860659",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988387",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860659",
           "name": "",
           "file_store_url": ""
         }
@@ -1661,10 +1672,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988387",
-      "filename": "별지2_[별지 2] 목록_flSeq166988387.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860659",
+      "filename": "별지2_[별지 2] 목록_flSeq170860659.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 목록_flSeq166988387.hwp",
+      "local_path": "별지/별지2_[별지 2] 목록_flSeq170860659.hwp",
       "file_store_url": ""
     },
     {
@@ -1676,11 +1687,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988385",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860657",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988385",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860657",
           "name": "",
           "file_store_url": ""
         }
@@ -1688,10 +1699,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988385",
-      "filename": "별지2_[별지 2] 부록 제2호 문서양식(사건관계)_flSeq166988385.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860657",
+      "filename": "별지2_[별지 2] 부록 제2호 문서양식(사건관계)_flSeq170860657.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 부록 제2호 문서양식(사건관계)_flSeq166988385.hwp",
+      "local_path": "별지/별지2_[별지 2] 부록 제2호 문서양식(사건관계)_flSeq170860657.hwp",
       "file_store_url": ""
     },
     {
@@ -1703,11 +1714,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988411",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860683",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988411",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860683",
           "name": "",
           "file_store_url": ""
         }
@@ -1715,10 +1726,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988411",
-      "filename": "별지2_[별지 2] 2-13 임대차관계조사서_flSeq166988411.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860683",
+      "filename": "별지2_[별지 2] 2-13 임대차관계조사서_flSeq170860683.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-13 임대차관계조사서_flSeq166988411.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-13 임대차관계조사서_flSeq170860683.hwp",
       "file_store_url": ""
     },
     {
@@ -1730,11 +1741,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988435",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860707",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988435",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860707",
           "name": "",
           "file_store_url": ""
         }
@@ -1742,10 +1753,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988435",
-      "filename": "별지2_[별지 2] 2-25 통지서(취하·취소)_flSeq166988435.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860707",
+      "filename": "별지2_[별지 2] 2-25 통지서(취하·취소)_flSeq170860707.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-25 통지서(취하·취소)_flSeq166988435.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-25 통지서(취하·취소)_flSeq170860707.hwp",
       "file_store_url": ""
     },
     {
@@ -1757,11 +1768,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988433",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860705",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988433",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860705",
           "name": "",
           "file_store_url": ""
         }
@@ -1769,10 +1780,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988433",
-      "filename": "별지2_[별지 2] 2-24 통지서(일시정지·제한)_flSeq166988433.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860705",
+      "filename": "별지2_[별지 2] 2-24 통지서(일시정지·제한)_flSeq170860705.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-24 통지서(일시정지·제한)_flSeq166988433.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-24 통지서(일시정지·제한)_flSeq170860705.hwp",
       "file_store_url": ""
     },
     {
@@ -1784,11 +1795,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988431",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860703",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988431",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860703",
           "name": "",
           "file_store_url": ""
         }
@@ -1796,10 +1807,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988431",
-      "filename": "별지2_[별지 2] 2-23 자동차인도통지서_flSeq166988431.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860703",
+      "filename": "별지2_[별지 2] 2-23 자동차인도통지서_flSeq170860703.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-23 자동차인도통지서_flSeq166988431.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-23 자동차인도통지서_flSeq170860703.hwp",
       "file_store_url": ""
     },
     {
@@ -1811,11 +1822,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988429",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860701",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988429",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860701",
           "name": "",
           "file_store_url": ""
         }
@@ -1823,10 +1834,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988429",
-      "filename": "별지2_[별지 2] 2-22 변경신고서(자동차보관)_flSeq166988429.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860701",
+      "filename": "별지2_[별지 2] 2-22 변경신고서(자동차보관)_flSeq170860701.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-22 변경신고서(자동차보관)_flSeq166988429.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-22 변경신고서(자동차보관)_flSeq170860701.hwp",
       "file_store_url": ""
     },
     {
@@ -1838,11 +1849,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988427",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860699",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988427",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860699",
           "name": "",
           "file_store_url": ""
         }
@@ -1850,10 +1861,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988427",
-      "filename": "별지2_[별지 2] 2-21 자동차인도신고서_flSeq166988427.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860699",
+      "filename": "별지2_[별지 2] 2-21 자동차인도신고서_flSeq170860699.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-21 자동차인도신고서_flSeq166988427.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-21 자동차인도신고서_flSeq170860699.hwp",
       "file_store_url": ""
     },
     {
@@ -1865,11 +1876,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988425",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860697",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988425",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860697",
           "name": "",
           "file_store_url": ""
         }
@@ -1877,10 +1888,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988425",
-      "filename": "별지2_[별지 2] 2-20 자동차인수신고서_flSeq166988425.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860697",
+      "filename": "별지2_[별지 2] 2-20 자동차인수신고서_flSeq170860697.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-20 자동차인수신고서_flSeq166988425.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-20 자동차인수신고서_flSeq170860697.hwp",
       "file_store_url": ""
     },
     {
@@ -1892,11 +1903,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988423",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860695",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988423",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860695",
           "name": "",
           "file_store_url": ""
         }
@@ -1904,10 +1915,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988423",
-      "filename": "별지2_[별지 2] 2-19 자동차감정평가서_flSeq166988423.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860695",
+      "filename": "별지2_[별지 2] 2-19 자동차감정평가서_flSeq170860695.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-19 자동차감정평가서_flSeq166988423.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-19 자동차감정평가서_flSeq170860695.hwp",
       "file_store_url": ""
     },
     {
@@ -1919,11 +1930,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988413",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860685",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988413",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860685",
           "name": "",
           "file_store_url": ""
         }
@@ -1931,10 +1942,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988413",
-      "filename": "별지2_[별지 2] 2-14 미등기건물현상조사보고서_flSeq166988413.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860685",
+      "filename": "별지2_[별지 2] 2-14 미등기건물현상조사보고서_flSeq170860685.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-14 미등기건물현상조사보고서_flSeq166988413.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-14 미등기건물현상조사보고서_flSeq170860685.hwp",
       "file_store_url": ""
     },
     {
@@ -1946,11 +1957,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988415",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860687",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988415",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860687",
           "name": "",
           "file_store_url": ""
         }
@@ -1958,10 +1969,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988415",
-      "filename": "별지2_[별지 2] 2-15 선박현황조사보고서_flSeq166988415.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860687",
+      "filename": "별지2_[별지 2] 2-15 선박현황조사보고서_flSeq170860687.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-15 선박현황조사보고서_flSeq166988415.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-15 선박현황조사보고서_flSeq170860687.hwp",
       "file_store_url": ""
     },
     {
@@ -1973,11 +1984,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988417",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860689",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988417",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860689",
           "name": "",
           "file_store_url": ""
         }
@@ -1985,10 +1996,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988417",
-      "filename": "별지2_[별지 2] 2-16 선박의 현황 및 점유관계 조사서_flSeq166988417.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860689",
+      "filename": "별지2_[별지 2] 2-16 선박의 현황 및 점유관계 조사서_flSeq170860689.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-16 선박의 현황 및 점유관계 조사서_flSeq166988417.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-16 선박의 현황 및 점유관계 조사서_flSeq170860689.hwp",
       "file_store_url": ""
     },
     {
@@ -2000,11 +2011,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988419",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860691",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988419",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860691",
           "name": "",
           "file_store_url": ""
         }
@@ -2012,10 +2023,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988419",
-      "filename": "별지2_[별지 2] 2-17 사유신고서(선박)_flSeq166988419.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860691",
+      "filename": "별지2_[별지 2] 2-17 사유신고서(선박)_flSeq170860691.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-17 사유신고서(선박)_flSeq166988419.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-17 사유신고서(선박)_flSeq170860691.hwp",
       "file_store_url": ""
     },
     {
@@ -2027,11 +2038,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988421",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860693",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988421",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860693",
           "name": "",
           "file_store_url": ""
         }
@@ -2039,361 +2050,10 @@
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002",
       "appendix_duplicate_count": 53,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:166988421",
-      "filename": "별지2_[별지 2] 2-18 자동차매각조서_flSeq166988421.hwp",
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0002:file:170860693",
+      "filename": "별지2_[별지 2] 2-18 자동차매각조서_flSeq170860693.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지2_[별지 2] 2-18 자동차매각조서_flSeq166988421.hwp",
-      "file_store_url": ""
-    },
-    {
-      "no": "0003",
-      "branch": "00",
-      "kind": "별지",
-      "title": "[별지 3] 3-14 집행 속행 신청서",
-      "enforcement_date": "",
-      "content": "",
-      "is_file_only": true,
-      "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988527",
-      "files": [
-        {
-          "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988527",
-          "name": "",
-          "file_store_url": ""
-        }
-      ],
-      "images": [],
-      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988527",
-      "filename": "별지3_[별지 3] 3-14 집행 속행 신청서_flSeq166988527.hwp",
-      "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-14 집행 속행 신청서_flSeq166988527.hwp",
-      "file_store_url": ""
-    },
-    {
-      "no": "0003",
-      "branch": "00",
-      "kind": "별지",
-      "title": "[별지 3] 3-13 감정 장소 약도",
-      "enforcement_date": "",
-      "content": "",
-      "is_file_only": true,
-      "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988525",
-      "files": [
-        {
-          "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988525",
-          "name": "",
-          "file_store_url": ""
-        }
-      ],
-      "images": [],
-      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988525",
-      "filename": "별지3_[별지 3] 3-13 감정 장소 약도_flSeq166988525.hwp",
-      "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-13 감정 장소 약도_flSeq166988525.hwp",
-      "file_store_url": ""
-    },
-    {
-      "no": "0003",
-      "branch": "00",
-      "kind": "별지",
-      "title": "[별지 3] 3-12 이해 관계 진술서",
-      "enforcement_date": "",
-      "content": "",
-      "is_file_only": true,
-      "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988523",
-      "files": [
-        {
-          "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988523",
-          "name": "",
-          "file_store_url": ""
-        }
-      ],
-      "images": [],
-      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988523",
-      "filename": "별지3_[별지 3] 3-12 이해 관계 진술서_flSeq166988523.hwp",
-      "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-12 이해 관계 진술서_flSeq166988523.hwp",
-      "file_store_url": ""
-    },
-    {
-      "no": "0003",
-      "branch": "00",
-      "kind": "별지",
-      "title": "[별지 3] 3-11 집행정지·집행취소 신청서",
-      "enforcement_date": "",
-      "content": "",
-      "is_file_only": true,
-      "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988521",
-      "files": [
-        {
-          "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988521",
-          "name": "",
-          "file_store_url": ""
-        }
-      ],
-      "images": [],
-      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988521",
-      "filename": "별지3_[별지 3] 3-11 집행정지·집행취소 신청서_flSeq166988521.hwp",
-      "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-11 집행정지·집행취소 신청서_flSeq166988521.hwp",
-      "file_store_url": ""
-    },
-    {
-      "no": "0003",
-      "branch": "00",
-      "kind": "별지",
-      "title": "[별지 3] 3-10 감축신청서",
-      "enforcement_date": "",
-      "content": "",
-      "is_file_only": true,
-      "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988519",
-      "files": [
-        {
-          "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988519",
-          "name": "",
-          "file_store_url": ""
-        }
-      ],
-      "images": [],
-      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988519",
-      "filename": "별지3_[별지 3] 3-10 감축신청서_flSeq166988519.hwp",
-      "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-10 감축신청서_flSeq166988519.hwp",
-      "file_store_url": ""
-    },
-    {
-      "no": "0003",
-      "branch": "00",
-      "kind": "별지",
-      "title": "[별지 3] 3-16 임의변제신청서",
-      "enforcement_date": "",
-      "content": "",
-      "is_file_only": true,
-      "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988531",
-      "files": [
-        {
-          "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988531",
-          "name": "",
-          "file_store_url": ""
-        }
-      ],
-      "images": [],
-      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988531",
-      "filename": "별지3_[별지 3] 3-16 임의변제신청서_flSeq166988531.hwp",
-      "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-16 임의변제신청서_flSeq166988531.hwp",
-      "file_store_url": ""
-    },
-    {
-      "no": "0003",
-      "branch": "00",
-      "kind": "별지",
-      "title": "[별지 3] 3-17 기일입찰표",
-      "enforcement_date": "",
-      "content": "",
-      "is_file_only": true,
-      "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988533",
-      "files": [
-        {
-          "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988533",
-          "name": "",
-          "file_store_url": ""
-        }
-      ],
-      "images": [],
-      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988533",
-      "filename": "별지3_[별지 3] 3-17 기일입찰표_flSeq166988533.hwp",
-      "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-17 기일입찰표_flSeq166988533.hwp",
-      "file_store_url": ""
-    },
-    {
-      "no": "0003",
-      "branch": "00",
-      "kind": "별지",
-      "title": "[별지 3] 3-17 기일입찰표",
-      "enforcement_date": "",
-      "content": "",
-      "is_file_only": true,
-      "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988535",
-      "files": [
-        {
-          "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988535",
-          "name": "",
-          "file_store_url": ""
-        }
-      ],
-      "images": [],
-      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988535",
-      "filename": "별지3_[별지 3] 3-17 기일입찰표_flSeq166988535.hwp",
-      "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-17 기일입찰표_flSeq166988535.hwp",
-      "file_store_url": ""
-    },
-    {
-      "no": "0003",
-      "branch": "00",
-      "kind": "별지",
-      "title": "[별지 3] 3-18 기간입찰표",
-      "enforcement_date": "",
-      "content": "",
-      "is_file_only": true,
-      "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988537",
-      "files": [
-        {
-          "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988537",
-          "name": "",
-          "file_store_url": ""
-        }
-      ],
-      "images": [],
-      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988537",
-      "filename": "별지3_[별지 3] 3-18 기간입찰표_flSeq166988537.hwp",
-      "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-18 기간입찰표_flSeq166988537.hwp",
-      "file_store_url": ""
-    },
-    {
-      "no": "0003",
-      "branch": "00",
-      "kind": "별지",
-      "title": "[별지 3] 3-18 기간입찰표",
-      "enforcement_date": "",
-      "content": "",
-      "is_file_only": true,
-      "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988539",
-      "files": [
-        {
-          "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988539",
-          "name": "",
-          "file_store_url": ""
-        }
-      ],
-      "images": [],
-      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988539",
-      "filename": "별지3_[별지 3] 3-18 기간입찰표_flSeq166988539.hwp",
-      "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-18 기간입찰표_flSeq166988539.hwp",
-      "file_store_url": ""
-    },
-    {
-      "no": "0003",
-      "branch": "00",
-      "kind": "별지",
-      "title": "[별지 3] 3-20 공동입찰자목록",
-      "enforcement_date": "",
-      "content": "",
-      "is_file_only": true,
-      "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988543",
-      "files": [
-        {
-          "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988543",
-          "name": "",
-          "file_store_url": ""
-        }
-      ],
-      "images": [],
-      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988543",
-      "filename": "별지3_[별지 3] 3-20 공동입찰자목록_flSeq166988543.hwp",
-      "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-20 공동입찰자목록_flSeq166988543.hwp",
-      "file_store_url": ""
-    },
-    {
-      "no": "0003",
-      "branch": "00",
-      "kind": "별지",
-      "title": "[별지 3] 3-19 공동입찰신고서",
-      "enforcement_date": "",
-      "content": "",
-      "is_file_only": true,
-      "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988541",
-      "files": [
-        {
-          "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988541",
-          "name": "",
-          "file_store_url": ""
-        }
-      ],
-      "images": [],
-      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988541",
-      "filename": "별지3_[별지 3] 3-19 공동입찰신고서_flSeq166988541.hwp",
-      "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-19 공동입찰신고서_flSeq166988541.hwp",
-      "file_store_url": ""
-    },
-    {
-      "no": "0003",
-      "branch": "00",
-      "kind": "별지",
-      "title": "[별지 3] 3-9 증명원",
-      "enforcement_date": "",
-      "content": "",
-      "is_file_only": true,
-      "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988517",
-      "files": [
-        {
-          "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988517",
-          "name": "",
-          "file_store_url": ""
-        }
-      ],
-      "images": [],
-      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988517",
-      "filename": "별지3_[별지 3] 3-9 증명원_flSeq166988517.hwp",
-      "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-9 증명원_flSeq166988517.hwp",
+      "local_path": "별지/별지2_[별지 2] 2-18 자동차매각조서_flSeq170860693.hwp",
       "file_store_url": ""
     },
     {
@@ -2405,211 +2065,238 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988515",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860787",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988515",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860787",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988515",
-      "filename": "별지3_[별지 3] 3-8 해임신청서_flSeq166988515.hwp",
+      "appendix_duplicate_count": 17,
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:170860787",
+      "filename": "별지3_[별지 3] 3-8 해임신청서_flSeq170860787.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-8 해임신청서_flSeq166988515.hwp",
+      "local_path": "별지/별지3_[별지 3] 3-8 해임신청서_flSeq170860787.hwp",
       "file_store_url": ""
     },
     {
       "no": "0003",
       "branch": "00",
       "kind": "별지",
-      "title": "[별지 3] 목록",
+      "title": "[별지 3] 3-9 증명원",
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988495",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860789",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988495",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860789",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988495",
-      "filename": "별지3_[별지 3] 목록_flSeq166988495.hwp",
+      "appendix_duplicate_count": 17,
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:170860789",
+      "filename": "별지3_[별지 3] 3-9 증명원_flSeq170860789.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 목록_flSeq166988495.hwp",
+      "local_path": "별지/별지3_[별지 3] 3-9 증명원_flSeq170860789.hwp",
       "file_store_url": ""
     },
     {
       "no": "0003",
       "branch": "00",
       "kind": "별지",
-      "title": "[별지 3] [양식 제3-1호] 강제집행신청서",
+      "title": "[별지 3] 3-10 감축신청서",
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988497",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860791",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988497",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860791",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988497",
-      "filename": "별지3_[별지 3] [양식 제3-1호] 강제집행신청서_flSeq166988497.hwp",
+      "appendix_duplicate_count": 17,
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:170860791",
+      "filename": "별지3_[별지 3] 3-10 감축신청서_flSeq170860791.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] [양식 제3-1호] 강제집행신청서_flSeq166988497.hwp",
+      "local_path": "별지/별지3_[별지 3] 3-10 감축신청서_flSeq170860791.hwp",
       "file_store_url": ""
     },
     {
       "no": "0003",
       "branch": "00",
       "kind": "별지",
-      "title": "[별지 3] 부록 제3호 문서양식(민원신청관계)",
+      "title": "[별지 3] 3-11 집행정지·집행취소 신청서",
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988493",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860793",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988493",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860793",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988493",
-      "filename": "별지3_[별지 3] 부록 제3호 문서양식(민원신청관계)_flSeq166988493.hwp",
+      "appendix_duplicate_count": 17,
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:170860793",
+      "filename": "별지3_[별지 3] 3-11 집행정지·집행취소 신청서_flSeq170860793.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 부록 제3호 문서양식(민원신청관계)_flSeq166988493.hwp",
+      "local_path": "별지/별지3_[별지 3] 3-11 집행정지·집행취소 신청서_flSeq170860793.hwp",
       "file_store_url": ""
     },
     {
       "no": "0003",
       "branch": "00",
       "kind": "별지",
-      "title": "[별지 3] 3-2 강제집행신청 취하서 등",
+      "title": "[별지 3] 3-12 이해 관계 진술서",
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988503",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860795",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988503",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860795",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988503",
-      "filename": "별지3_[별지 3] 3-2 강제집행신청 취하서 등_flSeq166988503.hwp",
+      "appendix_duplicate_count": 17,
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:170860795",
+      "filename": "별지3_[별지 3] 3-12 이해 관계 진술서_flSeq170860795.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-2 강제집행신청 취하서 등_flSeq166988503.hwp",
+      "local_path": "별지/별지3_[별지 3] 3-12 이해 관계 진술서_flSeq170860795.hwp",
       "file_store_url": ""
     },
     {
       "no": "0003",
       "branch": "00",
       "kind": "별지",
-      "title": "[별지 3] 3-3 강제집행 진행에 관한 신청서",
+      "title": "[별지 3] 3-13 감정 장소 약도",
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988505",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860797",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988505",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860797",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988505",
-      "filename": "별지3_[별지 3] 3-3 강제집행 진행에 관한 신청서_flSeq166988505.hwp",
+      "appendix_duplicate_count": 17,
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:170860797",
+      "filename": "별지3_[별지 3] 3-13 감정 장소 약도_flSeq170860797.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-3 강제집행 진행에 관한 신청서_flSeq166988505.hwp",
+      "local_path": "별지/별지3_[별지 3] 3-13 감정 장소 약도_flSeq170860797.hwp",
       "file_store_url": ""
     },
     {
       "no": "0003",
       "branch": "00",
       "kind": "별지",
-      "title": "[별지 3] 3-4 위임장",
+      "title": "[별지 3] 3-14 집행 속행 신청서",
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988507",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860799",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988507",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860799",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988507",
-      "filename": "별지3_[별지 3] 3-4 위임장_flSeq166988507.hwp",
+      "appendix_duplicate_count": 17,
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:170860799",
+      "filename": "별지3_[별지 3] 3-14 집행 속행 신청서_flSeq170860799.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-4 위임장_flSeq166988507.hwp",
+      "local_path": "별지/별지3_[별지 3] 3-14 집행 속행 신청서_flSeq170860799.hwp",
       "file_store_url": ""
     },
     {
       "no": "0003",
       "branch": "00",
       "kind": "별지",
-      "title": "[별지 3] 3-5 집행조서등본신청서",
+      "title": "[별지 3] 3-16 임의변제신청서",
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988509",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860803",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988509",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860803",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988509",
-      "filename": "별지3_[별지 3] 3-5 집행조서등본신청서_flSeq166988509.hwp",
+      "appendix_duplicate_count": 17,
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:170860803",
+      "filename": "별지3_[별지 3] 3-16 임의변제신청서_flSeq170860803.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-5 집행조서등본신청서_flSeq166988509.hwp",
+      "local_path": "별지/별지3_[별지 3] 3-16 임의변제신청서_flSeq170860803.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지 3] 3-15 배우자 배당요구 신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860801",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860801",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
+      "appendix_duplicate_count": 17,
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:170860801",
+      "filename": "별지3_[별지 3] 3-15 배우자 배당요구 신청서_flSeq170860801.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지3_[별지 3] 3-15 배우자 배당요구 신청서_flSeq170860801.hwp",
       "file_store_url": ""
     },
     {
@@ -2621,49 +2308,211 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988511",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860783",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988511",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860783",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988511",
-      "filename": "별지3_[별지 3] 3-6 강제 집행 추가 위임장_flSeq166988511.hwp",
+      "appendix_duplicate_count": 17,
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:170860783",
+      "filename": "별지3_[별지 3] 3-6 강제 집행 추가 위임장_flSeq170860783.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-6 강제 집행 추가 위임장_flSeq166988511.hwp",
+      "local_path": "별지/별지3_[별지 3] 3-6 강제 집행 추가 위임장_flSeq170860783.hwp",
       "file_store_url": ""
     },
     {
       "no": "0003",
       "branch": "00",
       "kind": "별지",
-      "title": "[별지 3] 3-7 매각 촉구 신청서",
+      "title": "[별지 3] 3-5 집행조서등본신청서",
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988513",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860781",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166988513",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860781",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
-      "appendix_duplicate_count": 23,
-      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:166988513",
-      "filename": "별지3_[별지 3] 3-7 매각 촉구 신청서_flSeq166988513.hwp",
+      "appendix_duplicate_count": 17,
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:170860781",
+      "filename": "별지3_[별지 3] 3-5 집행조서등본신청서_flSeq170860781.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 3-7 매각 촉구 신청서_flSeq166988513.hwp",
+      "local_path": "별지/별지3_[별지 3] 3-5 집행조서등본신청서_flSeq170860781.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지 3] 3-4 위임장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860779",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860779",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
+      "appendix_duplicate_count": 17,
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:170860779",
+      "filename": "별지3_[별지 3] 3-4 위임장_flSeq170860779.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지3_[별지 3] 3-4 위임장_flSeq170860779.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지 3] 3-3 강제집행 진행에 관한 신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860777",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860777",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
+      "appendix_duplicate_count": 17,
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:170860777",
+      "filename": "별지3_[별지 3] 3-3 강제집행 진행에 관한 신청서_flSeq170860777.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지3_[별지 3] 3-3 강제집행 진행에 관한 신청서_flSeq170860777.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지 3] 3-2 강제집행신청 취하서 등",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860775",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860775",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
+      "appendix_duplicate_count": 17,
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:170860775",
+      "filename": "별지3_[별지 3] 3-2 강제집행신청 취하서 등_flSeq170860775.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지3_[별지 3] 3-2 강제집행신청 취하서 등_flSeq170860775.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지 3] 부록 제3호 문서양식(민원신청관계)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860765",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860765",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
+      "appendix_duplicate_count": 17,
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:170860765",
+      "filename": "별지3_[별지 3] 부록 제3호 문서양식(민원신청관계)_flSeq170860765.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지3_[별지 3] 부록 제3호 문서양식(민원신청관계)_flSeq170860765.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지 3] 목록",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860767",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860767",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
+      "appendix_duplicate_count": 17,
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:170860767",
+      "filename": "별지3_[별지 3] 목록_flSeq170860767.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지3_[별지 3] 목록_flSeq170860767.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지 3] [양식 제3-1호] 강제집행신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860769",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170860769",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003",
+      "appendix_duplicate_count": 17,
+      "appendix_instance_id": "admrul:집행관사무소에비치할각종문서의양식에관한예규#BJ0003:file:170860769",
+      "filename": "별지3_[별지 3] [양식 제3-1호] 강제집행신청서_flSeq170860769.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지3_[별지 3] [양식 제3-1호] 강제집행신청서_flSeq170860769.hwp",
       "file_store_url": ""
     }
   ],
@@ -2683,8 +2532,8 @@
     "unmatched_relations": 5,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 14,
-    "appendices_count": 85,
+    "addenda_count": 15,
+    "appendices_count": 79,
     "attachments_count": 0
   },
   "source": {
