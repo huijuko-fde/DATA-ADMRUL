@@ -1,17 +1,17 @@
 {
   "law_id": "96897",
-  "mst": "2100000278214",
+  "mst": "2100000287604",
   "law_name": "자율기구 국군사관학교창설추진팀 설치 및 운영에 관한 규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:96897",
-  "promulgation_no": "3159",
-  "promulgation_date": "20260422",
-  "enforcement_date": "20260422",
-  "revision_date": "20260422",
-  "revision_type": "제정",
+  "promulgation_no": "3222",
+  "promulgation_date": "20261022",
+  "enforcement_date": "20261022",
+  "revision_date": "20261022",
+  "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
@@ -19,24 +19,24 @@
     "담당자명": "이민행",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "자율기구 국군사관학교창설추진팀 설치 및 운영에 관한 규정",
-    "발령일자": "20260422",
+    "발령일자": "20261022",
     "행정규칙종류": "훈령",
-    "제개정구분코드": "200401",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "국방부",
     "전화번호": "02-748-6572",
-    "제개정구분명": "제정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "1290000",
-    "생성일자": "20260427",
+    "생성일자": "20261102",
     "행정규칙ID": "96897",
-    "시행일자": "20260422",
+    "시행일자": "20261022",
     "담당부서기관코드": "1291397",
-    "발령번호": "3159",
-    "행정규칙일련번호": "2100000278214",
+    "발령번호": "3222",
+    "행정규칙일련번호": "2100000287604",
     "상위부처명": "국방부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제정이유\n「정부조직관리지침」에 의거, 국군사관학교 창설 추진을 위한 정책의 수립ㆍ조정과 관련한 소관 사무를 신속하고 효과적으로 이행하여 그 성과의 창출을 뒷받침하기 위한 목적으로 국방부에 자율기구를 설치하고, 해당 기구의 구성 및 운영에 필요한 사항을 훈령으로서 정하려는 것임.\n◇ 주요내용\n가. 자율기구 조직의 설치와 운영에 필요한 사항을 정하려는 그 목적을 규정(제1조 목적)\n나. 행정안전부 안내에 따른 자율기구 설치요건, 그 소속 및 운영기간을 명시(제2조 조직의 설치)\n다. 자율기구의 주요 업무범위를 규정(제3조 기능)\n라. 조직의 구성 및 업무분장 관련 사항 등을 규정(제4조 조직의 구성 등)\n마. 필요시 타 기관으로부터 파견 또는 겸임 요청이 가능함을 규정(제5조 공무원 등의 파견 요청 등)\n바. 존속기한을 6개월로 규정(제6조 존속기한)",
+  "revision_reason": "◇ 개정이유\n「행정기관의 조직과 정원에 관한 통칙」 제29조의3에 따라 국방부에 설치한 자율기구 국군사관학교창설추진팀의 존속기한을 6개월 연장하고자 함.\n◇ 주요내용\n자율기구 국군사관학교창설추진팀의 존속기한을 기존 2026년 10월 21일까지에서 2027년 4월 21일까지로 6개월 연장함(제6조)",
   "body": {
     "format": "articles",
     "article_count": 6,
@@ -244,7 +244,7 @@
         "article_title": "존속기한",
         "chapter": "",
         "chapter_path": "",
-        "content": "제6조(존속기한) 이 훈령은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 훈령을 시행한 2026년 4월 22일 기준으로 법령이나 행정여건 등의 변화를 검토하여야 하는 6개월이 되는 시점(2026년 10월 21일까지를 말한다)까지 그 효력을 가진다.",
+        "content": "제6조(존속기한) 이 훈령은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 훈령을 시행한 2026년 10월 22일 기준으로 법령이나 행정여건 등의 변화를 검토하여야 하는 6개월이 되는 시점(2027년 4월 21일까지를 말한다)까지 그 효력을 가진다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -280,10 +280,21 @@
       "content": "부칙 <제3159호, 2026. 4. 22.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:자율기구국군사관학교창설추진팀설치및운영에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000278214",
+      "source_mst": "2100000287604",
       "source_version_uid": "",
-      "source_revision_type": "제정",
-      "version_enforcement_date": "20260422"
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261022"
+    },
+    {
+      "promulgation_date": "20261022",
+      "promulgation_no": "3222",
+      "content": "부칙 <제3222호, 2026. 10. 22.>이 훈령은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:자율기구국군사관학교창설추진팀설치및운영에관한규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000287604",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261022"
     }
   ],
   "appendices": [
@@ -296,17 +307,17 @@
       "content": "[별표]\n국군사관학교창설추진팀 공무원 정원표(제2조제3항 관련)\n\n총계                                                       7\n\n일반직 계                                                7\n\n4급\n\n서기관 또는 과학기술서기관                           1\n\n4급 또는 5급\n\n서기관ㆍ과학기술서기관ㆍ행정사무관ㆍ사서사무관ㆍ공   1\n업사무관ㆍ임업사무관ㆍ보건사무관ㆍ환경사무관ㆍ항공\n사무관ㆍ시설사무관ㆍ전산사무관 또는 방송통신사무관\n\n5급\n\n행정사무관ㆍ사서사무관ㆍ공업사무관ㆍ임업사무관ㆍ보   3\n건사무관ㆍ환경사무관ㆍ항공사무관ㆍ시설사무관ㆍ방재\n안전사무관ㆍ전산사무관ㆍ방송통신사무관 또는 기록연\n구관\n\n6급\n\n행정주사ㆍ사서주사ㆍ공업주사ㆍ임업주사ㆍ보건주사ㆍ   2\n환경주사ㆍ항공주사ㆍ시설주사ㆍ방재안전주사ㆍ전산주\n사ㆍ방송통신주사 또는 기록연구사\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163772371",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171084555",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163772367",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171084551",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163772371",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171084555",
           "name": "",
           "file_store_url": ""
         }
@@ -321,16 +332,16 @@
   ],
   "attachments": [
     {
-      "name": "「자율기구 국군사관학교창설추진팀 설치 및 운영에 관한 규정」 전문.hwp",
-      "url": "http://law.go.kr/flDownload.do?flSeq=163771149",
-      "filename": "「자율기구 국군사관학교창설추진팀 설치 및 운영에 관한 규정」 전문.hwp",
+      "name": "「자율기구 국군사관학교창설추진팀 설치 및 운영에 관한 규정」 전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=171084097",
+      "filename": "「자율기구 국군사관학교창설추진팀 설치 및 운영에 관한 규정」 전문.hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/「자율기구 국군사관학교창설추진팀 설치 및 운영에 관한 규정」 전문.hwp",
+      "local_path": "첨부파일/「자율기구 국군사관학교창설추진팀 설치 및 운영에 관한 규정」 전문.hwpx",
       "file_store_url": ""
     },
     {
       "name": "「자율기구 국군사관학교창설추진팀 설치 및 운영에 관한 규정」 전문.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=163771153",
+      "url": "http://law.go.kr/flDownload.do?flSeq=171084101",
       "filename": "「자율기구 국군사관학교창설추진팀 설치 및 운영에 관한 규정」 전문.pdf",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/「자율기구 국군사관학교창설추진팀 설치 및 운영에 관한 규정」 전문.pdf",
@@ -353,7 +364,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 1,
     "attachments_count": 2
   },
