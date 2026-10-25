@@ -1,16 +1,16 @@
 {
   "law_id": "83253",
-  "mst": "2100000277214",
+  "mst": "2100000287296",
   "law_name": "수소 안전관리기준 통합고시",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:83253",
-  "promulgation_no": "2025-61",
-  "promulgation_date": "20260408",
-  "enforcement_date": "20260414",
-  "revision_date": "20260408",
+  "promulgation_no": "2026-265",
+  "promulgation_date": "20261025",
+  "enforcement_date": "20261025",
+  "revision_date": "20261025",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,24 +19,24 @@
     "담당자명": "고건우",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "수소 안전관리기준 통합고시",
-    "발령일자": "20260408",
+    "발령일자": "20261025",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "기후에너지환경부",
-    "전화번호": "044-203-3985",
+    "전화번호": "044-201-7895",
     "제개정구분명": "일부개정",
     "소관부처코드": "1482000",
-    "생성일자": "20260414",
+    "생성일자": "20261028",
     "행정규칙ID": "83253",
-    "시행일자": "20260414",
+    "시행일자": "20261025",
     "담당부서기관코드": "1482316",
-    "발령번호": "2025-61",
-    "행정규칙일련번호": "2100000277214",
+    "발령번호": "2026-265",
+    "행정규칙일련번호": "2100000287296",
     "상위부처명": "기후에너지환경부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n○ 정부조직법 개정(‘25.10.1. 공포ㆍ시행)\n\n◇ 주요내용\n○ 정부조직법 개정에 따라 기관명칭(산업통상자원부 → 기후에너지환경부)을 변경",
+  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ 수소 관련 제도 운영 중 현장에서 도출된 문제점 해소 등을 위해 고시를 개정하려는 것임\n◇ 주요내용\n가. 수소용품의 자체검사(제12조)\n- 수소용품 자체검사 대상 기준을 현장 상황에 맞게 합리화하도록 개정\n* (자체검사 의무 면제) 별도 면제규정 없음 → 한국가스안전공사 사장이 정하는 주문생산 수소용품\n나. 결과조치(제28조)\n- 수소용품 수집검사 시 ‘적합’의 단서 조항과 ‘경미불량’의 판단 근거 규정이 유사하여 현장에서 구분이 모호함에 따라 적합기준 명확화를 위해 개정\n[그림]\n< 개정안 >\n\n",
   "body": {
     "format": "articles",
     "article_count": 31,
@@ -209,7 +209,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83253",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277214&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287296&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:수소안전관리기준통합고시#JO0003",
             "target_unit": "BJ0002",
@@ -484,7 +484,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83253",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163379529",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170944887",
             "resolve_method": "html",
             "source_provision_id": "admrul:수소안전관리기준통합고시#JO0009",
             "target_unit": "BJ0001",
@@ -561,7 +561,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83253",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163379535",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170944893",
             "resolve_method": "html",
             "source_provision_id": "admrul:수소안전관리기준통합고시#JO0010",
             "target_unit": "BJ0002",
@@ -638,7 +638,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83253",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277214&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287296&bylNo=&bylBrNo=",
             "resolve_method": "html",
             "source_provision_id": "admrul:수소안전관리기준통합고시#JO0011",
             "target_unit": "BJ0002",
@@ -655,7 +655,7 @@
         "article_title": "수소용품의 자체검사",
         "chapter": "제2장 안전관리규정의 작성ㆍ심사 및 확인ㆍ평가 기준",
         "chapter_path": "제2장 안전관리규정의 작성ㆍ심사 및 확인ㆍ평가 기준",
-        "content": "제12조(수소용품의 자체검사) ① 수소용품 제조사업자는 그가 제조한 각각의 수소용품에 대하여 자체검사를 실시한 후 자체검사 표시를 해야 하며, 그 검사기록을 해당 수소용품의 품질보증기간까지 보존해야 한다.1. 수소용품의 종류마다 1개씩 연 1회 이상 규칙 별표 1 제3호나목1)에 따른 설계단계검사 항목의 적합여부에 대하여 검사한다. 다만 자체적으로 검사를 실시하기가 불가능한 검사항목은 한국가스안전공사, 검사기관 또는 「국가표준기본법」에 따른 해당 공인시험ㆍ검사기관에 의뢰하여 검사할 수 있다.2. 모든 수소용품에 대하여 규칙 별표 1 제3호나목2)에 따른 생산단계검사 항목의 적합여부에 대하여 검사한다.3. 자체검사표는 규칙 별표 1 제3호나목 제품 검사기준에 준하여 작성한다.② 제1항에 따른 자체검사결과 부적합하다고 판정된 사항에 다하여는 즉시 개선 조치해야 한다.",
+        "content": "제12조(수소용품의 자체검사) ① 수소용품 제조사업자는 그가 제조한 각각의 수소용품에 대하여 자체검사를 실시한다. 다만, 수요자의 주문에 따라 제조하는 수소용품 중 자체검사 실시가 곤란하다고 한국가스안전공사가 인정하는 수소용품에 대해서는 자체검사를 생략할 수 있다.1. 수소용품의 종류마다 1개씩 연 1회 이상 규칙 별표 1 제3호나목1)에 따른 설계단계검사 항목의 적합여부에 대하여 검사한다. 다만, 자체적으로 검사를 실시하기가 불가능한 검사항목은 한국가스안전공사, 검사기관 또는 「국가표준기본법」에 따른 해당 공인시험ㆍ검사기관에 의뢰하여 검사할 수 있다.2. 모든 수소용품에 대하여 규칙 별표 1 제3호나목2)에 따른 생산단계검사 항목의 적합여부에 대하여 검사한다.3. 자체검사표는 규칙 별표 1 제3호나목 제품 검사기준에 준하여 작성한다.② 수소용품 제조사업자는 자체검사 결과를 기록하고, 그 기록을 해당 수소용품의 품질보증기간까지 보존해야 한다.③ 제1항에 따른 자체검사결과 부적합하다고 판정된 사항에 대하여는 즉시 개선 조치해야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -853,7 +853,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83253",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163379529",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170944887",
             "resolve_method": "html",
             "source_provision_id": "admrul:수소안전관리기준통합고시#JO0014",
             "target_unit": "BJ0001",
@@ -878,7 +878,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "83253",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163379535",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170944893",
             "resolve_method": "html",
             "source_provision_id": "admrul:수소안전관리기준통합고시#JO0014",
             "target_unit": "BJ0002",
@@ -1498,8 +1498,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163379521",
-            "seq": "163379521",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170942537",
+            "seq": "170942537",
             "filename": "제28조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제28조_1.gif",
@@ -1592,10 +1592,21 @@
       "content": "부칙 <제2022-95호, 2022. 5. 26.>이 고시는 고시한 날부터 시행한다.",
       "provision_id": "admrul:수소안전관리기준통합고시#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000277214",
+      "source_mst": "2100000287296",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260414"
+      "version_enforcement_date": "20261025"
+    },
+    {
+      "promulgation_date": "20261025",
+      "promulgation_no": "2026-265",
+      "content": "부칙 <제2026-265호, 2026. 10. 25.>(시행일) 이 고시는 고시한 날부터 시행한다. 다만, 제12조제1항의 개정고시는 고시한 날부터 3개월이 경과한 날부터 시행한다.",
+      "provision_id": "admrul:수소안전관리기준통합고시#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000287296",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261025"
     }
   ],
   "appendices": [
@@ -1608,17 +1619,17 @@
       "content": "[별지 제1호서식]\n\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃제      호                                                                            ┃\n┃안전관리규정 심사의견서                                                               ┃\n┠───────────┬───────────────────────────────┨\n┃상      호 (법 인 명) │                                                              ┃\n┠───────────┼┬───────┬──────────────────────┨\n┃ 성      명 (대 표 자)││사 업 의 종 류│                                            ┃\n┠───────────┼┴───────┴──────────────────────┨\n┃사 무 소 소 재 지     │                                                              ┃\n┠───────────┼───────────────────────────────┨\n┃사 업 소 소 재 지     │                                                              ┃\n┠───────────┴───────────────────────────────┨\n┃  「수소경제 육성 및 수소 안전관리에 관한 법률」제41조에 따라 안전관리규정을 심사하고 ┃\n┃다음과 같이 심사결과 의견을 통보합니다.                                               ┃\n┃                                                                                      ┃\n┃                                                                                      ┃\n┃년     월     일                                                                      ┃\n┃                                                                                      ┃\n┃                  ┏━━┓                                                            ┃\n┃  한국가스안전공사┃직인┃                                                            ┃\n┃                  ┗━━┛                                                            ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃ 첨부서류 : 1. 날인표시 안전관리규정 2부.                                             ┃\n┃             2. 심사결과 1부.                                                         ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm(백상지 120g/㎡)\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163379529",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170944887",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163379525",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170944883",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163379529",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170944887",
           "name": "",
           "file_store_url": ""
         }
@@ -1639,17 +1650,17 @@
       "content": "[별지 제2호서식]\n\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃제      호                                                                          ┃\n┃안전관리규정 확인·평가결과 통지서                                                  ┃\n┠───────────┬──────────────────────────────┨\n┃상      호 (법 인 명) │                                                            ┃\n┠───────────┼┬───────┬─────────────────────┨\n┃ 성      명 (대 표 자)││사 업 의 종 류│                                          ┃\n┠───────────┼┴───────┴─────────────────────┨\n┃사 무 소 소 재 지     │                                                            ┃\n┠───────────┼──────────────────────────────┨\n┃사 업 소 소 재 지     │                                                            ┃\n┠───────────┼──────────────────────────────┨\n┃확 인 평 가 결 과     │                                                            ┃\n┠───────────┼──────────────────────────────┨\n┃확     인      자     │                                                            ┃\n┠───────────┼──────────────────────────────┨\n┃입     회      자     │                                                            ┃\n┠───────────┼──────────────────────────────┨\n┃확인평가결과요약      │                                                            ┃\n┠───────────┴──────────────────────────────┨\n┃  「수소경제 육성 및 수소 안전관리에 관한 법률」제41조제4항에 따라 안전관리규정의 확┃\n┃인·평가를 실시하였기에 통보합니다.                                                 ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┃년     월     일                                                                    ┃\n┃                                                                                    ┃\n┃                  ┏━━┓                                                          ┃\n┃  한국가스안전공사┃직인┃                                                          ┃\n┃                  ┗━━┛                                                          ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃ 첨부서류 : 확인·평가 결과 사본 1부.                                               ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm(백상지 120g/㎡)\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163379535",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170944893",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163379531",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170944889",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163379535",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170944893",
           "name": "",
           "file_store_url": ""
         }
@@ -1664,19 +1675,19 @@
   ],
   "attachments": [
     {
-      "name": "개정본문 (수소 안전관리기준 통합고시 일부개정고시안 20251125).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=163379515",
-      "filename": "개정본문 (수소 안전관리기준 통합고시 일부개정고시안 20251125).hwpx",
+      "name": "(전문) 수소 안전관리기준 통합고시.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170942303",
+      "filename": "(전문) 수소 안전관리기준 통합고시.hwp",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/개정본문 (수소 안전관리기준 통합고시 일부개정고시안 20251125).hwpx",
+      "local_path": "첨부파일/(전문) 수소 안전관리기준 통합고시.hwp",
       "file_store_url": ""
     },
     {
-      "name": "개정본문 (수소 안전관리기준 통합고시 일부개정고시안 20251125).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=163379519",
-      "filename": "개정본문 (수소 안전관리기준 통합고시 일부개정고시안 20251125).pdf",
+      "name": "(전문) 수소 안전관리기준 통합고시.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170942307",
+      "filename": "(전문) 수소 안전관리기준 통합고시.pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/개정본문 (수소 안전관리기준 통합고시 일부개정고시안 20251125).pdf",
+      "local_path": "첨부파일/(전문) 수소 안전관리기준 통합고시.pdf",
       "file_store_url": ""
     }
   ],
@@ -1698,7 +1709,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 2,
     "attachments_count": 2
   },
