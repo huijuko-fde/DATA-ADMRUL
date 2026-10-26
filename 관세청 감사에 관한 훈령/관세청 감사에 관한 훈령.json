@@ -1,25 +1,25 @@
 {
   "law_id": "37839",
-  "mst": "2100000276310",
+  "mst": "2100000287394",
   "law_name": "관세청 감사에 관한 훈령",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:37839",
-  "promulgation_no": "2454",
-  "promulgation_date": "20260324",
-  "enforcement_date": "20260324",
-  "revision_date": "20260324",
+  "promulgation_no": "2506",
+  "promulgation_date": "20261026",
+  "enforcement_date": "20261026",
+  "revision_date": "20261026",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "관세청(감사담당관)",
-    "담당자명": "백유선",
+    "담당자명": "윤상훈",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "관세청 감사에 관한 훈령",
-    "발령일자": "20260324",
+    "발령일자": "20261026",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "042-481-7732",
     "제개정구분명": "일부개정",
     "소관부처코드": "1220000",
-    "생성일자": "20260325",
+    "생성일자": "20261027",
     "행정규칙ID": "37839",
-    "시행일자": "20260324",
+    "시행일자": "20261026",
     "담당부서기관코드": "1221085",
-    "발령번호": "2454",
-    "행정규칙일련번호": "2100000276310",
+    "발령번호": "2506",
+    "행정규칙일련번호": "2100000287394",
     "상위부처명": "관세청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정 이유\n○ 세관부서에서 자율시정감사를 상시 운영할 수 있도록 관련 규정 정비\n○ 수의계약 대상 요건이 명확한 건을 일상감사 의뢰 대상에서 제외하여 업무 효율성을 제고하고 제외 건에 대한 내부통제 방안 마련\n◇ 주요 개정내용\n□ 세관부서의 자율시정 감사 상시 운영 근거 마련(제26조)\n○ 세관부서에서 주도적으로 자율시정감사를 상시 실시할 수 있도록 관련 규정 명확화\n□ 일상감사 의뢰 제외 대상 및 내부통제 방안 마련(제31조, 별지 제2의4)\n○ 「국가계약법 시행령」 수의계약 대상 중 그 대상 요건이 명확한 건을 일상감사 의뢰 대상에서 제외\n※ 「국가계약법 시행령」 제26조 수의계약 사유 중 대상 요건이 명확한 경우\n[그림]\n\n○ 「국가계약법 시행령」 수의계약 가능 금액을 반영하여 일상감사 대상 금액기준을 2천만원 이상에서 2천만원 초과로 변경\n○ 일상감사 의뢰 제외 사유 건에 대해 세관부서는 자체점검표를 작성ㆍ보관하고, 감사부서는 매년 정기점검 실시",
+  "revision_reason": "◇ 개정 이유\n○ 공무국외출장의 효율적 운영을 위하여 공무국외출장심사위원회의 심사 대상에 해당하지 않는 공무국외출장을 일상감사 대상에 추가\n○ 계약업무 관련 일상감사 의뢰 주체를 해당 계약을 총괄하여 추진하는 \"집행부서의 장\"으로 명확화\n◇ 주요 개정내용\n□ 일상감사 대상에 공무국외출장 추가(제31조, 제32조, 별지 제2의5)\n○ 일상감사 대상에 공무국외출장심사위원회의 심사 대상에 해당하지 않는 공무국외출장을 추가하고 그 의뢰 절차를 규정\n□ 일상감사 의뢰 주체 명확화(제32조)\n○ 계약의 필요성 검토, 예산 확보, 계약 대상 선정 등 계약 전반을 실제 수행하는 집행부서의 장이 일상감사를 의뢰하도록 명시",
   "body": {
     "format": "articles",
     "article_count": 55,
@@ -376,7 +376,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37839",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000276310&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287394&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감사에관한훈령#JO0007",
             "target_unit": "BYL0001",
@@ -667,7 +667,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37839",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810027",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922405",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감사에관한훈령#JO0018",
             "target_unit": "BJ0001",
@@ -1041,7 +1041,7 @@
         "article_title": "감사 대상",
         "chapter": "제4절 일상감사ㆍ사전컨설팅감사",
         "chapter_path": "제4장 감사실시 > 제4절 일상감사ㆍ사전컨설팅감사",
-        "content": "제31조(감사 대상) ① 일상감사의 대상은 다음 각 호와 같다.1. 추정가격이 건당 2천만원 초과인 수의계약 또는 지명경쟁입찰 계약. 다만, 다음 각 목의 사항은 제외하고, 이 경우 별지 제2호의4서식의 수의계약 자체점검표를 작성ㆍ보관하여야 한다.가. 단독응찰로 일반(제한) 경쟁입찰이 유찰된 후 수의계약으로 전환되어 단독응찰자와 계약하는 경우나. 추정가격이 2천만원 초과 1억원 이하인 계약으로서 여성기업ㆍ장애인기업ㆍ사회적기업ㆍ소기업ㆍ소상공인과 물품의 제조ㆍ구매ㆍ임차 또는 용역계약다. 해당물품을 제조ㆍ공급한 자가 직접 그 물품을 설치ㆍ조립 또는 정비하는 경우라. 우수조달물품으로 지정ㆍ고시된 물품 또는 혁신제품을 구매 또는 임차하는 경우마. 다른 법령에 따라 국가사업을 위탁 또는 대행할 수 있는 자와 해당 사업에 대한 계약을 하는 경우바. 기타 「국가를 당사자로 하는 계약에 관한 법률 시행령」 제26조 수의계약 사유 중 요건을 명확히 확인할 수 있는 경우2. 설계변경 등으로 최종 추정가격이 2천만원 초과가 된 계약3. 최초 구입가격이 1억원 이상인 국유재산 매각에 대한 계약4. 유관단체나 민간기업과 합동으로 개최하는 연찬회나 워크숍5. 설계변경 등으로 10% 이상 증액되는 공사. 다만, 최종 추정가격 2천만원 이하 제외6. 국유재산을 무상으로 사용허가 하는 수의계약7. 청ㆍ차장, 본부세관장 특별 지시사항8. 감사부서장이 선정한 사항② 관세청 감사담당관 및 본부세관 감사담당관은 제1항 단서의 일상감사 제외 건에 대해 매년 점검하여야 하고, 본부세관 감사담당관은 점검결과를 다음 해 1월 31일까지 감사관에게 보고하여야 한다.③ 사전컨설팅감사의 대상은 제1항에 따른 일상감사 대상업무가 아닌 업무로서 다음 각 호와 같다.1. 인가ㆍ허가 등 규제 관련 업무2. 규제 관련 법령의 해석에 대한 이견 등으로 인하여 발생한 민원 업무3. 그 밖에 감사대상기관장 또는 감사부서장이 규제개선 등을 위하여 필요하다고 인정하는 업무④ 시ㆍ도지사 등은 「지방자치단체에 대한 사전 컨설팅감사 운영에 관한 규정」에 따라 관세행정과 관련된 업무수행시 규제개혁 및 적극행정을 위하여 사전컨설팅감사를 신청할 수 있으며 그 처리에 관한 절차 및 방법 등에 필요한 사항은 「지방자치단체에 대한 사전 컨설팅감사 운영에 관한 규정」에 따른다.",
+        "content": "제31조(감사 대상) ① 일상감사의 대상은 다음 각 호와 같다.1. 추정가격이 건당 2천만원 초과인 수의계약 또는 지명경쟁입찰 계약. 다만, 다음 각 목의 사항은 제외하고, 이 경우 별지 제2호의4서식의 수의계약 자체점검표를 작성ㆍ보관하여야 한다.가. 단독응찰로 일반(제한) 경쟁입찰이 유찰된 후 수의계약으로 전환되어 단독응찰자와 계약하는 경우나. 추정가격이 2천만원 초과 1억원 이하인 계약으로서 여성기업ㆍ장애인기업ㆍ사회적기업ㆍ소기업ㆍ소상공인과 물품의 제조ㆍ구매ㆍ임차 또는 용역계약다. 해당물품을 제조ㆍ공급한 자가 직접 그 물품을 설치ㆍ조립 또는 정비하는 경우라. 우수조달물품으로 지정ㆍ고시된 물품 또는 혁신제품을 구매 또는 임차하는 경우마. 다른 법령에 따라 국가사업을 위탁 또는 대행할 수 있는 자와 해당 사업에 대한 계약을 하는 경우바. 기타 「국가를 당사자로 하는 계약에 관한 법률 시행령」 제26조 수의계약 사유 중 요건을 명확히 확인할 수 있는 경우2. 설계변경 등으로 최종 추정가격이 2천만원 초과가 된 계약3. 최초 구입가격이 1억원 이상인 국유재산 매각에 대한 계약4. 유관단체나 민간기업과 합동으로 개최하는 연찬회나 워크숍5. 설계변경 등으로 10% 이상 증액되는 공사. 다만, 최종 추정가격 2천만원 이하 제외6. 국유재산을 무상으로 사용허가 하는 수의계약7. 공무국외출장. 다만,「관세청 공무국외출장등에 관한 훈령」제4조제2항 각 호에 따른 공무국외출장 심사위원회의 심사 대상인 경우는 제외8. 청ㆍ차장, 본부세관장 특별 지시사항9. 감사부서장이 선정한 사항② 관세청 감사담당관 및 본부세관 감사담당관은 제1항 단서의 일상감사 제외 건에 대해 매년 점검하여야 하고, 본부세관 감사담당관은 점검결과를 다음 해 1월31일까지 감사관에게 보고하여야 한다.③ 사전컨설팅감사의 대상은 제1항에 따른 일상감사 대상업무가 아닌 업무로서 다음 각 호와 같다.1. 인가ㆍ허가 등 규제 관련 업무2. 규제 관련 법령의 해석에 대한 이견 등으로 인하여 발생한 민원 업무3. 그 밖에 감사대상기관장 또는 감사부서장이 규제개선 등을 위하여 필요하다고 인정하는 업무④ 시ㆍ도지사 등은 「지방자치단체에 대한 사전 컨설팅감사 운영에 관한 규정」에 따라 관세행정과 관련된 업무수행시 규제개혁 및 적극행정을 위하여 사전컨설팅감사를 신청할 수 있으며 그 처리에 관한 절차 및 방법 등에 필요한 사항은 「지방자치단체에 대한 사전 컨설팅감사 운영에 관한 규정」에 따른다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1061,7 +1061,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37839",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810051",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922429",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감사에관한훈령#JO0031",
             "target_unit": "BJ0002_04",
@@ -1114,6 +1114,46 @@
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제31조",
+            "source_clause": "제31조제1항",
+            "link_text": "「관세청 공무국외출장등에 관한 훈령」",
+            "line_text": "",
+            "target_law_name": "관세청 공무국외출장등에 관한 훈령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "37839",
+            "target_url": "https://www.law.go.kr/행정규칙/관세청 공무국외출장등에 관한 훈령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:관세청감사에관한훈령#JO0031",
+            "reference_id": "admrul:관세청공무국외출장등에관한훈령#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "관세청 공무국외출장등에 관한 훈령/관세청 공무국외출장등에 관한 훈령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제31조",
+            "source_clause": "제31조제1항",
+            "link_text": "제4조제2항",
+            "line_text": "",
+            "target_law_name": "관세청 공무국외출장등에 관한 훈령",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "37839",
+            "target_url": "https://www.law.go.kr/행정규칙/관세청 공무국외출장등에 관한 훈령/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:관세청감사에관한훈령#JO0031",
+            "reference_id": "admrul:관세청공무국외출장등에관한훈령#JO0004",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "관세청 공무국외출장등에 관한 훈령/관세청 공무국외출장등에 관한 훈령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제31조",
             "source_clause": "제31조제4항",
             "link_text": "「지방자치단체에 대한 사전 컨설팅감사 운영에 관한 규정」",
             "line_text": "",
@@ -1158,7 +1198,7 @@
         "article_title": "감사의 의뢰",
         "chapter": "제4절 일상감사ㆍ사전컨설팅감사",
         "chapter_path": "제4장 감사실시 > 제4절 일상감사ㆍ사전컨설팅감사",
-        "content": "제32조(감사의 의뢰) ① 관세청의 각 국(실)장과 과장, 관세인재개발원장, 관세평가분류원장, 중앙관세분석소장 및 직할세관장은 제31조제1항제1호부터 제6호까지에 따른 일상감사를 의뢰하는 경우에는 별지 제2호서식의 일상감사 의뢰서와 별지 제2호의3서식의 일상감사 자체점검표(의뢰부서용)에, 제31조제2항에 따른 사전컨설팅감사를 의뢰하는 경우에는 별지 제2호의2서식의 사전컨설팅감사 의뢰서에 관련 내용을 첨부하여 부득이한 사정이 없으면 해당업무 수행 30일전까지 감사관에게 의뢰하여야 한다.② 본부세관의 각 국(실)장과 과장 및 권역내 세관장은 제31조제1항제1호부터 제6호까지에 따른 일상감사를 의뢰하는 경우에는 별지 제2호서식의 일상감사 의뢰서와 별지 제2호의3서식의 일상감사 자체점검표(의뢰부서용)에, 제31조제2항에 따른 사전컨설팅감사를 의뢰하는 경우에는 별지 제2호의2서식의 사전컨설팅감사 의뢰서에 관련 내용을 첨부하여 부득이한 사정이 없는 한 해당업무 수행 30일전까지 본부세관의 감사담당관에게 의뢰하여야 한다.③ 감사부서장은 감사를 의뢰받은 사안이 감사의 실익이 없다고 판단되거나, 감사 대상에 해당되지 않는 경우에는 이를 반려하거나 감사를 생략할 수 있다. 다만, 인가ㆍ허가 사안 중 규정이 불분명하여 사전컨설팅감사를 신청한 경우에는 이를 반려하거나 감사를 생략할 수 없다.",
+        "content": "제32조(감사의 의뢰) ① 관세청 및 그 소속기관의 주요정책 등을 집행하는 부서의 장(본부세관 및 권역내세관 집행부서의 장은 제외한다)은 감사를 의뢰하는 경우 다음 각 호의 서류에 관련 증빙자료를 첨부하여 부득이한 사정이 없으면 해당업무 수행 30일전까지 감사관에게 의뢰하여야 한다.1. 제31조제1항제1호부터 제6호까지에 따른 일상감사: 별지 제2호서식의 일상감사 의뢰서 및 별지 제2호의3서식의 일상감사 자체점검표2. 제31조제1항제7호에 따른 일상감사: 별지 제2호서식의 일상감사 의뢰서 및 별지 제2호의5서식의 공무국외출장 자체점검표3. 제31조제2항에 따른 사전컨설팅감사: 별지 제2호의2서식의 사전컨설팅감사 의뢰서② 본부세관과 권역내세관의 주요 정책 등을 집행하는 부서의 장은 감사를 의뢰하는 경우 다음 각 호의 서류에 관련 증빙자료를 첨부하여 부득이한 사정이 없는 한 해당업무 수행 30일전까지 본부세관의 감사담당관에게 의뢰하여야 한다.1. 제31조제1항제1호부터 제6호까지에 따른 일상감사: 별지 제2호서식의 일상감사 의뢰서 및 별지 제2호의3서식의 일상감사 자체점검표2. 제31조제1항제7호에 따른 일상감사: 별지 제2호서식의 일상감사 의뢰서 및 별지 제2호의5서식의 공무국외출장 자체점검표3. 제31조제2항에 따른 사전컨설팅감사: 별지 제2호의2서식의 사전컨설팅감사 의뢰서③ 감사부서장은 감사를 의뢰받은 사안이 감사의 실익이 없다고 판단되거나, 감사 대상에 해당되지 않는 경우에는 이를 반려하거나 감사를 생략할 수 있다. 다만, 인가ㆍ허가 사안 중 규정이 불분명하여 사전컨설팅감사를 신청한 경우에는 이를 반려하거나 감사를 생략할 수 없다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1198,7 +1238,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37839",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810033",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922411",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감사에관한훈령#JO0032",
             "target_unit": "BJ0002",
@@ -1223,11 +1263,81 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37839",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810045",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922423",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감사에관한훈령#JO0032",
             "target_unit": "BJ0002_03",
             "reference_id": "admrul:관세청감사에관한훈령#BJ0002_03",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "관세청 감사에 관한 훈령/관세청 감사에 관한 훈령.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제32조",
+            "source_clause": "제32조제1항",
+            "link_text": "제31조제1항제7호",
+            "line_text": "",
+            "target_law_name": "관세청 감사에 관한 훈령",
+            "target_article_no": "제31조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "37839",
+            "target_url": "https://www.law.go.kr/행정규칙/관세청 감사에 관한 훈령/제31조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:관세청감사에관한훈령#JO0032",
+            "reference_id": "admrul:관세청감사에관한훈령#JO0031",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "관세청 감사에 관한 훈령/관세청 감사에 관한 훈령.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제32조",
+            "source_clause": "제32조제1항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "관세청 감사에 관한 훈령",
+            "target_article_no": "별지2",
+            "target_article_title": "일상감사 의뢰서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "37839",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922411",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:관세청감사에관한훈령#JO0032",
+            "target_unit": "BJ0002",
+            "reference_id": "admrul:관세청감사에관한훈령#BJ0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "관세청 감사에 관한 훈령/관세청 감사에 관한 훈령.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제32조",
+            "source_clause": "제32조제1항",
+            "link_text": "별지 제2호의5서식",
+            "line_text": "",
+            "target_law_name": "관세청 감사에 관한 훈령",
+            "target_article_no": "별지2의5",
+            "target_article_title": "공무국외출장 자체점검표",
+            "appendix_no": "2",
+            "appendix_branch": "5",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "37839",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922435",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:관세청감사에관한훈령#JO0032",
+            "target_unit": "BJ0002_05",
+            "reference_id": "admrul:관세청감사에관한훈령#BJ0002_05",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "관세청 감사에 관한 훈령/관세청 감사에 관한 훈령.json"
           },
@@ -1268,7 +1378,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37839",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810039",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922417",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감사에관한훈령#JO0032",
             "target_unit": "BJ0002_02",
@@ -1313,7 +1423,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37839",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810033",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922411",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감사에관한훈령#JO0032",
             "target_unit": "BJ0002",
@@ -1338,11 +1448,81 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37839",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810045",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922423",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감사에관한훈령#JO0032",
             "target_unit": "BJ0002_03",
             "reference_id": "admrul:관세청감사에관한훈령#BJ0002_03",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "관세청 감사에 관한 훈령/관세청 감사에 관한 훈령.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제32조",
+            "source_clause": "제32조제2항",
+            "link_text": "제31조제1항제7호",
+            "line_text": "",
+            "target_law_name": "관세청 감사에 관한 훈령",
+            "target_article_no": "제31조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "37839",
+            "target_url": "https://www.law.go.kr/행정규칙/관세청 감사에 관한 훈령/제31조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:관세청감사에관한훈령#JO0032",
+            "reference_id": "admrul:관세청감사에관한훈령#JO0031",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "관세청 감사에 관한 훈령/관세청 감사에 관한 훈령.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제32조",
+            "source_clause": "제32조제2항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "관세청 감사에 관한 훈령",
+            "target_article_no": "별지2",
+            "target_article_title": "일상감사 의뢰서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "37839",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922411",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:관세청감사에관한훈령#JO0032",
+            "target_unit": "BJ0002",
+            "reference_id": "admrul:관세청감사에관한훈령#BJ0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "관세청 감사에 관한 훈령/관세청 감사에 관한 훈령.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제32조",
+            "source_clause": "제32조제2항",
+            "link_text": "별지 제2호의5서식",
+            "line_text": "",
+            "target_law_name": "관세청 감사에 관한 훈령",
+            "target_article_no": "별지2의5",
+            "target_article_title": "공무국외출장 자체점검표",
+            "appendix_no": "2",
+            "appendix_branch": "5",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "37839",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922435",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:관세청감사에관한훈령#JO0032",
+            "target_unit": "BJ0002_05",
+            "reference_id": "admrul:관세청감사에관한훈령#BJ0002_05",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "관세청 감사에 관한 훈령/관세청 감사에 관한 훈령.json"
           },
@@ -1383,7 +1563,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37839",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810039",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922417",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감사에관한훈령#JO0032",
             "target_unit": "BJ0002_02",
@@ -1903,7 +2083,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37839",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810057",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922441",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감사에관한훈령#JO0042",
             "target_unit": "BJ0003",
@@ -2000,7 +2180,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37839",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810063",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922447",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감사에관한훈령#JO0043",
             "target_unit": "BJ0004",
@@ -2025,7 +2205,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37839",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810069",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922453",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감사에관한훈령#JO0043",
             "target_unit": "BJ0005",
@@ -2157,7 +2337,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37839",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810075",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922459",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감사에관한훈령#JO0047",
             "target_unit": "BJ0006",
@@ -2202,7 +2382,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37839",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810081",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922465",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감사에관한훈령#JO0047",
             "target_unit": "BJ0007",
@@ -2299,7 +2479,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37839",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810087",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922471",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감사에관한훈령#JO0048",
             "target_unit": "BJ0008",
@@ -2324,7 +2504,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37839",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810093",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922477",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감사에관한훈령#JO0048",
             "target_unit": "BJ0009",
@@ -2476,7 +2656,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37839",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000276310&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287394&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감사에관한훈령#JO0052",
             "target_unit": "BYL0002",
@@ -2513,7 +2693,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37839",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000276310&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287394&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세청감사에관한훈령#JO0053",
             "target_unit": "BYL0003",
@@ -2622,7 +2802,7 @@
         "article_title": "유효기간",
         "chapter": "제10장 보칙",
         "chapter_path": "제10장 보칙",
-        "content": "제55조(유효기간) 이 훈령은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 훈령을 발령한 후의 법령이나 현실 여건의 변화 등을 검토하여야 하는 2029년 3월 23일까지 효력을 가진다.",
+        "content": "제55조(유효기간) 이 훈령은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 훈령을 발령한 후의 법령이나 현실 여건의 변화 등을 검토하여야 하는 2029년 10월 25일까지 효력을 가진다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -2658,10 +2838,10 @@
       "content": "부칙 <제1419호,2011. 2. 25.>제1조(시행일) 이 훈령은 2011년 2월 25일부터 시행한다.제2조(폐지규정) 이 훈령 시행일부터 「일상감사운영에 관한 시행세칙」(관세청훈령 제1360호. 2010. 6. 10.)은 폐지한다.",
       "provision_id": "admrul:관세청감사에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276310",
+      "source_mst": "2100000287394",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20111102",
@@ -2669,10 +2849,10 @@
       "content": "부칙 <제1450호,2011. 11. 2.>제1조(시행일) 이 훈령은 2011년 11월 3일부터 시행한다.제2조(폐지규정) 이 훈령 시행일부터 「관세청 정책감사 운영에 관한 시행세칙」(관세청훈령 제1161호. 2008. 3. 20.)은 폐지한다.",
       "provision_id": "admrul:관세청감사에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276310",
+      "source_mst": "2100000287394",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20130521",
@@ -2680,10 +2860,10 @@
       "content": "부칙 <제1531호,2013. 5. 21.>제1조(시행일) 이 훈령은 2013년 5월 21일부터 시행한다.제2조(경과조치) 이 세칙 시행당시 종전의 규정(지침포함)에 의하여 시행중인 사항은 종전의 규정에 의한다.",
       "provision_id": "admrul:관세청감사에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276310",
+      "source_mst": "2100000287394",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20131210",
@@ -2691,10 +2871,10 @@
       "content": "부칙 <제1589호,2013. 12. 10.>제1조(시행일) 이 훈령은 2013년 12월 10일부터 시행한다.제2조(경과조치) 이 세칙 시행당시 종전의 규정(지침포함)에 의하여 시행중인 사항은 종전의 규정에 의한다.",
       "provision_id": "admrul:관세청감사에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276310",
+      "source_mst": "2100000287394",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20150714",
@@ -2702,10 +2882,10 @@
       "content": "부칙 <제1749호,2015. 7. 14.>제1조(시행일) 이 훈령은 공포한 날부터 시행한다.제2조(적용례) 제32조부터 제36조까지의 개정규정은 이 훈령의 시행일 현재 감사를 실시 중이거나, 감사결과를 처리중인 감사사항에 대해서도 적용한다.제3조(다른 규정의 폐지) 이 훈령 시행에 따라 「관세청 공무국외여행에 대한 일상감사지침」(청 감사담당관-218, ' 14. 1. 22.)은 폐지한다.",
       "provision_id": "admrul:관세청감사에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276310",
+      "source_mst": "2100000287394",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20160118",
@@ -2713,10 +2893,10 @@
       "content": "부칙 <제1803호,2016. 1. 18.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세청감사에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276310",
+      "source_mst": "2100000287394",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20160928",
@@ -2724,10 +2904,10 @@
       "content": "부칙 <제1841호,2016. 9. 28.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.제2조(경과조치) 이 훈령 시행당시 종전의 규정에 의하여 시행중인 사항은 종전의 규정에 의한다.",
       "provision_id": "admrul:관세청감사에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276310",
+      "source_mst": "2100000287394",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20170331",
@@ -2735,10 +2915,10 @@
       "content": "부칙 <제1862호,2017. 3. 31.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.제2조(경과조치) 이 훈령 시행당시 종전의 규정에 의하여 시행중인 사항은 종전의 규정에 의한다.",
       "provision_id": "admrul:관세청감사에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276310",
+      "source_mst": "2100000287394",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20180201",
@@ -2746,10 +2926,10 @@
       "content": "부칙 <제1896호,2018. 2. 1.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.제2조(경과조치) 이 훈령 시행당시 종전의 규정에 의하여 시행중인 사항은 종전의 규정에 의한다.",
       "provision_id": "admrul:관세청감사에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276310",
+      "source_mst": "2100000287394",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20181023",
@@ -2757,10 +2937,10 @@
       "content": "부칙 <제1931호,2018. 10. 23.>제1조(시행일) 이 훈령은 2018년 11월 1일부터 시행한다.제2조(경과조치) 이 훈령 시행당시 종전의 규정에 의하여 시행중인 사항은 종전의 규정에 의한다.",
       "provision_id": "admrul:관세청감사에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276310",
+      "source_mst": "2100000287394",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20190625",
@@ -2768,10 +2948,10 @@
       "content": "부칙 <제1967호,2019. 6. 25.>제1조(시행일) 이 훈령은 2019년 7월 1일부터 시행한다.제2조(경과조치) 이 훈령 시행당시 종전의 규정에 의하여 시행중인 사항은 종전의 규정에 의한다.",
       "provision_id": "admrul:관세청감사에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276310",
+      "source_mst": "2100000287394",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20200108",
@@ -2779,10 +2959,10 @@
       "content": "부칙 <제1993호,2020. 1. 8.>제1조(시행일) 이 훈령은 2020년 1월 13일부터 시행한다.제2조(경과조치) 이 훈령 시행당시 종전의 규정에 의하여 시행중인 사항은 종전의 규정에 의한다.",
       "provision_id": "admrul:관세청감사에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276310",
+      "source_mst": "2100000287394",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20211228",
@@ -2790,10 +2970,10 @@
       "content": "부칙 <제2142호, 2021. 12. 28.>이 훈령은 2021년 12월 28일부터 시행한다.",
       "provision_id": "admrul:관세청감사에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276310",
+      "source_mst": "2100000287394",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20220315",
@@ -2801,10 +2981,10 @@
       "content": "부칙 <제2188호, 2022. 3. 15.>제1조(시행일) 이 훈령은 2022년 3월 16일부터 시행한다.제2조(경과조치) 이 훈령 시행당시 종전의 규정에 의하여 시행중인 사항은 종전의 규정에 의한다.",
       "provision_id": "admrul:관세청감사에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276310",
+      "source_mst": "2100000287394",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20230502",
@@ -2812,10 +2992,10 @@
       "content": "부칙 <제2263호, 2023. 5. 2.>제1조(시행일) 이 훈령은 2023년 5월 3일부터 시행한다.제2조(경과조치) 이 훈령 시행당시 종전의 규정에 의하여 시행중인 사항은 종전의 규정에 의한다.",
       "provision_id": "admrul:관세청감사에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276310",
+      "source_mst": "2100000287394",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20241230",
@@ -2823,10 +3003,10 @@
       "content": "부칙 <제2375호, 2024. 12. 30.>제1조(시행일) 이 훈령은 2024년 12월 30일부터 시행한다.제2조(경과조치) 이 훈령 시행당시 종전의 규정에 의하여 시행중인 사항은 종전의 규정에 의한다.",
       "provision_id": "admrul:관세청감사에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276310",
+      "source_mst": "2100000287394",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20260324",
@@ -2834,10 +3014,21 @@
       "content": "부칙 <제2454호, 2026. 3. 24.>제1조(시행일) 이 훈령은 2026년 3월 24일부터 시행한다.제2조(경과조치) 이 훈령 시행당시 종전의 규정에 의하여 시행중인 사항은 종전의 규정에 의한다.",
       "provision_id": "admrul:관세청감사에관한훈령#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000276310",
+      "source_mst": "2100000287394",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260324"
+      "version_enforcement_date": "20261026"
+    },
+    {
+      "promulgation_date": "20261026",
+      "promulgation_no": "2506",
+      "content": "부칙 <제2506호, 2026. 10. 26.>제1조(시행일) 이 훈령은 2026년 10월 26일부터 시행한다.제2조(경과조치) 이 훈령 시행당시 종전의 규정에 의하여 시행중인 사항은 종전의 규정에 의한다.",
+      "provision_id": "admrul:관세청감사에관한훈령#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000287394",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261026"
     }
   ],
   "appendices": [
@@ -2849,18 +3040,18 @@
       "enforcement_date": "",
       "content": "[별표 1]\n감사담당자가 갖추어야 할 역량\n┌──────┬──────────────┬─────────────────────┐\n│구분        │정  의                      │세부역량                                  │\n├──────┼──────────────┼─────────────────────┤\n│ 근무태도   │공직자로서의 투철한 사명    │?(윤리책임) 공직가치를 확립하고, 맡은 역 │\n│(행태역량)  │감과 책임감이 강하고, 공직  │할을 정확하게 인식 및 책임 완수           │\n│            │윤리에 기반하여 청렴성이    │?(의사소통) 상대의견을 경청 및 이해하고, │\n│            │매우 높고, 직원간 융화노력  │분명한 의사전달 및 납득 제고              │\n│            │을 통해 건전한 업무분위기   │?(조정통합) 협상을 통해 갈등을 해소하고  │\n│            │조성에 일조한다.            │의견대립을 효과적으로 중재                │\n│            │                            │?(팀워크) 공동 목표를 위해 구성원과 협력 │\n│            │                            │하고, 동료의 부족함을 보충                │\n├──────┼──────────────┼─────────────────────┤\n│ 직무수행   │담당업무 수행에 필요한 관   │?(관세실무) 통관?심사?조사?FTA 등     │\n│능력        │련 규정을 숙지하고 있으며,  │관세행정 전반의 업무를 이해               │\n│(실무역량)  │업무관련 실무처리 지식과    │?(감사실무) 위험요인에 기반한 기획, 자료 │\n│            │기술을 보유하고, 이를 활용  │수집?입증 및 보고서 작성                 │\n│            │하여 신속하고 정확하게 업   │?(대인조사) 대인감찰, 특별조사 등과 관련 │\n│            │무를 처리한다.              │된 지식?노하우 및 인권보호               │\n├──────┼──────────────┼─────────────────────┤\n│ 문제인식   │수집한 정보 및 연계를 통    │?(이슈분석) 이슈 수집 및 해석?경향 등을 │\n│(분석역량)  │해 발생할 문제를 적시에     │종합적인 관점에서 검토 평가               │\n│            │감지하고, 사안의 성격, 발   │?(통계분석) 관련 업무를 계량화하고 정량  │\n│            │생원인, 제약조건 및 파급효  │적 흐름을 체크?분석하여 활용             │\n│            │과 등을 이해하여 문제의     │?(고객지향) 고객수요를 정확히 이해하고,  │\n│            │핵심이 무엇인지를 규명한    │그 결과를 충족하도록 배려                 │\n│            │다.                         │                                          │\n├──────┼──────────────┼─────────────────────┤\n│ 전문지식   │시의적절한 감사결과를 도    │?(감사기준) 감사업무를 수행하는데 기초가 │\n│(지식역량)  │출하기 위해 감사대상을 심   │되는 각종 감사기준을 이해                 │\n│            │층적으로 이해하며, 최신 정  │?(법규지식) 업무수행에 필요한 행정, 계약 │\n│            │보기술 동향, 분야별 주요    │등 관련 법규지식 및 해석능력              │\n│            │정책 등 관련 지식을 적극    │?(회계 등) 국가 예산?회계 지식과 IT 등  │\n│            │적으로 습득하고 활용한다.   │최신트랜드에 대한 이해                    │\n└──────┴──────────────┴─────────────────────┘\n※「공공부문 자체감사인력의 감사역량에 관한 연구(유승현, 2014)」의 역량모형을 참고",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000276310&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810099",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287394&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922483",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810095",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922479",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810099",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922483",
           "name": "",
           "file_store_url": ""
         }
@@ -2880,18 +3071,18 @@
       "enforcement_date": "",
       "content": "[별표 2]\n관세청감사시스템에 감사활동내역 입력 시기\n┌───────────────┬────────────────┐\n│감사활동정보명                │입력 시기                       │\n┝━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━┥\n│감사계획                      │수립 즉시                       │\n├───────────────┼────────────────┤\n│감사결과                      │감사결과 통보 후 10일 이내      │\n├───────────────┼────────────────┤\n│감사 이행결과                 │매 분기 말의 다음 달 10일 이내  │\n├───────────────┼────────────────┤\n│일상감사(사전컨설팅감사) 결과 │매 분기 말의 다음 달 10일 이내  │\n├───────────────┼────────────────┤\n│공무원 또는 직원에 대한       │신분상의 조치를 한 날이 속하는  │\n│신분상의 조치 사실            │달의 다음 달 10일 이내          │\n├───────────────┼────────────────┤\n│모범사례 발굴 실적            │매 분기 말의 다음 달 10일 이내  │\n├───────────────┼────────────────┤\n│감사 지적사례                 │감사결과 통보 후 10일 이내      │\n└───────────────┴────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000276310&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810105",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287394&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922489",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810101",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922485",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810105",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922489",
           "name": "",
           "file_store_url": ""
         }
@@ -2911,18 +3102,18 @@
       "enforcement_date": "",
       "content": "[별표 3]\n감사정보시스템에 감사활동내역 입력 시기\n┌───────────────┬────────────────┐\n│감사활동정보명                │입력 시기                       │\n┝━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━┥\n│자체감사기구의 설치 및 운영   │설치 및 변동 후 10일 이내       │\n│현황                          │                                │\n├───────────────┼────────────────┤\n│감사계획(연간)                │수립 즉시                       │\n├───────────────┼────────────────┤\n│감사계획(수시)                │수립 즉시                       │\n├───────────────┼────────────────┤\n│감사 실시 현황                │수시                            │\n├───────────────┼────────────────┤\n│감사결과                      │감사결과 통보 후 10일 이내      │\n├───────────────┼────────────────┤\n│감사 이행결과                 │매 분기 말의 다음 달 10일 이내  │\n├───────────────┼────────────────┤\n│일상감사(사전컨설팅감사) 결과 │매 분기 말의 다음 달 10일 이내  │\n├───────────────┼────────────────┤\n│공무원 또는 직원에 대한       │신분상의 조치를 한 날이 속하는  │\n│신분상의 조치 사실            │달의 다음 달 10일 이내          │\n├───────────────┼────────────────┤\n│「감사원법」 제29조에 따른    │범죄 사실 발견 즉시             │\n│범죄 사실                     │                                │\n├───────────────┼────────────────┤\n│「감사원법」 제29조에 따른    │망실 또는 훼손 사실 발견 즉시   │\n│망실 또는 훼손 사실           │                                │\n├───────────────┼────────────────┤\n│모범사례 발굴ㆍ전파 실적      │매 분기 말의 다음 달 10일 이내  │\n└───────────────┴────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000276310&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810111",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287394&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922495",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810107",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922491",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810111",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922495",
           "name": "",
           "file_store_url": ""
         }
@@ -2943,17 +3134,17 @@
       "content": "(별지 제1호서식)\n\n정보활동보고서\n┎────┬───────────────────┒\n┃제   목 │                                      ┃\n┠────┼───────────────────┨\n┃정보출처│                                      ┃\n┠────┼───────────────────┨\n┃정보유형│                                      ┃\n┠────┼───────────────────┨\n┃정보내용│                                      ┃\n┠────┴───────────────────┨\n┃                                                ┃\n┃20  년    월     일                             ┃\n┃                                                ┃\n┃보고자  소속     직급   성명      (인 또는 서명)┃\n┃※ 첨부서류 :   매                              ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm[일반용지 60g/㎡(재활용품)]\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810027",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922405",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810023",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922401",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810027",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922405",
           "name": "",
           "file_store_url": ""
         }
@@ -2974,17 +3165,17 @@
       "content": "(별지 제2호서식)\n\n일상감사 의뢰서\n┏━━┯━━━━━━┯━━━┯┯━━━┯━━┓\n┃의뢰│         과 │최종  ││요청일│    ┃\n┃부서│            │결재자││      │    ┃\n┠──┼──────┴───┴┼───┼──┨\n┃제목│                      │회신  │    ┃\n┃    │                      │기일  │    ┃\n┠──┴───────────┴───┴──┨\n┃                                          ┃\n┃  1. 개요                                 ┃\n┃                                          ┃\n┃                                          ┃\n┃  2. 목적 및 필요성                       ┃\n┃                                          ┃\n┃                                          ┃\n┃  3. 소요예산                             ┃\n┃                                          ┃\n┃                                          ┃\n┃  4. 관련법령                             ┃\n┃                                          ┃\n┃                                          ┃\n┃  5. 첨부서류(감사에 필요한 제반 증빙서류)┃\n┃                                          ┃\n┗━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm[일반용지 60g/㎡(재활용품)]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810033",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922411",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810029",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922407",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810033",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922411",
           "name": "",
           "file_store_url": ""
         }
@@ -3005,17 +3196,17 @@
       "content": "(별지 제2호의2서식)\n\n사전컨설팅감사 의뢰서\n┏━━━━┯┯━━━┯┯━━━━┯━━━━━━━━━━━━━┓\n┃신청기관││최종  ││요청일  │                          ┃\n┃(부서명)││결재자││        │                          ┃\n┠────┼┴───┴┼────┼─────────────┨\n┃제목    │          │회신기일│                          ┃\n┠────┴─────┴────┴─────────────┨\n┃  1. 신청내용                                             ┃\n┃                                                          ┃\n┃  2. 관련 법령 및 사업개요(추진경과)                      ┃\n┃    1) 관련법령                                           ┃\n┃    2) 사업개요 또는 추진경과(목적 및 필요성, 소요예산 등)┃\n┃                                                          ┃\n┃  3. 사전컨설팅 신청 사유                                 ┃\n┃    1) 주요 쟁점                                          ┃\n┃    2) 해당기관(부서) 의견                                ┃\n┃                                                          ┃\n┃  4. 첨부서류(감사에 필요한 제반 증빙서류)                ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm[일반용지 60g/㎡(재활용품)]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810039",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922417",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810035",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922413",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810039",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922417",
           "name": "",
           "file_store_url": ""
         }
@@ -3036,17 +3227,17 @@
       "content": "(별지 제2호의3서식)\n\n일상감사 자체점검표(의뢰부서용)\n┏━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃관련법령│ㅇ ?국가를 당사자로 하는 계약에 관한 법률? 및 같은법 시행령                     ┃\n┃및 규정 │ㅇ ?관세청 감사에 관한 훈령? 및 ?관세청 이해충돌방지법 운영에 관한 훈령?      ┃\n┃        │ㅇ ?중대재해 처벌 등에 관한 법률? 및 같은 법 시행령                             ┃\n┠────┼─────────────────────────────────────────┨\n┃점검대상│ㅇ 일상감사 대상 용역, 공사, 물품 구매 및 제조 등                                 ┃\n┠────┼─────────────────────────────┬───────────┨\n┃점검내용│주요 점검 내용                                            │점검결과              ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ㅇ 일상감사의뢰 대상인가?                                 │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 관세청 감사에 관한 훈령에서 규정한 일상감사            │예□ (제____호)       ┃\n┃        │대상에 해당하는지 확인                                    │    아니오□          ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 최종 결재권자 결재 전 일상감사 의뢰 확인               │예□ 아니오□ 비대상□┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 위임전결규정에 따라 결재선은 적정한지 확인             │예□ 아니오□ 비대상□┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ㅇ 사업타당성 또는 필요성이 있는가?                       │예□ 아니오□         ┃\n┃        │ - 사업타당성 검토, 사업 추진 결정에 대한 의사            │                      ┃\n┃        │결정 과정 및 추진경과, 사업계획 보고서, 업무              │                      ┃\n┃        │계획 등 사업시행의 적정성을 검증하였는지 확인             │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ㅇ 사업예산은 확보하였는가?                               │예□ 아니오□         ┃\n┃        │ - 국회 예산심의 설명자료, 명세서 등을 통하여 확인        │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ㅇ 계약체결방법이 적정한가?                               │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 수의계약인 경우 국가계약법에서 정한 수의계약           │예□ 아니오□ 비대상□┃\n┃        │대상 해당여부 관련 증빙자료를 통해 확인                   │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 조달청 계약요청 대상인지 확인                          │예□ 아니오□         ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 계약을 분할하여 수의계약 하는지 여부                   │예□ 아니오□         ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ㅇ 계약상대자는 적정한가?                                 │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 수의계약 등 계약체결 자격*을 충족하는지 확인           │예□ 아니오□         ┃\n┃        │   * 사업 또는 수의계약에 필요한 면허증?확인서?등록증 등│                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 부도?파산?해산?영업정지 등 영업상태 확인            │예□ 아니오□         ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 국가계약법상 조세포탈 등을 한 자인지 확인              │예□ 아니오□         ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 국가계약법상 부정당업자 제재 기간인지 확인             │예□ 아니오□         ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 이해충돌방지법상 수의계약 체결 제한인지 확인           │예□ 아니오□         ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 협상에 의한 계약일 경우 기재부장관이 정하는            │예□ 아니오□ 비대상□┃\n┃        │계약체결기준에 따라 적정하게 이루어졌는지 확인            │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 중대재해처벌법에 따른 종사자의 안전?보건 확보를       │예□ 아니오□ 비대상□┃\n┃        │위한 기준?절차마련?점검계획 등 이행방안 확인            │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 장기계속계약인 경우 소속중앙관서의 장의 승인을         │예□ 아니오□ 비대상□┃\n┃        │받았는지 확인                                             │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ㅇ 기타(                                    )             │있음 □ 없음 □       ┃\n┃        │   ※ 상기외 계약대상별 특성상 고려(확인)한 사항 기술     │                      ┃\n┗━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━┛\n\n20XX. XX. XX.\n\n위 점검자   부서명 :      직급(위) :        성명 :  (인)\n\n확인자   부서명 :      직급(위) :        성명 :  (인)\n\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810045",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922423",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810041",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922419",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810045",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922423",
           "name": "",
           "file_store_url": ""
         }
@@ -3067,17 +3258,17 @@
       "content": "(별지 제2호의4서식)\n수의계약 자체점검표(OO계약)\n┏━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃관련법령│ㅇ ?국가를 당사자로 하는 계약에 관한 법률? 및 같은법 시행령                     ┃\n┃및 규정 │ㅇ ?관세청 감사에 관한 훈령? 및 ?관세청 이해충돌방지법 운영에 관한 훈령?      ┃\n┠────┼─────────────────────────────────────────┨\n┃점검대상│ㅇ 일상감사 대상 용역, 공사, 물품 구매 및 제조 등                                 ┃\n┠────┼─────────────────────────────┬───────────┨\n┃점검내용│주요 점검 내용                                            │점검결과              ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ㅇ 일상감사 의뢰 제외대상인가?                            │예□ 아니오□         ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 단독응찰로 일반(제한)  경쟁입찰이 유찰된 후 수의       │예□                  ┃\n┃        │계약으로 전환되어 단독응찰자와 계약                       │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 추정가격이 2천만원 초과 1억원 이하인 계약으로서        │예□                  ┃\n┃        │여성기업?장애인기업?사회적기업?소기업?소상            │                      ┃\n┃        │공인과 물품의 제조?구매?임차 또는 용역계약              │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 해당물품을 제조?공급한자가 직접 그 물품을             │예□                  ┃\n┃        │설치?조립 또는 정비하는 경우                             │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 우수조달물품으로 지정?고시 또는 혁신제품을            │예□                  ┃\n┃        │구매 또는 임차하는 경우                                   │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 다른 법령에 따라 국가사업을 위탁 또는 대행             │예□                  ┃\n┃        │할 수 있는 자와 해당사업에 대해 계약하는 경우             │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 기타 국가계약법 시행령 제26조 수의계약의               │예□(근거조항 기재)   ┃\n┃        │사유 중 요건을 명확히 확인할 수 있는 경우                 │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ㅇ 사업타당성 또는 필요성이 있는가?                       │예□ 아니오□         ┃\n┃        │ - 사업타당성 검토, 사업 추진 결정에 대한 의사            │                      ┃\n┃        │결정 과정 및 추진경과, 사업계획 보고서, 업무              │                      ┃\n┃        │계획 등 사업시행의 적정성을 검증하였는지 확인             │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ㅇ 사업예산은 확보하였는가?                               │예□ 아니오□         ┃\n┃        │ - 국회 예산심의 설명자료, 명세서 등을 통하여 확인        │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ㅇ 계약체결방법이 적정한가?                               │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 국가계약법에서 정한 수의계약대상 해당여부              │예□ 아니오□ 비대상□┃\n┃        │관련 증빙자료를 통해 확인                                 │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 조달사업법 시행령에서 정한 조달청 계약요청             │예□ 아니오□         ┃\n┃        │대상인지 확인                                             │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 계약을 분할하여 수의계약 하는지 여부                   │예□ 아니오□         ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ㅇ 계약상대자는 적정한가?                                 │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 수의계약 등 계약체결 자격*을 충족하는지 확인           │예□ 아니오□         ┃\n┃        │   * 사업 또는 수의계약에 필요한 면허증?확인서?등록증 등│                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 부도?파산?해산?영업정지 등 영업상태 확인            │예□ 아니오□         ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 국가계약법상 조세포탈 등을 한 자인지 확인              │예□ 아니오□         ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 국가계약법상 부정당업자 제재 기간인지 확인             │예□ 아니오□         ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 이해충돌방지법상 수의계약 체결 제한인지 확인           │예□ 아니오□         ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 장기계속계약인 경우 소속중앙관서의 장의 승인을         │예□ 아니오□ 비대상□┃\n┃        │받았는지 확인                                             │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ㅇ 견적에 의한 가격결정 절차를 거쳤는가?                  │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 2인 이상으로부터 견적서를 받았는지 확인                │예□ 아니오□ 비대상□┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 전자조달시스템을 이용하여 견적서를 제출                │예□ 아니오□ 비대상□┃\n┃        │하였는지 확인                                             │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 견적서 제출에 관한 사항을 전자조달시스템을             │예□ 아니오□ 비대상□┃\n┃        │이용하여 안내하였는지 확인                                │                      ┃\n┃        ├─────────────────────────────┼───────────┨\n┃        │ - 최저가격을 제출한 자로 선정하였는지 확인               │예□ 아니오□ 비대상□┃\n┗━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━┛\n\n20XX. XX. XX.\n\n위 점검자   부서명 :      직급(위) :        성명 :  (인)\n\n확인자   부서명 :      직급(위) :        성명 :  (인)\n\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810051",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922429",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810047",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922425",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810051",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922429",
           "name": "",
           "file_store_url": ""
         }
@@ -3090,6 +3281,37 @@
       "file_store_url": ""
     },
     {
+      "no": "0002",
+      "branch": "05",
+      "kind": "별지",
+      "title": "공무국외출장 자체점검표",
+      "enforcement_date": "",
+      "content": "(별지 제2호의5서식)\n\n공무국외출장 자체점검표\n┏━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━┯━━━┓\n┃항목        │확인사항                                              │예│아니오┃\n┠──────┼───────────────────────────┼─┼───┨\n┃출장의      │1. 공무국외출장 이외의 수단으로 출장 목적을 달성      │  │      ┃\n┃필요성      │할 수 있는가?                                         │  │      ┃\n┃            ├───────────────────────────┼─┼───┨\n┃            │2. 이전에 동일 목적으로 방문한 사례가 있는지?         │  │      ┃\n┃            ├───────────────────────────┼─┼───┨\n┃            │3. 해외 사무소 또는 외국기관 파견인력으로 해당        │  │      ┃\n┃            │업무의 수행이 가능한지?                               │  │      ┃\n┃            ├───────────────────────────┼─┼───┨\n┃            │4. 꼭 필요한 출장인가?                                │  │      ┃\n┠──────┼───────────────────────────┼─┼───┨\n┃방문국과    │1. 업무 목적 수행에 필요한 국가와 기관을 방문하는가?  │  │      ┃\n┃방문기관의  ├───────────────────────────┼─┼───┨\n┃타당성      │2. 과거에 다른 출장자가 방문기관을 방문하였거나       │  │      ┃\n┃            │또는 지금 또는 향후 다른 출장자가 동일 기관을         │  │      ┃\n┃            │방문할 계획이 있는가?                                 │  │      ┃\n┃            ├───────────────────────────┼─┼───┨\n┃            │3. 수집하려는 자료가 국외출장연수정보시스템에 수집    │  │      ┃\n┃            │되어 관리되고 있는지 확인하였는가?                    │  │      ┃\n┃            ├───────────────────────────┼─┼───┨\n┃            │4. 수집하려는 자료가 인터넷을 통해 찾을 수 있는지     │  │      ┃\n┃            │확인하였는가?                                         │  │      ┃\n┃            ├───────────────────────────┼─┼───┨\n┃            │5. 방문 국가 및 기관의 섭외가 완료되었는가?           │  │      ┃\n┃            ├───────────────────────────┼─┼───┨\n┃            │6. 1일 최소 1개 기관 이상 방문하는가?                 │  │      ┃\n┃            ├───────────────────────────┼─┼───┨\n┃            │7. 여러 국가(도시) 방문시 불필요한 이동은 없는가?     │  │      ┃\n┠──────┼───────────────────────────┼─┼───┨\n┃출장자의    │1. 출장목적과 취지 등에 비추어 출장자 선정이 적합한가?│  │      ┃\n┃적합성      ├───────────────────────────┼─┼───┨\n┃            │2. 직무상 이해관계가 있는 기관ㆍ단체ㆍ개인이          │  │      ┃\n┃            │출장에 포함되어 있는가?                               │  │      ┃\n┃            ├───────────────────────────┼─┼───┨\n┃            │3. 출장자의 업무분장이 명확한가?                      │  │      ┃\n┠──────┼───────────────────────────┼─┼───┨\n┃출장시기의  │1. 방문국의 관습, 공휴일 등을 고려하는 등 방문        │  │      ┃\n┃적시성      │시기는 적합한가?                                      │  │      ┃\n┃            ├───────────────────────────┼─┼───┨\n┃            │2. 국내외 등 출장을 삼가야 할 특별한 사정이 있는가?   │  │      ┃\n┠──────┼───────────────────────────┼─┼───┨\n┃출장경비의  │1. 각종 시찰, 견학, 참관, 자료수집, 포상, 격려가      │  │      ┃\n┃적정성      │주된 목적인 공무국외출장의 경우 출장경비가            │  │      ┃\n┃            │예산에 반영되어 있는가?                               │  │      ┃\n┃            ├───────────────────────────┼─┼───┨\n┃            │2. 출장경비가 공무원여비규정에 의하여 산출되었는가?   │  │      ┃\n┃            ├───────────────────────────┼─┼───┨\n┃            │3. 출장자의 공적 항공마일리지의 보유현황ㆍ활용        │  │      ┃\n┃            │가능 여부를 확인하였는가?                             │  │      ┃\n┃            ├───────────────────────────┼─┼───┨\n┃            │4. 타 기관으로부터 출장 경비를 지원받는 경우          │  │      ┃\n┃            │항공료, 체재비 등을 적정하게 받았는가?                │  │      ┃\n┠──────┴───────────────────────────┴─┴───┨\n┃※ 출장경비(운임, 일비, 식비, 숙박비 등) 점검자료 첨부                          ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n20XX. XX. XX.\n\n위 점검자   부서명 :      직급(위) :        성명 :  (인)\n\n확인자   부서명 :      직급(위) :        성명 :  (인)\n\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922435",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922431",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922435",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:관세청감사에관한훈령#BJ0002_05",
+      "filename": "별지2의5_공무국외출장 자체점검표.pdf",
+      "file_dir": "별지",
+      "local_path": "별지/별지2의5_공무국외출장 자체점검표.pdf",
+      "file_store_url": ""
+    },
+    {
       "no": "0003",
       "branch": "00",
       "kind": "별지",
@@ -3098,17 +3320,17 @@
       "content": "(별지 제3호서식)\n\n이행계획서\n┏━━━━┯━━━━━━━━━━━━━━┯━━━━┯┓\n┃처분요구│감사담당관-    (20  .  .  ) │처분종류│┃\n┃문서번호│                            │        │┃\n┠────┼──────────────┴────┴┨\n┃제목    │                                        ┃\n┠────┼────────────────────┨\n┃추진    │                                        ┃\n┃기간    │                                        ┃\n┠────┼────────────────────┨\n┃추진    │                                        ┃\n┃일정    │                                        ┃\n┃및      │                                        ┃\n┃계획    │                                        ┃\n┗━━━━┷━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm[일반용지 60g/㎡(재활용품)]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810057",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922441",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810053",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922437",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810057",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922441",
           "name": "",
           "file_store_url": ""
         }
@@ -3129,17 +3351,17 @@
       "content": "(별지 제4호서식)\n\n이행독촉서\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃수신 :                                                      ┃\n┃발신 :                                                      ┃\n┃아래 처분요구사항에 대한 처리를 독촉하오니 20  .  .  .까지  ┃\n┃그 이행전말을 회보하여 주시기 바랍니다.                     ┃\n┃20  .  .  .                                                 ┃\n┠────┬───────────┬─────────────┨\n┃기관명  │처분요구사항          │비고                      ┃\n┃(부서명)├──┬──┬──┬──┤                          ┃\n┃        │일자│종류│제목│내용│                          ┃\n┠────┼──┼──┼──┼──┼─────────────┨\n┃        │    │    │    │    │                          ┃\n┠────┼──┼──┼──┼──┼─────────────┨\n┃        │    │    │    │    │                          ┃\n┠────┼──┼──┼──┼──┼─────────────┨\n┃        │    │    │    │    │                          ┃\n┠────┼──┼──┼──┼──┼─────────────┨\n┃        │    │    │    │    │                          ┃\n┠────┼──┼──┼──┼──┼─────────────┨\n┃        │    │    │    │    │                          ┃\n┠────┼──┼──┼──┼──┼─────────────┨\n┃        │    │    │    │    │                          ┃\n┠────┼──┼──┼──┼──┼─────────────┨\n┃        │    │    │    │    │                          ┃\n┗━━━━┷━━┷━━┷━━┷━━┷━━━━━━━━━━━━━┛\n210mm×297mm[일반용지 60g/㎡(재활용품)]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810063",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922447",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810059",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922443",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810063",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922447",
           "name": "",
           "file_store_url": ""
         }
@@ -3160,17 +3382,17 @@
       "content": "(별지 제5호서식)\n\n이행회보서\n┏━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃수신 :                                            ┃\n┃발신 :                                            ┃\n┃○○세관 ○○감사 결과에 따른 처분요구사항에 대한 이행내역┃\n┃을 다음과 같이 회보합니다.                        ┃\n┃20  .  .  .                                       ┃\n┠───────────┬──────┬───┬──┨\n┃처분요구사항          │이행        │미이행│이행┃\n┃                      │여부        │사  유│방안┃\n┠──┬──┬──┬──┼──┬───┤      │    ┃\n┃일자│종류│제목│내용│이행│미이행│      │    ┃\n┠──┼──┼──┼──┼──┼───┼───┼──┨\n┃    │    │    │    │    │      │      │    ┃\n┠──┼──┼──┼──┼──┼───┼───┼──┨\n┃    │    │    │    │    │      │      │    ┃\n┠──┼──┼──┼──┼──┼───┼───┼──┨\n┃    │    │    │    │    │      │      │    ┃\n┠──┼──┼──┼──┼──┼───┼───┼──┨\n┃    │    │    │    │    │      │      │    ┃\n┠──┼──┼──┼──┼──┼───┼───┼──┨\n┃    │    │    │    │    │      │      │    ┃\n┠──┼──┼──┼──┼──┼───┼───┼──┨\n┃    │    │    │    │    │      │      │    ┃\n┠──┼──┼──┼──┼──┼───┼───┼──┨\n┃    │    │    │    │    │      │      │    ┃\n┠──┼──┼──┼──┼──┼───┼───┼──┨\n┃    │    │    │    │    │      │      │    ┃\n┗━━┷━━┷━━┷━━┷━━┷━━━┷━━━┷━━┛\n210mm×297mm[일반용지 60g/㎡(재활용품)]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810069",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922453",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810065",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922449",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810069",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922453",
           "name": "",
           "file_store_url": ""
         }
@@ -3191,17 +3413,17 @@
       "content": "(별지 제6호서식)\n\n적극행정면책 제도 안내문\n┏━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                ┃\n┃수감기관장 등은 감사결과 지적사항이 ?관세청    ┃\n┃감사에 관한 훈령? 제46조에서 정한 면책기준에   ┃\n┃해당된다고 판단될 경우, 동 훈령에서 정한 소정의 ┃\n┃절차와 서식에 따라 감사부서장에게 면책신청을    ┃\n┃할 수 있습니다.                                 ┃\n┃                                                ┃\n┃ 1. 신청권자 : 수감기관장, 감사를 받는 사람     ┃\n┃ 2. 신청기간 : 감사결과가 확정되기 전까지       ┃\n┃ 3. 제 출 처 : 감사부서장                       ┃\n┃                                                ┃\n┃                                                ┃\n┃                                                ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm[일반용지 60g/㎡(재활용품)]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810075",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922459",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810071",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922455",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810075",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922459",
           "name": "",
           "file_store_url": ""
         }
@@ -3222,17 +3444,17 @@
       "content": "\n적극행정면책 신청서\n┏━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━┓\n┃적극행정면책                        │                        ┃\n┃신청 요지                           │                        ┃\n┠──────────────────┼─────┬──────┨\n┃구체적 판단기준 내용                │해당 여부 │소명자료    ┃\n┠──────────────────┼─────┼──────┨\n┃ 1. 업무처리가 공공의 이익을 위한 것│          │            ┃\n┃인지 여부                           │          │            ┃\n┠──────────────────┼─────┼──────┨\n┃ 2. 업무를 적극적으로 처리한 결과인 │          │            ┃\n┃지 여부                             │          │            ┃\n┠──────────────────┼─────┼──────┨\n┃ 3. 고의나 중대한 과실이 있는지 여부│          │            ┃\n┠──────────────────┼─────┼──────┨\n┃  가. 자체감사를 받는 사람과 대상 업│          │            ┃\n┃무 사이에 사적인 이해관계가 없      │          │            ┃\n┃을 것                               │          │            ┃\n┠──────────────────┼─────┼──────┨\n┃  나. 대상 업무를 처리하면서 중대한 │          │            ┃\n┃절차상의 하자가 없었을 것           │          │            ┃\n┠──────────────────┼─────┼──────┨\n┃ 4. 기    타                        │          │            ┃\n┠──────────────────┴─────┴──────┨\n┃  「공공감사에 관한 법률? 제23조의2 및「관세청 감사에 관한 훈┃\n┃령」제44조에 따라 적극행정면책을 받기 위하여 위와 같이 신     ┃\n┃청합니다.                                                     ┃\n┃                                                              ┃\n┃                        년     월     일                      ┃\n┃신청인      기관(부서)명           직급          성명         ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n(별지 제7호서식)\n210mm×297mm[일반용지 60g/㎡(재활용품)]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810081",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922465",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810077",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922461",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810081",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922465",
           "name": "",
           "file_store_url": ""
         }
@@ -3253,17 +3475,17 @@
       "content": "(별지 제8호서식)\n\n부적정 업무처리 자진신고 안내문\n┏━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃감사를 받는 사람은 ○○감사와 관련 부적정한     ┃\n┃업무 처리에 대하여 ?관세청 감사에 관한 훈령?  ┃\n┃제48조에서 정한 감경기준에 해당된다고 판단될    ┃\n┃경우, 동 훈령에서 정한 소정의 절차와 서식에     ┃\n┃따라 감사부서장에게 감경처분을 신청할 수 있습   ┃\n┃니다.                                           ┃\n┃                                                ┃\n┃ 1. 신청권자 : 감사를 받는 사람                 ┃\n┃ 2. 신청기간 : 감사예고일부터 감사종료일까지    ┃\n┃ 3. 제 출 처 : 감사부서장                       ┃\n┃                                                ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm[일반용지 60g/㎡(재활용품)]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810087",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922471",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810083",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922467",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810087",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922471",
           "name": "",
           "file_store_url": ""
         }
@@ -3284,17 +3506,17 @@
       "content": "\n부적정 업무처리 자진신고서\n┏━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━┓\n┃자진신고대상  │                                          ┃\n┃ 업무명       │                                          ┃\n┠───┬───┼┬───┬────────────────┨\n┃신고인│직 급 ││성 명 │         (서명)                 ┃\n┃      ├───┼┴───┴────────────────┨\n┃      │소 속 │                     (전화번호 :        ) ┃\n┠───┼───┼┬───┬────────────────┨\n┃업무  │직 급 ││성 명 │                                ┃\n┃처리자├───┼┴───┴────────────────┨\n┃      │현소속│                     (전화번호 :        ) ┃\n┠───┴───┼─────────────────────┨\n┃업무처리일자  │                                          ┃\n┃(기간)        │                                          ┃\n┠───────┼─────────────────────┨\n┃부적정        │                                          ┃\n┃업무처리 내용 │                                          ┃\n┠───────┴─────────────────────┨\n┃ 관련자료(제출이 가능한 경우에 한함)                      ┃\n┃  1. 결재문서 사본                                        ┃\n┃  2. 기타 관련 자료                                       ┃\n┠─────────────────────────────┨\n┃ 「관세청 감사에 관한 훈령」제48조에 따라 자진신고 감경을 ┃\n┃받기 위하여 위와 같이 신청합니다.                         ┃\n┃                                     년      월      일   ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n(별지 제9호서식)\n210mm×297mm[일반용지 60g/㎡(재활용품)]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810093",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922477",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810089",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922473",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162810093",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170922477",
           "name": "",
           "file_store_url": ""
         }
@@ -3310,42 +3532,34 @@
   "attachments": [
     {
       "name": "3. 「관세청 감사에 관한 훈령」 개정 전문.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=162809355",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170918153",
       "filename": "3. 「관세청 감사에 관한 훈령」 개정 전문.hwpx",
       "file_dir": "첨부파일",
       "local_path": "첨부파일/3. 「관세청 감사에 관한 훈령」 개정 전문.hwpx",
-      "file_store_url": ""
-    },
-    {
-      "name": "3. 「관세청 감사에 관한 훈령」 개정 전문.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=162809359",
-      "filename": "3. 「관세청 감사에 관한 훈령」 개정 전문.pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/3. 「관세청 감사에 관한 훈령」 개정 전문.pdf",
       "file_store_url": ""
     }
   ],
   "ordinance_delegations": [],
   "relation_mode": "no_crawl",
   "relation_stats": {
-    "relations_total": 94,
+    "relations_total": 102,
     "by_category": {
       "법령": 39,
-      "행정규칙": 55
+      "행정규칙": 63
     },
     "by_relation_type": {
-      "citation": 48,
-      "appendix_ref": 18,
-      "internal_ref": 28
+      "citation": 50,
+      "appendix_ref": 22,
+      "internal_ref": 30
     },
     "articles_total": 55,
     "articles_with_relations": 33,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 17,
-    "appendices_count": 15,
-    "attachments_count": 2
+    "addenda_count": 18,
+    "appendices_count": 16,
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/관세청 감사에 관한 훈령"
