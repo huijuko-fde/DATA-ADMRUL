@@ -1,25 +1,25 @@
 {
   "law_id": "52006",
-  "mst": "2100000281524",
+  "mst": "2100000287120",
   "law_name": "관세국경인재개발원 기본운영규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:52006",
-  "promulgation_no": "2",
-  "promulgation_date": "20260701",
-  "enforcement_date": "20260701",
-  "revision_date": "20260701",
+  "promulgation_no": "3",
+  "promulgation_date": "20261026",
+  "enforcement_date": "20261026",
+  "revision_date": "20261026",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "관세국경인재개발원(교육지원과)",
-    "담당자명": "최정하",
+    "담당자명": "이현정",
     "행정규칙종류코드": "B0001",
-    "행정규칙명": "관세국경인재개발원 기본운영규정 ",
-    "발령일자": "20260701",
+    "행정규칙명": "관세국경인재개발원 기본운영규정",
+    "발령일자": "20261026",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "041-410-8516",
     "제개정구분명": "일부개정",
     "소관부처코드": "1220000",
-    "생성일자": "20260701",
+    "생성일자": "20261026",
     "행정규칙ID": "52006",
-    "시행일자": "20260701",
+    "시행일자": "20261026",
     "담당부서기관코드": "1221621",
-    "발령번호": "2",
-    "행정규칙일련번호": "2100000281524",
+    "발령번호": "3",
+    "행정규칙일련번호": "2100000287120",
     "상위부처명": "관세청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정 사유\nㅇ 「책임운영기관의 설치ㆍ운영에 관한 법률 시행령」제16조의4에 따른 임시정원(공업서기 1명)의 운영기간(’26.2.19.～’26.6.30.) 만료로 종료\n◇ 개정 내용\n[그림]\n",
+  "revision_reason": "◇ 개정 사유\n○ 「개방형 직위 및 공모 직위의 운영 등에 관한 규정」제3조에 따른 관세국경인재개발원 인재개발과장의 개방형 직위 지정 협의 완료로 관련 규정 정비\n※ 개방형직위 신설 협의 완료(인사혁신처 개방교류과-4972호, 2026.10.13.)\n◇ 개정 내용\n○ 「관세국경인재개발원 기본운영규정」 제13조의2 제3항의 관세국경인재개발원 인재개발과장의 개방형 직위 지정(신설)\n[그림]\n\n",
   "body": {
     "format": "articles",
     "article_count": 36,
@@ -280,7 +280,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "52006",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281524&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287120&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:관세국경인재개발원기본운영규정#JO0013",
             "target_unit": "BYL0001",
@@ -297,7 +297,7 @@
         "article_title": "개방형 직위의 지정",
         "chapter": "제3장 조직 및 정원관리",
         "chapter_path": "제3장 조직 및 정원관리",
-        "content": "제13조의2(개방형 직위의 지정) ① 「개방형 직위 및 공모 직위의 운영 등에 관한 규정」 제3조제1항 및 「관세청과 그 소속기관 정원과 조직에 관한 훈령」 제2조2에 따라 관세국경인재개발원장은 개방형 직위로 지정한다.② 삭제",
+        "content": "제13조의2(개방형 직위의 지정) ① 「개방형 직위 및 공모 직위의 운영 등에 관한 규정」 제3조제1항 및 「관세청과 그 소속기관 정원과 조직에 관한 훈령」 제2조2에 따라 관세국경인재개발원장은 개방형 직위로 지정한다.② 삭제③ 「개방형 직위 및 공모 직위의 운영 등에 관한 규정」 제3조제2항 및 「관세청과 그 소속기관 정원과 조직에 관한 훈령」 제2조2에 따라 인재개발과장은 개방형 직위로 지정한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -366,6 +366,86 @@
             "target_category": "행정규칙",
             "source_article_no": "제13조의2",
             "source_clause": "제13조의2제1항",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "관세청과 그 소속기관 정원과 조직에 관한 훈령",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "52006",
+            "target_url": "https://www.law.go.kr/행정규칙/관세청과 그 소속기관 정원과 조직에 관한 훈령/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:관세국경인재개발원기본운영규정#JO0013_02",
+            "reference_id": "admrul:관세청과그소속기관정원과조직에관한훈령#JO0002",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "관세청과 그 소속기관 정원과 조직에 관한 훈령/관세청과 그 소속기관 정원과 조직에 관한 훈령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조의2",
+            "source_clause": "제13조의2제3항",
+            "link_text": "「개방형 직위 및 공모 직위의 운영 등에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "개방형 직위 및 공모 직위의 운영 등에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "52006",
+            "target_url": "https://www.law.go.kr/법령/개방형 직위 및 공모 직위의 운영 등에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:관세국경인재개발원기본운영규정#JO0013_02",
+            "reference_id": "law:개방형직위및공모직위의운영등에관한규정#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조의2",
+            "source_clause": "제13조의2제3항",
+            "link_text": "제3조제2항",
+            "line_text": "",
+            "target_law_name": "개방형 직위 및 공모 직위의 운영 등에 관한 규정",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "52006",
+            "target_url": "https://www.law.go.kr/법령/개방형 직위 및 공모 직위의 운영 등에 관한 규정/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:관세국경인재개발원기본운영규정#JO0013_02",
+            "reference_id": "law:개방형직위및공모직위의운영등에관한규정#JO0003",
+            "target_repo": "LAW",
+            "target_git_path_guess": "개방형 직위 및 공모 직위의 운영 등에 관한 규정/법률/개방형 직위 및 공모 직위의 운영 등에 관한 규정.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조의2",
+            "source_clause": "제13조의2제3항",
+            "link_text": "「관세청과 그 소속기관 정원과 조직에 관한 훈령」",
+            "line_text": "",
+            "target_law_name": "관세청과 그 소속기관 정원과 조직에 관한 훈령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "52006",
+            "target_url": "https://www.law.go.kr/행정규칙/관세청과 그 소속기관 정원과 조직에 관한 훈령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:관세국경인재개발원기본운영규정#JO0013_02",
+            "reference_id": "admrul:관세청과그소속기관정원과조직에관한훈령#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "관세청과 그 소속기관 정원과 조직에 관한 훈령/관세청과 그 소속기관 정원과 조직에 관한 훈령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조의2",
+            "source_clause": "제13조의2제3항",
             "link_text": "제2조",
             "line_text": "",
             "target_law_name": "관세청과 그 소속기관 정원과 조직에 관한 훈령",
@@ -1030,10 +1110,10 @@
       "content": "부칙 <제1호,2016. 3. 1.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세국경인재개발원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281524",
+      "source_mst": "2100000287120",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20170228",
@@ -1041,10 +1121,10 @@
       "content": "부칙 <제2호,2017. 2. 28.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세국경인재개발원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281524",
+      "source_mst": "2100000287120",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20170413",
@@ -1052,10 +1132,10 @@
       "content": "부칙 <제3호,2017. 4. 13.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세국경인재개발원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281524",
+      "source_mst": "2100000287120",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20180330",
@@ -1063,10 +1143,10 @@
       "content": "부칙 <제4호,2018. 3. 30.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세국경인재개발원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281524",
+      "source_mst": "2100000287120",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20180928",
@@ -1074,10 +1154,10 @@
       "content": "부칙 <제5호,2018. 9. 28.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세국경인재개발원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281524",
+      "source_mst": "2100000287120",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20190304",
@@ -1085,10 +1165,10 @@
       "content": "부칙 <제6호,2019. 3. 4.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세국경인재개발원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281524",
+      "source_mst": "2100000287120",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20191205",
@@ -1096,10 +1176,10 @@
       "content": "부칙 <제7호,2019. 12. 5.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세국경인재개발원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281524",
+      "source_mst": "2100000287120",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20200225",
@@ -1107,10 +1187,10 @@
       "content": "부칙 <제8호,2020. 2. 25.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세국경인재개발원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281524",
+      "source_mst": "2100000287120",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20210701",
@@ -1118,10 +1198,10 @@
       "content": "부칙 <제9호, 2021. 7. 1.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세국경인재개발원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281524",
+      "source_mst": "2100000287120",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20210917",
@@ -1129,10 +1209,10 @@
       "content": "부칙 <제10호, 2021. 9. 17.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세국경인재개발원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281524",
+      "source_mst": "2100000287120",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20211228",
@@ -1140,10 +1220,10 @@
       "content": "부칙 <제1호, 2021. 12. 28.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세국경인재개발원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281524",
+      "source_mst": "2100000287120",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20230830",
@@ -1151,10 +1231,10 @@
       "content": "부칙 <제2호, 2023. 8. 30.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세국경인재개발원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281524",
+      "source_mst": "2100000287120",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20240926",
@@ -1162,10 +1242,10 @@
       "content": "부칙 <제3호, 2024. 9. 26.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세국경인재개발원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281524",
+      "source_mst": "2100000287120",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20251230",
@@ -1173,10 +1253,10 @@
       "content": "부칙 <제4호, 2025. 12. 30.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세국경인재개발원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281524",
+      "source_mst": "2100000287120",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20260219",
@@ -1184,10 +1264,10 @@
       "content": "부칙 <제1호, 2026. 2. 19.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세국경인재개발원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281524",
+      "source_mst": "2100000287120",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20260701",
@@ -1195,10 +1275,21 @@
       "content": "부칙 <제2호, 2026. 7. 1.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:관세국경인재개발원기본운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000281524",
+      "source_mst": "2100000287120",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260701"
+      "version_enforcement_date": "20261026"
+    },
+    {
+      "promulgation_date": "20261026",
+      "promulgation_no": "3",
+      "content": "부칙 <제3호, 2026. 10. 26.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:관세국경인재개발원기본운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000287120",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261026"
     }
   ],
   "appendices": [
@@ -1210,18 +1301,18 @@
       "enforcement_date": "",
       "content": "[별표 1]\n\n관세국경인재개발원 공무원 정원표(제13조 관련)\n┌───────────────────────┬─┐\n│총 계                                         │57│\n├───────────────────────┼─┤\n│  일반직 계                                   │57│\n├───────────────────────┼─┤\n│    고위공무원단에 속하는 임기제(원장)        │1 │\n├───────────────────────┼─┤\n│      서기관                                  │2 │\n├───────────────────────┼─┤\n│      서기관 또는 행정사무관                  │0 │\n├───────────────────────┼─┤\n│      행정사무관                              │ 7│\n├───────────────────────┼─┤\n│      공업사무관                              │1 │\n├───────────────────────┼─┤\n│      관세주사                                │ 6│\n├───────────────────────┼─┤\n│      관세주사보                              │5 │\n├───────────────────────┼─┤\n│      관세주사보 또는 해양수산주사보          │1 │\n├───────────────────────┼─┤\n│      공업주사보                              │1 │\n├───────────────────────┼─┤\n│      전산주사보                              │1 │\n├───────────────────────┼─┤\n│      관세서기                                │1 │\n├───────────────────────┼─┤\n│      공업서기                                │1 │\n├───────────────────────┼─┤\n│      방송통신서기                            │0 │\n├───────────────────────┼─┤\n│      관세서기보                              │3 │\n├───────────────────────┼─┤\n│      관세서기보 또는 방송통신서기보          │1 │\n├───────────────────────┼─┤\n│      운전서기보                              │2 │\n├───────────────────────┼─┤\n│      위생서기보                              │4 │\n├───────────────────────┼─┤\n│      방호서기보                              │4 │\n├───────────────────────┼─┤\n│      전문경력관 나군(X-Ray검색 및 판독 담당) │1 │\n├───────────────────────┼─┤\n│      전문경력관 나군(탐지조사 담당)          │5 │\n├───────────────────────┼─┤\n│      전문경력관 다군(탐지조사 담당)          │10│\n└───────────────────────┴─┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281524&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166525101",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287120&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170807353",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166524897",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170807349",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166525101",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170807353",
           "name": "",
           "file_store_url": ""
         }
@@ -1241,18 +1332,18 @@
       "enforcement_date": "",
       "content": "[별표 2] 삭제 <2026. 7. 1.>",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281524&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166525107",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287120&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170807359",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166525103",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170807355",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166525107",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170807359",
           "name": "",
           "file_store_url": ""
         }
@@ -1267,24 +1358,32 @@
   ],
   "attachments": [
     {
-      "name": "(260701) 「관세국경인재개발원 기본운영규정」 개정전문.hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=166503279",
-      "filename": "(260701) 「관세국경인재개발원 기본운영규정」 개정전문.hwpx",
+      "name": "「관세국경인재개발원 기본운영규정」 개정전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170807305",
+      "filename": "「관세국경인재개발원 기본운영규정」 개정전문.hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/(260701) 「관세국경인재개발원 기본운영규정」 개정전문.hwpx",
+      "local_path": "첨부파일/「관세국경인재개발원 기본운영규정」 개정전문.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "「관세국경인재개발원 기본운영규정」 개정전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170807309",
+      "filename": "「관세국경인재개발원 기본운영규정」 개정전문.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/「관세국경인재개발원 기본운영규정」 개정전문.pdf",
       "file_store_url": ""
     }
   ],
   "ordinance_delegations": [],
   "relation_mode": "no_crawl",
   "relation_stats": {
-    "relations_total": 28,
+    "relations_total": 32,
     "by_category": {
-      "법령": 23,
-      "행정규칙": 5
+      "법령": 25,
+      "행정규칙": 7
     },
     "by_relation_type": {
-      "citation": 26,
+      "citation": 30,
       "appendix_ref": 2
     },
     "articles_total": 36,
@@ -1292,9 +1391,9 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 16,
+    "addenda_count": 17,
     "appendices_count": 2,
-    "attachments_count": 1
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/관세국경인재개발원 기본운영규정"
