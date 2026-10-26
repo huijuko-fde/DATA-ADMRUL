@@ -1,25 +1,25 @@
 {
   "law_id": "37653",
-  "mst": "2100000274804",
+  "mst": "2100000287244",
   "law_name": "보호직 공무원의 조사관 등 자격 인정 및 절차에 관한 규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:37653",
-  "promulgation_no": "1604",
-  "promulgation_date": "20260213",
-  "enforcement_date": "20260213",
-  "revision_date": "20260213",
+  "promulgation_no": "1651",
+  "promulgation_date": "20261026",
+  "enforcement_date": "20261026",
+  "revision_date": "20261026",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "법무부(보호관찰과)",
-    "담당자명": "김보라",
+    "담당자명": "박중현",
     "행정규칙종류코드": "B0001",
-    "행정규칙명": "보호직 공무원의 조사관 등 자격 인정 및 절차에 관한 규정 ",
-    "발령일자": "20260213",
+    "행정규칙명": "보호직 공무원의 조사관 등 자격 인정 및 절차에 관한 규정",
+    "발령일자": "20261026",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "02-2110-3433",
     "제개정구분명": "일부개정",
     "소관부처코드": "1270000",
-    "생성일자": "20260220",
+    "생성일자": "20261026",
     "행정규칙ID": "37653",
-    "시행일자": "20260213",
-    "담당부서기관코드": "1272421",
-    "발령번호": "1604",
-    "행정규칙일련번호": "2100000274804",
+    "시행일자": "20261026",
+    "담당부서기관코드": "1271652",
+    "발령번호": "1651",
+    "행정규칙일련번호": "2100000287244",
     "상위부처명": "법무부"
   },
-  "amendment_text": "",
-  "revision_reason": "◇ 개정 필요성\n○ 조사관 자격 인정시험의 심리학 분야 교육 이수 및 필기시험 면제[1]에 대한 공정성 우려\n[1] 1급 임상심리사, 1급 정신건강임상심리사\n- 타응시자와 동일한 과정을 거쳐 조사업무 수행에 필요한 사항 검증 필요\n○ 전문조사관 인정시험의 서류평가 통과자에 대한 서류평가 면제 기준 필요\n- 다음 회의 평가에 한해 서류평가를 면제하여 자격 시험 운용의 효율성 확보\n◇ 개정안 주요 내용\n○ 조사관 자격시험 교육이수 및 필기시험 면제 기준 삭제(제8조 및 제9조)\n- 1급 임상심리사 또는 1급 정신건강임상심리사에 대한 심리학 분야 교육이수 및 필기시험 면제 규정 삭제\n○ 전문조사관 서류평가 면제 규정 신설(제13조)\n- 서류평가 통과자가 면접평가에 통과하지 못한 경우 다음 회의 평가에 한정하여 서류평가를 면제\n○ 서식 개정(별표 제1호 및 제1호의2 서식)\n- ‘조사관 자격 인정시험 수험원서’(별표 제1호) 및 ‘전문조사관 자격 인정시험 응시원서’(별표 제1호의2) 서식 개정",
+  "amendment_text": "⊙법무부훈령 제1651호\n보호직 공무원의 조사관 등 자격 인정 및 절차에 관한 규정 일부를 다음과 같이 개정한다.\n2026년 10월 26일\n법무부장관\n보호직 공무원의 조사관 등 자격 인정 및 절차에 관한 규정 일부개정훈령\n보호직 공무원의 조사관 등 자격 인정 및 절차에 관한 규정 일부를 다음과 같이 개정한다.\n제3조제1항제13호 중 \"검찰\"을 \"공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다)\"으로 한다.\n부칙\n이 규정은 2026년 10월 26일부터 시행한다.",
+  "revision_reason": "◇ 개정이유\n2026년 10월 2일 「검찰청법」 폐지 및 「공소청법」, 「중대범죄수사청 조직 및 운영에 관한 법률」 시행에 따라 검찰청이 폐지되고 공소청과 중대범죄수사청이 출범하는 등 새로운 형사사법체계에 맞추어 현행 \"검찰청\" 조직의 명칭을 변경하는 내용으로 관계 규정을 정비하고자 함\n◇ 주요내용\n가. 결정전조사 요청 기관을 \"검찰\"에서 \"공소청(광역공소청, 지방공소청 및 지방공소청 지청)\"으로 명칭 변경함(안 제3조제1항제13호)\n나. 시행일을 기준으로 매 3년이 되는 시점마다 그 타당성을 검토하여 개선 등의 조치를 하도록 규정함(안 제21조)",
   "body": {
     "format": "articles",
     "article_count": 21,
@@ -190,7 +190,7 @@
         "article_title": "조사관 및 전문조사관의 직무",
         "chapter": "",
         "chapter_path": "",
-        "content": "제3조(조사관 및 전문조사관의 직무) ① 조사관은 다음 각 호의 사항을 직무로 한다.1. 「보호관찰 등에 관한 법률」 제19조에 따른 판결전조사2. 「보호관찰 등에 관한 법률」 제19조의2에 따른 결정전조사3. 「보호관찰 등에 관한 법률」 제26조에 따른 환경조사4. 「보호관찰 등에 관한 법률」 제28조에 따른 보호관찰 사안조사5. 「전자장치 부착 등에 관한 법률」 제6조에 따른 청구전조사6. 법률 제9112호 「특정 성폭력범죄자에 대한 위치추적 전자장치 부착에 관한 법률」 부칙 제2조에 따른 청구전조사7. 「성폭력범죄자의 성충동 약물치료에 관한 법률」 제5조에 따른 청구전조사8. 「보호소년 등의 처우에 관한 법률」 제3조에 따른 조사 또는 분류심사9. 「소년법」제49조의2에 따른 검사의 결정전조사10. 「가정폭력범죄의 처벌 등에 관한 특례법」제21조에 따른 조사11. 「성매매알선 등 행위의 처벌에 관한 법률」제17조에 따른 조사12. 「아동학대범죄의 처벌 등에 관한 특례법」제25조에 따른 검사의 결정  전조사13. 그 밖에 다른 법령에 따라 수사ㆍ재판과 관련하여 법원 또는 검찰로부터 요청받은 사항에 관한 조사② 전문조사관은 다음 각 호의 사항을 직무로 한다.1. 제1항에 따른 조사관의 직무2. 조사 매뉴얼(위험성평가도구) 개발 및 보완3. 사례연구 및 발표4. 조사관 지도 및 전문화 교육5. 조사관 조사서 평가6. 그 밖에 조사업무 향상에 필요한 사항",
+        "content": "제3조(조사관 및 전문조사관의 직무) ① 조사관은 다음 각 호의 사항을 직무로 한다.1. 「보호관찰 등에 관한 법률」 제19조에 따른 판결전조사2. 「보호관찰 등에 관한 법률」 제19조의2에 따른 결정전조사3. 「보호관찰 등에 관한 법률」 제26조에 따른 환경조사4. 「보호관찰 등에 관한 법률」 제28조에 따른 보호관찰 사안조사5. 「전자장치 부착 등에 관한 법률」 제6조에 따른 청구전조사6. 법률 제9112호 「특정 성폭력범죄자에 대한 위치추적 전자장치 부착에 관한 법률」 부칙 제2조에 따른 청구전조사7. 「성폭력범죄자의 성충동 약물치료에 관한 법률」 제5조에 따른 청구전조사8. 「보호소년 등의 처우에 관한 법률」 제3조에 따른 조사 또는 분류심사9. 「소년법」제49조의2에 따른 검사의 결정전조사10. 「가정폭력범죄의 처벌 등에 관한 특례법」제21조에 따른 조사11. 「성매매알선 등 행위의 처벌에 관한 법률」제17조에 따른 조사12. 「아동학대범죄의 처벌 등에 관한 특례법」제25조에 따른 검사의 결정  전조사13. 그 밖에 다른 법령에 따라 수사ㆍ재판과 관련하여 법원 또는 공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다)으로부터 요청받은 사항에 관한 조사② 전문조사관은 다음 각 호의 사항을 직무로 한다.1. 제1항에 따른 조사관의 직무2. 조사 매뉴얼(위험성평가도구) 개발 및 보완3. 사례연구 및 발표4. 조사관 지도 및 전문화 교육5. 조사관 조사서 평가6. 그 밖에 조사업무 향상에 필요한 사항",
         "enforcement_date": "",
         "relations": [
           {
@@ -810,7 +810,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37653",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733153",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854811",
             "resolve_method": "html",
             "source_provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#JO0010",
             "target_unit": "BJ0001",
@@ -847,7 +847,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37653",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274804&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287244&bylNo=0001&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#JO0011",
             "target_unit": "BYL0001",
@@ -884,7 +884,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37653",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274804&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287244&bylNo=0003&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#JO0012",
             "target_unit": "BYL0003",
@@ -941,7 +941,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37653",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733159",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854817",
             "resolve_method": "html",
             "source_provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#JO0013",
             "target_unit": "BJ0001_02",
@@ -978,7 +978,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37653",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274804&bylNo=0001&bylBrNo=02",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287244&bylNo=0001&bylBrNo=02",
             "resolve_method": "html",
             "source_provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#JO0014",
             "target_unit": "BYL0001_02",
@@ -1015,7 +1015,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37653",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274804&bylNo=0001&bylBrNo=03",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287244&bylNo=0001&bylBrNo=03",
             "resolve_method": "html",
             "source_provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#JO0015",
             "target_unit": "BYL0001_03",
@@ -1092,7 +1092,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37653",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733165",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854983",
             "resolve_method": "html",
             "source_provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#JO0016",
             "target_unit": "BJ0002",
@@ -1157,7 +1157,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37653",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733171",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854989",
             "resolve_method": "html",
             "source_provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#JO0016",
             "target_unit": "BJ0002_02",
@@ -1214,7 +1214,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37653",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733177",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854995",
             "resolve_method": "html",
             "source_provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#JO0017",
             "target_unit": "BJ0003",
@@ -1239,7 +1239,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37653",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733183",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855001",
             "resolve_method": "html",
             "source_provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#JO0017",
             "target_unit": "BJ0003_02",
@@ -1276,7 +1276,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "37653",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274804&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287244&bylNo=0002&bylBrNo=00",
             "resolve_method": "html",
             "source_provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#JO0018",
             "target_unit": "BYL0002",
@@ -1416,7 +1416,7 @@
         "article_title": "재검토기한",
         "chapter": "",
         "chapter_path": "",
-        "content": "제21조(재검토기한) 법무부장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제431호)에 따라 이 훈령에 대하여 2025년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "content": "제21조(재검토기한) 법무부장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 훈령에 대하여 시행일을 기준으로 매 3년이 되는 시점(매 3년째의 전달 말일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1452,10 +1452,10 @@
       "content": "부칙 <제796호,2010. 8. 19.>이 훈령은 제정한 날부터 시행한다.",
       "provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274804",
+      "source_mst": "2100000287244",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260213"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20121206",
@@ -1463,10 +1463,10 @@
       "content": "부칙 <제877호,2012. 12. 6.>이 규정은 2012년 12월 6일부터 시행한다.",
       "provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274804",
+      "source_mst": "2100000287244",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260213"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20151206",
@@ -1474,10 +1474,10 @@
       "content": "부칙 <제1030호,2015. 12. 6.>이 규정은 2015년 12월 6일부터 시행한다.",
       "provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274804",
+      "source_mst": "2100000287244",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260213"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20160302",
@@ -1485,10 +1485,10 @@
       "content": "부칙 <제1055호,2016. 3. 2.>이 규정은 2017년 1월 1일부터 시행한다.",
       "provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274804",
+      "source_mst": "2100000287244",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260213"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20161222",
@@ -1496,10 +1496,10 @@
       "content": "부칙 <제1084호,2016. 12. 22.>이 규정은 2017년 1월 1일부터 시행한다.",
       "provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274804",
+      "source_mst": "2100000287244",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260213"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20180719",
@@ -1507,10 +1507,10 @@
       "content": "부칙 <제1167호,2018. 7. 19.>이 규정은 2018년 7월 23일부터 시행한다.",
       "provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274804",
+      "source_mst": "2100000287244",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260213"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20190326",
@@ -1518,10 +1518,10 @@
       "content": "부칙 <제1214호,2019. 3. 26.>이 규정은 2019년 3월 28일부터 시행한다.",
       "provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274804",
+      "source_mst": "2100000287244",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260213"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20200225",
@@ -1529,10 +1529,10 @@
       "content": "부칙 <제1284호,2020. 2. 25.>이 규정은 2020년 2월 27일부터 시행한다.",
       "provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274804",
+      "source_mst": "2100000287244",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260213"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20220413",
@@ -1540,10 +1540,10 @@
       "content": "부칙 <제1413호, 2022. 4. 13.>이 규정은 2022년 4월 21일부터 시행한다.",
       "provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274804",
+      "source_mst": "2100000287244",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260213"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20250217",
@@ -1551,10 +1551,10 @@
       "content": "부칙 <제1569호, 2025. 2. 17.>이 규정은 2025년 2월 17일부터 시행한다.",
       "provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274804",
+      "source_mst": "2100000287244",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260213"
+      "version_enforcement_date": "20261026"
     },
     {
       "promulgation_date": "20260213",
@@ -1562,10 +1562,21 @@
       "content": "부칙 <제1604호, 2026. 2. 13.>이 규정은 2026년 2월 13일부터 시행한다.",
       "provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274804",
+      "source_mst": "2100000287244",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260213"
+      "version_enforcement_date": "20261026"
+    },
+    {
+      "promulgation_date": "20261026",
+      "promulgation_no": "1651",
+      "content": "부칙 <제1651호, 2026. 10. 26.>이 규정은 2026년 10월 26일부터 시행한다.",
+      "provision_id": "admrul:보호직공무원의조사관등자격인정및절차에관한규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000287244",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261026"
     }
   ],
   "appendices": [
@@ -1577,18 +1588,18 @@
       "enforcement_date": "",
       "content": "\n■ 별표 제1호 서식\n\n조사서 및 분류심사서 내용평가 기준\n┌───────────┬──┬──────────────────────────────┬──┐\n│평가항목              │만점│평가기준                                                    │평가│\n│                      │    │                                                            │점수│\n┝━━━━━━━━━━━┿━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━┥\n│①오탈자, 문장구성력  │20  │조사서의 오탈자 유무, 적절한 문장구성 정도, 문장의          │    │\n│                      │    │간결성, 정확성 등 평가                                      │    │\n│                      │    ├────┬────┬────┬────┬──────────┤    │\n│                      │    │우수 20 │적절 18 │보통 16 │미흡 12 │부적절 10           │    │\n├───────────┼──┼────┴────┴────┴────┴──────────┼──┤\n│②논리적 일관성       │20  │조사서가 얼마나 논리적으로 일관성을 유지하고 있는지         │    │\n│                      │    │평가                                                        │    │\n│                      │    ├────┬────┬────┬────┬──────────┤    │\n│                      │    │우수 20 │적절 18 │보통 16 │미흡 12 │부적절 10           │    │\n├───────────┼──┼────┴────┴────┴────┴──────────┼──┤\n│③객관성              │20  │근거자료 제시 등을 통해 조사서를 얼마나 객관적 사실에       │    │\n│                      │    │근거하여 작성하였는지 평가                                  │    │\n│                      │    ├────┬────┬────┬────┬──────────┤    │\n│                      │    │우수 20 │적절 18 │보통 16 │미흡 12 │부적절              │    │\n│                      │    │        │        │        │        │10                  │    │\n├───────────┼──┼────┴────┴────┴────┴──────────┼──┤\n│④조사 충실도         │20  │대상자, 가족, 피해자 등 관계인 면접, 범죄경력, 범행수       │    │\n│                      │    │법 등 과거 범죄사실, 입원치료기록 등 상세한 관련자료를      │    │\n│                      │    │제시하여 조사서를 충실히 작성하였는지 평가                  │    │\n│                      │    ├────┬────┬────┬────┬──────────┤    │\n│                      │    │우수 20 │적절 18 │보통 16 │미흡 12 │부적절              │    │\n│                      │    │        │        │        │        │10                  │    │\n├───────────┼──┼────┴────┴────┴────┴──────────┼──┤\n│⑤심리검사도구 활용   │10  │대상자 특성에 맞는 심리검사도구 선정, 심리검사결과의        │    │\n│  적정성              │    │정확한 해석 등 활용 적정성 평가                             │    │\n│                      │    ├────┬────┬────┬────┬──────────┤    │\n│                      │    │우수 10 │적절 9  │보통 8  │미흡 6  │부적절 4            │    │\n├───────────┼──┼────┴────┴────┴────┴──────────┼──┤\n│⑥조사자 의견의 적정성│10  │조사자 의견의 조사결과 및 조사 취지에의 부합 정도, 보호     │    │\n│                      │    │관찰?사회봉사?수강명령 필요성 여부, 전자발찌 부착 필요성, │    │\n│                      │    │보호소년 지도방안, 비행예측 등 제시의견이 적정한가를        │    │\n│                      │    │평가                                                        │    │\n│                      │    ├────┬────┬────┬────┬──────────┤    │\n│                      │    │우수 10 │적절 9  │보통 8  │미흡 6  │부적절 4            │    │\n├───────────┼──┼────┴────┴────┴────┴──────────┼──┤\n│합   계               │100 │                                                            │    │\n└───────────┴──┴──────────────────────────────┴──┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274804&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733083",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287244&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855007",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733079",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855003",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733083",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855007",
           "name": "",
           "file_store_url": ""
         }
@@ -1608,18 +1619,18 @@
       "enforcement_date": "",
       "content": "\n■ 별표 제1호의2 서식\n\n전문조사관 서류평가 기준표\n┌──────┬──┬─────────────────────────┬──┐\n│분야        │만점│평가기준                                          │평가│\n│            │    │                                                  │점수│\n┝━━━━━━┿━━┿━━━━━━━━━━━━━━━━━━━━━━━━━┿━━┥\n│형식적 영역 │5   │① 업무지침 등 준수 여부                          │    │\n│(20)        │    ├────┬────┬─────┬────┬────┤    │\n│            │    │우수 5  │적절 4  │보통 3    │미흡 2  │부적절 1│    │\n│            ├──┼────┴────┴─────┴────┴────┼──┤\n│            │10  │② 문장 구성 적정성(적절한 문장 짜임, 문장 간결성, 정확성 등)│    │\n│            │    ├────┬────┬─────┬────┬────┤    │\n│            │    │우수 10 │적절 8  │보통 6    │미흡 4  │부적절 2│    │\n│            ├──┼────┴────┴─────┴────┴────┼──┤\n│            │5   │③ 편집의 적절성(가독성, 오탈자 유무 등)          │    │\n│            │    ├────┬────┬─────┬────┬────┤    │\n│            │    │우수 5  │적절 4  │보통 3    │미흡 2  │부적절 1│    │\n├──────┼──┼────┴────┴─────┴────┴────┼──┤\n│내용적 영역 │10  │① 조사서(심사서) 객관성 및 정확성(근거자료 제시 등)│    │\n│(60)        │    ├────┬────┬────┬────┬─────┤    │\n│            │    │우수 10 │적절 8  │보통 6  │미흡 4  │부적절 2  │    │\n│            ├──┼────┴────┴────┴────┴─────┼──┤\n│            │10  │② 조사서(심사서) 충실성                          │    │\n│            │    │   - 대상자, 가족, 피해자 등 관계인 면접          │    │\n│            │    │   - 범죄경력, 범행수법 등 과거 범죄사실 확인     │    │\n│            │    │   - 입원치료기록 등 상세한 근거 자료 제시        │    │\n│            │    ├────┬────┬────┬────┬─────┤    │\n│            │    │우수 10 │적절 8  │보통 6  │미흡 4  │부적절 2  │    │\n│            ├──┼────┴────┴────┴────┴─────┼──┤\n│            │20  │③ 조사서(심사서) 범죄요인에 대한 분석력          │    │\n│            │    ├────┬────┬────┬────┬─────┤    │\n│            │    │우수 20 │적절 17 │보통 14 │미흡 11 │부적절 8  │    │\n│            ├──┼────┴────┴────┴────┴─────┼──┤\n│            │20  │④ 조사서(심사서) 전문성                          │    │\n│            │    │   - 대상자 특성에 맞는 심리검사도구 활용, 심리검사결과에 대한 │    │\n│            │    │적절한 해석 및 의견제시 등                        │    │\n│            │    ├────┬────┬────┬────┬─────┤    │\n│            │    │우수 20 │적절 17 │보통 14 │미흡 11 │부적절 8  │    │\n├──────┼──┼────┴────┴────┴────┴─────┼──┤\n│조사자 의견 │10  │① 조사자 조사결과와 조사 취지 부합 여부          │    │\n│영역        │    │   - 논리의 일관성 등                             │    │\n│(20)        │    ├────┬────┬────┬────┬─────┤    │\n│            │    │우수 10 │적절 8  │보통 6  │미흡 4  │부적절 2  │    │\n│            ├──┼────┴────┴────┴────┴─────┼──┤\n│            │5   │② 제시 의견의 적정성                             │    │\n│            │    │   - 보호관찰?사회봉사?수강명령 필요성 여부, 전자발찌 부착 필요성, │    │\n│            │    │보호소년 지도방안 등 제시의견에 대한 평가         │    │\n│            │    ├────┬────┬────┬────┬─────┤    │\n│            │    │우수 5  │적절 4  │보통 3  │미흡 2  │부적절 1  │    │\n│            ├──┼────┴────┴────┴────┴─────┼──┤\n│            │5   │③ 비행예측(재범위험성)의 적정성                  │    │\n│            │    ├────┬────┬────┬────┬─────┤    │\n│            │    │우수 5  │적절 4  │보통 3  │미흡 2  │부적절 1  │    │\n├──────┼──┼────┴────┴────┴────┴─────┼──┤\n│합   계     │100 │                                                  │    │\n└──────┴──┴─────────────────────────┴──┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274804&bylNo=0001&bylBrNo=02",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733089",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287244&bylNo=0001&bylBrNo=02",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855013",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733085",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855009",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733089",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855013",
           "name": "",
           "file_store_url": ""
         }
@@ -1639,18 +1650,18 @@
       "enforcement_date": "",
       "content": "\n■ 별표 제1호의3 서식\n\n전문조사관 면접평가 기준표\n┌─────────┬──┬──────────────────────────────┬──┐\n│분야              │만점│평가기준                                                    │평가│\n│                  │    │                                                            │점수│\n┝━━━━━━━━━┿━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━┥\n│①업무이해도      │30  │조사업무의 필요성 및 중요성에 대한 이해, 조사관 제도에 대한 │    │\n│                  │    │의견 등                                                     │    │\n│                  │    ├────┬────┬────┬────┬──────────┤    │\n│                  │    │우수 30 │적절 25 │보통 20 │미흡 15 │부적절 10           │    │\n├─────────┼──┼────┴────┴────┴────┴──────────┼──┤\n│②업무전문성      │30  │심리검사도구 및 재범위험성 평가도구에 대한 이해, 면담기술에 │    │\n│                  │    │대한 이해 및 활용 능력, 조사자 의견 제시에 대한 기준 등     │    │\n│                  │    ├────┬────┬────┬────┬──────────┤    │\n│                  │    │우수 30 │적절 25 │보통 20 │미흡 15 │부적절 10           │    │\n├─────────┼──┼────┴────┴────┴────┴──────────┼──┤\n│③조사관 지도 역할│30  │전문조사관의 직무, 직원교육, 조사관제도 운영 등에 대한 전문 │    │\n│                  │    │조사관의 역할에 대한 소견 등                                │    │\n│                  │    ├────┬────┬────┬────┬──────────┤    │\n│                  │    │우수 30 │적절 25 │보통 20 │미흡 15 │부적절 10           │    │\n├─────────┼──┼────┴────┴────┴────┴──────────┼──┤\n│④조사 실무       │10  │조사업무 수행과정에 대한 태도 등                            │    │\n│                  │    ├────┬────┬────┬────┬──────────┤    │\n│                  │    │우수 10 │적절 8  │보통 6  │미흡 4  │부적절 2            │    │\n├─────────┼──┼────┴────┴────┴────┴──────────┼──┤\n│합   계           │100 │                                                            │    │\n└─────────┴──┴──────────────────────────────┴──┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274804&bylNo=0001&bylBrNo=03",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733095",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287244&bylNo=0001&bylBrNo=03",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855019",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733091",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855015",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733095",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855019",
           "name": "",
           "file_store_url": ""
         }
@@ -1670,18 +1681,18 @@
       "enforcement_date": "",
       "content": "\n■ 별표 제2호 서식\n\n보수교육 과정\n┌─────────────┬────────────────┐\n│분야                      │교과목                          │\n├─────────────┼────────────────┤\n│판결전조사 등 조사분야    │1. 판결전조사제도론             │\n│                          │2. 판결전조사 실무              │\n│                          │3. 분류심사 제도론              │\n│                          │4. 분류심사 실무                │\n│                          │5. 재범위험성 예측도구 활용     │\n│                          │6. 청구전 조사제도의 이해       │\n│                          │7. KSORAS의 이해                │\n│                          │8. 결정전조사의 이해            │\n│                          │9. 판결전조사 사례연구          │\n│                          │10. 청구전조사 사례연구         │\n│                          │11. 결정전조사 사례연구         │\n│                          │12. 분류심사 사례연구           │\n│                          │13. PCL-R의 이해                │\n├─────────────┼────────────────┤\n│심리학?심리검사 관련분야 │1. 심리학의 이해                │\n│                          │2. 상담 및 면접기법             │\n│                          │3. 인지행동치료의 이해          │\n│                          │4. 이상심리와 정신병리의 이해   │\n│                          │5. 심리검사의 이해              │\n│                          │6. 지능?적성검사의 이해와 실습 │\n│                          │7. 특수인성검사의 이해          │\n│                          │8. 행동관찰의 이해              │\n│                          │9. MMPI의 이해                  │\n│                          │10. PAI검사 이해                │\n└─────────────┴────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274804&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733141",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287244&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855025",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733097",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855021",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733141",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855025",
           "name": "",
           "file_store_url": ""
         }
@@ -1701,18 +1712,18 @@
       "enforcement_date": "",
       "content": "\n■ 별표 제3호 서식\n\n조사서별 가중치\n┌─────────────────────────────┬───┐\n│구  분                                                    │가중치│\n├─────┬───────────────────────┼───┤\n│조사서    │청구전조사                                    │2.5   │\n│          ├───────────────────────┼───┤\n│          │판결전조사                                    │2.0   │\n│          ├───────────────────────┼───┤\n│          │법원결정전조사(가정폭력·아동학대·치료명령) /│1.5   │\n│          │인신보호사건 / 소급청구전조사                 │      │\n│          │검사결정전조사(아동학대·치료명령)            │      │\n│          ├───────────────────────┼───┤\n│          │법원결정전조사 / 사실조회 / 검사결정전조사    │1.0   │\n│          ├───────────────────────┼───┤\n│          │법원결정전조사(보석)                          │0.5   │\n├─────┼───────────────────────┼───┤\n│분류심사서│특수 분류심사서                               │2.0   │\n│          ├───────────────────────┼───┤\n│          │일반 분류심사서                               │1.5   │\n│          ├───────────────────────┼───┤\n│          │상담조사서                                    │1.0   │\n├─────┴───────────────────────┼───┤\n│※ 중요 사건 가중치                                       │1.0   │\n└─────────────────────────────┴───┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000274804&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733147",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000287244&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855031",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733143",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855027",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733147",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855031",
           "name": "",
           "file_store_url": ""
         }
@@ -1733,17 +1744,17 @@
       "content": "\n■ 별지 제1호 서식\n\n※ [  ]에는 해당되는 곳에 √표를 합니다.\n\n조사관 자격 인정시험 수험원서\n┌─────┬──────────────┬──────────┬─────────────────────┐\n│성  명    │                            │※수험번호          │                                          │\n├─────┼──────────────┼──────────┼─────────────────────┤\n│생년월일  │                            │사  진              │(3cm×4cm)                                │\n├─────┼──────────────┤                    │                                          │\n│소  속    │                            │                    │                                          │\n├─────┼──────────────┤                    │                                          │\n│직위(직급)│                            │                    │                                          │\n├─────┴──────────────┴──────────┴─────────────────────┤\n│                                                                                                          │\n├─────────────────────────────────────────────────────┤\n│교육과정 이수 확인                                                                                        │\n├────┬───┬─────┬────┬────┬─────┬──────┬──────┬─────┬──┤\n│과목명  │조사  │범죄에대한│조사평가│분류심사│심리학의  │심리검사의  │이상심리와  │인지행동치│형법│\n│        │제도론│심리학적  │도구활용│제도론  │이해      │이해        │정신병리의  │료의 이해 │    │\n│        │      │이해      │        │        │          │            │이해        │          │    │\n├────┼───┼─────┼────┼────┼─────┼──────┼──────┼─────┼──┤\n│이수일자│      │          │        │        │          │            │            │          │    │\n├────┴───┴─────┴────┴────┴─────┴──────┴──────┴─────┴──┤\n│                                                                                                          │\n├─────────────────────────────────────────────────────┤\n│재9조에 따른 필기시험 면제 대상 확인                                                                      │\n├───────────────┬─────────┬───────────────────────────┤\n│면제 분야                     │ 【 】 조사제도론 │합격연도 :      년                                    │\n│                              ├─────────┼───────────────────────────┤\n│                              │ 【 】 심  리  학 │합격연도 :      년                                    │\n├───────────────┴─────────┴───────────────────────────┤\n│ 위 본인은 조사관 자격인정 시험에 응시하고자 원서를 제출합니다.                                           │\n│ 이 원서에 기재한 내용이 사실과 다르거나 부정행위 등으로 인하여 합격 또는 자격을 취소하여도 아무런 이의를 제기하지 │\n│않겠습니다.                                                                                               │\n│                                                                                                          │\n│년       월       일                                                                                      │\n│                                                                                                          │\n│제출인               (서명 또는 인)                                                                       │\n│                                                                                                          │\n│법무부장관 귀하                                                                                           │\n┝━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┥\n│조사관 자격 인정시험 수험표                                                                               │\n├──────┬──────────────┬──────────┬────────────────────┤\n│성  명      │                            │※수험번호          │                                        │\n├──────┼──────────────┼──────────┼────────────────────┤\n│생년월일    │                            │사  진              │(3cm×4cm)                              │\n├──────┼──────────────┤                    │                                        │\n│소  속      │                            │                    │                                        │\n├──────┼──────────────┤                    │                                        │\n│직위(직급)  │                            │                    │                                        │\n├──────┴──────────────┼──────────┴────────────────────┤\n│년      월      일                        │※시험일자, 시간, 장소                                        │\n│            ┏━━┓                      │                                                              │\n│  법무부장관┃직인┃                      │                                                              │\n│            ┗━━┛                      │                                                              │\n└─────────────────────┴───────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733153",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854811",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733149",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854807",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733153",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854811",
           "name": "",
           "file_store_url": ""
         }
@@ -1764,17 +1775,17 @@
       "content": "\n■ 별지 제1호의2 서식\n\n전문조사관 자격 인정시험 응시 원서\n┌───────────┬────────────┬──────────┬─────────────────┐\n│성  명                │                        │※지원번호          │                                  │\n├───────────┼────────────┼──────────┼─────────────────┤\n│생년월일              │                        │사  진              │(3cm×4cm)                        │\n├───────────┼────────────┤                    │                                  │\n│소  속                │                        │                    │                                  │\n├───────────┼────────────┤                    │                                  │\n│직위(직급)            │                        │                    │                                  │\n├───────────┼────────────┤                    │                                  │\n│조사관 취득년도       │                        │                    │                                  │\n├───────────┴────────────┴──────────┴─────────────────┤\n│                                                                                                          │\n├─────────────────────────────────────────────────────┤\n│응시자 조사서 제출 분야(해당항목에 √ 체크)                                                               │\n├────┬─────┬─────┬──────┬──────────┬──────┬─────┬─────┤\n│과목명  │검사      │검사      │법원        │법원                │치료명령    │판결전조사│치료명령  │\n│        │결정전조사│결정전조사│결정전조사( │결정전조사          │결정전조사  │          │판결전조사│\n│        │(일반)    │(아동학대)│일반)       │(가정폭력,아동학대) │            │          │          │\n├────┼─────┼─────┼──────┼──────────┼──────┼─────┼─────┤\n│제출여부│          │          │            │                    │            │          │          │\n├────┴─────┴─────┴──────┴──────────┴──────┴─────┴─────┤\n│                                                                                                          │\n├────┬─────┬─────┬──────┬──────────┬──────┬─────┬─────┤\n│과목명  │소급      │청구전조사│인신보호    │분류심사서          │분류심사서( │상담조사서│          │\n│        │청구전조사│          │사건조사    │(특수)              │일반)       │          │          │\n├────┼─────┼─────┼──────┼──────────┼──────┼─────┤          │\n│제출여부│          │          │            │                    │            │          │          │\n├────┴─────┴─────┴──────┴──────────┴──────┴─────┴─────┤\n│제13조에 따른 서류평가 면제 대상 확인                                                                     │\n├─────────────────────────┬───────────────────────────┤\n│【 】해당 없음                                    │                                                      │\n├─────────────────────────┼───────────────────────────┤\n│【 】해당 있음                                    │합격연도 :     년                                     │\n├─────────────────────────┴───────────────────────────┤\n│ 위 본인은 전문조사관 자격인정 시험에 응시하고자 원서를 제출합니다.                                       │\n│ 이 원서에 기재한 내용이 사실과 다르거나 부정행위 등으로 인하여 합격 또는 자격을                          │\n│취소하여도 아무런 이의를 제기하지 않겠습니다.                                                             │\n│                                                                                                          │\n│년       월       일                                                                                      │\n│                                                                                                          │\n│제출인               (서명 또는 인)                                                                       │\n│                                                                                                          │\n│법무부장관 귀하                                                                                           │\n┝━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┥\n│전문조사관 자격 인정시험 응시표                                                                           │\n├───────────┬──────────────┬─────────┬────────────────┤\n│성  명                │                            │※수험번호        │                                │\n├───────────┼──────────────┼─────────┼────────────────┤\n│생년월일              │                            │사  진            │(3cm×4cm)                      │\n├───────────┼──────────────┤                  │                                │\n│소  속                │                            │                  │                                │\n├───────────┼──────────────┤                  │                                │\n│직위(직급)            │                            │                  │                                │\n├───────────┼──────────────┤                  │                                │\n│조사관 취득년도       │                            │                  │                                │\n├───────────┴──────────────┼─────────┴────────────────┤\n│년      월      일                                  │※시험일자, 시간, 장소                              │\n│            ┏━━┓                                │                                                    │\n│  법무부장관┃직인┃                                │                                                    │\n│            ┗━━┛                                │                                                    │\n└──────────────────────────┴──────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733159",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854817",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733155",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854813",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733159",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854817",
           "name": "",
           "file_store_url": ""
         }
@@ -1795,17 +1806,17 @@
       "content": "\n■ 별지 제2호 서식\n┌──────────────────────────────────┐\n│                                                                    │\n│조사관 자격 인정서                                                  │\n│                                                                    │\n│   자격번호 20○○-○                                               │\n│   소속                                                             │\n│   직위(직급)                      성명                             │\n│                                                                    │\n│                                                                    │\n│ 위 사람은 조사업무 수행에 필요한 전문성을 갖추어 조사관 자격시험에 │\n│합격하였기에 본 인정서를 드립니다.                                  │\n│                                                                    │\n│                                                                    │\n│                                                                    │\n│                                                                    │\n│                                                                    │\n│   년     월     일                                                 │\n│                                                                    │\n│                                                                    │\n│                                                                    │\n│                                                                    │\n│                                                                    │\n│            ┏━━┓                                                │\n│  법무부장관┃직인┃                                                │\n│            ┗━━┛                                                │\n│                                                                    │\n└──────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733165",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854983",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733161",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854979",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733165",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854983",
           "name": "",
           "file_store_url": ""
         }
@@ -1826,17 +1837,17 @@
       "content": "\n■ 별지 제2호의2 서식\n┌─────────────────────────────────┐\n│                                                                  │\n│전문조사관 자격 인정서                                            │\n│                                                                  │\n│   자격번호 20○○-○                                             │\n│   소속                                                           │\n│   직위(직급)                      성명                           │\n│                                                                  │\n│                                                                  │\n│ 위 사람은 조사업무를 전문적으로 수행하고 조사관 개별지도를 담당하│\n│기에 충분한 자격을 갖추었기에 본 인정서를 드립니다.               │\n│                                                                  │\n│                                                                  │\n│                                                                  │\n│                                                                  │\n│                                                                  │\n│   년     월     일                                               │\n│                                                                  │\n│                                                                  │\n│                                                                  │\n│                                                                  │\n│                                                                  │\n│            ┏━━┓                                              │\n│  법무부장관┃직인┃                                              │\n│            ┗━━┛                                              │\n│                                                                  │\n└─────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733171",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854989",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733167",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854985",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733171",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854989",
           "name": "",
           "file_store_url": ""
         }
@@ -1857,17 +1868,17 @@
       "content": "\n■ 별지 제3호 서식\n\n조사관 자격취득자 관리대장\n┌─────┬──┬─────┬──┬────┬────┬───┐\n│자격번호  │소속│직위(직급)│성명│생년월일│합격일자│비  고│\n┝━━━━━┿━━┿━━━━━┿━━┿━━━━┿━━━━┿━━━┥\n│20○○-○ │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n└─────┴──┴─────┴──┴────┴────┴───┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733177",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854995",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733173",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854991",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733177",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854995",
           "name": "",
           "file_store_url": ""
         }
@@ -1888,17 +1899,17 @@
       "content": "\n■ 별지 제3호의2 서식\n\n전문조사관 자격취득자 관리대장\n┌─────┬──┬─────┬──┬────┬────┬───┐\n│자격번호  │소속│직위(직급)│성명│생년월일│합격일자│비  고│\n┝━━━━━┿━━┿━━━━━┿━━┿━━━━┿━━━━┿━━━┥\n│20○○-○ │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n├─────┼──┼─────┼──┼────┼────┼───┤\n│          │    │          │    │        │        │      │\n└─────┴──┴─────┴──┴────┴────┴───┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733183",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855001",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733179",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170854997",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161733183",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855001",
           "name": "",
           "file_store_url": ""
         }
@@ -1913,19 +1924,19 @@
   ],
   "attachments": [
     {
-      "name": "보호직 공무원의 조사관 등 자격 인정 및 절차에 관한 규정 일부개정훈령_전문.hwp",
-      "url": "http://law.go.kr/flDownload.do?flSeq=161732907",
-      "filename": "보호직 공무원의 조사관 등 자격 인정 및 절차에 관한 규정 일부개정훈령_전문.hwp",
+      "name": "3-2 보호직 공무원의 조사관 등 자격 인정 및 절차에 관한 규정 전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170853659",
+      "filename": "3-2 보호직 공무원의 조사관 등 자격 인정 및 절차에 관한 규정 전문.pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/보호직 공무원의 조사관 등 자격 인정 및 절차에 관한 규정 일부개정훈령_전문.hwp",
+      "local_path": "첨부파일/3-2 보호직 공무원의 조사관 등 자격 인정 및 절차에 관한 규정 전문.pdf",
       "file_store_url": ""
     },
     {
-      "name": "보호직 공무원의 조사관 등 자격 인정 및 절차에 관한 규정 일부개정훈령_전문.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=161732911",
-      "filename": "보호직 공무원의 조사관 등 자격 인정 및 절차에 관한 규정 일부개정훈령_전문.pdf",
+      "name": "3-2 보호직 공무원의 조사관 등 자격 인정 및 절차에 관한 규정 전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170853615",
+      "filename": "3-2 보호직 공무원의 조사관 등 자격 인정 및 절차에 관한 규정 전문.hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/보호직 공무원의 조사관 등 자격 인정 및 절차에 관한 규정 일부개정훈령_전문.pdf",
+      "local_path": "첨부파일/3-2 보호직 공무원의 조사관 등 자격 인정 및 절차에 관한 규정 전문.hwpx",
       "file_store_url": ""
     }
   ],
@@ -1947,7 +1958,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 11,
+    "addenda_count": 12,
     "appendices_count": 11,
     "attachments_count": 2
   },
