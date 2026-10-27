@@ -1,16 +1,16 @@
 {
   "law_id": "27029",
-  "mst": "2100000274886",
+  "mst": "2100000287424",
   "law_name": "행정중심복합도시건설청 위임전결규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:27029",
-  "promulgation_no": "370",
-  "promulgation_date": "20260206",
-  "enforcement_date": "20260206",
-  "revision_date": "20260206",
+  "promulgation_no": "387",
+  "promulgation_date": "20261027",
+  "enforcement_date": "20261027",
+  "revision_date": "20261027",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "김수빈",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "행정중심복합도시건설청 위임전결규정",
-    "발령일자": "20260206",
+    "발령일자": "20261027",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "044-200-3081",
     "제개정구분명": "일부개정",
     "소관부처코드": "1670000",
-    "생성일자": "20260225",
+    "생성일자": "20261028",
     "행정규칙ID": "27029",
-    "시행일자": "20260206",
+    "시행일자": "20261027",
     "담당부서기관코드": "1670080",
-    "발령번호": "370",
-    "행정규칙일련번호": "2100000274886",
+    "발령번호": "387",
+    "행정규칙일련번호": "2100000287424",
     "상위부처명": "행정중심복합도시건설청"
   },
-  "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ 행정중심복합도시건설청 직제 및 직제시행규칙의 개정(’26.1.6. 시행)에 따라 대통령세종집무실건립단 및 대통령집무실과의 업무를 반영하는 등 현행 제도 운영 상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n\n◇ 주요내용\n가. (별표 개정) 대통령세종집무실건립단 및 대통령집무실과 위임전결기준 신설 및 업무 현행화 등",
+  "amendment_text": "⊙행정중심복합도시건설청 훈령 제387호\n행정중심복합도시건설청 위임전결규정 일부를 다음과 같이 개정한다.\n2026년 10월 27일\n행정중심복합도시건설청장\n위임전결규정 일부개정훈령\n행정중심복합도시건설청 위임전결규정 일부를 다음과 같이 개정한다.\n별표를 별지와 같이 한다.\n부칙\n이 훈령은 발령한 날부터 시행한다.",
+  "revision_reason": "◇ 개정이유\n행정중심복합도시건설청 직제 및 직제 시행규칙의 개정(’26.10.27. 시행)에 따라 대통령세종집무실건립단의 업무를 조정하는 등 현행 제도 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n◇ 주요내용\n가. (별표 개정) 대통령세종집무실건립단 위임전결기준 조정 및 업무 현행화 등",
   "body": {
     "format": "articles",
     "article_count": 7,
@@ -189,10 +189,10 @@
       "content": "부칙 <제45호,2006. 12. 22.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.제2조(다른 훈령의 폐지) 이 규정이 발령한 날부터 2006. 1. 2. 제정한 「행정중심복합도시건설청 기안ㆍ보고 및 위임전결에 관한 규정」(건설청훈령 제2호) 은 폐지한다.",
       "provision_id": "admrul:행정중심복합도시건설청위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274886",
+      "source_mst": "2100000287424",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260206"
+      "version_enforcement_date": "20261027"
     },
     {
       "promulgation_date": "20071211",
@@ -200,10 +200,10 @@
       "content": "부칙 <제64호,2007. 12. 11.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정중심복합도시건설청위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274886",
+      "source_mst": "2100000287424",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260206"
+      "version_enforcement_date": "20261027"
     },
     {
       "promulgation_date": "20110629",
@@ -211,10 +211,10 @@
       "content": "부칙 <제141호,2011. 6. 29.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정중심복합도시건설청위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274886",
+      "source_mst": "2100000287424",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260206"
+      "version_enforcement_date": "20261027"
     },
     {
       "promulgation_date": "20130215",
@@ -222,10 +222,10 @@
       "content": "부칙 <제165호,2013. 2. 15.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정중심복합도시건설청위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274886",
+      "source_mst": "2100000287424",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260206"
+      "version_enforcement_date": "20261027"
     },
     {
       "promulgation_date": "20150317",
@@ -233,10 +233,10 @@
       "content": "부칙 <제190호,2015. 3. 17.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정중심복합도시건설청위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274886",
+      "source_mst": "2100000287424",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260206"
+      "version_enforcement_date": "20261027"
     },
     {
       "promulgation_date": "20180420",
@@ -244,10 +244,10 @@
       "content": "부칙 <제218호,2018. 4. 20.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정중심복합도시건설청위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274886",
+      "source_mst": "2100000287424",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260206"
+      "version_enforcement_date": "20261027"
     },
     {
       "promulgation_date": "20190513",
@@ -255,10 +255,10 @@
       "content": "부칙 <제238호,2019. 5. 13.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정중심복합도시건설청위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274886",
+      "source_mst": "2100000287424",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260206"
+      "version_enforcement_date": "20261027"
     },
     {
       "promulgation_date": "20220711",
@@ -266,10 +266,10 @@
       "content": "부칙 <제298호, 2022. 7. 11.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정중심복합도시건설청위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274886",
+      "source_mst": "2100000287424",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260206"
+      "version_enforcement_date": "20261027"
     },
     {
       "promulgation_date": "20240605",
@@ -277,10 +277,10 @@
       "content": "부칙 <제348호, 2024. 6. 5.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정중심복합도시건설청위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274886",
+      "source_mst": "2100000287424",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260206"
+      "version_enforcement_date": "20261027"
     },
     {
       "promulgation_date": "20250109",
@@ -288,10 +288,10 @@
       "content": "부칙 <제354호, 2025. 1. 9.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정중심복합도시건설청위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274886",
+      "source_mst": "2100000287424",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260206"
+      "version_enforcement_date": "20261027"
     },
     {
       "promulgation_date": "20260206",
@@ -299,10 +299,21 @@
       "content": "부칙 <제370호, 2026. 2. 6.>이 훈령은 발령한 날부터 시행한다.",
       "provision_id": "admrul:행정중심복합도시건설청위임전결규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000274886",
+      "source_mst": "2100000287424",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260206"
+      "version_enforcement_date": "20261027"
+    },
+    {
+      "promulgation_date": "20261027",
+      "promulgation_no": "387",
+      "content": "부칙 <제387호, 2026. 10. 27.>이 훈령은 발령한 날부터 시행한다.",
+      "provision_id": "admrul:행정중심복합도시건설청위임전결규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000287424",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261027"
     }
   ],
   "appendices": [
@@ -312,20 +323,20 @@
       "kind": "별표",
       "title": "전결권자의 전결사항",
       "enforcement_date": "",
-      "content": "[별표] 「전결권자의 전결사항」의 자세한 내용은 상단 메뉴 \"\"버튼을 이용하십시오.",
+      "content": "[별표] 전결권자의 전결사항\n※ 자세한 내용은 상단 메뉴 \"\" 버튼을 이용하십시오.\n\"\" 버튼 클릭 후 하단 파일명 참조\n★(별표) 행복청 위임전결규정 전결사항(제5조 관련, 26.10.27.).xlsx",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161780161",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170972405",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161780157",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170972401",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161780161",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170972405",
           "name": "",
           "file_store_url": ""
         }
@@ -340,27 +351,27 @@
   ],
   "attachments": [
     {
-      "name": "★(별표) 행복청 위임전결규정 전결사항(제5조 관련¸ 26.01.22.).xlsx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=161757599",
-      "filename": "★(별표) 행복청 위임전결규정 전결사항(제5조 관련¸ 26.01.22.).xlsx",
+      "name": "★(별표) 행복청 위임전결규정 전결사항(제5조 관련, 26.10.27.).xlsx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170956251",
+      "filename": "★(별표) 행복청 위임전결규정 전결사항(제5조 관련, 26.10.27.).xlsx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/★(별표) 행복청 위임전결규정 전결사항(제5조 관련¸ 26.01.22.).xlsx",
+      "local_path": "첨부파일/★(별표) 행복청 위임전결규정 전결사항(제5조 관련, 26.10.27.).xlsx",
       "file_store_url": ""
     },
     {
-      "name": "★행복청 위임전결규정 전문(26.2.6. 행복청 훈령 제370호).hwpx",
-      "url": "http://law.go.kr/flDownload.do?flSeq=161779981",
-      "filename": "★행복청 위임전결규정 전문(26.2.6. 행복청 훈령 제370호).hwpx",
+      "name": "★행복청 위임전결규정 전문(26.10.27. 행복청 훈령 제387호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170972209",
+      "filename": "★행복청 위임전결규정 전문(26.10.27. 행복청 훈령 제387호).pdf",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/★행복청 위임전결규정 전문(26.2.6. 행복청 훈령 제370호).hwpx",
+      "local_path": "첨부파일/★행복청 위임전결규정 전문(26.10.27. 행복청 훈령 제387호).pdf",
       "file_store_url": ""
     },
     {
-      "name": "★행복청 위임전결규정 전문(26.2.6. 행복청 훈령 제370호).pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=161779985",
-      "filename": "★행복청 위임전결규정 전문(26.2.6. 행복청 훈령 제370호).pdf",
+      "name": "★행복청 위임전결규정 전문(26.10.27. 행복청 훈령 제387호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170972205",
+      "filename": "★행복청 위임전결규정 전문(26.10.27. 행복청 훈령 제387호).hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/★행복청 위임전결규정 전문(26.2.6. 행복청 훈령 제370호).pdf",
+      "local_path": "첨부파일/★행복청 위임전결규정 전문(26.10.27. 행복청 훈령 제387호).hwpx",
       "file_store_url": ""
     }
   ],
@@ -381,7 +392,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 11,
+    "addenda_count": 12,
     "appendices_count": 1,
     "attachments_count": 3
   },
