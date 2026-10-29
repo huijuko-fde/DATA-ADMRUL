@@ -1,0 +1,239 @@
+{
+  "law_id": "98593",
+  "mst": "2100000287560",
+  "law_name": "국립부곡병원 환자안전위원회 등에 관한 규정",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:98593",
+  "promulgation_no": "419",
+  "promulgation_date": "20261029",
+  "enforcement_date": "20261029",
+  "revision_date": "20261029",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "보건복지부(기획운영과)",
+    "담당자명": "강은진",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "국립부곡병원 환자안전위원회 등에 관한 규정",
+    "발령일자": "20261029",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "국립부곡병원",
+    "전화번호": "055-520-2519",
+    "제개정구분명": "제정",
+    "소관부처코드": "1352000",
+    "생성일자": "20261030",
+    "행정규칙ID": "98593",
+    "시행일자": "20261029",
+    "담당부서기관코드": "1352768",
+    "발령번호": "419",
+    "행정규칙일련번호": "2100000287560",
+    "상위부처명": "보건복지부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제정이유\n「환자안전법」에 근거하여 환자안전위원회의 설치ㆍ운영 등 환자안전과 질향상에 관한 사항을 규정하고자 함",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제1조(목적) 이 규정은 「환자안전법」 제11조에 의거하여 국립부곡병원의 환자안전위원회를 설치ㆍ운영하기 위함이다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「환자안전법」",
+            "line_text": "",
+            "target_law_name": "환자안전법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "98593",
+            "target_url": "https://www.law.go.kr/법령/환자안전법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립부곡병원환자안전위원회등에관한규정#JO0001",
+            "reference_id": "law:환자안전법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "환자안전법/법률/환자안전법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "환자안전법",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "98593",
+            "target_url": "https://www.law.go.kr/법령/환자안전법/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립부곡병원환자안전위원회등에관한규정#JO0001",
+            "reference_id": "law:환자안전법#JO0011",
+            "target_repo": "LAW",
+            "target_git_path_guess": "환자안전법/법률/환자안전법.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립부곡병원환자안전위원회등에관한규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "구성",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조(구성) ① 위원회는 위원장을 포함하여 5인 이상 9인 이하로 구성한다.② 위원장은 국립부곡병원장(이하 \"원장\"으로 한다)이 되고, 위원은 각 과장 중에서 원장이 지명하는 자로 한다.③ 위원회의 간사는 환자안전 전담자로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립부곡병원환자안전위원회등에관한규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "위원회 기능",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제3조(위원회 기능) 위원회는 다음 사항을 심의한다.① 환자안전사고의 예방 및 재발 방지를 위한 계획 수립 및 시행② 환자안전 전담인력의 선임 및 배치③ 의료 질 향상을 위한 활동(인증관련 포함) 및 환자안전체계 구축ㆍ운영④ 환자안전사고를 보고한 자 및 보고내용의 보호⑤ 환자와 환자 보호자의 환자안전활동 참여를 위한 계획 수립 및 시행⑥ 그 밖에 질 향상 및 환자안전활동에 필요한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립부곡병원환자안전위원회등에관한규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "운영",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제4조(운영) ① 위원회는 정기회의와 임시회의로 구분하여 운영한다.② 정기회의는 연 2회 이상 개최하고, 임시회의는 위원장이 필요하다고 인정하거나 재적위원 과반수가 요구할 때 개최한다.③ 위원회 회의는 재적위원 과반수의 출석으로 개의(開議)하고, 출석위원 과반수의 찬성으로 의결한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립부곡병원환자안전위원회등에관한규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "전담인력",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제5조(전담인력) ① 원장은 간호사 면허를 취득한 후 3년 이상 보건의료기관에서 근무한 사람 중 1명 이상을 환자안전 전담인력 (이하 \"전담자\"라 한다)으로 지정한다.② 전담자는 다음 각 호의 업무를 수행한다.1. 환자안전사고 정보의 수집ㆍ분석 및 관리ㆍ공유2. 환자안전사고 예방 및 재발 방지를 위한 보건의료인 교육3. 환자와 환자 보호자의 환자안전활동을 위한 교육4. 환자안전활동의 보고5. 환자안전기준의 준수 점검6. 환자안전지표의 측정ㆍ점검7. 그 밖에 환자안전 및 의료 질 향상을 위하여 필요한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립부곡병원환자안전위원회등에관한규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "보고",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제6조(보고) ① 매년 1월 31일까지 다음 각 호의 사항을 보건복지부장관에게 보고한다.1. 위원회의 위원 구성 및 변동에 관한 사항2. 해당 연도의 위원회 운영계획3. 전년도의 위원회 운영실적4. 환자안전 전담인력의 배치 현황<별지 제1호서식>② 제1항에 따른 보고는 환자안전보고학습시스템을 통하여 전자 제출하는 방법으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립부곡병원환자안전위원회등에관한규정#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20261029",
+      "promulgation_no": "419",
+      "content": "부칙 <제419호, 2026. 10. 29.>제1조 이 규정은 공포한 날로부터 시행한다.제2조 국립부곡병원 질향상규정을 폐지한다.",
+      "provision_id": "admrul:국립부곡병원환자안전위원회등에관한규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000287560",
+      "source_version_uid": "",
+      "source_revision_type": "제정",
+      "version_enforcement_date": "20261029"
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "전담인력 배치현황서",
+      "enforcement_date": "",
+      "content": "\n[별지 제1호서식]\n\n전담인력 배치현황서\n\n※ 색상이 어두운 부분은 보고자가 작성하지 않습니다.\n──────────────────────┬───────────────────────────\n접수번호                                  │접수일시\n──────────────────────┴───────────────────────────\n\n\n───────┬───────────────────┬──────────────────────\n보고자      │의료기관명                            │요양기관기호\n(의료기관의 ├───────────────────┴──────────────────────\n장)         │대표자 성명\n├──────────────────────────────────────────\n│주소                                      (전화번호:                             )\n├──────────────────────────────────────────\n│전자우편\n─────┬─┴──────────────────────────────────────────\n환자안 │ 전담인력: 총       명\n전전담  ├────────────────────────────────────────────\n인력    │ 전담인력 배치 세부 현황\n현황    ├──┬───────┬──────────────┬─────────┬────────\n│성명│배치 상황     │면허(자격) 내용             │경 력             │비고\n│    ├───┬───┼────┬────┬────┼────┬────┤\n│    │배치일│배치  │면허종류│면허번호│취득 연 │근무기관│근무기간│\n│    │      │해제일│        │        │월일    │        │        │\n├──┼───┼───┼────┼────┼────┼────┼────┼────────\n│    │      │      │        │        │        │        │        │\n├──┼───┼───┼────┼────┼────┼────┼────┼────────\n│    │      │      │        │        │        │        │        │\n├──┼───┼───┼────┼────┼────┼────┼────┼────────\n│    │      │      │        │        │        │        │        │\n├──┼───┼───┼────┼────┼────┼────┼────┼────────\n│    │      │      │        │        │        │        │        │\n├──┼───┼───┼────┼────┼────┼────┼────┼────────\n│    │      │      │        │        │        │        │        │\n├──┼───┼───┼────┼────┼────┼────┼────┼────────\n│    │      │      │        │        │        │        │        │\n├──┼───┼───┼────┼────┼────┼────┼────┼────────\n│    │      │      │        │        │        │        │        │\n├──┼───┼───┼────┼────┼────┼────┼────┼────────\n│    │      │      │        │        │        │        │        │\n─────┴──┴───┴───┴────┴────┴────┴────┴────┴────────\n「환자안전법」 제12조제2항 및 같은 법 시행규칙 제9조제4항에 따라 환자안전 전담인\n력 배치현황을 위와 같이 보고합니다.\n\n년        월       일\n\n보고자                                                     (서명 또는 인)\n\n보건복지부장관            귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171017085",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171017081",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171017085",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립부곡병원환자안전위원회등에관한규정#BJ0001",
+      "filename": "별지1_전담인력 배치현황서.pdf",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_전담인력 배치현황서.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "국립부곡병원 환자안전위원회 등에 관한 규정 제정 전문(제419호, 20261029).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=171016325",
+      "filename": "국립부곡병원 환자안전위원회 등에 관한 규정 제정 전문(제419호, 20261029).hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/국립부곡병원 환자안전위원회 등에 관한 규정 제정 전문(제419호, 20261029).hwpx",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 2,
+    "by_category": {
+      "법령": 2
+    },
+    "by_relation_type": {
+      "citation": 2
+    },
+    "articles_total": 6,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1,
+    "attachments_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/국립부곡병원 환자안전위원회 등에 관한 규정"
+  },
+  "provision_id": "admrul:국립부곡병원환자안전위원회등에관한규정#DOC",
+  "addendum_provision_id": "admrul:국립부곡병원환자안전위원회등에관한규정#ADDENDUM",
+  "amendment_provision_id": "admrul:국립부곡병원환자안전위원회등에관한규정#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "국립부곡병원 환자안전위원회 등에 관한 규정/국립부곡병원 환자안전위원회 등에 관한 규정.json"
+}
