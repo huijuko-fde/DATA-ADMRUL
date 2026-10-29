@@ -1,25 +1,25 @@
 {
   "law_id": "57334",
-  "mst": "2100000267892",
+  "mst": "2100000287426",
   "law_name": "국립국악원 국악박물관 운영규정",
   "law_abbr": "",
   "law_type": "예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:57334",
-  "promulgation_no": "326",
-  "promulgation_date": "20251031",
-  "enforcement_date": "20251031",
-  "revision_date": "20251031",
+  "promulgation_no": "336",
+  "promulgation_date": "20261023",
+  "enforcement_date": "20261029",
+  "revision_date": "20261023",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "국립국악원(기획관리과)",
-    "담당자명": "신혜주",
+    "담당자명": "김정순",
     "행정규칙종류코드": "B0002",
     "행정규칙명": "국립국악원 국악박물관 운영규정",
-    "발령일자": "20251031",
+    "발령일자": "20261023",
     "행정규칙종류": "예규",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "02-580-3252",
     "제개정구분명": "일부개정",
     "소관부처코드": "1371000",
-    "생성일자": "20251113",
+    "생성일자": "20261029",
     "행정규칙ID": "57334",
-    "시행일자": "20251031",
-    "담당부서기관코드": "1371035",
-    "발령번호": "326",
-    "행정규칙일련번호": "2100000267892",
+    "시행일자": "20261029",
+    "담당부서기관코드": "1371523",
+    "발령번호": "336",
+    "행정규칙일련번호": "2100000287426",
     "상위부처명": "문화체육관광부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정 이유\n○ 전시실 관리 및 국악박물관 휴관일에 따른 현행화 필요\n○ 자료 열람 및 복제 업무의 효율성 제고를 위한 열람 횟수 및 시간 명시\n○ 행정규칙 용어 정비안 적용\n◇ 개정 주요 내용\n○ 전시장 점검 사항 현행화(멀티미디어, 전시장 안내물 확인 등) 및 일일점검 일지 서식 수정\n○ 박물관 주간 점검 일지 신설(운영일자, 관람객 집계, 안내 근무자, 특이사항, 분실물, 시설파손)\n○ 소장품 반입ㆍ반출 인수인계서 서식 수정\n○ 소장품 열람ㆍ복제 시간 및 열람 횟수 명시\n○ 별지 서식 추가에 따른 연번 수정",
+  "revision_reason": "◇ 개정 이유\n○ 소장품의 안정적인 점검을 위한 소장품 점검 시기 명시 및 수장고 출입자 관리 절차 구체화\n○ 수장고 공간의 효율적 운영을 위한 소장품 기탁 기간 제한\n◇ 개정 주요 내용\n○ 소장품 증감보고 및 정수점검 시기 명시\n○ 소장품 출납 및 수장고 출입 관리 절차 구체화\n○ 기탁품 수탁 기간 명시",
   "body": {
     "format": "articles",
     "article_count": 58,
@@ -212,7 +212,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123065",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967311",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0005",
             "target_unit": "BJ0001",
@@ -237,7 +237,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123071",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967317",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0005",
             "target_unit": "BJ0002",
@@ -350,12 +350,33 @@
       },
       {
         "article_no": "제15조",
-        "article_title": "소장품 관리 일반",
+        "article_title": "소장품 관리",
         "chapter": "제1절 소장품 관리",
         "chapter_path": "제3장 소장품 관리 > 제1절 소장품 관리",
-        "content": "제15조(소장품 관리 일반) ① 소장품관리관은 소장품의 안전을 위하여 다음 각 호의 사항을 관리한다.1. 소장품 정보 등록2. 소장품 전수조사3. 소장품 수리 및 복원4. 소장품 소독, 포쇄 등 보존처리5. 수장고 온ㆍ습도 및 환경 관리② 소장품이 분실, 도난 또는 훼손되었을 때에 소장품관리관은 그 사유와 내역을 지체없이 국립국악원장에게 보고해야 한다.",
+        "content": "제15조(소장품 관리) ① 국립국악원장은 소장품 안전 관리를 위하여 정기적으로 소장품을 점검하도록 한다.② 소장품관리관은 분기별 소장품 증감현황을 국립국악원장에게 보고하여야 한다.③ 소장품관리관은 연 1회 이상 일정량의 자료에 대한 실사를 실시하고, 그 결과를 국립국악원장에게 보고하여야 한다.④ 소장품이 분실, 도난 또는 훼손되었을 때에 소장품관리관은 그 사유와 내역을 지체없이 국립국악원장에게 보고해야하며, 지정문화유산은 『문화유산의 보존 및 활용에 관한 법률』 관련 규정에 따라 국가유산청장에게 신고하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제4항",
+            "link_text": "『문화유산의 보존 및 활용에 관한 법률』",
+            "line_text": "",
+            "target_law_name": "문화유산의 보존 및 활용에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "57334",
+            "target_url": "https://www.law.go.kr/법령/문화유산의 보존 및 활용에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0015",
+            "reference_id": "law:문화유산의보존및활용에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "문화유산의 보존 및 활용에 관한 법률/법률/문화유산의 보존 및 활용에 관한 법률.json"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:국립국악원국악박물관운영규정#JO0015"
       },
@@ -395,7 +416,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123077",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967323",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0017",
             "target_unit": "BJ0003",
@@ -434,7 +455,7 @@
         "article_title": "소장품의 출납",
         "chapter": "제1절 소장품 관리",
         "chapter_path": "제3장 소장품 관리 > 제1절 소장품 관리",
-        "content": "제20조(소장품의 출납) ① 소장품의 출납은 소장품관리관의 승인을 얻어 소장품관리관보의 책임하에 행한다.② 소장품의 출납 상황은 문화유산표준관리시스템에 기록하고 그 기록을 유지하며, 별지 제4호 서식에 의해 소장품 내역 및 반출ㆍ반입 인수인계서를 기록해야 한다.③ 소장품을 대출할 때에는 소장품의 당시 상태를 기록하고, 반입 시에는 대출 시의 기록에 따라 상태 점검을 하여야 한다.",
+        "content": "제20조(소장품의 출납) ① 소장품의 출납은 소장품관리관의 승인을 얻어 소장품관리관보의 책임하에 하여야 한다.② 소장품의 출납 상황은 문화유산표준관리시스템에 기록하며, 별지 제4호 서식에 의해 소장품 내역 및 반출ㆍ반입 인수인계서를 기록해야 한다.③ 소장품을 대여할 때에는 소장품의 당시 상태를 기록하고, 반입 시에는 대여 시의 기록에 따라 상태 점검을 하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -454,7 +475,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123083",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967329",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0020",
             "target_unit": "BJ0004",
@@ -471,7 +492,7 @@
         "article_title": "수장고 출입 및 열쇠 관리",
         "chapter": "제1절 소장품 관리",
         "chapter_path": "제3장 소장품 관리 > 제1절 소장품 관리",
-        "content": "제21조(수장고 출입 및 열쇠 관리) ① 수장고 출입을 하고자 하는 자는 반드시 소장품관리관의 승인을 얻어야 하며, 소장품관리관보 또는 동 공무원이 허가하는 입회자를 포함하여 2인 이상이 함께 하여야 한다. 다만, 화재 등 비상사태 발생 시는 예외로 하며, 조치 후 반드시 보고해야 한다.② 수장고에 출입하는 모든 사람은, 이름과 출입시간 및 사유를 별지 제5호 서식의 수장고 출입 일지에 기재하여야 하며, 소장품관리관은 이를 지도ㆍ점검하여야 한다.③ 수장고 열쇠를 두 벌 비치하되, 그 중 한 벌은 비상용으로 소장품관리관과 국립국악원 당직담당 과장이 봉인하여 별도 보관하고 다른 한 벌은 소장품관리관보가 보관하고 사용한다.",
+        "content": "제21조(수장고 출입 및 열쇠 관리) ① 수장고 출입은 2인 이상이 함께하여야 하며, 출입은 별지5호 서식에 따라 날짜, 출입시간, 사유, 출입자, 입회자를 기재하고 소장품관리관은 이를 점검하여야 한다. 다만, 화재 등 비상사태 발생 시는 예외로 하며, 조치 후 사후 보고해야 한다.② 공휴일 및 근무시간 이외에 수장고에 출입하고자 하는 때에는 소장품관리관의 사전 승인을 받아야 한다. 단 화재 등 비상사태 발생 시에는 예외로 한다.③ 수장고 열쇠를 두 벌 비치하되, 그 중 한 벌은 비상용으로 소장품관리관과 국립국악원 당직담당 과장이 봉인하여 별도 보관하고 다른 한 벌은 소장품관리관보가 보관하고 사용한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -479,8 +500,8 @@
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제21조",
-            "source_clause": "제21조제2항",
-            "link_text": "별지 제5호 서식",
+            "source_clause": "제21조제1항",
+            "link_text": "별지5호",
             "line_text": "",
             "target_law_name": "국립국악원 국악박물관 운영규정",
             "target_article_no": "별지5",
@@ -491,7 +512,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123089",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967335",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0021",
             "target_unit": "BJ0005",
@@ -640,7 +661,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123095",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967341",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0023",
             "target_unit": "BJ0006",
@@ -665,7 +686,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123107",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967353",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0023",
             "target_unit": "BJ0008",
@@ -713,7 +734,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123113",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967359",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0025",
             "target_unit": "BJ0009",
@@ -813,7 +834,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123101",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967347",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0028",
             "target_unit": "BJ0007",
@@ -861,7 +882,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123119",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967365",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0030",
             "target_unit": "BJ0010",
@@ -886,7 +907,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123125",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967371",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0030",
             "target_unit": "BJ0011",
@@ -1010,7 +1031,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123131",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967377",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0037",
             "target_unit": "BJ0012",
@@ -1035,7 +1056,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123137",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967383",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0037",
             "target_unit": "BJ0013",
@@ -1080,7 +1101,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123143",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967389",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0037",
             "target_unit": "BJ0014",
@@ -1145,7 +1166,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123149",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967395",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0037",
             "target_unit": "BJ0015",
@@ -1170,7 +1191,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123155",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967401",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0037",
             "target_unit": "BJ0016",
@@ -1195,7 +1216,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123161",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967407",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0037",
             "target_unit": "BJ0017",
@@ -1243,7 +1264,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123167",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967413",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0039",
             "target_unit": "BJ0018",
@@ -1340,7 +1361,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123173",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967419",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0040",
             "target_unit": "BJ0019",
@@ -1469,7 +1490,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123179",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967425",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0042",
             "target_unit": "BJ0020",
@@ -1526,7 +1547,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123185",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967431",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0043",
             "target_unit": "BJ0021",
@@ -1551,7 +1572,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123191",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967437",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0043",
             "target_unit": "BJ0022",
@@ -1608,7 +1629,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123197",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967443",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0044",
             "target_unit": "BJ0023",
@@ -1688,7 +1709,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123203",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967449",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0047",
             "target_unit": "BJ0024",
@@ -1745,7 +1766,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123209",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967455",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0048",
             "target_unit": "BJ0025",
@@ -1770,7 +1791,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123215",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967461",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0048",
             "target_unit": "BJ0026",
@@ -1827,7 +1848,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123221",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967467",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0049",
             "target_unit": "BJ0027",
@@ -1855,7 +1876,7 @@
         "article_title": "수탁 기간",
         "chapter": "제6절 기탁 및 수탁",
         "chapter_path": "제3장 소장품 관리 > 제6절 기탁 및 수탁",
-        "content": "제51조(수탁 기간) ① 수탁기간은 수탁 당시의 다음 해 연말까지로 하고 이 후 부터 2년 단위로 연장할 수 있으며, 수탁심의위원회에서 결정한다.② 수탁기간을 연장하고자 할 경우 기탁자는 별지 제28호 서식에 의한 기탁 기간 연장 신청서로 신청하여야 한다.",
+        "content": "제51조(수탁 기간) ① 수탁기간은 수탁 이후부터 2년 단위로 연장할 수 있으며 기탁 연장기간은 최대 10년으로 한다. 다만 특수한 경우 수탁심의위원회에서 기탁 기간을 조율할 수 있다.② 수탁기간을 연장하고자 할 경우 기탁자는 별지 제28호 서식에 의한 기탁 기간 연장 신청서로 신청하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1875,7 +1896,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123227",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967473",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0051",
             "target_unit": "BJ0028",
@@ -1934,7 +1955,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123233",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967479",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0054",
             "target_unit": "BJ0029",
@@ -2002,7 +2023,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123239",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967485",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0056",
             "target_unit": "BJ0030",
@@ -2059,7 +2080,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123161",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967407",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0057",
             "target_unit": "BJ0017",
@@ -2116,7 +2137,7 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "57334",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123161",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967407",
             "resolve_method": "html",
             "source_provision_id": "admrul:국립국악원국악박물관운영규정#JO0058",
             "target_unit": "BJ0017",
@@ -2137,10 +2158,10 @@
       "content": "부칙 <제221호,2014. 12. 1.>제1조(시행일) 이 규정은 2014년 12월 1일부터 시행한다.제2조(다른규정 폐지) 이 규정 시행일부터 「국악박물관 소장품 관리 규정」은 폐지한다.",
       "provision_id": "admrul:국립국악원국악박물관운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000267892",
+      "source_mst": "2100000287426",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251031"
+      "version_enforcement_date": "20261029"
     },
     {
       "promulgation_date": "20170522",
@@ -2148,10 +2169,10 @@
       "content": "부칙 <제243호,2017. 5. 22.>이 규정은 0000년 00월 00일부터 시행한다.",
       "provision_id": "admrul:국립국악원국악박물관운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000267892",
+      "source_mst": "2100000287426",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251031"
+      "version_enforcement_date": "20261029"
     },
     {
       "promulgation_date": "20190408",
@@ -2159,10 +2180,10 @@
       "content": "부칙 <제256호,2019. 4. 8.>이 규정은 2019년 4월 8일부터 시행한다.",
       "provision_id": "admrul:국립국악원국악박물관운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000267892",
+      "source_mst": "2100000287426",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251031"
+      "version_enforcement_date": "20261029"
     },
     {
       "promulgation_date": "20201221",
@@ -2170,10 +2191,10 @@
       "content": "부칙 <제266호,2020. 12. 21.>이 규정은 2020년 12월 21일부터 시행한다.",
       "provision_id": "admrul:국립국악원국악박물관운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000267892",
+      "source_mst": "2100000287426",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251031"
+      "version_enforcement_date": "20261029"
     },
     {
       "promulgation_date": "20240517",
@@ -2181,10 +2202,10 @@
       "content": "부칙 <제309호, 2024. 5. 17.>이 규정은 2024년 5월 17일부터 시행한다.",
       "provision_id": "admrul:국립국악원국악박물관운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000267892",
+      "source_mst": "2100000287426",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251031"
+      "version_enforcement_date": "20261029"
     },
     {
       "promulgation_date": "20251031",
@@ -2192,10 +2213,10 @@
       "content": "부칙 <제326호, 2025. 10. 31.>이 규정은 2025년 10월 31일부터 시행한다.",
       "provision_id": "admrul:국립국악원국악박물관운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2100000267892",
+      "source_mst": "2100000287426",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251031"
+      "version_enforcement_date": "20261029"
     }
   ],
   "appendices": [
@@ -2208,17 +2229,17 @@
       "content": "[별지 제1호 서식]\n전시실 일일점검 일지\n┌─┬───────┬──────┬─────┐\n│확│전시관리담당자│전시관리관보│전시관리관│\n│인├───────┼──────┼─────┤\n│  │              │            │          │\n└─┴───────┴──────┴─────┘\n20 .   .   . (     )\n┏━━━┯━━━┯━━━━━━━━━━━━━━━━━━━━━┯━━━┯━━━━━━━┓\n┃전시실│시 간 │점   검   내   용                         │점검자│비고          ┃\n┃      │      ├───┬───┬───┬──────┬──┤확  인│(조치 내용 등)┃\n┃      │      │전시품│전시장│전시장│멀티미디어  │청소│      │              ┃\n┃      │      │      │온습도│안내물│운영상태    │상태│      │              ┃\n┠───┼───┼───┼───┼───┼──────┼──┼───┼───────┨\n┃      │      │      │      │      │            │    │      │              ┃\n┃      ├───┼───┼───┼───┼──────┼──┼───┼───────┨\n┃      │      │      │      │      │            │    │      │              ┃\n┠───┼───┼───┼───┼───┼──────┼──┼───┼───────┨\n┃      │      │      │      │      │            │    │      │              ┃\n┃      ├───┼───┼───┼───┼──────┼──┼───┼───────┨\n┃      │      │      │      │      │            │    │      │              ┃\n┠───┼───┼───┼───┼───┼──────┼──┼───┼───────┨\n┃      │      │      │      │      │            │    │      │              ┃\n┃      ├───┼───┼───┼───┼──────┼──┼───┼───────┨\n┃      │      │      │      │      │            │    │      │              ┃\n┠───┼───┼───┼───┼───┼──────┼──┼───┼───────┨\n┃      │      │      │      │      │            │    │      │              ┃\n┃      ├───┼───┼───┼───┼──────┼──┼───┼───────┨\n┃      │      │      │      │      │            │    │      │              ┃\n┠───┼───┼───┼───┼───┼──────┼──┼───┼───────┨\n┃      │      │      │      │      │            │    │      │              ┃\n┃      ├───┼───┼───┼───┼──────┼──┼───┼───────┨\n┃      │      │      │      │      │            │    │      │              ┃\n┠───┼───┼───┼───┼───┼──────┼──┼───┼───────┨\n┃      │      │      │      │      │            │    │      │              ┃\n┃      ├───┼───┼───┼───┼──────┼──┼───┼───────┨\n┃      │      │      │      │      │            │    │      │              ┃\n┠───┼───┼───┼───┼───┼──────┼──┼───┼───────┨\n┃      │      │      │      │      │            │    │      │              ┃\n┃      ├───┼───┼───┼───┼──────┼──┼───┼───────┨\n┃      │      │      │      │      │            │    │      │              ┃\n┗━━━┷━━━┷━━━┷━━━┷━━━┷━━━━━━┷━━┷━━━┷━━━━━━━┛\n※ 전시장 온습도\n┌──────────────────────┬────┬────┐\n│재질                                        │온도    │습도    │\n├──────────────────────┼────┼────┤\n│금속류                                      │16~24℃ │50%     │\n├──────────────────────┤        ├────┤\n│도토기·토제류·석재·유리·옥              │        │40~60%  │\n├──────────────────────┤        ├────┤\n│서화·전적류·직물류·목기류·골각류·칠기류│        │50~60%  │\n└──────────────────────┴────┴────┘\n※ ○ : 양호, × : 불량",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123065",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967311",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123061",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967307",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123065",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967311",
           "name": "",
           "file_store_url": ""
         }
@@ -2239,17 +2260,17 @@
       "content": "[별지 제2호 서식]\n┌─┬────┬──────┬─────┐\n박물관 주간 점검 일지 │확│전시관리│전시관리관보│전시관리관│\n│인│담당자  │            │          │\n│  ├────┼──────┼─────┤\n│  │        │            │          │\n└─┴────┴──────┴─────┘\n┌──┬─────────────────┐\n│운영│       년      월      일(     ) ~│\n│일자│                                  ├───┬┐\n│    │       년      월      일(     )  │작성자││\n└──┴─────────────────┴───┴┘\n┌───┬───────────────────┐\n│관람객│총 관람객(누적관람객):                │\n│집계  ├──┬──┬───┬─────────┤\n│      │학생│성인│외국인│단체(예약건, 명수)│\n│      ├──┼──┼───┼─────────┤\n│      │    │    │      │                  │\n└───┴──┴──┴───┴─────────┘\n┌───┬───┬───┬───┬───┬───┬───┬───┐\n│안내  │월요일│화요일│수요일│목요일│금요일│토요일│일요일│\n│근무자├───┼───┼───┼───┼───┼───┼───┤\n│      │      │      │      │      │      │      │      │\n└───┴───┴───┴───┴───┴───┴───┴───┘\n┌────┬───────────────┐\n│특이사항│                              │\n├────┼───┬─────┬─────┤\n│분실물  │습득자│습득 위치 │습득 내용 │\n│        ├───┼─────┼─────┤\n│        │      │          │          │\n│        ├───┼─────┼─────┤\n│        │      │          │          │\n│        ├───┼─────┼─────┤\n│        │      │          │          │\n├────┼───┼─────┼─────┤\n│시설파손│발견자│파손 위치 │파손 내용 │\n│        ├───┼─────┼─────┤\n│        │      │          │          │\n│        ├───┼─────┼─────┤\n│        │      │          │          │\n└────┴───┴─────┴─────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123071",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967317",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123067",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967313",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123071",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967317",
           "name": "",
           "file_store_url": ""
         }
@@ -2270,17 +2291,17 @@
       "content": "[별지 제3호 서식]\n폐기(제적) 내역서\n┌──┬──┬──┬───┬───┬─────┬───┐\n│일시│관리│수입│명 칭 │형 태 │폐기(제적)│비 고 │\n│    │번호│년월│      │      │사유      │      │\n├──┼──┼──┼───┼───┼─────┼───┤\n│    │    │    │      │      │          │      │\n│    │    │    │      │      │          │      │\n│    │    │    │      │      │          │      │\n│    │    │    │      │      │          │      │\n│    │    │    │      │      │          │      │\n│    │    │    │      │      │          │      │\n└──┴──┴──┴───┴───┴─────┴───┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123077",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967323",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123073",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967319",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123077",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967323",
           "name": "",
           "file_store_url": ""
         }
@@ -2301,17 +2322,17 @@
       "content": "[별지 제4호 서식]\n국립국악원 국악박물관 소장품 인계ㆍ인수증\nㅇ 목적:\nㅇ 방법:\nㅇ 수량: 총  건  점\nㅇ 일자:\nㅇ 수량:\n위와 같이 인계ㆍ인수합니다.\n<인계자>\n인 계 처 :\n연 락 처 :\n인 계 자 :                (서명)\n<인수자>\n인 계 처 :\n연 락 처 :\n인 계 자 :                (서명)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123083",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967329",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123079",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967325",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123083",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967329",
           "name": "",
           "file_store_url": ""
         }
@@ -2332,17 +2353,17 @@
       "content": "[별지 제5호 서식]\n수장고 출입 일지\n┏━━━━━┯━━━━━━━┯━━━━━━┓\n┃소장품관리│소장품관리관보│소장품관리관┃\n┃담당자    │              │            ┃\n┠─────┼───────┼──────┨\n┃          │              │            ┃\n┗━━━━━┷━━━━━━━┷━━━━━━┛\n(            ) 수장고\n┏━━┯━━━━━┯━━━━━━━━┯━━━┯━━━┓\n┃날짜│출입시간  │ 출  입  사  유 │출입자│입회자┃\n┠──┼─────┼────────┼───┼───┨\n┃    │   :  ~  :│                │      │      ┃\n┠──┼─────┼────────┼───┼───┨\n┃    │   :  ~  :│                │      │      ┃\n┠──┼─────┼────────┼───┼───┨\n┃    │   :  ~  :│                │      │      ┃\n┠──┼─────┼────────┼───┼───┨\n┃    │   :  ~  :│                │      │      ┃\n┠──┼─────┼────────┼───┼───┨\n┃    │   :  ~  :│                │      │      ┃\n┠──┼─────┼────────┼───┼───┨\n┃    │   :  ~  :│                │      │      ┃\n┠──┼─────┼────────┼───┼───┨\n┃    │   :  ~  :│                │      │      ┃\n┠──┼─────┼────────┼───┼───┨\n┃    │   :  ~  :│                │      │      ┃\n┠──┼─────┼────────┼───┼───┨\n┃    │   :  ~  :│                │      │      ┃\n┠──┼─────┼────────┼───┼───┨\n┃    │   :  ~  :│                │      │      ┃\n┠──┼─────┼────────┼───┼───┨\n┃    │   :  ~  :│                │      │      ┃\n┠──┼─────┼────────┼───┼───┨\n┃    │   :  ~  :│                │      │      ┃\n┠──┼─────┼────────┼───┼───┨\n┃    │   :  ~  :│                │      │      ┃\n┠──┼─────┼────────┼───┼───┨\n┃    │   :  ~  :│                │      │      ┃\n┠──┼─────┼────────┼───┼───┨\n┃    │   :  ~  :│                │      │      ┃\n┠──┼─────┼────────┼───┼───┨\n┃    │   :  ~  :│                │      │      ┃\n┠──┼─────┼────────┼───┼───┨\n┃    │   :  ~  :│                │      │      ┃\n┗━━┷━━━━━┷━━━━━━━━┷━━━┷━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123089",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967335",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123085",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967331",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123089",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967335",
           "name": "",
           "file_store_url": ""
         }
@@ -2363,17 +2384,17 @@
       "content": "[별지 제6호 서식]\n┌──────────────────────┐\n│대여신청서                                  │\n├───┬─────┬────────────┤\n│신    │ 기관명 : │  담당자 :              │\n│청    ├─────┴─┬──────┬───┤\n│인    │  주소 :      │연락처      │      │\n├───┴──┬───┬┴─────┬┴───┤\n│① 대여 목적│      │② 대여 기간│        │\n├──────┴───┴──────┴────┤\n│ ③대여 내역                                │\n├──┬─────┬───┬─────┬───┤\n│연번│관리 번호 │명칭  │수량      │비  고│\n├──┼─────┼───┼─────┼───┤\n│    │          │      │          │      │\n├──┼─────┼───┼─────┼───┤\n│    │          │      │          │      │\n├──┼─────┼───┼─────┼───┤\n│    │          │      │          │      │\n├──┼─────┼───┼─────┼───┤\n│    │          │      │          │      │\n├──┼─────┼───┼─────┼───┤\n│    │          │      │          │      │\n├──┴───┬─┴─┬─┴────┬┴───┤\n│④ 운반 방법│      │⑤ 기타 사항│        │\n├──────┴───┴──────┴────┤\n│   귀 원 소장품을 대여하고자 위와 같이 신청하오니 허가하여 주시기 바랍니다. 대여함에 있어서 │\n│국악박물관 운영 규정을 준수하겠습니다.      │\n│                                            │\n│                 년     월     일           │\n│                           신청인                (서명 또는 인)│\n│                                            │\n│                                            │\n│   국립국악원장 귀하                        │\n├──────────────────────┤\n│■ 개인정보 제공 동의                       │\n│ㅇ ??국립국악원 국악박물관 운영 규정??에 의거한 소장품 열람?복제 절차에 따라 아래와 같이 개인정│\n│보 수집·이용을 하고자 하오니 다음 내용을 숙지하신 후 동의 여부를 결정하여 주시기 바랍니다.│\n│ㅇ 개인정보 수집·이용 내역                 │\n│┌────────────────┬─────────┬─────────┐│\n││항    목                        │수집목적          │보유 및 이용 기간 ││\n│├────────────────┼─────────┼─────────┤│\n││성명(단체명),                   │열람?복제 절차에 │해당 행정 문서    ││\n││생년월일(사업자등록번호), 주소, │활용              │보유기간          ││\n││전화번호                        │                  │                  ││\n│└────────────────┴─────────┴─────────┘│\n│ㅇ 귀하는 위와 같은 개인정보 수집·이용을 거부할 권리가 있습니다. 이 경우 소장품 열람?복제가 불│\n│가하오니 이 점 양해하여 주시기 바랍니다.    │\n│ㅇ 개인정보보호법 제15조 1항(개인정보의 수집·이용)에 의거하여 위와 같이 본인의 개인정보를 수│\n│집·이용하는 데에 동의하십니까? (예□ / 아니오□)│\n│                                                 신청인                    (서명 또는 인)│\n└──────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123095",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967341",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123091",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967337",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123095",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967341",
           "name": "",
           "file_store_url": ""
         }
@@ -2394,17 +2415,17 @@
       "content": "[별지 제7호 서식]\n소장품 대여기관 시설점검표\n기관명 :\n┏━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┯━━━━━━━━━━━━━┓\n┃                              ┃전시실                    │수장고                    ┃\n┃                              ┃                          │                          ┃\n┣━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━┿━━━━━━━━━━━━━┫\n┃대여유물 내역                 ┃     건        점         │  건        점            ┃\n┠───────────────╂─────────────┼─────────────┨\n┃규모                          ┃   층    총    실      ㎡ │     층     실         ㎡ ┃\n┃                              ┃                       평 │                   평     ┃\n┠───────────────╂─────────────┼─────────────┨\n┃시건장치                      ┃                          │                          ┃\n┠───────────────╂─────────────┼─────────────┨\n┃조명, 전기 및 제반시설        ┃                          │                          ┃\n┠───────────────╂─────────────┼─────────────┨\n┃온ㆍ습도 상태                 ┃                          │                          ┃\n┠───────────────╂─────────────┼─────────────┨\n┃소화기 비치                   ┃                          │                          ┃\n┠───────────────╂─────────────┼─────────────┨\n┃누수 상태                     ┃                          │                          ┃\n┠───────────────╂─────────────┼─────────────┨\n┃야간당직 유ㆍ무               ┃                          │                          ┃\n┠───────────────╂─────────────┼─────────────┨\n┃관리ㆍ학예직 구성             ┃                          │                          ┃\n┠───────────────╂─────────────┼─────────────┨\n┃유물 관리 상황                ┃                          │                          ┃\n┠───────────────╂─────────────┼─────────────┨\n┃보험가입 여부                 ┃                          │                          ┃\n┠──────┬────────╂─────────────┼─────────────┨\n┃C           │설치여부        ┃                          │                          ┃\n┃C           ├────────╂─────────────┼─────────────┨\n┃T           │설치수량        ┃                          │                          ┃\n┃V           ├────────╂─────────────┼─────────────┨\n┃            │녹화시간        ┃                          │                          ┃\n┃            ├────────╂─────────────┼─────────────┨\n┃            │녹화물 보관기간 ┃                          │                          ┃\n┠──────┼────────╂─────────────┼─────────────┨\n┃방호원      │주간            ┃                          │                          ┃\n┃현황        ├────────╂─────────────┼─────────────┨\n┃(인원?배치)│야간            ┃                          │                          ┃\n┠──────┼────────╂─────────────┼─────────────┨\n┃경비        │설치여부        ┃                          │                          ┃\n┃시스템      ├────────╂─────────────┼─────────────┨\n┃            │작동방식        ┃                          │                          ┃\n┃            ├────────╂─────────────┼─────────────┨\n┃            │유사시연락기관  ┃                          │                          ┃\n┠──────┴────────╂─────────────┼─────────────┨\n┃기타                          ┃                          │                          ┃\n┗━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━┷━━━━━━━━━━━━━┛\n\n년   월   일\n\n점검자                            (인)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123101",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967347",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123097",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967343",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123101",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967347",
           "name": "",
           "file_store_url": ""
         }
@@ -2425,17 +2446,17 @@
       "content": "[별지 제8호 서식]\n┌──────────────────────┐\n│대여허가서                                  │\n├───┬─────┬────────────┤\n│신    │  기관명 :│  담당자 :              │\n│청    ├─────┴──┬──────┬──┤\n│인    │  주소 :        │연락처      │    │\n├───┴──┬───┬─┴────┬─┴──┤\n│① 대여 목적│      │② 대여 기간│        │\n├──────┴───┴──────┴────┤\n│ ③ 대여 내역                               │\n├──┬─────┬──┬──────┬───┤\n│연번│관리 번호 │명칭│수량        │비  고│\n├──┼─────┼──┼──────┼───┤\n│    │          │    │            │      │\n├──┼─────┼──┼──────┼───┤\n│    │          │    │            │      │\n├──┼─────┼──┼──────┼───┤\n│    │          │    │            │      │\n├──┼─────┼──┼──────┼───┤\n│    │          │    │            │      │\n├──┼─────┼──┼──────┼───┤\n│    │          │    │            │      │\n├──┼─────┼──┼──────┼───┤\n│    │          │    │            │      │\n├──┼─────┼──┼──────┼───┤\n│    │          │    │            │      │\n├──┼─────┼──┼──────┼───┤\n│    │          │    │            │      │\n├──┼─────┼──┼──────┼───┤\n│    │          │    │            │      │\n├──┼─────┼──┼──────┼───┤\n│    │          │    │            │      │\n├──┼─────┼──┼──────┼───┤\n│    │          │    │            │      │\n├──┼─────┼──┼──────┼───┤\n│    │          │    │            │      │\n├──┴───┬─┴─┬┴─────┬┴───┤\n│④ 운반 방법│      │⑤ 기타 사항│        │\n├──────┴───┴──────┴────┤\n│                                            │\n│  귀하가 신청한 소장품 대여에 관하여 위와 같이 허가합니다.│\n│                                            │\n│                        년     월     일    │\n│ 관인                                       │\n│                                            │\n│국  립  국  악  원  장                      │\n└──────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123107",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967353",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123103",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967349",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123107",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967353",
           "name": "",
           "file_store_url": ""
         }
@@ -2456,17 +2477,17 @@
       "content": "[별지 제9호 서식]\n┌───────────────────────┐\n│소 장 품  보 험  평 가 서                     │\n┝━━┯━━━━━┯┯━━━┯━━━━━━━━━┥\n│사진│소장품번호││수 량 │                  │\n│    ├─────┼┴───┴─────────┤\n│    │소장품명칭│                            │\n│    ├─────┼──────────────┤\n│    │크 기     │                            │\n│    ├─────┼──────────────┤\n│    │소장처    │                            │\n│    ├─────┼──────────────┤\n│    │보험평가  │                            │\n│    │금액      │                            │\n├──┴─────┴──────────────┤\n│위 원 장                            (인)      │\n│위    원                            (인)      │\n│위    원                            (인)      │\n│                                              │\n│이와 같이 평가함.                             │\n│                                              │\n│20   년      월       일                      │\n│                                              │\n│국립국악원 국악박물관 소장품 보험 평가 위원회 │\n├───────────────────────┤\n│ 평가의견:                                    │\n│                                              │\n│                                              │\n│                                              │\n│                                              │\n│                                              │\n│                                              │\n│                                              │\n│                                              │\n│                                              │\n└───────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123113",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967359",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123109",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967355",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123113",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967359",
           "name": "",
           "file_store_url": ""
         }
@@ -2487,17 +2508,17 @@
       "content": "[별지 제10호 서식]\n┌───────────────────────────────────┬─────────────────┐\n│소장품 열람?복제 신청서                                              │처리기간                          │\n│                                                                      ├─────────────────┤\n│                                                                      │7일                               │\n├─┬────┬─────┬───────────────┬──────┴─────────────────┤\n│신│성명    │          │생년월일                      │                                                │\n│청│(단체명)│          │(사업자등록번호)              │                                                │\n│인├────┼─────┴───────────────┼───────┬────────────────┤\n│  │주소    │                                          │전화번호      │                                │\n├─┴────┼─────────────────────┼────┬──┴─────┬──────────┤\n│① 소장품   │② 소장품명칭                             │③ 수량 │④열람?복제수량│비고                │\n│번호        │                                          │        │                │                    │\n├──────┼─────────────────────┼────┼────────┼──────────┤\n│            │                                          │        │                │                    │\n├──────┼─────────────────────┼────┼────────┼──────────┤\n│            │                                          │        │                │                    │\n├──────┼─────────────────────┼────┼────────┼──────────┤\n│            │                                          │        │                │                    │\n├──────┼─────────────────────┼────┼────────┼──────────┤\n│            │                                          │        │                │                    │\n├──────┼─────────────────────┴────┴────────┴──────────┤\n│⑤ 일시     │            년     월     일                                                                │\n├──────┼────┬──┬──┬────────────────┬──────────────────┤\n│⑥ 인원     │본인 외 │연번│성명│생년월일                        │주소                                │\n│            │(    )명├──┼──┼────────────────┼──────────────────┤\n│            │        │1   │    │                                │                                    │\n│            │        ├──┼──┼────────────────┼──────────────────┤\n│            │        │2   │    │                                │                                    │\n├──────┼────┴──┴──┴────────────────┴──────────────────┤\n│⑦ 목적     │ □학술논문 □학위논문 □연구자료 □전시 □기타(                     )                      │\n├──────┼──────────────────────────────────────────────┤\n│⑧ 내역     │ □열람 □3차원 입체촬영 □비디오 촬영 □사진촬영 □탁본 □모사(베낌)                       │\n│            │ □모조(模造) □정밀실측 □사진자료의 복제 □기타 (             )                           │\n├──────┼──────────────────────────────────────────────┤\n│⑨ 장비     │ □필기도구 □카 메 라 □조명장치 □기타(                       )                           │\n├──────┴──────────────────────────────────────────────┤\n│귀 원 소장품을 열람?복제하고자 위와 같이 신청하오니 허가하여 주시기 바랍니다. 열람에 있어서              │\n│국악박물관 운영규정을 준수하겠습니다.                                                                     │\n│                                                                                                          │\n│년     월     일                                                                                          │\n│신청인             (서명 또는 인)                                                                         │\n│국립국악원장 귀하                                                                                         │\n│                                                                                                          │\n├─────────────────────────────────────────────────────┤\n│■ 개인정보 제공 동의                                                                                     │\n│ㅇ ??국립국악원 국악박물관 운영 규정??에 의거한 소장품 열람?복제 절차에 따라 아래와 같이 개인정보 수 │\n│집·이용을 하고자 하오니 다음 내용을 숙지하신 후 동의 여부를 결정하여 주시기 바랍니다.                    │\n│ㅇ 개인정보 수집·이용 내역                                                                               │\n│┌────────────────┬─────────┬─────────┐                              │\n││항    목                        │수집목적          │보유 및 이용 기간 │                              │\n│├────────────────┼─────────┼─────────┤                              │\n││성명(단체명),                   │열람?복제 절차에 │해당 행정 문서    │                              │\n││생년월일(사업자등록번호), 주소, │활용              │보유기간          │                              │\n││전화번호                        │                  │                  │                              │\n│└────────────────┴─────────┴─────────┘                              │\n│ㅇ 귀하는 위와 같은 개인정보 수집·이용을 거부할 권리가 있습니다. 이 경우 소장품 열람?복제가 불가하오    │\n│니 이 점 양해하여 주시기 바랍니다.                                                                        │\n│ㅇ 개인정보보호법 제15조 1항(개인정보의 수집·이용)에 의거하여 위와 같이 본인의 개인정보를 수집·이용     │\n│하는 데에 동의하십니까? (예□ / 아니오□)                                                                 │\n│                                                 신청인                    (서명 또는 인)                 │\n└─────────────────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123119",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967365",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123115",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967361",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123119",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967365",
           "name": "",
           "file_store_url": ""
         }
@@ -2518,17 +2539,17 @@
       "content": "[별지 제11호 서식]\n┌──────┬─────┐\n│허가번호    │          │\n┌───────────────────┴──────┴─────┤\n│소장품 열람 ? 복제 허가서                                      │\n├─┬──────────┬───────────────────┤\n│신│  성명 :            │  생년월일 :                          │\n│청├──────────┼───────────────────┤\n│인│  주소 :            │  전화번호 :                          │\n├─┴─────┬────┼──────┬──────┬─────┤\n│① 소장품 번호│② 명칭 │③ 열람수량 │④ 복제수량 │비고      │\n├───────┼────┼──────┼──────┼─────┤\n│              │        │            │            │          │\n├───────┼────┼──────┼──────┤          │\n│              │        │            │            │          │\n├───────┼────┼──────┼──────┤          │\n│              │        │            │            │          │\n├───────┼────┼──────┼──────┤          │\n│              │        │            │            │          │\n├───────┼────┼──────┼──────┼─────┤\n│              │        │            │            │          │\n├───────┼────┼──────┼──────┤          │\n│              │        │            │            │          │\n├───────┼────┼──────┼──────┤          │\n│              │        │            │            │          │\n├───────┼────┴──────┼──────┼─────┤\n│⑤ 일시       │                      │⑥ 인원     │          │\n├───────┼───────────┴──────┴─────┤\n│⑦ 목적       │                                                │\n├───────┼────────────────────────┤\n│⑧ 내역       │                                                │\n├───────┼────────────────────────┤\n│⑨ 장비       │                                                │\n├───────┴────────────────────────┤\n│                                                                │\n│  귀하가 신청한 소장품 열람?복제에 관하여 위와 같이 허가합니다.│\n│                                                                │\n│                        년     월     일                        │\n│ 관인                                                           │\n│                                                                │\n│국  립  국  악  원  장                                          │\n│                                                                │\n└────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123125",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967371",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123121",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967367",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123125",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967371",
           "name": "",
           "file_store_url": ""
         }
@@ -2549,17 +2570,17 @@
       "content": "[별지 제12호 서식]\n매 도 신 청 서\n┏━━━━━┓\n┃*신청순서 ┃\n┗━━━━━┛\n┏━━┯━━━━━━┳━━━━━┯━━━━━━━┯━━━┯━━━━━━━┯━━━┳━━━━━━━━━━━━━━━━━━━━┓\n┃연번│명   칭     ┃수량/책수 │시대/간행연대 │크  기│구조특징/판본 │요구액┃*접수자료                               ┃\n┣━━┿━━━━━━╋━━━━━┿━━━━━━━┿━━━┿━━━━━━━┿━━━╋━━━━━━━━━━━━━━━━━━━━┫\n┃1   │            ┃          │              │      │              │      ┃                                        ┃\n┠──┼──────╂─────┼───────┼───┼───────┼───╂────────────────────┨\n┃2   │            ┃          │              │      │              │      ┃                                        ┃\n┠──┼──────╂─────┼───────┼───┼───────┼───╂────────────────────┨\n┃3   │            ┃          │              │      │              │      ┃                                        ┃\n┠──┼──────╂─────┼───────┼───┼───────┼───╂────────────────────┨\n┃4   │            ┃          │              │      │              │      ┃                                        ┃\n┠──┼──────╂─────┼───────┼───┼───────┼───╂────────────────────┨\n┃5   │            ┃          │              │      │              │      ┃                                        ┃\n┣━━┿━━━━━━╋━━━━━┷━━━━━━━┷━━━┷━━━━━━━┷━━━┻━━━━━━━━━━━━━━━━━━━━┫\n┃계  │* 서류 접수 ┃                       건              점                                                           ┃\n┣━━┿━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃계  │* 실물 접수 ┃                       건              점                                                           ┃\n┣━━┷━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃                                                                                                                        ┃\n┃  1. 위 자료는 도굴품(도난품)이 아님을 확인하며, 도굴품(도난품)으로 판명될 때에는 매도 금액의 전액                      ┃\n┃환불 등 어떠한 불이익이라도 감수하겠습니다.                                                                             ┃\n┃  2. 위 자료는 공동소유물(문중 소유 등)이 아님을 확인하며, 공동소유물로 판명되어 소유권 분쟁 발생 시에는                ┃\n┃매도 금액 전액 환불 등 어떠한 불이익이라도 감수하겠습니다.                                                              ┃\n┃  3. 위 자료 중 구입 대상으로 선정되지 않은 자료는 즉시 회수하겠습니다.                                                 ┃\n┃  4. 본 매도신청서를 위 자료의 진위 평가 등의 증거 자료로 임의 활용하지 않겠습니다.                                     ┃\n┃ ┏━━━━━━┯━━━━━━━━━━━━┯━━━━━━━━━━━━━━━┓                                             ┃\n┃ ┃  서류 접수 │       년     월     일 │성명:                    (인) ┃                                             ┃\n┃ ┣━━━━━━┿━━━━━━━━━━━━┿━━━━━━━━━━━━━━━┫                                             ┃\n┃ ┃* 실물 접수 │       년     월     일 │성명:                    (인) ┃                                             ┃\n┃ ┗━━━━━━┷━━━━━━━━━━━━┷━━━━━━━━━━━━━━━┛                                             ┃\n┃  붙임  신분증 사본 1부.                                                                                                ┃\n┃                               신청인 주소 :                                                                            ┃\n┃                               주민등록번호 :                                                                           ┃\n┃                               상호 :               사업자등록번호 :                                                    ┃\n┃                               전화 :               휴대전화 :                                                          ┃\n┃                                                                                                                        ┃\n┃ 국립국악원장 귀하                                                                                                      ┃\n┃                                                                                                                        ┃\n┃┌──────────────────────────────────────────────────────────┐┃\n┃│■ 개인정보 제공 동의                                                                                               │┃\n┃│ㅇ ??국립국악원 국악박물관 운영 규정??에 의거한 유물 구입 절차에 따라 아래와 같이 개인정보 수집·이용을 하고자  │┃\n┃│하오니 다음 내용을 숙지하신 후 동의 여부를 결정하여 주시기 바랍니다.                                                │┃\n┃│ㅇ 개인정보 수집·이용 내역                                                                                         │┃\n┃│┌──────────────────────┬───────────┬────────────┐                  │┃\n┃││항    목                                    │수집목적              │보유 및 이용 기간       │                  │┃\n┃│├──────────────────────┼───────────┼────────────┤                  │┃\n┃││성명(단체명), 주민등록번호(사업자등록번호), │유물 구입 절차에 활용 │해당 행정 문서 보유기간 │                  │┃\n┃││주소, 전화번호                              │                      │                        │                  │┃\n┃│└──────────────────────┴───────────┴────────────┘                  │┃\n┃│ㅇ 귀하는 위와 같은 개인정보 수집·이용을 거부할 권리가 있습니다. 이 경우 유물 매도 절차 진행이 불가하오니 이       │┃\n┃│점 양해하여 주시기 바랍니다.                                                                                        │┃\n┃│ㅇ 개인정보보호법 제15조 1항(개인정보의 수집·이용)에 의거하여 위와 같이 본인의 개인정보를 수집·이용하는 데에      │┃\n┃│동의하십니까? (예□ / 아니오□)                                                                                     │┃\n┃│                                                 신청인                    (서명 또는 인)                           │┃\n┃└──────────────────────────────────────────────────────────┘┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123131",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967377",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123127",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967373",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123131",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967377",
           "name": "",
           "file_store_url": ""
         }
@@ -2580,17 +2601,17 @@
       "content": "[별지 제13호 서식]\n소장내력서\n1. 대상 자료 :\n2. 입수 시기 :  (가능한 정확하게 년월일 분명하게 밝힘)\n3. 입수 내력 :  (가능한 구체적으로 어디서, 누구로부터 구입ㆍ증여ㆍ습득하였는지 분명하게 밝힘)\n4. 증빙서류의 유무  (구입영수증이 있다면 사본 첨부)\n위의 서술이 거짓 없는 사실이며, 대상 자료가 매장유산, 도굴품, 장물 등 불법적인 자료가 아님을 확인합니다.\n작성자 :                         (인)\n주민등록번호 :\n주소 :\n연락처 : (자택)\n(핸드폰)\n작성날짜 :    년      월      일\n┌──────────────────────────────────────────────────────────┐\n│■ 개인정보 제공 동의                                                                                               │\n│ㅇ ??국립국악원 국악박물관 운영 규정??에 의거한 유물 구입 절차에 따라 아래와 같이 개인정보 수집·이용을 하고자  │\n│하오니 다음 내용을 숙지하신 후 동의 여부를 결정하여 주시기 바랍니다.                                                │\n│ㅇ 개인정보 수집·이용 내역                                                                                         │\n│┌──────────────────────┬───────────┬────────────┐                  │\n││항    목                                    │수집목적              │보유 및 이용 기간       │                  │\n│├──────────────────────┼───────────┼────────────┤                  │\n││성명(단체명), 주민등록번호(사업자등록번호), │유물 구입 절차에 활용 │해당 행정 문서 보유기간 │                  │\n││주소, 전화번호                              │                      │                        │                  │\n│└──────────────────────┴───────────┴────────────┘                  │\n│ㅇ 귀하는 위와 같은 개인정보 수집·이용을 거부할 권리가 있습니다. 이 경우 유물 매도 절차 진행이 불가하오니 이       │\n│점 양해하여 주시기 바랍니다.                                                                                        │\n│ㅇ 개인정보보호법 제15조 1항(개인정보의 수집·이용)에 의거하여 위와 같이 본인의 개인정보를 수집·이용하는 데에      │\n│동의하십니까? (예□ / 아니오□)                                                                                     │\n│                                                 신청인                    (서명 또는 인)                           │\n└──────────────────────────────────────────────────────────┘\n※ 최종 심의를 통과한 매매계약대상품에 대한 정보공개요청이 있을 경우, 「공공기관의 정보공개에 관한 법률」에 의거하여 구입관련 정보가 공개될 수 있습니다.",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123137",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967383",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123133",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967379",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123137",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967383",
           "name": "",
           "file_store_url": ""
         }
@@ -2611,17 +2632,17 @@
       "content": "[별지 제14호 서식]\n매도신청 자료 임시보관증\n귀하\n상기인이 자필로 매도 신청한      건    점의 자료를 국립국악원 국악박물관에 정히 보관합니다.\n1. 본 보관증은 어떠한 경우라도 양도 또는 담보제공물이 될 수 없으며 자료 반환 및 매매계약 시 필히 반환해야 합니다.\n2. 본 보관증은 해당 자료의 진위 평가 등의 증거자료로 임의 활용될 수 없습니다.\n붙임 : 자필 매도신청서 사본 1부.  끝.\n년      월      일\n국립국악원 국악연구실\n국악박물관 소장품관리담당자:\n\n\n*     월    일까지 심사완료 후 구입여부를 확정 통보할 예정입니다.\n궁금한 사항은 아래 연락처로 문의하여 주십시오.\n전화 :                 팩스 :\nE-mail :",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123143",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967389",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123139",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967385",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123143",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967389",
           "name": "",
           "file_store_url": ""
         }
@@ -2642,17 +2663,17 @@
       "content": "[별지 제15호 서식]\n<NOTE>┌───────────┬────────────────────────────────────────────────────────┐\n│매 매 계 약 서        │계약번호  제         호                                                                                         │\n│                      ├────────────────────────────────────────────────────────┤\n│                      │공고번호  제         호                                                                                         │\n├─┬────────┬┴────────────────────────────────────────────────────────┤\n│계│발  주  처      │국립국악원 재무관                                                                                                 │\n│약├────────┼─────────────────────────────────────────────────────────┤\n│자│계약상대자      │주      소 :                                                                                                      │\n│  │                ├─────────────────────────────────────────────────────────┤\n│  │                │성      명 :                                                                                                      │\n│  │                ├─────────────────────────────────────────────────────────┤\n│  │                │주민등록번호 :                                                                                                    │\n├─┼────────┼─────────────────────────────────────────────────────────┤\n│계│자료명 및 수량  │<                     > 등    건    점 (별첨 참조)                                                                │\n│약├────────┼─────────────────────────────────────────────────────────┤\n│내│계 약 금 액     │금                원정(￦              , 제세 포함)                                                               │\n│용├────────┼─────────────────────────────────────────────────────────┤\n│  │총제조부기금액  │금                원정(￦              , 제세 포함)                                                               │\n│  ├────────┼─────────────────────────────────────────────────────────┤\n│  │계약보증금      │면  제                                                                                                            │\n│  ├────────┼─────────────────────────────────────────────────────────┤\n│  │지체상금율      │1,000분의 1.5-> 1,000분의 0.75 ??국가를 당사자로 하는 계약에 관한 법률?? 시행규칙 제75조 ‘지체상금율’에 의거│\n│  │                │                                                                                                                  │\n│  ├────────┼─────────────────────────────────────────────────────────┤\n│  │물가변동계약금액│해 당 없 음                                                                                                       │\n│  │조정방법        │                                                                                                                  │\n│  ├────────┼─────────────────────────────────────────────────────────┤\n│  │납 품 일 자     │                                                                                                                  │\n│  ├────────┼─────────────────────────────────────────────────────────┤\n│  │납 품 장 소     │국립국악원 국악박물관                                                                                             │\n│  ├────────┼─────────────────────────────────────────────────────────┤\n│  │기 타 사 항     │기타 국가계약법령 및 회계예규에 의함.                                                                             │\n├─┴────────┴─────────────────────────────────────────────────────────┤\n│o 국립국악원 재무관과 계약상대자는 상호 대등한 입장에서 위 자료에 대한 매매계약을 체결함에 있어, 국립국악원 재                          │\n│무관은 계약상대자가 지정하는 은행을 통하여 대금을 지급하고, 이와 동시에 계약상대자는 위 자료에 대한 모든 권                             │\n│리가 국립국악원에 귀속됨에 동의하며, 이후 위 자료에 대한 모든 권리나 계약 금액에 대하여 일체의 이의를 제기                              │\n│하지 않는다.                                                                                                                            │\n│o 계약대상자는 매매된 자료가 매장유산, 도굴품, 장물 등 불법적인 물품인 경우에 매매 대금의 환수 및 향후 어떠한                           │\n│처벌도 감수할 것을 서약한다.                                                                                                            │\n│o 계약대상자는 매매된 자료가 공동소유물(문중 등) 등 소유권 분쟁과 관련된 물품인 경우에 매매 대금의 환불 및 향                           │\n│후 어떠한 조치도 감수할 것을 서약한다.                                                                                                  │\n│o 본 계약의 증거로서 계약서를 작성하며 당사자가 기명날인한 후 각각 1통씩 보관한다.                                                      │\n│                                                                                                                                        │\n│※ 붙임 : 자료명세 및 매도 동의서 1부.                                                                                                  │\n│                                                                                                                                        │\n│                                     .      .      .                                                                                    │\n│계약담당공무원 : 국립국악원 재무관              (인)                                                                                    │\n│   계 약 상 대 자 :                                (인)                                                                                 │\n└────────────────────────────────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123149",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967395",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123145",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967391",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123149",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967395",
           "name": "",
           "file_store_url": ""
         }
@@ -2673,17 +2694,17 @@
       "content": "[별지 제16호 서식]\n┌───────────────────────────────────────────────────────────┐\n│                                                                                                                      │\n│자 료 명 세  및  매 도 동 의 서                                                                                       │\n│                                                                                                                      │\n│자 료 명 세 : <                     > 등    건    점 (별첨 참조)                                                      │\n│금       액 :  일금                원정(￦            , 제세 포함)                                                    │\n│                                                                                                                      │\n│본인 자료 <                  > 등    건    점 (별첨 참조)을                                                           │\n│일금                    원정(제세 포함)에 매도할 것을 동의함                                                          │\n│                                                                                                                      │\n│                                                                                                                      │\n│                                         년   월   일                                                                 │\n│                          매도인 성명 :                      (인)                                                     │\n│                         주민등록번호 :                                                                               │\n│                             전화번호 :                                                                               │\n│                                 주소 :                                                                               │\n│                                                                                                                      │\n│ ┌────────────────────────────────────────────────────────┐ │\n│ │■ 개인정보 제공 동의                                                                                           │ │\n│ │ㅇ ??국립국악원 국악박물관 운영 규정??에 의거한 유물 구입 절차에 따라 아래와 같이 개인정보 수집·이용을  하 │ │\n│ │고자 하오니 다음 내용을 숙지하신 후 동의 여부를 결정하여 주시기 바랍니다.                                       │ │\n│ │ㅇ 개인정보 수집·이용 내역                                                                                     │ │\n│ │┌──────────────────────┬───────────┬────────────┐              │ │\n│ ││항    목                                    │수집목적              │보유 및 이용 기간       │              │ │\n│ │├──────────────────────┼───────────┼────────────┤              │ │\n│ ││성명(단체명), 주민등록번호(사업자등록번호), │유물 구입 절차에 활용 │해당 행정 문서 보유기간 │              │ │\n│ ││주소, 전화번호                              │                      │                        │              │ │\n│ │└──────────────────────┴───────────┴────────────┘              │ │\n│ │ㅇ 귀하는 위와 같은 개인정보 수집·이용을 거부할 권리가 있습니다. 이 경우 유물 매도 절차 진행이 불가하오        │ │\n│ │니 이 점 양해하여 주시기 바랍니다.                                                                              │ │\n│ │ㅇ 개인정보보호법 제15조 1항(개인정보의 수집·이용)에 의거하여 위와 같이 본인의 개인정보를 수집·이용하는       │ │\n│ │데에 동의하십니까? (예□ / 아니오□)                                                                            │ │\n│ │                                                 신청인                    (서명 또는 인)                       │ │\n│ └────────────────────────────────────────────────────────┘ │\n│                                                                                                                      │\n│국립국악원장 귀하                                                                                                     │\n│                                                                                                                      │\n└───────────────────────────────────────────────────────────┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123155",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967401",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123151",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967397",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123155",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967401",
           "name": "",
           "file_store_url": ""
         }
@@ -2704,17 +2725,17 @@
       "content": "[별지 제17호 서식]\n유 물 대 장\n┌──┬──┬───┬───────┬──────┬──────┬───┐\n│관리│분류│명  칭│소  장  경  위│형태 및 규격│구 조 특 징 │비 고 │\n│번호│번호│      │              │            │            │      │\n┝━━┿━━┿━━━┿━━━━━━━┿━━━━━━┿━━━━━━┿━━━┥\n│    │    │      │입수연월      │            │            │      │\n│    │    │      │보장가격      │            │            │      │\n│    │    │      │구입가격      │            │            │      │\n├──┼──┼───┼───────┼──────┼──────┼───┤\n│    │    │      │입수연월      │            │            │      │\n│    │    │      │보장가격      │            │            │      │\n│    │    │      │구입가격      │            │            │      │\n├──┼──┼───┼───────┼──────┼──────┼───┤\n│    │    │      │입수연월      │            │            │      │\n│    │    │      │보장가격      │            │            │      │\n│    │    │      │구입가격      │            │            │      │\n├──┼──┼───┼───────┼──────┼──────┼───┤\n│    │    │      │입수연월      │            │            │      │\n│    │    │      │보장가격      │            │            │      │\n│    │    │      │구입가격      │            │            │      │\n├──┼──┼───┼───────┼──────┼──────┼───┤\n│    │    │      │입수연월      │            │            │      │\n│    │    │      │보장가격      │            │            │      │\n│    │    │      │구입가격      │            │            │      │\n├──┼──┼───┼───────┼──────┼──────┼───┤\n│    │    │      │입수연월      │            │            │      │\n│    │    │      │보장가격      │            │            │      │\n│    │    │      │구입가격      │            │            │      │\n├──┼──┼───┼───────┼──────┼──────┼───┤\n│    │    │      │입수연월      │            │            │      │\n│    │    │      │보장가격      │            │            │      │\n│    │    │      │구입가격      │            │            │      │\n├──┼──┼───┼───────┼──────┼──────┼───┤\n│    │    │      │입수연월      │            │            │      │\n│    │    │      │보장가격      │            │            │      │\n│    │    │      │구입가격      │            │            │      │\n├──┼──┼───┼───────┼──────┼──────┼───┤\n│    │    │      │입수연월      │            │            │      │\n│    │    │      │보장가격      │            │            │      │\n│    │    │      │구입가격      │            │            │      │\n├──┼──┼───┼───────┼──────┼──────┼───┤\n│    │    │      │입수연월      │            │            │      │\n│    │    │      │보장가격      │            │            │      │\n│    │    │      │구입가격      │            │            │      │\n├──┼──┼───┼───────┼──────┼──────┼───┤\n│    │    │      │입수연월      │            │            │      │\n│    │    │      │보장가격      │            │            │      │\n│    │    │      │구입가격      │            │            │      │\n├──┼──┼───┼───────┼──────┼──────┼───┤\n│    │    │      │입수연월      │            │            │      │\n│    │    │      │보장가격      │            │            │      │\n│    │    │      │구입가격      │            │            │      │\n├──┼──┼───┼───────┼──────┼──────┼───┤\n│    │    │      │입수연월      │            │            │      │\n│    │    │      │보장가격      │            │            │      │\n│    │    │      │구입가격      │            │            │      │\n└──┴──┴───┴───────┴──────┴──────┴───┘",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123161",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967407",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123157",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967403",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123161",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967407",
           "name": "",
           "file_store_url": ""
         }
@@ -2735,17 +2756,17 @@
       "content": "[별지 제18호 서식]\n유물 구입 예비 평가서(구입대상 선정 평가서)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃ □ 평가자료                                                                                ┃\n┠─────┬┬────┬┬───┬─────────────────────────────┨\n┃명칭      ││수량    ││크기  │                                                          ┃\n┠─────┼┼────┼┼───┼─────────────────────────────┨\n┃유형?재질││추정시대││매도자│        원                                                ┃\n┃          ││        ││요구액│(￦       )                                               ┃\n┣━━━━━┷┷━━━━┷┷━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃ □ 심의내용                                                                                ┃\n┠─────┬────────────────────────────────────────┨\n┃시대      │                                                                                ┃\n┃감정 결과 │                                                                                ┃\n┠─────┼────────────────────────────────────────┨\n┃감정가액  │                                                                                ┃\n┠─────┼────────────────────────────────────────┨\n┃접수여부  │적격(     ),     부적격(     )                                                  ┃\n┠─────┼────────────────────────────────────────┨\n┃검토의견  │※ 자료의 특징, 사료적 가치, 희소성, 전시 및 학술 연구에의 활용도 등을 중심으로 ┃\n┃          │기술                                                                            ┃\n┃          │                                                                                ┃\n┃          │                                                                                ┃\n┃          │                                                                                ┃\n┃          │                                                                                ┃\n┃          │                                                                                ┃\n┃          │                                                                                ┃\n┠─────┴────────────────────────────────────────┨\n┃                                                                                            ┃\n┃위와 같이 평가합니다.                                                                       ┃\n┃년    월    일                                                                              ┃\n┃국악박물관 소장품 구입 예비평가 위원회┌───────────────┐                    ┃\n┃                                      │평가위원                      │                    ┃\n┃                                      ├───────────────┤                    ┃\n┃                                      │ 평가위원장              ?? │                    ┃\n┃                                      ├───────────────┤                    ┃\n┃                                      │   평가위원              ?? │                    ┃\n┃                                      ├───────────────┤                    ┃\n┃                                      │   평가위원              ?? │                    ┃\n┃                                      ├───────────────┤                    ┃\n┃                                      │   평가위원              ?? │                    ┃\n┃                                      ├───────────────┤                    ┃\n┃                                      │   평가위원              ?? │                    ┃\n┃                                      └───────────────┘                    ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123167",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967413",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123163",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967409",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123167",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967413",
           "name": "",
           "file_store_url": ""
         }
@@ -2766,17 +2787,17 @@
       "content": "[별지 제19호 서식]\n유물 구입 심의서\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃ □ 평가자료                                                                                    ┃\n┠─────┬┬────┬┬───┬───────────────────────────────┨\n┃명칭      ││수량    ││크기  │                                                              ┃\n┠─────┼┼────┼┼───┼───────────────────────────────┨\n┃유형?재질││시대    ││매도자│           원                                                 ┃\n┃          ││감정결과││요구액│(￦           )                                               ┃\n┣━━━━━┿┷━━━━┷┿━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃예비평가  │ 구입가치:  │평가금액 :          원                                                ┃\n┃결과      │            │(￦                 )                                                 ┃\n┠─────┴──────┴───────────────────────────────────┨\n┃ □ 심의내용                                                                                    ┃\n┠─────┬──────────────────────────────────────────┨\n┃확정가액  │                                                                                    ┃\n┠─────┼──────────────────────────────────────────┨\n┃구입여부  │적격(     ),     부적격(     )                                                      ┃\n┠─────┼──────────────────────────────────────────┨\n┃검토의견  │※ 자료의 특징, 사료적 가치, 희소성, 전시 및 학술 연구에의 활용도 등을 중심으로 기술┃\n┃          │                                                                                    ┃\n┃          │                                                                                    ┃\n┃          │                                                                                    ┃\n┃          │                                                                                    ┃\n┃          │                                                                                    ┃\n┃          │                                                                                    ┃\n┠─────┴──────────────────────────────────────────┨\n┃                                                                                                ┃\n┃위와 같이 평가합니다.                                                                           ┃\n┃년    월    일                                                                                  ┃\n┃국악박물관 소장품 구입 심의 위원회                                                              ┃\n┃┌───────────────┬─────┐                                                  ┃\n┃│평가위원                      │평가 금액 │                                                  ┃\n┃├───────────────┼─────┤                                                  ┃\n┃│ 평가위원장              ?? │          │                                                  ┃\n┃├───────────────┼─────┤                                                  ┃\n┃│   평가위원              ?? │          │                                                  ┃\n┃├───────────────┼─────┤                                                  ┃\n┃│   평가위원              ?? │          │                                                  ┃\n┃├───────────────┼─────┤                                                  ┃\n┃│   평가위원              ?? │          │                                                  ┃\n┃├───────────────┼─────┤                                                  ┃\n┃│   평가위원              ?? │          │                                                  ┃\n┃└───────────────┴─────┘                                                  ┃\n┃                                                                                                ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123173",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967419",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123169",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967415",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123173",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967419",
           "name": "",
           "file_store_url": ""
         }
@@ -2797,17 +2818,17 @@
       "content": "[별지 제20호 서식]\n기  증  원\n┏━━━┯━━━┯━━━┯━━━┯━━━┓\n┃연 번 │명  칭│수  량│규  격│비 고 ┃\n┠───┼───┼───┼───┼───┨\n┃      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┨\n┃      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┨\n┃      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┨\n┃      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┨\n┃      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┨\n┃      │      │      │      │      ┃\n┠───┼───┼───┼───┼───┨\n┃      │      │      │      │      ┃\n┠───┴───┴───┴───┴───┨\n┃합계 :    건   점                     ┃\n┗━━━━━━━━━━━━━━━━━━━┛\n1. ??국립국악원 국악박물관 운영규정?? 중 기증 및 수증 관한 규정(제4장 제5절)에 따라 위 자료의 소유권과 저작권을 기증ㆍ양도 합니다.\n2. ??국립국악원 국악박물관 운영규정??에 따른 기증 절차 진행을 위해 본인의 개인정보를 제공하는 것에 동의합니다.\n년     월     일\n이  름(단체명):                       (인)\n생 년 월 일 :\n(사업자등록번호)\n주        소 :\n전        화 :\n국 립 국 악 원 장  귀하\n위 개인정보는 기증에 관한 제반 절차에 활용되며, 관련문서 보유기간에 함께 보관됩니다.\n귀하는 개인정보의 수집 및 활용을 거부할 수 있습니다. 이 경우 상기 물품의 기증 처리가 불가하오니 이 점 양해하여 주시기 바랍니다.",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123179",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967425",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123175",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967421",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123179",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967425",
           "name": "",
           "file_store_url": ""
         }
@@ -2828,17 +2849,17 @@
       "content": "[별지 제21호 서식]\n수 증 심 의 서\n┌──┬──┬──┬─────┬──┐\n│연번│명칭│수량│평가 결과 │비고│\n├──┼──┼──┼─────┼──┤\n│    │    │    │          │    │\n├──┼──┼──┼─────┼──┤\n│    │    │    │          │    │\n├──┼──┼──┼─────┼──┤\n│    │    │    │          │    │\n├──┼──┼──┼─────┼──┤\n│    │    │    │          │    │\n├──┼──┼──┼─────┼──┤\n│    │    │    │          │    │\n├──┼──┼──┼─────┼──┤\n│    │    │    │          │    │\n├──┴──┴──┴─────┴──┤\n│합계 :      건    점              │\n└─────────────────┘\n위와 같이 심의합니다.\n년      월     일\n수 증 심 의 위 원 회\n위  원                       (인)\n위  원                       (인)\n위  원                       (인)\n위  원                       (인)\n위  원                       (인)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123185",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967431",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123181",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967427",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123185",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967431",
           "name": "",
           "file_store_url": ""
         }
@@ -2859,17 +2880,17 @@
       "content": "[별지 제22호 서식]\n수증 심의 소견서\n┌───────────┐\n│ □ 수증 심의자료     │\n├────┬┬────┬┤\n│자 료 명││수   량 ││\n├────┼┼────┼┤\n│자료유형││기록내용││\n│        │├────┼┤\n│        ││기록시기││\n├────┼┼────┼┤\n│소장자  ││생년월일││\n├────┼┴────┴┤\n│주    소│            │\n├────┴──────┤\n│ □ 심의내용          │\n├────┬──────┤\n│수증여부│수증가능(    ),    수증불가(    )│\n├────┼──────┤\n│평가의견│※ 자료의 특징 및 가치, 전시 및 학술 연구에의 활용도를 중심으로 기술│\n│        │            │\n│        │            │\n│        │            │\n│        │            │\n│        │            │\n│        │            │\n├────┼──────┤\n│기타의견│            │\n└────┴──────┘\n위와 같이 평가함을 확인합니다.\n년    월    일\n수 증 심 의 위 원\n소속 :                직위 :                성명 :               (서명)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123191",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967437",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123187",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967433",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123191",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967437",
           "name": "",
           "file_store_url": ""
         }
@@ -2890,17 +2911,17 @@
       "content": "[별지 제23호 서식]\n제 20ㅇㅇ-ㅇㅇ 호\n\n\n\n기 증 증 서\n\n성 명 :         (      소  속       )\n\n\n귀중한 자료를 국립국악원 국악박물관에 기증해\n주신 귀하께 진심으로 감사드립니다. 우리 원은 이\n자료의 활용과 보존관리에 최선을 다할 것을 다짐\n하며 이 증서를 드립니다.\n\n\n20ㅇㅇ 년   ㅇ 월   ㅇ 일\n\n\n\n\n\n국립국악원장 ㅇ ㅇ ㅇ\n",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123197",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967443",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123193",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967439",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123197",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967443",
           "name": "",
           "file_store_url": ""
         }
@@ -2921,17 +2942,17 @@
       "content": "[별지 제24호 서식]\n기 탁 신 청 서\n┏━━┯━━━━━┯━━━┯━━━━┯━━━┓\n┃연번│명      칭│수 량 │형   상 │비 고 ┃\n┠──┼─────┼───┼────┼───┨\n┃    │          │      │        │      ┃\n┠──┼─────┼───┼────┼───┨\n┃    │          │      │        │      ┃\n┠──┴─────┴───┴────┴───┨\n┃합계:      건      점                     ┃\n┗━━━━━━━━━━━━━━━━━━━━━┛\n1. 위의 자료를 「국립국악원 국악박물관 운영규정」 중 기탁 및 수탁에 관한 규정(제4장 제6절)에 따라 기탁하고자 합니다.\n가. 기탁사유 :\n나. 기    간 :\n2. 본인은 기탁기간 중 국립국악원에서 위의 자료를 활용(전시와 연구)하는 것에 동의합니다.\n3. ??국립국악원 국악박물관 운영규정??에 따른 기탁 절차 진행을 위해 본인의 개인정보를 제공하는 것에 동의합니다.\n년     월     일\n이  름(단체명):                       (인)\n생 년 월 일 :\n(사업자등록번호)\n주        소 :\n전 화 번 호 :\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃기탁 후계인 또는 기탁 대리인 연락처 및 개인정보 제공 동의서               ┃\n┠─────────────────────────────────────┨\n┃ 이름:                                   생년월일:                        ┃\n┃ 주소:                                   전화번호:                        ┃\n┠─────────────────────────────────────┨\n┃ㅇ 개인정보보호법 제15조 1항(개인정보의 수집·이용)에 의거하여 위와 같이  ┃\n┃본인의 개인정보를 수집·이용하는 데에 동의하십니까? (예□ / 아니오□)     ┃\n┃  서명                  (인)                                              ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n국 립 국 악 원 장  귀하\n위 개인정보는 기탁에 관한 제반 절차에 활용되며, 관련문서 보유기간에 함께 보관됩니다.\n귀하는 개인정보의 수집 및 활용을 거부할 수 있습니다. 이 경우 상기 물품의 기탁 처리가 불가하오니 이 점 양해하여 주시기 바랍니다.",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123203",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967449",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123199",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967445",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123203",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967449",
           "name": "",
           "file_store_url": ""
         }
@@ -2952,17 +2973,17 @@
       "content": "[별지 제25호 서식]\n수 탁 심 의 서\n┌──┬──┬──┬─────┬──┐\n│연번│명칭│수량│평가 결과 │비고│\n├──┼──┼──┼─────┼──┤\n│    │    │    │          │    │\n├──┼──┼──┼─────┼──┤\n│    │    │    │          │    │\n├──┼──┼──┼─────┼──┤\n│    │    │    │          │    │\n├──┼──┼──┼─────┼──┤\n│    │    │    │          │    │\n├──┼──┼──┼─────┼──┤\n│    │    │    │          │    │\n├──┼──┼──┼─────┼──┤\n│    │    │    │          │    │\n├──┴──┴──┴─────┴──┤\n│합계 :      건    점              │\n└─────────────────┘\n위와 같이 심의합니다.\n년      월     일\n국립국악원 수탁심의위원회\n위  원                       (인)\n위  원                       (인)\n위  원                       (인)\n위  원                       (인)\n위  원                       (인)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123209",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967455",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123205",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967451",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123209",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967455",
           "name": "",
           "file_store_url": ""
         }
@@ -2983,17 +3004,17 @@
       "content": "[별지 제26호 서식]\n수탁 심의 소견서\n┌───────────┐\n│ □ 수탁 심의자료     │\n├────┬┬────┬┤\n│자 료 명││수   량 ││\n├────┼┼────┼┤\n│자료유형││기록내용││\n│        │├────┼┤\n│        ││기록시기││\n├────┼┼────┼┤\n│소장자  ││생년월일││\n├────┼┴────┴┤\n│주    소│            │\n├────┴──────┤\n│□ 심의내용           │\n├────┬──────┤\n│수탁여부│수탁가능(    ),    수탁불가(    )│\n├────┼──────┤\n│평가의견│※ 자료의 특징 및 가치, 전시 및 학술 연구에의 활용도를 중심으로 기술│\n│        │            │\n│        │            │\n│        │            │\n│        │            │\n│        │            │\n│        │            │\n│        │            │\n├────┼──────┤\n│기타의견│            │\n└────┴──────┘\n위와 같이 평가함을 확인합니다.\n년    월    일\n수 탁 심 의 위 원\n소속 :                직위 :                성명 :               (서명)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123215",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967461",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123211",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967457",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123215",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967461",
           "name": "",
           "file_store_url": ""
         }
@@ -3014,17 +3035,17 @@
       "content": "[별지 제27호 서식]\n제 20ㅇㅇ-ㅇㅇ 호\n기  탁  증  서\n\n기 탁 자:\n기탁기간:\n기탁내역:\n┌────┬───┬────┬──┐\n│명  칭  │수 량 │크   기 │사진│\n├────┼───┼────┼──┤\n│        │      │        │    │\n├────┴───┴────┴──┤\n│합계 :        건       점       │\n└────────────────┘\n귀하가 기탁 의뢰한 위 자료를 「국립국악원 국악박물관 운영규정」 중 기탁 및 수탁에 관한 규정(제4장 제6절)에 따라, 위의 기간 동안 정히 보관합니다.\n년      월      일\n\n국립국악원장 ㅇ ㅇ ㅇ",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123221",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967467",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123217",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967463",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123221",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967467",
           "name": "",
           "file_store_url": ""
         }
@@ -3045,17 +3066,17 @@
       "content": "[별지 제28호 서식]\n기탁 기간 연장 신청서\n┏━━┯━━━━━━┯━━┯━━━┯━━━┓\n┃연번│기탁품 명칭 │수량│크  기│비  고┃\n┠──┼──────┼──┼───┼───┨\n┃    │            │    │      │      ┃\n┠──┼──────┼──┼───┼───┨\n┃    │            │    │      │      ┃\n┗━━┷━━━━━━┷━━┷━━━┷━━━┛\n1. 「국립국악원 국악박물관 운영규정」 중 기탁 및 수탁에 관한 규정(제4장 제6절)에 따라 위 자료의 기탁 기간 연장을 신청합니다.\n연장 신청 사유:\n신청 연장 기간:\n2. 본인은 기탁 연장 기간 중 국립국악원에서 위의 자료를 활용(전시와 연구)하는 것에 동의합니다.\n3. ??국립국악원 국악박물관 운영규정??에 따른 기탁 절차 진행을 위해 본인의 개인정보를 제공하는 것에 동의합니다.\n년     월     일\n이  름(단체명):                       (인)\n생 년 월 일 :\n(사업자등록번호)\n주        소 :\n전 화 번 호 :\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃기탁 후계인 또는 기탁 대리인 연락처 및 개인정보 제공 동의서                                 ┃\n┠──────────────────────────────────────────────┨\n┃ 이름:                                   생년월일:                                          ┃\n┃ 주소:                                   전화번호:                                          ┃\n┠──────────────────────────────────────────────┨\n┃ㅇ 개인정보보호법 제15조 1항(개인정보의 수집·이용)에 의거하여 위와 같이 본인의 개인정보를  ┃\n┃수집·이용하는 데에 동의하십니까? (예□ / 아니오□)    서명                  (인)           ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n국 립 국 악 원 장  귀하\n위 개인정보는 기탁에 관한 제반 절차에 활용되며, 관련문서 보유기간에 함께 보관됩니다.\n귀하는 개인정보의 수집 및 활용을 거부할 수 있습니다. 이 경우 상기 물품의 기탁 처리가 불가하오니 이 점 양해하여 주시기 바랍니다.",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123227",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967473",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123223",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967469",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123227",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967473",
           "name": "",
           "file_store_url": ""
         }
@@ -3076,17 +3097,17 @@
       "content": "[별지 제29호 서식]\n영 수 증\n┏━━━━┯━━━┯┓\n┃<사  진>│명  칭│┃\n┃        ├───┼┨\n┃        │수  량│┃\n┃        ├───┼┨\n┃        │크  기│┃\n┃        ├───┼┨\n┃        │비  고│┃\n┗━━━━┷━━━┷┛\n1. 국립국악원에 기탁하였던 위 자료을 정히 영수합니다.\n2. ??국립국악원 국악박물관 운영규정??에 따른 기탁품 반환 절차 진행을 위해 본인의\n\n개인정보를 제공하는 것에 동의합니다.\n년     월     일\n이  름(단체명):                       (인)\n생 년 월 일 :\n(사업자등록번호)\n주        소 :\n전        화 :\n국 립 국 악 원 장  귀하\n위 개인정보는 기증에 관한 제반 절차에 활용되며, 관련문서 보유기간에 함께 보관됩니다.\n귀하는 개인정보의 수집 및 활용을 거부할 수 있습니다. 이 경우 상기 기탁품 반환 처리가 불가하오니 이 점 양해하여 주시기 바랍니다.",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123233",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967479",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123229",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967475",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123233",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967479",
           "name": "",
           "file_store_url": ""
         }
@@ -3107,17 +3128,17 @@
       "content": "[별지 제30호 서식]\n유 물 평 가 서\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃ □ 평가자료                                                                ┃\n┠─────┬┬────┬┬────┬────────────────────┨\n┃관리번호  ││명칭    ││수량    │                                        ┃\n┠─────┼┼────┼┼────┼────────────────────┨\n┃크기(㎝)  ││유형?재││추정시대│                                        ┃\n┃          ││질      ││        │                                        ┃\n┣━━━━━┷┷━━━━┷┷━━━━┷━━━━━━━━━━━━━━━━━━━━┫\n┃ □ 심의내용                                                                ┃\n┠─────┬────────────────────────────────┨\n┃시대      │                                                                ┃\n┃감정 결과 │                                                                ┃\n┠─────┼────────────────────────────────┨\n┃감정가액  │                                                                ┃\n┠─────┼────────────────────────────────┨\n┃선정여부  │적격(     ),     부적격(     )                                  ┃\n┠─────┼────────────────────────────────┨\n┃평가의견  │※ 자료의 특징 및 가치, 전시 및 학술 연구에의 활용도를 중심으로 ┃\n┃          │기술                                                            ┃\n┃          │                                                                ┃\n┃          │                                                                ┃\n┃          │                                                                ┃\n┃          │                                                                ┃\n┃          │                                                                ┃\n┃          │                                                                ┃\n┠─────┴────────────────────────────────┨\n┃                                                                            ┃\n┃위와 같이 평가합니다.                                                       ┃\n┃년    월    일                                                              ┃\n┃국 악 유 물 선 정 위 원 회                                                  ┃\n┃                위 원 장            (서명)                                  ┃\n┃위 원            (서명)                                                     ┃\n┃위 원            (서명)                                                     ┃\n┃위 원            (서명)                                                     ┃\n┃위 원            (서명)                                                     ┃\n┃위 원            (서명)                                                     ┃\n┃위 원            (서명)                                                     ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123239",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967485",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123235",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967481",
           "name": "",
           "file_store_url": ""
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158123239",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170967485",
           "name": "",
           "file_store_url": ""
         }
@@ -3132,43 +3153,35 @@
   ],
   "attachments": [
     {
-      "name": "(전문)국립국악원 국악박물관 운영규정.hwp",
-      "url": "http://law.go.kr/flDownload.do?flSeq=158122053",
-      "filename": "(전문)국립국악원 국악박물관 운영규정.hwp",
+      "name": "국립국악원 국악박물관 운영규정 전문(261023).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=170956311",
+      "filename": "국립국악원 국악박물관 운영규정 전문(261023).hwpx",
       "file_dir": "첨부파일",
-      "local_path": "첨부파일/(전문)국립국악원 국악박물관 운영규정.hwp",
-      "file_store_url": ""
-    },
-    {
-      "name": "(전문)국립국악원 국악박물관 운영규정.pdf",
-      "url": "http://law.go.kr/flDownload.do?flSeq=158122057",
-      "filename": "(전문)국립국악원 국악박물관 운영규정.pdf",
-      "file_dir": "첨부파일",
-      "local_path": "첨부파일/(전문)국립국악원 국악박물관 운영규정.pdf",
+      "local_path": "첨부파일/국립국악원 국악박물관 운영규정 전문(261023).hwpx",
       "file_store_url": ""
     }
   ],
   "ordinance_delegations": [],
   "relation_mode": "no_crawl",
   "relation_stats": {
-    "relations_total": 63,
+    "relations_total": 64,
     "by_category": {
       "행정규칙": 46,
-      "법령": 17
+      "법령": 18
     },
     "by_relation_type": {
       "internal_ref": 14,
-      "citation": 17,
+      "citation": 18,
       "appendix_ref": 32
     },
     "articles_total": 58,
-    "articles_with_relations": 29,
+    "articles_with_relations": 30,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 6,
     "appendices_count": 30,
-    "attachments_count": 2
+    "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/국립국악원 국악박물관 운영규정"
