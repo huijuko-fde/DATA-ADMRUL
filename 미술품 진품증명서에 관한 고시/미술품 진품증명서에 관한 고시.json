@@ -1,0 +1,319 @@
+{
+  "law_id": "98590",
+  "mst": "2100000287516",
+  "law_name": "미술품 진품증명서에 관한 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:98590",
+  "promulgation_no": "2026-46",
+  "promulgation_date": "20261029",
+  "enforcement_date": "20261029",
+  "revision_date": "20261029",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "문화체육관광부(문화체육관광부)",
+    "담당자명": "최한슬",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "미술품 진품증명서에 관한 고시",
+    "발령일자": "20261029",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "문화체육관광부",
+    "전화번호": "044-203-2747",
+    "제개정구분명": "제정",
+    "소관부처코드": "1371000",
+    "생성일자": "20261030",
+    "행정규칙ID": "98590",
+    "시행일자": "20261029",
+    "담당부서기관코드": "1371000",
+    "발령번호": "2026-46",
+    "행정규칙일련번호": "2100000287516",
+    "상위부처명": "문화체육관광부"
+  },
+  "amendment_text": "",
+  "revision_reason": "1. 목적 (제1조)\n◇ 제ㆍ개정 이유\nㅇ 「미술진흥법」제16조제3항 및 같은 법 시행령 제10조제2항에 따라 작가 또는 미술 서비스업자가 발행하는 진품증명서의 서식과 기재사항을 정하기 위함임\n◇ 제ㆍ개정 내용\n[그림]\n\n2. 정의(제2조)\n◇ 제ㆍ개정 이유\nㅇ 본 고시에서 사용하는 용어를 정의함\n◇ 제ㆍ개정 내용\n[그림]\n\n3. 진품증명서의 서식 및 기재사항(제3조)\n◇ 제ㆍ개정 이유\nㅇ 미술품 진품증명서의 서식과 기재사항을 규정\n◇ 제ㆍ개정 내용\n[그림]\n\n4. 관계부처 협의회(제4조)\n◇ 제ㆍ개정 이유\nㅇ미술품증명서에 갈음하는 증명서의 종류를 규정\n◇ 제ㆍ개정 내용\n[그림]\n\n5. 재검토기한 (제5조)\n◇ 제ㆍ개정 이유\nㅇ 고시의 재검토기한을 규정함\n◇ 제ㆍ개정 내용\n[그림]\n",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제1조(목적) 이 고시는 「미술진흥법」 제16조제3항, 같은 법 시행령 제10조제2항에 따른 진품증명서의 서식 및 기재사항, 진품증명서에 갈음하는 증명서를 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제16조제3항",
+            "line_text": "",
+            "target_law_name": "미술진흥법",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "98590",
+            "target_url": "https://www.law.go.kr/법령/미술진흥법/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:미술품진품증명서에관한고시#JO0001",
+            "reference_id": "law:미술진흥법#JO0016",
+            "target_repo": "LAW",
+            "target_git_path_guess": "미술진흥법/법률/미술진흥법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "미술진흥법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "98590",
+            "target_url": "https://www.law.go.kr/법령/미술진흥법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:미술품진품증명서에관한고시#JO0001",
+            "reference_id": "law:미술진흥법시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "미술진흥법/시행령/미술진흥법 시행령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제10조제2항",
+            "line_text": "",
+            "target_law_name": "미술진흥법 시행령",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "98590",
+            "target_url": "https://www.law.go.kr/법령/미술진흥법 시행령/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:미술품진품증명서에관한고시#JO0001",
+            "reference_id": "law:미술진흥법시행령#JO0010",
+            "target_repo": "LAW",
+            "target_git_path_guess": "미술진흥법/시행령/미술진흥법 시행령.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:미술품진품증명서에관한고시#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제2조(정의) 이 고시에서 사용하는 용어의 뜻은 다음과 같다.1. \"미술 서비스업자\"란 「미술진흥법」에 따라 신고하고 미술 서비스업을 하는 자를 말한다.2. \"진품증명서\"란 작가 또는 미술 서비스업자가 미술품이 진품임을 확인하고 기본정보에 포함된 사항을 보증하는 문서를 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「미술진흥법」",
+            "line_text": "",
+            "target_law_name": "미술진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "98590",
+            "target_url": "https://www.law.go.kr/법령/미술진흥법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:미술품진품증명서에관한고시#JO0002",
+            "reference_id": "law:미술진흥법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "미술진흥법/법률/미술진흥법.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:미술품진품증명서에관한고시#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "진품증명서의 서식 및 기재사항",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제3조(진품증명서의 서식 및 기재사항) ① 작가 또는 미술 서비스업자로부터 미술품을 구매한 자는 해당 작가 또는 미술 서비스업자에게 진품증명서의 발행을 요구할 수 있다. 작가 또는 미술 서비스업자는 거짓으로 진품증명서를 발행하여서는 안 된다.② 작가 또는 미술 서비스업자가 미술품을 구매한 자의 요구에 따라 발행하는 진품증명서의 서식은 별지 제1호와 같다.③ 진품증명서에는 다음 각 호의 사항을 포함한다.1. 작품의 기본정보가. 작가명나. 작품명다. 제작연도라. 매체 및 기법(판화 등 복수 제작이 가능한 경우 에디션 번호 추가)마. 작품규격바. 작품 이미지2. 보증내용3. 구매일자, 구매처4. 발행일자5. 발행주체의 명칭 및 서명ㆍ날인(단, 발행주체가 미술 서비스업자인 경우, 작가의 서명ㆍ날인을 포함한다)6. 발행주체의 주소 및 연락처7. 문서의 고유번호④ 작가 또는 미술 서비스업자는 진품증명서에 다음 각 호의 사항을 포함할 수 있다.1. 작품의 소장 이력, 경매 출품 이력, 출판 기록, 전시 이력 등 과거 이력2. 작품 내 서명의 위치와 형태, 작품의 보존 상태나 수리 이력, 작품의 독특한 특징 등 작품을 특정할 수 있는 세부사항3. 구매자 정보 및 구매가격",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:미술품진품증명서에관한고시#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "진품증명서에 갈음하는 증명서",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제4조(진품증명서에 갈음하는 증명서) ① 법 제16조제2항의 진품증명서에 갈음하는 증명서란 다음 각 호의 서류를 의미한다.1. 법 제15조제6항제4호에 따라 미술품 감정업을 하는 자가 발급한 감정서2. 법 제15조제5항제1호에 따라 화랑업, 미술품 경매업, 미술품 자문업 또는 미술품 대여ㆍ판매업을 하는 자가 관리하는 미술품 유통 내역으로서, 작가로부터의 소유권 이전을 확인할 수 있는 서류3. 해당 작품이 진품임을 증명하기 위해 미술 서비스업자가 발급하는 서류로서, 제3조제3항 각 호의 사항을 포함한 것(단, 작가 서명ㆍ날인을 받기 어려운 경우 이를 제외할 수 있다.)② 작가 또는 미술 서비스업자는 제1항에 따른 진품증명서에 갈음하는 증명서를 발행할 경우, 진품증명서를 발행할 수 없음을 증명할 수 있는 서류를 함께 발행하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:미술품진품증명서에관한고시#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제5조(재검토기한) 문화체육관광부장관은 이 고시에 대하여 「행정규제기본법」 및 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2027년 1월 1일을 기준으로 3년마다(매 3년이 되는 해의 1월 1일 전까지를 말한다) 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「행정규제기본법」",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "98590",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:미술품진품증명서에관한고시#JO0005",
+            "reference_id": "law:행정규제기본법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "행정규제기본법/법률/행정규제기본법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "98590",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:미술품진품증명서에관한고시#JO0005",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정/훈령ㆍ예규 등의 발령 및 관리에 관한 규정.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:미술품진품증명서에관한고시#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20261029",
+      "promulgation_no": "2026-46",
+      "content": "부칙 <제2026-46호, 2026. 10. 29.>이 고시는 공포한 날부터 시행한다.",
+      "provision_id": "admrul:미술품진품증명서에관한고시#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2100000287516",
+      "source_version_uid": "",
+      "source_revision_type": "제정",
+      "version_enforcement_date": "20261029"
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "진품증명서 서식",
+      "enforcement_date": "",
+      "content": "■ 미술품 진품증명서에 관한 고시 [별지 제1호 서식]\n진품증명서 서식\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃고유번호: (발급주체명) 2026-000000                                                        ┃\n┃  1. 작품 이미지                                                                          ┃\n┃  ┌┐                                                                                    ┃\n┃  ││                                                                                    ┃\n┃  └┘                                                                                    ┃\n┃                                                                                          ┃\n┃  2. 작품정보                                                                             ┃\n┃   ┌──────┬──────────────────────────────────┐ ┃\n┃   │작가명      │                                                                    │ ┃\n┃   ├──────┼──────────────────────────────────┤ ┃\n┃   │작품명      │                                                                    │ ┃\n┃   ├──────┼──────────────────────────────────┤ ┃\n┃   │제 작 연 도 │                                                                    │ ┃\n┃   ├──────┼──────────────────────────────────┤ ┃\n┃   │매체 및 기법│(판화 등 복수 제작이 가능한 경우 에디션 번호 포함)                  │ ┃\n┃   ├──────┼──────────────────────────────────┤ ┃\n┃   │작품규격    │(단위는 센티미터, 평면 작업은 세로, 가로 순서로, 입체 작업은 높이,  │ ┃\n┃   │            │폭, 깊이 순서로 기재)                                               │ ┃\n┃   └──────┴──────────────────────────────────┘ ┃\n┃  3. 작품의 과거 이력(선택사항)                                                           ┃\n┃   ┌──────────────────────────────┐                       ┃\n┃   │(작품의 소장 이력, 경매 출품 이력, 출판 기록, 전시 이력 등) │                       ┃\n┃   └──────────────────────────────┘                       ┃\n┃  4. 작품 세부사항(선택사항)                                                              ┃\n┃   ┌─────────────────────────────┐                         ┃\n┃   │(작품 내 서명 위치와 형태, 작품의 보존 상태나 수리 이력,  │                         ┃\n┃   │작품의 독특한 특징 등 작품을 특정하는 사항)               │                         ┃\n┃   └─────────────────────────────┘                         ┃\n┃   5. 구매 정보                                                                           ┃\n┃   ┌─────┬─────┐                                                             ┃\n┃   │구매일자  │          │                                                             ┃\n┃   ├─────┼─────┤                                                             ┃\n┃   │구매처    │          │                                                             ┃\n┃   ├─────┼─────┤                                                             ┃\n┃   │구매자정보│(선택사항)│                                                             ┃\n┃   ├─────┼─────┤                                                             ┃\n┃   │구매가격  │(선택사항)│                                                             ┃\n┃   └─────┴─────┘                                                             ┃\n┃                                                                                          ┃\n┃                                                                                          ┃\n┃[작가명/사업자명]은/는 「미술진흥법」 제16조제2항에 따라                                  ┃\n┃위에 기재된 정보에 포함된 사항을 보증하는 진품증명서를 발행합니다.                        ┃\n┃                                                                                          ┃\n┃                                                                                          ┃\n┃  년    월    일                                                                          ┃\n┃                                                                                          ┃\n┃                                                                                          ┃\n┃                                                                                          ┃\n┃[작가] ______________ (서명 또는 인)                                                      ┃\n┃[미술 서비스업자] ______________ (대표자 서명 또는 인)                                    ┃\n┃주소 및 연락처                                                                            ┃\n┃                                                                                          ┃\n┃                                                                                          ┃\n┃                                                                                          ┃\n┃※ 보증이 제한되는 조건이나 범위, 위작으로 판명될 경우의 조치 사항 등 보증의 상세한       ┃\n┃내용은 서면으로 표시된 약관·계약 등을 통해 별도로 정할 수 있으며, 본 증서를 교부하면서   ┃\n┃구매자에게 설명하여야 한다.                                                               ┃\n┃                                                                                          ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171022565",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171022559",
+          "name": "",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171022565",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:미술품진품증명서에관한고시#BJ0001",
+      "filename": "별지1_진품증명서 서식.pdf",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_진품증명서 서식.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "「미술품 진품증명서에 관한 고시」.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=171021381",
+      "filename": "「미술품 진품증명서에 관한 고시」.hwpx",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/「미술품 진품증명서에 관한 고시」.hwpx",
+      "file_store_url": ""
+    },
+    {
+      "name": "「미술품 진품증명서에 관한 고시」.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=171021385",
+      "filename": "「미술품 진품증명서에 관한 고시」.pdf",
+      "file_dir": "첨부파일",
+      "local_path": "첨부파일/「미술품 진품증명서에 관한 고시」.pdf",
+      "file_store_url": ""
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_mode": "no_crawl",
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 5,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 6
+    },
+    "articles_total": 5,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/미술품 진품증명서에 관한 고시"
+  },
+  "provision_id": "admrul:미술품진품증명서에관한고시#DOC",
+  "addendum_provision_id": "admrul:미술품진품증명서에관한고시#ADDENDUM",
+  "amendment_provision_id": "admrul:미술품진품증명서에관한고시#AMENDMENT",
+  "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "미술품 진품증명서에 관한 고시/미술품 진품증명서에 관한 고시.json"
+}
