@@ -842,7 +842,14 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:전기용품및생활용품안전관리운용요령#JO0069"
+        "provision_id": "admrul:전기용품및생활용품안전관리운용요령#JO0069",
+        "scheduled": [
+          {
+            "enforcement_date": "20261101",
+            "change": "삭제",
+            "content": ""
+          }
+        ]
       },
       {
         "article_no": "제70조",
@@ -897,7 +904,14 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "admrul:전기용품및생활용품안전관리운용요령#JO0074"
+        "provision_id": "admrul:전기용품및생활용품안전관리운용요령#JO0074",
+        "scheduled": [
+          {
+            "enforcement_date": "20261101",
+            "change": "삭제",
+            "content": ""
+          }
+        ]
       },
       {
         "article_no": "제75조",
@@ -1363,6 +1377,30 @@
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260826"
+    },
+    {
+      "promulgation_date": "20260401",
+      "promulgation_no": "2026-56",
+      "content": "부칙 <제2026-56호, 2026. 4. 1.>제1조(시행일) 이 고시는 공포한 날부터 시행한다.제2조(안전인증대상전기용품의 안전확인대상전기용품으로의 변경에 관한 경과조치) ① 이 운용요령 시행 전에 종전의 별표 1 제7호가목, 라목, 파목, 거목, 처목에 따른 안전인증대상전기용품[같은 호 터목의 경우에는 가목, 라목, 파목, 거목, 처목과 유사한 기기로 한정한다]으로서 법 제5조제1항에 따른 안전인증 또는 법 제8조제1항에 따른 안전검사를 받은 경우, 법 제6조에 따라 안전인증의 면제를 받은 경우에는 별표 2 제7호호목부터 루목까지의 개정규정에 따른 안전확인대상전기용품으로서 법 제15조제1항에 따른 안전확인신고, 법 제17조제1항에 따른 안전검사 및 법 제16조에 따른 안전확인신고의 면제를 각각 하였거나 받은 것으로 본다.② 이 운용요령 시행 전에 종전의 별표 1 제7호가목, 라목, 파목, 거목, 처목 따른 안전인증대상전기용품[같은 호 터목의 경우에는 가목, 라목, 파목, 거목, 처목과 유사한 기기로 한정한다]으로서 법 제5조제1항에 따른 안전인증 또는 법 제8조제1항에 따른 안전검사를 신청하여 그 절차가 진행 중인 경우에는 별표 2 제7호호목부터 루목까지의 개정규정에 따른 안전확인대상전기용품으로서 법 제15조제1항에 따른 안전확인신고 및 법 제17조제1항에 따른 안전검사를 각각 하거나 신청한 것으로 본다.",
+      "provision_id": "admrul:전기용품및생활용품안전관리운용요령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000283202",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261101",
+      "enforcement_date": "20261101"
+    },
+    {
+      "promulgation_date": "20260731",
+      "promulgation_no": "2026-191",
+      "content": "부칙 <제2026-191호, 2026. 7. 31.>제1조(시행일) 이 고시는 2026년 11월 1일부터 시행한다.제2조(안전확인대상전기용품의 공급자적합성확인대상전기용품으로의 변경에 관한 경과조치) ① 이 운용요령 시행 전에 종전의 별표 2 제10호 타목에 따른 안전확인대상전기용품으로서 법 제15조제1항에 따른 안전확인신고 또는 법 제17조제1항에 따른 안전검사를 받은 경우, 법 제16조에 따라 안전확인신고의 면제를 받은 경우에는 개정규정에 따른 공급자적합성확인대상전기용품으로서 법 제23조에 따른 공급자적합성확인 및 법 제24조에 따른 공급자적합성확인의 면제를 각각 하였거나 받은 것으로 본다.② 운용요령 시행 전에 종전의 별표 2 제10호 타목에 따른 안전확인대상전기용품으로서 법 제15조제1항에 따른 안전확인신고 또는 법 제17조제1항에 따른 안전검사를 신청하여 그 절차가 진행 중인 경우에는 개정규정에 따른 공급자적합성확인대상전기용품으로서 법 제23조에 따른 공급자적합성확인 등을 하거나 신청한 것으로 본다.",
+      "provision_id": "admrul:전기용품및생활용품안전관리운용요령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000283202",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261101",
+      "enforcement_date": "20261101"
     }
   ],
   "appendices": [
@@ -2678,8 +2716,10 @@
   "addendum_provision_id": "admrul:전기용품및생활용품안전관리운용요령#ADDENDUM",
   "amendment_provision_id": "admrul:전기용품및생활용품안전관리운용요령#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261101"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "전기용품 및 생활용품 안전관리 운용요령/전기용품 및 생활용품 안전관리 운용요령.json"
 }
