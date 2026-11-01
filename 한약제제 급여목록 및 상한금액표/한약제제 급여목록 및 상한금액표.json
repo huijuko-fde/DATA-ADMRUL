@@ -1289,6 +1289,18 @@
       "version_enforcement_date": "20260901"
     },
     {
+      "promulgation_date": "20260430",
+      "promulgation_no": "2026-106",
+      "content": "부칙 <제2026-106호, 2026. 4. 30.>이 고시는 2026년 11월 1일부터 시행한다.",
+      "provision_id": "admrul:한약제제급여목록및상한금액표#ADDENDUM",
+      "is_future": true,
+      "source_mst": "2100000278504",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261101",
+      "enforcement_date": "20261101"
+    },
+    {
       "promulgation_date": "20260501",
       "promulgation_no": "2025-175",
       "content": "부칙 <제2025-175호, 2026. 5. 1.>이 고시는 2026년 5월 1일부터 시행한다.",
@@ -1553,8 +1565,10 @@
   "addendum_provision_id": "admrul:한약제제급여목록및상한금액표#ADDENDUM",
   "amendment_provision_id": "admrul:한약제제급여목록및상한금액표#AMENDMENT",
   "is_future": false,
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261101"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "한약제제 급여목록 및 상한금액표/한약제제 급여목록 및 상한금액표.json"
 }
