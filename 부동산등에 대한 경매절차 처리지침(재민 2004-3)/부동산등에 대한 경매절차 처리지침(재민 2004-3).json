@@ -1,16 +1,16 @@
 {
   "law_id": "2111621",
-  "mst": "2200000108241",
+  "mst": "2200000109417",
   "law_name": "부동산등에 대한 경매절차 처리지침(재민 2004-3)",
   "law_abbr": "",
   "law_type": "재판예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
   "adm_uid": "admrul:2111621",
-  "promulgation_no": "1939",
-  "promulgation_date": "20251223",
-  "enforcement_date": "20260101",
-  "revision_date": "20251223",
+  "promulgation_no": "1978",
+  "promulgation_date": "20261030",
+  "enforcement_date": "20261102",
+  "revision_date": "20261030",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,24 +19,24 @@
     "담당자명": "",
     "행정규칙종류코드": "B0013",
     "행정규칙명": "부동산등에 대한 경매절차 처리지침(재민 2004-3)",
-    "발령일자": "20251223",
+    "발령일자": "20261030",
     "행정규칙종류": "재판예규",
     "제개정구분코드": "200403",
     "조문형식여부": "N",
-    "소관부처명": "대법원",
+    "소관부처명": "",
     "전화번호": "",
     "제개정구분명": "일부개정",
     "소관부처코드": "9740000",
-    "생성일자": "20260101",
+    "생성일자": "20261102",
     "행정규칙ID": "2111621",
-    "시행일자": "20260101",
+    "시행일자": "20261102",
     "담당부서기관코드": "",
-    "발령번호": "1939",
-    "행정규칙일련번호": "2200000108241",
+    "발령번호": "1978",
+    "행정규칙일련번호": "2200000109417",
     "상위부처명": "대법원"
   },
-  "amendment_text": "부동산등에 대한 경매절차 처리지침(재민 2004-3) 일부를 다음과 같이 개정한다.\n본문생략\n부 칙\n제1조(시행일) 이 예규는 2026년 1월 1일부터 시행한다.\n제2조(적용례) 이 예규는 이 예규 시행 후 최초로 접수되는 사건부터 적용한다.",
-  "revision_reason": "1. 개정이유\n○ 법원이 「가등기담보 등에 관한 법률」 제16조제1항에 따른 가등기권리자에 대한 최고를 하는 경우 가등기권리자의 주민등록표 상의 주소에도 최고서를 발송할 수 있도록 규정하여 가등기권리자의 권리가 경매절차에서 실질적으로 행사될 수 있도록 개선하고자 함\n2. 주요내용\n○ 법원은 집행관에게 가등기권리자의 등기사항증명서 상의 주소와 주민등록표(법인의 경우 법인등기사항증명서, 이하 같음) 상의 주소가 상이한지 여부를 조사하도록 명할 수 있음(제6조의2 제1항 신설)\n○ 조사결과 등기사항증명서 상의 주소가 주민등록표 상의 주소와 다른 경우에는 주민등록표 상의 주소에도 최고서를 발송하도록 함(제6조의2 제2항 신설)",
+  "amendment_text": "부동산등에 대한 경매절차 처리지침(재민 2004-3) 일부를 다음과 같이 개정한다.\n본문생략\n부 칙\n이 예규는 2026년 11월 2일부터 시행한다.",
+  "revision_reason": "1. 개정이유\n○ 「집행관사무소에 비치할 각종 문서의 양식에 관한 예규」의 개정으로 집행관사무소에 비치할 양식에서 기일입찰표, 기간입찰표, 공동입찰신고서 및 공동입찰자목록이 삭제됨에 따라, 개선된 기일입찰표 등의 사용 근거를 명확히 하고 각급 법원에서 관련 양식을 통일적으로 사용하도록 함으로써 경매절차의 법적 안정성을 확보하고자 함\n2. 주요내용\n○ 제14조의 제목 “(입찰표등의 비치)”를 “(입찰표등의 비치·사용)”으로 변경하고, 기일입찰 관련 전산양식의 비치장소에 “집행관 사무실”을 명시함(제14조 제목 및 제1항)\n○ 기일입찰 및 기간입찰의 경우 입찰관련 전산양식을 “입찰절차에서 사용할 수 있도록 비치하여야 한다.”고 규정하여 양식의 비치와 사용 근거를 명확히 하고, 입찰절차에서 통일적 사용을 도모함(제14조제1항 및 제2항)\n○ 기일입찰표(전산양식 A3360), 기간입찰표(전산양식 A3392), 공동입찰신고서(전산양식 A3364) 및 공동입찰자목록(전산양식 A3365)의 양식을 각각 별지 6부터 별지 9까지 신설함(제14조제4항)",
   "body": {
     "format": "articles",
     "article_count": 65,
@@ -197,10 +197,10 @@
       },
       {
         "article_no": "제14조",
-        "article_title": "입찰표등의 비치",
+        "article_title": "입찰표등의 비치ㆍ사용",
         "chapter": "제2장 매각의 준비",
         "chapter_path": "제2장 매각의 준비",
-        "content": "제14조 (입찰표등의 비치) ① 기일입찰의 경우 집행과 사무실과 경매법정등에는 기일입찰표(전산양식 A3360), 매수신청보증봉투(전산양식 A3361), 기일입찰봉투(전산양식 A3362, A3363), 공동입찰신고서(전산양식 A3364), 공동입찰자목록(전산양식 A3365)을 비치하여야 한다.② 기간입찰의 경우 집행과 및 집행관 사무실에 기간입찰표(전산양식 A3392), 기간입찰봉투(전산양식 A3393, A3394), 법원보관금취급규칙의 별지 제7-1호 서식(입금증명서), 공동입찰신고서(전산양식 A3364), 공동입찰자목록(전산양식 A3365)을 비치하여야 한다.③ 기간입찰의 경우 집행과 및 집행관 사무실에 주의사항(전산양식 A3400)과 필요사항을 적은 기간입찰표 견본을 비치하여야 한다.",
+        "content": "제14조 (입찰표등의 비치ㆍ사용) ① 기일입찰의 경우 집행과, 집행관 사무실, 경매법정등에 기일입찰표(전산양식 A3360), 매수신청보증봉투(전산양식 A3361), 기일입찰봉투(전산양식 A3362, A3363), 공동입찰신고서(전산양식 A3364), 공동입찰자목록(전산양식 A3365)을 입찰절차에서 사용할 수 있도록 비치하여야 한다.② 기간입찰의 경우 집행과 및 집행관 사무실에 기간입찰표(전산양식 A3392), 기간입찰봉투(전산양식 A3393, A3394), 법원보관금취급규칙의 별지 제7-1호 서식(입금증명서), 공동입찰신고서(전산양식 A3364), 공동입찰자목록(전산양식 A3365)을 입찰절차에서 사용할 수 있도록 비치하여야 한다.③ 기간입찰의 경우 집행과 및 집행관 사무실에 주의사항(전산양식 A3400)과 필요사항을 적은 기간입찰표 견본을 비치하여야 한다.④ 제1항 및 제2항에 따른 기일입찰표(전산양식 A3360), 기간입찰표(전산양식 A3392), 공동입찰신고서(전산양식 A3364) 및 공동입찰자목록(전산양식 A3365)의 양식은 각각 별지 6, 별지 7, 별지 8 및 별지 9와 같다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -795,12 +795,12 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111621",
-        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791691",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094873",
         "resolve_method": "html",
         "appendix_candidates_count": 2,
         "appendix_file_urls": [
-          "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791691",
-          "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791693"
+          "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094873",
+          "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094875"
         ],
         "source_provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#DOC",
         "target_unit": "BJ0003",
@@ -818,15 +818,20 @@
         "line_text": "",
         "target_law_name": "부동산등에 대한 경매절차 처리지침(재민 2004-3)",
         "target_article_no": "별지7",
-        "target_article_title": "",
+        "target_article_title": "[별지 7] 기간입찰표",
         "appendix_no": "7",
         "appendix_branch": "",
         "appendix_kind": "별지",
-        "appendix_found": false,
+        "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111621",
-        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000108241&bylNo=&bylBrNo=",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094887",
         "resolve_method": "html",
+        "appendix_candidates_count": 2,
+        "appendix_file_urls": [
+          "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094887",
+          "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094889"
+        ],
         "source_provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#DOC",
         "target_unit": "BJ0007",
         "reference_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0007",
@@ -1003,18 +1008,133 @@
         "line_text": "",
         "target_law_name": "부동산등에 대한 경매절차 처리지침(재민 2004-3)",
         "target_article_no": "별지7",
-        "target_article_title": "",
+        "target_article_title": "[별지 7] 기간입찰표",
         "appendix_no": "7",
         "appendix_branch": "",
         "appendix_kind": "별지",
-        "appendix_found": false,
+        "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111621",
-        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000108241&bylNo=&bylBrNo=",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094887",
         "resolve_method": "html",
+        "appendix_candidates_count": 2,
+        "appendix_file_urls": [
+          "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094887",
+          "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094889"
+        ],
         "source_provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#DOC",
         "target_unit": "BJ0007",
         "reference_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0007",
+        "target_repo": "ADMRUL",
+        "target_git_path_guess": "부동산등에 대한 경매절차 처리지침(재민 2004-3)/부동산등에 대한 경매절차 처리지침(재민 2004-3).json"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "행정규칙",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별지 6",
+        "line_text": "",
+        "target_law_name": "부동산등에 대한 경매절차 처리지침(재민 2004-3)",
+        "target_article_no": "별지6",
+        "target_article_title": "[별지 6] 기일입찰표",
+        "appendix_no": "6",
+        "appendix_branch": "",
+        "appendix_kind": "별지",
+        "appendix_found": true,
+        "target_mst": "",
+        "source_admrul_seq": "2111621",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094883",
+        "resolve_method": "html",
+        "appendix_candidates_count": 2,
+        "appendix_file_urls": [
+          "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094883",
+          "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094885"
+        ],
+        "source_provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#DOC",
+        "target_unit": "BJ0006",
+        "reference_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0006",
+        "target_repo": "ADMRUL",
+        "target_git_path_guess": "부동산등에 대한 경매절차 처리지침(재민 2004-3)/부동산등에 대한 경매절차 처리지침(재민 2004-3).json"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "행정규칙",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별지 7",
+        "line_text": "",
+        "target_law_name": "부동산등에 대한 경매절차 처리지침(재민 2004-3)",
+        "target_article_no": "별지7",
+        "target_article_title": "[별지 7] 기간입찰표",
+        "appendix_no": "7",
+        "appendix_branch": "",
+        "appendix_kind": "별지",
+        "appendix_found": true,
+        "target_mst": "",
+        "source_admrul_seq": "2111621",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094887",
+        "resolve_method": "html",
+        "appendix_candidates_count": 2,
+        "appendix_file_urls": [
+          "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094887",
+          "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094889"
+        ],
+        "source_provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#DOC",
+        "target_unit": "BJ0007",
+        "reference_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0007",
+        "target_repo": "ADMRUL",
+        "target_git_path_guess": "부동산등에 대한 경매절차 처리지침(재민 2004-3)/부동산등에 대한 경매절차 처리지침(재민 2004-3).json"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "행정규칙",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별지 8",
+        "line_text": "",
+        "target_law_name": "부동산등에 대한 경매절차 처리지침(재민 2004-3)",
+        "target_article_no": "별지8",
+        "target_article_title": "[별지 8] 공동입찰신고서",
+        "appendix_no": "8",
+        "appendix_branch": "",
+        "appendix_kind": "별지",
+        "appendix_found": true,
+        "target_mst": "",
+        "source_admrul_seq": "2111621",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094891",
+        "resolve_method": "html",
+        "source_provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#DOC",
+        "target_unit": "BJ0008",
+        "reference_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0008",
+        "target_repo": "ADMRUL",
+        "target_git_path_guess": "부동산등에 대한 경매절차 처리지침(재민 2004-3)/부동산등에 대한 경매절차 처리지침(재민 2004-3).json"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "행정규칙",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별지 9",
+        "line_text": "",
+        "target_law_name": "부동산등에 대한 경매절차 처리지침(재민 2004-3)",
+        "target_article_no": "별지9",
+        "target_article_title": "[별지 9] 공동입찰자목록",
+        "appendix_no": "9",
+        "appendix_branch": "",
+        "appendix_kind": "별지",
+        "appendix_found": true,
+        "target_mst": "",
+        "source_admrul_seq": "2111621",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094893",
+        "resolve_method": "html",
+        "source_provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#DOC",
+        "target_unit": "BJ0009",
+        "reference_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0009",
         "target_repo": "ADMRUL",
         "target_git_path_guess": "부동산등에 대한 경매절차 처리지침(재민 2004-3)/부동산등에 대한 경매절차 처리지침(재민 2004-3).json"
       },
@@ -1135,7 +1255,7 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111621",
-        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791689",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094871",
         "resolve_method": "html",
         "source_provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#DOC",
         "target_unit": "BJ0002",
@@ -1160,7 +1280,7 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111621",
-        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791687",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094869",
         "resolve_method": "html",
         "source_provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#DOC",
         "target_unit": "BJ0001",
@@ -1245,12 +1365,12 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111621",
-        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791691",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094873",
         "resolve_method": "html",
         "appendix_candidates_count": 2,
         "appendix_file_urls": [
-          "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791691",
-          "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791693"
+          "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094873",
+          "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094875"
         ],
         "source_provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#DOC",
         "target_unit": "BJ0003",
@@ -1275,7 +1395,7 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111621",
-        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791699",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094881",
         "resolve_method": "html",
         "source_provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#DOC",
         "target_unit": "BJ0005",
@@ -1300,7 +1420,7 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111621",
-        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791689",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094871",
         "resolve_method": "html",
         "source_provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#DOC",
         "target_unit": "BJ0002",
@@ -1325,7 +1445,7 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111621",
-        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791699",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094881",
         "resolve_method": "html",
         "source_provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#DOC",
         "target_unit": "BJ0005",
@@ -1410,7 +1530,7 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111621",
-        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791687",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094869",
         "resolve_method": "html",
         "source_provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#DOC",
         "target_unit": "BJ0001",
@@ -1428,15 +1548,20 @@
         "line_text": "",
         "target_law_name": "부동산등에 대한 경매절차 처리지침(재민 2004-3)",
         "target_article_no": "별지7",
-        "target_article_title": "",
+        "target_article_title": "[별지 7] 기간입찰표",
         "appendix_no": "7",
         "appendix_branch": "",
         "appendix_kind": "별지",
-        "appendix_found": false,
+        "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111621",
-        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000108241&bylNo=&bylBrNo=",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094887",
         "resolve_method": "html",
+        "appendix_candidates_count": 2,
+        "appendix_file_urls": [
+          "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094887",
+          "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094889"
+        ],
         "source_provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#DOC",
         "target_unit": "BJ0007",
         "reference_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0007",
@@ -1480,7 +1605,7 @@
         "appendix_found": true,
         "target_mst": "",
         "source_admrul_seq": "2111621",
-        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791699",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094881",
         "resolve_method": "html",
         "source_provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#DOC",
         "target_unit": "BJ0005",
@@ -1597,10 +1722,10 @@
       "content": "부   칙(2003. 12. 31. 제943호)이 예규는 2004. 1. 1.부터 시행한다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
     },
     {
       "promulgation_date": "20040420",
@@ -1608,10 +1733,10 @@
       "content": "부   칙(2004. 4. 20. 제956호)이 예규는 2004. 5. 1.부터 시행한다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
     },
     {
       "promulgation_date": "20040824",
@@ -1619,10 +1744,10 @@
       "content": "부   칙(2004. 8. 24. 제970호)제1조(시행일) 이 예규는 2004. 9. 1.부터 시행한다.제2조(경과규정) 이 예규는 이 예규 시행당시 법원에 계속 중인 사건에도 적용한다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
     },
     {
       "promulgation_date": "20050601",
@@ -1630,10 +1755,10 @@
       "content": "부   칙(2005. 6. 1. 제1007호)제1조 (시행일) 이 예규는 즉시 시행한다.제2조 (경과규정) 이 예규는 이 예규 시행당시 법원에 계속 중인 사건에도 적용한다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
     },
     {
       "promulgation_date": "20060124",
@@ -1641,10 +1766,10 @@
       "content": "부   칙(2006. 1. 24. 제1047호)제1조(시행일) 이 예규는 2006. 2. 1.부터 시행한다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
     },
     {
       "promulgation_date": "20070108",
@@ -1652,10 +1777,10 @@
       "content": "부   칙(2007. 1. 8. 제1107호)이 예규는 2007. 2. 1.부터 시행한다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
     },
     {
       "promulgation_date": "20070309",
@@ -1663,10 +1788,10 @@
       "content": "부   칙(2007. 3. 9. 제1119호)이 예규는 2007.  3.  19.부터 시행한다. 다만, 제53조제1항제7호의 규정은2007. 4. 20.부터 적용한다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
     },
     {
       "promulgation_date": "20080612",
@@ -1674,10 +1799,10 @@
       "content": "부   칙(2008. 6. 12. 제1230호)이 예규는 2008.  7.  1.부터 시행한다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
     },
     {
       "promulgation_date": "20101021",
@@ -1685,10 +1810,10 @@
       "content": "부   칙(2010. 10. 21. 제1321호)이 예규는 2010. 10. 24.부터 시행한다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
     },
     {
       "promulgation_date": "20101213",
@@ -1696,10 +1821,10 @@
       "content": "부   칙(2010. 12. 13. 제1326호)이 예규는 2010. 12. 13.부터 시행한다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
     },
     {
       "promulgation_date": "20130128",
@@ -1707,10 +1832,10 @@
       "content": "부   칙(2013. 1. 28. 제1427호)이 예규는 2013년 2월 1일부터 시행한다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
     },
     {
       "promulgation_date": "20130604",
@@ -1718,10 +1843,10 @@
       "content": "부   칙(2013. 6. 4. 제1442호)이 예규는 2013년 7월 1일부터 시행한다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
     },
     {
       "promulgation_date": "20150311",
@@ -1729,10 +1854,10 @@
       "content": "부   칙(2015. 3. 11. 제1512호)제1조(시행일) 이 예규는 2015년 3월 23일부터 시행한다.제2조(경과규정) 이 예규는 이 예규 시행 당시 법원에 계속 중인 사건에도 적용한다. 다만, 종전의 규정에 따라 생긴 효력에는 영향을 미치지 않는다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
     },
     {
       "promulgation_date": "20150717",
@@ -1740,10 +1865,10 @@
       "content": "부   칙(2015. 7. 17. 제1540호)제1조(시행일) 이 예규는 2015년 9월 1일부터 시행한다.제2조(경과규정) 이 예규는 이 예규 시행 당시 법원에 계속 중인 사건에도 적용한다. 다만, 종전의 규정에 따라 생긴 효력에는 영향을 미치지 않는다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
     },
     {
       "promulgation_date": "20161220",
@@ -1751,10 +1876,10 @@
       "content": "부   칙(2016. 12. 20. 제1631호)이 예규는 2017년 1월 1일부터 시행한다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
     },
     {
       "promulgation_date": "20191031",
@@ -1762,10 +1887,10 @@
       "content": "부   칙(2019. 10. 31. 제1727호)ⓛ(시행일) 이 예규는 즉시 시행한다.②(경과조치) 이 예규는 이 예규 시행 당시 법원에 계속 중인 사건에도 적용한다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
     },
     {
       "promulgation_date": "20191115",
@@ -1773,10 +1898,10 @@
       "content": "부   칙(2019. 11. 15. 제1728호)ⓛ(시행일) 이 예규는 즉시 시행한다.②(경과조치) 이 예규는 이 예규 시행 당시 법원에 계속 중인 사건에도 적용한다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
     },
     {
       "promulgation_date": "20230629",
@@ -1784,10 +1909,10 @@
       "content": "부   칙(2023. 6. 29. 제1853호)제1조(시행일) 이 예규는 즉시 시행한다.제2조(적용례) 이 예규는 이 예규 시행 당시 법원에 계속 중인 사건에 대해서도 적용한다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
     },
     {
       "promulgation_date": "20251223",
@@ -1795,10 +1920,21 @@
       "content": "부   칙(2025. 12. 23. 제1939호)제1조(시행일) 이 예규는 2026년 1월 1일부터 시행한다.제2조(적용례) 이 예규는 이 예규 시행 후 최초로 접수되는 사건부터 적용한다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
+    },
+    {
+      "promulgation_date": "20261030",
+      "promulgation_no": "1978",
+      "content": "부   칙(2026. 10. 30. 제1978호)이 예규는 2026년 11월 2일부터 시행한다.",
+      "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000109417",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261102"
     },
     {
       "promulgation_date": "99991231",
@@ -1806,10 +1942,10 @@
       "content": "부  칙제1조(시행시기) 이 예규는 2002. 7. 1.부터 시행한다.제2조(구 예규의 폐지) 경매절차개선을 위한 사무처리지침(재민 83-5)(재민 84-1), 부동산등의경매지침(재민 84-12), 부동산등에 대한 입찰실시에 관한 처리지침(재민 93-2), 경매ㆍ입찰 물건명세서의 작성 및 비치시 유의사항(재민 97-9) 및 경락대금 완납후 소유권이전등기의 촉탁시 유의사항(재민 97-12)을 폐지한다. 다만, 민사집행법 부칙과 민사집행규칙 부칙의 규정에 따라 구민사소송법과 구민사소송규칙이 적용되는 집행사건에 대하여는 위 각 예규(재민 93-2 제2조 제1항 제외)를 적용한다.",
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000108241",
+      "source_mst": "2200000109417",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260101"
+      "version_enforcement_date": "20261102"
     }
   ],
   "appendices": [
@@ -1822,11 +1958,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791687",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094869",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791687",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094869",
           "name": "",
           "file_store_url": ""
         }
@@ -1847,11 +1983,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791689",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094871",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791689",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094871",
           "name": "",
           "file_store_url": ""
         }
@@ -1872,11 +2008,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791691",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094873",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791691",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094873",
           "name": "",
           "file_store_url": ""
         }
@@ -1884,10 +2020,10 @@
       "images": [],
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0003",
       "appendix_duplicate_count": 2,
-      "appendix_instance_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0003:file:159791691",
-      "filename": "별지3_[별지 3] 기일입찰표의 유ㆍ무효 처리기준_flSeq159791691.hwp",
+      "appendix_instance_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0003:file:171094873",
+      "filename": "별지3_[별지 3] 기일입찰표의 유ㆍ무효 처리기준_flSeq171094873.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 기일입찰표의 유ㆍ무효 처리기준_flSeq159791691.hwp",
+      "local_path": "별지/별지3_[별지 3] 기일입찰표의 유ㆍ무효 처리기준_flSeq171094873.hwp",
       "file_store_url": ""
     },
     {
@@ -1899,11 +2035,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791693",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094875",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791693",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094875",
           "name": "",
           "file_store_url": ""
         }
@@ -1911,10 +2047,10 @@
       "images": [],
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0003",
       "appendix_duplicate_count": 2,
-      "appendix_instance_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0003:file:159791693",
-      "filename": "별지3_[별지 3] 기일입찰표의 유ㆍ무효 처리기준_flSeq159791693.hwp",
+      "appendix_instance_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0003:file:171094875",
+      "filename": "별지3_[별지 3] 기일입찰표의 유ㆍ무효 처리기준_flSeq171094875.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지3_[별지 3] 기일입찰표의 유ㆍ무효 처리기준_flSeq159791693.hwp",
+      "local_path": "별지/별지3_[별지 3] 기일입찰표의 유ㆍ무효 처리기준_flSeq171094875.hwp",
       "file_store_url": ""
     },
     {
@@ -1926,11 +2062,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791695",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094877",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791695",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094877",
           "name": "",
           "file_store_url": ""
         }
@@ -1938,10 +2074,10 @@
       "images": [],
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0004",
       "appendix_duplicate_count": 2,
-      "appendix_instance_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0004:file:159791695",
-      "filename": "별지4_[별지 4] 기간입찰표의 유ㆍ무효 처리기준_flSeq159791695.hwp",
+      "appendix_instance_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0004:file:171094877",
+      "filename": "별지4_[별지 4] 기간입찰표의 유ㆍ무효 처리기준_flSeq171094877.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지4_[별지 4] 기간입찰표의 유ㆍ무효 처리기준_flSeq159791695.hwp",
+      "local_path": "별지/별지4_[별지 4] 기간입찰표의 유ㆍ무효 처리기준_flSeq171094877.hwp",
       "file_store_url": ""
     },
     {
@@ -1953,11 +2089,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791697",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094879",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791697",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094879",
           "name": "",
           "file_store_url": ""
         }
@@ -1965,10 +2101,10 @@
       "images": [],
       "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0004",
       "appendix_duplicate_count": 2,
-      "appendix_instance_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0004:file:159791697",
-      "filename": "별지4_[별지 4] 기간입찰표의 유ㆍ무효 처리기준_flSeq159791697.hwp",
+      "appendix_instance_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0004:file:171094879",
+      "filename": "별지4_[별지 4] 기간입찰표의 유ㆍ무효 처리기준_flSeq171094879.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지4_[별지 4] 기간입찰표의 유ㆍ무효 처리기준_flSeq159791697.hwp",
+      "local_path": "별지/별지4_[별지 4] 기간입찰표의 유ㆍ무효 처리기준_flSeq171094879.hwp",
       "file_store_url": ""
     },
     {
@@ -1980,11 +2116,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791699",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094881",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159791699",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094881",
           "name": "",
           "file_store_url": ""
         }
@@ -1995,29 +2131,187 @@
       "file_dir": "별지",
       "local_path": "별지/별지5_[별지 5] 보증서의 무효사유.hwp",
       "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지 6] 기일입찰표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094883",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094883",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0006",
+      "appendix_duplicate_count": 2,
+      "appendix_instance_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0006:file:171094883",
+      "filename": "별지6_[별지 6] 기일입찰표_flSeq171094883.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지6_[별지 6] 기일입찰표_flSeq171094883.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지 6] 기일입찰표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094885",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094885",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0006",
+      "appendix_duplicate_count": 2,
+      "appendix_instance_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0006:file:171094885",
+      "filename": "별지6_[별지 6] 기일입찰표_flSeq171094885.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지6_[별지 6] 기일입찰표_flSeq171094885.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지 7] 기간입찰표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094887",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094887",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0007",
+      "appendix_duplicate_count": 2,
+      "appendix_instance_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0007:file:171094887",
+      "filename": "별지7_[별지 7] 기간입찰표_flSeq171094887.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지7_[별지 7] 기간입찰표_flSeq171094887.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지 7] 기간입찰표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094889",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094889",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0007",
+      "appendix_duplicate_count": 2,
+      "appendix_instance_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0007:file:171094889",
+      "filename": "별지7_[별지 7] 기간입찰표_flSeq171094889.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지7_[별지 7] 기간입찰표_flSeq171094889.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지 8] 공동입찰신고서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094891",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094891",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0008",
+      "filename": "별지8_[별지 8] 공동입찰신고서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지8_[별지 8] 공동입찰신고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지 9] 공동입찰자목록",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094893",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171094893",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:부동산등에대한경매절차처리지침(재민2004-3)#BJ0009",
+      "filename": "별지9_[별지 9] 공동입찰자목록.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지9_[별지 9] 공동입찰자목록.hwp",
+      "file_store_url": ""
     }
   ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_mode": "no_crawl",
   "relation_stats": {
-    "relations_total": 38,
+    "relations_total": 42,
     "by_category": {
-      "행정규칙": 28,
+      "행정규칙": 32,
       "법령": 10
     },
     "by_relation_type": {
       "internal_ref": 13,
-      "appendix_ref": 12,
+      "appendix_ref": 16,
       "citation": 13
     },
     "articles_total": 65,
     "articles_with_relations": 0,
-    "unmatched_relations": 38,
+    "unmatched_relations": 42,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 20,
-    "appendices_count": 7,
+    "addenda_count": 21,
+    "appendices_count": 13,
     "attachments_count": 0
   },
   "source": {
